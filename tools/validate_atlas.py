@@ -74,7 +74,7 @@ for source in anchors.get("records", []):
     if not safe_url(url): errors.append(f"Unsafe source URL: {sid} -> {url}")
     if (sid, nid) in record_pair: errors.append(f"Duplicate source-topic association: {sid} -> {nid}")
     record_pair.add((sid,nid))
-    if source.get("source_type") not in ("authored book","recorded lecture"):
+    if source.get("source_type") not in ("authored book","authored essay","recorded lecture"):
         errors.append(f"Unclear source type: {sid}")
     v = source.get("verification", {})
     if v.get("passage_reviewed") and not v.get("url_opened"):
