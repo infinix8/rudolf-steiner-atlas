@@ -3,7 +3,7 @@
 // This app never downloads the full texts or scrapes the source sites.
 // It indexes the project's *own classification* and opens original source pages.
 const $ = (selector) => document.querySelector(selector);
-const state = { data: null, paths: null, nodes: new Map(), parents: new Map(), regions: new Map(), domains: new Map(), selected: null, query: "", domainFilter: "", anchors: null, crosswalk: null, models: null };
+const state = { data: null, paths: null, nodes: new Map(), parents: new Map(), regions: new Map(), domains: new Map(), selected: null, query: "", domainFilter: "", anchors: null, crosswalk: null, models: null, vocabulary: null };
 const html = (input) => String(input ?? "").replace(/[&<>"']/g, (c) => ({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"}[c]));
 const knownSource = (url) => {
   try {
@@ -89,9 +89,12 @@ function renderSearch() {
     .filter((n) => !state.domainFilter || n.id === state.domainFilter || state.domains.get(n.id) === state.domainFilter)
     .map((n) => {
       const title = n.title.toLowerCase();
-      const haystack = (n.id + " " + title + " " + ancestors(n.id).map((a) => a.title).join(" ")).toLowerCase();
+      const synonyms = (state.vocabulary?.terms || []).filter((term) => term.target_id === n.id)
+        .map((term) => term.term.toLowerCase());
+      const haystack = (n.id + " " + title + " " + synonyms.join(" ") + " " +
+        ancestors(n.id).map((a) => a.title).join(" ")).toLowerCase();
       if (!tokens.every((token) => haystack.includes(token))) return null;
-      const score = (title === q ? 100 : 0) + (title.startsWith(q) ? 40 : 0) +
+      const score = (synonyms.includes(q) ? 85 : 0) + (title === q ? 100 : 0) + (title.startsWith(q) ? 40 : 0) +
         (title.includes(q) ? 15 : 0) + (n.id.toLowerCase() === q ? 150 : 0) -
         Math.max(0, ancestors(n.id).length - 2);
       return { node: n, score };
@@ -274,17 +277,18 @@ function render() {
 }
 async function initialize() {
   try {
-    const [taxResponse, pathsResponse, anchorsResponse, crosswalkResponse, modelsResponse] = await Promise.all([
+    const [taxResponse, pathsResponse, anchorsResponse, crosswalkResponse, modelsResponse, vocabularyResponse] = await Promise.all([
       fetch("../taxonomy/taxonomy-v1.json"),
       fetch("study-paths.json"),
       fetch("../research/primary-source-anchors.json"),
       fetch("../research/archive-topic-crosswalk.json"),
-      fetch("../research/concept-models.json")
+      fetch("../research/concept-models.json"),
+      fetch("../research/search-vocabulary.json")
     ]);
-    if ([taxResponse, pathsResponse, anchorsResponse, crosswalkResponse, modelsResponse].some((r) => !r.ok))
+    if ([taxResponse, pathsResponse, anchorsResponse, crosswalkResponse, modelsResponse, vocabularyResponse].some((r) => !r.ok))
       throw new Error("One of the local data files could not be loaded.");
-    [state.data, state.paths, state.anchors, state.crosswalk, state.models] = await Promise.all([
-      taxResponse.json(), pathsResponse.json(), anchorsResponse.json(), crosswalkResponse.json(), modelsResponse.json()
+    [state.data, state.paths, state.anchors, state.crosswalk, state.models, state.vocabulary] = await Promise.all([
+      taxResponse.json(), pathsResponse.json(), anchorsResponse.json(), crosswalkResponse.json(), modelsResponse.json(), vocabularyResponse.json()
     ]);
     indexData(state.data);
     renderNav();
