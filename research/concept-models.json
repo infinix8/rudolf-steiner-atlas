@@ -1,0 +1,274 @@
+{
+  "version": "1.0",
+  "editorial_date": "2026-11-01",
+  "policy": "Research-created structured comparison of Steiner's conceptual schemes. No source text is reproduced. All claims are attributed to the linked original work and remain subject to translation/context review.",
+  "models": [
+    {
+      "id": "model-worldviews-ga151",
+      "title": "Steiner's layered worldview framework (GA 151)",
+      "topic_ids": [
+        "RS-04.01",
+        "RS-04.02",
+        "RS-04.03",
+        "RS-04.06"
+      ],
+      "source": "AS-0007",
+      "source_url": "https://rsarchive.org/Lectures/GA151/English/RSP1991/19140122p02.html",
+      "kind": "correspondence scheme",
+      "status": "located + scheme compared with original lecture, translation not collated",
+      "summary": "Steiner describes not one flat taxonomy but twelve worldview orientations, seven ways of holding or approaching them, three possible tones, and anthropomorphism as a special case. His zodiacal and planetary correspondences are part of his spiritual-cosmological account, not an accepted astronomical or psychological classification.",
+      "sections": [
+        {
+          "title": "Twelve orientations and their symbolic zodiacal correspondences",
+          "columns": [
+            "Orientation",
+            "Correspondence"
+          ],
+          "rows": [
+            [
+              "Idealism",
+              "Aries"
+            ],
+            [
+              "Rationalism",
+              "Taurus"
+            ],
+            [
+              "Mathematism",
+              "Gemini"
+            ],
+            [
+              "Materialism",
+              "Cancer"
+            ],
+            [
+              "Sensationalism",
+              "Leo"
+            ],
+            [
+              "Phenomenalism",
+              "Virgo"
+            ],
+            [
+              "Realism",
+              "Libra"
+            ],
+            [
+              "Dynamism",
+              "Scorpio"
+            ],
+            [
+              "Monadism",
+              "Sagittarius"
+            ],
+            [
+              "Spiritism",
+              "Capricorn"
+            ],
+            [
+              "Pneumatism",
+              "Aquarius"
+            ],
+            [
+              "Psychism",
+              "Pisces"
+            ]
+          ]
+        },
+        {
+          "title": "Seven worldview moods and their symbolic planetary correspondences",
+          "columns": [
+            "Mood",
+            "Correspondence"
+          ],
+          "rows": [
+            [
+              "Gnosis / Gnosticism",
+              "Saturn"
+            ],
+            [
+              "Logicism",
+              "Jupiter"
+            ],
+            [
+              "Voluntarism",
+              "Mars"
+            ],
+            [
+              "Empiricism",
+              "Sun"
+            ],
+            [
+              "Mysticism",
+              "Venus"
+            ],
+            [
+              "Transcendentalism",
+              "Mercury"
+            ],
+            [
+              "Occultism",
+              "Moon"
+            ]
+          ]
+        },
+        {
+          "title": "Three tones and the special case",
+          "columns": [
+            "Designation",
+            "Correspondence"
+          ],
+          "rows": [
+            [
+              "Theism",
+              "Sun"
+            ],
+            [
+              "Intuitionism",
+              "Moon"
+            ],
+            [
+              "Naturalism",
+              "Earth"
+            ],
+            [
+              "Anthropomorphism",
+              "Earth regarded on its own (special case)"
+            ]
+          ]
+        }
+      ],
+      "distinctions": [
+        "Orientation and mood are not synonyms: in Steiner's analogy a worldview mood may occur with different orientations.",
+        "Three tones modify the resulting worldview; anthropomorphism is treated as a separate case.",
+        "12 + 7 + 3 + 1 = 23 named conceptual positions in this lecture; this is not a count of mutually exclusive complete philosophies.",
+        "The zodiac/planet parallels are Steiner's asserted spiritual analogies and not validated empirical correspondences."
+      ]
+    },
+    {
+      "id": "model-constitution-ga009",
+      "title": "Ninefold and sevenfold accounts of the human being (GA 9)",
+      "topic_ids": [
+        "RS-09.01",
+        "RS-09.02",
+        "RS-09.03",
+        "RS-09.04",
+        "RS-09.05",
+        "RS-09.06"
+      ],
+      "source": "AS-0002",
+      "source_url": "https://rsarchive.org/Books/GA009/English/AP1971/GA009_c01.html",
+      "kind": "two related enumeration schemes",
+      "status": "located + schema compared with original chapter; translation variants not collated",
+      "summary": "In Theosophy, Steiner presents body, soul and spirit as different aspects of the human being, lists nine members, and then explains a condensed sevenfold presentation in the earthly person. These are related but not interchangeable with the later physiological threefold organization of nerve-sense, rhythmic and metabolic-limb activities.",
+      "sections": [
+        {
+          "title": "Ninefold enumeration",
+          "columns": [
+            "No.",
+            "Member in GA 9"
+          ],
+          "rows": [
+            [
+              "1",
+              "Physical body"
+            ],
+            [
+              "2",
+              "Ether / life body"
+            ],
+            [
+              "3",
+              "Soul body"
+            ],
+            [
+              "4",
+              "Sentient soul"
+            ],
+            [
+              "5",
+              "Intellectual soul"
+            ],
+            [
+              "6",
+              "Consciousness soul"
+            ],
+            [
+              "7",
+              "Spirit self"
+            ],
+            [
+              "8",
+              "Life spirit"
+            ],
+            [
+              "9",
+              "Spirit man"
+            ]
+          ]
+        },
+        {
+          "title": "Sevenfold condensation",
+          "columns": [
+            "No.",
+            "Member in GA 9"
+          ],
+          "rows": [
+            [
+              "1",
+              "Physical body"
+            ],
+            [
+              "2",
+              "Etheric or life body"
+            ],
+            [
+              "3",
+              "Sentient soul body (soul body + sentient soul)"
+            ],
+            [
+              "4",
+              "Intellectual soul"
+            ],
+            [
+              "5",
+              "Spirit-filled consciousness soul (consciousness soul + spirit self)"
+            ],
+            [
+              "6",
+              "Life spirit"
+            ],
+            [
+              "7",
+              "Spirit man"
+            ]
+          ]
+        }
+      ],
+      "distinctions": [
+        "The earthly sevenfold account combines the ninefold items 3–4 and items 6–7 as paired unities; do not arbitrarily discard other members.",
+        "Fourfold human constitution (physical, etheric, astral, I) is another classification context and should be studied without conflating it with the ninefold enumeration.",
+        "The threefold physiological organization discussed in education and medicine is a separate schema; cross-link rather than merge these branches.",
+        "Terms and enumerations can differ across translations and lecture contexts; maintain exact work/edition metadata."
+      ]
+    },
+    {
+      "id": "model-triple-systems-ga293",
+      "title": "Distinguishing bodily organization from the ninefold schema",
+      "topic_ids": [
+        "RS-18.02",
+        "RS-19.01"
+      ],
+      "source": "AS-0011",
+      "source_url": "https://rsarchive.org/Lectures/GA293/English/RSP1966/19190905a01.html",
+      "kind": "concept-disambiguation note",
+      "status": "located; needs specialized medicine-source comparison",
+      "summary": "In the education lecture of 5 September 1919, Steiner contrasts the head, chest or trunk, and limb organization of the human bodily form. It should not be mistaken for the physical/etheric/astral members in the fourfold body organization or the ninefold and sevenfold schemas of Theosophy.",
+      "sections": [],
+      "distinctions": [
+        "Do not place 'physical body, etheric body, astral body' as an equivalent list of head, rhythmic/chest, metabolic-limb organization.",
+        "Further compare the educational presentation with original medical lectures before asserting a complete one-to-one correspondence."
+      ]
+    }
+  ]
+}
