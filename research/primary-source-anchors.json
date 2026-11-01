@@ -1,0 +1,206 @@
+{
+  "schema_version": "1.0",
+  "generated": "2026-11-01",
+  "purpose": "Precise external-source jump links and brief editorial subject cues; not a text mirror",
+  "rules": "Do not copy texts, crawl the external archives, or represent a source association as a checked quotation. These URLs were manually opened; chapter-level associations still need full passage-by-passage review.",
+  "records": [
+    {
+      "id": "AS-0001",
+      "topic_id": "RS-01.02",
+      "title": "GA 4 · The Philosophy of Freedom · Chapter 1: Conscious Human Action",
+      "ga": "4",
+      "source_type": "authored book",
+      "source_unit": "chapter",
+      "lecture_date": null,
+      "url": "https://rsarchive.org/Books/GA004/English/RSP1964/GA004_c01.html",
+      "subject_cue": "Question of spiritual freedom and motives for action",
+      "verification": {
+        "url_opened": true,
+        "subject_location": "located",
+        "passage_reviewed": false,
+        "translation_collated": false,
+        "checked_date": "2026-11-01"
+      }
+    },
+    {
+      "id": "AS-0002",
+      "topic_id": "RS-09.04",
+      "title": "GA 9 · Theosophy · The Essential Nature of Man",
+      "ga": "9",
+      "source_type": "authored book",
+      "source_unit": "book chapter",
+      "lecture_date": null,
+      "url": "https://rsarchive.org/Books/GA009/English/AP1971/GA009_c01.html",
+      "subject_cue": "Sentient, intellectual and consciousness soul; body–soul–spirit",
+      "verification": {
+        "url_opened": true,
+        "subject_location": "located",
+        "passage_reviewed": false,
+        "translation_collated": false,
+        "checked_date": "2026-11-01"
+      }
+    },
+    {
+      "id": "AS-0003",
+      "topic_id": "RS-09.06",
+      "title": "GA 9 · Theosophy · The Essential Nature of Man",
+      "ga": "9",
+      "source_type": "authored book",
+      "source_unit": "book chapter",
+      "lecture_date": null,
+      "url": "https://rsarchive.org/Books/GA009/English/AP1971/GA009_c01.html",
+      "subject_cue": "Enumerates ninefold members and the condensed sevenfold account",
+      "verification": {
+        "url_opened": true,
+        "subject_location": "located",
+        "passage_reviewed": false,
+        "translation_collated": false,
+        "checked_date": "2026-11-01"
+      }
+    },
+    {
+      "id": "AS-0004",
+      "topic_id": "RS-09.01",
+      "title": "GA 13 · Occult Science · The Evolution of the Cosmos and Man",
+      "ga": "13",
+      "source_type": "authored book",
+      "source_unit": "chapter",
+      "lecture_date": null,
+      "url": "https://rsarchive.org/Books/GA013/English/AP1972/GA013_c04.html",
+      "subject_cue": "Four members of human nature and their evolution",
+      "verification": {
+        "url_opened": true,
+        "subject_location": "located",
+        "passage_reviewed": false,
+        "translation_collated": false,
+        "checked_date": "2026-11-01"
+      }
+    },
+    {
+      "id": "AS-0005",
+      "topic_id": "RS-06.01",
+      "title": "GA 13 · Occult Science · The Evolution of the Cosmos and Man",
+      "ga": "13",
+      "source_type": "authored book",
+      "source_unit": "chapter",
+      "lecture_date": null,
+      "url": "https://rsarchive.org/Books/GA013/English/AP1972/GA013_c04.html",
+      "subject_cue": "Account of Saturn, Sun, Moon and Earth stages",
+      "verification": {
+        "url_opened": true,
+        "subject_location": "located",
+        "passage_reviewed": false,
+        "translation_collated": false,
+        "checked_date": "2026-11-01"
+      }
+    },
+    {
+      "id": "AS-0006",
+      "topic_id": "RS-06.03",
+      "title": "GA 13 · Occult Science · The Evolution of the Cosmos and Man",
+      "ga": "13",
+      "source_type": "authored book",
+      "source_unit": "chapter",
+      "lecture_date": null,
+      "url": "https://rsarchive.org/Books/GA013/English/AP1972/GA013_c04.html",
+      "subject_cue": "Development of the human constitution through cosmic evolution",
+      "verification": {
+        "url_opened": true,
+        "subject_location": "located",
+        "passage_reviewed": false,
+        "translation_collated": false,
+        "checked_date": "2026-11-01"
+      }
+    },
+    {
+      "id": "AS-0007",
+      "topic_id": "RS-04.01",
+      "title": "GA 151 · Human and Cosmic Thought · Lecture Three",
+      "ga": "151",
+      "source_type": "recorded lecture",
+      "source_unit": "lecture",
+      "lecture_date": "1914-01-22",
+      "url": "https://rsarchive.org/Lectures/GA151/English/RSP1991/19140122p02.html",
+      "subject_cue": "Names twelve worldviews and compares them with the zodiac",
+      "verification": {
+        "url_opened": true,
+        "subject_location": "located",
+        "passage_reviewed": false,
+        "translation_collated": false,
+        "checked_date": "2026-11-01"
+      }
+    },
+    {
+      "id": "AS-0008",
+      "topic_id": "RS-04.06",
+      "title": "GA 151 · Human and Cosmic Thought · Lecture Three",
+      "ga": "151",
+      "source_type": "recorded lecture",
+      "source_unit": "lecture",
+      "lecture_date": "1914-01-22",
+      "url": "https://rsarchive.org/Lectures/GA151/English/RSP1991/19140122p02.html",
+      "subject_cue": "Relation of worldviews and cosmic analogies",
+      "verification": {
+        "url_opened": true,
+        "subject_location": "located",
+        "passage_reviewed": false,
+        "translation_collated": false,
+        "checked_date": "2026-11-01"
+      }
+    },
+    {
+      "id": "AS-0009",
+      "topic_id": "RS-19.01",
+      "title": "GA 293 · The Study of Man · Lecture II",
+      "ga": "293",
+      "source_type": "recorded lecture",
+      "source_unit": "lecture",
+      "lecture_date": "1919-08-22",
+      "url": "https://rsarchive.org/Lectures/19190822a01.html",
+      "subject_cue": "Psychology and conception of teaching in Steiner's approach",
+      "verification": {
+        "url_opened": true,
+        "subject_location": "located",
+        "passage_reviewed": false,
+        "translation_collated": false,
+        "checked_date": "2026-11-01"
+      }
+    },
+    {
+      "id": "AS-0010",
+      "topic_id": "RS-10.02",
+      "title": "GA 293 · The Study of Man · Lecture VII",
+      "ga": "293",
+      "source_type": "recorded lecture",
+      "source_unit": "lecture",
+      "lecture_date": "1919-08-28",
+      "url": "https://rsarchive.org/Lectures/GA293/English/RSP1966/19190828a01.html",
+      "subject_cue": "Thinking, feeling, willing and states of consciousness",
+      "verification": {
+        "url_opened": true,
+        "subject_location": "located",
+        "passage_reviewed": false,
+        "translation_collated": false,
+        "checked_date": "2026-11-01"
+      }
+    },
+    {
+      "id": "AS-0011",
+      "topic_id": "RS-19.01",
+      "title": "GA 293 · The Study of Man · Lecture XIV",
+      "ga": "293",
+      "source_type": "recorded lecture",
+      "source_unit": "lecture",
+      "lecture_date": "1919-09-05",
+      "url": "https://rsarchive.org/Lectures/GA293/English/RSP1966/19190905a01.html",
+      "subject_cue": "Threefold human form discussed in pedagogical context",
+      "verification": {
+        "url_opened": true,
+        "subject_location": "located",
+        "passage_reviewed": false,
+        "translation_collated": false,
+        "checked_date": "2026-11-01"
+      }
+    }
+  ]
+}
