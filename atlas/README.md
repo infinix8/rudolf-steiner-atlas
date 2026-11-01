@@ -27,7 +27,7 @@ The prototype runs entirely in the browser with no external JavaScript packages 
 
 ## Limitations
 
-No real full-text search, automatic harvesting, AI-generated summaries of uncited text, search-by-original-term synonyms or public deployment yet. The source site retains the original text. For research policy see [complementary architecture](../docs/COMPLEMENTARY_ARCHITECTURE.md).
+No real full-text search, automatic harvesting, AI-generated summaries of uncited text, systematic multilingual term indexing or public deployment yet. The source site retains the original text. For research policy see [complementary architecture](../docs/COMPLEMENTARY_ARCHITECTURE.md).
 
 ## Validate
 
@@ -36,3 +36,7 @@ python tools/validate_taxonomy.py
 python tools/validate_atlas.py
 node --check atlas/app.js
 ```
+
+## Additional features
+
+19 located-but-not-fully-reviewed original source links; 14 archive-topic bridges; 41 controlled alternative search phrases; and 3 source-linked comparison models (GA 9, GA 151 and GA 293).
