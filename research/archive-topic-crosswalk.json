@@ -1,0 +1,197 @@
+{
+  "version": "1.0",
+  "checked_on": "2026-11-01",
+  "purpose": "Crosswalk from the 14 existing RS Archive topic pages to our finer editorial thematic domains, without copying archive entries.",
+  "editorial_notice": "Mapping is our research classification and is not represented as endorsed by or published by RS Archive. RS Archive's topic pages remain the canonical lists.",
+  "archive_topics_url": "https://rsarchive.org/Topics.html",
+  "topics": [
+    {
+      "title": "Architecture",
+      "url": "https://rsarchive.org/Architecture/",
+      "atlas_domains": [
+        "23",
+        "22"
+      ],
+      "relationship": "overlaps; not necessarily comprehensive or one-to-one",
+      "url_status": "opened using public archive index"
+    },
+    {
+      "title": "The Arts",
+      "url": "https://rsarchive.org/Arts/",
+      "atlas_domains": [
+        "22",
+        "23",
+        "24"
+      ],
+      "relationship": "overlaps; not necessarily comprehensive or one-to-one",
+      "url_status": "opened using public archive index"
+    },
+    {
+      "title": "Biodynamics",
+      "url": "https://rsarchive.org/Biodynamics/",
+      "atlas_domains": [
+        "20",
+        "07"
+      ],
+      "relationship": "overlaps; not necessarily comprehensive or one-to-one",
+      "url_status": "opened using public archive index"
+    },
+    {
+      "title": "The Calendar of the Soul",
+      "url": "https://rsarchive.org/COTS/",
+      "atlas_domains": [
+        "25",
+        "10"
+      ],
+      "relationship": "overlaps; not necessarily comprehensive or one-to-one",
+      "url_status": "opened using public archive index"
+    },
+    {
+      "title": "Education",
+      "url": "https://rsarchive.org/Education/",
+      "atlas_domains": [
+        "19",
+        "11",
+        "10"
+      ],
+      "relationship": "overlaps; not necessarily comprehensive or one-to-one",
+      "url_status": "opened using public archive index"
+    },
+    {
+      "title": "Eurythmy",
+      "url": "https://rsarchive.org/Eurythmy/",
+      "atlas_domains": [
+        "24",
+        "18",
+        "19"
+      ],
+      "relationship": "overlaps; not necessarily comprehensive or one-to-one",
+      "url_status": "opened using public archive index"
+    },
+    {
+      "title": "Festivals",
+      "url": "https://rsarchive.org/Festivals/",
+      "atlas_domains": [
+        "25",
+        "13"
+      ],
+      "relationship": "overlaps; not necessarily comprehensive or one-to-one",
+      "url_status": "opened using public archive index"
+    },
+    {
+      "title": "Karma and Reincarnation",
+      "url": "https://rsarchive.org/Karma/",
+      "atlas_domains": [
+        "08",
+        "11"
+      ],
+      "relationship": "overlaps; not necessarily comprehensive or one-to-one",
+      "url_status": "opened using public archive index"
+    },
+    {
+      "title": "Medicine",
+      "url": "https://rsarchive.org/Medicine/",
+      "atlas_domains": [
+        "18",
+        "09"
+      ],
+      "relationship": "overlaps; not necessarily comprehensive or one-to-one",
+      "url_status": "opened using public archive index"
+    },
+    {
+      "title": "Philosophy",
+      "url": "https://rsarchive.org/Philosophy/",
+      "atlas_domains": [
+        "01",
+        "02",
+        "04"
+      ],
+      "relationship": "overlaps; not necessarily comprehensive or one-to-one",
+      "url_status": "opened using public archive index"
+    },
+    {
+      "title": "Practice",
+      "url": "https://rsarchive.org/Practice/",
+      "atlas_domains": [
+        "03",
+        "25"
+      ],
+      "relationship": "overlaps; not necessarily comprehensive or one-to-one",
+      "url_status": "opened using public archive index"
+    },
+    {
+      "title": "Religion",
+      "url": "https://rsarchive.org/Religion/",
+      "atlas_domains": [
+        "13",
+        "14",
+        "16"
+      ],
+      "relationship": "overlaps; not necessarily comprehensive or one-to-one",
+      "url_status": "opened using public archive index"
+    },
+    {
+      "title": "Science",
+      "url": "https://rsarchive.org/Science/",
+      "atlas_domains": [
+        "02",
+        "17",
+        "07"
+      ],
+      "relationship": "overlaps; not necessarily comprehensive or one-to-one",
+      "url_status": "opened using public archive index"
+    },
+    {
+      "title": "Social Issues",
+      "url": "https://rsarchive.org/SocialIssues/",
+      "atlas_domains": [
+        "21",
+        "15"
+      ],
+      "relationship": "overlaps; not necessarily comprehensive or one-to-one",
+      "url_status": "opened using public archive index"
+    }
+  ],
+  "domain_only_paths": [
+    {
+      "domain": "03",
+      "reason": "Atlas subcategories and relationships provide navigation beyond the archive's 14 top-level topic labels; they do not imply absent primary texts."
+    },
+    {
+      "domain": "04",
+      "reason": "Atlas subcategories and relationships provide navigation beyond the archive's 14 top-level topic labels; they do not imply absent primary texts."
+    },
+    {
+      "domain": "05",
+      "reason": "Atlas subcategories and relationships provide navigation beyond the archive's 14 top-level topic labels; they do not imply absent primary texts."
+    },
+    {
+      "domain": "06",
+      "reason": "Atlas subcategories and relationships provide navigation beyond the archive's 14 top-level topic labels; they do not imply absent primary texts."
+    },
+    {
+      "domain": "09",
+      "reason": "Atlas subcategories and relationships provide navigation beyond the archive's 14 top-level topic labels; they do not imply absent primary texts."
+    },
+    {
+      "domain": "10",
+      "reason": "Atlas subcategories and relationships provide navigation beyond the archive's 14 top-level topic labels; they do not imply absent primary texts."
+    },
+    {
+      "domain": "11",
+      "reason": "Atlas subcategories and relationships provide navigation beyond the archive's 14 top-level topic labels; they do not imply absent primary texts."
+    },
+    {
+      "domain": "12",
+      "reason": "Atlas subcategories and relationships provide navigation beyond the archive's 14 top-level topic labels; they do not imply absent primary texts."
+    },
+    {
+      "domain": "15",
+      "reason": "Atlas subcategories and relationships provide navigation beyond the archive's 14 top-level topic labels; they do not imply absent primary texts."
+    },
+    {
+      "domain": "16",
+      "reason": "Atlas subcategories and relationships provide navigation beyond the archive's 14 top-level topic labels; they do not imply absent primary texts."
+    }
+  ]
+}
