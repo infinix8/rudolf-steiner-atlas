@@ -1,0 +1,6139 @@
+{
+  "meta": {
+    "title": "Rudolf Steiner: Thematic Knowledge Tree for an Atlas",
+    "version": "1.0 — breadth-first working taxonomy",
+    "generated": "2026-11-01",
+    "scope": "Steiner’s own published writings, lectures and recorded artistic legacy; no doctrinal contributions from later anthroposophists",
+    "purpose": "Hierarchical classification and cross-reference backbone, not an exhaustive indexing of every individual lecture",
+    "organization": "6 macrodomains > 26 domains > subdomains > concept entries > expanded canonical models",
+    "source_policy": "GA identifiers are representative leads, not passage-level proof. Source links for GA 1-28 and >=50 use standard archive volume paths; some not individually tested. GA 29-46 route to the volume catalogue. Verify each link and add lecture/chapter exact anchors before publication.",
+    "context_policy": "Do not present spiritually asserted claims as independently established science or history; preserve original setting and note historically discriminatory content.",
+    "bibliography_index": "https://rsarchive.org/Volumes.html",
+    "archive_topics": "https://rsarchive.org/Topics.html",
+    "official_catalogue": "https://www.rudolf-steiner.com/en/edition-englisch/complete-works/"
+  },
+  "anchor_evidence": {
+    "RS-09.04": [
+      {
+        "ga": "9",
+        "url": "https://rsarchive.org/Books/GA009/English/AP1971/GA009_c01.html",
+        "type": "authored book chapter",
+        "section": "The Essential Nature of Man"
+      }
+    ],
+    "RS-09.05": [
+      {
+        "ga": "13",
+        "url": "https://rsarchive.org/Books/GA013/English/AP1972/GA013_c04.html",
+        "type": "authored book chapter",
+        "section": "The Evolution of the Cosmos and Man"
+      }
+    ],
+    "RS-06.01": [
+      {
+        "ga": "13",
+        "url": "https://rsarchive.org/Books/GA013/English/AP1972/GA013_c04.html",
+        "type": "authored book chapter",
+        "section": "The Evolution of the Cosmos and Man"
+      }
+    ],
+    "RS-04.01": [
+      {
+        "ga": "151",
+        "url": "https://rsarchive.org/Lectures/GA151/English/RSP1991/19140122p02.html",
+        "type": "lecture transcript",
+        "date": "1914-01-22"
+      }
+    ],
+    "RS-04.02": [
+      {
+        "ga": "151",
+        "url": "https://rsarchive.org/Lectures/GA151/English/RSP1991/19140122p02.html",
+        "type": "lecture transcript",
+        "date": "1914-01-22"
+      }
+    ],
+    "RS-04.03": [
+      {
+        "ga": "151",
+        "url": "https://rsarchive.org/Lectures/GA151/English/RSP1991/19140122p02.html",
+        "type": "lecture transcript",
+        "date": "1914-01-22"
+      }
+    ],
+    "RS-10.04": [
+      {
+        "ga": "170",
+        "url": "https://rsarchive.org/Lectures/GA170/English/RSP1990/19160813p01.html",
+        "type": "lecture transcript",
+        "date": "1916-08-13"
+      }
+    ],
+    "RS-20.04": [
+      {
+        "ga": "327",
+        "url": "https://rsarchive.org/Lectures/GA327/",
+        "type": "lecture volume index",
+        "date": "1924"
+      }
+    ],
+    "RS-25.01": [
+      {
+        "ga": "223",
+        "url": "https://rsarchive.org/Lectures/GA223/",
+        "type": "lecture volume index",
+        "date": "1923"
+      }
+    ],
+    "RS-19.01": [
+      {
+        "ga": "293",
+        "url": "https://rsarchive.org/Lectures/GA293/",
+        "type": "lecture volume index",
+        "date": "1919"
+      }
+    ],
+    "RS-21.02": [
+      {
+        "ga": "340",
+        "url": "https://rsarchive.org/Lectures/GA340/",
+        "type": "lecture volume index",
+        "date": "1922"
+      }
+    ],
+    "RS-18.06": [
+      {
+        "ga": "317",
+        "url": "https://rsarchive.org/Lectures/GA317/",
+        "type": "lecture volume index",
+        "date": "1924"
+      }
+    ]
+  },
+  "tree": [
+    {
+      "id": "I",
+      "title": "Knowledge, Method, and Spiritual Development",
+      "children": [
+        {
+          "id": "01",
+          "title": "Thinking, Knowledge, Logic, and Freedom",
+          "ga": [
+            "4",
+            "3",
+            "2",
+            "21",
+            "78"
+          ],
+          "source_links": [
+            {
+              "ga": "4",
+              "url": "https://rsarchive.org/Books/GA004/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "3",
+              "url": "https://rsarchive.org/Books/GA003/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "2",
+              "url": "https://rsarchive.org/Books/GA002/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "21",
+              "url": "https://rsarchive.org/Books/GA021/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "78",
+              "url": "https://rsarchive.org/Lectures/GA078/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            }
+          ],
+          "children": [
+            {
+              "title": "Nature of knowing",
+              "children": [
+                {
+                  "title": "perception and concept",
+                  "id": "RS-01.01.01"
+                },
+                {
+                  "title": "thinking as an object of observation",
+                  "id": "RS-01.01.02"
+                },
+                {
+                  "title": "knowledge and reality",
+                  "id": "RS-01.01.03"
+                },
+                {
+                  "title": "judgment and intuition",
+                  "id": "RS-01.01.04"
+                },
+                {
+                  "title": "truth and error",
+                  "id": "RS-01.01.05"
+                },
+                {
+                  "title": "science and philosophy",
+                  "id": "RS-01.01.06"
+                }
+              ],
+              "id": "RS-01.01"
+            },
+            {
+              "title": "Theory of freedom",
+              "children": [
+                {
+                  "title": "free action and motives",
+                  "id": "RS-01.02.01"
+                },
+                {
+                  "title": "moral intuition",
+                  "id": "RS-01.02.02"
+                },
+                {
+                  "title": "moral imagination",
+                  "id": "RS-01.02.03"
+                },
+                {
+                  "title": "moral technique",
+                  "id": "RS-01.02.04"
+                },
+                {
+                  "title": "ethical individualism",
+                  "id": "RS-01.02.05"
+                },
+                {
+                  "title": "necessity and freedom",
+                  "id": "RS-01.02.06"
+                }
+              ],
+              "id": "RS-01.02"
+            },
+            {
+              "title": "Ontology of thinking",
+              "children": [
+                {
+                  "title": "idea and percept",
+                  "id": "RS-01.03.01"
+                },
+                {
+                  "title": "living thinking",
+                  "id": "RS-01.03.02"
+                },
+                {
+                  "title": "intellectualism and spiritualized thought",
+                  "id": "RS-01.03.03"
+                },
+                {
+                  "title": "thought and willing",
+                  "id": "RS-01.03.04"
+                },
+                {
+                  "title": "thinking and self-consciousness",
+                  "id": "RS-01.03.05"
+                }
+              ],
+              "id": "RS-01.03"
+            },
+            {
+              "title": "Philosophical dialogue",
+              "children": [
+                {
+                  "title": "Kant and limits of knowledge",
+                  "id": "RS-01.04.01"
+                },
+                {
+                  "title": "German idealism",
+                  "id": "RS-01.04.02"
+                },
+                {
+                  "title": "materialism and idealism",
+                  "id": "RS-01.04.03"
+                },
+                {
+                  "title": "Nietzsche and individualism",
+                  "id": "RS-01.04.04"
+                },
+                {
+                  "title": "nineteenth-century philosophy",
+                  "id": "RS-01.04.05"
+                }
+              ],
+              "id": "RS-01.04"
+            },
+            {
+              "title": "Ethical life",
+              "children": [
+                {
+                  "title": "love of the deed",
+                  "id": "RS-01.05.01"
+                },
+                {
+                  "title": "responsibility and individuality",
+                  "id": "RS-01.05.02"
+                },
+                {
+                  "title": "moral development",
+                  "id": "RS-01.05.03"
+                },
+                {
+                  "title": "overcoming authority-based ethics",
+                  "id": "RS-01.05.04"
+                },
+                {
+                  "title": "ethical activity in community",
+                  "id": "RS-01.05.05"
+                }
+              ],
+              "id": "RS-01.05"
+            }
+          ]
+        },
+        {
+          "id": "02",
+          "title": "Goethean Science and the Foundations of Research",
+          "ga": [
+            "1",
+            "2",
+            "6",
+            "73",
+            "320",
+            "321",
+            "322",
+            "326"
+          ],
+          "source_links": [
+            {
+              "ga": "1",
+              "url": "https://rsarchive.org/Books/GA001/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "2",
+              "url": "https://rsarchive.org/Books/GA002/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "6",
+              "url": "https://rsarchive.org/Books/GA006/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "73",
+              "url": "https://rsarchive.org/Lectures/GA073/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "320",
+              "url": "https://rsarchive.org/Lectures/GA320/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "321",
+              "url": "https://rsarchive.org/Lectures/GA321/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "322",
+              "url": "https://rsarchive.org/Lectures/GA322/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "326",
+              "url": "https://rsarchive.org/Lectures/GA326/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            }
+          ],
+          "children": [
+            {
+              "title": "Goethean observation",
+              "children": [
+                {
+                  "title": "exact sense observation",
+                  "id": "RS-02.01.01"
+                },
+                {
+                  "title": "phenomenon and archetype",
+                  "id": "RS-02.01.02"
+                },
+                {
+                  "title": "judgment without premature theory",
+                  "id": "RS-02.01.03"
+                },
+                {
+                  "title": "epistemology of the organic",
+                  "id": "RS-02.01.04"
+                },
+                {
+                  "title": "intuitive judgment",
+                  "id": "RS-02.01.05"
+                }
+              ],
+              "id": "RS-02.01"
+            },
+            {
+              "title": "Living nature",
+              "children": [
+                {
+                  "title": "plant metamorphosis",
+                  "id": "RS-02.02.01"
+                },
+                {
+                  "title": "animal form",
+                  "id": "RS-02.02.02"
+                },
+                {
+                  "title": "morphology and type",
+                  "id": "RS-02.02.03"
+                },
+                {
+                  "title": "polarity and intensification",
+                  "id": "RS-02.02.04"
+                },
+                {
+                  "title": "organ and organism",
+                  "id": "RS-02.02.05"
+                }
+              ],
+              "id": "RS-02.02"
+            },
+            {
+              "title": "Color and optics",
+              "children": [
+                {
+                  "title": "Goethe's color theory",
+                  "id": "RS-02.03.01"
+                },
+                {
+                  "title": "light and darkness",
+                  "id": "RS-02.03.02"
+                },
+                {
+                  "title": "color phenomena",
+                  "id": "RS-02.03.03"
+                },
+                {
+                  "title": "afterimages",
+                  "id": "RS-02.03.04"
+                },
+                {
+                  "title": "contrast",
+                  "id": "RS-02.03.05"
+                },
+                {
+                  "title": "color experience",
+                  "id": "RS-02.03.06"
+                }
+              ],
+              "id": "RS-02.03"
+            },
+            {
+              "title": "Scientific method",
+              "children": [
+                {
+                  "title": "limits of mechanism",
+                  "id": "RS-02.04.01"
+                },
+                {
+                  "title": "quantitative and qualitative knowledge",
+                  "id": "RS-02.04.02"
+                },
+                {
+                  "title": "experimental phenomena",
+                  "id": "RS-02.04.03"
+                },
+                {
+                  "title": "objectivity and participation",
+                  "id": "RS-02.04.04"
+                },
+                {
+                  "title": "relation between natural and spiritual science",
+                  "id": "RS-02.04.05"
+                }
+              ],
+              "id": "RS-02.04"
+            },
+            {
+              "title": "Historical foundations",
+              "children": [
+                {
+                  "title": "Goethe's scientific writings",
+                  "id": "RS-02.05.01"
+                },
+                {
+                  "title": "critique of materialism",
+                  "id": "RS-02.05.02"
+                },
+                {
+                  "title": "development of the natural sciences",
+                  "id": "RS-02.05.03"
+                },
+                {
+                  "title": "academic knowledge and spiritual science",
+                  "id": "RS-02.05.04"
+                }
+              ],
+              "id": "RS-02.05"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "title": "Esoteric Training, Initiation, and Spiritual Research",
+          "ga": [
+            "10",
+            "12",
+            "13",
+            "16",
+            "17",
+            "95",
+            "145",
+            "266"
+          ],
+          "source_links": [
+            {
+              "ga": "10",
+              "url": "https://rsarchive.org/Books/GA010/",              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "12",
+              "url": "https://rsarchive.org/Books/GA012/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "13",
+              "url": "https://rsarchive.org/Books/GA013/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "16",
+              "url": "https://rsarchive.org/Books/GA016/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "17",
+              "url": "https://rsarchive.org/Books/GA017/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "95",
+              "url": "https://rsarchive.org/Lectures/GA095/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "145",
+              "url": "https://rsarchive.org/Lectures/GA145/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "266",
+              "url": "https://rsarchive.org/Lectures/GA266/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            }
+          ],
+          "children": [
+            {
+              "title": "Preparatory schooling",
+              "children": [
+                {
+                  "title": "reverence and devotion",
+                  "id": "RS-03.01.01"
+                },
+                {
+                  "title": "concentration",
+                  "id": "RS-03.01.02"
+                },
+                {
+                  "title": "inner calm",
+                  "id": "RS-03.01.03"
+                },
+                {
+                  "title": "observation exercises",
+                  "id": "RS-03.01.04"
+                },
+                {
+                  "title": "moral purification",
+                  "id": "RS-03.01.05"
+                },
+                {
+                  "title": "patience and discrimination",
+                  "id": "RS-03.01.06"
+                }
+              ],
+              "id": "RS-03.01"
+            },
+            {
+              "title": "Inner disciplines",
+              "children": [
+                {
+                  "title": "control of thought",
+                  "id": "RS-03.02.01"
+                },
+                {
+                  "title": "initiative in action",
+                  "id": "RS-03.02.02"
+                },
+                {
+                  "title": "equanimity",
+                  "id": "RS-03.02.03"
+                },
+                {
+                  "title": "positivity",
+                  "id": "RS-03.02.04"
+                },
+                {
+                  "title": "open-mindedness",
+                  "id": "RS-03.02.05"
+                },
+                {
+                  "title": "harmony of the six exercises",
+                  "id": "RS-03.02.06"
+                }
+              ],
+              "id": "RS-03.02"
+            },
+            {
+              "title": "Higher cognition",
+              "children": [
+                {
+                  "title": "imagination",
+                  "children": [
+                    {
+                      "title": "Picture-conscious supersensible perception",
+                      "id": "RS-03.03.01.01"
+                    }
+                  ],
+                  "id": "RS-03.03.01"
+                },
+                {
+                  "title": "inspiration",
+                  "children": [
+                    {
+                      "title": "Spiritual relationships and meaning",
+                      "id": "RS-03.03.02.01"
+                    }
+                  ],
+                  "id": "RS-03.03.02"
+                },
+                {
+                  "title": "intuition",
+                  "children": [
+                    {
+                      "title": "Encounter with spiritual beings",
+                      "id": "RS-03.03.03.01"
+                    }
+                  ],
+                  "id": "RS-03.03.03"
+                },
+                {
+                  "title": "spiritual hearing",
+                  "id": "RS-03.03.04"
+                },
+                {
+                  "title": "spiritual seeing",
+                  "id": "RS-03.03.05"
+                },
+                {
+                  "title": "transformation of faculties",
+                  "id": "RS-03.03.06"
+                }
+              ],
+              "id": "RS-03.03"
+            },
+            {
+              "title": "Threshold experiences",
+              "children": [
+                {
+                  "title": "Guardian of the Threshold",
+                  "id": "RS-03.04.01"
+                },
+                {
+                  "title": "Lesser and Greater Guardian",
+                  "id": "RS-03.04.02"
+                },
+                {
+                  "title": "double or Doppelgänger",
+                  "id": "RS-03.04.03"
+                },
+                {
+                  "title": "encountering spiritual beings",
+                  "id": "RS-03.04.04"
+                },
+                {
+                  "title": "testing perception",
+                  "id": "RS-03.04.05"
+                }
+              ],
+              "id": "RS-03.04"
+            },
+            {
+              "title": "Conditions and risks",
+              "children": [
+                {
+                  "title": "moral responsibility",
+                  "id": "RS-03.05.01"
+                },
+                {
+                  "title": "self-deception",
+                  "id": "RS-03.05.02"
+                },
+                {
+                  "title": "fear and courage",
+                  "id": "RS-03.05.03"
+                },
+                {
+                  "title": "egoism and spiritual ambition",
+                  "id": "RS-03.05.04"
+                },
+                {
+                  "title": "relation of esoteric development to ordinary duties",
+                  "id": "RS-03.05.05"
+                }
+              ],
+              "id": "RS-03.05"
+            },
+            {
+              "title": "Esoteric contexts",
+              "children": [
+                {
+                  "title": "Rosicrucian schooling",
+                  "id": "RS-03.06.01"
+                },
+                {
+                  "title": "Christian initiation",
+                  "id": "RS-03.06.02"
+                },
+                {
+                  "title": "oriental and occidental paths",
+                  "id": "RS-03.06.03"
+                },
+                {
+                  "title": "esoteric instructions",
+                  "id": "RS-03.06.04"
+                },
+                {
+                  "title": "First Class lessons and mantras",
+                  "id": "RS-03.06.05"
+                }
+              ],
+              "id": "RS-03.06"
+            }
+          ]
+        },
+        {
+          "id": "04",
+          "title": "Worldviews, Philosophy of Spirit, and Conceptual Structures",
+          "ga": [
+            "5",
+            "7",
+            "18",
+            "20",
+            "25",
+            "26",
+            "115",
+            "151"
+          ],
+          "source_links": [
+            {
+              "ga": "5",
+              "url": "https://rsarchive.org/Books/GA005/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "7",
+              "url": "https://rsarchive.org/Books/GA007/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "18",
+              "url": "https://rsarchive.org/Books/GA018/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "20",
+              "url": "https://rsarchive.org/Books/GA020/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "25",
+              "url": "https://rsarchive.org/Books/GA025/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "26",
+              "url": "https://rsarchive.org/Books/GA026/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "115",
+              "url": "https://rsarchive.org/Lectures/GA115/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "151",
+              "url": "https://rsarchive.org/Lectures/GA151/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            }
+          ],
+          "children": [
+            {
+              "title": "Twelve worldview orientations",
+              "children": [
+                {
+                  "title": "materialism",
+                  "id": "RS-04.01.01"
+                },
+                {
+                  "title": "sensualism / sensationalism",
+                  "id": "RS-04.01.02"
+                },
+                {
+                  "title": "phenomenalism",
+                  "id": "RS-04.01.03"
+                },
+                {
+                  "title": "realism",
+                  "id": "RS-04.01.04"
+                },
+                {
+                  "title": "dynamism",
+                  "id": "RS-04.01.05"
+                },
+                {
+                  "title": "monadism",
+                  "id": "RS-04.01.06"
+                },
+                {
+                  "title": "spiritualism / spiritism",
+                  "id": "RS-04.01.07"
+                },
+                {
+                  "title": "pneumatism",
+                  "id": "RS-04.01.08"
+                },
+                {
+                  "title": "psychism",
+                  "id": "RS-04.01.09"
+                },
+                {
+                  "title": "idealism",
+                  "id": "RS-04.01.10"
+                },
+                {
+                  "title": "rationalism",
+                  "id": "RS-04.01.11"
+                },
+                {
+                  "title": "mathematism",
+                  "id": "RS-04.01.12"
+                }
+              ],
+              "id": "RS-04.01"
+            },
+            {
+              "title": "Seven worldview moods",
+              "children": [
+                {
+                  "title": "gnosis / gnosticism",
+                  "id": "RS-04.02.01"
+                },
+                {
+                  "title": "logicism",
+                  "id": "RS-04.02.02"
+                },
+                {
+                  "title": "voluntarism",
+                  "id": "RS-04.02.03"
+                },
+                {
+                  "title": "empiricism",
+                  "id": "RS-04.02.04"
+                },
+                {
+                  "title": "mysticism",
+                  "id": "RS-04.02.05"
+                },
+                {
+                  "title": "transcendentalism",
+                  "id": "RS-04.02.06"
+                },
+                {
+                  "title": "occultism",
+                  "id": "RS-04.02.07"
+                }
+              ],
+              "id": "RS-04.02"
+            },
+            {
+              "title": "Three worldview tones and special case",
+              "children": [
+                {
+                  "title": "theism",
+                  "id": "RS-04.03.01"
+                },
+                {
+                  "title": "intuitionism",
+                  "id": "RS-04.03.02"
+                },
+                {
+                  "title": "naturalism",
+                  "id": "RS-04.03.03"
+                },
+                {
+                  "title": "anthropomorphism",
+                  "id": "RS-04.03.04"
+                }
+              ],
+              "id": "RS-04.03"
+            },
+            {
+              "title": "Intellectual history",
+              "children": [
+                {
+                  "title": "Greek philosophy",
+                  "id": "RS-04.04.01"
+                },
+                {
+                  "title": "scholasticism",
+                  "id": "RS-04.04.02"
+                },
+                {
+                  "title": "medieval mysticism",
+                  "id": "RS-04.04.03"
+                },
+                {
+                  "title": "German idealism",
+                  "id": "RS-04.04.04"
+                },
+                {
+                  "title": "modern philosophy",
+                  "id": "RS-04.04.05"
+                },
+                {
+                  "title": "philosophy and spiritual inquiry",
+                  "id": "RS-04.04.06"
+                }
+              ],
+              "id": "RS-04.04"
+            },
+            {
+              "title": "Forms of spiritual explanation",
+              "children": [
+                {
+                  "title": "analogy and symbol",
+                  "id": "RS-04.05.01"
+                },
+                {
+                  "title": "number and rhythm",
+                  "id": "RS-04.05.02"
+                },
+                {
+                  "title": "macrocosm and microcosm",
+                  "id": "RS-04.05.03"
+                },
+                {
+                  "title": "polarity and mediation",
+                  "id": "RS-04.05.04"
+                },
+                {
+                  "title": "metamorphosis",
+                  "id": "RS-04.05.05"
+                }
+              ],
+              "id": "RS-04.05"
+            },
+            {
+              "title": "Worldview relationships",
+              "children": [
+                {
+                  "title": "seven moods in relation to twelve orientations",
+                  "id": "RS-04.06.01"
+                },
+                {
+                  "title": "three tones",
+                  "id": "RS-04.06.02"
+                },
+                {
+                  "title": "Sun-Moon-Earth analogy",
+                  "id": "RS-04.06.03"
+                },
+                {
+                  "title": "zodiacal correspondences",
+                  "id": "RS-04.06.04"
+                },
+                {
+                  "title": "Steiner’s claim of 23 legitimate names",
+                  "id": "RS-04.06.05"
+                }
+              ],
+              "id": "RS-04.06"
+            },
+            {
+              "title": "Boundaries of concepts",
+              "children": [
+                {
+                  "title": "abstract versus living thought",
+                  "id": "RS-04.07.01"
+                },
+                {
+                  "title": "consciousness and world thought",
+                  "id": "RS-04.07.02"
+                },
+                {
+                  "title": "spiritual beings as bearers of ideas",
+                  "id": "RS-04.07.03"
+                },
+                {
+                  "title": "contradiction and development",
+                  "id": "RS-04.07.04"
+                }
+              ],
+              "id": "RS-04.07"
+            }
+          ]
+        }
+      ]    },
+    {
+      "id": "II",
+      "title": "Cosmos, Spiritual Realities, and Destiny",
+      "children": [
+        {
+          "id": "05",
+          "title": "Spiritual Worlds, Hierarchies, and Beings",
+          "ga": [
+            "9",
+            "13",
+            "15",
+            "88",
+            "110",
+            "136",
+            "141"
+          ],
+          "source_links": [
+            {
+              "ga": "9",
+              "url": "https://rsarchive.org/Books/GA009/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "13",
+              "url": "https://rsarchive.org/Books/GA013/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "15",
+              "url": "https://rsarchive.org/Books/GA015/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "88",
+              "url": "https://rsarchive.org/Lectures/GA088/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "110",
+              "url": "https://rsarchive.org/Lectures/GA110/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "136",
+              "url": "https://rsarchive.org/Lectures/GA136/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "141",
+              "url": "https://rsarchive.org/Lectures/GA141/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            }
+          ],
+          "children": [
+            {
+              "title": "Three worlds and planes",
+              "children": [
+                {
+                  "title": "physical world",
+                  "id": "RS-05.01.01"
+                },
+                {
+                  "title": "soul world / astral world",
+                  "id": "RS-05.01.02"
+                },
+                {
+                  "title": "spirit land / Devachan",
+                  "id": "RS-05.01.03"
+                },
+                {
+                  "title": "higher regions",
+                  "id": "RS-05.01.04"
+                },
+                {
+                  "title": "relations between worlds",
+                  "id": "RS-05.01.05"
+                }
+              ],
+              "id": "RS-05.01"
+            },
+            {
+              "title": "Spiritual hierarchies",
+              "children": [
+                {
+                  "title": "angels",
+                  "id": "RS-05.02.01"
+                },
+                {
+                  "title": "archangels",
+                  "id": "RS-05.02.02"
+                },
+                {
+                  "title": "archai / time spirits",
+                  "id": "RS-05.02.03"
+                },
+                {
+                  "title": "exusiai / spirits of form",
+                  "id": "RS-05.02.04"
+                },
+                {
+                  "title": "dynamis / spirits of movement",
+                  "id": "RS-05.02.05"
+                },
+                {
+                  "title": "kyriotetes / spirits of wisdom",
+                  "id": "RS-05.02.06"
+                },
+                {
+                  "title": "thrones",
+                  "id": "RS-05.02.07"
+                },
+                {
+                  "title": "cherubim",
+                  "id": "RS-05.02.08"
+                },
+                {
+                  "title": "seraphim",
+                  "id": "RS-05.02.09"
+                }
+              ],
+              "id": "RS-05.02"
+            },
+            {
+              "title": "Beings and functions",
+              "children": [
+                {
+                  "title": "guiding spirits",
+                  "id": "RS-05.03.01"
+                },
+                {
+                  "title": "beings of planets and stars",
+                  "id": "RS-05.03.02"
+                },
+                {
+                  "title": "time spirits",
+                  "id": "RS-05.03.03"
+                },
+                {
+                  "title": "folk spirits",
+                  "id": "RS-05.03.04"
+                },
+                {
+                  "title": "guardians",
+                  "id": "RS-05.03.05"
+                },
+                {
+                  "title": "spiritual teachers",
+                  "id": "RS-05.03.06"
+                }
+              ],
+              "id": "RS-05.03"
+            },
+            {
+              "title": "Spiritual geography",
+              "children": [
+                {
+                  "title": "planetary spheres",
+                  "id": "RS-05.04.01"
+                },
+                {
+                  "title": "solar and lunar spheres",
+                  "id": "RS-05.04.02"
+                },
+                {
+                  "title": "zodiac",
+                  "id": "RS-05.04.03"
+                },
+                {
+                  "title": "etheric and astral domains",
+                  "id": "RS-05.04.04"
+                },
+                {
+                  "title": "threshold regions",
+                  "id": "RS-05.04.05"
+                }
+              ],
+              "id": "RS-05.04"
+            },
+            {
+              "title": "Modes of action",
+              "children": [
+                {
+                  "title": "revelation and sacrifice",
+                  "id": "RS-05.05.01"
+                },
+                {
+                  "title": "spiritual evolution of hierarchies",
+                  "id": "RS-05.05.02"
+                },
+                {
+                  "title": "thought and word",
+                  "id": "RS-05.05.03"
+                },
+                {
+                  "title": "cosmic intelligence",
+                  "id": "RS-05.05.04"
+                },
+                {
+                  "title": "collaboration among spiritual beings",
+                  "id": "RS-05.05.05"
+                }
+              ],
+              "id": "RS-05.05"
+            }
+          ]
+        },
+        {
+          "id": "06",
+          "title": "Cosmic Genesis, Earth Evolution, and the Future",
+          "ga": [
+            "11",
+            "13",
+            "89",
+            "102",
+            "104",
+            "110",
+            "132",
+            "227"
+          ],
+          "source_links": [
+            {
+              "ga": "11",
+              "url": "https://rsarchive.org/Books/GA011/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "13",
+              "url": "https://rsarchive.org/Books/GA013/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "89",
+              "url": "https://rsarchive.org/Lectures/GA089/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "102",
+              "url": "https://rsarchive.org/Lectures/GA102/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "104",
+              "url": "https://rsarchive.org/Lectures/GA104/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "110",
+              "url": "https://rsarchive.org/Lectures/GA110/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "132",
+              "url": "https://rsarchive.org/Lectures/GA132/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "227",
+              "url": "https://rsarchive.org/Lectures/GA227/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            }
+          ],
+          "children": [
+            {
+              "title": "Great planetary embodiments",
+              "children": [
+                {
+                  "title": "Old Saturn",
+                  "children": [
+                    {
+                      "title": "Warmth and initial physical organization",
+                      "id": "RS-06.01.01.01"
+                    }
+                  ],
+                  "id": "RS-06.01.01"
+                },
+                {
+                  "title": "Old Sun",
+                  "children": [
+                    {
+                      "title": "Development of life organization",
+                      "id": "RS-06.01.02.01"
+                    }
+                  ],
+                  "id": "RS-06.01.02"
+                },
+                {
+                  "title": "Old Moon",
+                  "children": [
+                    {
+                      "title": "Development of sentience and astral organization",
+                      "id": "RS-06.01.03.01"
+                    }
+                  ],
+                  "id": "RS-06.01.03"
+                },
+                {
+                  "title": "Earth",
+                  "children": [
+                    {
+                      "title": "I and human freedom",
+                      "id": "RS-06.01.04.01"
+                    }
+                  ],
+                  "id": "RS-06.01.04"
+                },
+                {
+                  "title": "future Jupiter",
+                  "children": [
+                    {
+                      "title": "Future metamorphosis",
+                      "id": "RS-06.01.05.01"
+                    }
+                  ],
+                  "id": "RS-06.01.05"
+                },
+                {
+                  "title": "future Venus",
+                  "children": [
+                    {
+                      "title": "Further metamorphosis",
+                      "id": "RS-06.01.06.01"
+                    }
+                  ],
+                  "id": "RS-06.01.06"
+                },
+                {
+                  "title": "Vulcan",
+                  "children": [
+                    {
+                      "title": "Later cosmic condition",
+                      "id": "RS-06.01.07.01"
+                    }
+                  ],
+                  "id": "RS-06.01.07"
+                }
+              ],
+              "id": "RS-06.01"
+            },
+            {
+              "title": "Earth evolution phases",
+              "children": [
+                {
+                  "title": "recapitulation",
+                  "id": "RS-06.02.01"
+                },
+                {
+                  "title": "separation of Sun",
+                  "id": "RS-06.02.02"
+                },
+                {
+                  "title": "separation of Moon",
+                  "id": "RS-06.02.03"
+                },
+                {
+                  "title": "Lemurian era",
+                  "id": "RS-06.02.04"
+                },
+                {
+                  "title": "Atlantean era",
+                  "id": "RS-06.02.05"
+                },
+                {
+                  "title": "post-Atlantean times",
+                  "id": "RS-06.02.06"
+                }
+              ],
+              "id": "RS-06.02"
+            },
+            {
+              "title": "Creation of the human being",
+              "children": [
+                {
+                  "title": "foundations of physical body",
+                  "id": "RS-06.03.01"
+                },
+                {
+                  "title": "etheric organization",
+                  "id": "RS-06.03.02"
+                },
+                {
+                  "title": "astral organization",
+                  "id": "RS-06.03.03"
+                },
+                {
+                  "title": "emergence of I-consciousness",
+                  "id": "RS-06.03.04"
+                },
+                {
+                  "title": "influence of higher hierarchies",
+                  "id": "RS-06.03.05"
+                }
+              ],
+              "id": "RS-06.03"
+            },
+            {
+              "title": "Cosmic forces and time",
+              "children": [
+                {
+                  "title": "planetary influences",
+                  "id": "RS-06.04.01"
+                },
+                {
+                  "title": "zodiacal relations",
+                  "id": "RS-06.04.02"
+                },
+                {
+                  "title": "solar and lunar rhythms",
+                  "id": "RS-06.04.03"
+                },
+                {
+                  "title": "cosmic cycles",
+                  "id": "RS-06.04.04"
+                },
+                {
+                  "title": "number patterns and evolution",
+                  "id": "RS-06.04.05"
+                }
+              ],
+              "id": "RS-06.04"
+            },
+            {
+              "title": "Evolutionary transformation",
+              "children": [
+                {
+                  "title": "involution and evolution",
+                  "id": "RS-06.05.01"
+                },
+                {
+                  "title": "densification and spiritualization",
+                  "id": "RS-06.05.02"
+                },
+                {
+                  "title": "future Earth states",
+                  "id": "RS-06.05.03"
+                },
+                {
+                  "title": "human participation in cosmic development",
+                  "id": "RS-06.05.04"
+                }
+              ],
+              "id": "RS-06.05"
+            },
+            {
+              "title": "Sources and narratives",
+              "children": [
+                {
+                  "title": "Akashic record",
+                  "id": "RS-06.06.01"
+                },
+                {
+                  "title": "Genesis interpretation",
+                  "id": "RS-06.06.02"
+                },
+                {
+                  "title": "Apocalypse and world future",
+                  "id": "RS-06.06.03"
+                },
+                {
+                  "title": "spiritual-scientific narrative versus physical chronology",
+                  "id": "RS-06.06.04"
+                }
+              ],
+              "id": "RS-06.06"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "title": "Nature Kingdoms, Elemental Beings, and the Living Earth",
+          "ga": [
+            "13",
+            "136",
+            "230",
+            "223",
+            "327",
+            "351"
+          ],
+          "source_links": [
+            {
+              "ga": "13",
+              "url": "https://rsarchive.org/Books/GA013/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "136",
+              "url": "https://rsarchive.org/Lectures/GA136/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "230",
+              "url": "https://rsarchive.org/Lectures/GA230/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "223",
+              "url": "https://rsarchive.org/Lectures/GA223/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {              "ga": "327",
+              "url": "https://rsarchive.org/Lectures/GA327/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "351",
+              "url": "https://rsarchive.org/Lectures/GA351/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            }
+          ],
+          "children": [
+            {
+              "title": "Nature kingdoms",
+              "children": [
+                {
+                  "title": "mineral",
+                  "id": "RS-07.01.01"
+                },
+                {
+                  "title": "plant",
+                  "id": "RS-07.01.02"
+                },
+                {
+                  "title": "animal",
+                  "id": "RS-07.01.03"
+                },
+                {
+                  "title": "human",
+                  "id": "RS-07.01.04"
+                },
+                {
+                  "title": "distinctions among kingdoms",
+                  "id": "RS-07.01.05"
+                },
+                {
+                  "title": "gradations of consciousness",
+                  "id": "RS-07.01.06"
+                }
+              ],
+              "id": "RS-07.01"
+            },
+            {
+              "title": "Plant life",
+              "children": [
+                {
+                  "title": "germination and growth",
+                  "id": "RS-07.02.01"
+                },
+                {
+                  "title": "etheric forces",
+                  "id": "RS-07.02.02"
+                },
+                {
+                  "title": "leaf and flower",
+                  "id": "RS-07.02.03"
+                },
+                {
+                  "title": "root and blossom",
+                  "id": "RS-07.02.04"
+                },
+                {
+                  "title": "solar and terrestrial influences",
+                  "id": "RS-07.02.05"
+                }
+              ],
+              "id": "RS-07.02"
+            },
+            {
+              "title": "Animals and form",
+              "children": [
+                {
+                  "title": "group-souls",
+                  "id": "RS-07.03.01"
+                },
+                {
+                  "title": "animal types",
+                  "id": "RS-07.03.02"
+                },
+                {
+                  "title": "human-animal comparison",
+                  "id": "RS-07.03.03"
+                },
+                {
+                  "title": "instinct and soul",
+                  "id": "RS-07.03.04"
+                },
+                {
+                  "title": "animal forms and world processes",
+                  "id": "RS-07.03.05"
+                }
+              ],
+              "id": "RS-07.03"
+            },
+            {
+              "title": "Elemental world",
+              "children": [
+                {
+                  "title": "gnomes",
+                  "id": "RS-07.04.01"
+                },
+                {
+                  "title": "undines",
+                  "id": "RS-07.04.02"
+                },
+                {
+                  "title": "sylphs",
+                  "id": "RS-07.04.03"
+                },
+                {
+                  "title": "salamanders",
+                  "id": "RS-07.04.04"
+                },
+                {
+                  "title": "elements and elemental activity",
+                  "id": "RS-07.04.05"
+                },
+                {
+                  "title": "human relationship with nature spirits",
+                  "id": "RS-07.04.06"
+                }
+              ],
+              "id": "RS-07.04"
+            },
+            {
+              "title": "Earth as organism",
+              "children": [
+                {
+                  "title": "earth breathing",
+                  "id": "RS-07.05.01"
+                },
+                {
+                  "title": "seasonal change",
+                  "id": "RS-07.05.02"
+                },
+                {
+                  "title": "earthly and cosmic rhythms",
+                  "id": "RS-07.05.03"
+                },
+                {
+                  "title": "substances and formative forces",
+                  "id": "RS-07.05.04"
+                },
+                {
+                  "title": "landscape and place",
+                  "id": "RS-07.05.05"
+                }
+              ],
+              "id": "RS-07.05"
+            },
+            {
+              "title": "Ecology of relationships",
+              "children": [
+                {
+                  "title": "soil and plants",
+                  "id": "RS-07.06.01"
+                },
+                {
+                  "title": "animal and farm",
+                  "id": "RS-07.06.02"
+                },
+                {
+                  "title": "earth and cosmos",
+                  "id": "RS-07.06.03"
+                },
+                {
+                  "title": "weather and seasons",
+                  "id": "RS-07.06.04"
+                },
+                {
+                  "title": "care for living wholes",
+                  "id": "RS-07.06.05"
+                }
+              ],
+              "id": "RS-07.06"
+            }
+          ]
+        },
+        {
+          "id": "08",
+          "title": "Karma, Reincarnation, Death, and Spiritual Destiny",
+          "ga": [
+            "9",
+            "13",
+            "120",
+            "140",
+            "235",
+            "236",
+            "237",
+            "238",
+            "239",
+            "240"
+          ],
+          "source_links": [
+            {
+              "ga": "9",
+              "url": "https://rsarchive.org/Books/GA009/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "13",
+              "url": "https://rsarchive.org/Books/GA013/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "120",
+              "url": "https://rsarchive.org/Lectures/GA120/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "140",
+              "url": "https://rsarchive.org/Lectures/GA140/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "235",
+              "url": "https://rsarchive.org/Lectures/GA235/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "236",
+              "url": "https://rsarchive.org/Lectures/GA236/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "237",
+              "url": "https://rsarchive.org/Lectures/GA237/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "238",
+              "url": "https://rsarchive.org/Lectures/GA238/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "239",
+              "url": "https://rsarchive.org/Lectures/GA239/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "240",
+              "url": "https://rsarchive.org/Lectures/GA240/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            }
+          ],
+          "children": [
+            {
+              "title": "Repeated earthly lives",
+              "children": [
+                {
+                  "title": "pre-birth existence",
+                  "id": "RS-08.01.01"
+                },
+                {
+                  "title": "incarnation",
+                  "id": "RS-08.01.02"
+                },
+                {
+                  "title": "causes of individual differences",
+                  "id": "RS-08.01.03"
+                },
+                {
+                  "title": "reincarnation",
+                  "id": "RS-08.01.04"
+                },
+                {
+                  "title": "continuity of individuality",
+                  "id": "RS-08.01.05"
+                }
+              ],
+              "id": "RS-08.01"
+            },
+            {
+              "title": "Karma and causality",
+              "children": [
+                {
+                  "title": "actions and consequences",
+                  "id": "RS-08.02.01"
+                },
+                {
+                  "title": "personal karma",
+                  "id": "RS-08.02.02"
+                },
+                {
+                  "title": "relationships and karmic meetings",
+                  "id": "RS-08.02.03"
+                },
+                {
+                  "title": "illness and karma as historical teaching",
+                  "id": "RS-08.02.04"
+                },
+                {
+                  "title": "freedom and karmic transformation",
+                  "id": "RS-08.02.05"
+                }
+              ],
+              "id": "RS-08.02"
+            },
+            {
+              "title": "Life between death and rebirth",
+              "children": [
+                {
+                  "title": "death review",
+                  "id": "RS-08.03.01"
+                },
+                {
+                  "title": "Kamaloka",
+                  "id": "RS-08.03.02"
+                },
+                {
+                  "title": "soul world",
+                  "id": "RS-08.03.03"
+                },
+                {
+                  "title": "spiritual world",
+                  "id": "RS-08.03.04"
+                },
+                {
+                  "title": "midnight hour of existence",
+                  "id": "RS-08.03.05"
+                },
+                {
+                  "title": "preparation for incarnation",
+                  "id": "RS-08.03.06"
+                }
+              ],
+              "id": "RS-08.03"
+            },
+            {
+              "title": "Spiritual companions",
+              "children": [
+                {
+                  "title": "bonds with the dead",
+                  "id": "RS-08.04.01"
+                },
+                {
+                  "title": "angelic guidance",
+                  "id": "RS-08.04.02"
+                },
+                {
+                  "title": "spiritual hierarchies and destiny",
+                  "id": "RS-08.04.03"
+                },
+                {
+                  "title": "cosmic spheres between lives",
+                  "id": "RS-08.04.04"
+                },
+                {
+                  "title": "communities across incarnations",
+                  "id": "RS-08.04.05"
+                }
+              ],
+              "id": "RS-08.04"
+            },
+            {
+              "title": "Karmic investigation",
+              "children": [
+                {
+                  "title": "historical personalities",
+                  "id": "RS-08.05.01"
+                },
+                {
+                  "title": "individual karmic streams",
+                  "id": "RS-08.05.02"
+                },
+                {
+                  "title": "methods and limits of karmic research",
+                  "id": "RS-08.05.03"
+                },
+                {
+                  "title": "Christian and Michaelic perspectives",
+                  "id": "RS-08.05.04"
+                }
+              ],
+              "id": "RS-08.05"
+            },
+            {
+              "title": "Time and life rhythm",
+              "children": [
+                {
+                  "title": "memory and biography",
+                  "id": "RS-08.06.01"
+                },
+                {
+                  "title": "seven-year phases",
+                  "id": "RS-08.06.02"
+                },
+                {
+                  "title": "planetary relations to destiny",
+                  "id": "RS-08.06.03"
+                },
+                {
+                  "title": "destiny and moral development",
+                  "id": "RS-08.06.04"
+                }
+              ],
+              "id": "RS-08.06"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "III",
+      "title": "The Human Being, Mind, and Biography",
+      "children": [
+        {
+          "id": "09",
+          "title": "Human Constitution: Body, Soul, and Spirit",
+          "ga": [
+            "9",
+            "13",
+            "21",
+            "115",
+            "136",
+            "170"
+          ],
+          "source_links": [
+            {
+              "ga": "9",
+              "url": "https://rsarchive.org/Books/GA009/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "13",
+              "url": "https://rsarchive.org/Books/GA013/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "21",
+              "url": "https://rsarchive.org/Books/GA021/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "115",
+              "url": "https://rsarchive.org/Lectures/GA115/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "136",
+              "url": "https://rsarchive.org/Lectures/GA136/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "170",
+              "url": "https://rsarchive.org/Lectures/GA170/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            }
+          ],
+          "children": [
+            {
+              "title": "Fourfold constitution",
+              "children": [
+                {
+                  "title": "physical body",
+                  "children": [
+                    {
+                      "title": "Physical organization and sense-world",
+                      "id": "RS-09.01.01.01"
+                    }
+                  ],
+                  "id": "RS-09.01.01"
+                },
+                {
+                  "title": "etheric / life body",
+                  "children": [
+                    {
+                      "title": "Vital organization, growth and regeneration",
+                      "id": "RS-09.01.02.01"
+                    }
+                  ],
+                  "id": "RS-09.01.02"
+                },
+                {
+                  "title": "astral body",
+                  "children": [
+                    {
+                      "title": "Sentience, sympathy and antipathy",
+                      "id": "RS-09.01.03.01"
+                    }
+                  ],
+                  "id": "RS-09.01.03"
+                },
+                {
+                  "title": "I / ego-organization",
+                  "id": "RS-09.01.04"
+                }
+              ],
+              "id": "RS-09.01"
+            },
+            {
+              "title": "Threefold human being",
+              "children": [
+                {
+                  "title": "body",
+                  "id": "RS-09.02.01"
+                },
+                {
+                  "title": "soul",
+                  "id": "RS-09.02.02"
+                },                {
+                  "title": "spirit",
+                  "id": "RS-09.02.03"
+                },
+                {
+                  "title": "thinking-feeling-willing relations",
+                  "id": "RS-09.02.04"
+                },
+                {
+                  "title": "nerve-sense, rhythmic, metabolic-limb organization",
+                  "id": "RS-09.02.05"
+                }
+              ],
+              "id": "RS-09.02"
+            },
+            {
+              "title": "Threefold bodily nature",
+              "children": [
+                {
+                  "title": "physical body",
+                  "id": "RS-09.03.01"
+                },
+                {
+                  "title": "etheric body",
+                  "id": "RS-09.03.02"
+                },
+                {
+                  "title": "astral body",
+                  "id": "RS-09.03.03"
+                },
+                {
+                  "title": "interaction between organism and soul",
+                  "id": "RS-09.03.04"
+                }
+              ],
+              "id": "RS-09.03"
+            },
+            {
+              "title": "Threefold soul",
+              "children": [
+                {
+                  "title": "sentient soul",
+                  "children": [
+                    {
+                      "title": "Experience of sensation, impulse and desire",
+                      "id": "RS-09.04.01.01"
+                    }
+                  ],
+                  "id": "RS-09.04.01"
+                },
+                {
+                  "title": "intellectual / mind soul",
+                  "children": [
+                    {
+                      "title": "Inward thought, feeling and judgment",
+                      "id": "RS-09.04.02.01"
+                    }
+                  ],
+                  "id": "RS-09.04.02"
+                },
+                {
+                  "title": "consciousness / spiritual soul",
+                  "children": [
+                    {
+                      "title": "Self-aware commitment to truth",
+                      "id": "RS-09.04.03.01"
+                    }
+                  ],
+                  "id": "RS-09.04.03"
+                },
+                {
+                  "title": "development through cultural epochs",
+                  "id": "RS-09.04.04"
+                }
+              ],
+              "id": "RS-09.04"
+            },
+            {
+              "title": "Threefold spirit",
+              "children": [
+                {
+                  "title": "spirit-self / Manas",
+                  "children": [
+                    {
+                      "title": "Transformation of astral nature",
+                      "id": "RS-09.05.01.01"
+                    }
+                  ],
+                  "id": "RS-09.05.01"
+                },
+                {
+                  "title": "life-spirit / Buddhi",
+                  "children": [
+                    {
+                      "title": "Transformation of etheric nature",
+                      "id": "RS-09.05.02.01"
+                    }
+                  ],
+                  "id": "RS-09.05.02"
+                },
+                {
+                  "title": "spirit-man / Atma",
+                  "children": [
+                    {
+                      "title": "Transformation of physical nature",
+                      "id": "RS-09.05.03.01"
+                    }
+                  ],
+                  "id": "RS-09.05.03"
+                },
+                {
+                  "title": "transformative work of the I",
+                  "id": "RS-09.05.04"
+                }
+              ],
+              "id": "RS-09.05"
+            },
+            {
+              "title": "Ninefold and sevenfold schemas",
+              "children": [
+                {
+                  "title": "nine members as interpenetrating trios",
+                  "id": "RS-09.06.01"
+                },
+                {
+                  "title": "sevenfold condensation",
+                  "id": "RS-09.06.02"
+                },
+                {
+                  "title": "different presentations and translation equivalents",
+                  "id": "RS-09.06.03"
+                }
+              ],
+              "id": "RS-09.06"
+            }
+          ]
+        },
+        {
+          "id": "10",
+          "title": "Soul Life, Consciousness, Senses, and Psychology",
+          "ga": [
+            "9",
+            "21",
+            "58",
+            "59",
+            "115",
+            "170",
+            "293"
+          ],
+          "source_links": [
+            {
+              "ga": "9",
+              "url": "https://rsarchive.org/Books/GA009/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "21",
+              "url": "https://rsarchive.org/Books/GA021/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "58",
+              "url": "https://rsarchive.org/Lectures/GA058/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "59",
+              "url": "https://rsarchive.org/Lectures/GA059/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "115",
+              "url": "https://rsarchive.org/Lectures/GA115/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "170",
+              "url": "https://rsarchive.org/Lectures/GA170/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "293",
+              "url": "https://rsarchive.org/Lectures/GA293/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            }
+          ],
+          "children": [
+            {
+              "title": "Soul faculties",
+              "children": [
+                {
+                  "title": "thinking",
+                  "id": "RS-10.01.01"
+                },
+                {
+                  "title": "feeling",
+                  "id": "RS-10.01.02"
+                },
+                {
+                  "title": "willing",
+                  "id": "RS-10.01.03"
+                },
+                {
+                  "title": "memory",
+                  "id": "RS-10.01.04"
+                },
+                {
+                  "title": "imagination",
+                  "id": "RS-10.01.05"
+                },
+                {
+                  "title": "attention",
+                  "id": "RS-10.01.06"
+                },
+                {
+                  "title": "sympathy and antipathy",
+                  "id": "RS-10.01.07"
+                }
+              ],
+              "id": "RS-10.01"
+            },
+            {
+              "title": "States of consciousness",
+              "children": [
+                {
+                  "title": "waking",
+                  "id": "RS-10.02.01"
+                },
+                {
+                  "title": "dreaming",
+                  "id": "RS-10.02.02"
+                },
+                {
+                  "title": "sleeping",
+                  "id": "RS-10.02.03"
+                },
+                {
+                  "title": "unconscious life",
+                  "id": "RS-10.02.04"
+                },
+                {
+                  "title": "dreaming and spiritual experience",
+                  "id": "RS-10.02.05"
+                },
+                {
+                  "title": "emergence of self-consciousness",
+                  "id": "RS-10.02.06"
+                }
+              ],
+              "id": "RS-10.02"
+            },
+            {
+              "title": "Sensory life",
+              "children": [
+                {
+                  "title": "twelve senses",
+                  "id": "RS-10.03.01"
+                },
+                {
+                  "title": "sense of touch",
+                  "id": "RS-10.03.02"
+                },
+                {
+                  "title": "life sense",
+                  "id": "RS-10.03.03"
+                },
+                {
+                  "title": "movement sense",
+                  "id": "RS-10.03.04"
+                },
+                {
+                  "title": "balance sense",
+                  "id": "RS-10.03.05"
+                },
+                {
+                  "title": "smell",
+                  "id": "RS-10.03.06"
+                },
+                {
+                  "title": "taste",
+                  "id": "RS-10.03.07"
+                },
+                {
+                  "title": "sight",
+                  "id": "RS-10.03.08"
+                },
+                {
+                  "title": "warmth",
+                  "id": "RS-10.03.09"
+                },
+                {
+                  "title": "hearing",
+                  "id": "RS-10.03.10"
+                },
+                {
+                  "title": "language",
+                  "id": "RS-10.03.11"
+                },
+                {
+                  "title": "thought",
+                  "id": "RS-10.03.12"
+                },
+                {
+                  "title": "I-perception",
+                  "id": "RS-10.03.13"
+                }
+              ],
+              "id": "RS-10.03"
+            },
+            {
+              "title": "Seven life processes",
+              "children": [
+                {
+                  "title": "breathing",
+                  "id": "RS-10.04.01"
+                },
+                {
+                  "title": "warming",
+                  "id": "RS-10.04.02"
+                },
+                {
+                  "title": "nourishing",
+                  "id": "RS-10.04.03"
+                },
+                {
+                  "title": "secretion",
+                  "id": "RS-10.04.04"
+                },
+                {
+                  "title": "maintaining",
+                  "id": "RS-10.04.05"
+                },
+                {
+                  "title": "growth",
+                  "id": "RS-10.04.06"
+                },
+                {
+                  "title": "reproduction",
+                  "id": "RS-10.04.07"
+                }
+              ],
+              "id": "RS-10.04"
+            },
+            {
+              "title": "Emotional development",
+              "children": [
+                {
+                  "title": "fear and courage",
+                  "id": "RS-10.05.01"
+                },
+                {
+                  "title": "joy and suffering",
+                  "id": "RS-10.05.02"
+                },
+                {
+                  "title": "conscience",
+                  "id": "RS-10.05.03"
+                },
+                {
+                  "title": "temperament",
+                  "id": "RS-10.05.04"
+                },
+                {
+                  "title": "inner conflict",
+                  "id": "RS-10.05.05"
+                },
+                {
+                  "title": "habits",
+                  "id": "RS-10.05.06"
+                }
+              ],
+              "id": "RS-10.05"
+            },
+            {
+              "title": "Psychology of thinking",
+              "children": [
+                {
+                  "title": "idea and representation",
+                  "id": "RS-10.06.01"
+                },
+                {
+                  "title": "memory and forgetting",
+                  "id": "RS-10.06.02"
+                },
+                {
+                  "title": "judgment and error",
+                  "id": "RS-10.06.03"
+                },
+                {
+                  "title": "imagination and images",
+                  "id": "RS-10.06.04"
+                },
+                {
+                  "title": "connection between soul and body",
+                  "id": "RS-10.06.05"
+                }
+              ],
+              "id": "RS-10.06"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "title": "Life Course, Human Relations, and Embodied Biography",
+          "ga": [
+            "9",
+            "34",
+            "140",
+            "303",
+            "305",
+            "307"
+          ],
+          "source_links": [
+            {
+              "ga": "9",
+              "url": "https://rsarchive.org/Books/GA009/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "34",
+              "url": "https://rsarchive.org/Volumes.html",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "140",
+              "url": "https://rsarchive.org/Lectures/GA140/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "303",
+              "url": "https://rsarchive.org/Lectures/GA303/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "305",
+              "url": "https://rsarchive.org/Lectures/GA305/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "307",
+              "url": "https://rsarchive.org/Lectures/GA307/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            }
+          ],
+          "children": [
+            {
+              "title": "Phases of life",
+              "children": [
+                {
+                  "title": "birth to second dentition",
+                  "id": "RS-11.01.01"
+                },
+                {
+                  "title": "school years",
+                  "id": "RS-11.01.02"
+                },
+                {
+                  "title": "puberty",
+                  "id": "RS-11.01.03"
+                },
+                {
+                  "title": "young adulthood",
+                  "id": "RS-11.01.04"
+                },
+                {
+                  "title": "maturity",
+                  "id": "RS-11.01.05"
+                },
+                {
+                  "title": "later-life development",
+                  "id": "RS-11.01.06"
+                }
+              ],
+              "id": "RS-11.01"
+            },
+            {
+              "title": "Childhood and youth",
+              "children": [
+                {
+                  "title": "imitation",
+                  "id": "RS-11.02.01"
+                },
+                {
+                  "title": "rhythm and habit",
+                  "id": "RS-11.02.02"
+                },
+                {
+                  "title": "authority",
+                  "id": "RS-11.02.03"
+                },
+                {
+                  "title": "independence",
+                  "id": "RS-11.02.04"
+                },
+                {
+                  "title": "education of will",
+                  "id": "RS-11.02.05"
+                },
+                {
+                  "title": "emerging judgment",                  "id": "RS-11.02.06"
+                }
+              ],
+              "id": "RS-11.02"
+            },
+            {
+              "title": "Relationships",
+              "children": [
+                {
+                  "title": "marriage and partnership",
+                  "id": "RS-11.03.01"
+                },
+                {
+                  "title": "friendship",
+                  "id": "RS-11.03.02"
+                },
+                {
+                  "title": "empathy",
+                  "id": "RS-11.03.03"
+                },
+                {
+                  "title": "encounters and karmic ties",
+                  "id": "RS-11.03.04"
+                },
+                {
+                  "title": "family and generations",
+                  "id": "RS-11.03.05"
+                }
+              ],
+              "id": "RS-11.03"
+            },
+            {
+              "title": "Individual differences",
+              "children": [
+                {
+                  "title": "temperaments",
+                  "id": "RS-11.04.01"
+                },
+                {
+                  "title": "constitution and disposition",
+                  "id": "RS-11.04.02"
+                },
+                {
+                  "title": "individual biography",
+                  "id": "RS-11.04.03"
+                },
+                {
+                  "title": "gender and sex in Steiner's historical framework",
+                  "id": "RS-11.04.04"
+                },
+                {
+                  "title": "culture and personality",
+                  "id": "RS-11.04.05"
+                }
+              ],
+              "id": "RS-11.04"
+            },
+            {
+              "title": "Life challenges",
+              "children": [
+                {
+                  "title": "suffering",
+                  "id": "RS-11.05.01"
+                },
+                {
+                  "title": "illness and biography",
+                  "id": "RS-11.05.02"
+                },
+                {
+                  "title": "grief and death",
+                  "id": "RS-11.05.03"
+                },
+                {
+                  "title": "personal vocation",
+                  "id": "RS-11.05.04"
+                },
+                {
+                  "title": "self-education",
+                  "id": "RS-11.05.05"
+                },
+                {
+                  "title": "balancing activity and contemplation",
+                  "id": "RS-11.05.06"
+                }
+              ],
+              "id": "RS-11.05"
+            }
+          ]
+        },
+        {
+          "id": "12",
+          "title": "Human Evolution and the Future of Consciousness",
+          "ga": [
+            "13",
+            "15",
+            "21",
+            "170",
+            "187",
+            "192",
+            "233"
+          ],
+          "source_links": [
+            {
+              "ga": "13",
+              "url": "https://rsarchive.org/Books/GA013/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "15",
+              "url": "https://rsarchive.org/Books/GA015/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "21",
+              "url": "https://rsarchive.org/Books/GA021/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "170",
+              "url": "https://rsarchive.org/Lectures/GA170/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "187",
+              "url": "https://rsarchive.org/Lectures/GA187/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "192",
+              "url": "https://rsarchive.org/Lectures/GA192/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "233",
+              "url": "https://rsarchive.org/Lectures/GA233/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            }
+          ],
+          "children": [
+            {
+              "title": "Historical evolution of consciousness",
+              "children": [
+                {
+                  "title": "ancient clairvoyance",
+                  "id": "RS-12.01.01"
+                },
+                {
+                  "title": "mythic picture-consciousness",
+                  "id": "RS-12.01.02"
+                },
+                {
+                  "title": "intellectual culture",
+                  "id": "RS-12.01.03"
+                },
+                {
+                  "title": "modern consciousness soul",
+                  "id": "RS-12.01.04"
+                },
+                {
+                  "title": "future spiritual cognition",
+                  "id": "RS-12.01.05"
+                }
+              ],
+              "id": "RS-12.01"
+            },
+            {
+              "title": "Transformation of the I",
+              "children": [
+                {
+                  "title": "responsibility",
+                  "id": "RS-12.02.01"
+                },
+                {
+                  "title": "individuality",
+                  "id": "RS-12.02.02"
+                },
+                {
+                  "title": "independence from group soul",
+                  "id": "RS-12.02.03"
+                },
+                {
+                  "title": "moral freedom",
+                  "id": "RS-12.02.04"
+                },
+                {
+                  "title": "conscious collaboration with spirit",
+                  "id": "RS-12.02.05"
+                }
+              ],
+              "id": "RS-12.02"
+            },
+            {
+              "title": "Metamorphosis of faculties",
+              "children": [
+                {
+                  "title": "sense perception",
+                  "id": "RS-12.03.01"
+                },
+                {
+                  "title": "thinking",
+                  "id": "RS-12.03.02"
+                },
+                {
+                  "title": "artistic insight",
+                  "id": "RS-12.03.03"
+                },
+                {
+                  "title": "imagination",
+                  "id": "RS-12.03.04"
+                },
+                {
+                  "title": "inspiration",
+                  "id": "RS-12.03.05"
+                },
+                {
+                  "title": "intuition",
+                  "id": "RS-12.03.06"
+                }
+              ],
+              "id": "RS-12.03"
+            },
+            {
+              "title": "Future development",
+              "children": [
+                {
+                  "title": "evolution of etheric and astral capacities",
+                  "id": "RS-12.04.01"
+                },
+                {
+                  "title": "spirit-self",
+                  "id": "RS-12.04.02"
+                },
+                {
+                  "title": "life-spirit",
+                  "id": "RS-12.04.03"
+                },
+                {
+                  "title": "spirit-man",
+                  "id": "RS-12.04.04"
+                },
+                {
+                  "title": "collective evolution and freedom",
+                  "id": "RS-12.04.05"
+                }
+              ],
+              "id": "RS-12.04"
+            },
+            {
+              "title": "Human cosmic role",
+              "children": [
+                {
+                  "title": "microcosm and macrocosm",
+                  "id": "RS-12.05.01"
+                },
+                {
+                  "title": "human being as image of the cosmos",
+                  "id": "RS-12.05.02"
+                },
+                {
+                  "title": "humanity and the hierarchies",
+                  "id": "RS-12.05.03"
+                },
+                {
+                  "title": "Earth as arena of freedom and love",
+                  "id": "RS-12.05.04"
+                }
+              ],
+              "id": "RS-12.05"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "IV",
+      "title": "Christ, Religious History, and Civilizations",
+      "children": [
+        {
+          "id": "13",
+          "title": "Christology, Jesus, and the Mystery of Golgotha",
+          "ga": [
+            "8",
+            "15",
+            "112",
+            "114",
+            "123",
+            "124",
+            "131",
+            "152",
+            "175"
+          ],
+          "source_links": [
+            {
+              "ga": "8",
+              "url": "https://rsarchive.org/Books/GA008/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "15",
+              "url": "https://rsarchive.org/Books/GA015/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "112",
+              "url": "https://rsarchive.org/Lectures/GA112/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "114",
+              "url": "https://rsarchive.org/Lectures/GA114/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "123",
+              "url": "https://rsarchive.org/Lectures/GA123/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "124",
+              "url": "https://rsarchive.org/Lectures/GA124/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "131",
+              "url": "https://rsarchive.org/Lectures/GA131/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "152",
+              "url": "https://rsarchive.org/Lectures/GA152/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "175",
+              "url": "https://rsarchive.org/Lectures/GA175/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            }
+          ],
+          "children": [
+            {
+              "title": "Identity and mission of Christ",
+              "children": [
+                {
+                  "title": "Christ as cosmic being",
+                  "id": "RS-13.01.01"
+                },
+                {
+                  "title": "Sun-being and Christ impulse",
+                  "id": "RS-13.01.02"
+                },
+                {
+                  "title": "incarnation in Jesus",
+                  "id": "RS-13.01.03"
+                },
+                {
+                  "title": "relationship to humanity",
+                  "id": "RS-13.01.04"
+                },
+                {
+                  "title": "spiritual meaning of redemption",
+                  "id": "RS-13.01.05"
+                }
+              ],
+              "id": "RS-13.01"
+            },
+            {
+              "title": "Jesus and Gospel narratives",
+              "children": [
+                {
+                  "title": "Nathanic and Solomonic Jesus traditions",
+                  "id": "RS-13.02.01"
+                },
+                {
+                  "title": "baptism in Jordan",
+                  "id": "RS-13.02.02"
+                },
+                {
+                  "title": "temptations",
+                  "id": "RS-13.02.03"
+                },
+                {
+                  "title": "healing",
+                  "id": "RS-13.02.04"
+                },
+                {
+                  "title": "disciples",
+                  "id": "RS-13.02.05"
+                },
+                {
+                  "title": "parables",
+                  "id": "RS-13.02.06"
+                }
+              ],
+              "id": "RS-13.02"
+            },
+            {
+              "title": "Four Gospels",
+              "children": [
+                {
+                  "title": "Matthew",
+                  "children": [
+                    {
+                      "title": "Jesus, genealogy, and human development",
+                      "id": "RS-13.03.01.01"
+                    }
+                  ],
+                  "id": "RS-13.03.01"
+                },
+                {
+                  "title": "Mark",
+                  "children": [
+                    {
+                      "title": "Deeds and action of Christ",
+                      "id": "RS-13.03.02.01"
+                    }
+                  ],
+                  "id": "RS-13.03.02"
+                },
+                {
+                  "title": "Luke",
+                  "children": [
+                    {
+                      "title": "Inner soul dimension of the Jesus story",
+                      "id": "RS-13.03.03.01"
+                    }
+                  ],
+                  "id": "RS-13.03.03"
+                },
+                {
+                  "title": "John",
+                  "children": [
+                    {
+                      "title": "Logos and initiation",
+                      "id": "RS-13.03.04.01"
+                    }
+                  ],
+                  "id": "RS-13.03.04"
+                },
+                {
+                  "title": "different spiritual emphases",
+                  "id": "RS-13.03.05"
+                },
+                {
+                  "title": "Gospel exegesis and higher knowledge",
+                  "id": "RS-13.03.06"
+                }
+              ],
+              "id": "RS-13.03"
+            },
+            {
+              "title": "Mystery of Golgotha",
+              "children": [
+                {
+                  "title": "Last Supper",
+                  "id": "RS-13.04.01"
+                },
+                {
+                  "title": "crucifixion",
+                  "id": "RS-13.04.02"
+                },
+                {
+                  "title": "descent into death",
+                  "id": "RS-13.04.03"
+                },
+                {
+                  "title": "resurrection",
+                  "id": "RS-13.04.04"
+                },
+                {
+                  "title": "ascension",
+                  "id": "RS-13.04.05"
+                },
+                {
+                  "title": "Pentecost",
+                  "id": "RS-13.04.06"
+                },
+                {
+                  "title": "transformation of Earth",
+                  "id": "RS-13.04.07"
+                }
+              ],
+              "id": "RS-13.04"
+            },
+            {
+              "title": "Christ after Golgotha",
+              "children": [
+                {
+                  "title": "Christ in etheric world",
+                  "id": "RS-13.05.01"
+                },
+                {
+                  "title": "Second Coming in etheric perception",
+                  "id": "RS-13.05.02"
+                },
+                {
+                  "title": "human relationship to Christ",
+                  "id": "RS-13.05.03"
+                },
+                {
+                  "title": "universal Christianity",                  "id": "RS-13.05.04"
+                }
+              ],
+              "id": "RS-13.05"
+            },
+            {
+              "title": "Christian esotericism",
+              "children": [
+                {
+                  "title": "Grail mysteries",
+                  "id": "RS-13.06.01"
+                },
+                {
+                  "title": "Rosicrucian Christianity",
+                  "id": "RS-13.06.02"
+                },
+                {
+                  "title": "Christian initiation",
+                  "id": "RS-13.06.03"
+                },
+                {
+                  "title": "relation to ancient mystery traditions",
+                  "id": "RS-13.06.04"
+                }
+              ],
+              "id": "RS-13.06"
+            }
+          ]
+        },
+        {
+          "id": "14",
+          "title": "Religions, Ancient Mysteries, Scriptures, and Mythology",
+          "ga": [
+            "7",
+            "8",
+            "87",
+            "92",
+            "93a",
+            "106",
+            "113",
+            "116",
+            "122",
+            "346"
+          ],
+          "source_links": [
+            {
+              "ga": "7",
+              "url": "https://rsarchive.org/Books/GA007/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "8",
+              "url": "https://rsarchive.org/Books/GA008/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "87",
+              "url": "https://rsarchive.org/Lectures/GA087/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "92",
+              "url": "https://rsarchive.org/Lectures/GA092/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "93a",
+              "url": "https://rsarchive.org/Lectures/GA093/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "106",
+              "url": "https://rsarchive.org/Lectures/GA106/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "113",
+              "url": "https://rsarchive.org/Lectures/GA113/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "116",
+              "url": "https://rsarchive.org/Lectures/GA116/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "122",
+              "url": "https://rsarchive.org/Lectures/GA122/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "346",
+              "url": "https://rsarchive.org/Lectures/GA346/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            }
+          ],
+          "children": [
+            {
+              "title": "Ancient mystery centers",
+              "children": [
+                {
+                  "title": "temples and initiations",
+                  "id": "RS-14.01.01"
+                },
+                {
+                  "title": "Egyptian mysteries",
+                  "id": "RS-14.01.02"
+                },
+                {
+                  "title": "Greek mysteries",
+                  "id": "RS-14.01.03"
+                },
+                {
+                  "title": "Persian traditions",
+                  "id": "RS-14.01.04"
+                },
+                {
+                  "title": "Indian traditions",
+                  "id": "RS-14.01.05"
+                },
+                {
+                  "title": "Celtic and Nordic mysteries",
+                  "id": "RS-14.01.06"
+                }
+              ],
+              "id": "RS-14.01"
+            },
+            {
+              "title": "Scriptures and narratives",
+              "children": [
+                {
+                  "title": "Genesis",
+                  "id": "RS-14.02.01"
+                },
+                {
+                  "title": "Gospels",
+                  "id": "RS-14.02.02"
+                },
+                {
+                  "title": "Apocalypse",
+                  "id": "RS-14.02.03"
+                },
+                {
+                  "title": "Bhagavad Gita",
+                  "id": "RS-14.02.04"
+                },
+                {
+                  "title": "legends and initiatory symbols",
+                  "id": "RS-14.02.05"
+                },
+                {
+                  "title": "myth and spiritual fact",
+                  "id": "RS-14.02.06"
+                }
+              ],
+              "id": "RS-14.02"
+            },
+            {
+              "title": "Comparative religion",
+              "children": [
+                {
+                  "title": "ancient Indian spiritual life",
+                  "id": "RS-14.03.01"
+                },
+                {
+                  "title": "Zoroastrianism",
+                  "id": "RS-14.03.02"
+                },
+                {
+                  "title": "Egyptian and Hebrew traditions",
+                  "id": "RS-14.03.03"
+                },
+                {
+                  "title": "Buddhism",
+                  "id": "RS-14.03.04"
+                },
+                {
+                  "title": "Christianity",
+                  "id": "RS-14.03.05"
+                },
+                {
+                  "title": "Islamic civilization as discussed by Steiner",
+                  "id": "RS-14.03.06"
+                }
+              ],
+              "id": "RS-14.03"
+            },
+            {
+              "title": "Mythic personages",
+              "children": [
+                {
+                  "title": "Osiris and Isis",
+                  "id": "RS-14.04.01"
+                },
+                {
+                  "title": "Greek deities",
+                  "id": "RS-14.04.02"
+                },
+                {
+                  "title": "Norse gods",
+                  "id": "RS-14.04.03"
+                },
+                {
+                  "title": "Parzival and Grail figures",
+                  "id": "RS-14.04.04"
+                },
+                {
+                  "title": "archetypal narratives",
+                  "id": "RS-14.04.05"
+                }
+              ],
+              "id": "RS-14.04"
+            },
+            {
+              "title": "Religious development",
+              "children": [
+                {
+                  "title": "prophetic traditions",
+                  "id": "RS-14.05.01"
+                },
+                {
+                  "title": "priesthood",
+                  "id": "RS-14.05.02"
+                },
+                {
+                  "title": "sacrifice",
+                  "id": "RS-14.05.03"
+                },
+                {
+                  "title": "liturgy",
+                  "id": "RS-14.05.04"
+                },
+                {
+                  "title": "ancient wisdom and modern spiritual freedom",
+                  "id": "RS-14.05.05"
+                }
+              ],
+              "id": "RS-14.05"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "title": "Human History, Cultural Epochs, Peoples, and Civilizations",
+          "ga": [
+            "11",
+            "13",
+            "105",
+            "106",
+            "121",
+            "122",
+            "180",
+            "233",
+            "233a"
+          ],
+          "source_links": [
+            {
+              "ga": "11",
+              "url": "https://rsarchive.org/Books/GA011/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "13",
+              "url": "https://rsarchive.org/Books/GA013/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "105",
+              "url": "https://rsarchive.org/Lectures/GA105/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "106",
+              "url": "https://rsarchive.org/Lectures/GA106/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "121",
+              "url": "https://rsarchive.org/Lectures/GA121/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "122",
+              "url": "https://rsarchive.org/Lectures/GA122/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "180",
+              "url": "https://rsarchive.org/Lectures/GA180/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "233",
+              "url": "https://rsarchive.org/Lectures/GA233/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "233a",
+              "url": "https://rsarchive.org/Lectures/GA233/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            }
+          ],
+          "children": [
+            {
+              "title": "Prehistory in Steiner's account",
+              "children": [
+                {
+                  "title": "Lemuria",
+                  "id": "RS-15.01.01"
+                },
+                {
+                  "title": "Atlantis",
+                  "id": "RS-15.01.02"
+                },
+                {
+                  "title": "post-Atlantean emergence",
+                  "id": "RS-15.01.03"
+                },
+                {
+                  "title": "ancient migration narratives",
+                  "id": "RS-15.01.04"
+                },
+                {
+                  "title": "transformation of consciousness",
+                  "id": "RS-15.01.05"
+                }
+              ],
+              "id": "RS-15.01"
+            },
+            {
+              "title": "Post-Atlantean cultural epochs",
+              "children": [
+                {
+                  "title": "ancient Indian",
+                  "children": [
+                    {
+                      "title": "First",
+                      "id": "RS-15.02.01.01"
+                    }
+                  ],
+                  "id": "RS-15.02.01"
+                },
+                {
+                  "title": "ancient Persian",
+                  "children": [
+                    {
+                      "title": "Second",
+                      "id": "RS-15.02.02.01"
+                    }
+                  ],
+                  "id": "RS-15.02.02"
+                },
+                {
+                  "title": "Egypto-Chaldean",
+                  "children": [
+                    {
+                      "title": "Third",
+                      "id": "RS-15.02.03.01"
+                    }
+                  ],
+                  "id": "RS-15.02.03"
+                },
+                {
+                  "title": "Greco-Roman",
+                  "children": [
+                    {
+                      "title": "Fourth",
+                      "id": "RS-15.02.04.01"
+                    }
+                  ],
+                  "id": "RS-15.02.04"
+                },
+                {
+                  "title": "fifth/post-medieval epoch",
+                  "id": "RS-15.02.05"
+                },
+                {
+                  "title": "future sixth and seventh",
+                  "children": [
+                    {
+                      "title": "Steiner’s projected epochs",
+                      "id": "RS-15.02.06.01"
+                    }
+                  ],
+                  "id": "RS-15.02.06"
+                }
+              ],
+              "id": "RS-15.02"
+            },
+            {
+              "title": "Historical transitions",
+              "children": [
+                {
+                  "title": "evolution of writing and language",
+                  "id": "RS-15.03.01"
+                },
+                {
+                  "title": "development of the I",
+                  "id": "RS-15.03.02"
+                },
+                {
+                  "title": "early Christianity",
+                  "id": "RS-15.03.03"
+                },
+                {
+                  "title": "medieval period",
+                  "id": "RS-15.03.04"
+                },
+                {
+                  "title": "Renaissance",
+                  "id": "RS-15.03.05"
+                },
+                {
+                  "title": "modern science",
+                  "id": "RS-15.03.06"
+                }
+              ],
+              "id": "RS-15.03"
+            },
+            {
+              "title": "Peoples and languages",
+              "children": [
+                {
+                  "title": "folk souls",
+                  "id": "RS-15.04.01"
+                },
+                {
+                  "title": "language spirits",
+                  "id": "RS-15.04.02"
+                },
+                {
+                  "title": "geographical differences",
+                  "id": "RS-15.04.03"
+                },
+                {
+                  "title": "collective culture",
+                  "id": "RS-15.04.04"
+                },
+                {
+                  "title": "historical national missions",
+                  "id": "RS-15.04.05"
+                }
+              ],
+              "id": "RS-15.04"
+            },
+            {
+              "title": "Civilizational comparisons",
+              "children": [
+                {
+                  "title": "East and West",
+                  "id": "RS-15.05.01"
+                },
+                {
+                  "title": "ancient and modern",
+                  "id": "RS-15.05.02"
+                },
+                {
+                  "title": "Greece and Rome",
+                  "id": "RS-15.05.03"
+                },
+                {
+                  "title": "European cultural history",
+                  "id": "RS-15.05.04"
+                },
+                {
+                  "title": "Christianity and modernity",
+                  "id": "RS-15.05.05"
+                }
+              ],
+              "id": "RS-15.05"
+            },
+            {
+              "title": "Historical claims needing careful context",
+              "children": [
+                {
+                  "title": "racialized language and typologies",
+                  "id": "RS-15.06.01"
+                },
+                {
+                  "title": "historical predictions",
+                  "id": "RS-15.06.02"
+                },
+                {
+                  "title": "dated ethnological descriptions",
+                  "id": "RS-15.06.03"
+                },
+                {
+                  "title": "discrimination between report and endorsement",
+                  "id": "RS-15.06.04"
+                }
+              ],
+              "id": "RS-15.06"
+            }
+          ]
+        },
+        {
+          "id": "16",
+          "title": "Michael, Lucifer, Ahriman, and Spiritual Opposition",
+          "ga": [
+            "13",            "26",
+            "177",
+            "191",
+            "223",
+            "229",
+            "233a"
+          ],
+          "source_links": [
+            {
+              "ga": "13",
+              "url": "https://rsarchive.org/Books/GA013/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "26",
+              "url": "https://rsarchive.org/Books/GA026/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "177",
+              "url": "https://rsarchive.org/Lectures/GA177/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "191",
+              "url": "https://rsarchive.org/Lectures/GA191/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "223",
+              "url": "https://rsarchive.org/Lectures/GA223/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "229",
+              "url": "https://rsarchive.org/Lectures/GA229/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "233a",
+              "url": "https://rsarchive.org/Lectures/GA233/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            }
+          ],
+          "children": [
+            {
+              "title": "Michaelic stream",
+              "children": [
+                {
+                  "title": "Michael as spiritual being",
+                  "id": "RS-16.01.01"
+                },
+                {
+                  "title": "cosmic intelligence",
+                  "id": "RS-16.01.02"
+                },
+                {
+                  "title": "Michael's historical epochs",
+                  "id": "RS-16.01.03"
+                },
+                {
+                  "title": "Michaelic schooling",
+                  "id": "RS-16.01.04"
+                },
+                {
+                  "title": "relationship to thinking",
+                  "id": "RS-16.01.05"
+                }
+              ],
+              "id": "RS-16.01"
+            },
+            {
+              "title": "Luciferic influences",
+              "children": [
+                {
+                  "title": "premature spiritualization",
+                  "id": "RS-16.02.01"
+                },
+                {
+                  "title": "one-sided exaltation",
+                  "id": "RS-16.02.02"
+                },
+                {
+                  "title": "temptation and illusion",
+                  "id": "RS-16.02.03"
+                },
+                {
+                  "title": "spiritual pride",
+                  "id": "RS-16.02.04"
+                },
+                {
+                  "title": "relation to art and imagination",
+                  "id": "RS-16.02.05"
+                }
+              ],
+              "id": "RS-16.02"
+            },
+            {
+              "title": "Ahrimanic influences",
+              "children": [
+                {
+                  "title": "materialism",
+                  "id": "RS-16.03.01"
+                },
+                {
+                  "title": "mechanization",
+                  "id": "RS-16.03.02"
+                },
+                {
+                  "title": "rigid intellectualism",
+                  "id": "RS-16.03.03"
+                },
+                {
+                  "title": "calculation and control",
+                  "id": "RS-16.03.04"
+                },
+                {
+                  "title": "technological civilization",
+                  "id": "RS-16.03.05"
+                }
+              ],
+              "id": "RS-16.03"
+            },
+            {
+              "title": "Christic balance",
+              "children": [
+                {
+                  "title": "human freedom",
+                  "id": "RS-16.04.01"
+                },
+                {
+                  "title": "equilibrium between opposing influences",
+                  "id": "RS-16.04.02"
+                },
+                {
+                  "title": "Representative of Humanity",
+                  "id": "RS-16.04.03"
+                },
+                {
+                  "title": "transformation rather than simple suppression",
+                  "id": "RS-16.04.04"
+                }
+              ],
+              "id": "RS-16.04"
+            },
+            {
+              "title": "Adversarial and apocalyptic themes",
+              "children": [
+                {
+                  "title": "Asuras",
+                  "id": "RS-16.05.01"
+                },
+                {
+                  "title": "Sorat in particular lectures",
+                  "id": "RS-16.05.02"
+                },
+                {
+                  "title": "fall of spirits of darkness",
+                  "id": "RS-16.05.03"
+                },
+                {
+                  "title": "moral evil",
+                  "id": "RS-16.05.04"
+                },
+                {
+                  "title": "future spiritual challenges",
+                  "id": "RS-16.05.05"
+                }
+              ],
+              "id": "RS-16.05"
+            },
+            {
+              "title": "Historical context",
+              "children": [
+                {
+                  "title": "different meanings of evil",
+                  "id": "RS-16.06.01"
+                },
+                {
+                  "title": "metaphor and claimed spiritual reality",
+                  "id": "RS-16.06.02"
+                },
+                {
+                  "title": "evolution of Steiner's vocabulary across lectures",
+                  "id": "RS-16.06.03"
+                }
+              ],
+              "id": "RS-16.06"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "V",
+      "title": "Science, Healing, Education, Agriculture, and Society",
+      "children": [
+        {
+          "id": "17",
+          "title": "Natural Sciences, Mathematics, Astronomy, and Technology",
+          "ga": [
+            "1",
+            "2",
+            "6",
+            "73",
+            "320",
+            "321",
+            "322",
+            "323",
+            "324a",
+            "325",
+            "326",
+            "354"
+          ],
+          "source_links": [
+            {
+              "ga": "1",
+              "url": "https://rsarchive.org/Books/GA001/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "2",
+              "url": "https://rsarchive.org/Books/GA002/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "6",
+              "url": "https://rsarchive.org/Books/GA006/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "73",
+              "url": "https://rsarchive.org/Lectures/GA073/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "320",
+              "url": "https://rsarchive.org/Lectures/GA320/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "321",
+              "url": "https://rsarchive.org/Lectures/GA321/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "322",
+              "url": "https://rsarchive.org/Lectures/GA322/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "323",
+              "url": "https://rsarchive.org/Lectures/GA323/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "324a",
+              "url": "https://rsarchive.org/Lectures/GA324/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "325",
+              "url": "https://rsarchive.org/Lectures/GA325/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "326",
+              "url": "https://rsarchive.org/Lectures/GA326/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "354",
+              "url": "https://rsarchive.org/Lectures/GA354/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            }
+          ],
+          "children": [
+            {
+              "title": "Physics and phenomena",
+              "children": [
+                {
+                  "title": "light and color",
+                  "children": [
+                    {
+                      "title": "Phenomena and optics",
+                      "id": "RS-17.01.01.01"
+                    }
+                  ],
+                  "id": "RS-17.01.01"
+                },
+                {
+                  "title": "warmth and heat",
+                  "children": [
+                    {
+                      "title": "Heat and thermal processes",
+                      "id": "RS-17.01.02.01"
+                    }
+                  ],
+                  "id": "RS-17.01.02"
+                },
+                {
+                  "title": "electricity and magnetism",
+                  "children": [
+                    {
+                      "title": "Questions of physical and cultural force",
+                      "id": "RS-17.01.03.01"
+                    }
+                  ],
+                  "id": "RS-17.01.03"
+                },
+                {
+                  "title": "acoustics",
+                  "children": [
+                    {
+                      "title": "Sound and vibration",
+                      "id": "RS-17.01.04.01"
+                    }
+                  ],
+                  "id": "RS-17.01.04"
+                },
+                {
+                  "title": "mechanics",
+                  "children": [
+                    {
+                      "title": "Motion and causes",
+                      "id": "RS-17.01.05.01"
+                    }
+                  ],
+                  "id": "RS-17.01.05"
+                },
+                {
+                  "title": "matter and energy",
+                  "id": "RS-17.01.06"
+                }
+              ],
+              "id": "RS-17.01"
+            },
+            {
+              "title": "Astronomy and mathematics",
+              "children": [
+                {
+                  "title": "celestial motion",
+                  "id": "RS-17.02.01"
+                },
+                {
+                  "title": "solar and lunar phenomena",
+                  "id": "RS-17.02.02"
+                },
+                {
+                  "title": "cosmic rhythms",
+                  "id": "RS-17.02.03"
+                },
+                {
+                  "title": "projective ideas",
+                  "id": "RS-17.02.04"
+                },
+                {
+                  "title": "geometry",
+                  "id": "RS-17.02.05"
+                },
+                {
+                  "title": "fourth dimension",
+                  "id": "RS-17.02.06"
+                }
+              ],
+              "id": "RS-17.02"
+            },
+            {
+              "title": "Chemistry and substance",
+              "children": [
+                {
+                  "title": "elements",
+                  "id": "RS-17.03.01"
+                },
+                {
+                  "title": "chemical processes",
+                  "id": "RS-17.03.02"
+                },
+                {
+                  "title": "combustion",
+                  "id": "RS-17.03.03"
+                },
+                {
+                  "title": "crystallization",
+                  "id": "RS-17.03.04"
+                },
+                {
+                  "title": "chemical symbolism",
+                  "id": "RS-17.03.05"
+                },
+                {
+                  "title": "mineral transformation",
+                  "id": "RS-17.03.06"
+                }
+              ],
+              "id": "RS-17.03"
+            },
+            {
+              "title": "Biology and physiology",
+              "children": [
+                {
+                  "title": "morphology",
+                  "id": "RS-17.04.01"
+                },
+                {
+                  "title": "plant development",
+                  "id": "RS-17.04.02"
+                },
+                {
+                  "title": "animal forms",
+                  "id": "RS-17.04.03"
+                },
+                {
+                  "title": "organs and bodily processes",
+                  "id": "RS-17.04.04"
+                },
+                {
+                  "title": "living formative forces",
+                  "id": "RS-17.04.05"
+                }
+              ],
+              "id": "RS-17.04"
+            },
+            {
+              "title": "Science and knowledge",
+              "children": [
+                {
+                  "title": "limits of measurement",
+                  "id": "RS-17.05.01"
+                },
+                {
+                  "title": "experimentalism",
+                  "id": "RS-17.05.02"
+                },
+                {
+                  "title": "Goethean phenomenology",
+                  "id": "RS-17.05.03"
+                },
+                {
+                  "title": "critiques of scientific materialism",
+                  "id": "RS-17.05.04"
+                },
+                {
+                  "title": "spiritual interpretation of natural processes",
+                  "id": "RS-17.05.05"
+                }
+              ],
+              "id": "RS-17.05"
+            },
+            {
+              "title": "Technology and modernity",
+              "children": [
+                {
+                  "title": "industrial civilization",
+                  "id": "RS-17.06.01"
+                },
+                {
+                  "title": "machines and mechanization",
+                  "id": "RS-17.06.02"
+                },
+                {
+                  "title": "electricity and spiritual-cultural questions",
+                  "id": "RS-17.06.03"
+                },
+                {
+                  "title": "human freedom amidst technology",
+                  "id": "RS-17.06.04"
+                }
+              ],
+              "id": "RS-17.06"
+            }
+          ]
+        },
+        {
+          "id": "18",
+          "title": "Medicine, Therapeutics, Health, and Remedial Care",
+          "ga": [
+            "27",
+            "312",
+            "313",
+            "314",
+            "315",
+            "316",
+            "317",
+            "318",
+            "319"
+          ],
+          "source_links": [
+            {
+              "ga": "27",
+              "url": "https://rsarchive.org/Books/GA027/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "312",
+              "url": "https://rsarchive.org/Lectures/GA312/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "313",              "url": "https://rsarchive.org/Lectures/GA313/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "314",
+              "url": "https://rsarchive.org/Lectures/GA314/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "315",
+              "url": "https://rsarchive.org/Lectures/GA315/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "316",
+              "url": "https://rsarchive.org/Lectures/GA316/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "317",
+              "url": "https://rsarchive.org/Lectures/GA317/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "318",
+              "url": "https://rsarchive.org/Lectures/GA318/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "319",
+              "url": "https://rsarchive.org/Lectures/GA319/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            }
+          ],
+          "children": [
+            {
+              "title": "Medical anthropology",
+              "children": [
+                {
+                  "title": "threefold organism",
+                  "id": "RS-18.01.01"
+                },
+                {
+                  "title": "fourfold organization",
+                  "id": "RS-18.01.02"
+                },
+                {
+                  "title": "etheric and astral processes",
+                  "id": "RS-18.01.03"
+                },
+                {
+                  "title": "constitution",
+                  "id": "RS-18.01.04"
+                },
+                {
+                  "title": "health and disease",
+                  "id": "RS-18.01.05"
+                }
+              ],
+              "id": "RS-18.01"
+            },
+            {
+              "title": "Organ systems",
+              "children": [
+                {
+                  "title": "nervous-sensory organization",
+                  "id": "RS-18.02.01"
+                },
+                {
+                  "title": "rhythmic system",
+                  "id": "RS-18.02.02"
+                },
+                {
+                  "title": "metabolic-limb processes",
+                  "id": "RS-18.02.03"
+                },
+                {
+                  "title": "heart and circulation",
+                  "id": "RS-18.02.04"
+                },
+                {
+                  "title": "digestion and metabolism",
+                  "id": "RS-18.02.05"
+                }
+              ],
+              "id": "RS-18.02"
+            },
+            {
+              "title": "Disease and diagnosis in Steiner's account",
+              "children": [
+                {
+                  "title": "inflammatory processes",
+                  "id": "RS-18.03.01"
+                },
+                {
+                  "title": "sclerosis tendencies",
+                  "id": "RS-18.03.02"
+                },
+                {
+                  "title": "fever",
+                  "id": "RS-18.03.03"
+                },
+                {
+                  "title": "epidemics",
+                  "id": "RS-18.03.04"
+                },
+                {
+                  "title": "constitutional imbalance",
+                  "id": "RS-18.03.05"
+                },
+                {
+                  "title": "individualized observation",
+                  "id": "RS-18.03.06"
+                }
+              ],
+              "id": "RS-18.03"
+            },
+            {
+              "title": "Therapeutic methods",
+              "children": [
+                {
+                  "title": "medicinal substances",
+                  "id": "RS-18.04.01"
+                },
+                {
+                  "title": "plant and mineral preparations",
+                  "id": "RS-18.04.02"
+                },
+                {
+                  "title": "external applications",
+                  "id": "RS-18.04.03"
+                },
+                {
+                  "title": "artistic therapies",
+                  "id": "RS-18.04.04"
+                },
+                {
+                  "title": "therapeutic eurythmy",
+                  "id": "RS-18.04.05"
+                },
+                {
+                  "title": "rhythm and treatment",
+                  "id": "RS-18.04.06"
+                }
+              ],
+              "id": "RS-18.04"
+            },
+            {
+              "title": "Life stages and medical concerns",
+              "children": [
+                {
+                  "title": "childhood illness",
+                  "id": "RS-18.05.01"
+                },
+                {
+                  "title": "aging",
+                  "id": "RS-18.05.02"
+                },
+                {
+                  "title": "mental health themes",
+                  "id": "RS-18.05.03"
+                },
+                {
+                  "title": "developmental difficulties",
+                  "id": "RS-18.05.04"
+                },
+                {
+                  "title": "support for patients",
+                  "id": "RS-18.05.05"
+                }
+              ],
+              "id": "RS-18.05"
+            },
+            {
+              "title": "Remedial / curative education",
+              "children": [
+                {
+                  "title": "child observation",
+                  "id": "RS-18.06.01"
+                },
+                {
+                  "title": "individualized pedagogical care",
+                  "id": "RS-18.06.02"
+                },
+                {
+                  "title": "developmental challenges",
+                  "id": "RS-18.06.03"
+                },
+                {
+                  "title": "social inclusion",
+                  "id": "RS-18.06.04"
+                },
+                {
+                  "title": "cooperation of education and therapy",
+                  "id": "RS-18.06.05"
+                }
+              ],
+              "id": "RS-18.06"
+            },
+            {
+              "title": "Evidence and safeguarding",
+              "children": [
+                {
+                  "title": "distinguish historical therapeutic claims from established medical evidence",
+                  "id": "RS-18.07.01"
+                },
+                {
+                  "title": "never substitute Steiner's teachings for diagnosis or treatment",
+                  "id": "RS-18.07.02"
+                }
+              ],
+              "id": "RS-18.07"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "title": "Education, Waldorf Pedagogy, and Child Development",
+          "ga": [
+            "34",
+            "293",
+            "294",
+            "295",
+            "300",
+            "301",
+            "302",
+            "303",
+            "304",
+            "305",
+            "306",
+            "307",
+            "308",
+            "309",
+            "310",
+            "311"
+          ],
+          "source_links": [
+            {
+              "ga": "34",
+              "url": "https://rsarchive.org/Volumes.html",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "293",
+              "url": "https://rsarchive.org/Lectures/GA293/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "294",
+              "url": "https://rsarchive.org/Lectures/GA294/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "295",
+              "url": "https://rsarchive.org/Lectures/GA295/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "300",
+              "url": "https://rsarchive.org/Lectures/GA300/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "301",
+              "url": "https://rsarchive.org/Lectures/GA301/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "302",
+              "url": "https://rsarchive.org/Lectures/GA302/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "303",
+              "url": "https://rsarchive.org/Lectures/GA303/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "304",
+              "url": "https://rsarchive.org/Lectures/GA304/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "305",
+              "url": "https://rsarchive.org/Lectures/GA305/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "306",
+              "url": "https://rsarchive.org/Lectures/GA306/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "307",
+              "url": "https://rsarchive.org/Lectures/GA307/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "308",
+              "url": "https://rsarchive.org/Lectures/GA308/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "309",
+              "url": "https://rsarchive.org/Lectures/GA309/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "310",
+              "url": "https://rsarchive.org/Lectures/GA310/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "311",
+              "url": "https://rsarchive.org/Lectures/GA311/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            }
+          ],
+          "children": [
+            {
+              "title": "Foundations of pedagogy",
+              "children": [
+                {
+                  "title": "image of the developing human",
+                  "id": "RS-19.01.01"
+                },
+                {
+                  "title": "teaching as an art",
+                  "id": "RS-19.01.02"
+                },
+                {
+                  "title": "teacher's self-education",
+                  "id": "RS-19.01.03"
+                },
+                {
+                  "title": "freedom and moral formation",
+                  "id": "RS-19.01.04"
+                },
+                {
+                  "title": "thinking-feeling-willing",
+                  "id": "RS-19.01.05"
+                }
+              ],
+              "id": "RS-19.01"
+            },
+            {
+              "title": "Developmental stages",
+              "children": [
+                {
+                  "title": "early imitation",
+                  "id": "RS-19.02.01"
+                },
+                {
+                  "title": "change of teeth",
+                  "id": "RS-19.02.02"
+                },
+                {
+                  "title": "puberty and emerging judgment",
+                  "id": "RS-19.02.03"
+                },
+                {
+                  "title": "adolescence",
+                  "id": "RS-19.02.04"
+                },
+                {
+                  "title": "maturation and individuality",
+                  "id": "RS-19.02.05"
+                }
+              ],
+              "id": "RS-19.02"
+            },
+            {
+              "title": "Teaching practice",
+              "children": [
+                {
+                  "title": "storytelling",
+                  "id": "RS-19.03.01"
+                },
+                {
+                  "title": "imaginative instruction",
+                  "id": "RS-19.03.02"
+                },
+                {
+                  "title": "rhythm and repetition",
+                  "id": "RS-19.03.03"
+                },
+                {
+                  "title": "artistic integration",
+                  "id": "RS-19.03.04"
+                },
+                {
+                  "title": "observation and assessment",
+                  "id": "RS-19.03.05"
+                },
+                {
+                  "title": "class community",
+                  "id": "RS-19.03.06"
+                }
+              ],
+              "id": "RS-19.03"
+            },
+            {
+              "title": "Subjects and curriculum",
+              "children": [
+                {
+                  "title": "reading and writing",
+                  "id": "RS-19.04.01"
+                },
+                {
+                  "title": "arithmetic and geometry",
+                  "id": "RS-19.04.02"
+                },
+                {
+                  "title": "languages",
+                  "id": "RS-19.04.03"
+                },
+                {
+                  "title": "history",
+                  "id": "RS-19.04.04"
+                },
+                {
+                  "title": "geography",
+                  "id": "RS-19.04.05"
+                },
+                {
+                  "title": "natural science",
+                  "id": "RS-19.04.06"
+                },
+                {
+                  "title": "handwork",
+                  "id": "RS-19.04.07"
+                },
+                {
+                  "title": "movement and music",
+                  "id": "RS-19.04.08"
+                }
+              ],
+              "id": "RS-19.04"
+            },
+            {
+              "title": "School organization",
+              "children": [
+                {
+                  "title": "first Waldorf School",
+                  "id": "RS-19.05.01"
+                },
+                {
+                  "title": "teacher conferences",
+                  "id": "RS-19.05.02"
+                },
+                {
+                  "title": "collegial governance",
+                  "id": "RS-19.05.03"
+                },
+                {
+                  "title": "parent relations",
+                  "id": "RS-19.05.04"
+                },
+                {
+                  "title": "social purpose of education",
+                  "id": "RS-19.05.05"
+                }
+              ],
+              "id": "RS-19.05"
+            },
+            {
+              "title": "Special settings",
+              "children": [
+                {
+                  "title": "early childhood",
+                  "id": "RS-19.06.01"
+                },
+                {
+                  "title": "adolescent education",
+                  "id": "RS-19.06.02"
+                },
+                {
+                  "title": "adult education",
+                  "id": "RS-19.06.03"
+                },
+                {
+                  "title": "curative education",
+                  "id": "RS-19.06.04"
+                },
+                {
+                  "title": "diverse learning needs",
+                  "id": "RS-19.06.05"
+                }
+              ],
+              "id": "RS-19.06"
+            }
+          ]
+        },
+        {
+          "id": "20",
+          "title": "Agriculture, Food, Nutrition, and Ecological Life",
+          "ga": [
+            "327",
+            "230",
+            "223",            "351",
+            "353"
+          ],
+          "source_links": [
+            {
+              "ga": "327",
+              "url": "https://rsarchive.org/Lectures/GA327/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "230",
+              "url": "https://rsarchive.org/Lectures/GA230/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "223",
+              "url": "https://rsarchive.org/Lectures/GA223/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "351",
+              "url": "https://rsarchive.org/Lectures/GA351/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "353",
+              "url": "https://rsarchive.org/Lectures/GA353/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            }
+          ],
+          "children": [
+            {
+              "title": "Farm as living individuality",
+              "children": [
+                {
+                  "title": "organismic farm",
+                  "id": "RS-20.01.01"
+                },
+                {
+                  "title": "connection of soil, animals and plants",
+                  "id": "RS-20.01.02"
+                },
+                {
+                  "title": "farm self-sufficiency",
+                  "id": "RS-20.01.03"
+                },
+                {
+                  "title": "observing landscape",
+                  "id": "RS-20.01.04"
+                }
+              ],
+              "id": "RS-20.01"
+            },
+            {
+              "title": "Cosmic and earthly influences",
+              "children": [
+                {
+                  "title": "Sun and Moon",
+                  "id": "RS-20.02.01"
+                },
+                {
+                  "title": "planetary rhythms",
+                  "id": "RS-20.02.02"
+                },
+                {
+                  "title": "seasonal work",
+                  "id": "RS-20.02.03"
+                },
+                {
+                  "title": "earthly and cosmic forces",
+                  "id": "RS-20.02.04"
+                },
+                {
+                  "title": "planting and growth",
+                  "id": "RS-20.02.05"
+                }
+              ],
+              "id": "RS-20.02"
+            },
+            {
+              "title": "Soil fertility",
+              "children": [
+                {
+                  "title": "humus and compost",
+                  "id": "RS-20.03.01"
+                },
+                {
+                  "title": "manure",
+                  "id": "RS-20.03.02"
+                },
+                {
+                  "title": "vitality of soil",
+                  "id": "RS-20.03.03"
+                },
+                {
+                  "title": "soil organisms",
+                  "id": "RS-20.03.04"
+                },
+                {
+                  "title": "fertility and structure",
+                  "id": "RS-20.03.05"
+                }
+              ],
+              "id": "RS-20.03"
+            },
+            {
+              "title": "Preparations and substances",
+              "children": [
+                {
+                  "title": "horn manure (500)",
+                  "children": [
+                    {
+                      "title": "Agricultural preparation",
+                      "id": "RS-20.04.01.01"
+                    }
+                  ],
+                  "id": "RS-20.04.01"
+                },
+                {
+                  "title": "horn silica (501)",
+                  "children": [
+                    {
+                      "title": "Agricultural preparation",
+                      "id": "RS-20.04.02.01"
+                    }
+                  ],
+                  "id": "RS-20.04.02"
+                },
+                {
+                  "title": "compost preparations (502–507)",
+                  "children": [
+                    {
+                      "title": "Compost treatment",
+                      "id": "RS-20.04.03.01"
+                    }
+                  ],
+                  "id": "RS-20.04.03"
+                },
+                {
+                  "title": "medicinal plants",
+                  "id": "RS-20.04.04"
+                },
+                {
+                  "title": "application principles",
+                  "id": "RS-20.04.05"
+                }
+              ],
+              "id": "RS-20.04"
+            },
+            {
+              "title": "Crops, animals, and nutrition",
+              "children": [
+                {
+                  "title": "animal husbandry",
+                  "id": "RS-20.05.01"
+                },
+                {
+                  "title": "plant health",
+                  "id": "RS-20.05.02"
+                },
+                {
+                  "title": "weeds and pests",
+                  "id": "RS-20.05.03"
+                },
+                {
+                  "title": "food quality",
+                  "id": "RS-20.05.04"
+                },
+                {
+                  "title": "seed and reproduction",
+                  "id": "RS-20.05.05"
+                }
+              ],
+              "id": "RS-20.05"
+            },
+            {
+              "title": "Ecological practice and historical context",
+              "children": [
+                {
+                  "title": "nutrition and spiritual development",
+                  "id": "RS-20.06.01"
+                },
+                {
+                  "title": "biodynamic principles",
+                  "id": "RS-20.06.02"
+                },
+                {
+                  "title": "observation versus empirical evaluation",
+                  "id": "RS-20.06.03"
+                },
+                {
+                  "title": "distinction from later biodynamic practice",
+                  "id": "RS-20.06.04"
+                }
+              ],
+              "id": "RS-20.06"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "title": "Social Threefolding, Economics, Law, and Political Life",
+          "ga": [
+            "23",
+            "24",
+            "328",
+            "329",
+            "330",
+            "331",
+            "332a",
+            "333",
+            "334",
+            "335",
+            "337a",
+            "337b",
+            "338",
+            "340",
+            "341"
+          ],
+          "source_links": [
+            {
+              "ga": "23",
+              "url": "https://rsarchive.org/Books/GA023/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "24",
+              "url": "https://rsarchive.org/Books/GA024/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "328",
+              "url": "https://rsarchive.org/Lectures/GA328/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "329",
+              "url": "https://rsarchive.org/Lectures/GA329/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "330",
+              "url": "https://rsarchive.org/Lectures/GA330/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "331",
+              "url": "https://rsarchive.org/Lectures/GA331/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "332a",
+              "url": "https://rsarchive.org/Lectures/GA332/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "333",
+              "url": "https://rsarchive.org/Lectures/GA333/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "334",
+              "url": "https://rsarchive.org/Lectures/GA334/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "335",
+              "url": "https://rsarchive.org/Lectures/GA335/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "337a",
+              "url": "https://rsarchive.org/Lectures/GA337/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "337b",
+              "url": "https://rsarchive.org/Lectures/GA337/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "338",
+              "url": "https://rsarchive.org/Lectures/GA338/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "340",
+              "url": "https://rsarchive.org/Lectures/GA340/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "341",
+              "url": "https://rsarchive.org/Lectures/GA341/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            }
+          ],
+          "children": [
+            {
+              "title": "Threefold social organism",
+              "children": [
+                {
+                  "title": "cultural-spiritual life and freedom",
+                  "children": [
+                    {
+                      "title": "Freedom",
+                      "id": "RS-21.01.01.01"
+                    }
+                  ],
+                  "id": "RS-21.01.01"
+                },
+                {
+                  "title": "rights-political life and equality",
+                  "children": [
+                    {
+                      "title": "Equality",
+                      "id": "RS-21.01.02.01"
+                    }
+                  ],
+                  "id": "RS-21.01.02"
+                },
+                {
+                  "title": "economic-associative life and fraternity",
+                  "children": [
+                    {
+                      "title": "Fraternity",
+                      "id": "RS-21.01.03.01"
+                    }
+                  ],
+                  "id": "RS-21.01.03"
+                },
+                {
+                  "title": "independence and interrelation",
+                  "id": "RS-21.01.04"
+                }
+              ],
+              "id": "RS-21.01"
+            },
+            {
+              "title": "Economic process",
+              "children": [
+                {
+                  "title": "production",
+                  "id": "RS-21.02.01"
+                },
+                {
+                  "title": "circulation",
+                  "id": "RS-21.02.02"
+                },
+                {
+                  "title": "consumption",
+                  "id": "RS-21.02.03"
+                },
+                {
+                  "title": "value and price",
+                  "id": "RS-21.02.04"
+                },
+                {
+                  "title": "labor and capital",
+                  "id": "RS-21.02.05"
+                },
+                {
+                  "title": "credit and money",
+                  "id": "RS-21.02.06"
+                }
+              ],
+              "id": "RS-21.02"
+            },
+            {
+              "title": "Associations and ownership",
+              "children": [
+                {
+                  "title": "producer-consumer cooperation",
+                  "id": "RS-21.03.01"
+                },
+                {
+                  "title": "associative economy",
+                  "id": "RS-21.03.02"
+                },
+                {
+                  "title": "property and stewardship",
+                  "id": "RS-21.03.03"
+                },
+                {
+                  "title": "enterprise governance",
+                  "id": "RS-21.03.04"
+                },
+                {
+                  "title": "division of labor",
+                  "id": "RS-21.03.05"
+                }
+              ],
+              "id": "RS-21.03"
+            },
+            {
+              "title": "Rights and public life",
+              "children": [
+                {
+                  "title": "democracy and equality",
+                  "id": "RS-21.04.01"
+                },
+                {
+                  "title": "law",
+                  "id": "RS-21.04.02"
+                },
+                {
+                  "title": "education and state",
+                  "id": "RS-21.04.03"
+                },
+                {
+                  "title": "work and human dignity",
+                  "id": "RS-21.04.04"
+                },
+                {
+                  "title": "social responsibility",
+                  "id": "RS-21.04.05"
+                }
+              ],
+              "id": "RS-21.04"
+            },
+            {
+              "title": "Contemporary historical setting",
+              "children": [
+                {
+                  "title": "post-World War I social crisis",
+                  "id": "RS-21.05.01"
+                },
+                {
+                  "title": "European national questions",
+                  "id": "RS-21.05.02"
+                },
+                {
+                  "title": "workers' councils",
+                  "id": "RS-21.05.03"
+                },
+                {
+                  "title": "reform proposals",
+                  "id": "RS-21.05.04"
+                },
+                {
+                  "title": "social renewal",
+                  "id": "RS-21.05.05"
+                }
+              ],
+              "id": "RS-21.05"
+            },
+            {
+              "title": "Social ethics",
+              "children": [
+                {
+                  "title": "individual and community",
+                  "id": "RS-21.06.01"
+                },
+                {
+                  "title": "human freedom",
+                  "id": "RS-21.06.02"
+                },
+                {
+                  "title": "cultural pluralism",
+                  "id": "RS-21.06.03"
+                },
+                {
+                  "title": "global interdependence",
+                  "id": "RS-21.06.04"
+                },
+                {
+                  "title": "ethical solidarity",
+                  "id": "RS-21.06.05"
+                }
+              ],
+              "id": "RS-21.06"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "VI",
+      "title": "Art, Ritual, Architecture, and Anthroposophical Life",
+      "children": [
+        {
+          "id": "22",
+          "title": "Arts, Aesthetics, Color, Music, and Literature",
+          "ga": [
+            "14",
+            "275",
+            "276",
+            "283",
+            "291",
+            "292"
+          ],
+          "source_links": [
+            {
+              "ga": "14",
+              "url": "https://rsarchive.org/Books/GA014/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "275",
+              "url": "https://rsarchive.org/Lectures/GA275/",
+              "level": "GA volume/collection pointer; verify before deployment"            },
+            {
+              "ga": "276",
+              "url": "https://rsarchive.org/Lectures/GA276/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "283",
+              "url": "https://rsarchive.org/Lectures/GA283/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "291",
+              "url": "https://rsarchive.org/Lectures/GA291/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "292",
+              "url": "https://rsarchive.org/Lectures/GA292/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            }
+          ],
+          "children": [
+            {
+              "title": "Aesthetic philosophy",
+              "children": [
+                {
+                  "title": "art and spiritual knowledge",
+                  "id": "RS-22.01.01"
+                },
+                {
+                  "title": "Goethe's aesthetic approach",
+                  "id": "RS-22.01.02"
+                },
+                {
+                  "title": "imaginative form",
+                  "id": "RS-22.01.03"
+                },
+                {
+                  "title": "beauty and truth",
+                  "id": "RS-22.01.04"
+                },
+                {
+                  "title": "artistic freedom",
+                  "id": "RS-22.01.05"
+                }
+              ],
+              "id": "RS-22.01"
+            },
+            {
+              "title": "Color and painting",
+              "children": [
+                {
+                  "title": "qualitative experience of color",
+                  "id": "RS-22.02.01"
+                },
+                {
+                  "title": "active color relationships",
+                  "id": "RS-22.02.02"
+                },
+                {
+                  "title": "color moods",
+                  "id": "RS-22.02.03"
+                },
+                {
+                  "title": "painting technique",
+                  "id": "RS-22.02.04"
+                },
+                {
+                  "title": "color in the Goetheanum",
+                  "id": "RS-22.02.05"
+                }
+              ],
+              "id": "RS-22.02"
+            },
+            {
+              "title": "Music",
+              "children": [
+                {
+                  "title": "tone and interval",
+                  "id": "RS-22.03.01"
+                },
+                {
+                  "title": "melody and rhythm",
+                  "id": "RS-22.03.02"
+                },
+                {
+                  "title": "cosmic music",
+                  "id": "RS-22.03.03"
+                },
+                {
+                  "title": "relationship of music to the human being",
+                  "id": "RS-22.03.04"
+                },
+                {
+                  "title": "musical education",
+                  "id": "RS-22.03.05"
+                }
+              ],
+              "id": "RS-22.03"
+            },
+            {
+              "title": "Literature and poetry",
+              "children": [
+                {
+                  "title": "Goethe's Faust",
+                  "id": "RS-22.04.01"
+                },
+                {
+                  "title": "fairy tales",
+                  "id": "RS-22.04.02"
+                },
+                {
+                  "title": "mythic poetry",
+                  "id": "RS-22.04.03"
+                },
+                {
+                  "title": "Shakespeare",
+                  "id": "RS-22.04.04"
+                },
+                {
+                  "title": "German literature",
+                  "id": "RS-22.04.05"
+                },
+                {
+                  "title": "symbolic drama",
+                  "id": "RS-22.04.06"
+                }
+              ],
+              "id": "RS-22.04"
+            },
+            {
+              "title": "Art history",
+              "children": [
+                {
+                  "title": "ancient art",
+                  "id": "RS-22.05.01"
+                },
+                {
+                  "title": "classical art",
+                  "id": "RS-22.05.02"
+                },
+                {
+                  "title": "medieval religious art",
+                  "id": "RS-22.05.03"
+                },
+                {
+                  "title": "Renaissance",
+                  "id": "RS-22.05.04"
+                },
+                {
+                  "title": "modern artistic impulse",
+                  "id": "RS-22.05.05"
+                }
+              ],
+              "id": "RS-22.05"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "title": "Architecture, Sculpture, Design, and the Goetheanum",
+          "ga": [
+            "14",
+            "284",
+            "286",
+            "287",
+            "288",
+            "289"
+          ],
+          "source_links": [
+            {
+              "ga": "14",
+              "url": "https://rsarchive.org/Books/GA014/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "284",
+              "url": "https://rsarchive.org/Lectures/GA284/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "286",
+              "url": "https://rsarchive.org/Lectures/GA286/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "287",
+              "url": "https://rsarchive.org/Lectures/GA287/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "288",
+              "url": "https://rsarchive.org/Lectures/GA288/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "289",
+              "url": "https://rsarchive.org/Lectures/GA289/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            }
+          ],
+          "children": [
+            {
+              "title": "Organic architecture",
+              "children": [
+                {
+                  "title": "architectural metamorphosis",
+                  "id": "RS-23.01.01"
+                },
+                {
+                  "title": "living form",
+                  "id": "RS-23.01.02"
+                },
+                {
+                  "title": "functional and spiritual form",
+                  "id": "RS-23.01.03"
+                },
+                {
+                  "title": "architecture as world conception",
+                  "id": "RS-23.01.04"
+                }
+              ],
+              "id": "RS-23.01"
+            },
+            {
+              "title": "First Goetheanum",
+              "children": [
+                {
+                  "title": "double-dome design",
+                  "id": "RS-23.02.01"
+                },
+                {
+                  "title": "columns and capitals",
+                  "id": "RS-23.02.02"
+                },
+                {
+                  "title": "stained glass",
+                  "id": "RS-23.02.03"
+                },
+                {
+                  "title": "painting and interior",
+                  "id": "RS-23.02.04"
+                },
+                {
+                  "title": "artistic collaboration",
+                  "id": "RS-23.02.05"
+                }
+              ],
+              "id": "RS-23.02"
+            },
+            {
+              "title": "Second Goetheanum",
+              "children": [
+                {
+                  "title": "rebuilding",
+                  "id": "RS-23.03.01"
+                },
+                {
+                  "title": "sculptural concrete design",
+                  "id": "RS-23.03.02"
+                },
+                {
+                  "title": "architectural continuity and change",
+                  "id": "RS-23.03.03"
+                },
+                {
+                  "title": "building and cultural purpose",
+                  "id": "RS-23.03.04"
+                }
+              ],
+              "id": "RS-23.03"
+            },
+            {
+              "title": "Sculpture",
+              "children": [
+                {
+                  "title": "Representative of Humanity",
+                  "id": "RS-23.04.01"
+                },
+                {
+                  "title": "Lucifer-Ahriman-Christ configuration",
+                  "id": "RS-23.04.02"
+                },
+                {
+                  "title": "carving and form",
+                  "id": "RS-23.04.03"
+                },
+                {
+                  "title": "spiritual symbolism",
+                  "id": "RS-23.04.04"
+                }
+              ],
+              "id": "RS-23.04"
+            },
+            {
+              "title": "Applied design",
+              "children": [
+                {
+                  "title": "furniture",
+                  "id": "RS-23.05.01"
+                },
+                {
+                  "title": "color schemes",
+                  "id": "RS-23.05.02"
+                },
+                {
+                  "title": "inscriptions",
+                  "id": "RS-23.05.03"
+                },
+                {
+                  "title": "seals and motifs",
+                  "id": "RS-23.05.04"
+                },
+                {
+                  "title": "stage architecture",
+                  "id": "RS-23.05.05"
+                },
+                {
+                  "title": "design of communal spaces",
+                  "id": "RS-23.05.06"
+                }
+              ],
+              "id": "RS-23.05"
+            }
+          ]
+        },
+        {
+          "id": "24",
+          "title": "Eurythmy, Speech, Drama, and Embodied Performance",
+          "ga": [
+            "14",
+            "277",
+            "278",
+            "279",
+            "280",
+            "281",
+            "282"
+          ],
+          "source_links": [
+            {
+              "ga": "14",
+              "url": "https://rsarchive.org/Books/GA014/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "277",
+              "url": "https://rsarchive.org/Lectures/GA277/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "278",
+              "url": "https://rsarchive.org/Lectures/GA278/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "279",
+              "url": "https://rsarchive.org/Lectures/GA279/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "280",
+              "url": "https://rsarchive.org/Lectures/GA280/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "281",
+              "url": "https://rsarchive.org/Lectures/GA281/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "282",
+              "url": "https://rsarchive.org/Lectures/GA282/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            }
+          ],
+          "children": [
+            {
+              "title": "Eurythmy foundations",
+              "children": [
+                {
+                  "title": "visible speech",
+                  "id": "RS-24.01.01"
+                },
+                {
+                  "title": "visible singing",
+                  "id": "RS-24.01.02"
+                },
+                {
+                  "title": "gesture and sound",
+                  "id": "RS-24.01.03"
+                },
+                {
+                  "title": "movement and spatial forms",
+                  "id": "RS-24.01.04"
+                },
+                {
+                  "title": "spiritual basis of movement",
+                  "id": "RS-24.01.05"
+                }
+              ],
+              "id": "RS-24.01"
+            },
+            {
+              "title": "Speech eurythmy",
+              "children": [
+                {
+                  "title": "vowels",
+                  "id": "RS-24.02.01"
+                },
+                {
+                  "title": "consonants",
+                  "id": "RS-24.02.02"
+                },
+                {
+                  "title": "poetic forms",
+                  "id": "RS-24.02.03"
+                },
+                {
+                  "title": "expressive gesture",
+                  "id": "RS-24.02.04"
+                },
+                {
+                  "title": "meaning and movement",
+                  "id": "RS-24.02.05"
+                }
+              ],
+              "id": "RS-24.02"
+            },
+            {
+              "title": "Tone eurythmy",
+              "children": [
+                {
+                  "title": "intervals",
+                  "id": "RS-24.03.01"
+                },
+                {
+                  "title": "pitch",
+                  "id": "RS-24.03.02"
+                },
+                {
+                  "title": "musical phrase",
+                  "id": "RS-24.03.03"
+                },
+                {
+                  "title": "rhythm",
+                  "id": "RS-24.03.04"
+                },
+                {
+                  "title": "ensemble movement",
+                  "id": "RS-24.03.05"
+                }
+              ],
+              "id": "RS-24.03"
+            },
+            {
+              "title": "Speech formation",
+              "children": [
+                {
+                  "title": "articulation",
+                  "id": "RS-24.04.01"
+                },
+                {
+                  "title": "breathing and voice",
+                  "id": "RS-24.04.02"
+                },
+                {
+                  "title": "recitation",
+                  "id": "RS-24.04.03"
+                },
+                {
+                  "title": "declamation",
+                  "id": "RS-24.04.04"
+                },
+                {
+                  "title": "dramatic speech",
+                  "id": "RS-24.04.05"
+                },
+                {
+                  "title": "artistic training",
+                  "id": "RS-24.04.06"
+                }
+              ],
+              "id": "RS-24.04"
+            },
+            {
+              "title": "Dramatic art",
+              "children": [
+                {
+                  "title": "four Mystery Dramas",
+                  "id": "RS-24.05.01"
+                },
+                {
+                  "title": "character and destiny",
+                  "id": "RS-24.05.02"
+                },
+                {
+                  "title": "stagecraft",
+                  "id": "RS-24.05.03"
+                },                {
+                  "title": "performance and spiritual experience",
+                  "id": "RS-24.05.04"
+                }
+              ],
+              "id": "RS-24.05"
+            },
+            {
+              "title": "Eurythmy applications",
+              "children": [
+                {
+                  "title": "education",
+                  "id": "RS-24.06.01"
+                },
+                {
+                  "title": "performance",
+                  "id": "RS-24.06.02"
+                },
+                {
+                  "title": "therapeutic eurythmy",
+                  "id": "RS-24.06.03"
+                },
+                {
+                  "title": "collaborative arts",
+                  "id": "RS-24.06.04"
+                },
+                {
+                  "title": "distinction among contexts",
+                  "id": "RS-24.06.05"
+                }
+              ],
+              "id": "RS-24.06"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "title": "Festivals, Inner Practice, Spiritual Calendar, and Religious Work",
+          "ga": [
+            "10",
+            "40",
+            "223",
+            "224",
+            "229",
+            "260",
+            "342",
+            "343",
+            "344",
+            "345",
+            "346"
+          ],
+          "source_links": [
+            {
+              "ga": "10",
+              "url": "https://rsarchive.org/Books/GA010/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "40",
+              "url": "https://rsarchive.org/Volumes.html",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "223",
+              "url": "https://rsarchive.org/Lectures/GA223/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "224",
+              "url": "https://rsarchive.org/Lectures/GA224/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "229",
+              "url": "https://rsarchive.org/Lectures/GA229/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "260",
+              "url": "https://rsarchive.org/Lectures/GA260/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "342",
+              "url": "https://rsarchive.org/Lectures/GA342/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "343",
+              "url": "https://rsarchive.org/Lectures/GA343/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "344",
+              "url": "https://rsarchive.org/Lectures/GA344/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "345",
+              "url": "https://rsarchive.org/Lectures/GA345/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "346",
+              "url": "https://rsarchive.org/Lectures/GA346/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            }
+          ],
+          "children": [
+            {
+              "title": "The course of the year",
+              "children": [
+                {
+                  "title": "earthly breathing",
+                  "id": "RS-25.01.01"
+                },
+                {
+                  "title": "seasonal polarity",
+                  "id": "RS-25.01.02"
+                },
+                {
+                  "title": "Sun and Earth",
+                  "id": "RS-25.01.03"
+                },
+                {
+                  "title": "spiritual significance of seasons",
+                  "id": "RS-25.01.04"
+                },
+                {
+                  "title": "human inwardness",
+                  "id": "RS-25.01.05"
+                }
+              ],
+              "id": "RS-25.01"
+            },
+            {
+              "title": "Festival cycle",
+              "children": [
+                {
+                  "title": "Christmas",
+                  "id": "RS-25.02.01"
+                },
+                {
+                  "title": "Epiphany",
+                  "id": "RS-25.02.02"
+                },
+                {
+                  "title": "Easter",
+                  "id": "RS-25.02.03"
+                },
+                {
+                  "title": "Ascension",
+                  "id": "RS-25.02.04"
+                },
+                {
+                  "title": "Pentecost",
+                  "id": "RS-25.02.05"
+                },
+                {
+                  "title": "St. John's Tide",
+                  "id": "RS-25.02.06"
+                },
+                {
+                  "title": "Michaelmas",
+                  "id": "RS-25.02.07"
+                }
+              ],
+              "id": "RS-25.02"
+            },
+            {
+              "title": "Calendar of the Soul",
+              "children": [
+                {
+                  "title": "fifty-two weekly verses",
+                  "id": "RS-25.03.01"
+                },
+                {
+                  "title": "annual spiritual rhythms",
+                  "id": "RS-25.03.02"
+                },
+                {
+                  "title": "inner and outer seasons",
+                  "id": "RS-25.03.03"
+                },
+                {
+                  "title": "meditation with the verses",
+                  "id": "RS-25.03.04"
+                }
+              ],
+              "id": "RS-25.03"
+            },
+            {
+              "title": "Meditative life",
+              "children": [
+                {
+                  "title": "morning and evening meditation",
+                  "id": "RS-25.04.01"
+                },
+                {
+                  "title": "reverence",
+                  "id": "RS-25.04.02"
+                },
+                {
+                  "title": "verses and mantras",
+                  "id": "RS-25.04.03"
+                },
+                {
+                  "title": "Foundation Stone Meditation",
+                  "id": "RS-25.04.04"
+                },
+                {
+                  "title": "inner review",
+                  "id": "RS-25.04.05"
+                }
+              ],
+              "id": "RS-25.04"
+            },
+            {
+              "title": "Ritual and priestly work",
+              "children": [
+                {
+                  "title": "cultus",
+                  "id": "RS-25.05.01"
+                },
+                {
+                  "title": "sacraments and religious renewal",
+                  "id": "RS-25.05.02"
+                },
+                {
+                  "title": "Christian Community priest courses",
+                  "id": "RS-25.05.03"
+                },
+                {
+                  "title": "language of ritual",
+                  "id": "RS-25.05.04"
+                },
+                {
+                  "title": "Book of Revelation",
+                  "id": "RS-25.05.05"
+                }
+              ],
+              "id": "RS-25.05"
+            },
+            {
+              "title": "Practice and freedom",
+              "children": [
+                {
+                  "title": "esoteric exercise versus external custom",
+                  "id": "RS-25.06.01"
+                },
+                {
+                  "title": "festivals and community",
+                  "id": "RS-25.06.02"
+                },
+                {
+                  "title": "distinctions between recommendations and organizational traditions",
+                  "id": "RS-25.06.03"
+                }
+              ],
+              "id": "RS-25.06"
+            }
+          ]
+        },
+        {
+          "id": "26",
+          "title": "The Anthroposophical Movement, School, and Steiner's Self-Understanding",
+          "ga": [
+            "26",
+            "28",
+            "250",
+            "257",
+            "258",
+            "259",
+            "260",
+            "260a",
+            "264",
+            "266",
+            "270"
+          ],
+          "source_links": [
+            {
+              "ga": "26",
+              "url": "https://rsarchive.org/Books/GA026/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "28",
+              "url": "https://rsarchive.org/Books/GA028/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "250",
+              "url": "https://rsarchive.org/Lectures/GA250/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "257",
+              "url": "https://rsarchive.org/Lectures/GA257/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "258",
+              "url": "https://rsarchive.org/Lectures/GA258/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "259",
+              "url": "https://rsarchive.org/Lectures/GA259/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "260",
+              "url": "https://rsarchive.org/Lectures/GA260/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "260a",
+              "url": "https://rsarchive.org/Lectures/GA260/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "264",
+              "url": "https://rsarchive.org/Lectures/GA264/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "266",
+              "url": "https://rsarchive.org/Lectures/GA266/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            },
+            {
+              "ga": "270",
+              "url": "https://rsarchive.org/Lectures/GA270/",
+              "level": "GA volume/collection pointer; verify before deployment"
+            }
+          ],
+          "children": [
+            {
+              "title": "Life and development of Steiner's work",
+              "children": [
+                {
+                  "title": "Goethe scholarship",
+                  "id": "RS-26.01.01"
+                },
+                {
+                  "title": "philosophical period",
+                  "id": "RS-26.01.02"
+                },
+                {
+                  "title": "Theosophical Society period",
+                  "id": "RS-26.01.03"
+                },
+                {
+                  "title": "Anthroposophical Society",
+                  "id": "RS-26.01.04"
+                },
+                {
+                  "title": "final years",
+                  "id": "RS-26.01.05"
+                }
+              ],
+              "id": "RS-26.01"
+            },
+            {
+              "title": "Institutional history",
+              "children": [
+                {
+                  "title": "founding of the Anthroposophical Society",
+                  "id": "RS-26.02.01"
+                },
+                {
+                  "title": "branches and teaching",
+                  "id": "RS-26.02.02"
+                },
+                {
+                  "title": "Goetheanum",
+                  "id": "RS-26.02.03"
+                },
+                {
+                  "title": "Christmas Conference",
+                  "id": "RS-26.02.04"
+                },
+                {
+                  "title": "General Anthroposophical Society",
+                  "id": "RS-26.02.05"
+                }
+              ],
+              "id": "RS-26.02"
+            },
+            {
+              "title": "School of Spiritual Science",
+              "children": [
+                {
+                  "title": "First Class",
+                  "id": "RS-26.03.01"
+                },
+                {
+                  "title": "esoteric lessons",
+                  "id": "RS-26.03.02"
+                },
+                {
+                  "title": "Michael School",
+                  "id": "RS-26.03.03"
+                },
+                {
+                  "title": "lessons and mantric content",
+                  "id": "RS-26.03.04"
+                },
+                {
+                  "title": "responsibilities of membership",
+                  "id": "RS-26.03.05"
+                }
+              ],
+              "id": "RS-26.03"
+            },
+            {
+              "title": "Publication and communication",
+              "children": [
+                {
+                  "title": "lecture cycles",
+                  "id": "RS-26.04.01"
+                },
+                {
+                  "title": "written books",
+                  "id": "RS-26.04.02"
+                },
+                {
+                  "title": "periodical essays",
+                  "id": "RS-26.04.03"
+                },
+                {
+                  "title": "leading thoughts",
+                  "id": "RS-26.04.04"
+                },
+                {
+                  "title": "letters to members",
+                  "id": "RS-26.04.05"
+                },
+                {
+                  "title": "distinction between reviewed works and lecture transcripts",
+                  "id": "RS-26.04.06"
+                }
+              ],
+              "id": "RS-26.04"
+            },
+            {
+              "title": "Organizational and social practice",
+              "children": [
+                {
+                  "title": "artistic work",
+                  "id": "RS-26.05.01"
+                },
+                {
+                  "title": "collaborative research",
+                  "id": "RS-26.05.02"
+                },
+                {
+                  "title": "community spiritual life",
+                  "id": "RS-26.05.03"
+                },
+                {
+                  "title": "tensions between inner life and institution",
+                  "id": "RS-26.05.04"
+                }
+              ],
+              "id": "RS-26.05"
+            },
+            {
+              "title": "Primary documentary forms",
+              "children": [
+                {
+                  "title": "autobiography",
+                  "id": "RS-26.06.01"
+                },
+                {
+                  "title": "correspondence and notes",
+                  "id": "RS-26.06.02"
+                },
+                {
+                  "title": "blackboard drawings",
+                  "id": "RS-26.06.03"
+                },
+                {
+                  "title": "artistic models",
+                  "id": "RS-26.06.04"
+                },
+                {
+                  "title": "manuscript variants and editorial history",
+                  "id": "RS-26.06.05"
+                }
+              ],
+              "id": "RS-26.06"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "crosslinks": [
+    {      "from": "RS-09.01",
+      "to": "RS-06.03",
+      "relationship": "constitution as a product of cosmic evolution"
+    },
+    {
+      "from": "RS-09.04",
+      "to": "RS-15.02",
+      "relationship": "soul principles and cultural epochs"
+    },
+    {
+      "from": "RS-09.05",
+      "to": "RS-12.04",
+      "relationship": "spirit principles and future development"
+    },
+    {
+      "from": "RS-10.03",
+      "to": "RS-19.01",
+      "relationship": "twelve senses and education"
+    },
+    {
+      "from": "RS-10.04",
+      "to": "RS-17.04",
+      "relationship": "life processes and biology"
+    },
+    {
+      "from": "RS-03.03",
+      "to": "RS-10.02",
+      "relationship": "initiation and states of consciousness"
+    },
+    {
+      "from": "RS-01.01",
+      "to": "RS-04.01",
+      "relationship": "epistemology and worldview typology"
+    },
+    {
+      "from": "RS-02.02",
+      "to": "RS-20.04",
+      "relationship": "Goethean plants and farming"
+    },
+    {
+      "from": "RS-05.02",
+      "to": "RS-06.01",
+      "relationship": "spiritual hierarchies and evolution"
+    },
+    {
+      "from": "RS-07.04",
+      "to": "RS-20.02",
+      "relationship": "elementals and cosmic forces in agriculture"
+    },
+    {
+      "from": "RS-08.03",
+      "to": "RS-11.01",
+      "relationship": "between lives and life stages"
+    },
+    {
+      "from": "RS-08.02",
+      "to": "RS-21.06",
+      "relationship": "karma and social ethics"
+    },
+    {
+      "from": "RS-13.04",
+      "to": "RS-25.02",
+      "relationship": "Golgotha and Easter festivals"
+    },
+    {
+      "from": "RS-14.02",
+      "to": "RS-13.03",
+      "relationship": "scriptures and four gospels"
+    },
+    {
+      "from": "RS-15.02",
+      "to": "RS-12.01",
+      "relationship": "epochs and evolution of consciousness"
+    },
+    {
+      "from": "RS-16.01",
+      "to": "RS-25.02",
+      "relationship": "Michael and Michaelmas"
+    },
+    {
+      "from": "RS-16.04",
+      "to": "RS-23.04",
+      "relationship": "Representative of Humanity and spiritual polarities"
+    },
+    {
+      "from": "RS-17.01",
+      "to": "RS-02.03",
+      "relationship": "optics and Goethean color"
+    },
+    {
+      "from": "RS-17.02",
+      "to": "RS-06.04",
+      "relationship": "astronomy and spiritual cosmology"
+    },
+    {
+      "from": "RS-18.01",
+      "to": "RS-09.02",
+      "relationship": "medicine and threefold organization"
+    },
+    {
+      "from": "RS-18.06",
+      "to": "RS-19.06",
+      "relationship": "remedial education and pedagogy"
+    },
+    {
+      "from": "RS-19.02",
+      "to": "RS-11.01",
+      "relationship": "developmental periods and teaching"
+    },
+    {
+      "from": "RS-21.01",
+      "to": "RS-19.05",
+      "relationship": "cultural life and school autonomy"
+    },
+    {
+      "from": "RS-22.02",
+      "to": "RS-02.03",
+      "relationship": "painting and color phenomenology"
+    },
+    {
+      "from": "RS-24.06",
+      "to": "RS-18.04",
+      "relationship": "therapeutic eurythmy"
+    },
+    {
+      "from": "RS-24.05",
+      "to": "RS-08.02",
+      "relationship": "mystery dramas and karma"
+    },
+    {
+      "from": "RS-25.03",
+      "to": "RS-10.02",
+      "relationship": "Calendar of the Soul and consciousness"
+    },
+    {
+      "from": "RS-26.03",
+      "to": "RS-03.06",
+      "relationship": "First Class and esoteric schooling"
+    },
+    {
+      "from": "RS-04.02",
+      "to": "RS-05.05",
+      "relationship": "world thought and spiritual hierarchies"
+    },
+    {
+      "from": "RS-07.05",
+      "to": "RS-25.01",
+      "relationship": "Earth breathing and festivals"
+    }
+  ]
+}
