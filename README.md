@@ -51,3 +51,11 @@ Run `python tools/validate_taxonomy.py` to check stable IDs and crosslink integr
 ## Rights
 
 The taxonomy, notes and diagrams are an original working classification. Original Steiner texts and translations may carry separate copyright restrictions; do not copy substantial external text into the repo without assessing rights. This project has no general license at present.
+
+## Companion architecture and prototype
+
+**This is a conceptual index over the archives, not a second text archive.** RS Archive remains the destination for Steiner's writings and lectures; the Rudolf Steiner Archiv in Dornach provides the Complete Works bibliographic framework. The Atlas adds fine-grained classification, stable concept IDs, cross-domain routes, controlled term search and graded source references. [Read the architecture and non-duplication rules](docs/COMPLEMENTARY_ARCHITECTURE.md).
+
+[Run the static atlas prototype](atlas/README.md): from the repository root run `python -m http.server 8000` and open `http://localhost:8000/atlas/`. It is committed but **not yet deployed** as a public website.
+
+**Current research:** 1,006 nodes, eight editorial routes, 14 links back to RS Archive subject lists, 41 alternative search phrases, 19 located source pages, three comparison models, and automated integrity checks. [See source coverage and gaps](docs/SOURCE_COVERAGE_2026-11-01.md).
