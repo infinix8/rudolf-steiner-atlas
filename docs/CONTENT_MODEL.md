@@ -45,3 +45,13 @@ Typed edges use `from`, `to` and `relationship`, with both endpoints referring t
 ## HTML presentation
 
 Pages should be keyed by canonical node ID, providing breadcrumbs, children, source records, quotations or restrained paraphrases, source-status indicators, German terminology, related topics, chronology and editorial cautions. Render from structured files rather than embedding teaching texts in UI code.
+
+## Complementary discovery data (iteration 2)
+
+- `research/archive-topic-crosswalk.json`: existing original archive topic destinations, mapped to our own 26 domains. Never replicate the source inventories.
+- `research/primary-source-anchors.json`: specific original chapter, lecture or essay URLs with authorial classification and explicit passage-level review status.
+- `research/search-vocabulary.json`: controlled lexical variants and **non-equivalent** related searches, pointing to canonical node IDs.
+- `research/concept-models.json`: original editorial comparison tables for different conceptual schemes with a primary-source link and uncertain status.
+- `atlas/study-paths.json`: proposed multi-topic reading routes, which must not be attributed as sequences authored by Steiner.
+
+External source text and archive full-text search indices **must not** be stored or bulk copied into the Atlas.
