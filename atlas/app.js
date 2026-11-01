@@ -3,7 +3,7 @@
 // This app never downloads the full texts or scrapes the source sites.
 // It indexes the project's *own classification* and opens original source pages.
 const $ = (selector) => document.querySelector(selector);
-const state = { data: null, paths: null, nodes: new Map(), parents: new Map(), regions: new Map(), domains: new Map(), selected: null, query: "", domainFilter: "", anchors: null, crosswalk: null };
+const state = { data: null, paths: null, nodes: new Map(), parents: new Map(), regions: new Map(), domains: new Map(), selected: null, query: "", domainFilter: "", anchors: null, crosswalk: null, models: null };
 const html = (input) => String(input ?? "").replace(/[&<>"']/g, (c) => ({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"}[c]));
 const knownSource = (url) => {
   try {
@@ -164,6 +164,24 @@ function relatedBlock(id) {
           html(edge.relationship || 'Related') + '</small></div>' : '';
     }).join("") + "</div>";
 }
+function modelBlock(id) {
+  const matches = (state.models?.models || []).filter((model) => model.topic_ids.includes(id));
+  if (!matches.length) return "";
+  return '<section><h2>Conceptual structure & distinctions</h2>' +
+    matches.map((model) => '<article class="panel concept-model"><div class="eyebrow">Original teaching · structured comparison</div>' +
+      '<h3>' + html(model.title) + '</h3>' +
+      '<p>' + html(model.summary) + '</p>' +
+      '<p><span class="badge warn">' + html(model.status) + '</span></p>' +
+      model.sections.map((section) => '<div class="table-wrap"><h3>' + html(section.title) + '</h3>' +
+        '<table><thead><tr>' + section.columns.map((col) => '<th scope="col">' +
+        html(col) + '</th>').join("") + '</tr></thead><tbody>' +
+        section.rows.map((row) => '<tr>' + row.map((item) => '<td>' + html(item) +
+        '</td>').join("") + '</tr>').join("") + '</tbody></table></div>').join("") +
+      '<h3>Do not conflate</h3><ul>' + model.distinctions.map((note) => '<li>' +
+      html(note) + '</li>').join("") + '</ul>' +
+      '<p>' + link(model.source_url, "Read the original Steiner passage") + '</p></article>').join("") +
+    '</section>';
+}
 function nodePage(id) {
   const node = byId(id);
   const lineage = ancestors(id);
@@ -185,7 +203,7 @@ function nodePage(id) {
     (domain ? '<div class="stat"><strong>Domain ' + html(domain.id) + '</strong><span>' + html(domain.title) + "</span></div>" : "") +
     '</div><div class="node-actions">' +
     (parentId(id) ? '<button class="btn" data-node="' + html(parentId(id)) + '">↑ Parent topic</button>' : "") +
-    '<button class="btn" data-copy>Copy topic link</button></div>' + hierarchy +
+    '<button class="btn" data-copy>Copy topic link</button></div>' + modelBlock(id) + hierarchy +
     (siblings.length ? '<section><h2>Nearby concepts</h2><div class="grid">' + siblings.map((s) => card(s.id)).join("") + "</div></section>" : "") + "</div>";
   return heading + '<div class="two-col">' + inside + aside + "</div>";
 }
@@ -256,16 +274,17 @@ function render() {
 }
 async function initialize() {
   try {
-    const [taxResponse, pathsResponse, anchorsResponse, crosswalkResponse] = await Promise.all([
+    const [taxResponse, pathsResponse, anchorsResponse, crosswalkResponse, modelsResponse] = await Promise.all([
       fetch("../taxonomy/taxonomy-v1.json"),
       fetch("study-paths.json"),
       fetch("../research/primary-source-anchors.json"),
-      fetch("../research/archive-topic-crosswalk.json")
+      fetch("../research/archive-topic-crosswalk.json"),
+      fetch("../research/concept-models.json")
     ]);
-    if ([taxResponse, pathsResponse, anchorsResponse, crosswalkResponse].some((r) => !r.ok))
+    if ([taxResponse, pathsResponse, anchorsResponse, crosswalkResponse, modelsResponse].some((r) => !r.ok))
       throw new Error("One of the local data files could not be loaded.");
-    [state.data, state.paths, state.anchors, state.crosswalk] = await Promise.all([
-      taxResponse.json(), pathsResponse.json(), anchorsResponse.json(), crosswalkResponse.json()
+    [state.data, state.paths, state.anchors, state.crosswalk, state.models] = await Promise.all([
+      taxResponse.json(), pathsResponse.json(), anchorsResponse.json(), crosswalkResponse.json(), modelsResponse.json()
     ]);
     indexData(state.data);
     renderNav();
