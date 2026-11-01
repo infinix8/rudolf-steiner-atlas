@@ -1,0 +1,217 @@
+{
+  "version": "1.0",
+  "date": "2026-11-01",
+  "scope": "Optional discoverability terms. 'Lexical variant' is a term pointer, 'related search' is not a synonym, and 'exploratory question' deliberately asserts no doctrinal equivalence.",
+  "terms": [
+    {
+      "term": "ether body",
+      "target_id": "RS-09.01.02",
+      "relation": "lexical variant"
+    },
+    {
+      "term": "etheric body",
+      "target_id": "RS-09.01.02",
+      "relation": "lexical variant"
+    },
+    {
+      "term": "life body",
+      "target_id": "RS-09.01.02",
+      "relation": "lexical variant"
+    },
+    {
+      "term": "astral sheath",
+      "target_id": "RS-09.01.03",
+      "relation": "related search"
+    },
+    {
+      "term": "human I",
+      "target_id": "RS-09.01",
+      "relation": "related search"
+    },
+    {
+      "term": "Manas",
+      "target_id": "RS-09.05.01",
+      "relation": "lexical variant"
+    },
+    {
+      "term": "Buddhi",
+      "target_id": "RS-09.05.02",
+      "relation": "lexical variant"
+    },
+    {
+      "term": "Atma",
+      "target_id": "RS-09.05.03",
+      "relation": "lexical variant"
+    },
+    {
+      "term": "sentient soul",
+      "target_id": "RS-09.04.01",
+      "relation": "lexical variant"
+    },
+    {
+      "term": "mind soul",
+      "target_id": "RS-09.04.02",
+      "relation": "lexical variant"
+    },
+    {
+      "term": "spiritual soul",
+      "target_id": "RS-09.04.03",
+      "relation": "lexical variant"
+    },
+    {
+      "term": "Doppelgänger",
+      "target_id": "RS-03.04.03",
+      "relation": "lexical variant"
+    },
+    {
+      "term": "the double",
+      "target_id": "RS-03.04.03",
+      "relation": "lexical variant"
+    },
+    {
+      "term": "threshold guardian",
+      "target_id": "RS-03.04.01",
+      "relation": "lexical variant"
+    },
+    {
+      "term": "Devachan",
+      "target_id": "RS-05.01.03",
+      "relation": "lexical variant"
+    },
+    {
+      "term": "spiritland",
+      "target_id": "RS-05.01.03",
+      "relation": "lexical variant"
+    },
+    {
+      "term": "Kamaloka",
+      "target_id": "RS-08.03.02",
+      "relation": "lexical variant"
+    },
+    {
+      "term": "kama loka",
+      "target_id": "RS-08.03.02",
+      "relation": "lexical variant"
+    },
+    {
+      "term": "Goethean science",
+      "target_id": "RS-02.01",
+      "relation": "related search"
+    },
+    {
+      "term": "plant metamorphosis",
+      "target_id": "RS-02.02.01",
+      "relation": "lexical variant"
+    },
+    {
+      "term": "planetary evolution",
+      "target_id": "RS-06.01",
+      "relation": "related search"
+    },
+    {
+      "term": "Akashic chronicles",
+      "target_id": "RS-06.06.01",
+      "relation": "lexical variant"
+    },
+    {
+      "term": "christ impulse",
+      "target_id": "RS-13.01.02",
+      "relation": "lexical variant"
+    },
+    {
+      "term": "Golgotha",
+      "target_id": "RS-13.04",
+      "relation": "related search"
+    },
+    {
+      "term": "Michael age",
+      "target_id": "RS-16.01.03",
+      "relation": "related search"
+    },
+    {
+      "term": "Michaelic stream",
+      "target_id": "RS-16.01",
+      "relation": "lexical variant"
+    },
+    {
+      "term": "Waldorf",
+      "target_id": "RS-19.01",
+      "relation": "related search"
+    },
+    {
+      "term": "Steiner school",
+      "target_id": "RS-19.01",
+      "relation": "related search"
+    },
+    {
+      "term": "biodynamics",
+      "target_id": "RS-20.01",
+      "relation": "related search"
+    },
+    {
+      "term": "horn manure",
+      "target_id": "RS-20.04.01",
+      "relation": "lexical variant"
+    },
+    {
+      "term": "horn silica",
+      "target_id": "RS-20.04.02",
+      "relation": "lexical variant"
+    },
+    {
+      "term": "farm individuality",
+      "target_id": "RS-20.01",
+      "relation": "lexical variant"
+    },
+    {
+      "term": "threefold society",
+      "target_id": "RS-21.01",
+      "relation": "related search"
+    },
+    {
+      "term": "social threefolding",
+      "target_id": "RS-21.01",
+      "relation": "lexical variant"
+    },
+    {
+      "term": "economics course",
+      "target_id": "RS-21.02",
+      "relation": "related search"
+    },
+    {
+      "term": "visible speech",
+      "target_id": "RS-24.01.01",
+      "relation": "lexical variant"
+    },
+    {
+      "term": "Goetheanum",
+      "target_id": "RS-23.02",
+      "relation": "related search"
+    },
+    {
+      "term": "calendar of the soul",
+      "target_id": "RS-25.01",
+      "relation": "related search"
+    },
+    {
+      "term": "world thought",
+      "target_id": "RS-04.07.02",
+      "relation": "lexical variant"
+    },
+    {
+      "term": "the twelve worldviews",
+      "target_id": "RS-04.01",
+      "relation": "related search"
+    },
+    {
+      "term": "seven worldview moods",
+      "target_id": "RS-04.02",
+      "relation": "related search"
+    },
+    {
+      "term": "Malkuth",
+      "target_id": "RS-07.05",
+      "relation": "exploratory question only — no claim of equivalence"
+    }
+  ]
+}
