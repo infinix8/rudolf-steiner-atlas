@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Discover, classify and connect Rudolf Steiner's teachings using a source-linked thematic atlas. Original texts remain with the source archives.">
+  <title>Rudolf Steiner Atlas · Explore the connections</title>
+  <link rel="stylesheet" href="style.css">
+  <script defer src="app.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#content">Skip to main content</a>
+  <header class="masthead">
+    <div class="masthead-inner">
+      <a href="#" class="brand" id="brand"><span class="brandmark" aria-hidden="true">✳</span><span><strong>Rudolf Steiner Atlas</strong><small>A guide to the sources, not a copy of them</small></span></a>
+      <nav class="top-nav" aria-label="Source repositories">
+        <a href="https://rsarchive.org/" target="_blank" rel="noopener noreferrer">RS Archive ↗</a>
+        <a href="https://www.rudolf-steiner.com/en/edition-englisch/complete-works/" target="_blank" rel="noopener noreferrer">Complete Works ↗</a>
+      </nav>
+    </div>
+  </header>
+  <div class="app-layout">
+    <aside class="sidebar" aria-label="Atlas navigation">
+      <label for="search">Find a concept</label>
+      <input id="search" type="search" autocomplete="off" placeholder="Try etheric body, karma, thinking…">
+      <label for="domain-filter">Within domain</label>
+      <select id="domain-filter"><option value="">All 26 domains</option></select>
+      <div class="search-note">Searches our classification, not the text of the archives.</div>
+      <div id="search-results" class="search-results" aria-live="polite"></div>
+      <div class="sidebar-label">Browse by region</div>
+      <nav id="region-nav" aria-label="Six knowledge regions"></nav>
+      <div class="sidebar-foot">Research taxonomy v1.0 · Source references at different verification stages</div>
+    </aside>
+    <main id="content" tabindex="-1" class="main-content">
+      <div id="breadcrumbs" class="breadcrumbs" aria-label="Breadcrumbs"></div>
+      <div id="main-view" aria-live="polite"><p>Loading atlas…</p></div>
+    </main>
+  </div>
+  <footer class="site-footer">
+    <p>Independent thematic research project. Not affiliated with or endorsed by the Rudolf Steiner Archive, Steiner Online Library, or the Rudolf Steiner Archiv.</p>
+    <p>Teaching texts stay at their original sources. Our classifications and study paths are editorial tools. <a href="../docs/COMPLEMENTARY_ARCHITECTURE.md">Research method</a> · <a href="../docs/SOURCE_METHOD.md">Evidence policy</a> · <a href="https://github.com/infinix8/rudolf-steiner-atlas">GitHub</a></p>
+  </footer>
+</body>
+</html>
