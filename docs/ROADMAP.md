@@ -39,10 +39,12 @@ These are planned tasks; a checklist item is not complete merely because this do
 
 ## Phase 5 — HTML Atlas
 
-- [ ] Expandable region → domain → subdomain → concept browser.
+- [x] First-pass region → domain → subdomain → concept browser (static prototype; not deployed).
 - [ ] Source-linked concept pages with concise quotations and faithful paraphrase.
-- [ ] Search, related concepts, chronological and source-focused views.
-- [ ] Responsive interface, accessibility, broken-link checks and data validation.
+- [x] First-pass search, concept routes, related concepts, source gateway and 14 archive-topic bridges.
+- [ ] Source coverage dashboard, richer concept comparisons, chronology and graph views.
+- [x] Responsive CSS and offline internal JSON and JS validation.
+- [ ] Real-browser accessibility and navigation testing; external link reviews and deployment.
 
 ## Quality gates
 
