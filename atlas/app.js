@@ -3,7 +3,7 @@
 // This app never downloads the full texts or scrapes the source sites.
 // It indexes the project's *own classification* and opens original source pages.
 const $ = (selector) => document.querySelector(selector);
-const state = { data: null, paths: null, nodes: new Map(), parents: new Map(), regions: new Map(), domains: new Map(), selected: null, query: "", domainFilter: "" };
+const state = { data: null, paths: null, nodes: new Map(), parents: new Map(), regions: new Map(), domains: new Map(), selected: null, query: "", domainFilter: "", anchors: null, crosswalk: null };
 const html = (input) => String(input ?? "").replace(/[&<>"']/g, (c) => ({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"}[c]));
 const knownSource = (url) => {
   try {
@@ -108,8 +108,19 @@ function sourceBlock(node) {
   const lineage = ancestors(node.id);
   const leads = lineage.filter((n) => /^[0-9]{2}$/.test(n.id)).flatMap((n) => n.ga || []);
   const uniqueLeads = [...new Set(leads)];
-  const located = lineage.flatMap((n) => (state.data.anchor_evidence || {})[n.id] || []);
+  const curated = (state.anchors?.records || []).filter((rec) => lineage.some((n) => n.id === rec.topic_id));
+  const located = lineage.flatMap((n) => (state.data.anchor_evidence || {})[n.id] || [])
+    .filter((rec) => !curated.some((r) => r.url === rec.url));
   const sourcePanels = [];
+  if (curated.length) {
+    sourcePanels.push('<h3>Located original source pages <span class="badge warn">Page located</span></h3>' +
+      '<p class="muted">These URLs have been opened, but the passage has not been exhaustively reviewed against the topic and translation.</p>' +
+      curated.map((s) => '<div class="source"><strong>' + html(s.title) + '</strong><div class="count">' +
+        html(s.source_type) + ' · GA ' + html(s.ga) +
+        (s.lecture_date ? ' · ' + html(s.lecture_date) : '') + '</div>' +
+        '<p class="muted">' + html(s.subject_cue) + '</p>' +
+        '<div>' + link(s.url, 'Read at the original archive') + '</div></div>').join(''));
+  }
   if (located.length) {
     sourcePanels.push('<h3>Located passage links <span class="badge warn">Not fully audited</span></h3>' +
       '<p class="muted">These are recorded exact-page links associated with this topic or an ancestor. Exact passages and translations still require review.</p>' +
@@ -122,13 +133,22 @@ function sourceBlock(node) {
       '<p>' + uniqueLeads.map((ga) => '<span class="badge grey">GA ' + html(ga) + "</span>").join(" ") + "</p>" +
       "<p>" + link(sourceGAIndex, "Browse GA volumes at RS Archive") + "</p>");
   }
+  const matchingTopics = (state.crosswalk?.topics || []).filter((topic) =>
+    topic.atlas_domains.includes(domainOf(node.id)?.id));
+  if (matchingTopics.length) {
+    sourcePanels.push('<h3>Existing RS Archive subject lists</h3>' +
+      '<p class="muted">The archive already curates these topic bibliographies. They remain on the original site.</p>' +
+      '<p>' + matchingTopics.map((topic) => link(topic.url, topic.title)).join(' · ') + '</p>');
+  }
   if (!sourcePanels.length) sourcePanels.push("<p class='muted'>No specific source has yet been attached to this node. Follow its domain and the original archives as research leads.</p>");
   sourcePanels.push('<div class="line"></div><p>' + link(officialCatalog, "Official Complete Works editorial catalogue") +
     "</p><p>" + link(sourceTopicIndex, "RS Archive topic index") + "</p>");
   return sourcePanels.join("");
 }
 function relatedBlock(id) {
-  const edges = (state.data.crosslinks || []).filter((edge) => edge.from === id || edge.to === id);
+  const contextIds = new Set(ancestors(id).map((n) => n.id));
+  const edges = (state.data.crosslinks || []).filter((edge) =>
+    contextIds.has(edge.from) || contextIds.has(edge.to));
   if (!edges.length) {
     const parent = parentId(id);
     return '<p class="muted">No curated direct crosslink at this level yet.' +
@@ -136,10 +156,12 @@ function relatedBlock(id) {
   }
   return '<p class="muted">These links describe an editorially proposed relationship; each still requires passage-level support.</p><div class="related">' +
     edges.map((edge) => {
-      const other = edge.from === id ? edge.to : edge.from;
+      const other = contextIds.has(edge.from) ? edge.to : edge.from;
+      const inherited = edge.from !== id && edge.to !== id;
       const node = byId(other);
       return node ? '<div class="panel"><strong>' + action(other, node.title) +
-        "</strong><small>" + html(edge.relationship || "Related") + "</small></div>" : "";
+        '</strong><small>' + (inherited ? 'From broader topic · ' : '') +
+          html(edge.relationship || 'Related') + '</small></div>' : '';
     }).join("") + "</div>";
 }
 function nodePage(id) {
@@ -186,6 +208,12 @@ function homePage() {
     '<div class="grid">' + paths.map((p) => '<button type="button" class="tile" data-path="' + html(p.id) + '">' +
     '<span class="id">STUDY PATH</span><strong>' + html(p.title) + '</strong><small>' +
     html(p.description) + "</small></button>").join("") + "</div></section>" +
+    '<section><h2>Bridge to the archive’s own topic lists</h2>' +
+    '<p class="muted">The original archive already maintains these bibliographies. The atlas adds finer categories and cross-domain relationships, not substitute reading lists.</p>' +
+    '<div class="grid">' + (state.crosswalk?.topics || []).map((topic) =>
+      '<div class="panel"><strong>' + link(topic.url, topic.title) + '</strong>' +
+      '<p class="count">Atlas domain links: ' + html(topic.atlas_domains.join(', ')) +
+      '</p></div>').join('') + '</div></section>' +
     '<section><h2>Where the original texts live</h2><div class="grid">' +
     '<div class="panel"><h3>Rudolf Steiner Archive</h3><p>Read texts, browse existing topics, search works, GA numbers and lecture dates.</p>' +
     "<p>" + link(sourceGAIndex, "Browse source volumes") + "</p></div>" +
@@ -228,13 +256,17 @@ function render() {
 }
 async function initialize() {
   try {
-    const [taxResponse, pathsResponse] = await Promise.all([
+    const [taxResponse, pathsResponse, anchorsResponse, crosswalkResponse] = await Promise.all([
       fetch("../taxonomy/taxonomy-v1.json"),
-      fetch("study-paths.json")
+      fetch("study-paths.json"),
+      fetch("../research/primary-source-anchors.json"),
+      fetch("../research/archive-topic-crosswalk.json")
     ]);
-    if (!taxResponse.ok || !pathsResponse.ok) throw new Error("One of the local JSON files could not be loaded.");
-    state.data = await taxResponse.json();
-    state.paths = await pathsResponse.json();
+    if ([taxResponse, pathsResponse, anchorsResponse, crosswalkResponse].some((r) => !r.ok))
+      throw new Error("One of the local data files could not be loaded.");
+    [state.data, state.paths, state.anchors, state.crosswalk] = await Promise.all([
+      taxResponse.json(), pathsResponse.json(), anchorsResponse.json(), crosswalkResponse.json()
+    ]);
     indexData(state.data);
     renderNav();
     renderSearch();
