@@ -19,6 +19,7 @@ paths = load("atlas/study-paths.json")
 crosswalk = load("research/archive-topic-crosswalk.json")
 anchors = load("research/primary-source-anchors.json")
 models = load("research/concept-models.json")
+vocabulary = load("research/search-vocabulary.json")
 nodes, parents = {}, {}
 def visit(node, parent=None):
     nid = node.get("id")
@@ -81,6 +82,12 @@ for source in anchors.get("records", []):
         errors.append(f"Impossible review status: {sid}")
     if source.get("source_type") == "recorded lecture" and not source.get("lecture_date"):
         errors.append(f"Lecture without date: {sid}")
+
+for term in vocabulary.get("terms", []):
+    if term.get("target_id") not in nodes: errors.append(f"Unknown search target: {term}")
+    if not term.get("term", "").strip(): errors.append(f"Blank search vocabulary term: {term}")
+    if term.get("relation") not in ("lexical variant", "related search"):
+        errors.append(f"Unexpected vocabulary relationship: {term}")
 
 model_ids = set()
 anchor_ids = {r.get("id") for r in anchors.get("records", [])}
