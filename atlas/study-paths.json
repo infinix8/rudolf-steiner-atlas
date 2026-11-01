@@ -1,0 +1,103 @@
+{
+  "version": "1.0",
+  "editorial_notice": "Paths are editorial navigation suggestions, not source-attested sequences or quotations by Steiner.",
+  "paths": [
+    {
+      "id": "constitution-to-practice",
+      "title": "From human constitution to everyday applications",
+      "description": "Explore how an organizing idea appears in discussions of nature, health, education and farming.",
+      "nodes": [
+        "RS-09.01",
+        "RS-09.01.02",
+        "RS-07.02",
+        "RS-18.01",
+        "RS-19.01",
+        "RS-20.01"
+      ]
+    },
+    {
+      "id": "thinking-to-freedom",
+      "title": "Thinking, freedom and spiritual knowledge",
+      "description": "Connect Steiner's philosophical inquiry with his accounts of self-development and cognition.",
+      "nodes": [
+        "RS-01.01",
+        "RS-01.02",
+        "RS-01.03",
+        "RS-03.03",
+        "RS-04.07"
+      ]
+    },
+    {
+      "id": "cosmic-to-human",
+      "title": "Cosmic evolution and the human being",
+      "description": "Navigate from Steiner's cosmic stages to his descriptions of human nature and future development.",
+      "nodes": [
+        "RS-06.01",
+        "RS-06.03",
+        "RS-09.01",
+        "RS-09.05",
+        "RS-12.04"
+      ]
+    },
+    {
+      "id": "karma-biography",
+      "title": "Destiny, karma and human biography",
+      "description": "Follow thematic relationships between reincarnation, life between death and rebirth, and biographical experience.",
+      "nodes": [
+        "RS-08.01",
+        "RS-08.02",
+        "RS-08.03",
+        "RS-08.06",
+        "RS-11.05"
+      ]
+    },
+    {
+      "id": "nature-agriculture",
+      "title": "Nature kingdoms and agriculture",
+      "description": "Move from Steiner's view of plant and earth life to his specialized agricultural lectures.",
+      "nodes": [
+        "RS-07.01",
+        "RS-07.02",
+        "RS-07.05",
+        "RS-20.01",
+        "RS-20.03",
+        "RS-20.04"
+      ]
+    },
+    {
+      "id": "michael-consciousness",
+      "title": "Michael, world thought and consciousness",
+      "description": "Compare themes spread among conceptual structures, spiritual beings, history and consciousness.",
+      "nodes": [
+        "RS-04.07",
+        "RS-05.03",
+        "RS-16.01",
+        "RS-12.01",
+        "RS-13.05"
+      ]
+    },
+    {
+      "id": "cultural-epochs",
+      "title": "Soul development and cultural epochs",
+      "description": "Find research leads for Steiner's account of soul principles and the changing cultural epochs.",
+      "nodes": [
+        "RS-09.04",
+        "RS-15.02",
+        "RS-12.01",
+        "RS-14.03"
+      ]
+    },
+    {
+      "id": "art-spirit",
+      "title": "From spiritual ideas to artistic form",
+      "description": "Navigate aesthetics, architecture, eurythmy and festivals without treating later practice as Steiner's primary teaching.",
+      "nodes": [
+        "RS-22.01",
+        "RS-22.02",
+        "RS-23.01",
+        "RS-24.01",
+        "RS-25.01"
+      ]
+    }
+  ]
+}
