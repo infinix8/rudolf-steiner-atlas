@@ -201,6 +201,150 @@
         "translation_collated": false,
         "checked_date": "2026-11-01"
       }
+    },
+    {
+      "id": "AS-0012",
+      "topic_id": "RS-03.01",
+      "title": "GA 10 · How is Knowledge of Higher Worlds Attained? · Chapter I",
+      "ga": "10",
+      "source_type": "authored book",
+      "source_unit": "book chapter",
+      "lecture_date": null,
+      "url": "https://rsarchive.org/Books/GA010/English/RSPC1947/GA010_c01.html",
+      "subject_cue": "Conditions and preparatory capacities for the path of spiritual knowledge",
+      "verification": {
+        "url_opened": true,
+        "subject_location": "located",
+        "passage_reviewed": false,
+        "translation_collated": false,
+        "checked_date": "2026-11-01"
+      }
+    },
+    {
+      "id": "AS-0013",
+      "topic_id": "RS-03.03",
+      "title": "GA 10 · How to Gain Knowledge of Higher Worlds · Stages of Initiation",
+      "ga": "10",
+      "source_type": "authored book",
+      "source_unit": "book chapter",
+      "lecture_date": null,
+      "url": "https://rsarchive.org/Books/GA010/English/SOL/GA010_c02.html",
+      "subject_cue": "Preparation and higher cognition in Steiner's initiatory account",
+      "verification": {
+        "url_opened": true,
+        "subject_location": "located",
+        "passage_reviewed": false,
+        "translation_collated": false,
+        "checked_date": "2026-11-01"
+      }
+    },
+    {
+      "id": "AS-0014",
+      "topic_id": "RS-05.02",
+      "title": "GA 110 · Spiritual Hierarchies · Lecture V",
+      "ga": "110",
+      "source_type": "recorded lecture",
+      "source_unit": "lecture",
+      "lecture_date": "1909-04-14",
+      "url": "https://rsarchive.org/Lectures/19090414p01.html",
+      "subject_cue": "Discussion of higher spiritual beings in cosmic development",
+      "verification": {
+        "url_opened": true,
+        "subject_location": "located",
+        "passage_reviewed": false,
+        "translation_collated": false,
+        "checked_date": "2026-11-01"
+      }
+    },
+    {
+      "id": "AS-0015",
+      "topic_id": "RS-20.04",
+      "title": "GA 327 · Agriculture · Lecture IV",
+      "ga": "327",
+      "source_type": "recorded lecture",
+      "source_unit": "lecture",
+      "lecture_date": "1924-06-12",
+      "url": "https://rsarchive.org/Lectures/GA327/English/BDA1958/19240612p01.html",
+      "subject_cue": "Steiner's account of soil preparations, compost and horn manure",
+      "verification": {
+        "url_opened": true,
+        "subject_location": "located",
+        "passage_reviewed": false,
+        "translation_collated": false,
+        "checked_date": "2026-11-01"
+      }
+    },
+    {
+      "id": "AS-0016",
+      "topic_id": "RS-21.02",
+      "title": "GA 340 · World Economy · Lecture I",
+      "ga": "340",
+      "source_type": "recorded lecture",
+      "source_unit": "lecture",
+      "lecture_date": "1922-07-24",
+      "url": "https://rsarchive.org/Lectures/WorldEcon/19220724p01.html",
+      "subject_cue": "Introduction to Steiner's treatment of modern economic processes",
+      "verification": {
+        "url_opened": true,
+        "subject_location": "located",
+        "passage_reviewed": false,
+        "translation_collated": false,
+        "checked_date": "2026-11-01"
+      }
+    },
+    {
+      "id": "AS-0017",
+      "topic_id": "RS-18.01",
+      "title": "GA 312 · Spiritual Science and Medicine · Lecture I",
+      "ga": "312",
+      "source_type": "recorded lecture",
+      "source_unit": "lecture",
+      "lecture_date": "1920-03-21",
+      "url": "https://rsarchive.org/Lectures/SpiSciMed/19200321p01.html",
+      "subject_cue": "Medical education, physiology and Steiner's stated foundations for medicine",
+      "verification": {
+        "url_opened": true,
+        "subject_location": "located",
+        "passage_reviewed": false,
+        "translation_collated": false,
+        "checked_date": "2026-11-01"
+      }
+    },
+    {
+      "id": "AS-0018",
+      "topic_id": "RS-22.01",
+      "title": "GA 275 · Art in the Light of Mystery Wisdom · 29 December lecture",
+      "ga": "275",
+      "source_type": "recorded lecture",
+      "source_unit": "lecture",
+      "lecture_date": "1914-12-29",
+      "url": "https://rsarchive.org/Lectures/19141229p01.html",
+      "subject_cue": "Steiner's proposed relationship between art and spiritual-scientific understanding",
+      "verification": {
+        "url_opened": true,
+        "subject_location": "located",
+        "passage_reviewed": false,
+        "translation_collated": false,
+        "checked_date": "2026-11-01"
+      }
+    },
+    {
+      "id": "AS-0019",
+      "topic_id": "RS-16.01",
+      "title": "GA 26 · Anthroposophical Guiding Principles · Michael and Human Freedom",
+      "ga": "26",
+      "source_type": "authored essay",
+      "source_unit": "dated essay",
+      "lecture_date": "1924-11-16",
+      "url": "https://rsarchive.org/Books/GA026/English/SOL/19241116m01.html",
+      "subject_cue": "Michael's mission in relation to freedom, consciousness and the human I",
+      "verification": {
+        "url_opened": true,
+        "subject_location": "located",
+        "passage_reviewed": false,
+        "translation_collated": false,
+        "checked_date": "2026-11-01"
+      }
     }
   ]
 }
