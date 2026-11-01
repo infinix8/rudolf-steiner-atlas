@@ -18,6 +18,7 @@ taxonomy = load("taxonomy/taxonomy-v1.json")
 paths = load("atlas/study-paths.json")
 crosswalk = load("research/archive-topic-crosswalk.json")
 anchors = load("research/primary-source-anchors.json")
+models = load("research/concept-models.json")
 nodes, parents = {}, {}
 def visit(node, parent=None):
     nid = node.get("id")
@@ -80,6 +81,22 @@ for source in anchors.get("records", []):
         errors.append(f"Impossible review status: {sid}")
     if source.get("source_type") == "recorded lecture" and not source.get("lecture_date"):
         errors.append(f"Lecture without date: {sid}")
+
+model_ids = set()
+anchor_ids = {r.get("id") for r in anchors.get("records", [])}
+for model in models.get("models", []):
+    mid = model.get("id")
+    if not mid or mid in model_ids: errors.append(f"Duplicate / blank model ID: {mid}")
+    model_ids.add(mid)
+    for nid in model.get("topic_ids", []):
+        if nid not in nodes: errors.append(f"Unknown conceptual model node: {mid} -> {nid}")
+    if model.get("source") not in anchor_ids: errors.append(f"Unknown model source anchor: {mid}")
+    if not safe_url(model.get("source_url")): errors.append(f"Unsafe model source URL: {mid}")
+    for section in model.get("sections", []):
+        cols = len(section.get("columns", []))
+        if not cols: errors.append(f"Missing comparison columns: {mid}")
+        for row in section.get("rows", []):
+            if len(row) != cols: errors.append(f"Unequal comparison row: {mid}")
 
 for edge in taxonomy.get("crosslinks", []):
     if edge.get("from") not in nodes or edge.get("to") not in nodes:
