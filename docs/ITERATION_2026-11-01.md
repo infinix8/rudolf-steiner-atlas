@@ -11,15 +11,17 @@ Build **on top of** (i.e. as an intellectual navigation layer over) RS Archive a
 - Implemented static source-first concept browser for the 1,006-node taxonomy (all six regions, 26 domains).
 - Implemented concept search with domain filtering, breadcrumbs, local deep links, a nested-topic explorer, cross-domain connections and eight original **editorial** study routes.
 - Connected the site's 14 original topic pages by a concept crosswalk; it links outward rather than reproducing lists.
-- Added 11 located-but-not-fully-audited links to book chapters / dated lectures, with explicit evidence status.
+- Added 19 located-but-not-fully-audited links to book chapters / dated lectures, with explicit evidence status.
 - Added consistent disclaimers for GA volume-only leads and provisional semantic relationships.
-- Added validation and CI (see tools).
+- Added controlled alternate terminology search (41 terms) and three source-linked comparison models for differing schemes (GA 9, GA 151 and GA 293).
+- Added a transparent 26-domain source coverage matrix: 19 located source links appear in 13 domains; 13 domains still have none.
+- Added validation and CI (see tools); latest commit passed the GitHub workflow.
 
 ## What is *not* complete
 
 - The original 1,006 concept entries are a first-pass taxonomy, not evidence-checked across the GA corpus.
 - The eight guided routes are editorial reading suggestions, not source-certified connections.
-- The first 11 precise source links are located, but full passage citation, context and translation comparison still need a topic-by-topic audit.
+- The first 19 precise source links are located, but full passage citation, context and translation comparison still need a topic-by-topic audit.
 - No actual full-text content, authenticated archive API, harvesting or backend search of source archives is implemented.
 - The prototype is committed but not hosted as a public site, nor claimed to be browser-tested across devices.
 
