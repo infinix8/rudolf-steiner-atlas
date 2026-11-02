@@ -547,6 +547,26 @@
         "archive_url_checked": true,
         "full_translation_collation": false
       }
+    },
+    {
+      "id": "SG-GA004-C12",
+      "ga": "4",
+      "work": "The Philosophy of Freedom",
+      "unit": "XII. Moral Imagination",
+      "kind": "authored_book",
+      "edition": "RSP 1964, English translation Michael Wilson",
+      "lecture_date": null,
+      "url": "https://rsarchive.org/Books/GA004/English/RSP1964/GA004_c12.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Numbered sections [1]-[5], [8]-[11], [17]-[21] inspected: free motives, moral imagination, moral technique, ethical individualism, historical and natural development distinctions.",
+        "checked_on": "2026-11-02",
+        "source_site": "Rudolf Steiner Archive",
+        "entire_work_reviewed": false,
+        "archive_page_opened_on": "2026-11-02",
+        "archive_url_checked": true,
+        "full_translation_collation": false
+      }
     }
   ],
   "edges": [
@@ -2422,6 +2442,214 @@
         }
       ],
       "claim": "He describes the building's living formal design as drawing upon Goethe's plant metamorphosis."
+    },
+    {
+      "id": "KG-117",
+      "from": "RS-01.02.02",
+      "to": "RS-01.02.03",
+      "type": "elaborated_through",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA004-C12",
+          "passage_locator": "[1]-[4]"
+        }
+      ],
+      "claim": "Steiner links moral ideas selected by thinking to imaginative representations of a specific action."
+    },
+    {
+      "id": "KG-118",
+      "from": "RS-01.02.03",
+      "to": "RS-01.02.04",
+      "type": "requires_for_realization",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA004-C12",
+          "passage_locator": "[4]"
+        }
+      ],
+      "claim": "Moral imagination requires practical knowledge of phenomena and skills for acting effectively."
+    },
+    {
+      "id": "KG-119",
+      "from": "RS-01.02.05",
+      "to": "RS-01.05.02",
+      "type": "expressed_as_individual_action",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA004-C12",
+          "passage_locator": "[8]-[11]"
+        }
+      ],
+      "claim": "Steiner argues that the individual's moral ideas are not merely deduced from generally inherited prescriptions."
+    },
+    {
+      "id": "KG-120",
+      "from": "RS-01.02.01",
+      "to": "RS-01.05.04",
+      "type": "contrasted_with_authority_based_action",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA004-C12",
+          "passage_locator": "[1]-[3]"
+        }
+      ],
+      "claim": "The free actor is contrasted with one who acts by copying examples, obedience or fear."
+    },
+    {
+      "id": "KG-121",
+      "from": "RS-01.02.04",
+      "to": "RS-17.05",
+      "type": "depends_on_knowledge_of_phenomena",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA004-C12",
+          "passage_locator": "[4]-[5]"
+        }
+      ],
+      "claim": "Steiner explicitly connects effective moral technique with the knowledge of natural and practical conditions."
+    },
+    {
+      "id": "KG-122",
+      "from": "RS-01.02.03",
+      "to": "RS-01.05.03",
+      "type": "related_to_moral_development",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA004-C12",
+          "passage_locator": "[9]-[13]"
+        }
+      ],
+      "claim": "Moral imagination is discussed as capable of producing new moral ideas in individual development."
+    },
+    {
+      "id": "KG-123",
+      "from": "RS-01.02.06",
+      "to": "RS-01.02.05",
+      "type": "frames_problem_of",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA004-C12",
+          "passage_locator": "[17]-[21]"
+        }
+      ],
+      "claim": "A free act depends, in Steiner's account, on the individual's own ideal intuition rather than external compulsion."
+    },
+    {
+      "id": "KG-124",
+      "from": "RS-03.01.03",
+      "to": "RS-03.02",
+      "type": "is_training_practice_within",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA010-C01",
+          "passage_locator": "[15]-[19]"
+        }
+      ],
+      "claim": "Steiner prescribes periods of inner tranquility as part of his account of esoteric preparatory training."
+    },
+    {
+      "id": "KG-125",
+      "from": "RS-03.01.01",
+      "to": "RS-03.05.01",
+      "type": "explicitly_respects_free_will",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA010-C01",
+          "passage_locator": "[6]-[8]; [16]-[17]"
+        }
+      ],
+      "claim": "The discussion of veneration as preparation explicitly rejects submission to a teacher or interference with another person's independence."
+    },
+    {
+      "id": "KG-126",
+      "from": "RS-03.01.03",
+      "to": "RS-03.03",
+      "type": "preparatory_to",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA010-C01",
+          "passage_locator": "[18]-[19]; [33]"
+        }
+      ],
+      "claim": "Inner tranquility and meditation are presented as preparations for Steiner's claimed higher cognition."
+    },
+    {
+      "id": "KG-127",
+      "from": "RS-03.01.01",
+      "to": "RS-03.05.02",
+      "type": "distinguishes_from",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA010-C01",
+          "passage_locator": "[6]-[10]"
+        }
+      ],
+      "claim": "The text distinguishes reverence for knowledge and truth from uncritical devotion to particular people."
+    },
+    {
+      "id": "KG-128",
+      "from": "RS-09.01.01",
+      "to": "RS-07.01.01",
+      "type": "belong_to_same_nature_kingdom",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA009-C01",
+          "passage_locator": "[16]"
+        }
+      ],
+      "claim": "Steiner describes the material physical body as belonging to the mineral domain."
+    },
+    {
+      "id": "KG-129",
+      "from": "RS-09.01.02",
+      "to": "RS-07.01.02",
+      "type": "attributed_nature_explanation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA009-C01",
+          "passage_locator": "[16]"
+        }
+      ],
+      "claim": "He identifies the etheric principle with life processes shared with plants."
     }
   ],
   "version": "1.1",
