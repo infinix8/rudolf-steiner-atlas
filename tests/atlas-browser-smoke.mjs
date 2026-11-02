@@ -22,7 +22,7 @@ try {
   await page.goto(root+'/atlas/graph.html',{waitUntil:'networkidle'});
   await page.getByRole('heading',{name:'Follow the evidence between teachings'}).waitFor();
   const initial=await page.locator('#relations tr').count();
-  assert(initial>=142,'expected at least 142 source-linked graph rows, got '+initial);
+  assert(initial>=179,'expected at least 179 source-linked graph rows, got '+initial);
   await page.locator('#domain-filter').selectOption('07');
   const domainRows=await page.locator('#relations tr').count();
   assert(domainRows>0 && domainRows<initial,'domain filter not working');
@@ -40,7 +40,7 @@ try {
   await page.goto(root+'/atlas/sources.html',{waitUntil:'networkidle'});
   await page.getByRole('heading',{name:'Find the original work behind a concept.'}).waitFor();
   const totalSources=await page.locator('#source-cards article').count();
-  assert(totalSources>=27,'source guide has fewer than 27 original source cards');
+  assert(totalSources>=40,'source guide has fewer than 40 original source cards');
   await page.locator('#filter-domain').selectOption('07');
   const limited=await page.locator('#source-cards article').count();
   assert(limited>0 && limited<totalSources,'source-guide domain filtering failed');
@@ -83,6 +83,17 @@ try {
   await page.getByRole('heading',{name:/Four, seven, nine/}).waitFor();
   assert(await page.locator('.dossier-section').count()>=3,'dossier lacks substantial research sections');
   assert(await page.locator('.dossier-section a[href*="rsarchive.org"]').count()>=3,'dossier primary source links missing');
+  await page.goto(root+'/atlas/trajectories.html',{waitUntil:'networkidle'});
+  await page.getByRole('heading',{name:'One concept, several contexts'}).waitFor();
+  assert(await page.locator('#trajectory-select option').count()>=7,'six concept trajectories not loaded');
+  await page.locator('#trajectory-select').selectOption('eurythmy-june-july-1924');
+  assert(await page.locator('.trajectory-card').count()===3,'dated lecture comparison has wrong count');
+  const displayedDates=await page.locator('.trajectory-card time').allTextContents();
+  assert(displayedDates.join(',')==='1924-06-24,1924-06-25,1924-07-07','original dated sequence incorrect');
+  await page.locator('#trajectory-select').selectOption('human-constitution-contexts');
+  assert(await page.locator('.trajectory-card').count()===3,'human constitution comparison missing');
+  assert(await page.locator('.trajectory-card time').count()===1,'authored books must not inherit translation edition years');
+  assert(await page.locator('.trajectory-card a[href*="rsarchive.org"]').count()===3,'source links missing in comparisons');
   assert(!errors.length,'console or page errors: '+errors.join('; '));
   console.log(JSON.stringify({ok:true,conceptSearch:true,domainRows,compared,sourceRows,totalRelationships:initial}));
   await page.close();
@@ -100,6 +111,8 @@ try {
   assert(await mobile.locator('#timeline-from').isVisible(),'mobile timeline unavailable');
   await mobile.goto(root+'/atlas/dossiers.html',{waitUntil:'networkidle'});
   assert(await mobile.locator('#dossier-search').isVisible(),'mobile dossiers search unavailable');
+  await mobile.goto(root+'/atlas/trajectories.html',{waitUntil:'networkidle'});
+  assert(await mobile.locator('#trajectory-select').isVisible(),'mobile comparison selector unavailable');
   assert(!errors.length,'mobile console or page errors: '+errors.join('; '));
   await mobile.close();
   console.log('PASS: desktop + mobile atlas routes, search, source links, domain/evidence filtering');
