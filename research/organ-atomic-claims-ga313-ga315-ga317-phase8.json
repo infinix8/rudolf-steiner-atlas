@@ -1,0 +1,989 @@
+{
+  "schema_version": "0.1",
+  "as_of": "2026-11-02",
+  "scope": "First-pass extraction of selected passages from nine previously unreviewed lectures; does not assert full-lecture coverage or exhaustive atomic claim extraction.",
+  "source_count": 9,
+  "record_count": 49,
+  "sources": [
+    {
+      "ga": 313,
+      "date": "1921-04-11",
+      "url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210411.html",
+      "selected_records": 9,
+      "review_status": "selected_passages_only",
+      "fully_audited": false
+    },
+    {
+      "ga": 313,
+      "date": "1921-04-12",
+      "url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210412.html",
+      "selected_records": 7,
+      "review_status": "selected_passages_only",
+      "fully_audited": false
+    },
+    {
+      "ga": 313,
+      "date": "1921-04-13",
+      "url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210413.html",
+      "selected_records": 4,
+      "review_status": "selected_passages_only",
+      "fully_audited": false
+    },
+    {
+      "ga": 315,
+      "date": "1921-04-13",
+      "url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210413.html",
+      "selected_records": 5,
+      "review_status": "selected_passages_only",
+      "fully_audited": false
+    },
+    {
+      "ga": 315,
+      "date": "1921-04-14",
+      "url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210414.html",
+      "selected_records": 4,
+      "review_status": "selected_passages_only",
+      "fully_audited": false
+    },
+    {
+      "ga": 315,
+      "date": "1921-04-15",
+      "url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210415.html",
+      "selected_records": 5,
+      "review_status": "selected_passages_only",
+      "fully_audited": false
+    },
+    {
+      "ga": 317,
+      "date": "1924-06-26",
+      "url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "selected_records": 6,
+      "review_status": "selected_passages_only",
+      "fully_audited": false
+    },
+    {
+      "ga": 317,
+      "date": "1924-06-27",
+      "url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "selected_records": 6,
+      "review_status": "selected_passages_only",
+      "fully_audited": false
+    },
+    {
+      "ga": 317,
+      "date": "1924-06-28",
+      "url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "selected_records": 3,
+      "review_status": "selected_passages_only",
+      "fully_audited": false
+    }
+  ],
+  "records": [
+    {
+      "id": "ORG-V8-001",
+      "ga": 313,
+      "date": "1921-04-11",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210411.html",
+      "paragraph": 2,
+      "passage_cue": "English numbered §2",
+      "organs": [
+        "body",
+        "substances"
+      ],
+      "relationship_type": "matter_as_arrested_process",
+      "paraphrase": "Matter is described as a process brought to rest, a methodological premise for understanding bodily substances.",
+      "source_kind": "recorded lecture (English translation)",
+      "evidence_status": "selected_passage_verified_not_full_lecture_audit",
+      "german_collation": "not_checked",
+      "scientific_status": "Steiner_esoteric_attribution_only"
+    },
+    {
+      "id": "ORG-V8-002",
+      "ga": 313,
+      "date": "1921-04-11",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210411.html",
+      "paragraph": 4,
+      "passage_cue": "English numbered §4",
+      "organs": [
+        "head",
+        "chest",
+        "metabolic-limb system"
+      ],
+      "relationship_type": "threefold_system_distribution",
+      "paraphrase": "Nerve-sense activity is concentrated in the head but extends throughout the body; the rhythmic system includes respiratory and circulatory components.",
+      "source_kind": "recorded lecture (English translation)",
+      "evidence_status": "selected_passage_verified_not_full_lecture_audit",
+      "german_collation": "not_checked",
+      "scientific_status": "Steiner_esoteric_attribution_only"
+    },
+    {
+      "id": "ORG-V8-003",
+      "ga": 313,
+      "date": "1921-04-11",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210411.html",
+      "paragraph": 5,
+      "passage_cue": "English numbered §5",
+      "organs": [
+        "head",
+        "skull"
+      ],
+      "relationship_type": "head_supersensible_imprints",
+      "paraphrase": "The head is treated as an imprint of the I, astral and etheric organizations, with physical forces working as a primary activity.",
+      "source_kind": "recorded lecture (English translation)",
+      "evidence_status": "selected_passage_verified_not_full_lecture_audit",
+      "german_collation": "not_checked",
+      "scientific_status": "Steiner_esoteric_attribution_only"
+    },
+    {
+      "id": "ORG-V8-004",
+      "ga": 313,
+      "date": "1921-04-11",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210411.html",
+      "paragraph": 6,
+      "passage_cue": "English numbered §6",
+      "organs": [
+        "head",
+        "skull"
+      ],
+      "relationship_type": "head_mineral_polarity",
+      "paraphrase": "A polarity of silica and limestone formation processes is invoked in the physical organization of the head.",
+      "source_kind": "recorded lecture (English translation)",
+      "evidence_status": "selected_passage_verified_not_full_lecture_audit",
+      "german_collation": "not_checked",
+      "scientific_status": "Steiner_esoteric_attribution_only"
+    },
+    {
+      "id": "ORG-V8-005",
+      "ga": 313,
+      "date": "1921-04-11",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210411.html",
+      "paragraph": 8,
+      "passage_cue": "English numbered §8",
+      "organs": [
+        "chest",
+        "breathing",
+        "circulation"
+      ],
+      "relationship_type": "breathing_primary_members",
+      "paraphrase": "Breathing rhythm is associated primarily with interaction of physical and etheric organizations; astral and I are described as imprints.",
+      "source_kind": "recorded lecture (English translation)",
+      "evidence_status": "selected_passage_verified_not_full_lecture_audit",
+      "german_collation": "not_checked",
+      "scientific_status": "Steiner_esoteric_attribution_only"
+    },
+    {
+      "id": "ORG-V8-006",
+      "ga": 313,
+      "date": "1921-04-11",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210411.html",
+      "paragraph": 9,
+      "passage_cue": "English numbered §9",
+      "organs": [
+        "limbs",
+        "metabolic system"
+      ],
+      "relationship_type": "limb_primary_members",
+      "paraphrase": "The metabolic-limb organization is attributed primary interplay of physical, etheric and astral members, with the I leaving an imprint.",
+      "source_kind": "recorded lecture (English translation)",
+      "evidence_status": "selected_passage_verified_not_full_lecture_audit",
+      "german_collation": "not_checked",
+      "scientific_status": "Steiner_esoteric_attribution_only"
+    },
+    {
+      "id": "ORG-V8-007",
+      "ga": 313,
+      "date": "1921-04-11",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210411.html",
+      "paragraph": 10,
+      "passage_cue": "English numbered §10",
+      "organs": [
+        "head",
+        "chest",
+        "limbs"
+      ],
+      "relationship_type": "silica_process_gradient",
+      "paraphrase": "The dynamic silica-forming process is said to be strongest in limbs, weaker in the middle system and least forceful in the head.",
+      "source_kind": "recorded lecture (English translation)",
+      "evidence_status": "selected_passage_verified_not_full_lecture_audit",
+      "german_collation": "not_checked",
+      "scientific_status": "Steiner_esoteric_attribution_only"
+    },
+    {
+      "id": "ORG-V8-008",
+      "ga": 313,
+      "date": "1921-04-11",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210411.html",
+      "paragraph": 17,
+      "passage_cue": "English numbered §17",
+      "organs": [
+        "head",
+        "heart",
+        "liver"
+      ],
+      "relationship_type": "head_organ_differentiation",
+      "paraphrase": "Steiner says activity from the head differentiates the effects of formative forces into separate organs such as heart and liver.",
+      "source_kind": "recorded lecture (English translation)",
+      "evidence_status": "selected_passage_verified_not_full_lecture_audit",
+      "german_collation": "not_checked",
+      "scientific_status": "Steiner_esoteric_attribution_only"
+    },
+    {
+      "id": "ORG-V8-009",
+      "ga": 313,
+      "date": "1921-04-11",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210411.html",
+      "paragraph": 19,
+      "passage_cue": "English numbered §19",
+      "organs": [
+        "hair",
+        "urine",
+        "teeth",
+        "milk"
+      ],
+      "relationship_type": "substance_presence_versus_activity",
+      "paraphrase": "Silica in hair versus urine and magnesium in teeth versus milk illustrate his distinction between active constructive processes and eliminated substances.",
+      "source_kind": "recorded lecture (English translation)",
+      "evidence_status": "selected_passage_verified_not_full_lecture_audit",
+      "german_collation": "not_checked",
+      "scientific_status": "Steiner_esoteric_attribution_only"
+    },
+    {
+      "id": "ORG-V8-010",
+      "ga": 313,
+      "date": "1921-04-12",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210412.html",
+      "paragraph": 2,
+      "passage_cue": "English numbered §2",
+      "organs": [
+        "head",
+        "limbs"
+      ],
+      "relationship_type": "ego_imprint_statics_warmth",
+      "paraphrase": "He distinguishes the I's imprint in differential head warmth from its imprint in balance, posture and walking.",
+      "source_kind": "recorded lecture (English translation)",
+      "evidence_status": "selected_passage_verified_not_full_lecture_audit",
+      "german_collation": "not_checked",
+      "scientific_status": "Steiner_esoteric_attribution_only"
+    },
+    {
+      "id": "ORG-V8-011",
+      "ga": 313,
+      "date": "1921-04-12",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210412.html",
+      "paragraph": 3,
+      "passage_cue": "English numbered §3",
+      "organs": [
+        "stomach",
+        "heart",
+        "liver"
+      ],
+      "relationship_type": "etheric_organ_differentiation",
+      "paraphrase": "He objects to treating the etheric organization as an undifferentiated mist, analogizing it to the specificity of physical organs.",
+      "source_kind": "recorded lecture (English translation)",
+      "evidence_status": "selected_passage_verified_not_full_lecture_audit",
+      "german_collation": "not_checked",
+      "scientific_status": "Steiner_esoteric_attribution_only"
+    },
+    {
+      "id": "ORG-V8-012",
+      "ga": 313,
+      "date": "1921-04-12",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210412.html",
+      "paragraph": 4,
+      "passage_cue": "English numbered §4",
+      "organs": [
+        "etheric organization"
+      ],
+      "relationship_type": "four_ether_differentiation",
+      "paraphrase": "Heat, light, chemical and life ethers are distinguished as separate aspects of the etheric world.",
+      "source_kind": "recorded lecture (English translation)",
+      "evidence_status": "selected_passage_verified_not_full_lecture_audit",
+      "german_collation": "not_checked",
+      "scientific_status": "Steiner_esoteric_attribution_only"
+    },
+    {
+      "id": "ORG-V8-013",
+      "ga": 313,
+      "date": "1921-04-12",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210412.html",
+      "paragraph": 7,
+      "passage_cue": "English numbered §7",
+      "organs": [
+        "eye",
+        "head"
+      ],
+      "relationship_type": "eye_permeability_to_light",
+      "paraphrase": "The eye is described as organized by light and therefore permeable to it; the watery head is described as permeable to etheric action.",
+      "source_kind": "recorded lecture (English translation)",
+      "evidence_status": "selected_passage_verified_not_full_lecture_audit",
+      "german_collation": "not_checked",
+      "scientific_status": "Steiner_esoteric_attribution_only"
+    },
+    {
+      "id": "ORG-V8-014",
+      "ga": 313,
+      "date": "1921-04-12",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210412.html",
+      "paragraph": 8,
+      "passage_cue": "English numbered §8",
+      "organs": [
+        "head"
+      ],
+      "relationship_type": "head_warmth_light_ether",
+      "paraphrase": "The head is said to be especially permeable to warmth and light ether, and comparatively resistant to chemical and life ether.",
+      "source_kind": "recorded lecture (English translation)",
+      "evidence_status": "selected_passage_verified_not_full_lecture_audit",
+      "german_collation": "not_checked",
+      "scientific_status": "Steiner_esoteric_attribution_only"
+    },
+    {
+      "id": "ORG-V8-015",
+      "ga": 313,
+      "date": "1921-04-12",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210412.html",
+      "paragraph": 9,
+      "passage_cue": "English numbered §9",
+      "organs": [
+        "metabolic-limb system",
+        "head"
+      ],
+      "relationship_type": "lower_chemical_life_ether",
+      "paraphrase": "Chemical and life ether are said to rise from below while warmth and light ether enter from above, meeting within the organism.",
+      "source_kind": "recorded lecture (English translation)",
+      "evidence_status": "selected_passage_verified_not_full_lecture_audit",
+      "german_collation": "not_checked",
+      "scientific_status": "Steiner_esoteric_attribution_only"
+    },
+    {
+      "id": "ORG-V8-016",
+      "ga": 313,
+      "date": "1921-04-12",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210412.html",
+      "paragraph": 10,
+      "passage_cue": "English numbered §10",
+      "organs": [
+        "stomach",
+        "liver",
+        "metabolic system"
+      ],
+      "relationship_type": "malnutrition_ether_blocking",
+      "paraphrase": "Malnutrition is attributed to the stomach or liver retaining chemical and life ether; historically unsupported etiology.",
+      "source_kind": "recorded lecture (English translation)",
+      "evidence_status": "selected_passage_verified_not_full_lecture_audit",
+      "german_collation": "not_checked",
+      "scientific_status": "historical_claim_not_scientifically_established"
+    },
+    {
+      "id": "ORG-V8-017",
+      "ga": 313,
+      "date": "1921-04-13",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210413.html",
+      "paragraph": 2,
+      "passage_cue": "English numbered §2",
+      "organs": [
+        "chest",
+        "lungs",
+        "circulation"
+      ],
+      "relationship_type": "chest_physical_etheric_interplay",
+      "paraphrase": "The chest region is described as intimate interplay of physical and etheric organizations; astral and I are freer to act upon it.",
+      "source_kind": "recorded lecture (English translation)",
+      "evidence_status": "selected_passage_verified_not_full_lecture_audit",
+      "german_collation": "not_checked",
+      "scientific_status": "Steiner_esoteric_attribution_only"
+    },
+    {
+      "id": "ORG-V8-018",
+      "ga": 313,
+      "date": "1921-04-13",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210413.html",
+      "paragraph": 3,
+      "passage_cue": "English numbered §3",
+      "organs": [
+        "chest",
+        "heart",
+        "lungs",
+        "head",
+        "metabolism"
+      ],
+      "relationship_type": "rhythm_head_metabolic_polarity",
+      "paraphrase": "Steiner says the rhythmic organ balance depends on opposing influences of the head and metabolic system rather than being wholly localized in the chest.",
+      "source_kind": "recorded lecture (English translation)",
+      "evidence_status": "selected_passage_verified_not_full_lecture_audit",
+      "german_collation": "not_checked",
+      "scientific_status": "Steiner_esoteric_attribution_only"
+    },
+    {
+      "id": "ORG-V8-019",
+      "ga": 313,
+      "date": "1921-04-13",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210413.html",
+      "paragraph": 7,
+      "passage_cue": "English numbered §7",
+      "organs": [
+        "breathing",
+        "circulation"
+      ],
+      "relationship_type": "delayed_affect_rhythm",
+      "paraphrase": "He claims older worries and hastily formed thoughts can later disturb rhythmic functioning; a historical psychosomatic assertion.",
+      "source_kind": "recorded lecture (English translation)",
+      "evidence_status": "selected_passage_verified_not_full_lecture_audit",
+      "german_collation": "not_checked",
+      "scientific_status": "Steiner_esoteric_attribution_only"
+    },
+    {
+      "id": "ORG-V8-020",
+      "ga": 313,
+      "date": "1921-04-13",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210413.html",
+      "paragraph": 8,
+      "passage_cue": "English numbered §8",
+      "organs": [
+        "metabolism",
+        "chest",
+        "heart",
+        "breathing"
+      ],
+      "relationship_type": "hunger_thirst_rhythmic_effect",
+      "paraphrase": "He characterizes hunger and thirst as astral experiences and claims sustained imbalance acts back on circulation and breathing.",
+      "source_kind": "recorded lecture (English translation)",
+      "evidence_status": "selected_passage_verified_not_full_lecture_audit",
+      "german_collation": "not_checked",
+      "scientific_status": "Steiner_esoteric_attribution_only"
+    },
+    {
+      "id": "ORG-V8-021",
+      "ga": 315,
+      "date": "1921-04-13",
+      "source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210413.html",
+      "paragraph": 1,
+      "passage_cue": "English numbered §1",
+      "organs": [
+        "larynx",
+        "speech apparatus",
+        "limbs"
+      ],
+      "relationship_type": "vowel_movement_interiorization",
+      "paraphrase": "Vowel articulation is portrayed as the inward remnant of formerly externalized movement.",
+      "source_kind": "recorded lecture (English translation)",
+      "evidence_status": "selected_passage_verified_not_full_lecture_audit",
+      "german_collation": "not_checked",
+      "scientific_status": "Steiner_esoteric_attribution_only"
+    },
+    {
+      "id": "ORG-V8-022",
+      "ga": 315,
+      "date": "1921-04-13",
+      "source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210413.html",
+      "paragraph": 4,
+      "passage_cue": "English numbered §4",
+      "organs": [
+        "legs",
+        "blood circulation"
+      ],
+      "relationship_type": "walking_circulation_eurythmy",
+      "paraphrase": "He proposes a particular vowel gesture to alter walking and circulation; an unvalidated therapeutic claim.",
+      "source_kind": "recorded lecture (English translation)",
+      "evidence_status": "selected_passage_verified_not_full_lecture_audit",
+      "german_collation": "not_checked",
+      "scientific_status": "historical_claim_not_scientifically_established"
+    },
+    {
+      "id": "ORG-V8-023",
+      "ga": 315,
+      "date": "1921-04-13",
+      "source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210413.html",
+      "paragraph": 7,
+      "passage_cue": "English numbered §7",
+      "organs": [
+        "legs",
+        "balance"
+      ],
+      "relationship_type": "standing_u_eurythmy",
+      "paraphrase": "A U-vowel movement is prescribed for claimed difficulty standing, contrasted with an I-vowel movement for walking.",
+      "source_kind": "recorded lecture (English translation)",
+      "evidence_status": "selected_passage_verified_not_full_lecture_audit",
+      "german_collation": "not_checked",
+      "scientific_status": "Steiner_esoteric_attribution_only"
+    },
+    {
+      "id": "ORG-V8-024",
+      "ga": 315,
+      "date": "1921-04-13",
+      "source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210413.html",
+      "paragraph": 18,
+      "passage_cue": "English numbered §18",
+      "organs": [
+        "whole organism",
+        "etheric body"
+      ],
+      "relationship_type": "vowel_fivefold_symbolism",
+      "paraphrase": "Steiner assigns symbolic relationships to five vowel gestures, including an E movement supposedly imprinting the I into the etheric organization.",
+      "source_kind": "recorded lecture (English translation)",
+      "evidence_status": "selected_passage_verified_not_full_lecture_audit",
+      "german_collation": "not_checked",
+      "scientific_status": "Steiner_esoteric_attribution_only"
+    },
+    {
+      "id": "ORG-V8-025",
+      "ga": 315,
+      "date": "1921-04-13",
+      "source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210413.html",
+      "paragraph": 19,
+      "passage_cue": "English numbered §19",
+      "organs": [
+        "breathing",
+        "lips",
+        "tongue"
+      ],
+      "relationship_type": "breath_speech_intervention",
+      "paraphrase": "Vowel exercises are claimed to affect breathing and labial/lingual consonant articulation; evidence of efficacy not established.",
+      "source_kind": "recorded lecture (English translation)",
+      "evidence_status": "selected_passage_verified_not_full_lecture_audit",
+      "german_collation": "not_checked",
+      "scientific_status": "Steiner_esoteric_attribution_only"
+    },
+    {
+      "id": "ORG-V8-026",
+      "ga": 315,
+      "date": "1921-04-14",
+      "source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210414.html",
+      "paragraph": 1,
+      "passage_cue": "English numbered §1",
+      "organs": [
+        "larynx",
+        "speech apparatus"
+      ],
+      "relationship_type": "vowel_consonant_polarity",
+      "paraphrase": "Steiner contrasts vowels as inward-turning articulation and consonants as a movement of attention toward the outer world.",
+      "source_kind": "recorded lecture (English translation)",
+      "evidence_status": "selected_passage_verified_not_full_lecture_audit",
+      "german_collation": "not_checked",
+      "scientific_status": "Steiner_esoteric_attribution_only"
+    },
+    {
+      "id": "ORG-V8-027",
+      "ga": 315,
+      "date": "1921-04-14",
+      "source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210414.html",
+      "paragraph": 6,
+      "passage_cue": "English numbered §6",
+      "organs": [
+        "larynx",
+        "limbs"
+      ],
+      "relationship_type": "eurythmy_speech_reflection",
+      "paraphrase": "He says speaking is reflected back from the larynx while outward eurythmic consonant gestures reverse or polarize the speech process.",
+      "source_kind": "recorded lecture (English translation)",
+      "evidence_status": "selected_passage_verified_not_full_lecture_audit",
+      "german_collation": "not_checked",
+      "scientific_status": "Steiner_esoteric_attribution_only"
+    },
+    {
+      "id": "ORG-V8-028",
+      "ga": 315,
+      "date": "1921-04-14",
+      "source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210414.html",
+      "paragraph": 15,
+      "passage_cue": "English numbered §15",
+      "organs": [
+        "speech apparatus"
+      ],
+      "relationship_type": "historical_vowel_evolution",
+      "paraphrase": "He speculates that the A sound preceded other sounds in human evolution and connects it with animal-like impulse; unverified evolutionary assertion.",
+      "source_kind": "recorded lecture (English translation)",
+      "evidence_status": "selected_passage_verified_not_full_lecture_audit",
+      "german_collation": "not_checked",
+      "scientific_status": "historical_claim_not_scientifically_established"
+    },
+    {
+      "id": "ORG-V8-029",
+      "ga": 315,
+      "date": "1921-04-14",
+      "source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210414.html",
+      "paragraph": 16,
+      "passage_cue": "English numbered §16",
+      "organs": [
+        "oral cavity",
+        "legs",
+        "balance"
+      ],
+      "relationship_type": "vowel_stability_claim",
+      "paraphrase": "He interprets U articulation as increased oral narrowing and the associated movement as its stabilizing opposite.",
+      "source_kind": "recorded lecture (English translation)",
+      "evidence_status": "selected_passage_verified_not_full_lecture_audit",
+      "german_collation": "not_checked",
+      "scientific_status": "Steiner_esoteric_attribution_only"
+    },
+    {
+      "id": "ORG-V8-030",
+      "ga": 315,
+      "date": "1921-04-15",
+      "source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210415.html",
+      "paragraph": 2,
+      "passage_cue": "English numbered §2",
+      "organs": [
+        "kidneys",
+        "intestines",
+        "blood",
+        "lymph"
+      ],
+      "relationship_type": "consonant_kidney_therapy",
+      "paraphrase": "B/P gestures are asserted to regulate renal function by acting on digestive activity after intestinal absorption; therapeutic claim without demonstrated efficacy.",
+      "source_kind": "recorded lecture (English translation)",
+      "evidence_status": "selected_passage_verified_not_full_lecture_audit",
+      "german_collation": "not_checked",
+      "scientific_status": "historical_claim_not_scientifically_established"
+    },
+    {
+      "id": "ORG-V8-031",
+      "ga": 315,
+      "date": "1921-04-15",
+      "source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210415.html",
+      "paragraph": 3,
+      "passage_cue": "English numbered §3",
+      "organs": [
+        "intestines",
+        "legs"
+      ],
+      "relationship_type": "consonant_bowel_therapy",
+      "paraphrase": "D/T movements are proposed for constipation and bowel function; unvalidated historical intervention.",
+      "source_kind": "recorded lecture (English translation)",
+      "evidence_status": "selected_passage_verified_not_full_lecture_audit",
+      "german_collation": "not_checked",
+      "scientific_status": "historical_claim_not_scientifically_established"
+    },
+    {
+      "id": "ORG-V8-032",
+      "ga": 315,
+      "date": "1921-04-15",
+      "source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210415.html",
+      "paragraph": 4,
+      "passage_cue": "English numbered §4",
+      "organs": [
+        "intestines",
+        "legs"
+      ],
+      "relationship_type": "peristalsis_gkq",
+      "paraphrase": "G/K/Q movements are claimed to increase intestinal peristalsis; unverified treatment assertion.",
+      "source_kind": "recorded lecture (English translation)",
+      "evidence_status": "selected_passage_verified_not_full_lecture_audit",
+      "german_collation": "not_checked",
+      "scientific_status": "historical_claim_not_scientifically_established"
+    },
+    {
+      "id": "ORG-V8-033",
+      "ga": 315,
+      "date": "1921-04-15",
+      "source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210415.html",
+      "paragraph": 6,
+      "passage_cue": "English numbered §6",
+      "organs": [
+        "kidneys",
+        "urinary tract"
+      ],
+      "relationship_type": "urination_fv",
+      "paraphrase": "F/V movements are said to stimulate urination; no accepted treatment evidence presented.",
+      "source_kind": "recorded lecture (English translation)",
+      "evidence_status": "selected_passage_verified_not_full_lecture_audit",
+      "german_collation": "not_checked",
+      "scientific_status": "Steiner_esoteric_attribution_only"
+    },
+    {
+      "id": "ORG-V8-034",
+      "ga": 315,
+      "date": "1921-04-15",
+      "source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210415.html",
+      "paragraph": 13,
+      "passage_cue": "English numbered §13",
+      "organs": [
+        "intestines",
+        "legs"
+      ],
+      "relationship_type": "gut_limb_relation",
+      "paraphrase": "The N gesture is claimed to alter bowel function, explicitly invoking metabolic-limb system interaction.",
+      "source_kind": "recorded lecture (English translation)",
+      "evidence_status": "selected_passage_verified_not_full_lecture_audit",
+      "german_collation": "not_checked",
+      "scientific_status": "Steiner_esoteric_attribution_only"
+    },
+    {
+      "id": "ORG-V8-035",
+      "ga": 317,
+      "date": "1924-06-26",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "paragraph": 11,
+      "passage_cue": "English numbered §11",
+      "organs": [
+        "brain",
+        "head",
+        "metabolic-limb organs"
+      ],
+      "relationship_type": "thought_head_synthesis",
+      "paraphrase": "Steiner distinguishes thought-associated synthetic brain activity from alleged analytic processes underlying willing in lower organs.",
+      "source_kind": "recorded lecture (English translation)",
+      "evidence_status": "selected_passage_verified_not_full_lecture_audit",
+      "german_collation": "not_checked",
+      "scientific_status": "Steiner_esoteric_attribution_only"
+    },
+    {
+      "id": "ORG-V8-036",
+      "ga": 317,
+      "date": "1924-06-26",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "paragraph": 13,
+      "passage_cue": "English numbered §13",
+      "organs": [
+        "etheric body",
+        "brain"
+      ],
+      "relationship_type": "world_ether_living_thought",
+      "paraphrase": "Living thoughts are claimed to preexist in universal ether and to be carried into incarnation with the etheric body.",
+      "source_kind": "recorded lecture (English translation)",
+      "evidence_status": "selected_passage_verified_not_full_lecture_audit",
+      "german_collation": "not_checked",
+      "scientific_status": "Steiner_esoteric_attribution_only"
+    },
+    {
+      "id": "ORG-V8-037",
+      "ga": 317,
+      "date": "1924-06-26",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "paragraph": 14,
+      "passage_cue": "English numbered §14",
+      "organs": [
+        "brain",
+        "nervous system"
+      ],
+      "relationship_type": "brain_reflecting_thought",
+      "paraphrase": "He describes the brain and nervous system as organs fashioned to reflect living world-ether thoughts into everyday mental images.",
+      "source_kind": "recorded lecture (English translation)",
+      "evidence_status": "selected_passage_verified_not_full_lecture_audit",
+      "german_collation": "not_checked",
+      "scientific_status": "Steiner_esoteric_attribution_only"
+    },
+    {
+      "id": "ORG-V8-038",
+      "ga": 317,
+      "date": "1924-06-26",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "paragraph": 15,
+      "passage_cue": "English numbered §15",
+      "organs": [
+        "nerves",
+        "brain"
+      ],
+      "relationship_type": "nerves_breakdown_theory",
+      "paraphrase": "He ascribes nervous tissue to material breakdown under living thought; historically unvalidated physiology.",
+      "source_kind": "recorded lecture (English translation)",
+      "evidence_status": "selected_passage_verified_not_full_lecture_audit",
+      "german_collation": "not_checked",
+      "scientific_status": "historical_claim_not_scientifically_established"
+    },
+    {
+      "id": "ORG-V8-039",
+      "ga": 317,
+      "date": "1924-06-26",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "paragraph": 21,
+      "passage_cue": "English numbered §21",
+      "organs": [
+        "physical body",
+        "etheric body",
+        "astral body",
+        "I"
+      ],
+      "relationship_type": "higher_member_pedagogical_law",
+      "paraphrase": "In education he claims each developing organization is influenced by the next higher organization in an educator.",
+      "source_kind": "recorded lecture (English translation)",
+      "evidence_status": "selected_passage_verified_not_full_lecture_audit",
+      "german_collation": "not_checked",
+      "scientific_status": "Steiner_esoteric_attribution_only"
+    },
+    {
+      "id": "ORG-V8-040",
+      "ga": 317,
+      "date": "1924-06-26",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "paragraph": 25,
+      "passage_cue": "English numbered §25",
+      "organs": [
+        "liver",
+        "etheric body"
+      ],
+      "relationship_type": "hepatic_etheric_will",
+      "paraphrase": "He discusses a child's inability to translate intentions into actions as a purported weakness of etheric organization in the liver; no valid clinical inference.",
+      "source_kind": "recorded lecture (English translation)",
+      "evidence_status": "selected_passage_verified_not_full_lecture_audit",
+      "german_collation": "not_checked",
+      "scientific_status": "Steiner_esoteric_attribution_only"
+    },
+    {
+      "id": "ORG-V8-041",
+      "ga": 317,
+      "date": "1924-06-27",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "paragraph": 6,
+      "passage_cue": "English numbered §6",
+      "organs": [
+        "brain",
+        "cerebrospinal fluid"
+      ],
+      "relationship_type": "brain_buoyancy_ego",
+      "paraphrase": "Brain buoyancy is used as an example of why the human being supposedly experiences physical earthly forces indirectly.",
+      "source_kind": "recorded lecture (English translation)",
+      "evidence_status": "selected_passage_verified_not_full_lecture_audit",
+      "german_collation": "not_checked",
+      "scientific_status": "Steiner_esoteric_attribution_only"
+    },
+    {
+      "id": "ORG-V8-042",
+      "ga": 317,
+      "date": "1924-06-27",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "paragraph": 7,
+      "passage_cue": "English numbered §7",
+      "organs": [
+        "I organization",
+        "limbs"
+      ],
+      "relationship_type": "ego_earth_forces",
+      "paraphrase": "The I is described as directly connected to gravity, earth, water, air and part of warmth, rather than restricted to a single localized organ.",
+      "source_kind": "recorded lecture (English translation)",
+      "evidence_status": "selected_passage_verified_not_full_lecture_audit",
+      "german_collation": "not_checked",
+      "scientific_status": "Steiner_esoteric_attribution_only"
+    },
+    {
+      "id": "ORG-V8-043",
+      "ga": 317,
+      "date": "1924-06-27",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "paragraph": 9,
+      "passage_cue": "English numbered §9",
+      "organs": [
+        "astral body",
+        "senses"
+      ],
+      "relationship_type": "astral_light_chemism_life",
+      "paraphrase": "Astral organization is said to be directly related to warmth, light, chemism and life-ether processes of the surrounding world.",
+      "source_kind": "recorded lecture (English translation)",
+      "evidence_status": "selected_passage_verified_not_full_lecture_audit",
+      "german_collation": "not_checked",
+      "scientific_status": "Steiner_esoteric_attribution_only"
+    },
+    {
+      "id": "ORG-V8-044",
+      "ga": 317,
+      "date": "1924-06-27",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "paragraph": 11,
+      "passage_cue": "English numbered §11",
+      "organs": [
+        "eye"
+      ],
+      "relationship_type": "eye_cosmic_opening",
+      "paraphrase": "The eye is presented as an outward-related organ through which I and astral organization allegedly contact physical surroundings.",
+      "source_kind": "recorded lecture (English translation)",
+      "evidence_status": "selected_passage_verified_not_full_lecture_audit",
+      "german_collation": "not_checked",
+      "scientific_status": "Steiner_esoteric_attribution_only"
+    },
+    {
+      "id": "ORG-V8-045",
+      "ga": 317,
+      "date": "1924-06-27",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "paragraph": 12,
+      "passage_cue": "English numbered §12",
+      "organs": [
+        "lungs",
+        "brain"
+      ],
+      "relationship_type": "lung_entrapment_theory",
+      "paraphrase": "Steiner hypothesizes that astral and I organization can become trapped in a lung, causing disturbed consciousness; scientifically unsupported.",
+      "source_kind": "recorded lecture (English translation)",
+      "evidence_status": "selected_passage_verified_not_full_lecture_audit",
+      "german_collation": "not_checked",
+      "scientific_status": "historical_claim_not_scientifically_established"
+    },
+    {
+      "id": "ORG-V8-046",
+      "ga": 317,
+      "date": "1924-06-27",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "paragraph": 13,
+      "passage_cue": "English numbered §13",
+      "organs": [
+        "lungs",
+        "liver",
+        "brain"
+      ],
+      "relationship_type": "epilepsy_organ_congestion",
+      "paraphrase": "He attributes epileptic convulsions to astral/I congestion at organ surfaces, with brain symptoms as reflections; medically incorrect.",
+      "source_kind": "recorded lecture (English translation)",
+      "evidence_status": "selected_passage_verified_not_full_lecture_audit",
+      "german_collation": "not_checked",
+      "scientific_status": "historical_claim_not_scientifically_established"
+    },
+    {
+      "id": "ORG-V8-047",
+      "ga": 317,
+      "date": "1924-06-28",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "paragraph": 5,
+      "passage_cue": "English numbered §5",
+      "organs": [
+        "organ surfaces",
+        "nervous system"
+      ],
+      "relationship_type": "organ_congestion_consciousness",
+      "paraphrase": "He theorizes that excessive astral/I organization localized in an organ causes spasms or painful awareness; false medical etiology.",
+      "source_kind": "recorded lecture (English translation)",
+      "evidence_status": "selected_passage_verified_not_full_lecture_audit",
+      "german_collation": "not_checked",
+      "scientific_status": "historical_claim_not_scientifically_established"
+    },
+    {
+      "id": "ORG-V8-048",
+      "ga": 317,
+      "date": "1924-06-28",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "paragraph": 7,
+      "passage_cue": "English numbered §7",
+      "organs": [
+        "organ surfaces",
+        "secretory systems"
+      ],
+      "relationship_type": "organ_excessive_permeability",
+      "paraphrase": "He proposes the opposite process: an organ too permeable to astral/I activity, allegedly accompanied by physical secretion.",
+      "source_kind": "recorded lecture (English translation)",
+      "evidence_status": "selected_passage_verified_not_full_lecture_audit",
+      "german_collation": "not_checked",
+      "scientific_status": "Steiner_esoteric_attribution_only"
+    },
+    {
+      "id": "ORG-V8-049",
+      "ga": 317,
+      "date": "1924-06-28",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "paragraph": 16,
+      "passage_cue": "English numbered §16",
+      "organs": [
+        "organ surfaces"
+      ],
+      "relationship_type": "death_analogy_organ_permeability",
+      "paraphrase": "He compares excessive expansion of astral and I activity beyond organ boundaries with the process of dying; metaphysical analogy.",
+      "source_kind": "recorded lecture (English translation)",
+      "evidence_status": "selected_passage_verified_not_full_lecture_audit",
+      "german_collation": "not_checked",
+      "scientific_status": "Steiner_esoteric_attribution_only"
+    }
+  ],
+  "limitations": [
+    "German original not collated",
+    "Cross-dataset overlap remains to be deduplicated by exact passage and semantic predicates",
+    "Unsupported and incorrect medical claims are indexed as historical statements only",
+    "No source text copied wholesale"
+  ]
+}
