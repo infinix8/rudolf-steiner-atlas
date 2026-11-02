@@ -43,7 +43,7 @@ node --check atlas/app.js
 
 ## Passage-evidence graph (iteration 2026-11-02)
 
-Open `http://localhost:8000/atlas/graph.html` for a filterable diagram and an accessible evidence table covering 116 typed relations, 27 original book/lecture/essay pages and 51 cross-domain connections.
+Open `http://localhost:8000/atlas/graph.html` for a filterable diagram and an accessible evidence table covering 142 typed relations, 30 original book/lecture/essay pages and 60 cross-domain connections.
 
 The main concept browser includes separate panels for **passage-checked** relationships and **unverified proposed** crosslinks. All relations are original paraphrases or explicitly marked editorial comparisons. Follow the outgoing source link to read Steiner's own text in its original context.
 
@@ -51,8 +51,16 @@ See [graph evidence method](../docs/KNOWLEDGE_GRAPH_METHOD.md) and [coverage rep
 
 ## Original-source guide
 
-Open `http://localhost:8000/atlas/sources.html`. Filter the source pages used in the graph by GA number, title, date, domain or work type. Every record opens the **original source page** rather than a text copy. These 27 graph source pages are distinct from the earlier 19 first-pass source-gateway records.
+Open `http://localhost:8000/atlas/sources.html`. Filter the source pages used in the graph by GA number, title, date, domain or work type. Every record opens the **original source page** rather than a text copy. These 30 graph source pages are distinct from the earlier 19 first-pass source-gateway records.
 
 ## Test the browser as well as the data
 
 The browser smoke tests at `tests/atlas-browser-smoke.mjs` use Chromium on desktop and mobile viewports, exercising search, taxonomy deep links, graph filters, primary-source cards and the source-guide filters. GitHub Actions runs them automatically for relevant changes.
+
+## Advanced discovery pages
+
+- `/atlas/coverage.html`: evidence status across all 150 subdomains, distinguishing direct source-linked endpoints, child-only evidence and gaps.
+- `/atlas/timeline.html`: chronological browsing of **dated talks** in the graph, without assigning unfounded publication years to authored works.
+- `/atlas/dossiers.html`: five original editorial concept guides with 17 sourced sections, open research questions, and direct original-text links.
+
+The companion [subdomain coverage report](../docs/SUBDOMAIN_EVIDENCE_COVERAGE.md) is regenerated with `python tools/report_subdomain_coverage.py --write` and validated with `--check`. The structured dossiers are in `research/concept-dossiers-v1.json` and checked by `python tools/validate_dossiers.py`.
