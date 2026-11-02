@@ -4,7 +4,7 @@
 
 ## What the graph contains
 
-The current `research/knowledge-graph-v1.json` contains **116 typed connections** backed by **27 original source pages** (selected book chapters or dated lectures). It links pre-existing, stable taxonomy IDs instead of inventing duplicate concept pages. The graph viewer is at [`atlas/graph.html`](../atlas/graph.html). No full Steiner text is stored.
+The current `research/knowledge-graph-v1.json` contains **142 typed connections** backed by **30 original source pages** (selected book chapters or dated lectures). It links pre-existing, stable taxonomy IDs instead of inventing duplicate concept pages. The graph viewer is at [`atlas/graph.html`](../atlas/graph.html). No full Steiner text is stored.
 
 Each edge records:
 - a stable graph ID, source and target canonical taxonomy IDs;
@@ -74,13 +74,23 @@ We do not mirror or bulk-scrape original texts, or copy archive topic catalogues
 
 ## Expanded source coverage (2 November 2026)
 
-The graph now spans **27 original chapter, essay and dated-lecture pages**. The 14 added pages cover the following original GA works: GA 1, 2, 26, 36, 106, 112, 230, 235 (two dated lectures), 275 (two dated lectures), 279, 283, and 321. Exact URLs, translators where recorded, passage cues and source dates are retained in [the structured graph data](../research/knowledge-graph-v1.json), not duplicated here as an alternative bibliographic catalogue.
+The graph now spans **30 original chapter, essay and dated-lecture pages**. The subsequent 17 added pages cover the following original GA works: GA 1, 2, 26, 36, 106, 112, 230, 235 (two dated lectures), 275 (two dated lectures), 279, 283, and 321. Exact URLs, translators where recorded, passage cues and source dates are retained in [the structured graph data](../research/knowledge-graph-v1.json), not duplicated here as an alternative bibliographic catalogue.
 
-- There are **116 typed source-linked relationships**, including **51 links between different major domains**.
+- There are **142 typed source-linked relationships**, including **60 links between different major domains**.
 - All **26 major domains** now have at least one incident edge; this is *not* passage verification of all 150 subdomains, 785 concept labels or the full GA corpus.
-- The new [Primary-Source Guide](../atlas/sources.html) allows navigating the 27 source pages by GA, work/date/type and related atlas domain.
+- The new [Primary-Source Guide](../atlas/sources.html) allows navigating the 30 source pages by GA, work/date/type and related atlas domain.
 - Each reviewed source declares its limited review scope. The graph notes whether the archive page was opened and whether full translation comparison was performed (not yet).
 - An automated cross-export check compares all **974 RS-labelled hierarchy nodes** in JSON, Markdown and OPML.
 - Actual Chromium browser smoke tests exercise the independent static atlas on desktop and mobile, in addition to code/data validations.
 
 The original source websites retain the texts. The Atlas is an independent thematic bridge with no implied archive affiliation.
+
+## Depth-oriented navigation (subdomains, chronology, original analysis)
+
+The [subdomain coverage explorer](../atlas/coverage.html) reports source evidence as one of three **editorial states**: direct graph endpoint, descendant-only relationship, or no recorded relationship. As of the current graph it reports **40 / 39 / 71** respectively across 150 subdomains. It never equates the presence of an edge with completeness of Steiner's account.
+
+The [source chronology](../atlas/timeline.html) displays dates only for dated original lectures. Authored book/essay links lacking a specifically verified publication history remain in an undated group; translation edition years do **not** become Steiner lecture dates.
+
+The [concept dossiers](../atlas/dossiers.html) are structured original synthesis, each section carrying a precise original-source locator, substantial distinctions and open research questions. The dossiers do not copy full source text. As of this version there are **five dossiers with seventeen research sections** across selected works, with known translation/verification limitations.
+
+Three further selected source pages were added since the previous report: [GA 4, Moral Imagination](https://rsarchive.org/Books/GA004/English/RSP1964/GA004_c12.html); [GA 9, Re-Embodiment of the Spirit and Destiny](https://rsarchive.org/Books/GA009/English/AP1971/GA009_c02.html); [GA 9, The Three Worlds](https://rsarchive.org/Books/GA009/English/AP1971/GA009_c03.html). Their graph edges use brief editorial paraphrases and exact section cues, not full reproductions.
