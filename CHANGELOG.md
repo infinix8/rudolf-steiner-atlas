@@ -1,3 +1,14 @@
+## 2026-11-02 — Organ concordance Phase 11: GA 313 III and GA 317 II
+
+- Completed all **20 numbered English sections of GA 313 III (13 April 1921)** and **33 of GA 317 II (26 June 1924)**. Added a [53-entry complete English section-level review](research/organ-paragraph-review-ga313-iii-ga317-ii-v11.json) including context and historical-error sections. German comparison was selective, **not** word-by-word for either entire lecture.
+- Split [22 typed claim records](research/organ-atomic-claims-ga313iii-ga317ii-v11.json), with notes on likely overlap with previous research; not 22 unique newly discovered teachings.
+- Produced [Phase 11 comparison report](docs/ORGAN_CONCORDANCE_PHASE11_FINDINGS.md) on the chest as head/metabolism/environment meeting region, astral activity in sleep, the brain as alleged reflector of world-ether thought, and unsupported liver/will and karmic childhood assertions.
+- Expanded [organ/system dossiers to 11](research/organ-comparative-dossiers-v11.json), separately adding chest rhythm and stomach.
+- Updated [GA 313–317 ledger](research/organ-corpus-ledger-ga313-317-v11.json): **10 fully English-numbered reviewed, 1 thematic sweep, 5 selected-passage-only, 45 unread** of 61 catalogue entries; **0 certified complete bilingual exhaustive atomic claim concordances**.
+- Updated [164-section target census](research/organ-section-census-ga313-ga317-v11.json): **133 substantive section reviews, 31 still number-located-only**. English complete category = **235 numbered paragraphs** across GA 313–317.
+- Full local research manuscripts expanded to **Version 11, 56 visually QA-checked pages** in Word, plus complete Markdown. Source content is not bulk copied into GitHub; original archive links only.
+- Flagged incorrect or unsupported germ, arrhythmia, tuberculosis, neurophysiology, heredity, disability and karma claims as historic texts, not clinical guidance.
+
 ## 2026-11-02 — Organ concordance Phase 10: two whole English GA 313 lectures
 
 - Completed English numbered-section reading of **GA 313, 11 Apr 1921 (§§1–21)** and **12 Apr 1921 (§§1–30)**, with [51 section abstracts](research/organ-paragraph-review-ga313-i-ii-v10.json) and contextual/zero-additional-organ sections included. Key German terminology checked in selected passages, **not** all original German.
