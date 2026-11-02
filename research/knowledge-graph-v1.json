@@ -398,6 +398,74 @@
         "source_site": "Rudolf Steiner Archive",
         "entire_work_reviewed": false
       }
+    },
+    {
+      "id": "SG-GA001-C02",
+      "ga": "1",
+      "work": "Goethean Science",
+      "unit": "Chapter 2. How Goethe's Theory of Metamorphosis Arose",
+      "kind": "authored_book",
+      "edition": "William Lindeman, MP 1988",
+      "lecture_date": null,
+      "url": "https://rsarchive.org/Books/GA001/English/MP1988/GA001_c02.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Paras [17]-[20] on archetypal plant, metamorphosis, formative laws and growth stages",
+        "checked_on": "2026-11-02",
+        "source_site": "Rudolf Steiner Archive",
+        "entire_work_reviewed": false
+      }
+    },
+    {
+      "id": "SG-GA002-C03",
+      "ga": "2",
+      "work": "A Theory of Knowledge",
+      "unit": "Chapter III. The Function of This Branch of Science",
+      "kind": "authored_book",
+      "edition": "AP 1940 English edition",
+      "lecture_date": null,
+      "url": "https://rsarchive.org/Books/GA002/English/AP1940/GA002_c03.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Paras [1]-[3] on scientific knowledge, connected phenomena and ideal-real interrelation",
+        "checked_on": "2026-11-02",
+        "source_site": "Rudolf Steiner Archive",
+        "entire_work_reviewed": false
+      }
+    },
+    {
+      "id": "SG-GA321-19200301",
+      "ga": "321",
+      "work": "Second Scientific Lecture-Course: Warmth Course",
+      "unit": "Lecture I",
+      "kind": "recorded_lecture",
+      "edition": "George Adams, MP 1980",
+      "lecture_date": "1920-03-01",
+      "url": "https://rsarchive.org/Science/GA321/English/MP1980/19200301p01.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Paras [1]-[4] on heat phenomena, mechanical models, variable sensation and science pedagogy",
+        "checked_on": "2026-11-02",
+        "source_site": "Rudolf Steiner Archive",
+        "entire_work_reviewed": false
+      }
+    },
+    {
+      "id": "SG-GA036-GOETHE",
+      "ga": "36",
+      "work": "Collected Essays from Das Goetheanum (1921–1925)",
+      "unit": "Goethe and the Goetheanum",
+      "kind": "authored_essay",
+      "edition": "Steiner Online Library English translation",
+      "lecture_date": null,
+      "url": "https://rsarchive.org/Articles/GA036/English/SOL2024/68_Goethe_and_the_Goetheanum.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Opening three paragraphs linking Goethe's metamorphosis method to architecture of the Goetheanum",
+        "checked_on": "2026-11-02",
+        "source_site": "Rudolf Steiner Archive",
+        "entire_work_reviewed": false
+      }
     }
   ],
   "edges": [
@@ -2113,6 +2181,166 @@
         }
       ],
       "claim": "Michael's role is expounded within Steiner's own written leading-thoughts literature."
+    },
+    {
+      "id": "KG-107",
+      "from": "RS-02.02.01",
+      "to": "RS-02.02.03",
+      "type": "uses_underlying_formative_type",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA001-C02",
+          "passage_locator": "[17]-[20]"
+        }
+      ],
+      "claim": "Steiner describes Goethe's plant metamorphosis in terms of a common formative type expressed through changing organs."
+    },
+    {
+      "id": "KG-108",
+      "from": "RS-02.02.01",
+      "to": "RS-07.02.03",
+      "type": "applies_to_description_of",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA001-C02",
+          "passage_locator": "[18]-[20]"
+        }
+      ],
+      "claim": "Steiner recounts Goethe's treatment of leaves, calyx, petals and organs as variations of one plant form."
+    },
+    {
+      "id": "KG-109",
+      "from": "RS-02.02.03",
+      "to": "RS-01.01.04",
+      "type": "linked_to_act_of_knowledge",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA001-C02",
+          "passage_locator": "[17]-[19]"
+        }
+      ],
+      "claim": "The archetypal plant is presented as a lawfully formed idea apprehended by thinking."
+    },
+    {
+      "id": "KG-110",
+      "from": "RS-02.04.02",
+      "to": "RS-01.01",
+      "type": "framed_as_related_to",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA002-C03",
+          "passage_locator": "[1]-[3]"
+        }
+      ],
+      "claim": "Steiner distinguishes observing external phenomena from grasping their conceptual interconnections."
+    },
+    {
+      "id": "KG-111",
+      "from": "RS-02.04",
+      "to": "RS-17.05",
+      "type": "relates_method_to_science",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA002-C03",
+          "passage_locator": "[1]-[3]"
+        }
+      ],
+      "claim": "He treats the scientific task as connecting phenomena while also examining the relationship of concept and reality."
+    },
+    {
+      "id": "KG-112",
+      "from": "RS-17.01.02",
+      "to": "RS-17.05.02",
+      "type": "uses_observational_experiment",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA321-19200301",
+          "passage_locator": "[1]-[4]"
+        }
+      ],
+      "claim": "Steiner introduces a comparison of water temperatures to illustrate context-dependent sensations of warmth."
+    },
+    {
+      "id": "KG-113",
+      "from": "RS-17.01.02",
+      "to": "RS-19.04.06",
+      "type": "presented_as_application_to",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA321-19200301",
+          "passage_locator": "[1]"
+        }
+      ],
+      "claim": "He explicitly connects the physics of warmth with questions of teaching science."
+    },
+    {
+      "id": "KG-114",
+      "from": "RS-17.05.01",
+      "to": "RS-17.01.02",
+      "type": "distinguished_from",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA321-19200301",
+          "passage_locator": "[2]-[4]"
+        }
+      ],
+      "claim": "Steiner distinguishes subjective sensations of heat from standardized physical measurement."
+    },
+    {
+      "id": "KG-115",
+      "from": "RS-02.02.03",
+      "to": "RS-23.01.01",
+      "type": "expressed_in_architecture",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA036-GOETHE",
+          "passage_locator": "opening three paragraphs"
+        }
+      ],
+      "claim": "Steiner explicitly relates Goethe's metamorphosis of organic form to the architectural forms of the Goetheanum."
+    },
+    {
+      "id": "KG-116",
+      "from": "RS-23.02",
+      "to": "RS-02.02.01",
+      "type": "draws_on_method",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA036-GOETHE",
+          "passage_locator": "opening three paragraphs"
+        }
+      ],
+      "claim": "He describes the building's living formal design as drawing upon Goethe's plant metamorphosis."
     }
   ],
   "version": "1.1",
