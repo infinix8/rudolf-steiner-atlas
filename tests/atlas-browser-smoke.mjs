@@ -37,6 +37,18 @@ try {
   assert(sourceRows>0 && sourceRows<initial,'source filter failed');
   await page.locator('#relations [data-edge]').first().click();
   assert(await page.locator('#evidence-panel a[href*="rsarchive.org"]').count()>0,'outbound primary source missing');
+  await page.goto(root+'/atlas/sources.html',{waitUntil:'networkidle'});
+  await page.getByRole('heading',{name:'Find the original work behind a concept.'}).waitFor();
+  const totalSources=await page.locator('#source-cards article').count();
+  assert(totalSources>=27,'source guide has fewer than 27 original source cards');
+  await page.locator('#filter-domain').selectOption('07');
+  const limited=await page.locator('#source-cards article').count();
+  assert(limited>0 && limited<totalSources,'source-guide domain filtering failed');
+  await page.locator('#filter-kind').selectOption('recorded_lecture');
+  const narrowed=await page.locator('#source-cards article').count();
+  assert(narrowed>0 && narrowed<=limited,'source-guide work-kind filtering failed');
+  await page.locator('#reset').click();
+  assert(await page.locator('#source-cards article').count()===totalSources,'source-guide reset failed');
   assert(!errors.length,'console or page errors: '+errors.join('; '));
   console.log(JSON.stringify({ok:true,conceptSearch:true,domainRows,compared,sourceRows,totalRelationships:initial}));
   await page.close();
