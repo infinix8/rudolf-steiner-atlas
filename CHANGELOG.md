@@ -1,3 +1,12 @@
+## 2026-11-02 — Organ concordance Phase 7: organ metamorphosis and inter-incarnation history
+
+- Examined all **69 numbered English sections** across GA 205 (July 2, 1921; 26 sections), GA 315 (April 12, 1921; 20 sections) and GA 317 (June 25, 1924; 23 sections). Added [section coverage register](research/organ-section-audit-ga205-ga315-ga317-v7.json) and [28 selected distinct organ claims](research/organ-atomic-claims-ga205-ga315-ga317-v7.json).
+- Identified new distinct dimensions: surface memory vs interior future-life formative forces in GA 205; larynx/posterior-head/rib metamorphosis in GA 315; synthetic-head versus analytic-organs and liver as intent-to-action mediator in GA 317.
+- Built [five organ comparative dossiers](research/organ-comparative-dossiers-v7.json) with **31 typed relationship entries** for liver, heart, kidneys, lungs, and larynx.
+- Updated [61-entry GA 313–317 ledger](research/organ-corpus-ledger-ga313-317-v7.json): **6** fully English-numbered reviewed, **1** thematic sweep, **54** unreviewed; 131 numbered sections inspected within this medical tranche, plus 26 in GA 205 outside its denominator. **0** certified complete bilingual atomic-claim concordances.
+- Added [Phase 7 source-linked research report](docs/ORGAN_CONCORDANCE_PHASE7_FINDINGS.md). The full local Word/Markdown research document was updated to Version 7 (42 rendered pages).
+- Carefully flags scientifically incorrect/unverified cardiac, hereditary, psychiatric and disability-related causal claims as historical artifacts, never advice; original German collation and claim completeness remain open.
+
 ## 2026-11-02 — Organ concordance Phase 6: GA 314/316 and cross-volume history
 
 - Reviewed all 28 numbered English paragraphs in GA 314 Oct. 27 (afternoon) and all 19 in GA 316 Jan. 4; created 47 paragraph-level coverage records, plus nine thematic GA 314 morning anchors (whose English translation is unnumbered).
