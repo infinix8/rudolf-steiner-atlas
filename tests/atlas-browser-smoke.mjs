@@ -23,6 +23,11 @@ try {
   await page.getByRole('heading',{name:'Follow the evidence between teachings'}).waitFor();
   const initial=await page.locator('#relations tr').count();
   assert(initial>=179,'expected at least 179 source-linked graph rows, got '+initial);
+  await page.locator('#family-filter').selectOption('distinction_and_comparison');
+  const contrastRows=await page.locator('#relations [data-edge]').count();
+  assert(contrastRows>0 && contrastRows<initial,'semantic relation family filter not functional');
+  await page.locator('#clear-filters').click();
+  assert(await page.locator('#relations tr').count()===initial,'family-filter reset failed');
   await page.locator('#domain-filter').selectOption('07');
   const domainRows=await page.locator('#relations tr').count();
   assert(domainRows>0 && domainRows<initial,'domain filter not working');
