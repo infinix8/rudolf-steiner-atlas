@@ -1,0 +1,139 @@
+{
+  "schema_version": "0.1",
+  "date": "2026-11-02",
+  "primary_passage_count": 9,
+  "scope": "Selected passages only, not exhaustive lecture audits; all claims attributed to Rudolf Steiner and unverified scientifically.",
+  "records": [
+    {
+      "id": "ORG-CROSS-V6-01",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090417p01.html",
+      "ga": 110,
+      "lecture_date": "1909-04-17",
+      "section": 7,
+      "organ_terms": [
+        "heart"
+      ],
+      "relationship_type": "earliest_cosmic_origin",
+      "paraphrase": "Places the first germ of the heart on Old Saturn in the Leo region, ascribed to Thrones, Cherubim and Seraphim.",
+      "evidence_status": "selected_original_source_passage_read",
+      "full_lecture_audited": false
+    },
+    {
+      "id": "ORG-CROSS-V6-02",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090417p01.html",
+      "ga": 110,
+      "lecture_date": "1909-04-17",
+      "section": 8,
+      "organ_terms": [
+        "ribcage"
+      ],
+      "relationship_type": "zodiacal_genesis_symbolism",
+      "paraphrase": "Associates the protective chest or ribcage with the Cancer/Crab region, distinguishable from the Leo/heart origin claim.",
+      "evidence_status": "selected_original_source_passage_read",
+      "full_lecture_audited": false
+    },
+    {
+      "id": "ORG-CROSS-V6-03",
+      "source_url": "https://rsarchive.org/Lectures/GA128/English/SOL/19110321p01.html",
+      "ga": 128,
+      "lecture_date": "1911-03-21",
+      "section": 11,
+      "organ_terms": [
+        "spleen"
+      ],
+      "relationship_type": "inner_planet_correspondence",
+      "paraphrase": "Calls spleen inner Saturn and frames this planetary language, initially, as a provisional comparison between external worlds and condensed inner worlds.",
+      "evidence_status": "selected_original_source_passage_read",
+      "full_lecture_audited": false
+    },
+    {
+      "id": "ORG-CROSS-V6-04",
+      "source_url": "https://rsarchive.org/Lectures/GA128/English/SOL/19110321p01.html",
+      "ga": 128,
+      "lecture_date": "1911-03-21",
+      "section": 11,
+      "organ_terms": [
+        "liver"
+      ],
+      "relationship_type": "inner_planet_correspondence",
+      "paraphrase": "Calls liver inner Jupiter, explicitly cautioning at introduction that the analogy should not prematurely signify more than a provisional comparison.",
+      "evidence_status": "selected_original_source_passage_read",
+      "full_lecture_audited": false
+    },
+    {
+      "id": "ORG-CROSS-V6-05",
+      "source_url": "https://rsarchive.org/Lectures/GA128/English/SOL/19110321p01.html",
+      "ga": 128,
+      "lecture_date": "1911-03-21",
+      "section": 11,
+      "organ_terms": [
+        "gallbladder"
+      ],
+      "relationship_type": "inner_planet_correspondence",
+      "paraphrase": "Calls gallbladder inner Mars within the same provisional cosmological analogy.",
+      "evidence_status": "selected_original_source_passage_read",
+      "full_lecture_audited": false
+    },
+    {
+      "id": "ORG-CROSS-V6-06",
+      "source_url": "https://rsarchive.org/Lectures/GA218/English/SOL/19221022p01.html",
+      "ga": 218,
+      "lecture_date": "1922-10-22",
+      "section": 15,
+      "organ_terms": [
+        "heart",
+        "lungs",
+        "kidneys",
+        "liver",
+        "gallbladder"
+      ],
+      "relationship_type": "fourfold_organic_assimilation",
+      "paraphrase": "Associates heart/lung transformation with etheric assimilation, kidney contribution with astral assimilation and hepatic/biliary action with I assimilation.",
+      "evidence_status": "selected_original_source_passage_read",
+      "full_lecture_audited": false
+    },
+    {
+      "id": "ORG-CROSS-V6-07",
+      "source_url": "https://rsarchive.org/Lectures/GA218/English/SOL/19221022p01.html",
+      "ga": 218,
+      "lecture_date": "1922-10-22",
+      "section": 23,
+      "organ_terms": [
+        "spleen"
+      ],
+      "relationship_type": "higher_member_organ_correspondence",
+      "paraphrase": "Calls spleen an organ corresponding to spirit-self, a different type of relationship from the inner Saturn analogy.",
+      "evidence_status": "selected_original_source_passage_read",
+      "full_lecture_audited": false
+    },
+    {
+      "id": "ORG-CROSS-V6-08",
+      "source_url": "https://rsarchive.org/Lectures/GA218/English/SOL/19221022p01.html",
+      "ga": 218,
+      "lecture_date": "1922-10-22",
+      "section": 26,
+      "organ_terms": [
+        "kidneys",
+        "liver"
+      ],
+      "relationship_type": "historical_epoch_shift",
+      "paraphrase": "Claims kidney function dominated roughly the 4th–14th centuries and hepatic function thereafter, relating alleged physiological change to the consciousness-soul epoch.",
+      "evidence_status": "selected_original_source_passage_read",
+      "full_lecture_audited": false
+    },
+    {
+      "id": "ORG-CROSS-V6-09",
+      "source_url": "https://rsarchive.org/Lectures/GA218/English/SOL/19221022p01.html",
+      "ga": 218,
+      "lecture_date": "1922-10-22",
+      "section": 27,
+      "organ_terms": [
+        "human bodily organization"
+      ],
+      "relationship_type": "historical_metamorphosis",
+      "paraphrase": "Explicitly asserts human anatomy and physiology change across centuries and millennia alongside transformations of civilization.",
+      "evidence_status": "selected_original_source_passage_read",
+      "full_lecture_audited": false
+    }
+  ]
+}
