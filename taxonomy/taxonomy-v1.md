@@ -391,8 +391,8 @@ Use this as an expandable taxonomic hypothesis, not as a claim that every lectur
   - RS-09.02.02 soul
   - RS-09.02.03 spirit
   - RS-09.02.04 thinking-feeling-willing relations
-  - RS-09.02.05 nerve-sense, rhythmic, metabolic-limb organization
-- **RS-09.03 Threefold bodily nature**
+  - RS-09.02.05 Distinct physiological threefolding: nerve-sense, rhythmic, metabolic-limb
+- **RS-09.03 Physical–etheric–astral grouping (not physiological threefolding)**
   - RS-09.03.01 physical body
   - RS-09.03.02 etheric body
   - RS-09.03.03 astral body
