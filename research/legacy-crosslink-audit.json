@@ -1,0 +1,291 @@
+{
+  "version": "1.0",
+  "generated": "2026-11-02",
+  "purpose": "Status audit of the 30 old hypothesis-only crosslinks; never promote by similarity alone.",
+  "counts": {
+    "original": 30,
+    "exact": 4,
+    "partial": 0,
+    "not_evidenced": 26
+  },
+  "relations": [
+    {
+      "id": "LEG-001",
+      "from": "RS-09.01",
+      "to": "RS-06.03",
+      "previous_description": "constitution as a product of cosmic evolution",
+      "review_status": "matched_exact_nodes",
+      "candidate_graph_edges": [
+        "KG-063"
+      ],
+      "caveat": "Matching endpoints have a separately documented primary-source edge; check its typed relation and precise scope."
+    },
+    {
+      "id": "LEG-002",
+      "from": "RS-09.04",
+      "to": "RS-15.02",
+      "previous_description": "soul principles and cultural epochs",
+      "review_status": "not_yet_evidenced",
+      "candidate_graph_edges": [],
+      "caveat": "The legacy relationship remains a provisional editorial navigation suggestion, not an established Steiner relation."
+    },
+    {
+      "id": "LEG-003",
+      "from": "RS-09.05",
+      "to": "RS-12.04",
+      "previous_description": "spirit principles and future development",
+      "review_status": "not_yet_evidenced",
+      "candidate_graph_edges": [],
+      "caveat": "The legacy relationship remains a provisional editorial navigation suggestion, not an established Steiner relation."
+    },
+    {
+      "id": "LEG-004",
+      "from": "RS-10.03",
+      "to": "RS-19.01",
+      "previous_description": "twelve senses and education",
+      "review_status": "not_yet_evidenced",
+      "candidate_graph_edges": [],
+      "caveat": "The legacy relationship remains a provisional editorial navigation suggestion, not an established Steiner relation."
+    },
+    {
+      "id": "LEG-005",
+      "from": "RS-10.04",
+      "to": "RS-17.04",
+      "previous_description": "life processes and biology",
+      "review_status": "not_yet_evidenced",
+      "candidate_graph_edges": [],
+      "caveat": "The legacy relationship remains a provisional editorial navigation suggestion, not an established Steiner relation."
+    },
+    {
+      "id": "LEG-006",
+      "from": "RS-03.03",
+      "to": "RS-10.02",
+      "previous_description": "initiation and states of consciousness",
+      "review_status": "not_yet_evidenced",
+      "candidate_graph_edges": [],
+      "caveat": "The legacy relationship remains a provisional editorial navigation suggestion, not an established Steiner relation."
+    },
+    {
+      "id": "LEG-007",
+      "from": "RS-01.01",
+      "to": "RS-04.01",
+      "previous_description": "epistemology and worldview typology",
+      "review_status": "not_yet_evidenced",
+      "candidate_graph_edges": [],
+      "caveat": "The legacy relationship remains a provisional editorial navigation suggestion, not an established Steiner relation."
+    },
+    {
+      "id": "LEG-008",
+      "from": "RS-02.02",
+      "to": "RS-20.04",
+      "previous_description": "Goethean plants and farming",
+      "review_status": "not_yet_evidenced",
+      "candidate_graph_edges": [],
+      "caveat": "The legacy relationship remains a provisional editorial navigation suggestion, not an established Steiner relation."
+    },
+    {
+      "id": "LEG-009",
+      "from": "RS-05.02",
+      "to": "RS-06.01",
+      "previous_description": "spiritual hierarchies and evolution",
+      "review_status": "matched_exact_nodes",
+      "candidate_graph_edges": [
+        "KG-064"
+      ],
+      "caveat": "Matching endpoints have a separately documented primary-source edge; check its typed relation and precise scope."
+    },
+    {
+      "id": "LEG-010",
+      "from": "RS-07.04",
+      "to": "RS-20.02",
+      "previous_description": "elementals and cosmic forces in agriculture",
+      "review_status": "not_yet_evidenced",
+      "candidate_graph_edges": [],
+      "caveat": "The legacy relationship remains a provisional editorial navigation suggestion, not an established Steiner relation."
+    },
+    {
+      "id": "LEG-011",
+      "from": "RS-08.03",
+      "to": "RS-11.01",
+      "previous_description": "between lives and life stages",
+      "review_status": "not_yet_evidenced",
+      "candidate_graph_edges": [],
+      "caveat": "The legacy relationship remains a provisional editorial navigation suggestion, not an established Steiner relation."
+    },
+    {
+      "id": "LEG-012",
+      "from": "RS-08.02",
+      "to": "RS-21.06",
+      "previous_description": "karma and social ethics",
+      "review_status": "not_yet_evidenced",
+      "candidate_graph_edges": [],
+      "caveat": "The legacy relationship remains a provisional editorial navigation suggestion, not an established Steiner relation."
+    },
+    {
+      "id": "LEG-013",
+      "from": "RS-13.04",
+      "to": "RS-25.02",
+      "previous_description": "Golgotha and Easter festivals",
+      "review_status": "matched_exact_nodes",
+      "candidate_graph_edges": [
+        "KG-066"
+      ],
+      "caveat": "Matching endpoints have a separately documented primary-source edge; check its typed relation and precise scope."
+    },
+    {
+      "id": "LEG-014",
+      "from": "RS-14.02",
+      "to": "RS-13.03",
+      "previous_description": "scriptures and four gospels",
+      "review_status": "not_yet_evidenced",
+      "candidate_graph_edges": [],
+      "caveat": "The legacy relationship remains a provisional editorial navigation suggestion, not an established Steiner relation."
+    },
+    {
+      "id": "LEG-015",
+      "from": "RS-15.02",
+      "to": "RS-12.01",
+      "previous_description": "epochs and evolution of consciousness",
+      "review_status": "not_yet_evidenced",
+      "candidate_graph_edges": [],
+      "caveat": "The legacy relationship remains a provisional editorial navigation suggestion, not an established Steiner relation."
+    },
+    {
+      "id": "LEG-016",
+      "from": "RS-16.01",
+      "to": "RS-25.02",
+      "previous_description": "Michael and Michaelmas",
+      "review_status": "not_yet_evidenced",
+      "candidate_graph_edges": [],
+      "caveat": "The legacy relationship remains a provisional editorial navigation suggestion, not an established Steiner relation."
+    },
+    {
+      "id": "LEG-017",
+      "from": "RS-16.04",
+      "to": "RS-23.04",
+      "previous_description": "Representative of Humanity and spiritual polarities",
+      "review_status": "not_yet_evidenced",
+      "candidate_graph_edges": [],
+      "caveat": "The legacy relationship remains a provisional editorial navigation suggestion, not an established Steiner relation."
+    },
+    {
+      "id": "LEG-018",
+      "from": "RS-17.01",
+      "to": "RS-02.03",
+      "previous_description": "optics and Goethean color",
+      "review_status": "not_yet_evidenced",
+      "candidate_graph_edges": [],
+      "caveat": "The legacy relationship remains a provisional editorial navigation suggestion, not an established Steiner relation."
+    },
+    {
+      "id": "LEG-019",
+      "from": "RS-17.02",
+      "to": "RS-06.04",
+      "previous_description": "astronomy and spiritual cosmology",
+      "review_status": "not_yet_evidenced",
+      "candidate_graph_edges": [],
+      "caveat": "The legacy relationship remains a provisional editorial navigation suggestion, not an established Steiner relation."
+    },
+    {
+      "id": "LEG-020",
+      "from": "RS-18.01",
+      "to": "RS-09.02",
+      "previous_description": "medicine and threefold organization",
+      "review_status": "not_yet_evidenced",
+      "candidate_graph_edges": [],
+      "caveat": "The legacy relationship remains a provisional editorial navigation suggestion, not an established Steiner relation."
+    },
+    {
+      "id": "LEG-021",
+      "from": "RS-18.06",
+      "to": "RS-19.06",
+      "previous_description": "remedial education and pedagogy",
+      "review_status": "not_yet_evidenced",
+      "candidate_graph_edges": [],
+      "caveat": "The legacy relationship remains a provisional editorial navigation suggestion, not an established Steiner relation."
+    },
+    {
+      "id": "LEG-022",
+      "from": "RS-19.02",
+      "to": "RS-11.01",
+      "previous_description": "developmental periods and teaching",
+      "review_status": "not_yet_evidenced",
+      "candidate_graph_edges": [],
+      "caveat": "The legacy relationship remains a provisional editorial navigation suggestion, not an established Steiner relation."
+    },
+    {
+      "id": "LEG-023",
+      "from": "RS-21.01",
+      "to": "RS-19.05",
+      "previous_description": "cultural life and school autonomy",
+      "review_status": "not_yet_evidenced",
+      "candidate_graph_edges": [],
+      "caveat": "The legacy relationship remains a provisional editorial navigation suggestion, not an established Steiner relation."
+    },
+    {
+      "id": "LEG-024",
+      "from": "RS-22.02",
+      "to": "RS-02.03",
+      "previous_description": "painting and color phenomenology",
+      "review_status": "not_yet_evidenced",
+      "candidate_graph_edges": [],
+      "caveat": "The legacy relationship remains a provisional editorial navigation suggestion, not an established Steiner relation."
+    },
+    {
+      "id": "LEG-025",
+      "from": "RS-24.06",
+      "to": "RS-18.04",
+      "previous_description": "therapeutic eurythmy",
+      "review_status": "not_yet_evidenced",
+      "candidate_graph_edges": [],
+      "caveat": "The legacy relationship remains a provisional editorial navigation suggestion, not an established Steiner relation."
+    },
+    {
+      "id": "LEG-026",
+      "from": "RS-24.05",
+      "to": "RS-08.02",
+      "previous_description": "mystery dramas and karma",
+      "review_status": "not_yet_evidenced",
+      "candidate_graph_edges": [],
+      "caveat": "The legacy relationship remains a provisional editorial navigation suggestion, not an established Steiner relation."
+    },
+    {
+      "id": "LEG-027",
+      "from": "RS-25.03",
+      "to": "RS-10.02",
+      "previous_description": "Calendar of the Soul and consciousness",
+      "review_status": "not_yet_evidenced",
+      "candidate_graph_edges": [],
+      "caveat": "The legacy relationship remains a provisional editorial navigation suggestion, not an established Steiner relation."
+    },
+    {
+      "id": "LEG-028",
+      "from": "RS-26.03",
+      "to": "RS-03.06",
+      "previous_description": "First Class and esoteric schooling",
+      "review_status": "not_yet_evidenced",
+      "candidate_graph_edges": [],
+      "caveat": "The legacy relationship remains a provisional editorial navigation suggestion, not an established Steiner relation."
+    },
+    {
+      "id": "LEG-029",
+      "from": "RS-04.02",
+      "to": "RS-05.05",
+      "previous_description": "world thought and spiritual hierarchies",
+      "review_status": "not_yet_evidenced",
+      "candidate_graph_edges": [],
+      "caveat": "The legacy relationship remains a provisional editorial navigation suggestion, not an established Steiner relation."
+    },
+    {
+      "id": "LEG-030",
+      "from": "RS-07.05",
+      "to": "RS-25.01",
+      "previous_description": "Earth breathing and festivals",
+      "review_status": "matched_exact_nodes",
+      "candidate_graph_edges": [
+        "KG-065"
+      ],
+      "caveat": "Matching endpoints have a separately documented primary-source edge; check its typed relation and precise scope."
+    }
+  ]
+}
