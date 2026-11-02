@@ -1,5 +1,15 @@
 # Changelog
 
+## 2026-11-02 — Iteration 6: primary passages and concept contexts
+
+- Expanded to **179 original passage-linked relations**, **40 original source pages** and **78 cross-domain links**.
+- Improved subdomain source map to **51 direct, 48 child-only, 51 still unlinked**; retained separate evidence grades.
+- Read and attached ten original Steiner chapters/lectures/essays across philosophical knowledge, Goethean optics, initiation, agriculture, education and eurythmy.
+- Built six cross-source comparisons with 16 context records, distinguishing truly dated original lectures from undated authored work references.
+- Added eight explanatory editorial relation-family filters atop 123 precise typed relationships; preserved exact passage and claim.
+- Extended provenance, date and graph validators plus desktop/mobile Chromium test coverage.
+- Reconciled 30 old proposals: 4 exact endpoint matches, 3 narrower indications, 23 without matching passage evidence.
+
 ## 2026-11-02 — Iteration 5: subdomain depth, chronology and original analysis
 
 - Expanded source-linked knowledge graph to **142 typed relations**, **30 original Steiner source pages** and **60 cross-domain edges**; added GA 4's Moral Imagination chapter and GA 9's Re-Embodiment and Three Worlds chapters.
