@@ -253,7 +253,7 @@ for src in sources:
     if not source_refs[src]:
         errors.append("unused source: " + src)
 
-required = ["atlas/graph.html", "atlas/graph.js", "atlas/graph.css", "atlas/index.html", "atlas/app.js", "atlas/sources.html", "atlas/sources.js", "atlas/coverage.html", "atlas/coverage.js", "atlas/timeline.html", "atlas/timeline.js", "atlas/dossiers.html", "atlas/dossiers.js"]
+required = ["atlas/graph.html", "atlas/graph.js", "atlas/graph.css", "atlas/index.html", "atlas/app.js", "atlas/sources.html", "atlas/sources.js", "atlas/coverage.html", "atlas/coverage.js", "atlas/timeline.html", "atlas/timeline.js", "atlas/dossiers.html", "atlas/dossiers.js", "atlas/trajectories.html", "atlas/trajectories.js"]
 for file in required:
     if not (ROOT / file).is_file():
         errors.append("missing interface file: " + file)
