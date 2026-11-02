@@ -5,8 +5,8 @@
   "counts": {
     "original": 30,
     "exact": 4,
-    "partial": 0,
-    "not_evidenced": 26
+    "partial": 1,
+    "not_evidenced": 25
   },
   "relations": [
     {
@@ -236,9 +236,11 @@
       "from": "RS-24.06",
       "to": "RS-18.04",
       "previous_description": "therapeutic eurythmy",
-      "review_status": "not_yet_evidenced",
-      "candidate_graph_edges": [],
-      "caveat": "The legacy relationship remains a provisional editorial navigation suggestion, not an established Steiner relation."
+      "review_status": "related_descendant_evidence_not_sufficient",
+      "candidate_graph_edges": [
+        "KG-084"
+      ],
+      "caveat": "At least one related descendant link is supported by a checked passage, but the full broad crosslink has NOT been verified."
     },
     {
       "id": "LEG-026",
