@@ -1,0 +1,21 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Evidence coverage · Rudolf Steiner Atlas</title><link rel="stylesheet" href="style.css"><link rel="stylesheet" href="coverage.css"><script defer src="coverage.js"></script></head>
+<body><a class="skip-link" href="#content">Skip to coverage analysis</a>
+<header class="masthead"><div class="masthead-inner"><a class="brand" href="index.html"><span class="brandmark">✳</span><span><strong>Rudolf Steiner Atlas</strong><small>Evidence map, gaps and source leads</small></span></a>
+<nav class="top-nav"><a href="index.html">Concepts</a><a href="graph.html">Evidence graph</a><a href="sources.html">Source guide</a><a href="timeline.html">Chronology</a></nav></div></header>
+<main class="main-content" id="content" style="max-width:1400px;margin:auto"><p class="eyebrow">Where research exists—and where it does not</p><h1>Evidence coverage across 150 subdomains</h1>
+<p class="intro">This dashboard distinguishes a passage-linked relationship attached directly to a subdomain from one involving only a concept underneath it. Neither should be confused with comprehensive verification of a chapter, lecture or entire subject.</p>
+<div class="stats" id="coverage-stats" aria-live="polite"></div>
+<div class="coverage-legend">
+<span><i class="legend-key direct"></i> Direct evidence: the subdomain itself is a graph endpoint</span>
+<span><i class="legend-key descendant"></i> Descendant only: a child concept is a graph endpoint</span>
+<span><i class="legend-key none"></i> No linked passages yet</span>
+</div>
+<div class="panel coverage-filter"><div><label for="coverage-domain">Knowledge domain</label><select id="coverage-domain"><option value="">All 26 domains</option></select></div>
+<div><label for="coverage-status">Evidence status</label><select id="coverage-status"><option value="">All statuses</option><option value="direct">Direct subdomain evidence</option><option value="descendant">Only child concepts</option><option value="none">No current evidence</option></select></div>
+<div><label for="coverage-search">Find a subdomain</label><input type="search" id="coverage-search" placeholder="e.g. soul, physiology, festivals"></div>
+<button type="button" class="btn" id="coverage-reset">Reset</button></div>
+<div id="coverage-summary" class="coverage-summary" aria-live="polite"></div>
+<section id="coverage-list" aria-label="Subdomain evidence status" class="coverage-list"></section>
+<div class="caution">An absent graph relationship does not mean Steiner never discussed the subject. It means **our current atlas graph lacks a passage-qualified relationship attached to that subdomain or its descendants**. GA-volume leads elsewhere in the taxonomy are not counted as verified evidence.</div>
+</main><footer class="site-footer">Independent editorial mapping; no original archive texts copied. <a href="../docs/KNOWLEDGE_GRAPH_METHOD.md">Method and source limits</a></footer></body></html>
