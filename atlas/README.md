@@ -39,12 +39,20 @@ node --check atlas/app.js
 
 ## Additional features
 
-19 located-but-not-fully-reviewed original source links; 14 archive-topic bridges; 41 controlled alternative search phrases; and 3 source-linked comparison models (GA 9, GA 151 and GA 293).
+19 earlier source-gateway links and 27 source pages in the expanded graph; 14 archive-topic bridges; 41 controlled alternative search phrases; and 3 source-linked comparison models (GA 9, GA 151 and GA 293).
 
 ## Passage-evidence graph (iteration 2026-11-02)
 
-Open `http://localhost:8000/atlas/graph.html` for a filterable diagram and an accessible evidence table covering 66 typed relations, 13 original book/lecture pages and 19 cross-domain connections.
+Open `http://localhost:8000/atlas/graph.html` for a filterable diagram and an accessible evidence table covering 116 typed relations, 27 original book/lecture/essay pages and 51 cross-domain connections.
 
 The main concept browser includes separate panels for **passage-checked** relationships and **unverified proposed** crosslinks. All relations are original paraphrases or explicitly marked editorial comparisons. Follow the outgoing source link to read Steiner's own text in its original context.
 
 See [graph evidence method](../docs/KNOWLEDGE_GRAPH_METHOD.md) and [coverage report](../docs/KNOWLEDGE_GRAPH_COVERAGE.md). To regenerate and verify the report, run `python tools/report_knowledge_graph.py --write` and `python tools/report_knowledge_graph.py --check`.
+
+## Original-source guide
+
+Open `http://localhost:8000/atlas/sources.html`. Filter the source pages used in the graph by GA number, title, date, domain or work type. Every record opens the **original source page** rather than a text copy. These 27 graph source pages are distinct from the earlier 19 first-pass source-gateway records.
+
+## Test the browser as well as the data
+
+The browser smoke tests at `tests/atlas-browser-smoke.mjs` use Chromium on desktop and mobile viewports, exercising search, taxonomy deep links, graph filters, primary-source cards and the source-guide filters. GitHub Actions runs them automatically for relevant changes.
