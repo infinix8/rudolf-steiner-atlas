@@ -824,7 +824,8 @@
           "passage_locator": "[5]-[6]"
         }
       ],
-      "claim": "Body mediates sensory encounter; soul personalizes its impressions."
+      "claim": "Body mediates sensory encounter; soul personalizes its impressions.",
+      "relation_family": "distinction_and_comparison"
     },
     {
       "id": "KG-002",
@@ -840,7 +841,8 @@
           "passage_locator": "[5]-[6]"
         }
       ],
-      "claim": "Spirit is distinguished from the soul's individual reactions."
+      "claim": "Spirit is distinguished from the soul's individual reactions.",
+      "relation_family": "distinction_and_comparison"
     },
     {
       "id": "KG-003",
@@ -856,7 +858,8 @@
           "passage_locator": "discussion of etheric/life body around [14]-[15]"
         }
       ],
-      "claim": "The etheric principle is invoked in Steiner's account of plant life."
+      "claim": "The etheric principle is invoked in Steiner's account of plant life.",
+      "relation_family": "attributed_process_and_causation"
     },
     {
       "id": "KG-004",
@@ -872,7 +875,8 @@
           "passage_locator": "[24]-[25]; [40]"
         }
       ],
-      "claim": "Steiner describes thought permeating sentient life as intellectual soul."
+      "claim": "Steiner describes thought permeating sentient life as intellectual soul.",
+      "relation_family": "development_and_sequence"
     },
     {
       "id": "KG-005",
@@ -888,7 +892,8 @@
           "passage_locator": "[40]"
         }
       ],
-      "claim": "The intellectual soul is described as opening toward spiritual intuition."
+      "claim": "The intellectual soul is described as opening toward spiritual intuition.",
+      "relation_family": "development_and_sequence"
     },
     {
       "id": "KG-006",
@@ -904,7 +909,8 @@
           "passage_locator": "[40]"
         }
       ],
-      "claim": "Consciousness soul and spirit-self form a unity in the earthly person."
+      "claim": "Consciousness soul and spirit-self form a unity in the earthly person.",
+      "relation_family": "composition_and_structure"
     },
     {
       "id": "KG-007",
@@ -920,7 +926,8 @@
           "passage_locator": "[40]-[42]"
         }
       ],
-      "claim": "The ninefold arrangement becomes sevenfold through specified unions."
+      "claim": "The ninefold arrangement becomes sevenfold through specified unions.",
+      "relation_family": "composition_and_structure"
     },
     {
       "id": "KG-008",
@@ -936,7 +943,8 @@
           "passage_locator": "[42]"
         }
       ],
-      "claim": "The fourfold account groups the soul body and sentient soul in astral body."
+      "claim": "The fourfold account groups the soul body and sentient soul in astral body.",
+      "relation_family": "composition_and_structure"
     },
     {
       "id": "KG-009",
@@ -952,7 +960,8 @@
           "passage_locator": "[42]"
         }
       ],
-      "claim": "Spirit-self is described as transformation of astral body."
+      "claim": "Spirit-self is described as transformation of astral body.",
+      "relation_family": "attributed_process_and_causation"
     },
     {
       "id": "KG-010",
@@ -968,7 +977,8 @@
           "passage_locator": "[42]"
         }
       ],
-      "claim": "Life-spirit is described as transformation of life body."
+      "claim": "Life-spirit is described as transformation of life body.",
+      "relation_family": "attributed_process_and_causation"
     },
     {
       "id": "KG-011",
@@ -984,7 +994,8 @@
           "passage_locator": "[42]"
         }
       ],
-      "claim": "Spirit-man is described as transformation of physical body."
+      "claim": "Spirit-man is described as transformation of physical body.",
+      "relation_family": "attributed_process_and_causation"
     },
     {
       "id": "KG-012",
@@ -1000,7 +1011,8 @@
           "passage_locator": "[17]-[20]"
         }
       ],
-      "claim": "Old Saturn is presented as the beginning of the human physical body's development."
+      "claim": "Old Saturn is presented as the beginning of the human physical body's development.",
+      "relation_family": "development_and_sequence"
     },
     {
       "id": "KG-013",
@@ -1016,7 +1028,8 @@
           "passage_locator": "[31]-[32]"
         }
       ],
-      "claim": "Old Sun introduces the etheric/life body into the human constitution."
+      "claim": "Old Sun introduces the etheric/life body into the human constitution.",
+      "relation_family": "development_and_sequence"
     },
     {
       "id": "KG-014",
@@ -1032,7 +1045,8 @@
           "passage_locator": "[16]; [40]"
         }
       ],
-      "claim": "Old Moon is connected with reception of the astral body."
+      "claim": "Old Moon is connected with reception of the astral body.",
+      "relation_family": "development_and_sequence"
     },
     {
       "id": "KG-015",
@@ -1048,7 +1062,8 @@
           "passage_locator": "[16]; [1]-[5]"
         }
       ],
-      "claim": "Earth is the evolutionary stage in which the I becomes active."
+      "claim": "Earth is the evolutionary stage in which the I becomes active.",
+      "relation_family": "development_and_sequence"
     },
     {
       "id": "KG-016",
@@ -1068,7 +1083,8 @@
           "passage_locator": "account of Thrones providing original warmth substance"
         }
       ],
-      "claim": "Steiner assigns an outpouring of will to the Thrones at Saturn's beginning."
+      "claim": "Steiner assigns an outpouring of will to the Thrones at Saturn's beginning.",
+      "relation_family": "attributed_process_and_causation"
     },
     {
       "id": "KG-017",
@@ -1084,7 +1100,8 @@
           "passage_locator": "[31]"
         }
       ],
-      "claim": "Spirits of Wisdom are associated with the bestowal of the life body on Old Sun."
+      "claim": "Spirits of Wisdom are associated with the bestowal of the life body on Old Sun.",
+      "relation_family": "attributed_process_and_causation"
     },
     {
       "id": "KG-018",
@@ -1100,7 +1117,8 @@
           "passage_locator": "[23]"
         }
       ],
-      "claim": "Archangels are connected with early sense-organ development on Saturn."
+      "claim": "Archangels are connected with early sense-organ development on Saturn.",
+      "relation_family": "attributed_process_and_causation"
     },
     {
       "id": "KG-019",
@@ -1116,7 +1134,8 @@
           "passage_locator": "[16]-[17]"
         }
       ],
-      "claim": "Saturn precedes Sun in Steiner's cosmic narrative."
+      "claim": "Saturn precedes Sun in Steiner's cosmic narrative.",
+      "relation_family": "development_and_sequence"
     },
     {
       "id": "KG-020",
@@ -1132,7 +1151,8 @@
           "passage_locator": "[16]-[17]"
         }
       ],
-      "claim": "Sun precedes Moon in Steiner's cosmic narrative."
+      "claim": "Sun precedes Moon in Steiner's cosmic narrative.",
+      "relation_family": "development_and_sequence"
     },
     {
       "id": "KG-021",
@@ -1148,7 +1168,8 @@
           "passage_locator": "[16]-[17]"
         }
       ],
-      "claim": "Moon precedes Earth in Steiner's cosmic narrative."
+      "claim": "Moon precedes Earth in Steiner's cosmic narrative.",
+      "relation_family": "development_and_sequence"
     },
     {
       "id": "KG-022",
@@ -1164,7 +1185,8 @@
           "passage_locator": "[11]-[12]"
         }
       ],
-      "claim": "Earth evolution initially recapitulates earlier developmental stages."
+      "claim": "Earth evolution initially recapitulates earlier developmental stages.",
+      "relation_family": "development_and_sequence"
     },
     {
       "id": "KG-023",
@@ -1180,7 +1202,8 @@
           "passage_locator": "[5]; [19]"
         }
       ],
-      "claim": "Each worldview orientation may be adopted with different soul moods."
+      "claim": "Each worldview orientation may be adopted with different soul moods.",
+      "relation_family": "composition_and_structure"
     },
     {
       "id": "KG-024",
@@ -1196,7 +1219,8 @@
           "passage_locator": "[25]"
         }
       ],
-      "claim": "Worldview combinations can receive an additional tonal qualification."
+      "claim": "Worldview combinations can receive an additional tonal qualification.",
+      "relation_family": "development_and_sequence"
     },
     {
       "id": "KG-025",
@@ -1212,7 +1236,8 @@
           "passage_locator": "[1]-[3]; [20]"
         }
       ],
-      "claim": "The twelve orientations are related symbolically to zodiacal signs."
+      "claim": "The twelve orientations are related symbolically to zodiacal signs.",
+      "relation_family": "symbolic_correspondence"
     },
     {
       "id": "KG-026",
@@ -1228,7 +1253,8 @@
           "passage_locator": "[19]-[20]"
         }
       ],
-      "claim": "The seven moods are related to planetary imagery within the zodiac."
+      "claim": "The seven moods are related to planetary imagery within the zodiac.",
+      "relation_family": "symbolic_correspondence"
     },
     {
       "id": "KG-027",
@@ -1244,7 +1270,8 @@
           "passage_locator": "[25]-[26]"
         }
       ],
-      "claim": "The three tones are compared respectively with Sun, Moon and Earth."
+      "claim": "The three tones are compared respectively with Sun, Moon and Earth.",
+      "relation_family": "symbolic_correspondence"
     },
     {
       "id": "KG-028",
@@ -1260,7 +1287,8 @@
           "passage_locator": "[29]"
         }
       ],
-      "claim": "Anthropomorphism is presented separately from the three primary tones."
+      "claim": "Anthropomorphism is presented separately from the three primary tones.",
+      "relation_family": "composition_and_structure"
     },
     {
       "id": "KG-029",
@@ -1276,7 +1304,8 @@
           "passage_locator": "opening paragraphs"
         }
       ],
-      "claim": "Thinking-cognition is associated with waking consciousness."
+      "claim": "Thinking-cognition is associated with waking consciousness.",
+      "relation_family": "contextual_association"
     },
     {
       "id": "KG-030",
@@ -1292,7 +1321,8 @@
           "passage_locator": "opening paragraphs"
         }
       ],
-      "claim": "Feeling is associated with dreaming consciousness."
+      "claim": "Feeling is associated with dreaming consciousness.",
+      "relation_family": "contextual_association"
     },
     {
       "id": "KG-031",
@@ -1308,7 +1338,8 @@
           "passage_locator": "opening paragraphs"
         }
       ],
-      "claim": "Willing is associated with sleeping consciousness."
+      "claim": "Willing is associated with sleeping consciousness.",
+      "relation_family": "contextual_association"
     },
     {
       "id": "KG-032",
@@ -1324,7 +1355,8 @@
           "passage_locator": "lecture opening on body formation"
         }
       ],
-      "claim": "Head, chest/trunk and limbs form a distinct educational account of human organization."
+      "claim": "Head, chest/trunk and limbs form a distinct educational account of human organization.",
+      "relation_family": "method_and_application"
     },
     {
       "id": "KG-033",
@@ -1340,7 +1372,8 @@
           "passage_locator": "[2]-[3]"
         }
       ],
-      "claim": "Twelve sense regions are described as permeated by seven life processes."
+      "claim": "Twelve sense regions are described as permeated by seven life processes.",
+      "relation_family": "composition_and_structure"
     },
     {
       "id": "KG-034",
@@ -1357,7 +1390,8 @@
         }
       ],
       "claim": "Steiner likens sense regions to a human zodiac.",
-      "note": "An attributed analogy, not established neuroscience."
+      "note": "An attributed analogy, not established neuroscience.",
+      "relation_family": "symbolic_correspondence"
     },
     {
       "id": "KG-035",
@@ -1373,7 +1407,8 @@
           "passage_locator": "[5]-[6]"
         }
       ],
-      "claim": "Veneration is described as an initial disposition in esoteric training."
+      "claim": "Veneration is described as an initial disposition in esoteric training.",
+      "relation_family": "method_and_application"
     },
     {
       "id": "KG-036",
@@ -1389,7 +1424,8 @@
           "passage_locator": "[1]-[6]"
         }
       ],
-      "claim": "Steiner presents preparatory inner training as prerequisite to higher perception."
+      "claim": "Steiner presents preparatory inner training as prerequisite to higher perception.",
+      "relation_family": "method_and_application"
     },
     {
       "id": "KG-037",
@@ -1405,7 +1441,8 @@
           "passage_locator": "Lecture IV, horn manure preparation section"
         }
       ],
-      "claim": "Manure is placed in cow horns as the described agricultural preparation."
+      "claim": "Manure is placed in cow horns as the described agricultural preparation.",
+      "relation_family": "method_and_application"
     },
     {
       "id": "KG-038",
@@ -1421,7 +1458,8 @@
           "passage_locator": "Lecture IV, winter burial section"
         }
       ],
-      "claim": "The winter season is assigned importance for the horn-manure process."
+      "claim": "The winter season is assigned importance for the horn-manure process.",
+      "relation_family": "attributed_process_and_causation"
     },
     {
       "id": "KG-039",
@@ -1437,7 +1475,8 @@
           "passage_locator": "Lecture IV, opening and compost sections"
         }
       ],
-      "claim": "Soil fertility is discussed as part of an interconnected farm organism."
+      "claim": "Soil fertility is discussed as part of an interconnected farm organism.",
+      "relation_family": "explanation_and_interpretation"
     },
     {
       "id": "KG-040",
@@ -1453,7 +1492,8 @@
           "passage_locator": "[1]-[4]"
         }
       ],
-      "claim": "The freedom-versus-necessity question frames deliberate human action."
+      "claim": "The freedom-versus-necessity question frames deliberate human action.",
+      "relation_family": "explanation_and_interpretation"
     },
     {
       "id": "KG-041",
@@ -1474,7 +1514,8 @@
         }
       ],
       "claim": "The physical/etheric/astral enumeration and head/chest/limb organization are different schemas.",
-      "note": "The current RS-09.03 label is misleading and needs a taxonomy revision; this is a comparison by the atlas editors, not a direct statement equating the schemes."
+      "note": "The current RS-09.03 label is misleading and needs a taxonomy revision; this is a comparison by the atlas editors, not a direct statement equating the schemes.",
+      "relation_family": "distinction_and_comparison"
     },
     {
       "id": "KG-042",
@@ -1490,7 +1531,8 @@
           "passage_locator": "discussion of Seraphim and Cherubim near hierarchy overview"
         }
       ],
-      "claim": "Steiner presents the Seraphim's received cosmic aims as further elaborated by Cherubim."
+      "claim": "Steiner presents the Seraphim's received cosmic aims as further elaborated by Cherubim.",
+      "relation_family": "development_and_sequence"
     },
     {
       "id": "KG-043",
@@ -1506,7 +1548,8 @@
           "passage_locator": "discussion of the first hierarchy"
         }
       ],
-      "claim": "Thrones are described as enacting aims developed through Cherubim."
+      "claim": "Thrones are described as enacting aims developed through Cherubim.",
+      "relation_family": "development_and_sequence"
     },
     {
       "id": "KG-044",
@@ -1522,7 +1565,8 @@
           "passage_locator": "account of the second hierarchy's work inside Saturn"
         }
       ],
-      "claim": "Steiner assigns direction to Spirits of Wisdom and implementation to Spirits of Motion."
+      "claim": "Steiner assigns direction to Spirits of Wisdom and implementation to Spirits of Motion.",
+      "relation_family": "attributed_process_and_causation"
     },
     {
       "id": "KG-045",
@@ -1538,7 +1582,8 @@
           "passage_locator": "account of Spirits of Motion and Spirits of Form"
         }
       ],
-      "claim": "Spirits of Form are portrayed as upholding structures developed by Spirits of Motion."
+      "claim": "Spirits of Form are portrayed as upholding structures developed by Spirits of Motion.",
+      "relation_family": "attributed_process_and_causation"
     },
     {
       "id": "KG-046",
@@ -1554,7 +1599,8 @@
           "passage_locator": "description of change from Saturn warmth to Sun air"
         }
       ],
-      "claim": "Spirits of Wisdom are linked with the condensation associated with Old Sun."
+      "claim": "Spirits of Wisdom are linked with the condensation associated with Old Sun.",
+      "relation_family": "attributed_process_and_causation"
     },
     {
       "id": "KG-047",
@@ -1570,7 +1616,8 @@
           "passage_locator": "description of Moon's watery condition"
         }
       ],
-      "claim": "Spirits of Motion are linked with the Old Moon's development."
+      "claim": "Spirits of Motion are linked with the Old Moon's development.",
+      "relation_family": "attributed_process_and_causation"
     },
     {
       "id": "KG-048",
@@ -1586,7 +1633,8 @@
           "passage_locator": "sequence of seven planetary conditions"
         }
       ],
-      "claim": "Future Jupiter precedes future Venus in the described planetary series."
+      "claim": "Future Jupiter precedes future Venus in the described planetary series.",
+      "relation_family": "development_and_sequence"
     },
     {
       "id": "KG-049",
@@ -1602,7 +1650,8 @@
           "passage_locator": "sequence of seven planetary conditions"
         }
       ],
-      "claim": "Future Venus precedes Vulcan in the described planetary series."
+      "claim": "Future Venus precedes Vulcan in the described planetary series.",
+      "relation_family": "development_and_sequence"
     },
     {
       "id": "KG-050",
@@ -1618,7 +1667,8 @@
           "passage_locator": "chapter opening comparison of natural and social threefoldness"
         }
       ],
-      "claim": "Steiner uses a three-system physiological comparison when introducing the social organism."
+      "claim": "Steiner uses a three-system physiological comparison when introducing the social organism.",
+      "relation_family": "symbolic_correspondence"
     },
     {
       "id": "KG-051",
@@ -1634,7 +1684,8 @@
           "passage_locator": "three branches of social life"
         }
       ],
-      "claim": "Cultural-spiritual activity and public-rights life are treated as different social functions."
+      "claim": "Cultural-spiritual activity and public-rights life are treated as different social functions.",
+      "relation_family": "distinction_and_comparison"
     },
     {
       "id": "KG-052",
@@ -1650,7 +1701,8 @@
           "passage_locator": "discussion of economic and rights systems"
         }
       ],
-      "claim": "Public-rights and economic activity are differentiated by their social tasks."
+      "claim": "Public-rights and economic activity are differentiated by their social tasks.",
+      "relation_family": "distinction_and_comparison"
     },
     {
       "id": "KG-053",
@@ -1666,7 +1718,8 @@
           "passage_locator": "description of economic member"
         }
       ],
-      "claim": "Economic life is presented as one of three semi-independent social spheres."
+      "claim": "Economic life is presented as one of three semi-independent social spheres.",
+      "relation_family": "composition_and_structure"
     },
     {
       "id": "KG-054",
@@ -1682,7 +1735,8 @@
           "passage_locator": "chapter's definition of economic life"
         }
       ],
-      "claim": "Production and circulation are two connected phases of the economic process."
+      "claim": "Production and circulation are two connected phases of the economic process.",
+      "relation_family": "composition_and_structure"
     },
     {
       "id": "KG-055",
@@ -1698,7 +1752,8 @@
           "passage_locator": "chapter's definition of economic life"
         }
       ],
-      "claim": "Circulation and consumption are included in the same economic process."
+      "claim": "Circulation and consumption are included in the same economic process.",
+      "relation_family": "composition_and_structure"
     },
     {
       "id": "KG-056",
@@ -1714,7 +1769,8 @@
           "passage_locator": "section on schools cultivating perception of the social organism"
         }
       ],
-      "claim": "Steiner connects social understanding with the task of education."
+      "claim": "Steiner connects social understanding with the task of education.",
+      "relation_family": "method_and_application"
     },
     {
       "id": "KG-057",
@@ -1730,7 +1786,8 @@
           "passage_locator": "[3]-[5] seasonal breathing and Christmas"
         }
       ],
-      "claim": "The yearly inward movement of earth-forces forms part of Steiner's Christmas interpretation."
+      "claim": "The yearly inward movement of earth-forces forms part of Steiner's Christmas interpretation.",
+      "relation_family": "attributed_process_and_causation"
     },
     {
       "id": "KG-058",
@@ -1746,7 +1803,8 @@
           "passage_locator": "[9]-[11] Easter and outward flow"
         }
       ],
-      "claim": "The outward movement of earth-forces is related to Easter in this account."
+      "claim": "The outward movement of earth-forces is related to Easter in this account.",
+      "relation_family": "attributed_process_and_causation"
     },
     {
       "id": "KG-059",
@@ -1762,7 +1820,8 @@
           "passage_locator": "[2]-[3] changing vegetation"
         }
       ],
-      "claim": "Changes in plant growth illustrate Steiner's image of annual earth-breathing."
+      "claim": "Changes in plant growth illustrate Steiner's image of annual earth-breathing.",
+      "relation_family": "contextual_association"
     },
     {
       "id": "KG-060",
@@ -1778,7 +1837,8 @@
           "passage_locator": "[9]-[10] Christ and Sun at Easter"
         }
       ],
-      "claim": "Easter is interpreted using the relationship of Christ-forces and sunlight."
+      "claim": "Easter is interpreted using the relationship of Christ-forces and sunlight.",
+      "relation_family": "attributed_process_and_causation"
     },
     {
       "id": "KG-061",
@@ -1794,7 +1854,8 @@
           "passage_locator": "lecture opening, disease and medical education"
         }
       ],
-      "claim": "Steiner places inquiry into illness within his proposed foundations of medicine."
+      "claim": "Steiner places inquiry into illness within his proposed foundations of medicine.",
+      "relation_family": "explanation_and_interpretation"
     },
     {
       "id": "KG-062",
@@ -1810,7 +1871,8 @@
           "passage_locator": "lecture opening, medical knowledge and therapy"
         }
       ],
-      "claim": "He connects his proposed account of human nature with questions of therapy."
+      "claim": "He connects his proposed account of human nature with questions of therapy.",
+      "relation_family": "explanation_and_interpretation"
     },
     {
       "id": "KG-063",
@@ -1826,7 +1888,8 @@
           "passage_locator": "[1]-[5]; [16]"
         }
       ],
-      "claim": "Steiner presents the human constitution's development as inseparable from his account of cosmic evolution."
+      "claim": "Steiner presents the human constitution's development as inseparable from his account of cosmic evolution.",
+      "relation_family": "explanation_and_interpretation"
     },
     {
       "id": "KG-064",
@@ -1842,7 +1905,8 @@
           "passage_locator": "lecture introduction and description of first/second hierarchies"
         }
       ],
-      "claim": "Spiritual hierarchies are described as active in the successive cosmic conditions."
+      "claim": "Spiritual hierarchies are described as active in the successive cosmic conditions.",
+      "relation_family": "attributed_process_and_causation"
     },
     {
       "id": "KG-065",
@@ -1858,7 +1922,8 @@
           "passage_locator": "[1]-[3]"
         }
       ],
-      "claim": "The earth conceived as a living organism underpins Steiner's yearly spiritual cycle."
+      "claim": "The earth conceived as a living organism underpins Steiner's yearly spiritual cycle.",
+      "relation_family": "attributed_process_and_causation"
     },
     {
       "id": "KG-066",
@@ -1874,7 +1939,8 @@
           "passage_locator": "[5]-[11]"
         }
       ],
-      "claim": "Steiner associates the Mystery of Golgotha with the spiritual interpretation of Christmas and Easter."
+      "claim": "Steiner associates the Mystery of Golgotha with the spiritual interpretation of Christmas and Easter.",
+      "relation_family": "attributed_process_and_causation"
     },
     {
       "id": "KG-067",
@@ -1890,7 +1956,8 @@
           "passage_locator": "[1]-[5]"
         }
       ],
-      "claim": "Steiner contrasts karmic causation with causes in the lifeless mineral realm."
+      "claim": "Steiner contrasts karmic causation with causes in the lifeless mineral realm.",
+      "relation_family": "distinction_and_comparison"
     },
     {
       "id": "KG-068",
@@ -1906,7 +1973,8 @@
           "passage_locator": "[24]-[25]"
         }
       ],
-      "claim": "His account distinguishes plant-life explanation via an etheric cosmos from ordinary lifeless causation."
+      "claim": "His account distinguishes plant-life explanation via an etheric cosmos from ordinary lifeless causation.",
+      "relation_family": "distinction_and_comparison"
     },
     {
       "id": "KG-069",
@@ -1922,7 +1990,8 @@
           "passage_locator": "[33]-[38]"
         }
       ],
-      "claim": "He distinguishes animal sensation and movement as arising from antecedent spiritual causes in his framework."
+      "claim": "He distinguishes animal sensation and movement as arising from antecedent spiritual causes in his framework.",
+      "relation_family": "distinction_and_comparison"
     },
     {
       "id": "KG-070",
@@ -1938,7 +2007,8 @@
           "passage_locator": "[1]-[9]"
         }
       ],
-      "claim": "The lecture sets karma within multiple forms of causation rather than a simple immediate cause-and-effect rule."
+      "claim": "The lecture sets karma within multiple forms of causation rather than a simple immediate cause-and-effect rule.",
+      "relation_family": "explanation_and_interpretation"
     },
     {
       "id": "KG-071",
@@ -1954,7 +2024,8 @@
           "passage_locator": "[1]-[3]"
         }
       ],
-      "claim": "Steiner relates what he calls a karmic situation to physical, etheric, astral and ego constitution."
+      "claim": "Steiner relates what he calls a karmic situation to physical, etheric, astral and ego constitution.",
+      "relation_family": "contextual_association"
     },
     {
       "id": "KG-072",
@@ -1971,7 +2042,8 @@
         }
       ],
       "claim": "He asserts possible connections between karma and illness while cautioning against attributing every illness to a prior life.",
-      "note": "Historically attributed spiritual claim, not evidence about medical causation or health responsibility."
+      "note": "Historically attributed spiritual claim, not evidence about medical causation or health responsibility.",
+      "relation_family": "attributed_process_and_causation"
     },
     {
       "id": "KG-073",
@@ -1988,7 +2060,8 @@
         }
       ],
       "claim": "Steiner describes a pre-birth spiritual contribution to bodily development around the change of teeth.",
-      "note": "This is Steiner's speculative metaphysical account, not an empirical claim about child development."
+      "note": "This is Steiner's speculative metaphysical account, not an empirical claim about child development.",
+      "relation_family": "attributed_process_and_causation"
     },
     {
       "id": "KG-074",
@@ -2004,7 +2077,8 @@
           "passage_locator": "[2], [40]"
         }
       ],
-      "claim": "His discussion includes encounters with other people among the factors shaping destiny."
+      "claim": "His discussion includes encounters with other people among the factors shaping destiny.",
+      "relation_family": "composition_and_structure"
     },
     {
       "id": "KG-075",
@@ -2021,7 +2095,8 @@
         }
       ],
       "claim": "Steiner describes gnomes as root spirits mediating mineral substance to plant roots.",
-      "note": "Spiritual-scientific assertion, not established botany."
+      "note": "Spiritual-scientific assertion, not established botany.",
+      "relation_family": "attributed_process_and_causation"
     },
     {
       "id": "KG-076",
@@ -2038,7 +2113,8 @@
         }
       ],
       "claim": "Steiner portrays undines as contributing to leaf substance and the chemistry of plant growth.",
-      "note": "Spiritual-scientific assertion, not established botany."
+      "note": "Spiritual-scientific assertion, not established botany.",
+      "relation_family": "attributed_process_and_causation"
     },
     {
       "id": "KG-077",
@@ -2054,7 +2130,8 @@
           "passage_locator": "sylph section: light and archetypal plant forms"
         }
       ],
-      "claim": "He associates sylphs with light and the formation of the archetypal plant."
+      "claim": "He associates sylphs with light and the formation of the archetypal plant.",
+      "relation_family": "attributed_process_and_causation"
     },
     {
       "id": "KG-078",
@@ -2070,7 +2147,8 @@
           "passage_locator": "fire spirits, seed and warmth section"
         }
       ],
-      "claim": "He connects fire spirits with warmth-bearing processes in blossoms and seeds."
+      "claim": "He connects fire spirits with warmth-bearing processes in blossoms and seeds.",
+      "relation_family": "attributed_process_and_causation"
     },
     {
       "id": "KG-079",
@@ -2086,7 +2164,8 @@
           "passage_locator": "undine chemistry and sylph light passage"
         }
       ],
-      "claim": "Steiner presents undine chemical effects and sylph light-effects as intertwined in plant formation."
+      "claim": "Steiner presents undine chemical effects and sylph light-effects as intertwined in plant formation.",
+      "relation_family": "attributed_process_and_causation"
     },
     {
       "id": "KG-080",
@@ -2102,7 +2181,8 @@
           "passage_locator": "autumn ideal-forms and gnomes passage"
         }
       ],
-      "claim": "He describes ideal forms carried by light and subsequently perceived by gnomes in the earth."
+      "claim": "He describes ideal forms carried by light and subsequently perceived by gnomes in the earth.",
+      "relation_family": "attributed_process_and_causation"
     },
     {
       "id": "KG-081",
@@ -2118,7 +2198,8 @@
           "passage_locator": "summary of four elemental kinds and plant growth"
         }
       ],
-      "claim": "The four named classes of elemental beings form an interconnected account of the life of plants."
+      "claim": "The four named classes of elemental beings form an interconnected account of the life of plants.",
+      "relation_family": "attributed_process_and_causation"
     },
     {
       "id": "KG-082",
@@ -2134,7 +2215,8 @@
           "passage_locator": "opening characterization of visible speech and gesture"
         }
       ],
-      "claim": "Steiner calls eurythmy visible speech and describes bodily gesture as artistic expression."
+      "claim": "Steiner calls eurythmy visible speech and describes bodily gesture as artistic expression.",
+      "relation_family": "contextual_association"
     },
     {
       "id": "KG-083",
@@ -2150,7 +2232,8 @@
           "passage_locator": "lecture introduction, art and education"
         }
       ],
-      "claim": "He explicitly identifies an educational context for eurythmy, separate from its artistic presentation."
+      "claim": "He explicitly identifies an educational context for eurythmy, separate from its artistic presentation.",
+      "relation_family": "method_and_application"
     },
     {
       "id": "KG-084",
@@ -2167,7 +2250,8 @@
         }
       ],
       "claim": "He identifies a therapeutic application of eurythmy distinct from its artistic presentation.",
-      "note": "Historical practice classification, not evidence of clinical efficacy."
+      "note": "Historical practice classification, not evidence of clinical efficacy.",
+      "relation_family": "method_and_application"
     },
     {
       "id": "KG-085",
@@ -2183,7 +2267,8 @@
           "passage_locator": "discussion of whole human being as art's instrument"
         }
       ],
-      "claim": "Steiner grounds eurythmic movement in his concept of the nature of the human being."
+      "claim": "Steiner grounds eurythmic movement in his concept of the nature of the human being.",
+      "relation_family": "explanation_and_interpretation"
     },
     {
       "id": "KG-086",
@@ -2199,7 +2284,8 @@
           "passage_locator": "[4]-[6]"
         }
       ],
-      "claim": "Steiner situates Egyptian mystery teachings within his narrative of the Egyptian cultural epoch."
+      "claim": "Steiner situates Egyptian mystery teachings within his narrative of the Egyptian cultural epoch.",
+      "relation_family": "contextual_association"
     },
     {
       "id": "KG-087",
@@ -2216,7 +2302,8 @@
         }
       ],
       "claim": "He interprets individuals of his time as having formerly lived in the Egyptian cultural epoch.",
-      "note": "Claim about reincarnation and history is Steiner's, not established fact."
+      "note": "Claim about reincarnation and history is Steiner's, not established fact.",
+      "relation_family": "attributed_process_and_causation"
     },
     {
       "id": "KG-088",
@@ -2233,7 +2320,8 @@
         }
       ],
       "claim": "He recounts migrations associated with his asserted Atlantean prehistory.",
-      "note": "Atlantis and migration chronology are not established history."
+      "note": "Atlantis and migration chronology are not established history.",
+      "relation_family": "attributed_process_and_causation"
     },
     {
       "id": "KG-089",
@@ -2249,7 +2337,8 @@
           "passage_locator": "[4]-[9]"
         }
       ],
-      "claim": "He uses claimed spiritual recollection and ancient narrative to interpret prehistory and cultural development."
+      "claim": "He uses claimed spiritual recollection and ancient narrative to interpret prehistory and cultural development.",
+      "relation_family": "symbolic_correspondence"
     },
     {
       "id": "KG-090",
@@ -2265,7 +2354,8 @@
           "passage_locator": "[1]-[3]"
         }
       ],
-      "claim": "Steiner contrasts John's baptismal consciousness with the Christ impulse as he interprets it."
+      "claim": "Steiner contrasts John's baptismal consciousness with the Christ impulse as he interprets it.",
+      "relation_family": "distinction_and_comparison"
     },
     {
       "id": "KG-091",
@@ -2281,7 +2371,8 @@
           "passage_locator": "[2]-[3]"
         }
       ],
-      "claim": "He compares the baptism by John with states of consciousness attributed to ancient initiation."
+      "claim": "He compares the baptism by John with states of consciousness attributed to ancient initiation.",
+      "relation_family": "distinction_and_comparison"
     },
     {
       "id": "KG-092",
@@ -2297,7 +2388,8 @@
           "passage_locator": "[1]-[4]"
         }
       ],
-      "claim": "The lecture reads the baptism within Steiner's account of the Gospel of John."
+      "claim": "The lecture reads the baptism within Steiner's account of the Gospel of John.",
+      "relation_family": "explanation_and_interpretation"
     },
     {
       "id": "KG-093",
@@ -2313,7 +2405,8 @@
           "passage_locator": "[3]-[4]"
         }
       ],
-      "claim": "He compares Hebrew esoteric tradition with older initiation and Christological development."
+      "claim": "He compares Hebrew esoteric tradition with older initiation and Christological development.",
+      "relation_family": "explanation_and_interpretation"
     },
     {
       "id": "KG-094",
@@ -2329,7 +2422,8 @@
           "passage_locator": "opening etheric rhythm and musical time"
         }
       ],
-      "claim": "Steiner characterizes the etheric body's rhythm through an analogy with musical time."
+      "claim": "Steiner characterizes the etheric body's rhythm through an analogy with musical time.",
+      "relation_family": "symbolic_correspondence"
     },
     {
       "id": "KG-095",
@@ -2345,7 +2439,8 @@
           "passage_locator": "music of spheres and astral nature passage"
         }
       ],
-      "claim": "He relates the astral human being to a spiritual image of cosmic music."
+      "claim": "He relates the astral human being to a spiritual image of cosmic music.",
+      "relation_family": "symbolic_correspondence"
     },
     {
       "id": "KG-096",
@@ -2361,7 +2456,8 @@
           "passage_locator": "lecture opening, architecture and soul-spirit conception"
         }
       ],
-      "claim": "Steiner interprets architecture using his anthroposophical understanding of human nature."
+      "claim": "Steiner interprets architecture using his anthroposophical understanding of human nature.",
+      "relation_family": "method_and_application"
     },
     {
       "id": "KG-097",
@@ -2377,7 +2473,8 @@
           "passage_locator": "upright posture and gesture sections"
         }
       ],
-      "claim": "He describes astral impulses acting through etheric formative forces on bodily movement."
+      "claim": "He describes astral impulses acting through etheric formative forces on bodily movement.",
+      "relation_family": "attributed_process_and_causation"
     },
     {
       "id": "KG-098",
@@ -2393,7 +2490,8 @@
           "passage_locator": "paragraph on angelic help in tiny movements"
         }
       ],
-      "claim": "He attributes bodily movement partly to the activity of angels in his spiritual account."
+      "claim": "He attributes bodily movement partly to the activity of angels in his spiritual account.",
+      "relation_family": "attributed_process_and_causation"
     },
     {
       "id": "KG-099",
@@ -2409,7 +2507,8 @@
           "passage_locator": "opening of lecture, spiritual science and artistic feeling"
         }
       ],
-      "claim": "The lecture emphasizes bringing spiritual knowledge into lived artistic and architectural experience."
+      "claim": "The lecture emphasizes bringing spiritual knowledge into lived artistic and architectural experience.",
+      "relation_family": "method_and_application"
     },
     {
       "id": "KG-100",
@@ -2425,7 +2524,8 @@
           "passage_locator": "section referencing the four Mystery Plays"
         }
       ],
-      "claim": "Steiner refers to the four Mystery Plays as dramatic artistic expressions."
+      "claim": "Steiner refers to the four Mystery Plays as dramatic artistic expressions.",
+      "relation_family": "method_and_application"
     },
     {
       "id": "KG-101",
@@ -2441,7 +2541,8 @@
           "passage_locator": "opening passage on music and human soul"
         }
       ],
-      "claim": "He frames music as having a distinctive effect upon human soul life."
+      "claim": "He frames music as having a distinctive effect upon human soul life.",
+      "relation_family": "contextual_association"
     },
     {
       "id": "KG-102",
@@ -2457,7 +2558,8 @@
           "passage_locator": "discussion of Schopenhauer and Goethe"
         }
       ],
-      "claim": "He discusses Schopenhauer and Goethe to frame a philosophical account of art and music."
+      "claim": "He discusses Schopenhauer and Goethe to frame a philosophical account of art and music.",
+      "relation_family": "symbolic_correspondence"
     },
     {
       "id": "KG-103",
@@ -2473,7 +2575,8 @@
           "passage_locator": "[5] pre-earth existence and stars"
         }
       ],
-      "claim": "He describes Michael in connection with a soul's approach to incarnation and cosmic harmony."
+      "claim": "He describes Michael in connection with a soul's approach to incarnation and cosmic harmony.",
+      "relation_family": "contextual_association"
     },
     {
       "id": "KG-104",
@@ -2489,7 +2592,8 @@
           "passage_locator": "[1]-[6] stages of cosmic manifestations"
         }
       ],
-      "claim": "His Michael account situates human consciousness within successive states of cosmic manifestation."
+      "claim": "His Michael account situates human consciousness within successive states of cosmic manifestation.",
+      "relation_family": "attributed_process_and_causation"
     },
     {
       "id": "KG-105",
@@ -2505,7 +2609,8 @@
           "passage_locator": "[4] and guiding thoughts [17]-[19]"
         }
       ],
-      "claim": "He contrasts Michael's aim with the influence he attributes to Ahriman."
+      "claim": "He contrasts Michael's aim with the influence he attributes to Ahriman.",
+      "relation_family": "contextual_association"
     },
     {
       "id": "KG-106",
@@ -2521,7 +2626,8 @@
           "passage_locator": "chapter VI and concluding guiding thoughts"
         }
       ],
-      "claim": "Michael's role is expounded within Steiner's own written leading-thoughts literature."
+      "claim": "Michael's role is expounded within Steiner's own written leading-thoughts literature.",
+      "relation_family": "explanation_and_interpretation"
     },
     {
       "id": "KG-107",
@@ -2537,7 +2643,8 @@
           "passage_locator": "[17]-[20]"
         }
       ],
-      "claim": "Steiner describes Goethe's plant metamorphosis in terms of a common formative type expressed through changing organs."
+      "claim": "Steiner describes Goethe's plant metamorphosis in terms of a common formative type expressed through changing organs.",
+      "relation_family": "explanation_and_interpretation"
     },
     {
       "id": "KG-108",
@@ -2553,7 +2660,8 @@
           "passage_locator": "[18]-[20]"
         }
       ],
-      "claim": "Steiner recounts Goethe's treatment of leaves, calyx, petals and organs as variations of one plant form."
+      "claim": "Steiner recounts Goethe's treatment of leaves, calyx, petals and organs as variations of one plant form.",
+      "relation_family": "method_and_application"
     },
     {
       "id": "KG-109",
@@ -2569,7 +2677,8 @@
           "passage_locator": "[17]-[19]"
         }
       ],
-      "claim": "The archetypal plant is presented as a lawfully formed idea apprehended by thinking."
+      "claim": "The archetypal plant is presented as a lawfully formed idea apprehended by thinking.",
+      "relation_family": "explanation_and_interpretation"
     },
     {
       "id": "KG-110",
@@ -2585,7 +2694,8 @@
           "passage_locator": "[1]-[3]"
         }
       ],
-      "claim": "Steiner distinguishes observing external phenomena from grasping their conceptual interconnections."
+      "claim": "Steiner distinguishes observing external phenomena from grasping their conceptual interconnections.",
+      "relation_family": "explanation_and_interpretation"
     },
     {
       "id": "KG-111",
@@ -2601,7 +2711,8 @@
           "passage_locator": "[1]-[3]"
         }
       ],
-      "claim": "He treats the scientific task as connecting phenomena while also examining the relationship of concept and reality."
+      "claim": "He treats the scientific task as connecting phenomena while also examining the relationship of concept and reality.",
+      "relation_family": "explanation_and_interpretation"
     },
     {
       "id": "KG-112",
@@ -2617,7 +2728,8 @@
           "passage_locator": "[1]-[4]"
         }
       ],
-      "claim": "Steiner introduces a comparison of water temperatures to illustrate context-dependent sensations of warmth."
+      "claim": "Steiner introduces a comparison of water temperatures to illustrate context-dependent sensations of warmth.",
+      "relation_family": "explanation_and_interpretation"
     },
     {
       "id": "KG-113",
@@ -2633,7 +2745,8 @@
           "passage_locator": "[1]"
         }
       ],
-      "claim": "He explicitly connects the physics of warmth with questions of teaching science."
+      "claim": "He explicitly connects the physics of warmth with questions of teaching science.",
+      "relation_family": "method_and_application"
     },
     {
       "id": "KG-114",
@@ -2649,7 +2762,8 @@
           "passage_locator": "[2]-[4]"
         }
       ],
-      "claim": "Steiner distinguishes subjective sensations of heat from standardized physical measurement."
+      "claim": "Steiner distinguishes subjective sensations of heat from standardized physical measurement.",
+      "relation_family": "distinction_and_comparison"
     },
     {
       "id": "KG-115",
@@ -2665,7 +2779,8 @@
           "passage_locator": "opening three paragraphs"
         }
       ],
-      "claim": "Steiner explicitly relates Goethe's metamorphosis of organic form to the architectural forms of the Goetheanum."
+      "claim": "Steiner explicitly relates Goethe's metamorphosis of organic form to the architectural forms of the Goetheanum.",
+      "relation_family": "contextual_association"
     },
     {
       "id": "KG-116",
@@ -2681,7 +2796,8 @@
           "passage_locator": "opening three paragraphs"
         }
       ],
-      "claim": "He describes the building's living formal design as drawing upon Goethe's plant metamorphosis."
+      "claim": "He describes the building's living formal design as drawing upon Goethe's plant metamorphosis.",
+      "relation_family": "explanation_and_interpretation"
     },
     {
       "id": "KG-117",
@@ -2697,7 +2813,8 @@
           "passage_locator": "[1]-[4]"
         }
       ],
-      "claim": "Steiner links moral ideas selected by thinking to imaginative representations of a specific action."
+      "claim": "Steiner links moral ideas selected by thinking to imaginative representations of a specific action.",
+      "relation_family": "explanation_and_interpretation"
     },
     {
       "id": "KG-118",
@@ -2713,7 +2830,8 @@
           "passage_locator": "[4]"
         }
       ],
-      "claim": "Moral imagination requires practical knowledge of phenomena and skills for acting effectively."
+      "claim": "Moral imagination requires practical knowledge of phenomena and skills for acting effectively.",
+      "relation_family": "method_and_application"
     },
     {
       "id": "KG-119",
@@ -2729,7 +2847,8 @@
           "passage_locator": "[8]-[11]"
         }
       ],
-      "claim": "Steiner argues that the individual's moral ideas are not merely deduced from generally inherited prescriptions."
+      "claim": "Steiner argues that the individual's moral ideas are not merely deduced from generally inherited prescriptions.",
+      "relation_family": "contextual_association"
     },
     {
       "id": "KG-120",
@@ -2745,7 +2864,8 @@
           "passage_locator": "[1]-[3]"
         }
       ],
-      "claim": "The free actor is contrasted with one who acts by copying examples, obedience or fear."
+      "claim": "The free actor is contrasted with one who acts by copying examples, obedience or fear.",
+      "relation_family": "distinction_and_comparison"
     },
     {
       "id": "KG-121",
@@ -2761,7 +2881,8 @@
           "passage_locator": "[4]-[5]"
         }
       ],
-      "claim": "Steiner explicitly connects effective moral technique with the knowledge of natural and practical conditions."
+      "claim": "Steiner explicitly connects effective moral technique with the knowledge of natural and practical conditions.",
+      "relation_family": "explanation_and_interpretation"
     },
     {
       "id": "KG-122",
@@ -2777,7 +2898,8 @@
           "passage_locator": "[9]-[13]"
         }
       ],
-      "claim": "Moral imagination is discussed as capable of producing new moral ideas in individual development."
+      "claim": "Moral imagination is discussed as capable of producing new moral ideas in individual development.",
+      "relation_family": "contextual_association"
     },
     {
       "id": "KG-123",
@@ -2793,7 +2915,8 @@
           "passage_locator": "[17]-[21]"
         }
       ],
-      "claim": "A free act depends, in Steiner's account, on the individual's own ideal intuition rather than external compulsion."
+      "claim": "A free act depends, in Steiner's account, on the individual's own ideal intuition rather than external compulsion.",
+      "relation_family": "explanation_and_interpretation"
     },
     {
       "id": "KG-124",
@@ -2809,7 +2932,8 @@
           "passage_locator": "[15]-[19]"
         }
       ],
-      "claim": "Steiner prescribes periods of inner tranquility as part of his account of esoteric preparatory training."
+      "claim": "Steiner prescribes periods of inner tranquility as part of his account of esoteric preparatory training.",
+      "relation_family": "method_and_application"
     },
     {
       "id": "KG-125",
@@ -2825,7 +2949,8 @@
           "passage_locator": "[6]-[8]; [16]-[17]"
         }
       ],
-      "claim": "The discussion of veneration as preparation explicitly rejects submission to a teacher or interference with another person's independence."
+      "claim": "The discussion of veneration as preparation explicitly rejects submission to a teacher or interference with another person's independence.",
+      "relation_family": "contextual_association"
     },
     {
       "id": "KG-126",
@@ -2841,7 +2966,8 @@
           "passage_locator": "[18]-[19]; [33]"
         }
       ],
-      "claim": "Inner tranquility and meditation are presented as preparations for Steiner's claimed higher cognition."
+      "claim": "Inner tranquility and meditation are presented as preparations for Steiner's claimed higher cognition.",
+      "relation_family": "method_and_application"
     },
     {
       "id": "KG-127",
@@ -2857,7 +2983,8 @@
           "passage_locator": "[6]-[10]"
         }
       ],
-      "claim": "The text distinguishes reverence for knowledge and truth from uncritical devotion to particular people."
+      "claim": "The text distinguishes reverence for knowledge and truth from uncritical devotion to particular people.",
+      "relation_family": "distinction_and_comparison"
     },
     {
       "id": "KG-128",
@@ -2873,7 +3000,8 @@
           "passage_locator": "[16]"
         }
       ],
-      "claim": "Steiner describes the material physical body as belonging to the mineral domain."
+      "claim": "Steiner describes the material physical body as belonging to the mineral domain.",
+      "relation_family": "contextual_association"
     },
     {
       "id": "KG-129",
@@ -2889,7 +3017,8 @@
           "passage_locator": "[16]"
         }
       ],
-      "claim": "He identifies the etheric principle with life processes shared with plants."
+      "claim": "He identifies the etheric principle with life processes shared with plants.",
+      "relation_family": "attributed_process_and_causation"
     },
     {
       "id": "KG-130",
@@ -2905,7 +3034,8 @@
           "passage_locator": "[1]-[5]"
         }
       ],
-      "claim": "Steiner presents remembrance as a way the soul relates its present life to past experience."
+      "claim": "Steiner presents remembrance as a way the soul relates its present life to past experience.",
+      "relation_family": "explanation_and_interpretation"
     },
     {
       "id": "KG-131",
@@ -2922,7 +3052,8 @@
         }
       ],
       "claim": "He argues that deeds affect a person's future and frames this within his doctrine of repeated earthly lives.",
-      "note": "This is Steiner's metaphysical reasoning, not independently verified causation."
+      "note": "This is Steiner's metaphysical reasoning, not independently verified causation.",
+      "relation_family": "explanation_and_interpretation"
     },
     {
       "id": "KG-132",
@@ -2939,7 +3070,8 @@
         }
       ],
       "claim": "Steiner appeals to differences between biographies when arguing for individuality before birth.",
-      "note": "The philosophical argument is not scientific evidence for reincarnation."
+      "note": "The philosophical argument is not scientific evidence for reincarnation.",
+      "relation_family": "contextual_association"
     },
     {
       "id": "KG-133",
@@ -2955,7 +3087,8 @@
           "passage_locator": "[9]-[11]"
         }
       ],
-      "claim": "Individual biography is used as an expression of what Steiner regards as continuity of a spiritual individuality."
+      "claim": "Individual biography is used as an expression of what Steiner regards as continuity of a spiritual individuality.",
+      "relation_family": "contextual_association"
     },
     {
       "id": "KG-134",
@@ -2971,7 +3104,8 @@
           "passage_locator": "[4]"
         }
       ],
-      "claim": "The text differentiates recollection as a new act from a literal unchanged picture retained after perception."
+      "claim": "The text differentiates recollection as a new act from a literal unchanged picture retained after perception.",
+      "relation_family": "explanation_and_interpretation"
     },
     {
       "id": "KG-135",
@@ -2987,7 +3121,8 @@
           "passage_locator": "[10]-[11]"
         }
       ],
-      "claim": "Steiner infers a pre-birth spiritual individuality and links it to the proposed repetition of earthly lives."
+      "claim": "Steiner infers a pre-birth spiritual individuality and links it to the proposed repetition of earthly lives.",
+      "relation_family": "contextual_association"
     },
     {
       "id": "KG-136",
@@ -3003,7 +3138,8 @@
           "passage_locator": "[6]-[9]"
         }
       ],
-      "claim": "He distinguishes the physical world and the soul world as governed by different forms of interaction."
+      "claim": "He distinguishes the physical world and the soul world as governed by different forms of interaction.",
+      "relation_family": "distinction_and_comparison"
     },
     {
       "id": "KG-137",
@@ -3019,7 +3155,8 @@
           "passage_locator": "[17]-[22], [50]"
         }
       ],
-      "claim": "The soul world is presented as a different phase or sphere from spiritland in his after-death account."
+      "claim": "The soul world is presented as a different phase or sphere from spiritland in his after-death account.",
+      "relation_family": "distinction_and_comparison"
     },
     {
       "id": "KG-138",
@@ -3035,7 +3172,8 @@
           "passage_locator": "[10]"
         }
       ],
-      "claim": "Steiner invokes sympathy and antipathy as fundamental forces of the soul world."
+      "claim": "Steiner invokes sympathy and antipathy as fundamental forces of the soul world.",
+      "relation_family": "attributed_process_and_causation"
     },
     {
       "id": "KG-139",
@@ -3051,7 +3189,8 @@
           "passage_locator": "[17]-[25]"
         }
       ],
-      "claim": "The soul world is presented as a stage in Steiner's account of what follows physical death."
+      "claim": "The soul world is presented as a stage in Steiner's account of what follows physical death.",
+      "relation_family": "attributed_process_and_causation"
     },
     {
       "id": "KG-140",
@@ -3067,7 +3206,8 @@
           "passage_locator": "[21]-[24]"
         }
       ],
-      "claim": "He distinguishes attachments linked to the just-ended life from karmic consequences assigned to future incarnation."
+      "claim": "He distinguishes attachments linked to the just-ended life from karmic consequences assigned to future incarnation.",
+      "relation_family": "distinction_and_comparison"
     },
     {
       "id": "KG-141",
@@ -3083,7 +3223,8 @@
           "passage_locator": "[50]-[51]"
         }
       ],
-      "claim": "Spiritland is described as a realm for the spirit after death and its later development."
+      "claim": "Spiritland is described as a realm for the spirit after death and its later development.",
+      "relation_family": "attributed_process_and_causation"
     },
     {
       "id": "KG-142",
@@ -3099,7 +3240,8 @@
           "passage_locator": "[50]-[51]"
         }
       ],
-      "claim": "Steiner connects experiences in spiritland with preparation for another earthly life."
+      "claim": "Steiner connects experiences in spiritland with preparation for another earthly life.",
+      "relation_family": "attributed_process_and_causation"
     },
     {
       "id": "KG-143",
@@ -3115,7 +3257,8 @@
           "passage_locator": "[1]-[4]"
         }
       ],
-      "claim": "Steiner contrasts observing a physical event with the thinking activity used to discover its conceptual relations."
+      "claim": "Steiner contrasts observing a physical event with the thinking activity used to discover its conceptual relations.",
+      "relation_family": "explanation_and_interpretation"
     },
     {
       "id": "KG-144",
@@ -3131,7 +3274,8 @@
           "passage_locator": "[1]-[5]"
         }
       ],
-      "claim": "Thinking is presented as an activity experienced by the knower, distinct from the observed event."
+      "claim": "Thinking is presented as an activity experienced by the knower, distinct from the observed event.",
+      "relation_family": "explanation_and_interpretation"
     },
     {
       "id": "KG-145",
@@ -3147,7 +3291,8 @@
           "passage_locator": "[3]-[5]"
         }
       ],
-      "claim": "Steiner describes observation and thinking as complementary starting points for inquiry."
+      "claim": "Steiner describes observation and thinking as complementary starting points for inquiry.",
+      "relation_family": "explanation_and_interpretation"
     },
     {
       "id": "KG-146",
@@ -3163,7 +3308,8 @@
           "passage_locator": "[1]-[5]"
         }
       ],
-      "claim": "He contrasts the synthesis of percept and concept with a dualism he associates with Kant's thing-in-itself."
+      "claim": "He contrasts the synthesis of percept and concept with a dualism he associates with Kant's thing-in-itself.",
+      "relation_family": "distinction_and_comparison"
     },
     {
       "id": "KG-147",
@@ -3179,7 +3325,8 @@
           "passage_locator": "[3]-[10]"
         }
       ],
-      "claim": "Steiner critiques alleged absolute limits to human knowledge as arising from a mistaken division of percept and concept."
+      "claim": "Steiner critiques alleged absolute limits to human knowledge as arising from a mistaken division of percept and concept.",
+      "relation_family": "distinction_and_comparison"
     },
     {
       "id": "KG-148",
@@ -3195,7 +3342,8 @@
           "passage_locator": "[1]-[6]"
         }
       ],
-      "claim": "The philosophical debate about monism and dualism is framed as a problem of how percept and concept are related."
+      "claim": "The philosophical debate about monism and dualism is framed as a problem of how percept and concept are related.",
+      "relation_family": "explanation_and_interpretation"
     },
     {
       "id": "KG-149",
@@ -3211,7 +3359,8 @@
           "passage_locator": "[1]"
         }
       ],
-      "claim": "Steiner recounts Goethe's archetypal plant as an imaginative formative type expressed through many individual plants."
+      "claim": "Steiner recounts Goethe's archetypal plant as an imaginative formative type expressed through many individual plants.",
+      "relation_family": "explanation_and_interpretation"
     },
     {
       "id": "KG-150",
@@ -3227,7 +3376,8 @@
           "passage_locator": "[1]-[2]"
         }
       ],
-      "claim": "Steiner contrasts Goethe's experienced idea with Schiller's separation of idea and observation."
+      "claim": "Steiner contrasts Goethe's experienced idea with Schiller's separation of idea and observation.",
+      "relation_family": "distinction_and_comparison"
     },
     {
       "id": "KG-151",
@@ -3243,7 +3393,8 @@
           "passage_locator": "[1]-[3]"
         }
       ],
-      "claim": "The Goethe–Schiller exchange is used to characterize Goethe's mode of observing nature."
+      "claim": "The Goethe–Schiller exchange is used to characterize Goethe's mode of observing nature.",
+      "relation_family": "contextual_association"
     },
     {
       "id": "KG-152",
@@ -3259,7 +3410,8 @@
           "passage_locator": "[2]-[4]"
         }
       ],
-      "claim": "Steiner reports Goethe's claim that colors appear through the interaction of light and darkness."
+      "claim": "Steiner reports Goethe's claim that colors appear through the interaction of light and darkness.",
+      "relation_family": "explanation_and_interpretation"
     },
     {
       "id": "KG-153",
@@ -3275,7 +3427,8 @@
           "passage_locator": "[2]-[3]"
         }
       ],
-      "claim": "The account describes colored edges observed through prisms in Goethe's experiments."
+      "claim": "The account describes colored edges observed through prisms in Goethe's experiments.",
+      "relation_family": "explanation_and_interpretation"
     },
     {
       "id": "KG-154",
@@ -3291,7 +3444,8 @@
           "passage_locator": "[1]"
         }
       ],
-      "claim": "Goethe's interest in color is linked to questions about the effects and composition of visual art."
+      "claim": "Goethe's interest in color is linked to questions about the effects and composition of visual art.",
+      "relation_family": "symbolic_correspondence"
     },
     {
       "id": "KG-155",
@@ -3308,7 +3462,8 @@
         }
       ],
       "claim": "Steiner sets out Goethe's interpretation of prism colors in contrast to Newton's account.",
-      "note": "These are historical descriptions of differing models, not validation of Goethean optics over modern physics."
+      "note": "These are historical descriptions of differing models, not validation of Goethean optics over modern physics.",
+      "relation_family": "distinction_and_comparison"
     },
     {
       "id": "KG-156",
@@ -3324,7 +3479,8 @@
           "passage_locator": "[1]"
         }
       ],
-      "claim": "Steiner describes lesser and greater Guardians of the Threshold as different experiences of initiation."
+      "claim": "Steiner describes lesser and greater Guardians of the Threshold as different experiences of initiation.",
+      "relation_family": "distinction_and_comparison"
     },
     {
       "id": "KG-157",
@@ -3340,7 +3496,8 @@
           "passage_locator": "[1]-[3]; [12]"
         }
       ],
-      "claim": "The lesser Guardian encounter is associated with the loosening of thinking, feeling and willing in Steiner's account."
+      "claim": "The lesser Guardian encounter is associated with the loosening of thinking, feeling and willing in Steiner's account.",
+      "relation_family": "explanation_and_interpretation"
     },
     {
       "id": "KG-158",
@@ -3356,7 +3513,8 @@
           "passage_locator": "[5]-[8]"
         }
       ],
-      "claim": "The Guardian dialogue portrays prior deeds and their alleged karmic consequences as confronting the pupil."
+      "claim": "The Guardian dialogue portrays prior deeds and their alleged karmic consequences as confronting the pupil.",
+      "relation_family": "attributed_process_and_causation"
     },
     {
       "id": "KG-159",
@@ -3372,7 +3530,8 @@
           "passage_locator": "[6]-[12]"
         }
       ],
-      "claim": "Steiner depicts the lesser Guardian as a figure formed from the aspirant's past actions and character, not as an externally identified human person."
+      "claim": "Steiner depicts the lesser Guardian as a figure formed from the aspirant's past actions and character, not as an externally identified human person.",
+      "relation_family": "explanation_and_interpretation"
     },
     {
       "id": "KG-160",
@@ -3388,7 +3547,8 @@
           "passage_locator": "[7]-[12]"
         }
       ],
-      "claim": "He presents readiness for individual responsibility as a condition for crossing the threshold."
+      "claim": "He presents readiness for individual responsibility as a condition for crossing the threshold.",
+      "relation_family": "attributed_process_and_causation"
     },
     {
       "id": "KG-161",
@@ -3404,7 +3564,8 @@
           "passage_locator": "[1]-[3]"
         }
       ],
-      "claim": "The greater Guardian discussion describes earthly life as necessary for the development of faculties in Steiner's esoteric narrative."
+      "claim": "The greater Guardian discussion describes earthly life as necessary for the development of faculties in Steiner's esoteric narrative.",
+      "relation_family": "contextual_association"
     },
     {
       "id": "KG-162",
@@ -3420,7 +3581,8 @@
           "passage_locator": "[3]-[4]"
         }
       ],
-      "claim": "Steiner presents human development within a future transformation of the sense-world into spiritual outcomes."
+      "claim": "Steiner presents human development within a future transformation of the sense-world into spiritual outcomes.",
+      "relation_family": "development_and_sequence"
     },
     {
       "id": "KG-163",
@@ -3437,7 +3599,8 @@
         }
       ],
       "claim": "Steiner attributes plant reproduction and sowing conditions partly to lunar forces and preceding rainfall.",
-      "note": "Historical biodynamic assertion, not established agricultural evidence."
+      "note": "Historical biodynamic assertion, not established agricultural evidence.",
+      "relation_family": "attributed_process_and_causation"
     },
     {
       "id": "KG-164",
@@ -3454,7 +3617,8 @@
         }
       ],
       "claim": "He relates planetary forces to supposed effects mediated by siliceous and calcareous substances.",
-      "note": "Historical cosmological claim, not independently corroborated crop physiology."
+      "note": "Historical cosmological claim, not independently corroborated crop physiology.",
+      "relation_family": "contextual_association"
     },
     {
       "id": "KG-165",
@@ -3470,7 +3634,8 @@
           "passage_locator": "[27]-[31]"
         }
       ],
-      "claim": "Steiner connects his suggested planting schedule with warmth, rain and seasonal circumstances."
+      "claim": "Steiner connects his suggested planting schedule with warmth, rain and seasonal circumstances.",
+      "relation_family": "explanation_and_interpretation"
     },
     {
       "id": "KG-166",
@@ -3486,7 +3651,8 @@
           "passage_locator": "intro; [16]-[19]"
         }
       ],
-      "claim": "He argues that understanding a crop requires considering field, soil, season and broader surroundings."
+      "claim": "He argues that understanding a crop requires considering field, soil, season and broader surroundings.",
+      "relation_family": "contextual_association"
     },
     {
       "id": "KG-167",
@@ -3502,7 +3668,8 @@
           "passage_locator": "[24]-[26]"
         }
       ],
-      "claim": "The agriculture lecture proposes a difference between influences associated with plant reproduction and nutrition."
+      "claim": "The agriculture lecture proposes a difference between influences associated with plant reproduction and nutrition.",
+      "relation_family": "attributed_process_and_causation"
     },
     {
       "id": "KG-168",
@@ -3518,7 +3685,8 @@
           "passage_locator": "opening critique of theoretical agricultural economics"
         }
       ],
-      "claim": "Steiner argues that agricultural reasoning should begin with practical knowledge of farming rather than abstract theories."
+      "claim": "Steiner argues that agricultural reasoning should begin with practical knowledge of farming rather than abstract theories.",
+      "relation_family": "distinction_and_comparison"
     },
     {
       "id": "KG-169",
@@ -3534,7 +3702,8 @@
           "passage_locator": "opening and vowel/consonant discussion"
         }
       ],
-      "claim": "Steiner characterizes vowels as expressions of inward experience and consonants as imitations of outer forms."
+      "claim": "Steiner characterizes vowels as expressions of inward experience and consonants as imitations of outer forms.",
+      "relation_family": "distinction_and_comparison"
     },
     {
       "id": "KG-170",
@@ -3550,7 +3719,8 @@
           "passage_locator": "lecture II opening"
         }
       ],
-      "claim": "The discussion of individual sounds is presented as the foundation for eurythmic gesture."
+      "claim": "The discussion of individual sounds is presented as the foundation for eurythmic gesture.",
+      "relation_family": "composition_and_structure"
     },
     {
       "id": "KG-171",
@@ -3566,7 +3736,8 @@
           "passage_locator": "sound descriptions and examples"
         }
       ],
-      "claim": "The lecture develops a relationship between the felt quality of sounds and expressive bodily movements."
+      "claim": "The lecture develops a relationship between the felt quality of sounds and expressive bodily movements.",
+      "relation_family": "contextual_association"
     },
     {
       "id": "KG-172",
@@ -3582,7 +3753,8 @@
           "passage_locator": "lecture X, movement and speech passage"
         }
       ],
-      "claim": "The lecture moves from possible bodily gestures to their possible corresponding sounds."
+      "claim": "The lecture moves from possible bodily gestures to their possible corresponding sounds.",
+      "relation_family": "contextual_association"
     },
     {
       "id": "KG-173",
@@ -3599,7 +3771,8 @@
         }
       ],
       "claim": "Steiner uses twelvefold zodiacal and sevenfold planetary analogies for vocal sounds and eurythmy.",
-      "note": "This does not verify an astronomical relationship between musical notes and planetary positions."
+      "note": "This does not verify an astronomical relationship between musical notes and planetary positions.",
+      "relation_family": "symbolic_correspondence"
     },
     {
       "id": "KG-174",
@@ -3615,7 +3788,8 @@
           "passage_locator": "childhood imitation discussion"
         }
       ],
-      "claim": "Steiner identifies imitation and example as central to his account of early childhood learning."
+      "claim": "Steiner identifies imitation and example as central to his account of early childhood learning.",
+      "relation_family": "explanation_and_interpretation"
     },
     {
       "id": "KG-175",
@@ -3631,7 +3805,8 @@
           "passage_locator": "change of teeth to puberty section"
         }
       ],
-      "claim": "He associates authority and emulation with the childhood interval following the change of teeth."
+      "claim": "He associates authority and emulation with the childhood interval following the change of teeth.",
+      "relation_family": "development_and_sequence"
     },
     {
       "id": "KG-176",
@@ -3647,7 +3822,8 @@
           "passage_locator": "growing etheric body and stage of imitation"
         }
       ],
-      "claim": "Steiner organizes childhood education around successive life phases, as part of his historical pedagogical model."
+      "claim": "Steiner organizes childhood education around successive life phases, as part of his historical pedagogical model.",
+      "relation_family": "explanation_and_interpretation"
     },
     {
       "id": "KG-177",
@@ -3663,7 +3839,8 @@
           "passage_locator": "passage on image-based education and observation"
         }
       ],
-      "claim": "He places vivid imagery and example before abstract judgment in the education of younger children."
+      "claim": "He places vivid imagery and example before abstract judgment in the education of younger children.",
+      "relation_family": "contextual_association"
     },
     {
       "id": "KG-178",
@@ -3679,7 +3856,8 @@
           "passage_locator": "imitation and example section"
         }
       ],
-      "claim": "The early education stage is characterized by learning through imitation in Steiner's account."
+      "claim": "The early education stage is characterized by learning through imitation in Steiner's account.",
+      "relation_family": "method_and_application"
     },
     {
       "id": "KG-179",
@@ -3695,10 +3873,25 @@
           "passage_locator": "[1]-[3]"
         }
       ],
-      "claim": "Steiner's authored discussion of Goethe and Schiller displays his early interest in Goethe's scientific writings."
+      "claim": "Steiner's authored discussion of Goethe and Schiller displays his early interest in Goethe's scientific writings.",
+      "relation_family": "contextual_association"
     }
   ],
   "version": "1.1",
   "last_updated": "2026-11-02",
-  "sources_added_20261102": 10
+  "sources_added_20261102": 10,
+  "semantic_families": {
+    "version": "1.0",
+    "notice": "Coarse relationship families are Atlas editorial navigation labels, not Steiner-authored categories. Preserve the more precise 'type', 'claim', original passage, and evidence status.",
+    "definitions": {
+      "development_and_sequence": "A source-linked ordering, progression or development within the specified narrative or lecture context.",
+      "distinction_and_comparison": "Contrasts or explicitly distinguishes ideas or frameworks; shared language does not establish identity.",
+      "symbolic_correspondence": "Analogy, symbol, parallel or illustrative comparison; does not imply literal or empirical equivalence.",
+      "composition_and_structure": "A relation between members, structures, combinations, aspects or processes within a defined framework.",
+      "method_and_application": "A method, training condition, practice or application presented in the source context.",
+      "attributed_process_and_causation": "A process, action or causation attributed by Steiner; spiritual, scientific and historical validity is not implied.",
+      "explanation_and_interpretation": "How Steiner interprets, explains or frames a concept in a cited original source.",
+      "contextual_association": "A documented topical association that does not establish a stronger causal, structural or historical connection."
+    }
+  }
 }
