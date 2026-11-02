@@ -23,6 +23,12 @@ function prepare() {
   const visit = (node) => { if (state.nodes.has(node.id)) throw new Error("Duplicate node " + node.id);
     state.nodes.set(node.id, node); (node.children || []).forEach(visit); };
   state.taxonomy.tree.forEach(visit);
+  const domainSelect = $("#domain-filter");
+  for (const region of state.taxonomy.tree) for (const domain of region.children) {
+    const opt = document.createElement("option");
+    opt.value = domain.id; opt.textContent = domain.id + " · " + domain.title;
+    domainSelect.append(opt);
+  }
   const sourceSelect = $("#source-filter");
   for (const src of state.graph.sources) {
     const opt = document.createElement("option"); opt.value = src.id;
@@ -40,10 +46,13 @@ function prepare() {
 }
 function filterEdges() {
   const src = $("#source-filter").value, type = $("#type-filter").value;
+  const domain = $("#domain-filter").value, basis = $("#evidence-filter").value;
   const q = $("#graph-search").value.trim().toLowerCase().split(/\s+/).filter(Boolean);
   return state.graph.edges.filter((edge) => {
     if (src && !edge.evidence.some((e) => e.source_id === src)) return false;
     if (type && edge.type !== type) return false;
+    if (basis && edge.evidence_basis !== basis) return false;
+    if (domain && ![edge.from, edge.to].some(id => id.startsWith("RS-" + domain + "."))) return false;
     if (!q.length) return true;
     const sourceText = edge.evidence.map((e) => sourceLabel(e.source_id)).join(" ");
     const haystack = [edge.from, edge.to, formatTitle(edge.from), formatTitle(edge.to),
@@ -156,9 +165,10 @@ async function init(){
     if(!g.ok||!t.ok)throw Error("Cannot load repository JSON; serve this directory over localhost instead of file://.");
     [state.graph,state.taxonomy]=await Promise.all([g.json(),t.json()]);
     prepare();render();
-    ["#source-filter","#type-filter","#graph-search"].forEach(id=>
+    ["#source-filter","#domain-filter","#evidence-filter","#type-filter","#graph-search"].forEach(id=>
       $(id).addEventListener(id==="#graph-search"?"input":"change",render));
-    $("#clear-filters").addEventListener("click",()=>{$("#source-filter").value="";$("#type-filter").value="";
+    $("#clear-filters").addEventListener("click",()=>{$("#source-filter").value="";$("#domain-filter").value="";
+      $("#evidence-filter").value="";$("#type-filter").value="";
       $("#graph-search").value="";render();});
     $("#relations").addEventListener("click",e=>{
       const btn=e.target.closest("[data-edge]");if(!btn)return;
