@@ -2,41 +2,41 @@
 
 Generated from local, original Atlas records; no external documents accessed.
 
-- **142 passage-qualified relationships**; **30 original source pages**.
-- **60 direct cross-domain graph connections**.
-- **4 of 30 initial crosslinks** directly matched; **25** still have no matching exact-endpoint source evidence.
+- **179 passage-qualified relationships**; **40 original source pages**.
+- **78 direct cross-domain graph connections**.
+- **4 of 30 initial crosslinks** directly matched; **23** still have no matching exact-endpoint source evidence.
 - Source verification means **selected passages were checked**, not that full books were reviewed.
 
 ## Related nodes by domain
 
 | Domain | Title | Incident graph edges |
 |---|---|---:|
-| 01 | Thinking, Knowledge, Logic, and Freedom | 10 |
-| 02 | Goethean Science and the Foundations of Research | 7 |
-| 03 | Esoteric Training, Initiation, and Spiritual Research | 7 |
+| 01 | Thinking, Knowledge, Logic, and Freedom | 17 |
+| 02 | Goethean Science and the Foundations of Research | 17 |
+| 03 | Esoteric Training, Initiation, and Spiritual Research | 13 |
 | 04 | Worldviews, Philosophy of Spirit, and Conceptual Structures | 6 |
 | 05 | Spiritual Worlds, Hierarchies, and Beings | 16 |
-| 06 | Cosmic Genesis, Earth Evolution, and the Future | 18 |
-| 07 | Nature Kingdoms, Elemental Beings, and the Living Earth | 19 |
-| 08 | Karma, Reincarnation, Death, and Spiritual Destiny | 19 |
+| 06 | Cosmic Genesis, Earth Evolution, and the Future | 19 |
+| 07 | Nature Kingdoms, Elemental Beings, and the Living Earth | 22 |
+| 08 | Karma, Reincarnation, Death, and Spiritual Destiny | 20 |
 | 09 | Human Constitution: Body, Soul, and Spirit | 23 |
-| 10 | Soul Life, Consciousness, Senses, and Psychology | 9 |
-| 11 | Life Course, Human Relations, and Embodied Biography | 5 |
-| 12 | Human Evolution and the Future of Consciousness | 1 |
+| 10 | Soul Life, Consciousness, Senses, and Psychology | 10 |
+| 11 | Life Course, Human Relations, and Embodied Biography | 9 |
+| 12 | Human Evolution and the Future of Consciousness | 3 |
 | 13 | Christology, Jesus, and the Mystery of Golgotha | 6 |
 | 14 | Religions, Ancient Mysteries, Scriptures, and Mythology | 4 |
 | 15 | Human History, Cultural Epochs, Peoples, and Civilizations | 4 |
 | 16 | Michael, Lucifer, Ahriman, and Spiritual Opposition | 4 |
-| 17 | Natural Sciences, Mathematics, Astronomy, and Technology | 5 |
+| 17 | Natural Sciences, Mathematics, Astronomy, and Technology | 6 |
 | 18 | Medicine, Therapeutics, Health, and Remedial Care | 3 |
-| 19 | Education, Waldorf Pedagogy, and Child Development | 4 |
-| 20 | Agriculture, Food, Nutrition, and Ecological Life | 3 |
+| 19 | Education, Waldorf Pedagogy, and Child Development | 9 |
+| 20 | Agriculture, Food, Nutrition, and Ecological Life | 9 |
 | 21 | Social Threefolding, Economics, Law, and Political Life | 7 |
-| 22 | Arts, Aesthetics, Color, Music, and Literature | 6 |
+| 22 | Arts, Aesthetics, Color, Music, and Literature | 8 |
 | 23 | Architecture, Sculpture, Design, and the Goetheanum | 4 |
-| 24 | Eurythmy, Speech, Drama, and Embodied Performance | 5 |
+| 24 | Eurythmy, Speech, Drama, and Embodied Performance | 10 |
 | 25 | Festivals, Inner Practice, Spiritual Calendar, and Religious Work | 6 |
-| 26 | The Anthroposophical Movement, School, and Steiner's Self-Understanding | 1 |
+| 26 | The Anthroposophical Movement, School, and Steiner's Self-Understanding | 2 |
 
 ## Source-page contributions
 
@@ -72,6 +72,16 @@ Generated from local, original Atlas records; no external documents accessed.
 | [SG-GA004-C12](https://rsarchive.org/Books/GA004/English/RSP1964/GA004_c12.html) | GA 4 — The Philosophy of Freedom | 7 |
 | [SG-GA009-C02](https://rsarchive.org/Books/GA009/English/AP1971/GA009_c02.html) | GA 9 — Theosophy | 6 |
 | [SG-GA009-C03](https://rsarchive.org/Books/GA009/English/AP1971/GA009_c03.html) | GA 9 — Theosophy | 7 |
+| [SG-GA004-C03](https://rsarchive.org/Books/GA004/English/RSP1964/GA004_c03.html) | GA 4 — The Philosophy of Freedom | 3 |
+| [SG-GA004-C07](https://rsarchive.org/Books/GA004/English/RSP1964/GA004_c07.html) | GA 4 — The Philosophy of Freedom | 3 |
+| [SG-GA006-C01A](https://rsarchive.org/Books/GA006/English/MP1985/GA006_c01_1.html) | GA 6 — Goethe's World View | 4 |
+| [SG-GA006-C03](https://rsarchive.org/Books/GA006/English/MP1985/GA006_c03.html) | GA 6 — Goethe's World View | 4 |
+| [SG-GA010-C09](https://rsarchive.org/Books/GA010/English/RSPC1947/GA010_c09.html) | GA 10 — Knowledge of Higher Worlds and its Attainment | 5 |
+| [SG-GA010-C10](https://rsarchive.org/Books/GA010/English/RSPC1947/GA010_c10.html) | GA 10 — Knowledge of Higher Worlds and its Attainment | 2 |
+| [SG-GA327-19240607](https://rsarchive.org/Lectures/GA327/English/BDA1958/19240607p01.html) | GA 327 — Agriculture | 6 |
+| [SG-GA279-19240625](https://rsarchive.org/Lectures/GA279/English/APC1956/19240625p02.html) | GA 279 — Eurythmy as Visible Speech | 3 |
+| [SG-GA279-19240707](https://rsarchive.org/Lectures/GA279/English/APC1956/19240707p02.html) | GA 279 — Eurythmy as Visible Speech | 2 |
+| [SG-GA034-ESSAY](https://rsarchive.org/Articles/GA034/English/Singles/EduChi_essay.html) | GA 34 — The Education of the Child in the Light of Anthroposophy | 5 |
 
 ## Audit boundaries
 
