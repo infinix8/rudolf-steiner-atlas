@@ -2,9 +2,9 @@
 
 Generated from local, original Atlas records; no external documents accessed.
 
-- **66 passage-qualified relationships**; **13 original source pages**.
-- **19 direct cross-domain graph connections**.
-- **4 of 30 initial crosslinks** directly matched; **26** still have no matching exact-endpoint source evidence.
+- **106 passage-qualified relationships**; **23 original source pages**.
+- **44 direct cross-domain graph connections**.
+- **4 of 30 initial crosslinks** directly matched; **25** still have no matching exact-endpoint source evidence.
 - Source verification means **selected passages were checked**, not that full books were reviewed.
 
 ## Related nodes by domain
@@ -13,30 +13,30 @@ Generated from local, original Atlas records; no external documents accessed.
 |---|---|---:|
 | 01 | Thinking, Knowledge, Logic, and Freedom | 1 |
 | 02 | Goethean Science and the Foundations of Research | 0 |
-| 03 | Esoteric Training, Initiation, and Spiritual Research | 2 |
+| 03 | Esoteric Training, Initiation, and Spiritual Research | 3 |
 | 04 | Worldviews, Philosophy of Spirit, and Conceptual Structures | 6 |
-| 05 | Spiritual Worlds, Hierarchies, and Beings | 10 |
+| 05 | Spiritual Worlds, Hierarchies, and Beings | 11 |
 | 06 | Cosmic Genesis, Earth Evolution, and the Future | 18 |
-| 07 | Nature Kingdoms, Elemental Beings, and the Living Earth | 6 |
-| 08 | Karma, Reincarnation, Death, and Spiritual Destiny | 0 |
-| 09 | Human Constitution: Body, Soul, and Spirit | 15 |
-| 10 | Soul Life, Consciousness, Senses, and Psychology | 5 |
-| 11 | Life Course, Human Relations, and Embodied Biography | 0 |
-| 12 | Human Evolution and the Future of Consciousness | 0 |
-| 13 | Christology, Jesus, and the Mystery of Golgotha | 2 |
-| 14 | Religions, Ancient Mysteries, Scriptures, and Mythology | 0 |
-| 15 | Human History, Cultural Epochs, Peoples, and Civilizations | 0 |
-| 16 | Michael, Lucifer, Ahriman, and Spiritual Opposition | 0 |
+| 07 | Nature Kingdoms, Elemental Beings, and the Living Earth | 16 |
+| 08 | Karma, Reincarnation, Death, and Spiritual Destiny | 10 |
+| 09 | Human Constitution: Body, Soul, and Spirit | 21 |
+| 10 | Soul Life, Consciousness, Senses, and Psychology | 6 |
+| 11 | Life Course, Human Relations, and Embodied Biography | 3 |
+| 12 | Human Evolution and the Future of Consciousness | 1 |
+| 13 | Christology, Jesus, and the Mystery of Golgotha | 6 |
+| 14 | Religions, Ancient Mysteries, Scriptures, and Mythology | 4 |
+| 15 | Human History, Cultural Epochs, Peoples, and Civilizations | 4 |
+| 16 | Michael, Lucifer, Ahriman, and Spiritual Opposition | 4 |
 | 17 | Natural Sciences, Mathematics, Astronomy, and Technology | 0 |
-| 18 | Medicine, Therapeutics, Health, and Remedial Care | 2 |
-| 19 | Education, Waldorf Pedagogy, and Child Development | 2 |
+| 18 | Medicine, Therapeutics, Health, and Remedial Care | 3 |
+| 19 | Education, Waldorf Pedagogy, and Child Development | 3 |
 | 20 | Agriculture, Food, Nutrition, and Ecological Life | 3 |
 | 21 | Social Threefolding, Economics, Law, and Political Life | 7 |
-| 22 | Arts, Aesthetics, Color, Music, and Literature | 0 |
-| 23 | Architecture, Sculpture, Design, and the Goetheanum | 0 |
-| 24 | Eurythmy, Speech, Drama, and Embodied Performance | 0 |
+| 22 | Arts, Aesthetics, Color, Music, and Literature | 6 |
+| 23 | Architecture, Sculpture, Design, and the Goetheanum | 2 |
+| 24 | Eurythmy, Speech, Drama, and Embodied Performance | 5 |
 | 25 | Festivals, Inner Practice, Spiritual Calendar, and Religious Work | 6 |
-| 26 | The Anthroposophical Movement, School, and Steiner's Self-Understanding | 0 |
+| 26 | The Anthroposophical Movement, School, and Steiner's Self-Understanding | 1 |
 
 ## Source-page contributions
 
@@ -55,6 +55,16 @@ Generated from local, original Atlas records; no external documents accessed.
 | [SG-GA023-C02](https://rsarchive.org/Books/GA023/English/AP1972/GA023_c02.html) | GA 23 — The Threefold Social Order | 7 |
 | [SG-GA223-19230331](https://rsarchive.org/Lectures/GA223/English/AP1984/19230331p01.html) | GA 223 — The Cycle of the Year | 6 |
 | [SG-GA312-19200321](https://rsarchive.org/Lectures/SpiSciMed/19200321p01.html) | GA 312 — Spiritual Science and Medicine | 2 |
+| [SG-GA235-19240216](https://rsarchive.org/Lectures/KarmRelI/19240216p01.html) | GA 235 — Karmic Relationships I | 4 |
+| [SG-GA235-19240301](https://rsarchive.org/Lectures/KarmRelI/19240301p01.html) | GA 235 — Karmic Relationships I | 4 |
+| [SG-GA230-19231102](https://rsarchive.org/Lectures/GA230/English/RSP1970/19231102p01.html) | GA 230 — Man as Symphony of the Creative Word | 7 |
+| [SG-GA279-19240624](https://rsarchive.org/Lectures/GA279/English/APC1956/19240624p02.html) | GA 279 — Eurythmy as Visible Speech | 4 |
+| [SG-GA106-19080902](https://rsarchive.org/Lectures/GA106/English/SOL/19080902p01.html) | GA 106 — Egyptian Myths and Mysteries | 4 |
+| [SG-GA112-19090630](https://rsarchive.org/Lectures/GA112/English/SOL/19090630p01.html) | GA 112 — The Gospel of St. John | 4 |
+| [SG-GA275-19141229](https://rsarchive.org/Lectures/GA275/English/RSP1984/19141229p01.html) | GA 275 — Art as Seen in the Light of Mystery Wisdom | 5 |
+| [SG-GA275-19150102](https://rsarchive.org/Lectures/GA275/English/RSP1984/19150102p01.html) | GA 275 — Art as Seen in the Light of Mystery Wisdom | 2 |
+| [SG-GA283-19061112](https://rsarchive.org/Lectures/19061112p01.html) | GA 283 — The Inner Nature of Music and the Experience of Tone | 2 |
+| [SG-GA026-C06](https://rsarchive.org/Books/GA026/English/APC1956/GA026_c06.html) | GA 26 — The Michael Mystery | 4 |
 
 ## Audit boundaries
 
