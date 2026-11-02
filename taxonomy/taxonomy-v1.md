@@ -497,7 +497,8 @@ Use this as an expandable taxonomic hypothesis, not as a claim that every lectur
   - RS-11.03.03 empathy
   - RS-11.03.04 encounters and karmic ties
   - RS-11.03.05 family and generations
-- **RS-11.04 Individual differences**  - RS-11.04.01 temperaments
+- **RS-11.04 Individual differences**
+  - RS-11.04.01 temperaments
   - RS-11.04.02 constitution and disposition
   - RS-11.04.03 individual biography
   - RS-11.04.04 gender and sex in Steiner's historical framework
@@ -996,7 +997,8 @@ Use this as an expandable taxonomic hypothesis, not as a claim that every lectur
   - RS-23.01.04 architecture as world conception
 - **RS-23.02 First Goetheanum**
   - RS-23.02.01 double-dome design
-  - RS-23.02.02 columns and capitals  - RS-23.02.03 stained glass
+  - RS-23.02.02 columns and capitals
+  - RS-23.02.03 stained glass
   - RS-23.02.04 painting and interior
   - RS-23.02.05 artistic collaboration
 - **RS-23.03 Second Goetheanum**
