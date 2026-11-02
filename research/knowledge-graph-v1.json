@@ -160,6 +160,74 @@
         "source_site": "Rudolf Steiner Archive",
         "entire_work_reviewed": false
       }
+    },
+    {
+      "id": "SG-GA110-19090414",
+      "ga": "110",
+      "work": "The Spiritual Hierarchies",
+      "unit": "Lecture V",
+      "kind": "recorded_lecture",
+      "edition": "English 1928 archive edition",
+      "lecture_date": "1909-04-14",
+      "url": "https://rsarchive.org/Lectures/19090414p01.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Lecture's early account of first and second hierarchies, Old Saturn to Old Moon, and roles of Thrones/Spirits of Wisdom/Motion/Form checked.",
+        "checked_on": "2026-11-02",
+        "source_site": "Rudolf Steiner Archive",
+        "entire_work_reviewed": false
+      }
+    },
+    {
+      "id": "SG-GA023-C02",
+      "ga": "23",
+      "work": "The Threefold Social Order",
+      "unit": "II. Meeting Social Needs",
+      "kind": "authored_book",
+      "edition": "English AP 1972; translated by Frederick C. Heckel",
+      "lecture_date": null,
+      "url": "https://rsarchive.org/Books/GA023/English/AP1972/GA023_c02.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Opening chapter discussion of the three social sectors, economic production-circulation-consumption, and comparison with threefold human organization checked.",
+        "checked_on": "2026-11-02",
+        "source_site": "Rudolf Steiner Archive",
+        "entire_work_reviewed": false
+      }
+    },
+    {
+      "id": "SG-GA223-19230331",
+      "ga": "223",
+      "work": "The Cycle of the Year",
+      "unit": "Lecture I",
+      "kind": "recorded_lecture",
+      "edition": "English AP 1984; translated by Barbara D. Betteridge and Frances E. Dawson",
+      "lecture_date": "1923-03-31",
+      "url": "https://rsarchive.org/Lectures/GA223/English/AP1984/19230331p01.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Numbered paragraphs [1]-[12] concerning breathing forces of Earth, Christmas and Easter in Steiner's interpretation checked.",
+        "checked_on": "2026-11-02",
+        "source_site": "Rudolf Steiner Archive",
+        "entire_work_reviewed": false
+      }
+    },
+    {
+      "id": "SG-GA312-19200321",
+      "ga": "312",
+      "work": "Spiritual Science and Medicine",
+      "unit": "Lecture I",
+      "kind": "recorded_lecture",
+      "edition": "English historical archive translation (translator to verify)",
+      "lecture_date": "1920-03-21",
+      "url": "https://rsarchive.org/Lectures/SpiSciMed/19200321p01.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Lecture I's opening orientation concerning medicine, physiology, disease, therapy and human constitution checked.",
+        "checked_on": "2026-11-02",
+        "source_site": "Rudolf Steiner Archive",
+        "entire_work_reviewed": false
+      }
     }
   ],
   "edges": [
@@ -415,6 +483,10 @@
         {
           "source_id": "SG-GA013-C04",
           "passage_locator": "[21]"
+        },
+        {
+          "source_id": "SG-GA110-19090414",
+          "passage_locator": "account of Thrones providing original warmth substance"
         }
       ],
       "claim": "Steiner assigns an outpouring of will to the Thrones at Saturn's beginning."
@@ -824,6 +896,342 @@
       ],
       "claim": "The physical/etheric/astral enumeration and head/chest/limb organization are different schemas.",
       "note": "The current RS-09.03 label is misleading and needs a taxonomy revision; this is a comparison by the atlas editors, not a direct statement equating the schemes."
+    },
+    {
+      "id": "KG-042",
+      "from": "RS-05.02.09",
+      "to": "RS-05.02.08",
+      "type": "influences_next_rank",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA110-19090414",
+          "passage_locator": "discussion of Seraphim and Cherubim near hierarchy overview"
+        }
+      ],
+      "claim": "Steiner presents the Seraphim's received cosmic aims as further elaborated by Cherubim."
+    },
+    {
+      "id": "KG-043",
+      "from": "RS-05.02.08",
+      "to": "RS-05.02.07",
+      "type": "influences_next_rank",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA110-19090414",
+          "passage_locator": "discussion of the first hierarchy"
+        }
+      ],
+      "claim": "Thrones are described as enacting aims developed through Cherubim."
+    },
+    {
+      "id": "KG-044",
+      "from": "RS-05.02.06",
+      "to": "RS-05.02.05",
+      "type": "directs_activity_of",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA110-19090414",
+          "passage_locator": "account of the second hierarchy's work inside Saturn"
+        }
+      ],
+      "claim": "Steiner assigns direction to Spirits of Wisdom and implementation to Spirits of Motion."
+    },
+    {
+      "id": "KG-045",
+      "from": "RS-05.02.05",
+      "to": "RS-05.02.04",
+      "type": "works_with",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA110-19090414",
+          "passage_locator": "account of Spirits of Motion and Spirits of Form"
+        }
+      ],
+      "claim": "Spirits of Form are portrayed as upholding structures developed by Spirits of Motion."
+    },
+    {
+      "id": "KG-046",
+      "from": "RS-05.02.06",
+      "to": "RS-06.01.02",
+      "type": "contributes_to",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA110-19090414",
+          "passage_locator": "description of change from Saturn warmth to Sun air"
+        }
+      ],
+      "claim": "Spirits of Wisdom are linked with the condensation associated with Old Sun."
+    },
+    {
+      "id": "KG-047",
+      "from": "RS-05.02.05",
+      "to": "RS-06.01.03",
+      "type": "contributes_to",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA110-19090414",
+          "passage_locator": "description of Moon's watery condition"
+        }
+      ],
+      "claim": "Spirits of Motion are linked with the Old Moon's development."
+    },
+    {
+      "id": "KG-048",
+      "from": "RS-06.01.05",
+      "to": "RS-06.01.06",
+      "type": "precedes_in_account",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA110-19090414",
+          "passage_locator": "sequence of seven planetary conditions"
+        }
+      ],
+      "claim": "Future Jupiter precedes future Venus in the described planetary series."
+    },
+    {
+      "id": "KG-049",
+      "from": "RS-06.01.06",
+      "to": "RS-06.01.07",
+      "type": "precedes_in_account",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA110-19090414",
+          "passage_locator": "sequence of seven planetary conditions"
+        }
+      ],
+      "claim": "Future Venus precedes Vulcan in the described planetary series."
+    },
+    {
+      "id": "KG-050",
+      "from": "RS-09.02.05",
+      "to": "RS-21.01",
+      "type": "used_as_analogy_for",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA023-C02",
+          "passage_locator": "chapter opening comparison of natural and social threefoldness"
+        }
+      ],
+      "claim": "Steiner uses a three-system physiological comparison when introducing the social organism."
+    },
+    {
+      "id": "KG-051",
+      "from": "RS-21.01.01",
+      "to": "RS-21.01.02",
+      "type": "distinguished_from",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA023-C02",
+          "passage_locator": "three branches of social life"
+        }
+      ],
+      "claim": "Cultural-spiritual activity and public-rights life are treated as different social functions."
+    },
+    {
+      "id": "KG-052",
+      "from": "RS-21.01.02",
+      "to": "RS-21.01.03",
+      "type": "distinguished_from",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA023-C02",
+          "passage_locator": "discussion of economic and rights systems"
+        }
+      ],
+      "claim": "Public-rights and economic activity are differentiated by their social tasks."
+    },
+    {
+      "id": "KG-053",
+      "from": "RS-21.01",
+      "to": "RS-21.02",
+      "type": "has_component",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA023-C02",
+          "passage_locator": "description of economic member"
+        }
+      ],
+      "claim": "Economic life is presented as one of three semi-independent social spheres."
+    },
+    {
+      "id": "KG-054",
+      "from": "RS-21.02.01",
+      "to": "RS-21.02.02",
+      "type": "forms_process_with",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA023-C02",
+          "passage_locator": "chapter's definition of economic life"
+        }
+      ],
+      "claim": "Production and circulation are two connected phases of the economic process."
+    },
+    {
+      "id": "KG-055",
+      "from": "RS-21.02.02",
+      "to": "RS-21.02.03",
+      "type": "forms_process_with",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA023-C02",
+          "passage_locator": "chapter's definition of economic life"
+        }
+      ],
+      "claim": "Circulation and consumption are included in the same economic process."
+    },
+    {
+      "id": "KG-056",
+      "from": "RS-21.01",
+      "to": "RS-19.01",
+      "type": "motivates_educational_task",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA023-C02",
+          "passage_locator": "section on schools cultivating perception of the social organism"
+        }
+      ],
+      "claim": "Steiner connects social understanding with the task of education."
+    },
+    {
+      "id": "KG-057",
+      "from": "RS-07.05.01",
+      "to": "RS-25.02.01",
+      "type": "frames_festival_interpretation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA223-19230331",
+          "passage_locator": "[3]-[5] seasonal breathing and Christmas"
+        }
+      ],
+      "claim": "The yearly inward movement of earth-forces forms part of Steiner's Christmas interpretation."
+    },
+    {
+      "id": "KG-058",
+      "from": "RS-07.05.01",
+      "to": "RS-25.02.03",
+      "type": "frames_festival_interpretation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA223-19230331",
+          "passage_locator": "[9]-[11] Easter and outward flow"
+        }
+      ],
+      "claim": "The outward movement of earth-forces is related to Easter in this account."
+    },
+    {
+      "id": "KG-059",
+      "from": "RS-07.02.01",
+      "to": "RS-25.01.01",
+      "type": "illustrates",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA223-19230331",
+          "passage_locator": "[2]-[3] changing vegetation"
+        }
+      ],
+      "claim": "Changes in plant growth illustrate Steiner's image of annual earth-breathing."
+    },
+    {
+      "id": "KG-060",
+      "from": "RS-13.01.02",
+      "to": "RS-25.02.03",
+      "type": "influences_festival_interpretation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA223-19230331",
+          "passage_locator": "[9]-[10] Christ and Sun at Easter"
+        }
+      ],
+      "claim": "Easter is interpreted using the relationship of Christ-forces and sunlight."
+    },
+    {
+      "id": "KG-061",
+      "from": "RS-18.01",
+      "to": "RS-18.03",
+      "type": "frames_problem_of",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA312-19200321",
+          "passage_locator": "lecture opening, disease and medical education"
+        }
+      ],
+      "claim": "Steiner places inquiry into illness within his proposed foundations of medicine."
+    },
+    {
+      "id": "KG-062",
+      "from": "RS-18.01",
+      "to": "RS-18.04",
+      "type": "frames_problem_of",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA312-19200321",
+          "passage_locator": "lecture opening, medical knowledge and therapy"
+        }
+      ],
+      "claim": "He connects his proposed account of human nature with questions of therapy."
     }
   ]
 }
