@@ -567,6 +567,46 @@
         "archive_url_checked": true,
         "full_translation_collation": false
       }
+    },
+    {
+      "id": "SG-GA009-C02",
+      "ga": "9",
+      "work": "Theosophy",
+      "unit": "Re-Embodiment of the Spirit and Destiny",
+      "kind": "authored_book",
+      "edition": "Anthroposophic Press 1971; Henry B. Monges, revised Gilbert Church",
+      "lecture_date": null,
+      "url": "https://rsarchive.org/Books/GA009/English/AP1971/GA009_c02.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Numbered [1]-[11]: soul as mediation between body and spirit, memory and consequences of actions, differences of biography, Steiner's reincarnation reasoning. Historically situated, not independently substantiated.",
+        "checked_on": "2026-11-02",
+        "source_site": "Rudolf Steiner Archive",
+        "entire_work_reviewed": false,
+        "archive_page_opened_on": "2026-11-02",
+        "archive_url_checked": true,
+        "full_translation_collation": false
+      }
+    },
+    {
+      "id": "SG-GA009-C03",
+      "ga": "9",
+      "work": "Theosophy",
+      "unit": "The Three Worlds",
+      "kind": "authored_book",
+      "edition": "Anthroposophic Press 1971; Henry B. Monges, revised Gilbert Church",
+      "lecture_date": null,
+      "url": "https://rsarchive.org/Books/GA009/English/AP1971/GA009_c03.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Sections I-II and IV; selected numbered passages [6]-[10], [14]-[16], [17]-[26], [50]-[51] on soul world, after death, spiritual world and relations of karma.",
+        "checked_on": "2026-11-02",
+        "source_site": "Rudolf Steiner Archive",
+        "entire_work_reviewed": false,
+        "archive_page_opened_on": "2026-11-02",
+        "archive_url_checked": true,
+        "full_translation_collation": false
+      }
     }
   ],
   "edges": [
@@ -2650,6 +2690,216 @@
         }
       ],
       "claim": "He identifies the etheric principle with life processes shared with plants."
+    },
+    {
+      "id": "KG-130",
+      "from": "RS-10.01.04",
+      "to": "RS-08.06.01",
+      "type": "interpreted_as_preserving_past",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA009-C02",
+          "passage_locator": "[1]-[5]"
+        }
+      ],
+      "claim": "Steiner presents remembrance as a way the soul relates its present life to past experience."
+    },
+    {
+      "id": "KG-131",
+      "from": "RS-08.02.01",
+      "to": "RS-08.01",
+      "type": "interpreted_through_actions_and_reincarnation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA009-C02",
+          "passage_locator": "[2]-[3], [7]-[11]"
+        }
+      ],
+      "claim": "He argues that deeds affect a person's future and frames this within his doctrine of repeated earthly lives.",
+      "note": "This is Steiner's metaphysical reasoning, not independently verified causation."
+    },
+    {
+      "id": "KG-132",
+      "from": "RS-08.01.03",
+      "to": "RS-11.04.03",
+      "type": "explained_through_individual_biography",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA009-C02",
+          "passage_locator": "[7]-[11]"
+        }
+      ],
+      "claim": "Steiner appeals to differences between biographies when arguing for individuality before birth.",
+      "note": "The philosophical argument is not scientific evidence for reincarnation."
+    },
+    {
+      "id": "KG-133",
+      "from": "RS-08.01.05",
+      "to": "RS-11.04.03",
+      "type": "expressed_in_biography",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA009-C02",
+          "passage_locator": "[9]-[11]"
+        }
+      ],
+      "claim": "Individual biography is used as an expression of what Steiner regards as continuity of a spiritual individuality."
+    },
+    {
+      "id": "KG-134",
+      "from": "RS-10.06.02",
+      "to": "RS-10.01.04",
+      "type": "described_as_recollection_not_stored_picture",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA009-C02",
+          "passage_locator": "[4]"
+        }
+      ],
+      "claim": "The text differentiates recollection as a new act from a literal unchanged picture retained after perception."
+    },
+    {
+      "id": "KG-135",
+      "from": "RS-08.01.01",
+      "to": "RS-08.01.04",
+      "type": "argued_as_spiritual_continuity",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA009-C02",
+          "passage_locator": "[10]-[11]"
+        }
+      ],
+      "claim": "Steiner infers a pre-birth spiritual individuality and links it to the proposed repetition of earthly lives."
+    },
+    {
+      "id": "KG-136",
+      "from": "RS-05.01.01",
+      "to": "RS-05.01.02",
+      "type": "distinguished_from",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA009-C03",
+          "passage_locator": "[6]-[9]"
+        }
+      ],
+      "claim": "He distinguishes the physical world and the soul world as governed by different forms of interaction."
+    },
+    {
+      "id": "KG-137",
+      "from": "RS-05.01.02",
+      "to": "RS-05.01.03",
+      "type": "distinguished_from",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA009-C03",
+          "passage_locator": "[17]-[22], [50]"
+        }
+      ],
+      "claim": "The soul world is presented as a different phase or sphere from spiritland in his after-death account."
+    },
+    {
+      "id": "KG-138",
+      "from": "RS-10.01.07",
+      "to": "RS-05.01.02",
+      "type": "attributed_as_governing_forces",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA009-C03",
+          "passage_locator": "[10]"
+        }
+      ],
+      "claim": "Steiner invokes sympathy and antipathy as fundamental forces of the soul world."
+    },
+    {
+      "id": "KG-139",
+      "from": "RS-05.01.02",
+      "to": "RS-08.03.03",
+      "type": "interpreted_as_postmortem_context",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA009-C03",
+          "passage_locator": "[17]-[25]"
+        }
+      ],
+      "claim": "The soul world is presented as a stage in Steiner's account of what follows physical death."
+    },
+    {
+      "id": "KG-140",
+      "from": "RS-08.03.03",
+      "to": "RS-08.02",
+      "type": "distinguished_postmortem_from_karma",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA009-C03",
+          "passage_locator": "[21]-[24]"
+        }
+      ],
+      "claim": "He distinguishes attachments linked to the just-ended life from karmic consequences assigned to future incarnation."
+    },
+    {
+      "id": "KG-141",
+      "from": "RS-05.01.03",
+      "to": "RS-08.03.04",
+      "type": "interpreted_as_postmortem_context",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA009-C03",
+          "passage_locator": "[50]-[51]"
+        }
+      ],
+      "claim": "Spiritland is described as a realm for the spirit after death and its later development."
+    },
+    {
+      "id": "KG-142",
+      "from": "RS-08.03.06",
+      "to": "RS-08.01.04",
+      "type": "interpreted_as_preparing_reincarnation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA009-C03",
+          "passage_locator": "[50]-[51]"
+        }
+      ],
+      "claim": "Steiner connects experiences in spiritland with preparation for another earthly life."
     }
   ],
   "version": "1.1",
