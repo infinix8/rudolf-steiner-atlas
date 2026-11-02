@@ -228,6 +228,176 @@
         "source_site": "Rudolf Steiner Archive",
         "entire_work_reviewed": false
       }
+    },
+    {
+      "id": "SG-GA235-19240216",
+      "ga": "235",
+      "work": "Karmic Relationships I",
+      "unit": "Lecture I",
+      "kind": "recorded_lecture",
+      "edition": "George Adams translation, revised M. Cotterell, C. Davy & D. S. Osmond",
+      "lecture_date": "1924-02-16",
+      "url": "https://rsarchive.org/Lectures/KarmRelI/19240216p01.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Paras [1]-[10], [24]-[25], [33]-[38] on differing kinds of causality and kingdoms",
+        "checked_on": "2026-11-02",
+        "source_site": "Rudolf Steiner Archive",
+        "entire_work_reviewed": false
+      }
+    },
+    {
+      "id": "SG-GA235-19240301",
+      "ga": "235",
+      "work": "Karmic Relationships I",
+      "unit": "Lecture V",
+      "kind": "recorded_lecture",
+      "edition": "George Adams translation, revised M. Cotterell, C. Davy & D. S. Osmond",
+      "lecture_date": "1924-03-01",
+      "url": "https://rsarchive.org/Lectures/KarmRelI/19240301p01.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Paras [1]-[10], [39]-[40] on fate, physical and soul constitution, life stages, and illness as Steiner's historical claim",
+        "checked_on": "2026-11-02",
+        "source_site": "Rudolf Steiner Archive",
+        "entire_work_reviewed": false
+      }
+    },
+    {
+      "id": "SG-GA230-19231102",
+      "ga": "230",
+      "work": "Man as Symphony of the Creative Word",
+      "unit": "Lecture VII",
+      "kind": "recorded_lecture",
+      "edition": "Judith Compton-Burnett, 1970",
+      "lecture_date": "1923-11-02",
+      "url": "https://rsarchive.org/Lectures/GA230/English/RSP1970/19231102p01.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Opening, root-spirits section; sections about undines, sylphs, fire beings and plant growth",
+        "checked_on": "2026-11-02",
+        "source_site": "Rudolf Steiner Archive",
+        "entire_work_reviewed": false
+      }
+    },
+    {
+      "id": "SG-GA279-19240624",
+      "ga": "279",
+      "work": "Eurythmy as Visible Speech",
+      "unit": "Lecture I",
+      "kind": "recorded_lecture",
+      "edition": "V. & J. Compton-Burnett, 1956",
+      "lecture_date": "1924-06-24",
+      "url": "https://rsarchive.org/Lectures/GA279/English/APC1956/19240624p02.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Opening introduction through distinguishing artistic, pedagogic and healing aspects and human movement",
+        "checked_on": "2026-11-02",
+        "source_site": "Rudolf Steiner Archive",
+        "entire_work_reviewed": false
+      }
+    },
+    {
+      "id": "SG-GA106-19080902",
+      "ga": "106",
+      "work": "Egyptian Myths and Mysteries",
+      "unit": "First Lecture",
+      "kind": "recorded_lecture",
+      "edition": "Steiner Online Library English translation",
+      "lecture_date": "1908-09-02",
+      "url": "https://rsarchive.org/Lectures/GA106/English/SOL/19080902p01.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Paras [1]-[9] on spiritual development, reincarnation and interpretation of the Egyptian epoch",
+        "checked_on": "2026-11-02",
+        "source_site": "Rudolf Steiner Archive",
+        "entire_work_reviewed": false
+      }
+    },
+    {
+      "id": "SG-GA112-19090630",
+      "ga": "112",
+      "work": "The Gospel of St. John",
+      "unit": "Seventh Lecture",
+      "kind": "recorded_lecture",
+      "edition": "Steiner Online Library English translation",
+      "lecture_date": "1909-06-30",
+      "url": "https://rsarchive.org/Lectures/GA112/English/SOL/19090630p01.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Paras [1]-[4] on Johannine baptism, older initiation and Christological interpretation",
+        "checked_on": "2026-11-02",
+        "source_site": "Rudolf Steiner Archive",
+        "entire_work_reviewed": false
+      }
+    },
+    {
+      "id": "SG-GA275-19141229",
+      "ga": "275",
+      "work": "Art as Seen in the Light of Mystery Wisdom",
+      "unit": "Lecture II: Impulses of Transformation for Man's Artistic Evolution I",
+      "kind": "recorded_lecture",
+      "edition": "English RSP 1984 (translator by lecture should be separately checked)",
+      "lecture_date": "1914-12-29",
+      "url": "https://rsarchive.org/Lectures/GA275/English/RSP1984/19141229p01.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Opening paragraphs, passage on etheric time/rhythm, astral forces, angelic beings, music of spheres",
+        "checked_on": "2026-11-02",
+        "source_site": "Rudolf Steiner Archive",
+        "entire_work_reviewed": false
+      }
+    },
+    {
+      "id": "SG-GA275-19150102",
+      "ga": "275",
+      "work": "Art as Seen in the Light of Mystery Wisdom",
+      "unit": "Lecture VI: Working with Sculptural Architecture I",
+      "kind": "recorded_lecture",
+      "edition": "English RSP 1984 (translator by lecture should be separately checked)",
+      "lecture_date": "1915-01-02",
+      "url": "https://rsarchive.org/Lectures/GA275/English/RSP1984/19150102p01.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Opening passage on artistic/spiritual knowledge, sculptural architecture and four Mystery Plays",
+        "checked_on": "2026-11-02",
+        "source_site": "Rudolf Steiner Archive",
+        "entire_work_reviewed": false
+      }
+    },
+    {
+      "id": "SG-GA283-19061112",
+      "ga": "283",
+      "work": "The Inner Nature of Music and the Experience of Tone",
+      "unit": "Lecture II",
+      "kind": "recorded_lecture",
+      "edition": "English 1983 archive edition; translator not yet confirmed",
+      "lecture_date": "1906-11-12",
+      "url": "https://rsarchive.org/Lectures/19061112p01.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Opening discussion of music's influence on the soul, heredity, Goethe and Schopenhauer",
+        "checked_on": "2026-11-02",
+        "source_site": "Rudolf Steiner Archive",
+        "entire_work_reviewed": false
+      }
+    },
+    {
+      "id": "SG-GA026-C06",
+      "ga": "26",
+      "work": "The Michael Mystery",
+      "unit": "VI. Mankind's Future and the Work of Michael",
+      "kind": "authored_book",
+      "edition": "E. Bowen-Wedgwood translation, revised George Adams; 1956",
+      "lecture_date": null,
+      "url": "https://rsarchive.org/Books/GA026/English/APC1956/GA026_c06.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Paras [1]-[6], leading thoughts [17]-[19] on Michael, cosmic intelligence, nature and consciousness",
+        "checked_on": "2026-11-02",
+        "source_site": "Rudolf Steiner Archive",
+        "entire_work_reviewed": false
+      }
     }
   ],
   "edges": [
@@ -1296,6 +1466,656 @@
         }
       ],
       "claim": "Steiner associates the Mystery of Golgotha with the spiritual interpretation of Christmas and Easter."
+    },
+    {
+      "id": "KG-067",
+      "from": "RS-08.02",
+      "to": "RS-07.01.01",
+      "type": "contrasts_causality_with",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA235-19240216",
+          "passage_locator": "[1]-[5]"
+        }
+      ],
+      "claim": "Steiner contrasts karmic causation with causes in the lifeless mineral realm."
+    },
+    {
+      "id": "KG-068",
+      "from": "RS-08.02",
+      "to": "RS-07.01.02",
+      "type": "contrasts_causality_with",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA235-19240216",
+          "passage_locator": "[24]-[25]"
+        }
+      ],
+      "claim": "His account distinguishes plant-life explanation via an etheric cosmos from ordinary lifeless causation."
+    },
+    {
+      "id": "KG-069",
+      "from": "RS-08.02",
+      "to": "RS-07.01.03",
+      "type": "contrasts_causality_with",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA235-19240216",
+          "passage_locator": "[33]-[38]"
+        }
+      ],
+      "claim": "He distinguishes animal sensation and movement as arising from antecedent spiritual causes in his framework."
+    },
+    {
+      "id": "KG-070",
+      "from": "RS-08.02",
+      "to": "RS-08.01",
+      "type": "explains_through",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA235-19240216",
+          "passage_locator": "[1]-[9]"
+        }
+      ],
+      "claim": "The lecture sets karma within multiple forms of causation rather than a simple immediate cause-and-effect rule."
+    },
+    {
+      "id": "KG-071",
+      "from": "RS-08.02.02",
+      "to": "RS-09.01",
+      "type": "takes_account_of",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA235-19240301",
+          "passage_locator": "[1]-[3]"
+        }
+      ],
+      "claim": "Steiner relates what he calls a karmic situation to physical, etheric, astral and ego constitution."
+    },
+    {
+      "id": "KG-072",
+      "from": "RS-08.02.04",
+      "to": "RS-11.05.02",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA235-19240301",
+          "passage_locator": "[39]"
+        }
+      ],
+      "claim": "He asserts possible connections between karma and illness while cautioning against attributing every illness to a prior life.",
+      "note": "Historically attributed spiritual claim, not evidence about medical causation or health responsibility."
+    },
+    {
+      "id": "KG-073",
+      "from": "RS-08.01.01",
+      "to": "RS-11.01.01",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA235-19240301",
+          "passage_locator": "[7]-[10]"
+        }
+      ],
+      "claim": "Steiner describes a pre-birth spiritual contribution to bodily development around the change of teeth.",
+      "note": "This is Steiner's speculative metaphysical account, not an empirical claim about child development."
+    },
+    {
+      "id": "KG-074",
+      "from": "RS-08.02",
+      "to": "RS-11.03.04",
+      "type": "involves",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA235-19240301",
+          "passage_locator": "[2], [40]"
+        }
+      ],
+      "claim": "His discussion includes encounters with other people among the factors shaping destiny."
+    },
+    {
+      "id": "KG-075",
+      "from": "RS-07.04.01",
+      "to": "RS-07.02.04",
+      "type": "attributed_nature_explanation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA230-19231102",
+          "passage_locator": "opening root spirits discussion"
+        }
+      ],
+      "claim": "Steiner describes gnomes as root spirits mediating mineral substance to plant roots.",
+      "note": "Spiritual-scientific assertion, not established botany."
+    },
+    {
+      "id": "KG-076",
+      "from": "RS-07.04.02",
+      "to": "RS-07.02.03",
+      "type": "attributed_nature_explanation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA230-19231102",
+          "passage_locator": "undine and leaf growth passage"
+        }
+      ],
+      "claim": "Steiner portrays undines as contributing to leaf substance and the chemistry of plant growth.",
+      "note": "Spiritual-scientific assertion, not established botany."
+    },
+    {
+      "id": "KG-077",
+      "from": "RS-07.04.03",
+      "to": "RS-07.02.03",
+      "type": "attributed_nature_explanation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA230-19231102",
+          "passage_locator": "sylph section: light and archetypal plant forms"
+        }
+      ],
+      "claim": "He associates sylphs with light and the formation of the archetypal plant."
+    },
+    {
+      "id": "KG-078",
+      "from": "RS-07.04.04",
+      "to": "RS-07.02.01",
+      "type": "attributed_nature_explanation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA230-19231102",
+          "passage_locator": "fire spirits, seed and warmth section"
+        }
+      ],
+      "claim": "He connects fire spirits with warmth-bearing processes in blossoms and seeds."
+    },
+    {
+      "id": "KG-079",
+      "from": "RS-07.04.02",
+      "to": "RS-07.04.03",
+      "type": "described_as_cooperating",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA230-19231102",
+          "passage_locator": "undine chemistry and sylph light passage"
+        }
+      ],
+      "claim": "Steiner presents undine chemical effects and sylph light-effects as intertwined in plant formation."
+    },
+    {
+      "id": "KG-080",
+      "from": "RS-07.04.03",
+      "to": "RS-07.04.01",
+      "type": "described_as_cooperating",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA230-19231102",
+          "passage_locator": "autumn ideal-forms and gnomes passage"
+        }
+      ],
+      "claim": "He describes ideal forms carried by light and subsequently perceived by gnomes in the earth."
+    },
+    {
+      "id": "KG-081",
+      "from": "RS-07.04",
+      "to": "RS-07.02",
+      "type": "described_as_cooperating",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA230-19231102",
+          "passage_locator": "summary of four elemental kinds and plant growth"
+        }
+      ],
+      "claim": "The four named classes of elemental beings form an interconnected account of the life of plants."
+    },
+    {
+      "id": "KG-082",
+      "from": "RS-24.01.01",
+      "to": "RS-24.01.03",
+      "type": "expressed_through",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA279-19240624",
+          "passage_locator": "opening characterization of visible speech and gesture"
+        }
+      ],
+      "claim": "Steiner calls eurythmy visible speech and describes bodily gesture as artistic expression."
+    },
+    {
+      "id": "KG-083",
+      "from": "RS-24.01",
+      "to": "RS-19.01",
+      "type": "presented_as_application_to",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA279-19240624",
+          "passage_locator": "lecture introduction, art and education"
+        }
+      ],
+      "claim": "He explicitly identifies an educational context for eurythmy, separate from its artistic presentation."
+    },
+    {
+      "id": "KG-084",
+      "from": "RS-24.06.03",
+      "to": "RS-18.04.05",
+      "type": "presented_as_application_to",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA279-19240624",
+          "passage_locator": "lecture introduction, healing"
+        }
+      ],
+      "claim": "He identifies a therapeutic application of eurythmy distinct from its artistic presentation.",
+      "note": "Historical practice classification, not evidence of clinical efficacy."
+    },
+    {
+      "id": "KG-085",
+      "from": "RS-24.01.05",
+      "to": "RS-09.02",
+      "type": "derives_its_view_of_movement_from",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA279-19240624",
+          "passage_locator": "discussion of whole human being as art's instrument"
+        }
+      ],
+      "claim": "Steiner grounds eurythmic movement in his concept of the nature of the human being."
+    },
+    {
+      "id": "KG-086",
+      "from": "RS-14.01.02",
+      "to": "RS-15.02.03",
+      "type": "discussed_as_epochal_context",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA106-19080902",
+          "passage_locator": "[4]-[6]"
+        }
+      ],
+      "claim": "Steiner situates Egyptian mystery teachings within his narrative of the Egyptian cultural epoch."
+    },
+    {
+      "id": "KG-087",
+      "from": "RS-08.01.04",
+      "to": "RS-15.02.03",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA106-19080902",
+          "passage_locator": "[5]-[6]"
+        }
+      ],
+      "claim": "He interprets individuals of his time as having formerly lived in the Egyptian cultural epoch.",
+      "note": "Claim about reincarnation and history is Steiner's, not established fact."
+    },
+    {
+      "id": "KG-088",
+      "from": "RS-15.01.02",
+      "to": "RS-15.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA106-19080902",
+          "passage_locator": "[7]-[9]"
+        }
+      ],
+      "claim": "He recounts migrations associated with his asserted Atlantean prehistory.",
+      "note": "Atlantis and migration chronology are not established history."
+    },
+    {
+      "id": "KG-089",
+      "from": "RS-14.02.06",
+      "to": "RS-15.01",
+      "type": "interprets_symbolically",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA106-19080902",
+          "passage_locator": "[4]-[9]"
+        }
+      ],
+      "claim": "He uses claimed spiritual recollection and ancient narrative to interpret prehistory and cultural development."
+    },
+    {
+      "id": "KG-090",
+      "from": "RS-13.02.02",
+      "to": "RS-13.01.02",
+      "type": "distinguished_from",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA112-19090630",
+          "passage_locator": "[1]-[3]"
+        }
+      ],
+      "claim": "Steiner contrasts John's baptismal consciousness with the Christ impulse as he interprets it."
+    },
+    {
+      "id": "KG-091",
+      "from": "RS-13.02.02",
+      "to": "RS-14.01.01",
+      "type": "compares_with_initiation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA112-19090630",
+          "passage_locator": "[2]-[3]"
+        }
+      ],
+      "claim": "He compares the baptism by John with states of consciousness attributed to ancient initiation."
+    },
+    {
+      "id": "KG-092",
+      "from": "RS-13.03.04",
+      "to": "RS-13.02.02",
+      "type": "interprets_gospel_episode",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA112-19090630",
+          "passage_locator": "[1]-[4]"
+        }
+      ],
+      "claim": "The lecture reads the baptism within Steiner's account of the Gospel of John."
+    },
+    {
+      "id": "KG-093",
+      "from": "RS-13.06.04",
+      "to": "RS-14.03.03",
+      "type": "interprets_tradition_through",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA112-19090630",
+          "passage_locator": "[3]-[4]"
+        }
+      ],
+      "claim": "He compares Hebrew esoteric tradition with older initiation and Christological development."
+    },
+    {
+      "id": "KG-094",
+      "from": "RS-22.03.02",
+      "to": "RS-09.01.02",
+      "type": "symbolically_compares_to",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA275-19141229",
+          "passage_locator": "opening etheric rhythm and musical time"
+        }
+      ],
+      "claim": "Steiner characterizes the etheric body's rhythm through an analogy with musical time."
+    },
+    {
+      "id": "KG-095",
+      "from": "RS-22.03.03",
+      "to": "RS-09.01.03",
+      "type": "symbolically_compares_to",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA275-19141229",
+          "passage_locator": "music of spheres and astral nature passage"
+        }
+      ],
+      "claim": "He relates the astral human being to a spiritual image of cosmic music."
+    },
+    {
+      "id": "KG-096",
+      "from": "RS-22.01.01",
+      "to": "RS-23.01",
+      "type": "applies_to_art",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA275-19141229",
+          "passage_locator": "lecture opening, architecture and soul-spirit conception"
+        }
+      ],
+      "claim": "Steiner interprets architecture using his anthroposophical understanding of human nature."
+    },
+    {
+      "id": "KG-097",
+      "from": "RS-09.01.03",
+      "to": "RS-09.01.02",
+      "type": "described_as_cooperating",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA275-19141229",
+          "passage_locator": "upright posture and gesture sections"
+        }
+      ],
+      "claim": "He describes astral impulses acting through etheric formative forces on bodily movement."
+    },
+    {
+      "id": "KG-098",
+      "from": "RS-05.02.01",
+      "to": "RS-09.01",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA275-19141229",
+          "passage_locator": "paragraph on angelic help in tiny movements"
+        }
+      ],
+      "claim": "He attributes bodily movement partly to the activity of angels in his spiritual account."
+    },
+    {
+      "id": "KG-099",
+      "from": "RS-23.01",
+      "to": "RS-03.06.04",
+      "type": "applies_spiritual_knowledge_to",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA275-19150102",
+          "passage_locator": "opening of lecture, spiritual science and artistic feeling"
+        }
+      ],
+      "claim": "The lecture emphasizes bringing spiritual knowledge into lived artistic and architectural experience."
+    },
+    {
+      "id": "KG-100",
+      "from": "RS-24.05.01",
+      "to": "RS-22.04.06",
+      "type": "performed_as",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA275-19150102",
+          "passage_locator": "section referencing the four Mystery Plays"
+        }
+      ],
+      "claim": "Steiner refers to the four Mystery Plays as dramatic artistic expressions."
+    },
+    {
+      "id": "KG-101",
+      "from": "RS-22.03.04",
+      "to": "RS-10.01",
+      "type": "explores_soul_response_to",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA283-19061112",
+          "passage_locator": "opening passage on music and human soul"
+        }
+      ],
+      "claim": "He frames music as having a distinctive effect upon human soul life."
+    },
+    {
+      "id": "KG-102",
+      "from": "RS-22.01.02",
+      "to": "RS-22.03",
+      "type": "compared_through_art_philosophy",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA283-19061112",
+          "passage_locator": "discussion of Schopenhauer and Goethe"
+        }
+      ],
+      "claim": "He discusses Schopenhauer and Goethe to frame a philosophical account of art and music."
+    },
+    {
+      "id": "KG-103",
+      "from": "RS-16.01.01",
+      "to": "RS-08.03.06",
+      "type": "associated_with",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA026-C06",
+          "passage_locator": "[5] pre-earth existence and stars"
+        }
+      ],
+      "claim": "He describes Michael in connection with a soul's approach to incarnation and cosmic harmony."
+    },
+    {
+      "id": "KG-104",
+      "from": "RS-16.01",
+      "to": "RS-12.01",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA026-C06",
+          "passage_locator": "[1]-[6] stages of cosmic manifestations"
+        }
+      ],
+      "claim": "His Michael account situates human consciousness within successive states of cosmic manifestation."
+    },
+    {
+      "id": "KG-105",
+      "from": "RS-16.03.01",
+      "to": "RS-16.01",
+      "type": "presented_as_opposing_influence",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA026-C06",
+          "passage_locator": "[4] and guiding thoughts [17]-[19]"
+        }
+      ],
+      "claim": "He contrasts Michael's aim with the influence he attributes to Ahriman."
+    },
+    {
+      "id": "KG-106",
+      "from": "RS-26.04.04",
+      "to": "RS-16.01",
+      "type": "expounded_in_written_work",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA026-C06",
+          "passage_locator": "chapter VI and concluding guiding thoughts"
+        }
+      ],
+      "claim": "Michael's role is expounded within Steiner's own written leading-thoughts literature."
     }
-  ]
+  ],
+  "version": "1.1",
+  "last_updated": "2026-11-02",
+  "sources_added_20261102": 10
 }
