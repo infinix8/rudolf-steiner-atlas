@@ -62,7 +62,7 @@ The taxonomy, notes and diagrams are an original working classification. Origina
 
 ## Passage-linked knowledge graph · iteration 2026-11-02
 
-The [knowledge graph explorer](atlas/graph.html) is a second, evidence-first navigation mode. It currently contains **116 typed relationships from 27 Steiner primary-source pages**, including **51 cross-domain connections**, and distinguishes paraphrases of selected checked passages from source-comparison judgments. It links directly to the original archive without rehosting source material.
+The [knowledge graph explorer](atlas/graph.html) is a second, evidence-first navigation mode. It currently contains **142 typed relationships from 30 Steiner primary-source pages**, including **60 cross-domain connections**, and distinguishes paraphrases of selected checked passages from source-comparison judgments. It links directly to the original archive without rehosting source material.
 
 - [Graph methodology, evidence levels and source URLs](docs/KNOWLEDGE_GRAPH_METHOD.md)
 - [Reproducible graph coverage audit](docs/KNOWLEDGE_GRAPH_COVERAGE.md)
@@ -79,3 +79,13 @@ Run locally with `python -m http.server 8000` and open `http://localhost:8000/at
 - All **974 named taxonomy entries** are checked against JSON, Markdown and OPML so stable IDs remain consistent.
 - [Desktop/mobile Chromium smoke tests](tests/atlas-browser-smoke.mjs) and [GitHub Actions](.github/workflows/browser-smoke.yml) cover concept search, graph filtering and source discovery.
 - [Iteration report](docs/ITERATION_2026-11-02_EXPANSION.md) and [current domain coverage](docs/KNOWLEDGE_GRAPH_COVERAGE.md) describe completed work and open gaps.
+
+## Source-focused depth · Iteration 5
+
+- **[Subdomain evidence coverage](atlas/coverage.html)** distinguishes 40 subdomains with direct graph evidence, 39 with related child-concept evidence only, and 71 still without source-linked relations; this is an editorial research metric, not a measure of Steiner's complete works.
+- **[Original lecture chronology](atlas/timeline.html)** navigates dated talks separately from undated authored pages. It does not invent book publication dates or assert a complete historical development.
+- **[Five source-linked research dossiers](atlas/dossiers.html)** connect difficult topics across books and lectures: human constitution, karma and biography, freedom and initiation, worldviews, and Goethean science/architecture. These are original analytical guides rather than copied primary texts.
+- [Full 150-subdomain coverage inventory](docs/SUBDOMAIN_EVIDENCE_COVERAGE.md) with a reproducible generator and CI check.
+- [Current development record](docs/ITERATION_2026-11-02_DEEPENING.md) covers additional exact passage references, honest gaps, QA and next steps.
+
+The **original archives remain the only reading destinations for full texts**. No complete lecture/book content is hosted by this project. There is no public website deployment yet.
