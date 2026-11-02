@@ -2,9 +2,10 @@
 
 Generated from local, original Atlas records; no external documents accessed.
 
-- **191 passage-qualified relationships**; **46 original source pages**.
-- **90 direct cross-domain graph connections**.
+- **202 passage-qualified relationships**; **52 original source pages**.
+- **100 direct cross-domain graph connections**.
 - **4 of 30 initial crosslinks** directly matched; **23** still have no matching exact-endpoint source evidence.
+- Source pages include alternate views of shared lecture events (GA313 IX / GA315 VII); page counts are not independent-event counts.
 - Source verification means **selected passages were checked**, not that full books were reviewed.
 
 ## Related nodes by domain
@@ -19,17 +20,17 @@ Generated from local, original Atlas records; no external documents accessed.
 | 06 | Cosmic Genesis, Earth Evolution, and the Future | 19 |
 | 07 | Nature Kingdoms, Elemental Beings, and the Living Earth | 22 |
 | 08 | Karma, Reincarnation, Death, and Spiritual Destiny | 20 |
-| 09 | Human Constitution: Body, Soul, and Spirit | 31 |
+| 09 | Human Constitution: Body, Soul, and Spirit | 36 |
 | 10 | Soul Life, Consciousness, Senses, and Psychology | 12 |
-| 11 | Life Course, Human Relations, and Embodied Biography | 9 |
-| 12 | Human Evolution and the Future of Consciousness | 4 |
+| 11 | Life Course, Human Relations, and Embodied Biography | 10 |
+| 12 | Human Evolution and the Future of Consciousness | 6 |
 | 13 | Christology, Jesus, and the Mystery of Golgotha | 6 |
 | 14 | Religions, Ancient Mysteries, Scriptures, and Mythology | 4 |
 | 15 | Human History, Cultural Epochs, Peoples, and Civilizations | 4 |
 | 16 | Michael, Lucifer, Ahriman, and Spiritual Opposition | 4 |
 | 17 | Natural Sciences, Mathematics, Astronomy, and Technology | 6 |
-| 18 | Medicine, Therapeutics, Health, and Remedial Care | 14 |
-| 19 | Education, Waldorf Pedagogy, and Child Development | 11 |
+| 18 | Medicine, Therapeutics, Health, and Remedial Care | 25 |
+| 19 | Education, Waldorf Pedagogy, and Child Development | 13 |
 | 20 | Agriculture, Food, Nutrition, and Ecological Life | 9 |
 | 21 | Social Threefolding, Economics, Law, and Political Life | 7 |
 | 22 | Arts, Aesthetics, Color, Music, and Literature | 8 |
@@ -88,6 +89,12 @@ Generated from local, original Atlas records; no external documents accessed.
 | [SG-GA313-19210415](https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html) | GA 313 — Spiritual-Scientific Perspectives on Therapy | 1 |
 | [SG-GA313-19210416](https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html) | GA 313 — Spiritual-Scientific Perspectives on Therapy | 2 |
 | [SG-GA317-19240630](https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html) | GA 317 — Remedial Education Course | 2 |
+| [SG-GA313-19210417](https://rsarchive.org/Lectures/GA313/English/SOL/19210417.html) | GA 313 — Spiritual-Scientific Perspectives on Therapy | 2 |
+| [SG-GA313-19210418A](https://rsarchive.org/Lectures/GA313/English/SOL/19210418a.html) | GA 313 — Spiritual-Scientific Perspectives on Therapy | 2 |
+| [SG-GA313-19210418P](https://rsarchive.org/Lectures/GA313/English/SOL/19210418p.html) | GA 313 — Spiritual-Scientific Perspectives on Therapy | 3 |
+| [SG-GA315-19210418](https://rsarchive.org/Lectures/GA315/English/SOL/19210418.html) | GA 315 — Therapeutic Eurythmy | 1 |
+| [SG-GA317-19240701](https://rsarchive.org/Lectures/GA317/English/SOL/19240701.html) | GA 317 — Remedial Education Course | 2 |
+| [SG-GA317-19240702](https://rsarchive.org/Lectures/GA317/English/SOL/19240702.html) | GA 317 — Remedial Education Course | 2 |
 
 ## Audit boundaries
 

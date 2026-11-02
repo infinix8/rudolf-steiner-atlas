@@ -925,7 +925,7 @@
     {
       "id": "SG-GA313-19210417",
       "ga": "313",
-      "work": "Perspectives on Therapeutic Eurythmy",
+      "work": "Spiritual-Scientific Perspectives on Therapy",
       "unit": "Lecture VII",
       "kind": "recorded_lecture",
       "edition": "SOL English; selective German comparison",
@@ -944,7 +944,7 @@
     {
       "id": "SG-GA313-19210418A",
       "ga": "313",
-      "work": "Perspectives on Therapeutic Eurythmy",
+      "work": "Spiritual-Scientific Perspectives on Therapy",
       "unit": "Lecture VIII (morning)",
       "kind": "recorded_lecture",
       "edition": "SOL English; selective German comparison",
@@ -963,7 +963,7 @@
     {
       "id": "SG-GA313-19210418P",
       "ga": "313",
-      "work": "Perspectives on Therapeutic Eurythmy",
+      "work": "Spiritual-Scientific Perspectives on Therapy",
       "unit": "Lecture IX (afternoon)",
       "kind": "recorded_lecture",
       "edition": "SOL English; selective German comparison",
@@ -999,6 +999,44 @@
         "full_translation_collation": false
       },
       "event_id": "EV-19210418-DORNACH-MEDICAL-EURYTHMY"
+    },
+    {
+      "id": "SG-GA317-19240701",
+      "ga": "317",
+      "work": "Remedial Education Course",
+      "unit": "Lecture VI",
+      "kind": "recorded_lecture",
+      "edition": "SOL English; selective German comparison",
+      "lecture_date": "1924-07-01",
+      "url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240701.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Selected graph claims within complete 25-section English read; no full work/bilingual audit.",
+        "checked_on": "2026-11-02",
+        "entire_work_reviewed": false,
+        "archive_page_opened_on": "2026-11-02",
+        "archive_url_checked": true,
+        "full_translation_collation": false
+      }
+    },
+    {
+      "id": "SG-GA317-19240702",
+      "ga": "317",
+      "work": "Remedial Education Course",
+      "unit": "Lecture VII",
+      "kind": "recorded_lecture",
+      "edition": "SOL English; selective German comparison",
+      "lecture_date": "1924-07-02",
+      "url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240702.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Selected graph claims within complete 27-section English read; no full work/bilingual audit.",
+        "checked_on": "2026-11-02",
+        "entire_work_reviewed": false,
+        "archive_page_opened_on": "2026-11-02",
+        "archive_url_checked": true,
+        "full_translation_collation": false
+      }
     }
   ],
   "edges": [
@@ -4394,6 +4432,74 @@
       ],
       "claim": "Eurythmy connected to rhythm and organ imagery; individual breathing observation emphasized.",
       "relation_family": "method_and_application"
+    },
+    {
+      "id": "KG-199",
+      "from": "RS-18.02",
+      "to": "RS-09.02.05",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA317-19240701",
+          "passage_locator": "§§3,11–12"
+        }
+      ],
+      "claim": "Jaw/limb membership, tooth replacement and head movement interpreted within threefold development.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-200",
+      "from": "RS-18.02",
+      "to": "RS-18.06",
+      "type": "used_in_pedagogical_account",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA317-19240701",
+          "passage_locator": "§22"
+        }
+      ],
+      "claim": "Pituitary and arsenic proposals linked to head/limb and astral integration; historical unvalidated therapies.",
+      "relation_family": "method_and_application"
+    },
+    {
+      "id": "KG-201",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA317-19240702",
+          "passage_locator": "§§11–14,23"
+        }
+      ],
+      "claim": "Case seizures and paralysis attributed to astral organ-wall obstruction and lateral shift; false mechanisms, not clinical findings.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-202",
+      "from": "RS-18.06",
+      "to": "RS-19.06.04",
+      "type": "used_in_pedagogical_account",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA317-19240702",
+          "passage_locator": "§§9–10,22,27"
+        }
+      ],
+      "claim": "Speech, bodily sensing, materials and narrative tempo proposed as case-specific educational methods.",
+      "relation_family": "method_and_application"
     }
   ],
   "version": "1.1",
@@ -4429,5 +4535,10 @@
     "lecture_events": 3,
     "source_alias_registry": "research/organ-source-event-aliases-v14.json",
     "edges_added": 7
+  },
+  "organ_concordance_phase15": {
+    "source_views": 2,
+    "section_reviews": 52,
+    "edges_added": 4
   }
 }

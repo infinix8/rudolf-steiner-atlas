@@ -1,6 +1,6 @@
 # ChatGPT Work task: Rudolf Steiner Organ Evolution — complete source-linked concordance
 
-**Latest continuation checkpoint (2 November 2026):** [Resume after phases 12–13](ORGAN_CONCORDANCE_RESUME.md). GA317 III–IV and GA313 IV–VI / GA317 V now have complete English section reviews. Current corrected categories: 16 complete English, 1 thematic, 4 selected-only, 40 unread. Historical baseline and original execution instructions below are preserved; use the current ledger and resume file for the next session.
+**Latest continuation checkpoint (2 November 2026):** [Resume after phases 14–15](ORGAN_CONCORDANCE_RESUME.md). GA313 I–IX and GA317 I–VII have complete English source-view reviews. Current categories: 22 English-complete source views, 1 thematic, 3 selected-only, 35 unread; 546 source-view sections. GA313 IX/GA315 VII are one event. Historical instructions/statistics below remain preserved. Start next at GA317 VIII, 3 July 1924, §1.
 
 **Task status:** Ready for a long-running ChatGPT Work handoff. This file is an executable research brief, not an assertion that a Work run has started.
 

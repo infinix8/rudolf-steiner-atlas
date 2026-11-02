@@ -1,3 +1,11 @@
+# 2026-11-02 — Phase 15: GA317 VI–VII and cumulative edition 15
+
+- Completed 52 English section reviews and 34 selected claims: 21 provisionally unpaired, 13 prior-record comparisons. Seven selective German check entries; pituitary direction and Balkenstich translation issues retained.
+- Added pituitary dossier (25 cumulative), four main graph edges (202 total) and two source views (52 total). Distinguish reported cases from causal conjectures and outcome anecdotes.
+- Current coverage: 22 complete English views + 1 thematic + 3 selected-only + 35 unread; 546 source-view sections including confirmed alias.
+- Cumulative v15 preserves all 208,186 v13 Markdown bytes, including 185,831 v11 bytes; provenance hashes validate both nested bodies. Prior manuscripts remain unchanged.
+- Resume precisely at GA317 VIII, 3 July 1924, §1; no full bilingual/exhaustive second-review audit certified.
+
 # 2026-11-02 — Phase 14: complete GA313 English sequence; reconcile GA315 alias
 
 - Reviewed 99 source-view sections: GA313 VII–IX and GA315 VII, representing three events.

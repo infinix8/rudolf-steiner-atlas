@@ -30,6 +30,7 @@ lines = [
     f"- **{cross} direct cross-domain graph connections**.",
     f"- **{legacy['counts']['exact']} of 30 initial crosslinks** directly matched; "
     f"**{legacy['counts']['not_evidenced']}** still have no matching exact-endpoint source evidence.",
+    "- Source pages include alternate views of shared lecture events (GA313 IX / GA315 VII); page counts are not independent-event counts.",
     "- Source verification means **selected passages were checked**, not that full books were reviewed.",
     "",
     "## Related nodes by domain", "",
@@ -58,3 +59,4 @@ elif len(sys.argv)>1 and sys.argv[1]=="--write":
     print("Wrote coverage report.")
 else:
     print(result)
+

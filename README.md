@@ -116,3 +116,9 @@ Current coverage: 16 complete English numbered-section lecture reviews, 1 additi
 [Findings](docs/ORGAN_CONCORDANCE_PHASE14_FINDINGS.md) · [Coverage](research/organ-corpus-ledger-ga313-317-v14.json) · [24 dossiers](research/organ-comparative-dossiers-v14.json) · [Confirmed lecture alias](research/organ-source-event-aliases-v14.json).
 
 20 complete English catalogue source views, 1 thematic, 3 selected-only, 37 unread. GA313 IX and GA315 VII share one event; 494 source-view sections is not distinct-text coverage. Historical counts above retain their checkpoint meaning.
+
+## Current phase 15 checkpoint
+
+[Cumulative manuscript v15](docs/Steiner_Organ_Evolution_Research_Atlas_v15.md) · [Word edition](docs/Steiner_Organ_Evolution_Research_Atlas_v15.docx) · [Phase 15 findings](docs/ORGAN_CONCORDANCE_PHASE15_FINDINGS.md) · [Current coverage](research/organ-corpus-ledger-ga313-317-v15.json) · [25 dossiers](research/organ-comparative-dossiers-v15.json) · [Resume](docs/ORGAN_CONCORDANCE_RESUME.md).
+
+22 complete English catalogue source views, 1 thematic, 3 selected-only, 35 unread. The 546 completed source-view sections include the GA315 VII alias. Phases 14–15 add 151 section reads and 79 selected propositions across five events; globally unique teaching count remains unknown. Full German/exhaustive second-review certification remains zero. Earlier checkpoint counts above are historical.

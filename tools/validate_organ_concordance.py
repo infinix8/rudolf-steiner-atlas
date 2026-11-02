@@ -54,13 +54,16 @@ for d in new['dossiers']:
  for key,value in d.items():
   if key.startswith('phase') and key.endswith('_refinements') and int(key[5:].split('_')[0])>=12:
    for r in value: assert r['claim_ref_id'] in claims,r
-provenance=ROOT/'research/organ-manuscript-provenance-v13.json'
-if provenance.exists():
+for provenance in (ROOT/'research').glob('organ-manuscript-provenance-v*.json'):
  meta=json.loads(provenance.read_text());body=(ROOT/meta['cumulative_path']).read_bytes()
  preserved=body[meta['preserved_start_byte']:meta['preserved_end_byte_exclusive']]
- assert len(preserved)==meta['source_bytes']==185831
+ assert len(preserved)==meta['source_bytes']
  assert hashlib.sha256(preserved).hexdigest()==meta['source_sha256']
  assert hashlib.sha256(body).hexdigest()==meta['cumulative_sha256']
+ if 'nested_v11' in meta:
+  inner=meta['nested_v11'];v11=body[inner['preserved_start_byte']:inner['preserved_end_byte_exclusive']]
+  assert len(v11)==inner['source_bytes']==185831
+  assert hashlib.sha256(v11).hexdigest()==inner['source_sha256']
 for e in ledger['entries']:
  if e['audit_status']=='all_numbered_english_paragraphs_reviewed' and e.get('audit_record'):
   # Prior audit files are canonical GitHub dependencies; validate locally when loaded.
@@ -76,3 +79,9 @@ if alias_path.exists():
   assert set(s for r in rows for s in r['ga313_ix_sections'])==set(range(1,25))
   assert len(event['catalogue_entries'])==len(set(event['catalogue_entries']))
 print(json.dumps({'version':version,'catalogue':61,'statuses':dict(counts),'completed_English_source_view_sections':ledger['numbered_english_paragraphs_checked'],'dossiers':len(byid),'structural_checks':'passed'}))
+
+evidence=ROOT/f'research/organ-evidence-graph-v{version}.json'
+if evidence.exists():
+ graph=json.loads(evidence.read_text());nodes={n['id'] for n in graph['nodes']}
+ assert len(nodes)==len(graph['nodes'])
+ assert all(e['source'] in nodes and e['target'] in nodes for e in graph['edges'])

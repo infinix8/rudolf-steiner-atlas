@@ -1,0 +1,95 @@
+{
+  "schema_version": "1.0",
+  "as_of": "2026-11-02",
+  "scope": "7 selective check entries, no full German or shorthand audit.",
+  "checks": [
+    {
+      "id": "GER-V15-01",
+      "lecture": "GA317 VI",
+      "passage_cue": "§5",
+      "terms": [
+        "Substanz",
+        "nicht den Kräften"
+      ],
+      "finding": "Frontal/posterior contrast explicitly concerns substance, not forces.",
+      "source_url": "https://rsarchive.org/Lectures/GA317/Compare_06.php",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V15-02",
+      "lecture": "GA317 VI",
+      "passage_cue": "§§7–8",
+      "terms": [
+        "Kohlensäure"
+      ],
+      "finding": "Carbon dioxide terminology confirmed; alleged production and growth mechanism unvalidated.",
+      "source_url": "https://rsarchive.org/Lectures/GA317/Compare_06.php",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V15-03",
+      "lecture": "GA317 VI",
+      "passage_cue": "§22",
+      "terms": [
+        "Sekret der Hypophyse",
+        "entgegenkommt"
+      ],
+      "finding": "Pituitary secretion and harmonizing head/limb flow confirmed. SOL counteracting may reverse supporting/meeting nuance.",
+      "source_url": "https://rsarchive.org/Lectures/GA317/Compare_06.php",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V15-04",
+      "lecture": "GA317 VII",
+      "passage_cue": "§§3–4",
+      "terms": [
+        "Modelleib",
+        "Ich-Organisation"
+      ],
+      "finding": "Model body and I organization distinguished; SOL weak sense of self can psychologize an esoteric term.",
+      "source_url": "https://rsarchive.org/Lectures/GA317/Compare_07.php",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V15-05",
+      "lecture": "GA317 VII",
+      "passage_cue": "§8",
+      "terms": [
+        "Abbau",
+        "Darminhalt"
+      ],
+      "finding": "Breakdown and intestinal contents/brain mirror language confirmed.",
+      "source_url": "https://rsarchive.org/Lectures/GA317/Compare_07.php",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V15-06",
+      "lecture": "GA317 VII",
+      "passage_cue": "§16",
+      "terms": [
+        "Balkenstich"
+      ],
+      "finding": "SOL balancer injection does not transparently represent German term; retain term and seek independent edition/technical check.",
+      "source_url": "https://rsarchive.org/Lectures/GA317/Compare_07.php",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V15-07",
+      "lecture": "GA317 VII",
+      "passage_cue": "§21",
+      "terms": [
+        "Rückweg",
+        "Darmorganisation"
+      ],
+      "finding": "Sleep return and bowel integration account confirmed; timing not generalized beyond case.",
+      "source_url": "https://rsarchive.org/Lectures/GA317/Compare_07.php",
+      "status": "German_spot_checked"
+    }
+  ],
+  "unresolved": [
+    "Pituitary counteracting/supporting rendering needs edition comparison.",
+    "Balkenstich procedure should not be indexed as verified injection from SOL.",
+    "No measured carbon dioxide, pathology or independent outcome verification accompanies these historical case interpretations.",
+    "Earlier sleep and diarrhea tensions remain unresolved."
+  ]
+}

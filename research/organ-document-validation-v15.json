@@ -1,0 +1,10 @@
+{
+  "schema_version": "1.0",
+  "document": "docs/Steiner_Organ_Evolution_Research_Atlas_v15.docx",
+  "sha256": "c3103cae93a8c7f4b75b0b4324ced34ed24a1c2d9d9663a92953df02babe13c2",
+  "pages": 59,
+  "visual_review": "All 59 page PNGs inspected at native rendered resolution in 15 contact sheets; no clipping, overlaps, missing glyphs or broken tables observed.",
+  "out_of_page_text": [],
+  "structural_validation": "Ledger arithmetic, claim locators, prior-ID references, alias crosswalk, dossier preservation, graph endpoints and nested v13/v11 byte hashes passed.",
+  "source_preservation": "research/organ-manuscript-provenance-v15.json"
+}

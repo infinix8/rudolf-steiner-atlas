@@ -1,0 +1,17 @@
+{
+  "schema_version": "1.1",
+  "source_filename": "Steiner_Organ_Evolution_Research_Atlas_v13.md",
+  "source_bytes": 208186,
+  "source_sha256": "0d2366ef5e0bff5244ed4313f3990a773a1dfb3da5257a9fc49bd71e175bcdb6",
+  "preserved_start_byte": 2455,
+  "preserved_end_byte_exclusive": 210641,
+  "cumulative_path": "docs/Steiner_Organ_Evolution_Research_Atlas_v15.md",
+  "cumulative_sha256": "35ad6cd2c45f39c2c7b164c0db7c0a07d9602d56584a42f1546847f80e8f81cd",
+  "nested_v11": {
+    "source_bytes": 185831,
+    "source_sha256": "b8e01cb2db0660c3795ca05116bbd897bb23ca59b48a0bef13cee694afacefe4",
+    "preserved_start_byte": 4969,
+    "preserved_end_byte_exclusive": 190800
+  },
+  "preservation": "Exact complete v13 Markdown bytes preserved, including exact v11 body and all previous chapters/citations. New current-state layer and appendices supplement historical checkpoints."
+}

@@ -1,0 +1,1071 @@
+{
+  "schema_version": "1.1",
+  "as_of": "2026-11-02",
+  "scope": "34 selected propositions; neither exhaustive nor independent clinical verification.",
+  "records": [
+    {
+      "id": "ORG-CLAIM-V15-001",
+      "catalogue_entry_id": "GA317-06",
+      "ga": 317,
+      "date": "1924-07-01",
+      "lecture": "VI",
+      "section": 3,
+      "passage_cue": "English numbered §3",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240701.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "jaw",
+        "limbs"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual rank or exclusive builder in this proposition.",
+      "predicate": "jaw_limb_membership",
+      "temporal_framework": "development",
+      "paraphrase": "Steiner: Jaw classified within limb organization integrated into head.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks logged separately; no full collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "New candidates are unpaired against inspected registers, not certified global discoveries."
+      },
+      "caveats": [
+        "Historical attribution, not established medical mechanism."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V15-002",
+      "catalogue_entry_id": "GA317-06",
+      "ga": 317,
+      "date": "1924-07-01",
+      "lecture": "VI",
+      "section": 4,
+      "passage_cue": "English numbered §4",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240701.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "brain"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual rank or exclusive builder in this proposition.",
+      "predicate": "frontal_occipital_will",
+      "temporal_framework": "present_function",
+      "paraphrase": "Steiner: Frontal intellect and posterior will related to head shape.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks logged separately; no full collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "New candidates are unpaired against inspected registers, not certified global discoveries."
+      },
+      "caveats": [
+        "Historical attribution, not established medical mechanism.",
+        "Unsupported phrenological inference."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V15-003",
+      "catalogue_entry_id": "GA317-06",
+      "ga": 317,
+      "date": "1924-07-01",
+      "lecture": "VI",
+      "section": 5,
+      "passage_cue": "English numbered §5",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240701.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "brain"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual rank or exclusive builder in this proposition.",
+      "predicate": "front_back_substance_origin",
+      "temporal_framework": "present_substance_supply",
+      "paraphrase": "Steiner: Frontal head substance assigned to nutrition, posterior to respiration/senses and cosmos.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks logged separately; no full collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "New candidates are unpaired against inspected registers, not certified global discoveries."
+      },
+      "caveats": [
+        "Historical attribution, not established medical mechanism.",
+        "Explicitly substance rather than force; not a standard anatomical account."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V15-004",
+      "catalogue_entry_id": "GA317-06",
+      "ga": 317,
+      "date": "1924-07-01",
+      "lecture": "VI",
+      "section": 6,
+      "passage_cue": "English numbered §6",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240701.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "head"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual rank or exclusive builder in this proposition.",
+      "predicate": "mechanical_injury_karma",
+      "temporal_framework": "birth_and_karma",
+      "paraphrase": "Steiner: Possible mechanical birth/embryonic injury assigned karmic rather than hereditary origin.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks logged separately; no full collation.",
+      "reconciliation": {
+        "decision": "different_context",
+        "prior_claim_ids": [
+          "ORG-CLAIM-V11-022"
+        ],
+        "scope": "New candidates are unpaired against inspected registers, not certified global discoveries."
+      },
+      "caveats": [
+        "Historical attribution, not established medical mechanism.",
+        "Injury is conjectured; karmic causation unsupported and stigmatizing."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V15-005",
+      "catalogue_entry_id": "GA317-06",
+      "ga": 317,
+      "date": "1924-07-01",
+      "lecture": "VI",
+      "section": 7,
+      "passage_cue": "English numbered §7",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240701.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "lungs"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual rank or exclusive builder in this proposition.",
+      "predicate": "inhalation_carbon_dioxide",
+      "temporal_framework": "present_function",
+      "paraphrase": "Steiner: Excess inhalation alleged to reduce internal carbon-dioxide production.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks logged separately; no full collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "New candidates are unpaired against inspected registers, not certified global discoveries."
+      },
+      "caveats": [
+        "Historical attribution, not established medical mechanism.",
+        "Unvalidated mechanism; distinguish production from ventilation/removal."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V15-006",
+      "catalogue_entry_id": "GA317-06",
+      "ga": 317,
+      "date": "1924-07-01",
+      "lecture": "VI",
+      "section": 8,
+      "passage_cue": "English numbered §8",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240701.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "limbs"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual rank or exclusive builder in this proposition.",
+      "predicate": "carbon_dioxide_limb_growth",
+      "temporal_framework": "development",
+      "paraphrase": "Steiner: Low carbon dioxide alleged to produce limb overdevelopment.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks logged separately; no full collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "New candidates are unpaired against inspected registers, not certified global discoveries."
+      },
+      "caveats": [
+        "Historical attribution, not established medical mechanism.",
+        "No measurement or validated growth mechanism supplied."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V15-007",
+      "catalogue_entry_id": "GA317-06",
+      "ga": 317,
+      "date": "1924-07-01",
+      "lecture": "VI",
+      "section": 11,
+      "passage_cue": "English numbered §11",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240701.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "teeth"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual rank or exclusive builder in this proposition.",
+      "predicate": "tooth_change_system_coordination",
+      "temporal_framework": "childhood",
+      "paraphrase": "Steiner: Tooth replacement requires coordinated nerve-sense and metabolic-limb systems.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks logged separately; no full collation.",
+      "reconciliation": {
+        "decision": "different_context",
+        "prior_claim_ids": [
+          "ORG-CLAIM-V13-017"
+        ],
+        "scope": "New candidates are unpaired against inspected registers, not certified global discoveries."
+      },
+      "caveats": [
+        "Historical attribution, not established medical mechanism.",
+        "Whole-person tooth account; no independent proof of cause."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V15-008",
+      "catalogue_entry_id": "GA317-06",
+      "ga": 317,
+      "date": "1924-07-01",
+      "lecture": "VI",
+      "section": 12,
+      "passage_cue": "English numbered §12",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240701.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "head",
+        "limbs"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual rank or exclusive builder in this proposition.",
+      "predicate": "limb_movement_head_formation",
+      "temporal_framework": "early_childhood",
+      "paraphrase": "Steiner: Early guided limb movement alleged to reshape head through reflected forces.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks logged separately; no full collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "New candidates are unpaired against inspected registers, not certified global discoveries."
+      },
+      "caveats": [
+        "Historical attribution, not established medical mechanism.",
+        "Counterfactual treatment claim, not observed evidence for this child."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V15-009",
+      "catalogue_entry_id": "GA317-06",
+      "ga": 317,
+      "date": "1924-07-01",
+      "lecture": "VI",
+      "section": 13,
+      "passage_cue": "English numbered §13",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240701.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "brain"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual rank or exclusive builder in this proposition.",
+      "predicate": "hydrocephalus_movement_anecdote",
+      "temporal_framework": "childhood_retrospect",
+      "paraphrase": "Steiner: Claims movement regimen resolved a former pupil's hydrocephalus.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks logged separately; no full collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "New candidates are unpaired against inspected registers, not certified global discoveries."
+      },
+      "caveats": [
+        "Historical attribution, not established medical mechanism.",
+        "Retrospective uncontrolled anecdote; no verified efficacy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V15-010",
+      "catalogue_entry_id": "GA317-06",
+      "ga": 317,
+      "date": "1924-07-01",
+      "lecture": "VI",
+      "section": 15,
+      "passage_cue": "English numbered §15",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240701.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "whole organism"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual rank or exclusive builder in this proposition.",
+      "predicate": "waking_entry_hardening",
+      "temporal_framework": "sleep_wake",
+      "paraphrase": "Steiner: Hardened constitution alleged to impede astral/I entry on waking.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks logged separately; no full collation.",
+      "reconciliation": {
+        "decision": "different_context",
+        "prior_claim_ids": [
+          "ORG-CLAIM-V12-009",
+          "ORG-CLAIM-V13-002"
+        ],
+        "scope": "New candidates are unpaired against inspected registers, not certified global discoveries."
+      },
+      "caveats": [
+        "Historical attribution, not established medical mechanism.",
+        "A different explanatory context, not a resolution of the older sleep tension."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V15-011",
+      "catalogue_entry_id": "GA317-06",
+      "ga": 317,
+      "date": "1924-07-01",
+      "lecture": "VI",
+      "section": 15,
+      "passage_cue": "English numbered §15",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240701.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "bones",
+        "muscles"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual rank or exclusive builder in this proposition.",
+      "predicate": "intellectual_bones_religious_muscles",
+      "temporal_framework": "present_function",
+      "paraphrase": "Steiner: Intellectual age linked to skeletal action; religious examples to muscle integration.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks logged separately; no full collation.",
+      "reconciliation": {
+        "decision": "different_context",
+        "prior_claim_ids": [
+          "ORG-CLAIM-V13-024"
+        ],
+        "scope": "New candidates are unpaired against inspected registers, not certified global discoveries."
+      },
+      "caveats": [
+        "Historical attribution, not established medical mechanism.",
+        "Historical cultural/physiological assertion, not established motor science."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V15-012",
+      "catalogue_entry_id": "GA317-06",
+      "ga": 317,
+      "date": "1924-07-01",
+      "lecture": "VI",
+      "section": 16,
+      "passage_cue": "English numbered §16",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240701.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "brain"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual rank or exclusive builder in this proposition.",
+      "predicate": "world_ether_thought_application",
+      "temporal_framework": "cognition",
+      "paraphrase": "Steiner: Thoughts treated as correct world-ether reflections, errors as timing/application.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks logged separately; no full collation.",
+      "reconciliation": {
+        "decision": "overlap",
+        "prior_claim_ids": [
+          "ORG-CLAIM-V11-014",
+          "ORG-CLAIM-V11-018"
+        ],
+        "scope": "New candidates are unpaired against inspected registers, not certified global discoveries."
+      },
+      "caveats": [
+        "Historical attribution, not established medical mechanism.",
+        "Metaphysical account does not validate a child's diagnosis."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V15-013",
+      "catalogue_entry_id": "GA317-06",
+      "ga": 317,
+      "date": "1924-07-01",
+      "lecture": "VI",
+      "section": 20,
+      "passage_cue": "English numbered §20",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240701.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "tongue",
+        "lungs",
+        "limbs"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual rank or exclusive builder in this proposition.",
+      "predicate": "sound_expiration_sequence",
+      "temporal_framework": "eurythmy",
+      "paraphrase": "Steiner: RLMN sequence justified through movement, immersion, expiration and intellect.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks logged separately; no full collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "New candidates are unpaired against inspected registers, not certified global discoveries."
+      },
+      "caveats": [
+        "Historical attribution, not established medical mechanism.",
+        "Historical case prescription, not practical treatment guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V15-014",
+      "catalogue_entry_id": "GA317-06",
+      "ga": 317,
+      "date": "1924-07-01",
+      "lecture": "VI",
+      "section": 22,
+      "passage_cue": "English numbered §22",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240701.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "nerves"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual rank or exclusive builder in this proposition.",
+      "predicate": "treatment_routes_threefold",
+      "temporal_framework": "therapeutic_schema",
+      "paraphrase": "Steiner: Oral, injection and bathing routes mapped to metabolic, rhythmic and nervous systems.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks logged separately; no full collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "New candidates are unpaired against inspected registers, not certified global discoveries."
+      },
+      "caveats": [
+        "Historical attribution, not established medical mechanism.",
+        "Overgeneralized, unvalidated route-to-system schema."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V15-015",
+      "catalogue_entry_id": "GA317-06",
+      "ga": 317,
+      "date": "1924-07-01",
+      "lecture": "VI",
+      "section": 22,
+      "passage_cue": "English numbered §22",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240701.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "nerves"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual rank or exclusive builder in this proposition.",
+      "predicate": "arsenic_astral_entry",
+      "temporal_framework": "therapeutic_proposal",
+      "paraphrase": "Steiner: Arsenic bathing proposed to strengthen astral entry through nervous system.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks logged separately; no full collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "New candidates are unpaired against inspected registers, not certified global discoveries."
+      },
+      "caveats": [
+        "Historical attribution, not established medical mechanism.",
+        "Hazardous historical proposal; no efficacy or safety endorsement."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V15-016",
+      "catalogue_entry_id": "GA317-06",
+      "ga": 317,
+      "date": "1924-07-01",
+      "lecture": "VI",
+      "section": 22,
+      "passage_cue": "English numbered §22",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240701.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "pituitary",
+        "limbs"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual rank or exclusive builder in this proposition.",
+      "predicate": "pituitary_head_limb_harmony",
+      "temporal_framework": "therapeutic_proposal",
+      "paraphrase": "Steiner: Pituitary secretion proposed to support harmony of head-to-limb force flow.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks logged separately; no full collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "New candidates are unpaired against inspected registers, not certified global discoveries."
+      },
+      "caveats": [
+        "Historical attribution, not established medical mechanism.",
+        "German suggests meeting/supporting flow, while SOL says counteracting; not established endocrine mechanism."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V15-017",
+      "catalogue_entry_id": "GA317-07",
+      "ga": 317,
+      "date": "1924-07-02",
+      "lecture": "VII",
+      "section": 1,
+      "passage_cue": "English numbered §1",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240702.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "whole organism"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual rank or exclusive builder in this proposition.",
+      "predicate": "astral_fragment_elemental_being",
+      "temporal_framework": "present_function",
+      "paraphrase": "Steiner: Imaginary companion interpreted as astral fragment animated by elemental being.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks logged separately; no full collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "New candidates are unpaired against inspected registers, not certified global discoveries."
+      },
+      "caveats": [
+        "Historical attribution, not established medical mechanism.",
+        "Generic elemental being is not a named spiritual hierarchy or organ builder. Unsupported pathologizing inference."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V15-018",
+      "catalogue_entry_id": "GA317-07",
+      "ga": 317,
+      "date": "1924-07-02",
+      "lecture": "VII",
+      "section": 3,
+      "passage_cue": "English numbered §3",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240702.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "teeth",
+        "whole organism"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual rank or exclusive builder in this proposition.",
+      "predicate": "inherited_model_etheric_rebuilding",
+      "temporal_framework": "first_seven_years",
+      "paraphrase": "Steiner: Inherited model contrasted with etheric rebuilding and tooth-change transition.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks logged separately; no full collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "New candidates are unpaired against inspected registers, not certified global discoveries."
+      },
+      "caveats": [
+        "Historical attribution, not established medical mechanism.",
+        "Selected earlier registers not a complete novelty search."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V15-019",
+      "catalogue_entry_id": "GA317-07",
+      "ga": 317,
+      "date": "1924-07-02",
+      "lecture": "VII",
+      "section": 4,
+      "passage_cue": "English numbered §4",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240702.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "whole organism"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual rank or exclusive builder in this proposition.",
+      "predicate": "maternal_theater_astral_development",
+      "temporal_framework": "embryonic",
+      "paraphrase": "Steiner: Maternal theater activity alleged to produce embryonic intellectualization.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks logged separately; no full collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "New candidates are unpaired against inspected registers, not certified global discoveries."
+      },
+      "caveats": [
+        "Historical attribution, not established medical mechanism.",
+        "Unsupported maternal-blame explanation."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V15-020",
+      "catalogue_entry_id": "GA317-07",
+      "ga": 317,
+      "date": "1924-07-02",
+      "lecture": "VII",
+      "section": 7,
+      "passage_cue": "English numbered §7",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240702.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "speech"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual rank or exclusive builder in this proposition.",
+      "predicate": "maternal_movement_r_sound",
+      "temporal_framework": "prenatal_to_childhood",
+      "paraphrase": "Steiner: R pronunciation interpreted as continuation of maternal stage movements.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks logged separately; no full collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "New candidates are unpaired against inspected registers, not certified global discoveries."
+      },
+      "caveats": [
+        "Historical attribution, not established medical mechanism.",
+        "Unsupported causal attribution, not observed prenatal evidence."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V15-021",
+      "catalogue_entry_id": "GA317-07",
+      "ga": 317,
+      "date": "1924-07-02",
+      "lecture": "VII",
+      "section": 8,
+      "passage_cue": "English numbered §8",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240702.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "brain"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual rank or exclusive builder in this proposition.",
+      "predicate": "thought_breakdown_soft_brain",
+      "temporal_framework": "present_function",
+      "paraphrase": "Steiner: Cognition linked to head breakdown; weak astral activity to soft brain.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks logged separately; no full collation.",
+      "reconciliation": {
+        "decision": "different_context",
+        "prior_claim_ids": [
+          "ORG-CLAIM-V11-017"
+        ],
+        "scope": "New candidates are unpaired against inspected registers, not certified global discoveries."
+      },
+      "caveats": [
+        "Historical attribution, not established medical mechanism.",
+        "Speculative/incorrect neurophysiological mechanism; no tissue finding demonstrated."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V15-022",
+      "catalogue_entry_id": "GA317-07",
+      "ga": 317,
+      "date": "1924-07-02",
+      "lecture": "VII",
+      "section": 8,
+      "passage_cue": "English numbered §8",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240702.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "brain",
+        "intestines"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual rank or exclusive builder in this proposition.",
+      "predicate": "intestinal_contents_brain_mirror",
+      "temporal_framework": "organ_analogy",
+      "paraphrase": "Steiner: Intestinal contents treated as brain mirror; bowel regulation alone said insufficient.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks logged separately; no full collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "New candidates are unpaired against inspected registers, not certified global discoveries."
+      },
+      "caveats": [
+        "Historical attribution, not established medical mechanism.",
+        "Specific analogy, not proof of a clinical brain-gut causal law."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V15-023",
+      "catalogue_entry_id": "GA317-07",
+      "ga": 317,
+      "date": "1924-07-02",
+      "lecture": "VII",
+      "section": 9,
+      "passage_cue": "English numbered §9",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240702.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "speech"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual rank or exclusive builder in this proposition.",
+      "predicate": "reversed_speech_member_balance",
+      "temporal_framework": "pedagogy",
+      "paraphrase": "Steiner: Forward/backward speech exercises said to harmonize etheric and astral bodies.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks logged separately; no full collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "New candidates are unpaired against inspected registers, not certified global discoveries."
+      },
+      "caveats": [
+        "Historical attribution, not established medical mechanism."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V15-024",
+      "catalogue_entry_id": "GA317-07",
+      "ga": 317,
+      "date": "1924-07-02",
+      "lecture": "VII",
+      "section": 10,
+      "passage_cue": "English numbered §10",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240702.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "whole organism"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual rank or exclusive builder in this proposition.",
+      "predicate": "bodily_sensing_growth_force",
+      "temporal_framework": "childhood_eurythmy",
+      "paraphrase": "Steiner: Sensing one's physical organization linked to growth forces through vowels.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks logged separately; no full collation.",
+      "reconciliation": {
+        "decision": "different_context",
+        "prior_claim_ids": [
+          "ORG-CLAIM-V14-032"
+        ],
+        "scope": "New candidates are unpaired against inspected registers, not certified global discoveries."
+      },
+      "caveats": [
+        "Historical attribution, not established medical mechanism.",
+        "Case pedagogy, not higher-cognition attainment or creative mastery."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V15-025",
+      "catalogue_entry_id": "GA317-07",
+      "ga": 317,
+      "date": "1924-07-02",
+      "lecture": "VII",
+      "section": 12,
+      "passage_cue": "English numbered §12",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240702.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "whole organism"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual rank or exclusive builder in this proposition.",
+      "predicate": "convulsion_organ_wall_resistance",
+      "temporal_framework": "present_function",
+      "paraphrase": "Steiner: Convulsions interpreted as astral resistance and breakthrough at organ walls.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks logged separately; no full collation.",
+      "reconciliation": {
+        "decision": "overlap",
+        "prior_claim_ids": [
+          "ORG-CLAIM-V12-010",
+          "ORG-CLAIM-V12-025"
+        ],
+        "scope": "New candidates are unpaired against inspected registers, not certified global discoveries."
+      },
+      "caveats": [
+        "Historical attribution, not established medical mechanism.",
+        "False epilepsy mechanism; histories and seizure signs do not establish astral causes."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V15-026",
+      "catalogue_entry_id": "GA317-07",
+      "ga": 317,
+      "date": "1924-07-02",
+      "lecture": "VII",
+      "section": 13,
+      "passage_cue": "English numbered §13",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240702.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "eyes",
+        "limbs"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual rank or exclusive builder in this proposition.",
+      "predicate": "leftward_astral_shift",
+      "temporal_framework": "present_function",
+      "paraphrase": "Steiner: Leftward eyes and paralysis explained by astral retreat to weaker side.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks logged separately; no full collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "New candidates are unpaired against inspected registers, not certified global discoveries."
+      },
+      "caveats": [
+        "Historical attribution, not established medical mechanism.",
+        "Unsupported lateralization theory."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V15-027",
+      "catalogue_entry_id": "GA317-07",
+      "ga": 317,
+      "date": "1924-07-02",
+      "lecture": "VII",
+      "section": 14,
+      "passage_cue": "English numbered §14",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240702.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "limbs"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual rank or exclusive builder in this proposition.",
+      "predicate": "paralysis_poison_infiltration",
+      "temporal_framework": "present_function",
+      "paraphrase": "Steiner: Astral/etheric lateral shift alleged to cause toxic infiltration and paralysis.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks logged separately; no full collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "New candidates are unpaired against inspected registers, not certified global discoveries."
+      },
+      "caveats": [
+        "Historical attribution, not established medical mechanism.",
+        "False/unvalidated paralysis explanation."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V15-028",
+      "catalogue_entry_id": "GA317-07",
+      "ga": 317,
+      "date": "1924-07-02",
+      "lecture": "VII",
+      "section": 17,
+      "passage_cue": "English numbered §17",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240702.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "whole organism"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual rank or exclusive builder in this proposition.",
+      "predicate": "unreported_prematurity_conjecture",
+      "temporal_framework": "prenatal",
+      "paraphrase": "Steiner: Infers premature birth despite reported normal birth and early development.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks logged separately; no full collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "New candidates are unpaired against inspected registers, not certified global discoveries."
+      },
+      "caveats": [
+        "Historical attribution, not established medical mechanism.",
+        "Explicit conjecture contradicts/increases detail beyond supplied history; never store as observed event."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V15-029",
+      "catalogue_entry_id": "GA317-07",
+      "ga": 317,
+      "date": "1924-07-02",
+      "lecture": "VII",
+      "section": 18,
+      "passage_cue": "English numbered §18",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240702.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "stomach",
+        "intestines"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual rank or exclusive builder in this proposition.",
+      "predicate": "digestive_I_integration",
+      "temporal_framework": "development",
+      "paraphrase": "Steiner: Weak digestive I integration linked to head-to-limb flow and incomplete model.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks logged separately; no full collation.",
+      "reconciliation": {
+        "decision": "different_context",
+        "prior_claim_ids": [
+          "ORG-CLAIM-V13-018"
+        ],
+        "scope": "New candidates are unpaired against inspected registers, not certified global discoveries."
+      },
+      "caveats": [
+        "Historical attribution, not established medical mechanism.",
+        "Does not resolve other passages' weak/excess I diarrhea tension."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V15-030",
+      "catalogue_entry_id": "GA317-07",
+      "ga": 317,
+      "date": "1924-07-02",
+      "lecture": "VII",
+      "section": 20,
+      "passage_cue": "English numbered §20",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240702.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "head",
+        "circulation",
+        "intestines"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual rank or exclusive builder in this proposition.",
+      "predicate": "plant_regions_threefold",
+      "temporal_framework": "therapeutic_correspondence",
+      "paraphrase": "Steiner: Roots/head, herb/rhythm and flower-fruit/digestion correspondences stated.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks logged separately; no full collation.",
+      "reconciliation": {
+        "decision": "different_context",
+        "prior_claim_ids": [
+          "ORG-CLAIM-V14-001",
+          "ORG-CLAIM-V13-003"
+        ],
+        "scope": "New candidates are unpaired against inspected registers, not certified global discoveries."
+      },
+      "caveats": [
+        "Historical attribution, not established medical mechanism.",
+        "Polarity schema, not verified organ-selective remedy efficacy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V15-031",
+      "catalogue_entry_id": "GA317-07",
+      "ga": 317,
+      "date": "1924-07-02",
+      "lecture": "VII",
+      "section": 20,
+      "passage_cue": "English numbered §20",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240702.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "digestive tract"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual rank or exclusive builder in this proposition.",
+      "predicate": "free_astral_meat_acid",
+      "temporal_framework": "present_function",
+      "paraphrase": "Steiner: Unintegrated astral activity used to explain meat preference and acid aversion.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks logged separately; no full collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "New candidates are unpaired against inspected registers, not certified global discoveries."
+      },
+      "caveats": [
+        "Historical attribution, not established medical mechanism.",
+        "Unsupported dietary mechanism."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V15-032",
+      "catalogue_entry_id": "GA317-07",
+      "ga": 317,
+      "date": "1924-07-02",
+      "lecture": "VII",
+      "section": 21,
+      "passage_cue": "English numbered §21",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240702.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "intestines"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual rank or exclusive builder in this proposition.",
+      "predicate": "nine_hour_astral_return",
+      "temporal_framework": "sleep_wake",
+      "paraphrase": "Steiner: Seizure timing nine hours after sleep explained by astral return and bowel integration.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks logged separately; no full collation.",
+      "reconciliation": {
+        "decision": "different_context",
+        "prior_claim_ids": [
+          "ORG-CLAIM-V12-009",
+          "ORG-CLAIM-V15-010"
+        ],
+        "scope": "New candidates are unpaired against inspected registers, not certified global discoveries."
+      },
+      "caveats": [
+        "Historical attribution, not established medical mechanism.",
+        "Timing is reported; mechanism inferred. No universal nine-hour sleep law established."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V15-033",
+      "catalogue_entry_id": "GA317-07",
+      "ga": 317,
+      "date": "1924-07-02",
+      "lecture": "VII",
+      "section": 23,
+      "passage_cue": "English numbered §23",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240702.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "whole organism"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual rank or exclusive builder in this proposition.",
+      "predicate": "all_organs_not_one",
+      "temporal_framework": "case_scope",
+      "paraphrase": "Steiner: Says all organs rather than a specific organ impede astral passage in this case.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks logged separately; no full collation.",
+      "reconciliation": {
+        "decision": "different_context",
+        "prior_claim_ids": [
+          "ORG-CLAIM-V12-008",
+          "ORG-CLAIM-V15-025"
+        ],
+        "scope": "New candidates are unpaired against inspected registers, not certified global discoveries."
+      },
+      "caveats": [
+        "Historical attribution, not established medical mechanism.",
+        "Do not assign this case to one named organ; claim minimizing paralysis is unsafe medical reassurance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V15-034",
+      "catalogue_entry_id": "GA317-07",
+      "ga": 317,
+      "date": "1924-07-02",
+      "lecture": "VII",
+      "section": 27,
+      "passage_cue": "English numbered §27",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240702.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "whole organism"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual rank or exclusive builder in this proposition.",
+      "predicate": "narrative_rise_dissolution",
+      "temporal_framework": "pedagogy",
+      "paraphrase": "Steiner: Narrative intensity and humorous dissolution said to adapt astral to physical body.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks logged separately; no full collation.",
+      "reconciliation": {
+        "decision": "different_context",
+        "prior_claim_ids": [
+          "ORG-CLAIM-V12-035"
+        ],
+        "scope": "New candidates are unpaired against inspected registers, not certified global discoveries."
+      },
+      "caveats": [
+        "Historical attribution, not established medical mechanism.",
+        "Distinct child and method; not a generalized disability treatment."
+      ]
+    }
+  ],
+  "new_candidate_count": 21,
+  "globally_unique_new_claim_count": null
+}
