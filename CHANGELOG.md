@@ -1,3 +1,12 @@
+## 2026-11-02 — Organ concordance Phase 6: GA 314/316 and cross-volume history
+
+- Reviewed all 28 numbered English paragraphs in GA 314 Oct. 27 (afternoon) and all 19 in GA 316 Jan. 4; created 47 paragraph-level coverage records, plus nine thematic GA 314 morning anchors (whose English translation is unnumbered).
+- Recorded 24 narrowly scoped, original-source-linked claims, separating bodily-member relations, organ form, counteraction from the head, planetary symbolism and material processes.
+- Updated the 61-entry corpus ledger: **4 English numbered-paragraph reviews complete (88 paragraphs), 1 unnumbered thematic sweep, 56 not reviewed; 0 certified bilingual atomic-claim concordances**.
+- Verified and indexed nine selected GA 110/128/218 statements, including the heart/Leo/Thrones origin, explicitly provisional inner-planet terminology, and Steiner's proposed historical shift from kidney to liver emphasis.
+- Flagged unresolved Stuttgart/Dornach venue metadata for GA 314 and calcium-phosphate formula notation. Indexed false or unsupported clinical claims as historical source content, **not medical advice**.
+- See [phase-6 report](docs/ORGAN_CONCORDANCE_PHASE6_FINDINGS.md), [passage coverage](research/organ-passage-coverage-priority-ga314-ga316-v6.json), [atomic claim index](research/organ-atomic-claims-ga314-ga316-v6.json), [cross-volume records](research/organ-cross-volume-1909-1922-v6.json), and [coverage ledger](research/organ-corpus-ledger-ga313-317-v6.json).
+
 # Changelog
 
 ## 2026-11-02 — Iteration 6: primary passages and concept contexts
