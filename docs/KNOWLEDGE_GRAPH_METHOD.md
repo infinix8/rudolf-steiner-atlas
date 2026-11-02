@@ -4,7 +4,7 @@
 
 ## What the graph contains
 
-The current `research/knowledge-graph-v1.json` contains **66 typed connections** backed by **13 original source pages** (selected book chapters or dated lectures). It links pre-existing, stable taxonomy IDs instead of inventing duplicate concept pages. The graph viewer is at [`atlas/graph.html`](../atlas/graph.html). No full Steiner text is stored.
+The current `research/knowledge-graph-v1.json` contains **116 typed connections** backed by **27 original source pages** (selected book chapters or dated lectures). It links pre-existing, stable taxonomy IDs instead of inventing duplicate concept pages. The graph viewer is at [`atlas/graph.html`](../atlas/graph.html). No full Steiner text is stored.
 
 Each edge records:
 - a stable graph ID, source and target canonical taxonomy IDs;
@@ -22,7 +22,7 @@ Each source record includes GA number, original work title, date if a lecture, e
 
 `editorial_comparison_with_checked_passages` means that the editor has compared two source contexts and identified a distinction. It must **not** be presented as a direct quotation or explicit cross-work comparison made by Steiner.
 
-The separate `research/legacy-crosslink-audit.json` checks the **30 preliminary crosslinks** from taxonomy v1. Exactly **four** have matching passage-supported graph edges in this first iteration. The other **26** remain *unverified hypotheses*. The concept browser now displays original, checked relations separately from the legacy proposal list.
+The separate `research/legacy-crosslink-audit.json` checks the **30 preliminary crosslinks** from taxonomy v1. Exactly **four** have matching passage-supported graph edges; **one** has a narrower descendant-topic source connection that does not establish the entire proposed relationship; **25** remain without a matching passage-level connection. All 26 not directly matched remain provisional. The concept browser now displays original, checked relations separately from the legacy proposal list.
 
 ## Why the relationship types matter
 
@@ -33,7 +33,7 @@ A connection that is a **sequence in Steiner's account** differs from an **analo
 
 The current taxonomy's `RS-09.03` heading is a potential misclassification. An evidence-linked `must_distinguish` relation flags it, pending an ID-preserving correction of the original tree and its Markdown/OPML exports.
 
-## Audited sources in this iteration
+## Initial 13 source records (additional 14 in the current graph)
 
 | GA | Original work / passage | Kind | External source |
 |---|---|---|---|
@@ -63,7 +63,7 @@ We do not mirror or bulk-scrape original texts, or copy archive topic catalogues
 
 ## Next stages
 
-1. Audit original sources **for every one of the 26 legacy relationships still without a matching direct source relation**.
+1. Audit original sources **for all 26 legacy relationships still without exact matching passage-level evidence**; one has only narrower evidence.
 2. Map original sources to each subdomain, not just a GA volume lead.
 3. Mark stronger evidence after checking surrounding context, translation variation and dating.
 4. Construct a graph of differences and evolving terminology across Steiner's earlier books and later lectures, while preserving distinct schemas.
@@ -71,3 +71,16 @@ We do not mirror or bulk-scrape original texts, or copy archive topic catalogues
 6. Run real-browser functional, responsive and accessibility tests before any deployment.
 
 **Quality control:** `python tools/validate_knowledge_graph.py`; GitHub Actions also checks JSON integrity and JavaScript syntax.
+
+## Expanded source coverage (2 November 2026)
+
+The graph now spans **27 original chapter, essay and dated-lecture pages**. The 14 added pages cover the following original GA works: GA 1, 2, 26, 36, 106, 112, 230, 235 (two dated lectures), 275 (two dated lectures), 279, 283, and 321. Exact URLs, translators where recorded, passage cues and source dates are retained in [the structured graph data](../research/knowledge-graph-v1.json), not duplicated here as an alternative bibliographic catalogue.
+
+- There are **116 typed source-linked relationships**, including **51 links between different major domains**.
+- All **26 major domains** now have at least one incident edge; this is *not* passage verification of all 150 subdomains, 785 concept labels or the full GA corpus.
+- The new [Primary-Source Guide](../atlas/sources.html) allows navigating the 27 source pages by GA, work/date/type and related atlas domain.
+- Each reviewed source declares its limited review scope. The graph notes whether the archive page was opened and whether full translation comparison was performed (not yet).
+- An automated cross-export check compares all **974 RS-labelled hierarchy nodes** in JSON, Markdown and OPML.
+- Actual Chromium browser smoke tests exercise the independent static atlas on desktop and mobile, in addition to code/data validations.
+
+The original source websites retain the texts. The Atlas is an independent thematic bridge with no implied archive affiliation.
