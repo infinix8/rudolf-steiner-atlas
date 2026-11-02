@@ -1,0 +1,379 @@
+{
+  "schema_version": "1.0",
+  "as_of": "2026-11-02",
+  "kind": "Original editorial reading guides over primary-source links; no full text reproduced.",
+  "limitations": "All summaries reflect selected English passages. Original German and variants remain to be systematically checked. Spiritual scientific claims are attributed and not independently established.",
+  "dossiers": [
+    {
+      "id": "human-constitution-schemes",
+      "title": "Four, seven, nine — and three different meanings of ‘threefold’",
+      "question": "Why does Steiner describe human nature using different numerical divisions?",
+      "description": "A source-directed guide to distinguishing members, condensations, bodily functions, and the danger of forcing them into one table.",
+      "topic_ids": [
+        "RS-09.01",
+        "RS-09.02",
+        "RS-09.03",
+        "RS-09.06",
+        "RS-18.02",
+        "RS-19.01"
+      ],
+      "sections": [
+        {
+          "heading": "Start with the purpose of the classification",
+          "body": "In Theosophy, Steiner begins by distinguishing body, soul, and spirit, then examines the functions and interrelations of more narrowly defined members. The classificatory purpose matters: some enumerations concern how a human being participates in different worlds, while others concern transformational relations among members.",
+          "evidence": [
+            {
+              "source_id": "SG-GA009-C01",
+              "locator": "[5]-[6], [15]-[16]"
+            }
+          ]
+        },
+        {
+          "heading": "The ninefold presentation and its condensation",
+          "body": "GA 9 lists nine members, then combines the soul-body with the sentient soul, and the consciousness soul with spirit-self, to describe a sevenfold human being. These are not two independently enumerated species of entity; the reduced list reflects specified combinations. The fourfold physical/life/astral/I arrangement is presented as another simplification, while the spiritual transformations are named spirit-self, life-spirit and spirit-man.",
+          "evidence": [
+            {
+              "source_id": "SG-GA009-C01",
+              "locator": "[40]-[42]"
+            }
+          ]
+        },
+        {
+          "heading": "Do not collapse bodily functions into body-members",
+          "body": "The education lectures distinguish the head, chest or trunk, and limbs. In social theory Steiner also uses a comparison with bodily organization. These contexts are distinct from the three-item physical/etheric/astral grouping. A useful atlas should keep separate canonical concepts and model qualified crosslinks rather than treating similar number words as identity.",
+          "evidence": [
+            {
+              "source_id": "SG-GA293-19190905",
+              "locator": "lecture opening; head, trunk/chest and limbs"
+            },
+            {
+              "source_id": "SG-GA023-C02",
+              "locator": "chapter opening; bodily analogy for social threefolding"
+            }
+          ]
+        }
+      ],
+      "connections": [
+        {
+          "edge_id": "KG-007",
+          "note": "Ninefold is condensed to sevenfold through specified unities"
+        },
+        {
+          "edge_id": "KG-041",
+          "note": "The separate bodily schemas should not be treated as equivalent"
+        }
+      ],
+      "research_questions": [
+        "Which original German terms shift across GA 9 translations?",
+        "How do later educational and medical lectures vary the physiological threefold description?",
+        "When does Steiner explicitly distinguish his classifications, rather than merely use similar labels?"
+      ],
+      "cautions": [
+        "Treat spiritual members as Steiner's esoteric claims, not established anatomy.",
+        "The threefold bodily heading has been disambiguated; older written references may retain different terminology."
+      ]
+    },
+    {
+      "id": "karma-memory-biography",
+      "title": "Karma, memory and biography: three different levels of explanation",
+      "question": "How does Steiner move from ordinary memory and actions to his doctrine of repeated lives?",
+      "description": "A reading route through authored philosophical argument and later lecture presentations, without treating reincarnation as experimentally established.",
+      "topic_ids": [
+        "RS-08.01",
+        "RS-08.02",
+        "RS-08.03",
+        "RS-08.06",
+        "RS-10.01.04",
+        "RS-11.04.03"
+      ],
+      "sections": [
+        {
+          "heading": "The argument begins inside a single life",
+          "body": "In Theosophy, Steiner distinguishes transient perceptions from later recollection, and observes that actions change the world beyond the moment of their performance. These are the starting points of his argument; the subsequent claim about karma and repeated lives does not follow as an accepted scientific inference.",
+          "evidence": [
+            {
+              "source_id": "SG-GA009-C02",
+              "locator": "[1]-[5]"
+            }
+          ]
+        },
+        {
+          "heading": "Individuality is read through biography",
+          "body": "Steiner then argues that the particularity of one person's biography cannot be reduced to a generic description of the species. He uses this to motivate pre-birth spiritual individuality and repetition of earthly lives. The atlas records the move as a claim in his authored text, not proof of what actually happens before birth.",
+          "evidence": [
+            {
+              "source_id": "SG-GA009-C02",
+              "locator": "[7]-[11]"
+            }
+          ]
+        },
+        {
+          "heading": "Later lectures distinguish several kinds of causation",
+          "body": "In the opening Karmic Relationships lectures, Steiner warns against treating every kind of cause and effect as equivalent. His descriptions of personal encounters, constitution, illness, and destiny need to be traced passage by passage, rather than translated into blame or a universal explanation of suffering.",
+          "evidence": [
+            {
+              "source_id": "SG-GA235-19240216",
+              "locator": "[1]-[10], [24]-[25]"
+            },
+            {
+              "source_id": "SG-GA235-19240301",
+              "locator": "[1]-[10], [39]-[40]"
+            }
+          ]
+        },
+        {
+          "heading": "Do not merge karma with the after-death soul-world account",
+          "body": "Theosophy distinguishes what remains attached to a particular earthly life, in Steiner's account, from what he says is carried into another incarnation. This is conceptually important when navigating between postmortem regions and karmic law.",
+          "evidence": [
+            {
+              "source_id": "SG-GA009-C03",
+              "locator": "[17]-[26], especially [21]"
+            }
+          ]
+        }
+      ],
+      "connections": [
+        {
+          "edge_id": "KG-070",
+          "note": "Karma set in a larger discussion of kinds of causality"
+        },
+        {
+          "edge_id": "KG-074",
+          "note": "Interpersonal encounters in Steiner's karmic account"
+        },
+        {
+          "edge_id": "KG-131",
+          "note": "Biographical individuality and the argument from reincarnation"
+        }
+      ],
+      "research_questions": [
+        "Which distinctions change between Steiner's earlier authored account and the 1924 lecture series?",
+        "How does the concept of freedom relate to karma in specific lectures?",
+        "Can an original passage be located for any proposed claim of disease as karma without generalizing it?"
+      ],
+      "cautions": [
+        "Avoid using metaphysical karma claims to explain another person's suffering or illness.",
+        "Do not regard claims of past lives as independently verified history."
+      ]
+    },
+    {
+      "id": "freedom-and-initiation",
+      "title": "Freedom and esoteric training: approaches that must be compared, not conflated",
+      "question": "How do Steiner's philosophical freedom and his instructions for higher cognition relate?",
+      "description": "Contrasts the autonomous moral individual in GA 4 with the preparatory exercises described in GA 10.",
+      "topic_ids": [
+        "RS-01.02",
+        "RS-01.05",
+        "RS-03.01",
+        "RS-03.02",
+        "RS-03.03",
+        "RS-03.05"
+      ],
+      "sections": [
+        {
+          "heading": "Free action needs more than a moral rule",
+          "body": "The Philosophy of Freedom differentiates moral intuition, imagination, and practical technique. A moral idea must be made concrete for the circumstances of an action, and executing it requires awareness of the conditions being changed. Here Steiner is presenting an account of individual ethical action, not a meditation manual.",
+          "evidence": [
+            {
+              "source_id": "SG-GA004-C12",
+              "locator": "[1]-[5]"
+            }
+          ]
+        },
+        {
+          "heading": "The role of individual initiative",
+          "body": "The discussion of ethical individualism stresses that moral life cannot simply be deduced from inherited general prescriptions. This frames one way to assess what Steiner means by freedom in another context, but it does not prove that the later esoteric training descriptions were meant as direct extensions of this exact argument.",
+          "evidence": [
+            {
+              "source_id": "SG-GA004-C12",
+              "locator": "[8]-[11], [17]-[21]"
+            }
+          ]
+        },
+        {
+          "heading": "Esoteric schooling has its own stated conditions",
+          "body": "In Knowledge of Higher Worlds, Steiner presents veneration of truth and knowledge, inner tranquility, and meditation as conditions for what he calls higher perception. The text explicitly warns against mistaking veneration for submission to particular people and describes the importance of protecting independence.",
+          "evidence": [
+            {
+              "source_id": "SG-GA010-C01",
+              "locator": "[6]-[10], [15]-[19], [33]"
+            }
+          ]
+        },
+        {
+          "heading": "A productive comparison, not an asserted equation",
+          "body": "The atlas can ask how individual conscience relates to structured inner exercises while keeping different textual purposes, dates and genres visible. Treat any alleged identity between moral intuition and clairvoyant intuition as a research question until exact passages support it.",
+          "evidence": [
+            {
+              "source_id": "SG-GA004-C12",
+              "locator": "[1]-[4]"
+            },
+            {
+              "source_id": "SG-GA010-C01",
+              "locator": "[16]-[19]"
+            }
+          ]
+        }
+      ],
+      "connections": [
+        {
+          "edge_id": "KG-117",
+          "note": "Moral intuition developed through moral imagination"
+        },
+        {
+          "edge_id": "KG-118",
+          "note": "Practical technique is necessary for realization"
+        },
+        {
+          "edge_id": "KG-124",
+          "note": "Preparatory tranquility in esoteric training"
+        }
+      ],
+      "research_questions": [
+        "Where, if anywhere, does Steiner explicitly relate moral intuition to initiatory intuition?",
+        "What differences exist between authored books and esoteric lecture transcripts?",
+        "How does the language of autonomy change between these two books?"
+      ],
+      "cautions": [
+        "Interpret initiation accounts as Steiner's esoteric framework, not externally validated perception.",
+        "Keep the distinction between philosophical and esoteric uses of 'intuition' visible."
+      ]
+    },
+    {
+      "id": "worldview-matrix",
+      "title": "The twelve worldviews are not a list of twelve isolated beliefs",
+      "question": "What is the structure of the twelve orientations, seven moods, and three tones?",
+      "description": "A dimensional reading of GA 151, highlighting different types of relationship rather than flattening them into one classification.",
+      "topic_ids": [
+        "RS-04.01",
+        "RS-04.02",
+        "RS-04.03",
+        "RS-04.06"
+      ],
+      "sections": [
+        {
+          "heading": "An orientation is one dimension",
+          "body": "In Human and Cosmic Thought, Steiner distinguishes twelve approaches to world conception. The text treats them as possible orientations rather than a single good-versus-bad ranking. The atlas's stable topical categories help readers find a label while preserving its position in this scheme.",
+          "evidence": [
+            {
+              "source_id": "SG-GA151-19140122",
+              "locator": "[1]-[5], [19]-[20]"
+            }
+          ]
+        },
+        {
+          "heading": "Moods and tones are not alternative names for the orientations",
+          "body": "Seven soul moods are described in relation to the twelve orientations, and an additional three-way qualification gives another variation. A graph should therefore encode 'combines with' and 'modifies' rather than identity. Anthropomorphism is discussed as a special case.",
+          "evidence": [
+            {
+              "source_id": "SG-GA151-19140122",
+              "locator": "[19]-[20], [23]-[29]"
+            }
+          ]
+        },
+        {
+          "heading": "Zodiacal and planetary language is an attributed analogy",
+          "body": "The zodiacal and planetary parallels belong to Steiner's esoteric account. They are important for studying how he argues, but the atlas must not present them as scientifically established correspondences or reduce a philosophical worldview to an astronomical position.",
+          "evidence": [
+            {
+              "source_id": "SG-GA151-19140122",
+              "locator": "[19]-[26]"
+            }
+          ]
+        }
+      ],
+      "connections": [
+        {
+          "edge_id": "KG-023",
+          "note": "Worldview orientation combines with a soul mood"
+        },
+        {
+          "edge_id": "KG-024",
+          "note": "Moods further qualified by tones"
+        },
+        {
+          "edge_id": "KG-025",
+          "note": "Zodiacal analogy as a symbolic correspondence"
+        }
+      ],
+      "research_questions": [
+        "Which worldview labels vary among German and English editions?",
+        "Does the sequence or usage differ in later lectures?",
+        "Which forms of 'world-thought' are explained elsewhere in the complete works?"
+      ],
+      "cautions": [
+        "Do not use these categories to assign a psychological label to a modern person without evidence.",
+        "Distinguish the form of Steiner's analogy from empirically supported philosophy or astronomy."
+      ]
+    },
+    {
+      "id": "goethe-to-goetheanum",
+      "title": "From Goethe's plant metamorphosis to Steiner's architectural method",
+      "question": "What links Goethean natural observation with the Goetheanum's artistic forms?",
+      "description": "A cross-domain route from research method through plant form to architectural expression, based on original authored text.",
+      "topic_ids": [
+        "RS-02.02",
+        "RS-02.04",
+        "RS-07.02",
+        "RS-22.01",
+        "RS-23.01",
+        "RS-23.02"
+      ],
+      "sections": [
+        {
+          "heading": "A shared formative principle rather than copied plant shapes",
+          "body": "In Goethean Science, Steiner explains how Goethe sought a formative type through successive plant metamorphoses. The key question is how an organizing idea changes in the appearance of leaves, calyx, petals and other plant structures, not whether every organ has an identical visible form.",
+          "evidence": [
+            {
+              "source_id": "SG-GA001-C02",
+              "locator": "[17]-[20]"
+            }
+          ]
+        },
+        {
+          "heading": "An explicit bridge to architecture",
+          "body": "In his essay Goethe and the Goetheanum, Steiner applies the theme of organic metamorphosis to the architecture of the Goetheanum. This is an unusually useful cross-domain link because the connection is directly drawn in an authored work, rather than inferred only from similarity of terminology.",
+          "evidence": [
+            {
+              "source_id": "SG-GA036-GOETHE",
+              "locator": "opening three paragraphs"
+            }
+          ]
+        },
+        {
+          "heading": "Artistic work requires its own contextual reading",
+          "body": "Later lectures on art and sculptural architecture add a distinct artistic argument. A research atlas should make these layers navigable without assuming that a method developed for botanical understanding automatically proves a particular architectural interpretation.",
+          "evidence": [
+            {
+              "source_id": "SG-GA275-19150102",
+              "locator": "opening architectural discussion"
+            }
+          ]
+        }
+      ],
+      "connections": [
+        {
+          "edge_id": "KG-107",
+          "note": "Plant morphology interpreted through Goethe's metamorphosis"
+        },
+        {
+          "edge_id": "KG-115",
+          "note": "Archetypal form applied to architecture"
+        },
+        {
+          "edge_id": "KG-116",
+          "note": "The Goetheanum design linked to metamorphosis"
+        }
+      ],
+      "research_questions": [
+        "Which motifs in the first Goetheanum did Steiner himself explicitly link to metamorphosis?",
+        "Which texts connect the second Goetheanum with the same or changed design principles?",
+        "How does the Goethean method differ from purely symbolic associations in other lectures?"
+      ],
+      "cautions": [
+        "These are interpretive connections in Steiner's own writings, not independent scientific claims.",
+        "Keep distinct the history of Goethe's work and Steiner's later artistic development."
+      ]
+    }
+  ]
+}
