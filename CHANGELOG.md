@@ -1,3 +1,12 @@
+## 2026-11-02 — Organ concordance Phase 9: six-lecture section census and sleep/waking correction
+
+- Revisited **GA 313 I–III and GA 317 II–IV**, establishing an exact [164-numbered-section census](research/organ-section-census-ga313-ga317-v9.json) with explicit per-section review statuses (**89 selected-passage-checked across v8/v9, 75 number-located-only**). Census does *not* assert whole-lecture extraction.
+- Added [23 refined, paragraph-linked source claims](research/organ-clarifications-ga313-ga317-v9.json) tied to earlier IDs when overlapping, including **GA 313 II §26** on regional redistribution of astral/I activity in sleep, and **GA 317 II** on the brain's asserted world-ether thought reflection.
+- Expanded [nine organ dossiers](research/organ-comparative-dossiers-v9.json) with refinement links rather than duplicate canonical claims. Added [source interpretation report](docs/ORGAN_CONCORDANCE_PHASE9_FINDINGS.md).
+- Updated [v9 coverage ledger](research/organ-corpus-ledger-ga313-317-v9.json), preserving **6 complete English section audits**, **1 thematic sweep**, **9 partially checked**, **45 unreviewed**, **0 complete bilingual atomic audits** among GA 313–317's 61 entries.
+- Local research document expanded to **Version 9.0, 50 rendered pages** (Word and Markdown). Highlighted historical medically false or harmful claims about infection, seizures, bedwetting and phrenology without treating them as valid diagnosis or therapy.
+- **Next:** read the remaining 75 numbered sections in the six targeted lectures, perform German original comparison, reconcile overlapping propositions, and continue the 45 untouched catalogue items.
+
 ## 2026-11-02 — Organ concordance Phase 8: GA 313, 315, 317 and nine-organ atlas
 
 - Inspected **selected English passages in nine previously unreviewed lectures**: GA 313 I–III, GA 315 II–IV, GA 317 II–IV. Recorded [49 narrowly sourced, paragraph-cued historical claims](research/organ-atomic-claims-ga313-ga315-ga317-phase8.json); **these are not whole-lecture audits**.
