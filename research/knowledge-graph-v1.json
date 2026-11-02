@@ -1232,6 +1232,70 @@
         }
       ],
       "claim": "He connects his proposed account of human nature with questions of therapy."
+    },
+    {
+      "id": "KG-063",
+      "from": "RS-09.01",
+      "to": "RS-06.03",
+      "type": "framed_as_related_to",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA013-C04",
+          "passage_locator": "[1]-[5]; [16]"
+        }
+      ],
+      "claim": "Steiner presents the human constitution's development as inseparable from his account of cosmic evolution."
+    },
+    {
+      "id": "KG-064",
+      "from": "RS-05.02",
+      "to": "RS-06.01",
+      "type": "attributed_nature_explanation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA110-19090414",
+          "passage_locator": "lecture introduction and description of first/second hierarchies"
+        }
+      ],
+      "claim": "Spiritual hierarchies are described as active in the successive cosmic conditions."
+    },
+    {
+      "id": "KG-065",
+      "from": "RS-07.05",
+      "to": "RS-25.01",
+      "type": "frames_festival_interpretation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA223-19230331",
+          "passage_locator": "[1]-[3]"
+        }
+      ],
+      "claim": "The earth conceived as a living organism underpins Steiner's yearly spiritual cycle."
+    },
+    {
+      "id": "KG-066",
+      "from": "RS-13.04",
+      "to": "RS-25.02",
+      "type": "frames_festival_interpretation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA223-19230331",
+          "passage_locator": "[5]-[11]"
+        }
+      ],
+      "claim": "Steiner associates the Mystery of Golgotha with the spiritual interpretation of Christmas and Easter."
     }
   ]
 }
