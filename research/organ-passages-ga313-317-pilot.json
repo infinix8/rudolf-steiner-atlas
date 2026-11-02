@@ -1,0 +1,263 @@
+{
+  "schema_version": "0.1",
+  "as_of": "2026-11-02",
+  "source_principle": "Rudolf Steiner primary texts; Archive links only; no full-text duplication",
+  "catalog_entries_ga313_317": 61,
+  "passages_checked": 12,
+  "limitations": [
+    "All selected passage records; no complete lecture audits",
+    "Edition and German collation pending",
+    "Medical and therapeutic claims are historical/esoteric, not clinical advice"
+  ],
+  "records": [
+    {
+      "id": "ORG-313-19210412-01",
+      "ga": 313,
+      "lecture_date": "1921-04-12",
+      "organs": [
+        "head",
+        "etheric body",
+        "astral body",
+        "I organization"
+      ],
+      "relationship_type": "organ_member_relation",
+      "paraphrase": "Distinguishes head organization from the rest by the relative manifestation of physical and supersensible members.",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/MP1991/19210412a01.html",
+      "passage_cue": "opening discussion of head and higher-member imprints",
+      "comparison_group": "head-vs-organs",
+      "textual_status": "selected_passage_checked",
+      "full_lecture_audited": false,
+      "german_check": "pending",
+      "source_kind": "recorded lecture; English translation",
+      "medical_context": "Attributed historical/esoteric statement, not clinical evidence"
+    },
+    {
+      "id": "ORG-313-19210413-01",
+      "ga": 313,
+      "lecture_date": "1921-04-13",
+      "organs": [
+        "chest",
+        "circulation",
+        "head",
+        "metabolism"
+      ],
+      "relationship_type": "organ_member_relation",
+      "paraphrase": "Describes chest organs as the site of intertwined physical/etheric processes with astral and I influences, contrasted with the head and metabolism.",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/MP1991/19210413a01.html",
+      "passage_cue": "opening discussion of thoracic rhythms",
+      "comparison_group": "rhythmic-vs-head",
+      "textual_status": "selected_passage_checked",
+      "full_lecture_audited": false,
+      "german_check": "pending",
+      "source_kind": "recorded lecture; English translation",
+      "medical_context": "Attributed historical/esoteric statement, not clinical evidence"
+    },
+    {
+      "id": "ORG-313-19210414-01",
+      "ga": 313,
+      "lecture_date": "1921-04-14",
+      "organs": [
+        "physical organs",
+        "etheric organs"
+      ],
+      "relationship_type": "sleep_activity",
+      "paraphrase": "Describes difficult falling asleep as astral activity remaining too closely bound to physical and etheric organs.",
+      "source_url": "https://rsarchive.org/Medicine/GA313/English/MP1991/19210414a01.html",
+      "passage_cue": "opening section on sleep and waking",
+      "comparison_group": "sleep-maintenance",
+      "textual_status": "selected_passage_checked",
+      "full_lecture_audited": false,
+      "german_check": "pending",
+      "source_kind": "recorded lecture; English translation",
+      "medical_context": "Attributed historical/esoteric statement, not clinical evidence"
+    },
+    {
+      "id": "ORG-314-19221027AM-01",
+      "ga": 314,
+      "lecture_date": "1922-10-27",
+      "organs": [
+        "heart",
+        "lungs",
+        "kidneys",
+        "nervous system",
+        "liver",
+        "gallbladder",
+        "spleen"
+      ],
+      "relationship_type": "study_sequence",
+      "paraphrase": "Proposes an order of study through digestion, heart-lung, kidney/nervous-sense relation, then liver-gallbladder-spleen.",
+      "source_url": "https://rsarchive.org/Lectures/FundAnthro/19221027a01.html",
+      "passage_cue": "beginning of lecture on the curriculum for physiology",
+      "comparison_group": "organ-interrelations",
+      "textual_status": "selected_passage_checked",
+      "full_lecture_audited": false,
+      "german_check": "pending",
+      "source_kind": "recorded lecture; English translation",
+      "medical_context": "Attributed historical/esoteric statement, not clinical evidence"
+    },
+    {
+      "id": "ORG-314-19221027PM-01",
+      "ga": 314,
+      "lecture_date": "1922-10-27",
+      "organs": [
+        "kidneys",
+        "liver",
+        "gallbladder",
+        "head"
+      ],
+      "relationship_type": "organ_member_relation",
+      "paraphrase": "Associates kidney system with the astral organization and liver-gallbladder system with the I, while discussing childhood counter-activity reflected from the head.",
+      "source_url": "https://rsarchive.org/Lectures/GA314/English/MP1986/19221027p01.html",
+      "passage_cue": "section on childhood reflection of organ activity",
+      "comparison_group": "liver-kidney-members",
+      "textual_status": "selected_passage_checked",
+      "full_lecture_audited": false,
+      "german_check": "pending",
+      "source_kind": "recorded lecture; English translation",
+      "medical_context": "Attributed historical/esoteric statement, not clinical evidence"
+    },
+    {
+      "id": "ORG-315-19210412-01",
+      "ga": 315,
+      "lecture_date": "1921-04-12",
+      "organs": [
+        "larynx",
+        "ear",
+        "rib cage",
+        "head"
+      ],
+      "relationship_type": "metamorphosis",
+      "paraphrase": "Presents the larynx as a metamorphic reversal or transformation connected with posterior head, hearing organs and chest.",
+      "source_url": "https://rsarchive.org/Lectures/19210412p01.html",
+      "passage_cue": "lecture I, larynx and metamorphosis",
+      "comparison_group": "larynx-history",
+      "textual_status": "selected_passage_checked",
+      "full_lecture_audited": false,
+      "german_check": "pending",
+      "source_kind": "recorded lecture; English translation",
+      "medical_context": "Attributed historical/esoteric statement, not clinical evidence"
+    },
+    {
+      "id": "ORG-315-19210418-01",
+      "ga": 315,
+      "lecture_date": "1921-04-18",
+      "organs": [
+        "lungs",
+        "liver",
+        "kidneys",
+        "back of head"
+      ],
+      "relationship_type": "therapeutic_claim",
+      "paraphrase": "Claims consonant eurythmy produces spiritual luminous responses in lungs, liver, kidneys and posterior head.",
+      "source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210418.html",
+      "passage_cue": "physicians lecture paragraph 21",
+      "comparison_group": "eurythmy-organs",
+      "textual_status": "selected_passage_checked",
+      "full_lecture_audited": false,
+      "german_check": "pending",
+      "source_kind": "recorded lecture; English translation",
+      "medical_context": "Attributed historical/esoteric statement, not clinical evidence"
+    },
+    {
+      "id": "ORG-316-19240103-01",
+      "ga": 316,
+      "lecture_date": "1924-01-03",
+      "organs": [
+        "liver",
+        "heart"
+      ],
+      "relationship_type": "sense_organ_analogy",
+      "paraphrase": "Calls the liver a sense organ for material nutritional value and the heart a sense organ for inward astral/I activity.",
+      "source_url": "https://rsarchive.org/Medicine/YoungDoctors/19240103p01.html",
+      "passage_cue": "contrast of liver and heart as sense organs",
+      "comparison_group": "liver-heart-sense",
+      "textual_status": "selected_passage_checked",
+      "full_lecture_audited": false,
+      "german_check": "pending",
+      "source_kind": "recorded lecture; English translation",
+      "medical_context": "Attributed historical/esoteric statement, not clinical evidence"
+    },
+    {
+      "id": "ORG-316-19240104-01",
+      "ga": 316,
+      "lecture_date": "1924-01-04",
+      "organs": [
+        "skull",
+        "long bones",
+        "femur"
+      ],
+      "relationship_type": "earth_cosmos_form",
+      "paraphrase": "Contrasts cosmic/peripheral and earthly formative forces in the shape and substance of skull versus long bones.",
+      "source_url": "https://rsarchive.org/Lectures/YoungDoctors/19240104a01.html",
+      "passage_cue": "lecture III, earth substances and periphery",
+      "comparison_group": "bones-earth-cosmos",
+      "textual_status": "selected_passage_checked",
+      "full_lecture_audited": false,
+      "german_check": "pending",
+      "source_kind": "recorded lecture; English translation",
+      "medical_context": "Attributed historical/esoteric statement, not clinical evidence"
+    },
+    {
+      "id": "ORG-316-19240107-01",
+      "ga": 316,
+      "lecture_date": "1924-01-07",
+      "organs": [
+        "skeleton",
+        "muscles",
+        "inner organs"
+      ],
+      "relationship_type": "spiritual_hierarchy",
+      "paraphrase": "Associates skeleton with elemental beings, muscles with higher hierarchical beings and inner organs with still higher beings.",
+      "source_url": "https://rsarchive.org/Lectures/YoungDoctors/19240107p01.html",
+      "passage_cue": "lecture VI, hierarchy comparison",
+      "comparison_group": "hierarchies-organ-systems",
+      "textual_status": "selected_passage_checked",
+      "full_lecture_audited": false,
+      "german_check": "pending",
+      "source_kind": "recorded lecture; English translation",
+      "medical_context": "Attributed historical/esoteric statement, not clinical evidence"
+    },
+    {
+      "id": "ORG-316-19240107-02",
+      "ga": 316,
+      "lecture_date": "1924-01-07",
+      "organs": [
+        "lungs",
+        "liver",
+        "ear",
+        "inner organs"
+      ],
+      "relationship_type": "organ_formation_and_knowledge",
+      "paraphrase": "Claims that inner organs arise from formative forces of air and sound; describes whole-organism resonance in hearing and inspiration as cognition of organs.",
+      "source_url": "https://rsarchive.org/Lectures/YoungDoctors/19240107p01.html",
+      "passage_cue": "lecture VI, sound and inner organ forms",
+      "comparison_group": "sound-organs",
+      "textual_status": "selected_passage_checked",
+      "full_lecture_audited": false,
+      "german_check": "pending",
+      "source_kind": "recorded lecture; English translation",
+      "medical_context": "Attributed historical/esoteric statement, not clinical evidence"
+    },
+    {
+      "id": "ORG-317-19240625-01",
+      "ga": 317,
+      "lecture_date": "1924-06-25",
+      "organs": [
+        "liver",
+        "kidneys",
+        "stomach",
+        "brain"
+      ],
+      "relationship_type": "process_correspondence",
+      "paraphrase": "Describes liver and kidney processes as having correspondences in the head, where differentiated lower-body activities are synthesized.",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/RSP1972/19240625p01.html",
+      "passage_cue": "lecture I, hepatic and renal activity in head",
+      "comparison_group": "liver-head-reflection",
+      "textual_status": "selected_passage_checked",
+      "full_lecture_audited": false,
+      "german_check": "pending",
+      "source_kind": "recorded lecture; English translation",
+      "medical_context": "Attributed historical/esoteric statement, not clinical evidence"
+    }
+  ]
+}
