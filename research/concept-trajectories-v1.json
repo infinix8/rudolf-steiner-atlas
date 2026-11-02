@@ -1,0 +1,200 @@
+{
+  "version": "1.0",
+  "created": "2026-11-02",
+  "editorial_policy": "Comparative source contexts are not evidence of a chronological change of doctrine. Use original lecture_date only where the underlying original source record provides it. Never infer the date of an authored book from its modern English edition.",
+  "trajectories": [
+    {
+      "id": "human-constitution-contexts",
+      "title": "Human organization: members, functions, and social analogy",
+      "question": "Do ninefold/sevenfold members and bodily threefolding describe the same thing?",
+      "topic_ids": [
+        "RS-09.01",
+        "RS-09.03",
+        "RS-09.06",
+        "RS-09.02.05",
+        "RS-21.01"
+      ],
+      "comparison_type": "different_contexts_not_equivalent",
+      "conclusion": "These are explicitly distinct explanatory frames. A similar number of parts is not evidence that two classifications mean the same thing.",
+      "entries": [
+        {
+          "source_id": "SG-GA009-C01",
+          "locator": "[40]–[42]",
+          "claim": "In the authored book Theosophy, the author condenses nine members to seven by specified combinations and also discusses four members.",
+          "interpretation": "constitution"
+        },
+        {
+          "source_id": "SG-GA293-19190905",
+          "locator": "lecture opening",
+          "claim": "The education lecture speaks about head, chest or trunk, and limbs in relation to bodily form.",
+          "interpretation": "pedagogical_physiology"
+        },
+        {
+          "source_id": "SG-GA023-C02",
+          "locator": "chapter on threefold social organization",
+          "claim": "Steiner employs a threefold bodily comparison in discussing cultural-spiritual, political-rights and economic organization.",
+          "interpretation": "social_analogy"
+        }
+      ],
+      "open_question": "Directly compare original German terminology across GA 9, GA 293 and GA 23 before claiming one unchanging model."
+    },
+    {
+      "id": "thinking-goethe-metamorphosis",
+      "title": "Thinking and Goethean observation in distinct authored contexts",
+      "question": "How does Steiner connect observed phenomena, ideas, and Goethe's organic forms?",
+      "topic_ids": [
+        "RS-01.03",
+        "RS-02.01",
+        "RS-02.02",
+        "RS-23.02"
+      ],
+      "comparison_type": "conceptual_contexts_no_dated_doctrinal_shift",
+      "conclusion": "The sources support a recurring research concern around thinking and formative ideas, and an explicit later architectural application, without establishing a detailed temporal development from the supplied dates alone.",
+      "entries": [
+        {
+          "source_id": "SG-GA004-C03",
+          "locator": "[1]–[5]",
+          "claim": "In a philosophical argument, observation and thinking are distinguished as complementary activities of knowing.",
+          "interpretation": "philosophical_method"
+        },
+        {
+          "source_id": "SG-GA006-C01A",
+          "locator": "[1]–[3]",
+          "claim": "In a Goethe study, Steiner discusses the archetypal plant and the contrasting understandings of 'idea' in Goethe and Schiller.",
+          "interpretation": "historical_exegesis"
+        },
+        {
+          "source_id": "SG-GA036-GOETHE",
+          "locator": "opening three paragraphs",
+          "claim": "The Goetheanum essay explicitly relates Goethe's notion of organic metamorphosis to architectural form.",
+          "interpretation": "artistic_application"
+        }
+      ],
+      "open_question": "Verify original publication and revision dates—including Steiner's revisions—before turning the comparison into a claim of doctrinal evolution."
+    },
+    {
+      "id": "guardian-two-presentations",
+      "title": "The lesser and greater Guardian in adjacent authored chapters",
+      "question": "How does Steiner distinguish threshold self-confrontation from the greater Guardian's orientation to the future?",
+      "topic_ids": [
+        "RS-03.04",
+        "RS-03.05",
+        "RS-08.02",
+        "RS-12.05"
+      ],
+      "comparison_type": "adjacent_chapters_distinct_functions",
+      "conclusion": "The two adjacent chapters explicitly distinguish a person's attributed past deeds and responsibility from the larger purpose of human participation in the sense-world.",
+      "entries": [
+        {
+          "source_id": "SG-GA010-C09",
+          "locator": "[1]–[12]",
+          "claim": "The lesser Guardian is portrayed as disclosing karmic responsibility and changes in the aspirant's experience of thinking, feeling and willing.",
+          "interpretation": "esoteric_self_encounter"
+        },
+        {
+          "source_id": "SG-GA010-C10",
+          "locator": "[1]–[4]",
+          "claim": "The greater Guardian chapter emphasizes the formative value of the sense-world for capacities in the larger spiritual development story.",
+          "interpretation": "esoteric_world_purpose"
+        }
+      ],
+      "open_question": "Examine other lecture versions of 'Guardian' and the German terms before distinguishing stable characteristics from a genre-dependent presentation."
+    },
+    {
+      "id": "eurythmy-june-july-1924",
+      "title": "Eurythmy: from the idea of visible speech to gesture and cosmological analogy",
+      "question": "How do the June–July 1924 lectures build the explanation of eurythmy?",
+      "topic_ids": [
+        "RS-24.01",
+        "RS-24.02",
+        "RS-24.03",
+        "RS-09.02"
+      ],
+      "comparison_type": "dated_lecture_sequence_within_one_course",
+      "conclusion": "There is an explicitly dated sequence of explanatory emphases within one lecture course; the sources do not establish a change of Steiner's beliefs merely from this sequence.",
+      "entries": [
+        {
+          "source_id": "SG-GA279-19240624",
+          "locator": "opening lecture",
+          "claim": "Steiner introduces eurythmy as visible speech and distinguishes artistic, educational and therapeutic applications.",
+          "interpretation": "course_introduction"
+        },
+        {
+          "source_id": "SG-GA279-19240625",
+          "locator": "opening and sound examples",
+          "claim": "Vowels are presented as inward expression, consonants as imitation of the outer world and sound gesture.",
+          "interpretation": "phonetic_gesture"
+        },
+        {
+          "source_id": "SG-GA279-19240707",
+          "locator": "opening through twelvefold movements",
+          "claim": "The lecture derives gesture possibilities from the human organism and introduces symbolic parallels between sounds and celestial movements.",
+          "interpretation": "bodily_and_symbolic_form"
+        }
+      ],
+      "open_question": "Compare this 1924 speech-eurythmy course with original tone-eurythmy lectures rather than treating the seven vowels as a theory of musical intervals."
+    },
+    {
+      "id": "agriculture-june-1924",
+      "title": "Agriculture: cosmic rhythms and soil preparations in two original lectures",
+      "question": "How are early claims about celestial influences connected with later practical preparations?",
+      "topic_ids": [
+        "RS-20.02",
+        "RS-20.03",
+        "RS-20.04",
+        "RS-07.06"
+      ],
+      "comparison_type": "dated_lecture_sequence_within_one_course",
+      "conclusion": "These lectures move from an attributed cosmic/seasonal framework into a practical preparation discussion. The claims remain historical, with no independent scientific efficacy inference.",
+      "entries": [
+        {
+          "source_id": "SG-GA327-19240607",
+          "locator": "lecture I, [17]–[31]",
+          "claim": "Steiner describes plants and farm processes in relation to an alleged system of planetary forces, soil materials, weather and seasonal timing.",
+          "interpretation": "cosmic_agriculture_framework"
+        },
+        {
+          "source_id": "SG-GA327-19240612",
+          "locator": "lecture IV, soil preparation passages",
+          "claim": "The course develops preparation techniques involving manure, compost and cow horns in a whole-farm discussion.",
+          "interpretation": "agriculture_practice"
+        }
+      ],
+      "open_question": "Track which procedures Steiner actually gave, and separate them from later biodynamic techniques or evidence claims."
+    },
+    {
+      "id": "karma-early-book-later-lectures",
+      "title": "Karma: authored reasoning compared with the 1924 lecture cycle",
+      "question": "What changes when Steiner treats reincarnation in an authored book versus lectures addressed to students?",
+      "topic_ids": [
+        "RS-08.01",
+        "RS-08.02",
+        "RS-08.03",
+        "RS-11.05"
+      ],
+      "comparison_type": "distinct_genres_with_dated_later_lectures",
+      "conclusion": "The contexts and rhetorical purposes differ. The present passages alone do not demonstrate that Steiner contradicted or revised a specific teaching about karma.",
+      "entries": [
+        {
+          "source_id": "SG-GA009-C02",
+          "locator": "[1]–[11]",
+          "claim": "Steiner argues from memory, individual life differences and the consequences of action toward a theory of repeated incarnations.",
+          "interpretation": "authored_argument"
+        },
+        {
+          "source_id": "SG-GA235-19240216",
+          "locator": "[1]–[10]",
+          "claim": "A 1924 lecture differentiates kinds of causation before introducing complex karmic relations.",
+          "interpretation": "oral_elaboration"
+        },
+        {
+          "source_id": "SG-GA235-19240301",
+          "locator": "[1]–[10]; [39]",
+          "claim": "Another lecture considers fate, constitution and alleged health-related karma; these claims must not be used to blame someone for an illness.",
+          "interpretation": "qualified_karmic_application"
+        }
+      ],
+      "open_question": "Check the full dated lecture cycle for explicit corrections or new distinctions instead of inferring a shift from selective examples."
+    }
+  ]
+}
