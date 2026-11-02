@@ -2,8 +2,8 @@
 
 Generated from local, original Atlas records; no external documents accessed.
 
-- **106 passage-qualified relationships**; **23 original source pages**.
-- **44 direct cross-domain graph connections**.
+- **116 passage-qualified relationships**; **27 original source pages**.
+- **51 direct cross-domain graph connections**.
 - **4 of 30 initial crosslinks** directly matched; **25** still have no matching exact-endpoint source evidence.
 - Source verification means **selected passages were checked**, not that full books were reviewed.
 
@@ -11,13 +11,13 @@ Generated from local, original Atlas records; no external documents accessed.
 
 | Domain | Title | Incident graph edges |
 |---|---|---:|
-| 01 | Thinking, Knowledge, Logic, and Freedom | 1 |
-| 02 | Goethean Science and the Foundations of Research | 0 |
+| 01 | Thinking, Knowledge, Logic, and Freedom | 3 |
+| 02 | Goethean Science and the Foundations of Research | 7 |
 | 03 | Esoteric Training, Initiation, and Spiritual Research | 3 |
 | 04 | Worldviews, Philosophy of Spirit, and Conceptual Structures | 6 |
 | 05 | Spiritual Worlds, Hierarchies, and Beings | 11 |
 | 06 | Cosmic Genesis, Earth Evolution, and the Future | 18 |
-| 07 | Nature Kingdoms, Elemental Beings, and the Living Earth | 16 |
+| 07 | Nature Kingdoms, Elemental Beings, and the Living Earth | 17 |
 | 08 | Karma, Reincarnation, Death, and Spiritual Destiny | 10 |
 | 09 | Human Constitution: Body, Soul, and Spirit | 21 |
 | 10 | Soul Life, Consciousness, Senses, and Psychology | 6 |
@@ -27,13 +27,13 @@ Generated from local, original Atlas records; no external documents accessed.
 | 14 | Religions, Ancient Mysteries, Scriptures, and Mythology | 4 |
 | 15 | Human History, Cultural Epochs, Peoples, and Civilizations | 4 |
 | 16 | Michael, Lucifer, Ahriman, and Spiritual Opposition | 4 |
-| 17 | Natural Sciences, Mathematics, Astronomy, and Technology | 0 |
+| 17 | Natural Sciences, Mathematics, Astronomy, and Technology | 4 |
 | 18 | Medicine, Therapeutics, Health, and Remedial Care | 3 |
-| 19 | Education, Waldorf Pedagogy, and Child Development | 3 |
+| 19 | Education, Waldorf Pedagogy, and Child Development | 4 |
 | 20 | Agriculture, Food, Nutrition, and Ecological Life | 3 |
 | 21 | Social Threefolding, Economics, Law, and Political Life | 7 |
 | 22 | Arts, Aesthetics, Color, Music, and Literature | 6 |
-| 23 | Architecture, Sculpture, Design, and the Goetheanum | 2 |
+| 23 | Architecture, Sculpture, Design, and the Goetheanum | 4 |
 | 24 | Eurythmy, Speech, Drama, and Embodied Performance | 5 |
 | 25 | Festivals, Inner Practice, Spiritual Calendar, and Religious Work | 6 |
 | 26 | The Anthroposophical Movement, School, and Steiner's Self-Understanding | 1 |
@@ -65,6 +65,10 @@ Generated from local, original Atlas records; no external documents accessed.
 | [SG-GA275-19150102](https://rsarchive.org/Lectures/GA275/English/RSP1984/19150102p01.html) | GA 275 — Art as Seen in the Light of Mystery Wisdom | 2 |
 | [SG-GA283-19061112](https://rsarchive.org/Lectures/19061112p01.html) | GA 283 — The Inner Nature of Music and the Experience of Tone | 2 |
 | [SG-GA026-C06](https://rsarchive.org/Books/GA026/English/APC1956/GA026_c06.html) | GA 26 — The Michael Mystery | 4 |
+| [SG-GA001-C02](https://rsarchive.org/Books/GA001/English/MP1988/GA001_c02.html) | GA 1 — Goethean Science | 3 |
+| [SG-GA002-C03](https://rsarchive.org/Books/GA002/English/AP1940/GA002_c03.html) | GA 2 — A Theory of Knowledge | 2 |
+| [SG-GA321-19200301](https://rsarchive.org/Science/GA321/English/MP1980/19200301p01.html) | GA 321 — Second Scientific Lecture-Course: Warmth Course | 3 |
+| [SG-GA036-GOETHE](https://rsarchive.org/Articles/GA036/English/SOL2024/68_Goethe_and_the_Goetheanum.html) | GA 36 — Collected Essays from Das Goetheanum (1921–1925) | 2 |
 
 ## Audit boundaries
 
