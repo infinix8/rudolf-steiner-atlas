@@ -34,7 +34,7 @@ These are planned tasks; a checklist item is not complete merely because this do
 ## Phase 4 — Passage-level knowledge graph
 
 - [x] First-pass source-linked graph: 66 typed relations with passage cues from 13 checked original pages (not full corpus).
-- [ ] Expand from 116 typed passage-linked relations across all 26 broad domains to per-concept evidence across every subdomain and dated lecture.
+- [ ] Expand from 142 typed passage-linked relations across all 26 broad domains to per-concept evidence across every subdomain and dated lecture.
 - [ ] Add original German terms, translations, aliases and chronology.
 - [x] Initial typed, passage-checked graph separate from 30 exploratory links; four exact matches identified.
 - [ ] Verify 26 remaining legacy crosslinks and resolve duplicate canonical ideas.
@@ -43,10 +43,12 @@ These are planned tasks; a checklist item is not complete merely because this do
 ## Phase 5 — HTML Atlas
 
 - [x] First-pass region → domain → subdomain → concept browser (static prototype; not deployed).
-- [ ] Source-linked concept pages with concise quotations and faithful paraphrase.
+- [x] Working source-linked concept relations, five long-form original editorial dossiers, and links to originals.
+- [ ] Passage-by-passage verification for all 150 subdomains and 785 core concept entries, with optional brief, lawfully quoted excerpts.
 - [x] First-pass search, concept routes, related concepts, source gateway and 14 archive-topic bridges.
-- [x] First-pass source guide (27 original pages) with GA/date/title/domain/type filters; evidence graph with 116 typed relations and domain/evidence filters.
-- [ ] Long-form concept comparisons, chronological visualization, and per-subdomain source coverage dashboard.
+- [x] First-pass source guide (30 original pages) with GA/date/title/domain/type filters; evidence graph with 142 typed relations and domain/evidence filters.
+- [x] Five research dossiers (17 section-level original-source annotations); source chronology; 150-subdomain evidence-status dashboard and reproducible report.
+- [ ] Expand dossiers across all domains and support source-aware evolution of specific ideas rather than just source-date ordering.
 - [x] Responsive CSS and offline internal JSON and JS validation.
 - [x] Desktop/mobile Chromium smoke navigation tests for taxonomy, graph and source guide.
 - [ ] Full keyboard/screen-reader/contrast audit, wider source-link checks and deployment.
