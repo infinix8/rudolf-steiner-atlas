@@ -27,3 +27,4 @@ jobs:
         run: |
           node --check atlas/app.js
           node --check atlas/graph.js
+          node --check atlas/sources.js
