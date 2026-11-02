@@ -1,0 +1,53 @@
+{
+  "schema_version": "0.1",
+  "as_of": "2026-11-02",
+  "purpose": "Explicit overlap map of six earlier pilot entries and the 32 new phase 4 topic claims. This is equivalence/overlap, not deletion; preserve original IDs and redirect readers.",
+  "coverage_note": "Other pilot entries, especially GA 313, GA 315 and GA 317, remain independent leads. Phase 5 per-paragraph records have a different granularity than claims and should be linked by lecture date and paragraph cue, not counted as new distinct claims.",
+  "overlaps": [
+    {
+      "legacy_id": "ORG-314-19221027AM-01",
+      "matches": [
+        "ORG-314-19221027-organ-study-sequence"
+      ],
+      "relation": "same_claim_rephrased"
+    },
+    {
+      "legacy_id": "ORG-314-19221027PM-01",
+      "matches": [
+        "ORG-314-19221027-childhood-reflection"
+      ],
+      "relation": "same_claim_rephrased"
+    },
+    {
+      "legacy_id": "ORG-316-19240103-01",
+      "matches": [
+        "ORG-316-19240103-liver-material-sense",
+        "ORG-316-19240103-heart-inner-sense"
+      ],
+      "relation": "earlier_joint_claim_split"
+    },
+    {
+      "legacy_id": "ORG-316-19240104-01",
+      "matches": [
+        "ORG-316-19240104-bones-cosmic-earth",
+        "ORG-316-19240104-bone-substances-process"
+      ],
+      "relation": "broader_legacy_record_split"
+    },
+    {
+      "legacy_id": "ORG-316-19240107-01",
+      "matches": [
+        "ORG-316-19240107-beings-by-tissue-level"
+      ],
+      "relation": "same_claim_rephrased"
+    },
+    {
+      "legacy_id": "ORG-316-19240107-02",
+      "matches": [
+        "ORG-316-19240107-inner-organs-air-sound",
+        "ORG-316-19240107-hearing-whole-body"
+      ],
+      "relation": "broader_legacy_record_split"
+    }
+  ]
+}
