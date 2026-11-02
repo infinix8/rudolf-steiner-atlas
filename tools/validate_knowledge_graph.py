@@ -59,7 +59,10 @@ allowed_types = {
     "special_case_of", "associated_with", "used_in_pedagogical_account",
     "interacts_with", "is_preparatory_practice_within", "enables_development_toward",
     "prepared_as", "provides_seasonal_context_for", "frames_as_living_whole",
-    "frames_problem_of", "must_distinguish"
+    "frames_problem_of", "must_distinguish", "influences_next_rank",
+    "directs_activity_of", "works_with", "used_as_analogy_for", "has_component",
+    "forms_process_with", "motivates_educational_task", "frames_festival_interpretation",
+    "illustrates", "influences_festival_interpretation"
 }
 source_refs = Counter()
 cross_domains = 0
