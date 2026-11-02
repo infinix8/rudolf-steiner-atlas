@@ -1,0 +1,898 @@
+{
+  "schema_version": "1.0",
+  "review_date": "2026-11-02",
+  "status": "Complete coverage of English numbered paragraphs in two lectures, not exhaustive atomization or full original-German collation",
+  "source_method": "Original editorial abstracts, section-level labels and direct Steiner Archive links; does not reproduce lectures",
+  "lectures": [
+    {
+      "ga": 313,
+      "date": "1921-04-13",
+      "url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210413.html",
+      "comparison_url": "https://rsarchive.org/Lectures/GA313/Compare_03.php",
+      "english_numbered_paragraphs": 20,
+      "review_complete": true,
+      "full_bilingual_review": false
+    },
+    {
+      "ga": 317,
+      "date": "1924-06-26",
+      "url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "comparison_url": "https://rsarchive.org/Lectures/GA317/Compare_02.php",
+      "english_numbered_paragraphs": 33,
+      "review_complete": true,
+      "full_bilingual_review": false
+    }
+  ],
+  "records": [
+    {
+      "id": "ORG-S11-GA313-19210413-P01",
+      "ga": 313,
+      "date": "1921-04-13",
+      "paragraph": 1,
+      "classification": "medical_context",
+      "summary": "Medical chest/circulation conditions selected as starting point for astral/etheric discussion.",
+      "organ_terms": [
+        "chest",
+        "circulation"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210413.html",
+      "scope": "entire numbered English paragraph reviewed",
+      "exhaustive_atomic_claims": false,
+      "original_german_check": "not fully collated"
+    },
+    {
+      "id": "ORG-S11-GA313-19210413-P02",
+      "ga": 313,
+      "date": "1921-04-13",
+      "paragraph": 2,
+      "classification": "organ_relations",
+      "summary": "Chest physical and etheric said to function together, unlike head; astral and I may affect them.",
+      "organ_terms": [
+        "chest",
+        "respiration",
+        "circulation"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210413.html",
+      "scope": "entire numbered English paragraph reviewed",
+      "exhaustive_atomic_claims": false,
+      "original_german_check": "not fully collated"
+    },
+    {
+      "id": "ORG-S11-GA313-19210413-P03",
+      "ga": 313,
+      "date": "1921-04-13",
+      "paragraph": 3,
+      "classification": "rhythmic_polarity",
+      "summary": "Chest rhythm allegedly balances etheric growth and astral restraint; head and metabolism provide opposing effects.",
+      "organ_terms": [
+        "chest",
+        "head",
+        "metabolism"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210413.html",
+      "scope": "entire numbered English paragraph reviewed",
+      "exhaustive_atomic_claims": false,
+      "original_german_check": "not fully collated"
+    },
+    {
+      "id": "ORG-S11-GA313-19210413-P04",
+      "ga": 313,
+      "date": "1921-04-13",
+      "paragraph": 4,
+      "classification": "external_conditions",
+      "summary": "Discusses physician Benedikt's attention to clothing, housing, air and illness; rejects conventional account in favor of astral/etheric causes.",
+      "organ_terms": [
+        "chest",
+        "respiration"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210413.html",
+      "scope": "entire numbered English paragraph reviewed",
+      "exhaustive_atomic_claims": false,
+      "original_german_check": "not fully collated"
+    },
+    {
+      "id": "ORG-S11-GA313-19210413-P05",
+      "ga": 313,
+      "date": "1921-04-13",
+      "paragraph": 5,
+      "classification": "sleep_and_astral",
+      "summary": "Carbon/oxygen breathing linked with astral/etheric activity; astral activity allegedly persists in the lower organism during sleep.",
+      "organ_terms": [
+        "breathing",
+        "head",
+        "metabolism"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210413.html",
+      "scope": "entire numbered English paragraph reviewed",
+      "exhaustive_atomic_claims": false,
+      "original_german_check": "not fully collated"
+    },
+    {
+      "id": "ORG-S11-GA313-19210413-P06",
+      "ga": 313,
+      "date": "1921-04-13",
+      "paragraph": 6,
+      "classification": "sleep_wake_symptoms",
+      "summary": "Falling asleep and waking suggested as diagnostic condensations of complex organ symptoms.",
+      "organ_terms": [
+        "sleep",
+        "breathing",
+        "metabolism"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210413.html",
+      "scope": "entire numbered English paragraph reviewed",
+      "exhaustive_atomic_claims": false,
+      "original_german_check": "not fully collated"
+    },
+    {
+      "id": "ORG-S11-GA313-19210413-P07",
+      "ga": 313,
+      "date": "1921-04-13",
+      "paragraph": 7,
+      "classification": "delayed_soul_rhythm",
+      "summary": "Grief, worries and rapid thinking claimed to affect the rhythmic organism after a delay; not accepted as a specific diagnostic rule.",
+      "organ_terms": [
+        "heart",
+        "breathing",
+        "circulation"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210413.html",
+      "scope": "entire numbered English paragraph reviewed",
+      "exhaustive_atomic_claims": false,
+      "original_german_check": "not fully collated"
+    },
+    {
+      "id": "ORG-S11-GA313-19210413-P08",
+      "ga": 313,
+      "date": "1921-04-13",
+      "paragraph": 8,
+      "classification": "hunger_thirst",
+      "summary": "Hunger and thirst described as astral experience, with prolonged metabolic imbalance alleged to disrupt circulation and breathing.",
+      "organ_terms": [
+        "metabolism",
+        "circulation",
+        "breathing"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210413.html",
+      "scope": "entire numbered English paragraph reviewed",
+      "exhaustive_atomic_claims": false,
+      "original_german_check": "not fully collated"
+    },
+    {
+      "id": "ORG-S11-GA313-19210413-P09",
+      "ga": 313,
+      "date": "1921-04-13",
+      "paragraph": 9,
+      "classification": "three_directions",
+      "summary": "Rhythmic region called meeting point of influences from head, metabolism and outer air.",
+      "organ_terms": [
+        "chest",
+        "head",
+        "metabolism",
+        "breathing"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210413.html",
+      "scope": "entire numbered English paragraph reviewed",
+      "exhaustive_atomic_claims": false,
+      "original_german_check": "not fully collated"
+    },
+    {
+      "id": "ORG-S11-GA313-19210413-P10",
+      "ga": 313,
+      "date": "1921-04-13",
+      "paragraph": 10,
+      "classification": "earth_cosmos",
+      "summary": "Proposes Earth/interior and extraterrestrial thermal/light relations as analogies for organ influences.",
+      "organ_terms": [
+        "earth",
+        "environment"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210413.html",
+      "scope": "entire numbered English paragraph reviewed",
+      "exhaustive_atomic_claims": false,
+      "original_german_check": "not fully collated"
+    },
+    {
+      "id": "ORG-S11-GA313-19210413-P11",
+      "ga": 313,
+      "date": "1921-04-13",
+      "paragraph": 11,
+      "classification": "tropical_cosmic",
+      "summary": "Claims special tropical absorption of light/heat and planetary magnetic features; unsupported physical hypothesis.",
+      "organ_terms": [
+        "climate",
+        "environment"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210413.html",
+      "scope": "entire numbered English paragraph reviewed",
+      "exhaustive_atomic_claims": false,
+      "original_german_check": "not fully collated"
+    },
+    {
+      "id": "ORG-S11-GA313-19210413-P12",
+      "ga": 313,
+      "date": "1921-04-13",
+      "paragraph": 12,
+      "classification": "polar_cosmic",
+      "summary": "Contrasts tropics and poles as different forms of external versus earthly formative relation.",
+      "organ_terms": [
+        "climate",
+        "environment"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210413.html",
+      "scope": "entire numbered English paragraph reviewed",
+      "exhaustive_atomic_claims": false,
+      "original_german_check": "not fully collated"
+    },
+    {
+      "id": "ORG-S11-GA313-19210413-P13",
+      "ga": 313,
+      "date": "1921-04-13",
+      "paragraph": 13,
+      "classification": "sunlight_therapy_claim",
+      "summary": "Claims sunlight alters rhythmic/metabolic equilibrium through cosmic forces; not a validated mechanism.",
+      "organ_terms": [
+        "light",
+        "breathing",
+        "circulation"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210413.html",
+      "scope": "entire numbered English paragraph reviewed",
+      "exhaustive_atomic_claims": false,
+      "original_german_check": "not fully collated"
+    },
+    {
+      "id": "ORG-S11-GA313-19210413-P14",
+      "ga": 313,
+      "date": "1921-04-13",
+      "paragraph": 14,
+      "classification": "false_germ_theory",
+      "summary": "Explicitly denies parasites/pathogens are actual disease causes and asserts they merely indicate host predisposition; scientifically false.",
+      "organ_terms": [
+        "infection",
+        "immune system"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210413.html",
+      "scope": "entire numbered English paragraph reviewed",
+      "exhaustive_atomic_claims": false,
+      "original_german_check": "not fully collated"
+    },
+    {
+      "id": "ORG-S11-GA313-19210413-P15",
+      "ga": 313,
+      "date": "1921-04-13",
+      "paragraph": 15,
+      "classification": "high_altitude_plant_ash",
+      "summary": "Proposes altitude, burned plant matter and food preparation as therapeutic analogies; unsupported as specific recommendations.",
+      "organ_terms": [
+        "metabolism",
+        "circulation"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210413.html",
+      "scope": "entire numbered English paragraph reviewed",
+      "exhaustive_atomic_claims": false,
+      "original_german_check": "not fully collated"
+    },
+    {
+      "id": "ORG-S11-GA313-19210413-P16",
+      "ga": 313,
+      "date": "1921-04-13",
+      "paragraph": 16,
+      "classification": "electric_magnetic_cosmic",
+      "summary": "Introduces terrestrial and extraterrestrial electric/magnetic field hypothesis.",
+      "organ_terms": [
+        "electricity",
+        "magnetism"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210413.html",
+      "scope": "entire numbered English paragraph reviewed",
+      "exhaustive_atomic_claims": false,
+      "original_german_check": "not fully collated"
+    },
+    {
+      "id": "ORG-S11-GA313-19210413-P17",
+      "ga": 313,
+      "date": "1921-04-13",
+      "paragraph": 17,
+      "classification": "magnet_therapeutic_claim",
+      "summary": "Suggests strong magnet proximity for arrhythmias; no established therapy and may distract from urgent medical care.",
+      "organ_terms": [
+        "heart",
+        "circulation"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210413.html",
+      "scope": "entire numbered English paragraph reviewed",
+      "exhaustive_atomic_claims": false,
+      "original_german_check": "not fully collated"
+    },
+    {
+      "id": "ORG-S11-GA313-19210413-P18",
+      "ga": 313,
+      "date": "1921-04-13",
+      "paragraph": 18,
+      "classification": "false_aura_magnet_therapy",
+      "summary": "Describes purported finger aura in darkroom and magnetism for pulmonary tuberculosis; no valid diagnostic or treatment basis.",
+      "organ_terms": [
+        "lungs",
+        "fingers",
+        "respiration"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210413.html",
+      "scope": "entire numbered English paragraph reviewed",
+      "exhaustive_atomic_claims": false,
+      "original_german_check": "not fully collated"
+    },
+    {
+      "id": "ORG-S11-GA313-19210413-P19",
+      "ga": 313,
+      "date": "1921-04-13",
+      "paragraph": 19,
+      "classification": "electric_field_therapy",
+      "summary": "Distinguishes direct current from external field and alleges effects on tuberculosis and metabolic/rhythmic function.",
+      "organ_terms": [
+        "lungs",
+        "metabolism",
+        "circulation"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210413.html",
+      "scope": "entire numbered English paragraph reviewed",
+      "exhaustive_atomic_claims": false,
+      "original_german_check": "not fully collated"
+    },
+    {
+      "id": "ORG-S11-GA313-19210413-P20",
+      "ga": 313,
+      "date": "1921-04-13",
+      "paragraph": 20,
+      "classification": "closing_context",
+      "summary": "Summarizes environmental theory, sleep/wake symptom method, and proposed acute-versus-chronic therapeutic directions.",
+      "organ_terms": [
+        "sleep",
+        "breathing",
+        "circulation"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210413.html",
+      "scope": "entire numbered English paragraph reviewed",
+      "exhaustive_atomic_claims": false,
+      "original_german_check": "not fully collated"
+    },
+    {
+      "id": "ORG-S11-GA317-19240626-P01",
+      "ga": 317,
+      "date": "1924-06-26",
+      "paragraph": 1,
+      "classification": "contextual_education",
+      "summary": "Frames discussion as critique of surface symptomatology in childhood development.",
+      "organ_terms": [
+        "brain",
+        "development"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "scope": "entire numbered English paragraph reviewed",
+      "exhaustive_atomic_claims": false,
+      "original_german_check": "not fully collated"
+    },
+    {
+      "id": "ORG-S11-GA317-19240626-P02",
+      "ga": 317,
+      "date": "1924-06-26",
+      "paragraph": 2,
+      "classification": "historical_critique",
+      "summary": "Discusses prosecutor Wulffen as example of contemporary psychological interpretation.",
+      "organ_terms": [
+        "history",
+        "education"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "scope": "entire numbered English paragraph reviewed",
+      "exhaustive_atomic_claims": false,
+      "original_german_check": "not fully collated"
+    },
+    {
+      "id": "ORG-S11-GA317-19240626-P03",
+      "ga": 317,
+      "date": "1924-06-26",
+      "paragraph": 3,
+      "classification": "historical_critique",
+      "summary": "Introduces disputed psychoanalytic interpretation of Schiller.",
+      "organ_terms": [
+        "history",
+        "education"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "scope": "entire numbered English paragraph reviewed",
+      "exhaustive_atomic_claims": false,
+      "original_german_check": "not fully collated"
+    },
+    {
+      "id": "ORG-S11-GA317-19240626-P04",
+      "ga": 317,
+      "date": "1924-06-26",
+      "paragraph": 4,
+      "classification": "historical_quotation",
+      "summary": "Quotes an anecdote about Schiller; no new organ-specific thesis.",
+      "organ_terms": [
+        "historical text"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "scope": "entire numbered English paragraph reviewed",
+      "exhaustive_atomic_claims": false,
+      "original_german_check": "not fully collated"
+    },
+    {
+      "id": "ORG-S11-GA317-19240626-P05",
+      "ga": 317,
+      "date": "1924-06-26",
+      "paragraph": 5,
+      "classification": "historical_quotation",
+      "summary": "Continues discussion of Schiller's behavior and literature; no organ thesis.",
+      "organ_terms": [
+        "historical text"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "scope": "entire numbered English paragraph reviewed",
+      "exhaustive_atomic_claims": false,
+      "original_german_check": "not fully collated"
+    },
+    {
+      "id": "ORG-S11-GA317-19240626-P06",
+      "ga": 317,
+      "date": "1924-06-26",
+      "paragraph": 6,
+      "classification": "historical_quotation",
+      "summary": "A quotation about critical reception of Schiller; contextual only.",
+      "organ_terms": [
+        "historical text"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "scope": "entire numbered English paragraph reviewed",
+      "exhaustive_atomic_claims": false,
+      "original_german_check": "not fully collated"
+    },
+    {
+      "id": "ORG-S11-GA317-19240626-P07",
+      "ga": 317,
+      "date": "1924-06-26",
+      "paragraph": 7,
+      "classification": "historical_quotation",
+      "summary": "Concludes quotation and labels psychological interpretation as reductionist.",
+      "organ_terms": [
+        "historical text"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "scope": "entire numbered English paragraph reviewed",
+      "exhaustive_atomic_claims": false,
+      "original_german_check": "not fully collated"
+    },
+    {
+      "id": "ORG-S11-GA317-19240626-P08",
+      "ga": 317,
+      "date": "1924-06-26",
+      "paragraph": 8,
+      "classification": "pedagogical_context",
+      "summary": "Argues against applying reductive criminal psychology to students.",
+      "organ_terms": [
+        "education"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "scope": "entire numbered English paragraph reviewed",
+      "exhaustive_atomic_claims": false,
+      "original_german_check": "not fully collated"
+    },
+    {
+      "id": "ORG-S11-GA317-19240626-P09",
+      "ga": 317,
+      "date": "1924-06-26",
+      "paragraph": 9,
+      "classification": "historically_unsupported_liver",
+      "summary": "Restates claim that difficulty translating intention into action comes from fine liver abnormality.",
+      "organ_terms": [
+        "liver",
+        "will",
+        "limbs"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "scope": "entire numbered English paragraph reviewed",
+      "exhaustive_atomic_claims": false,
+      "original_german_check": "not fully collated"
+    },
+    {
+      "id": "ORG-S11-GA317-19240626-P10",
+      "ga": 317,
+      "date": "1924-06-26",
+      "paragraph": 10,
+      "classification": "historically_false_heredity",
+      "summary": "Claims a second bodily organization after first dentition overcomes heredity if individuality is strong; scientifically incorrect genetics.",
+      "organ_terms": [
+        "body",
+        "heredity",
+        "teeth"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "scope": "entire numbered English paragraph reviewed",
+      "exhaustive_atomic_claims": false,
+      "original_german_check": "not fully collated"
+    },
+    {
+      "id": "ORG-S11-GA317-19240626-P11",
+      "ga": 317,
+      "date": "1924-06-26",
+      "paragraph": 11,
+      "classification": "thought_will_polarity",
+      "summary": "Brain synthesis is said to underlie thinking, metabolic-limb analytical activity willing.",
+      "organ_terms": [
+        "brain",
+        "metabolic-limb system"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "scope": "entire numbered English paragraph reviewed",
+      "exhaustive_atomic_claims": false,
+      "original_german_check": "not fully collated"
+    },
+    {
+      "id": "ORG-S11-GA317-19240626-P12",
+      "ga": 317,
+      "date": "1924-06-26",
+      "paragraph": 12,
+      "classification": "milk_jug_analogy",
+      "summary": "Brain likened to milk jug: Steiner rejects brain as originator of thoughts.",
+      "organ_terms": [
+        "brain",
+        "thinking"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "scope": "entire numbered English paragraph reviewed",
+      "exhaustive_atomic_claims": false,
+      "original_german_check": "not fully collated"
+    },
+    {
+      "id": "ORG-S11-GA317-19240626-P13",
+      "ga": 317,
+      "date": "1924-06-26",
+      "paragraph": 13,
+      "classification": "world_ether_thought",
+      "summary": "Living thoughts proposed as residing in common world ether and appropriated before earthly incarnation.",
+      "organ_terms": [
+        "world ether",
+        "brain",
+        "etheric body"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "scope": "entire numbered English paragraph reviewed",
+      "exhaustive_atomic_claims": false,
+      "original_german_check": "not fully collated"
+    },
+    {
+      "id": "ORG-S11-GA317-19240626-P14",
+      "ga": 317,
+      "date": "1924-06-26",
+      "paragraph": 14,
+      "classification": "brain_receiving",
+      "summary": "Living world ether thoughts allegedly fashion brain into a processing organ.",
+      "organ_terms": [
+        "brain",
+        "nervous system"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "scope": "entire numbered English paragraph reviewed",
+      "exhaustive_atomic_claims": false,
+      "original_german_check": "not fully collated"
+    },
+    {
+      "id": "ORG-S11-GA317-19240626-P15",
+      "ga": 317,
+      "date": "1924-06-26",
+      "paragraph": 15,
+      "classification": "brain_mirror_and_breakdown",
+      "summary": "Nerves alleged to be shed/dying matter whose structure reflects world-ether thoughts; medically unsupported neurobiology.",
+      "organ_terms": [
+        "nerves",
+        "brain"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "scope": "entire numbered English paragraph reviewed",
+      "exhaustive_atomic_claims": false,
+      "original_german_check": "not fully collated"
+    },
+    {
+      "id": "ORG-S11-GA317-19240626-P16",
+      "ga": 317,
+      "date": "1924-06-26",
+      "paragraph": 16,
+      "classification": "reflection_and_pathology",
+      "summary": "Distorted thoughts attributed to an imperfect brain mirror; unsupported psychiatric mechanism.",
+      "organ_terms": [
+        "brain",
+        "psychiatric cognition"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "scope": "entire numbered English paragraph reviewed",
+      "exhaustive_atomic_claims": false,
+      "original_german_check": "not fully collated"
+    },
+    {
+      "id": "ORG-S11-GA317-19240626-P17",
+      "ga": 317,
+      "date": "1924-06-26",
+      "paragraph": 17,
+      "classification": "pedagogical_attitude",
+      "summary": "Argues educators need religious/cosmic view of living thoughts to approach children.",
+      "organ_terms": [
+        "pedagogy",
+        "brain"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "scope": "entire numbered English paragraph reviewed",
+      "exhaustive_atomic_claims": false,
+      "original_german_check": "not fully collated"
+    },
+    {
+      "id": "ORG-S11-GA317-19240626-P18",
+      "ga": 317,
+      "date": "1924-06-26",
+      "paragraph": 18,
+      "classification": "etheric_mirror_pathology",
+      "summary": "Attributes unusual thought to improperly developed etheric body; unsupported.",
+      "organ_terms": [
+        "etheric body",
+        "brain"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "scope": "entire numbered English paragraph reviewed",
+      "exhaustive_atomic_claims": false,
+      "original_german_check": "not fully collated"
+    },
+    {
+      "id": "ORG-S11-GA317-19240626-P19",
+      "ga": 317,
+      "date": "1924-06-26",
+      "paragraph": 19,
+      "classification": "container_analogy",
+      "summary": "Return to milk-jug model for thought receptacle; alleged karmic prebirth etheric form.",
+      "organ_terms": [
+        "etheric body",
+        "brain"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "scope": "entire numbered English paragraph reviewed",
+      "exhaustive_atomic_claims": false,
+      "original_german_check": "not fully collated"
+    },
+    {
+      "id": "ORG-S11-GA317-19240626-P20",
+      "ga": 317,
+      "date": "1924-06-26",
+      "paragraph": 20,
+      "classification": "etheric_lower_body",
+      "summary": "Claims unequal etheric development in head versus abdomen/limbs and karmic origin of disability; unsupported and stigmatizing.",
+      "organ_terms": [
+        "head",
+        "abdomen",
+        "limbs"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "scope": "entire numbered English paragraph reviewed",
+      "exhaustive_atomic_claims": false,
+      "original_german_check": "not fully collated"
+    },
+    {
+      "id": "ORG-S11-GA317-19240626-P21",
+      "ga": 317,
+      "date": "1924-06-26",
+      "paragraph": 21,
+      "classification": "higher_member_law",
+      "summary": "Claims educator's next-higher constitutional member influences child's lower member.",
+      "organ_terms": [
+        "physical body",
+        "etheric body",
+        "astral body",
+        "I"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "scope": "entire numbered English paragraph reviewed",
+      "exhaustive_atomic_claims": false,
+      "original_german_check": "not fully collated"
+    },
+    {
+      "id": "ORG-S11-GA317-19240626-P22",
+      "ga": 317,
+      "date": "1924-06-26",
+      "paragraph": 22,
+      "classification": "teacher_child_correspondence",
+      "summary": "Gives physical-etheric, etheric-astral, astral-I, I-spirit-self teacher/child scheme.",
+      "organ_terms": [
+        "education",
+        "constitutional members"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "scope": "entire numbered English paragraph reviewed",
+      "exhaustive_atomic_claims": false,
+      "original_german_check": "not fully collated"
+    },
+    {
+      "id": "ORG-S11-GA317-19240626-P23",
+      "ga": 317,
+      "date": "1924-06-26",
+      "paragraph": 23,
+      "classification": "spirit_self_in_education",
+      "summary": "Expands correspondence; teacher's spirit-self claimed to work on child's I.",
+      "organ_terms": [
+        "I",
+        "spirit-self"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "scope": "entire numbered English paragraph reviewed",
+      "exhaustive_atomic_claims": false,
+      "original_german_check": "not fully collated"
+    },
+    {
+      "id": "ORG-S11-GA317-19240626-P24",
+      "ga": 317,
+      "date": "1924-06-26",
+      "paragraph": 24,
+      "classification": "educator_astral_preparation",
+      "summary": "Educator asked to cultivate astral organization to affect child's etheric organization.",
+      "organ_terms": [
+        "astral body",
+        "etheric body"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "scope": "entire numbered English paragraph reviewed",
+      "exhaustive_atomic_claims": false,
+      "original_german_check": "not fully collated"
+    },
+    {
+      "id": "ORG-S11-GA317-19240626-P25",
+      "ga": 317,
+      "date": "1924-06-26",
+      "paragraph": 25,
+      "classification": "liver_etheric_will",
+      "summary": "Attributes a child's difficulty acting on intentions to atrophy of etheric organization in liver; unsupported etiology.",
+      "organ_terms": [
+        "liver",
+        "etheric body",
+        "will"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "scope": "entire numbered English paragraph reviewed",
+      "exhaustive_atomic_claims": false,
+      "original_german_check": "not fully collated"
+    },
+    {
+      "id": "ORG-S11-GA317-19240626-P26",
+      "ga": 317,
+      "date": "1924-06-26",
+      "paragraph": 26,
+      "classification": "professional_caution",
+      "summary": "Counsels compassion and warns against fanaticism; still bases discussion on unsupported childhood classifications.",
+      "organ_terms": [
+        "education",
+        "disability"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "scope": "entire numbered English paragraph reviewed",
+      "exhaustive_atomic_claims": false,
+      "original_german_check": "not fully collated"
+    },
+    {
+      "id": "ORG-S11-GA317-19240626-P27",
+      "ga": 317,
+      "date": "1924-06-26",
+      "paragraph": 27,
+      "classification": "karmic_psychiatry",
+      "summary": "Speculates severe mental illness due to incarceration in prior incarnation; stigmatizing and unevidenced.",
+      "organ_terms": [
+        "mental health",
+        "body"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "scope": "entire numbered English paragraph reviewed",
+      "exhaustive_atomic_claims": false,
+      "original_german_check": "not fully collated"
+    },
+    {
+      "id": "ORG-S11-GA317-19240626-P28",
+      "ga": 317,
+      "date": "1924-06-26",
+      "paragraph": 28,
+      "classification": "liver_stomach_boundary",
+      "summary": "Claims I/astral organization struggle to enter liver and stomach, causing oscillating abnormal rhythm in child.",
+      "organ_terms": [
+        "liver",
+        "stomach",
+        "astral body",
+        "I"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "scope": "entire numbered English paragraph reviewed",
+      "exhaustive_atomic_claims": false,
+      "original_german_check": "not fully collated"
+    },
+    {
+      "id": "ORG-S11-GA317-19240626-P29",
+      "ga": 317,
+      "date": "1924-06-26",
+      "paragraph": 29,
+      "classification": "process_explanation",
+      "summary": "Transition to illustrative story about technical incompetence despite intelligence.",
+      "organ_terms": [
+        "analogy"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "scope": "entire numbered English paragraph reviewed",
+      "exhaustive_atomic_claims": false,
+      "original_german_check": "not fully collated"
+    },
+    {
+      "id": "ORG-S11-GA317-19240626-P30",
+      "ga": 317,
+      "date": "1924-06-26",
+      "paragraph": 30,
+      "classification": "watchmaker_analogy",
+      "summary": "Watch repair example used for alleged incompatibility of reincarnating individuality with bodily structure.",
+      "organ_terms": [
+        "body",
+        "reincarnation"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "scope": "entire numbered English paragraph reviewed",
+      "exhaustive_atomic_claims": false,
+      "original_german_check": "not fully collated"
+    },
+    {
+      "id": "ORG-S11-GA317-19240626-P31",
+      "ga": 317,
+      "date": "1924-06-26",
+      "paragraph": 31,
+      "classification": "karmic_disability_harm",
+      "summary": "Attributes disability and possible educator influence to karma; not valid explanation of child disability.",
+      "organ_terms": [
+        "liver",
+        "stomach",
+        "disability"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "scope": "entire numbered English paragraph reviewed",
+      "exhaustive_atomic_claims": false,
+      "original_german_check": "not fully collated"
+    },
+    {
+      "id": "ORG-S11-GA317-19240626-P32",
+      "ga": 317,
+      "date": "1924-06-26",
+      "paragraph": 32,
+      "classification": "ethical_concern",
+      "summary": "Discussion of ethical concern about use of occult techniques including biodynamics.",
+      "organ_terms": [
+        "historical context"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "scope": "entire numbered English paragraph reviewed",
+      "exhaustive_atomic_claims": false,
+      "original_german_check": "not fully collated"
+    },
+    {
+      "id": "ORG-S11-GA317-19240626-P33",
+      "ga": 317,
+      "date": "1924-06-26",
+      "paragraph": 33,
+      "classification": "meditative_educator_claim",
+      "summary": "Urges moral courage/meditation for educators and calls their acts karmic interventions.",
+      "organ_terms": [
+        "educator",
+        "spirit-self"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "scope": "entire numbered English paragraph reviewed",
+      "exhaustive_atomic_claims": false,
+      "original_german_check": "not fully collated"
+    }
+  ],
+  "checked_sections": 53,
+  "warnings": [
+    "Sections, not unique atomic claims: some paragraphs contain multiple assertions.",
+    "Steiner's treatments and medical/psychiatric theories are historical; infectious causes, brain function, genetics and disability causation in some passages conflict with established science.",
+    "No entire German lecture collation has been completed.",
+    "Original text remains at Steiner Archive; only research metadata included."
+  ]
+}
