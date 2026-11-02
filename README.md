@@ -108,5 +108,5 @@ Current organ research: [Phase 12 findings](docs/ORGAN_CONCORDANCE_PHASE12_FINDI
 
 [Cumulative research manuscript v13](docs/Steiner_Organ_Evolution_Research_Atlas_v13.md) · [Exact continuation checkpoint](docs/ORGAN_CONCORDANCE_RESUME.md) · [Current coverage ledger](research/organ-corpus-ledger-ga313-317-v13.json) · [21 cumulative dossiers](research/organ-comparative-dossiers-v13.json) · [Phase 13 findings](docs/ORGAN_CONCORDANCE_PHASE13_FINDINGS.md).
 
-Current coverage: 16 complete English numbered-section lecture reviews, 1 additional thematic sweep, 3 selected-only entries, 41 unread of 61. Full bilingual exhaustive certification remains zero. Earlier checkpoints below retain historical statistics.
+Current coverage: 16 complete English numbered-section lecture reviews, 1 additional thematic sweep, 4 selected-only entries, 40 unread of 61. Full bilingual exhaustive certification remains zero. Earlier checkpoints below retain historical statistics.
 

@@ -9,14 +9,14 @@ This edition preserves the complete version 11 manuscript and adds phases 12–1
 | GA 313–317 catalogue entries | 61 |
 | Lectures with complete English numbered-section reviews | 16 |
 | Additional unnumbered thematic sweep | 1 |
-| Additional selected-only lectures | 3 |
-| Wholly unread entries | 41 |
+| Additional selected-only lectures | 4 |
+| Wholly unread entries | 40 |
 | Numbered sections in completed English lectures | 395 |
 | Original six-lecture target census | 164 / 164 |
 | Certified exhaustive bilingual, second-reviewed audits | 0 |
 | Current organ/process dossiers | 21 |
 
-This session reviewed 160 sections across GA 317 III–IV, GA 313 IV–VI and GA 317 V. Of those sections, 131 newly receive substantive coverage and 29 were reread. The 93 selected claim records include 63 provisional new candidates and 30 explicit comparisons with earlier records; a globally unique teaching count has not been certified.
+This session reviewed 160 sections across GA 317 III–IV, GA 313 IV–VI and GA 317 V: 130 newly covered sections, 29 target-section rereads and one recovered pilot opening-section match. The 93 selected claim records include 63 provisional new candidates and 30 earlier-record comparisons; a globally unique teaching count has not been certified. Two earlier unread labels contradicted pilot selections; the current ledger corrects these while preserving historical v11.
 
 **Correction layer to read before reusing older chapters:** the v8 brain-buoyancy paraphrase reversed direct/indirect contact (GA 317 III §6). Three v9 earlier-claim references were misassigned; corrected mappings are v9-017 → v8-040, v9-018 → v8-042, v9-019 → v8-044. Full details and unresolved tensions appear in phase 12. Earlier files and this inherited manuscript body remain preserved for version history.
 
@@ -1564,8 +1564,8 @@ The false neurological, appendicitis and phrenological claims, moralized disabil
 | --- | ---: | ---: |
 | Complete English numbered-section lecture reviews | 10 | 12 |
 | Additional unnumbered thematic sweep | 1 | 1 |
-| Additional selected-only lectures | 5 | 3 |
-| Wholly unread catalogue entries | 45 | 45 |
+| Additional selected-only lectures | 5 | 5 |
+| Wholly unread catalogue entries | 45 | 43 |
 | Sections belonging to completed English reviews | 235 | 295 |
 | Target six-lecture census reviewed | 133/164 | 164/164 |
 | Certified exhaustive bilingual second-reviewed audits | 0 | 0 |
@@ -1574,10 +1574,12 @@ The v11 ledger carried stale headline fields despite a correct end-of-file discl
 
 Next expansion: GA 313 IV, 14 April 1921, then V onward. Full German collation and unresolved correction targets remain a separate workstream.
 
+Legacy reconciliation after phase 13: two v11 unread labels contradicted pilot selections (GA 313 IV; GA 315 VII). Corrected v12 categories: 12 English-complete + 1 thematic + 5 selected-only + 43 unread. Historical v11 reported counts are retained as history.
+
 
 # Phase 13 — GA 313 IV–VI and GA 317 V
 
-Research date: 2 November 2026. All four **English** lectures read in full at numbered-section level: [GA 313 IV](https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html) §§1–24, [V](https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html) §§1–24, [VI](https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html) §§1–22; [GA 317 V](https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html) §§1–30. These 100 sections were previously in unread catalogue entries. Selected German comparisons are logged separately; no full bilingual certification.
+Research date: 2 November 2026. All four **English** lectures read in full at numbered-section level: [GA 313 IV](https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html) §§1–24, [V](https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html) §§1–24, [VI](https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html) §§1–22; [GA 317 V](https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html) §§1–30. These 100 section reads expand four entries previously labelled unread; one already had a selected opening passage in the pilot. Selected German comparisons are logged separately; no full bilingual certification.
 
 ## Findings that change the Atlas structure
 
@@ -1618,9 +1620,13 @@ The teaching evidence above remains exclusively Steiner's primary text. The foll
 ## Evidence delivered
 
 - **100 section records** in `organ-paragraph-review-ga313-iv-vi-ga317-v-v13.json`, including contexts with no new organ proposition.
-- **55 selected claim records**: 43 provisionally new relative to inspected registers, 12 comparisons in different contexts. These are not a global novelty total, and not exhaustive sentence-level extraction.
+- **55 selected claim records**: 43 provisionally new relative to inspected registers, 12 earlier-record comparisons, including the recovered pilot match. These are not a global novelty total, and not exhaustive sentence-level extraction.
 - **21 cumulative organ/process dossiers**, preserving all previous relations and adding teeth, blood, bones, muscles, uterus, hair and limbs. Heart, liver, lung, brain, digestion and chest dossiers gain new typed links.
 - A current corpus ledger derived from mutually exclusive entry states; searchable claim/dossier graph and query tool; original-language issues retained without forced resolution.
+
+## Legacy ledger reconciliation
+
+The original pilot already checked GA 313 IV’s opening and a GA 315 VII passage, although v11 labelled both unread. Corrected starting categories: **10 complete + 1 thematic + 7 selected-only + 43 unread**, rather than reported 10 + 1 + 5 + 45. Current categories: **16 + 1 + 4 + 40**. Three wholly unread and three selected-only entries became English-complete this session. The table retains the v11 reported baseline for transparency.
 
 ## Coverage after both milestones
 
@@ -1628,13 +1634,13 @@ The teaching evidence above remains exclusively Steiner's primary text. The foll
 | --- | ---: | ---: |
 | Complete English numbered-section reviews | 10 | 16 |
 | Additional unnumbered thematic sweep | 1 | 1 |
-| Additional selected-only lecture reviews | 5 | 3 |
-| Wholly unread catalogue entries | 45 | 41 |
+| Additional selected-only lecture reviews | 5 | 4 |
+| Wholly unread catalogue entries | 45 | 40 |
 | Sections in English-complete lectures | 235 | 395 |
 | Target six-lecture census | 133/164 | 164/164 |
 | Full bilingual exhaustive second-reviewed audits | 0 | 0 |
 
-This session read **160 sections across six lectures**, with 131 sections newly covered relative to prior substantive reviews and 29 reread. It added **93 selected claim records**, of which 63 are provisional new candidates and 30 have explicit earlier-record comparisons. A certified count of globally unique teachings remains **unknown**.
+This session read **160 sections across six lectures**, with 130 newly covered sections, 29 target-section rereads and one recovered legacy opening-section match. It added **93 selected claim records**, of which 63 are provisional new candidates and 30 have explicit earlier-record comparisons. A certified count of globally unique teachings remains **unknown**.
 
 Resume at **GA 313 VII, 17 April 1921, §1**, then VIII–IX. In the parallel corpus sequence resume at **GA 317 VI, 1 July 1924, §1**. Neither is marked read. Continue GA 315 V–VIII and remaining GA 314/316 entries afterward. German collation, second review, neglected atomic subclaims and the unresolved textual issues remain outstanding across completed English lectures.
 
@@ -1677,7 +1683,7 @@ Updated 2 November 2026 after phases 12–13. The original work brief remains in
 ## Read these current records first
 
 1. [Phase 12 findings](ORGAN_CONCORDANCE_PHASE12_FINDINGS.md) and [phase 13 findings](ORGAN_CONCORDANCE_PHASE13_FINDINGS.md).
-2. [Current corpus ledger v13](../research/organ-corpus-ledger-ga313-317-v13.json): 16 English-complete numbered reviews, one additional thematic sweep, three selected-only entries, 41 unread; 395 sections in completed English lectures.
+2. [Current corpus ledger v13](../research/organ-corpus-ledger-ga313-317-v13.json): 16 English-complete numbered reviews, one additional thematic sweep, four selected-only entries, 40 unread; 395 sections in completed English lectures.
 3. [Current dossiers v13](../research/organ-comparative-dossiers-v13.json): 21 organ/process dossiers, all older relations retained.
 4. [German checks/corrections v12](../research/organ-german-checks-and-corrections-v12.json), [textual issues v13](../research/organ-german-checks-and-textual-issues-v13.json).
 5. [Cumulative manuscript v13](Steiner_Organ_Evolution_Research_Atlas_v13.md). Its v11 body is preserved exactly, with an explicit current correction layer.

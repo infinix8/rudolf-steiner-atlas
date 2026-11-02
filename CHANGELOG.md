@@ -1,3 +1,9 @@
+# 2026-11-02 — Final legacy coverage correction
+
+- Pilot selections for GA313 IV and GA315 VII contradict earlier unread labels. Corrected v12 categories: 12 + 1 + 5 + 43; current v13: 16 + 1 + 4 + 40 (English-complete, thematic, selected-only, unread).
+- Recovered ORG-CLAIM-V13-001 pilot match. Session: 130 new section reviews, 29 target rereads, one legacy opening-section match; 160 reads total.
+- Current ledgers supersede historical statistics retained below.
+
 ## 2026-11-02 — Organ concordance Phase 11: GA 313 III and GA 317 II
 
 - Completed all **20 numbered English sections of GA 313 III (13 April 1921)** and **33 of GA 317 II (26 June 1924)**. Added a [53-entry complete English section-level review](research/organ-paragraph-review-ga313-iii-ga317-ii-v11.json) including context and historical-error sections. German comparison was selective, **not** word-by-word for either entire lecture.

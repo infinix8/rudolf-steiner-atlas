@@ -5,7 +5,7 @@ Updated 2 November 2026 after phases 12–13. The original work brief remains in
 ## Read these current records first
 
 1. [Phase 12 findings](ORGAN_CONCORDANCE_PHASE12_FINDINGS.md) and [phase 13 findings](ORGAN_CONCORDANCE_PHASE13_FINDINGS.md).
-2. [Current corpus ledger v13](../research/organ-corpus-ledger-ga313-317-v13.json): 16 English-complete numbered reviews, one additional thematic sweep, three selected-only entries, 41 unread; 395 sections in completed English lectures.
+2. [Current corpus ledger v13](../research/organ-corpus-ledger-ga313-317-v13.json): 16 English-complete numbered reviews, one additional thematic sweep, four selected-only entries, 40 unread; 395 sections in completed English lectures.
 3. [Current dossiers v13](../research/organ-comparative-dossiers-v13.json): 21 organ/process dossiers, all older relations retained.
 4. [German checks/corrections v12](../research/organ-german-checks-and-corrections-v12.json), [textual issues v13](../research/organ-german-checks-and-textual-issues-v13.json).
 5. [Cumulative manuscript v13](Steiner_Organ_Evolution_Research_Atlas_v13.md). Its v11 body is preserved exactly, with an explicit current correction layer.

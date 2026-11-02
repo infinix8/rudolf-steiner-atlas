@@ -22,11 +22,14 @@
       "evidence_state": "complete_English_section_review",
       "german_status": "not_checked_at_claim_level",
       "reconciliation": {
-        "decision": "different_context",
+        "decision": "same_claim",
         "prior_claim_ids": [
+          "ORG-313-19210414-01"
+        ],
+        "additional_context_comparison": [
           "ORG-CLAIM-V11-004"
         ],
-        "scope": "Comparison against loaded v8–v12 registers; new candidate does not certify corpus-wide novelty"
+        "scope": "Pilot insomnia passage aligned to §1; not a wholly unread source or a new unique teaching."
       },
       "caveats": [
         "Steiner attribution, not independently established mechanism."

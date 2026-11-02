@@ -31,8 +31,8 @@ The false neurological, appendicitis and phrenological claims, moralized disabil
 | --- | ---: | ---: |
 | Complete English numbered-section lecture reviews | 10 | 12 |
 | Additional unnumbered thematic sweep | 1 | 1 |
-| Additional selected-only lectures | 5 | 3 |
-| Wholly unread catalogue entries | 45 | 45 |
+| Additional selected-only lectures | 5 | 5 |
+| Wholly unread catalogue entries | 45 | 43 |
 | Sections belonging to completed English reviews | 235 | 295 |
 | Target six-lecture census reviewed | 133/164 | 164/164 |
 | Certified exhaustive bilingual second-reviewed audits | 0 | 0 |
@@ -40,3 +40,5 @@ The false neurological, appendicitis and phrenological claims, moralized disabil
 The v11 ledger carried stale headline fields despite a correct end-of-file disclaimer. v12 defines and recomputes mutually exclusive status categories; historical phase snapshots are retained as history, not current totals.
 
 Next expansion: GA 313 IV, 14 April 1921, then V onward. Full German collation and unresolved correction targets remain a separate workstream.
+
+Legacy reconciliation after phase 13: two v11 unread labels contradicted pilot selections (GA 313 IV; GA 315 VII). Corrected v12 categories: 12 English-complete + 1 thematic + 5 selected-only + 43 unread. Historical v11 reported counts are retained as history.

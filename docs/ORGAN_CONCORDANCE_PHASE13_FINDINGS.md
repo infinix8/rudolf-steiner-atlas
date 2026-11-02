@@ -1,6 +1,6 @@
 # Phase 13 — GA 313 IV–VI and GA 317 V
 
-Research date: 2 November 2026. All four **English** lectures read in full at numbered-section level: [GA 313 IV](https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html) §§1–24, [V](https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html) §§1–24, [VI](https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html) §§1–22; [GA 317 V](https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html) §§1–30. These 100 sections were previously in unread catalogue entries. Selected German comparisons are logged separately; no full bilingual certification.
+Research date: 2 November 2026. All four **English** lectures read in full at numbered-section level: [GA 313 IV](https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html) §§1–24, [V](https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html) §§1–24, [VI](https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html) §§1–22; [GA 317 V](https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html) §§1–30. These 100 section reads expand four entries previously labelled unread; one already had a selected opening passage in the pilot. Selected German comparisons are logged separately; no full bilingual certification.
 
 ## Findings that change the Atlas structure
 
@@ -41,9 +41,13 @@ The teaching evidence above remains exclusively Steiner's primary text. The foll
 ## Evidence delivered
 
 - **100 section records** in `organ-paragraph-review-ga313-iv-vi-ga317-v-v13.json`, including contexts with no new organ proposition.
-- **55 selected claim records**: 43 provisionally new relative to inspected registers, 12 comparisons in different contexts. These are not a global novelty total, and not exhaustive sentence-level extraction.
+- **55 selected claim records**: 43 provisionally new relative to inspected registers, 12 earlier-record comparisons, including the recovered pilot match. These are not a global novelty total, and not exhaustive sentence-level extraction.
 - **21 cumulative organ/process dossiers**, preserving all previous relations and adding teeth, blood, bones, muscles, uterus, hair and limbs. Heart, liver, lung, brain, digestion and chest dossiers gain new typed links.
 - A current corpus ledger derived from mutually exclusive entry states; searchable claim/dossier graph and query tool; original-language issues retained without forced resolution.
+
+## Legacy ledger reconciliation
+
+The original pilot already checked GA 313 IV’s opening and a GA 315 VII passage, although v11 labelled both unread. Corrected starting categories: **10 complete + 1 thematic + 7 selected-only + 43 unread**, rather than reported 10 + 1 + 5 + 45. Current categories: **16 + 1 + 4 + 40**. Three wholly unread and three selected-only entries became English-complete this session. The table retains the v11 reported baseline for transparency.
 
 ## Coverage after both milestones
 
@@ -51,12 +55,12 @@ The teaching evidence above remains exclusively Steiner's primary text. The foll
 | --- | ---: | ---: |
 | Complete English numbered-section reviews | 10 | 16 |
 | Additional unnumbered thematic sweep | 1 | 1 |
-| Additional selected-only lecture reviews | 5 | 3 |
-| Wholly unread catalogue entries | 45 | 41 |
+| Additional selected-only lecture reviews | 5 | 4 |
+| Wholly unread catalogue entries | 45 | 40 |
 | Sections in English-complete lectures | 235 | 395 |
 | Target six-lecture census | 133/164 | 164/164 |
 | Full bilingual exhaustive second-reviewed audits | 0 | 0 |
 
-This session read **160 sections across six lectures**, with 131 sections newly covered relative to prior substantive reviews and 29 reread. It added **93 selected claim records**, of which 63 are provisional new candidates and 30 have explicit earlier-record comparisons. A certified count of globally unique teachings remains **unknown**.
+This session read **160 sections across six lectures**, with 130 newly covered sections, 29 target-section rereads and one recovered legacy opening-section match. It added **93 selected claim records**, of which 63 are provisional new candidates and 30 have explicit earlier-record comparisons. A certified count of globally unique teachings remains **unknown**.
 
 Resume at **GA 313 VII, 17 April 1921, §1**, then VIII–IX. In the parallel corpus sequence resume at **GA 317 VI, 1 July 1924, §1**. Neither is marked read. Continue GA 315 V–VIII and remaining GA 314/316 entries afterward. German collation, second review, neglected atomic subclaims and the unresolved textual issues remain outstanding across completed English lectures.

@@ -878,6 +878,11 @@
       "id": "RS-18.02",
       "kind": "canonical_taxonomy",
       "label": "Organ systems"
+    },
+    {
+      "id": "ORG-313-19210414-01",
+      "kind": "legacy_claim_reference",
+      "label": "Pilot insomnia passage"
     }
   ],
   "edges": [
@@ -1584,12 +1589,6 @@
       "evidence_source": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html"
     },
     {
-      "source": "ORG-CLAIM-V13-001",
-      "target": "ORG-CLAIM-V11-004",
-      "relation": "different_context",
-      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html"
-    },
-    {
       "source": "ORG-CLAIM-V13-002",
       "target": "ORG-CLAIM-V12-009",
       "relation": "different_context",
@@ -1786,6 +1785,12 @@
       "target": "RS-18.02",
       "relation": "editorial_topic_index",
       "evidence_source": "taxonomy/taxonomy-v1.json"
+    },
+    {
+      "source": "ORG-CLAIM-V13-001",
+      "target": "ORG-313-19210414-01",
+      "relation": "same_claim",
+      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html"
     }
   ]
 }

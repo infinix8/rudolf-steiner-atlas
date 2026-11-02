@@ -1,0 +1,23 @@
+{
+  "schema_version": "1.0",
+  "source": "research/organ-passages-ga313-317-pilot.json",
+  "corrections": [
+    {
+      "entry": "GA313-04",
+      "prior_pilot_claim": "ORG-313-19210414-01",
+      "correction": "Earlier unread label should have been selected-only; now complete English."
+    },
+    {
+      "entry": "GA315-07",
+      "prior_pilot_claim": "ORG-315-19210418-01",
+      "correction": "Earlier unread label should be selected-only; whole-lecture review pending."
+    }
+  ],
+  "current_categories": {
+    "complete_English": 16,
+    "thematic": 1,
+    "selected_only": 4,
+    "unread": 40
+  },
+  "historical_v11_preserved": true
+}

@@ -1,5 +1,7 @@
 # ChatGPT Work task: Rudolf Steiner Organ Evolution — complete source-linked concordance
 
+**Latest continuation checkpoint (2 November 2026):** [Resume after phases 12–13](ORGAN_CONCORDANCE_RESUME.md). GA317 III–IV and GA313 IV–VI / GA317 V now have complete English section reviews. Current corrected categories: 16 complete English, 1 thematic, 4 selected-only, 40 unread. Historical baseline and original execution instructions below are preserved; use the current ledger and resume file for the next session.
+
 **Task status:** Ready for a long-running ChatGPT Work handoff. This file is an executable research brief, not an assertion that a Work run has started.
 
 **Canonical GitHub repository:** [infinix8/rudolf-steiner-atlas](https://github.com/infinix8/rudolf-steiner-atlas) (private; use the connected GitHub account). **Tracking issue:** [#14](https://github.com/infinix8/rudolf-steiner-atlas/issues/14). Keep this project separate from every BOTA repository.

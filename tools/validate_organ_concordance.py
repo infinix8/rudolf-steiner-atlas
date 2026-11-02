@@ -2,14 +2,14 @@
 """Validate current organ evidence links, arithmetic and cumulative preservation.
 
 Structural validation does not certify the accuracy of editorial source readings.
-Run from any directory; accepts a version number (default 12).
+Run from any directory; accepts a version number (default 13).
 """
 from pathlib import Path
 import hashlib
 from collections import Counter
 import json, sys
 ROOT=Path(__file__).resolve().parents[1]
-version=sys.argv[1] if len(sys.argv)>1 else '12'
+version=sys.argv[1] if len(sys.argv)>1 else '13'
 def load(path):return json.loads((ROOT/path).read_text())
 ledger=load(f'research/organ-corpus-ledger-ga313-317-v{version}.json')
 counts=Counter(x['audit_status'] for x in ledger['entries'])

@@ -1,0 +1,10 @@
+{
+  "schema_version": "1.0",
+  "document": "docs/Steiner_Organ_Evolution_Research_Atlas_v13.docx",
+  "sha256": "6d08d18a210b094d601f62733d11e31a4a4c41a9451ebfa8f952e726d2602433",
+  "pages": 54,
+  "visual_review": "All 54 pages inspected; after coverage correction, 46 page PNGs pixel-identical and 8 changed pages re-inspected.",
+  "out_of_page_text": [],
+  "structural_validation": "Organ ledger arithmetic, evidence references, preserved v11 byte range and main knowledge graph checks passed.",
+  "source_preservation": "research/organ-manuscript-provenance-v13.json"
+}

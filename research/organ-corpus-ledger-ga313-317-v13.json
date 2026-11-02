@@ -3,8 +3,8 @@
   "as_of": "2026-11-02",
   "catalogued_entries": 61,
   "fully_audited": 0,
-  "partially_reviewed": 4,
-  "coverage_notes": "61 entries: 16 complete English numbered-section reviews; 1 unnumbered thematic sweep; 3 selected-only; 41 unread.",
+  "partially_reviewed": 5,
+  "coverage_notes": "61 entries: 16 complete English numbered reviews; 1 thematic sweep; 4 selected-only; 40 unread. Corrected two legacy pilot/ledger contradictions.",
   "entries": [
     {
       "id": "GA313-01",
@@ -82,7 +82,10 @@
       "german_checked": false,
       "english_paragraphs_reviewed": 24,
       "audit_record": "research/organ-paragraph-review-ga313-iv-vi-ga317-v-v13.json",
-      "original_german_status": "selected_passages_spot_checked_not_full_collation"
+      "original_german_status": "selected_passages_spot_checked_not_full_collation",
+      "audit_notes": [
+        "Legacy correction: pilot selected passage ORG-313-19210414-01 contradicts earlier unread label."
+      ]
     },
     {
       "id": "GA313-05",
@@ -464,11 +467,15 @@
       "label": "Lecture VII",
       "date": "1921-04-18",
       "catalog_url": "https://rsarchive.org/Lectures/GA315/",
-      "source_url": null,
-      "audit_status": "unreviewed",
+      "source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210418.html",
+      "audit_status": "selected_english_passages_checked_not_whole_lecture",
       "full_lecture_audited": false,
       "extraction_complete": false,
-      "german_checked": false
+      "german_checked": false,
+      "audit_record": "research/organ-passages-ga313-317-pilot.json",
+      "audit_notes": [
+        "Legacy correction: pilot selected passage ORG-315-19210418-01 contradicts earlier unread label."
+      ]
     },
     {
       "id": "GA315-08",
@@ -888,13 +895,13 @@
     }
   ],
   "english_paragraph_coverage_completed": 16,
-  "unreviewed": 41,
-  "disclaimer": "395 sections in completed English lectures; no exhaustive bilingual atomic second-review audit certified.",
+  "unreviewed": 40,
+  "disclaimer": "Complete English coverage does not certify exhaustive atomic or bilingual audit. Pilot selections corrected in current category arithmetic.",
   "english_paragraph_coverage_complete": 16,
   "numbered_english_paragraphs_checked": 395,
   "unnumbered_morning_thematic_passages": 9,
   "external_ga205_english_sections_checked": 26,
-  "selective_passage_reviews": 3,
+  "selective_passage_reviews": 4,
   "phase9_six_lecture_census": {
     "total_numbered_english_sections": 164,
     "selected_section_checks_cumulative": 89,
@@ -935,13 +942,39 @@
     "original_german_collation_complete": false
   },
   "phase13_review": {
-    "newly_read_catalogue_entries": 4,
     "english_sections": 100,
     "ga313_IV": 24,
     "ga313_V": 24,
     "ga313_VI": 22,
     "ga317_V": 30,
     "atomic_records": 55,
-    "full_german_collation": false
+    "full_german_collation": false,
+    "new_full_English_catalogue_entries": 4,
+    "genuinely_previously_unread_entries": 3
+  },
+  "legacy_coverage_correction": {
+    "reported_v11": {
+      "complete_English": 10,
+      "thematic": 1,
+      "selected_only": 5,
+      "unread": 45
+    },
+    "corrected_v11": {
+      "complete_English": 10,
+      "thematic": 1,
+      "selected_only": 7,
+      "unread": 43
+    },
+    "evidence": [
+      "ORG-313-19210414-01",
+      "ORG-315-19210418-01"
+    ],
+    "scope": "Pilot selected passages, not whole-lecture audits; historical v11 unchanged."
+  },
+  "session_section_accounting": {
+    "section_reads": 160,
+    "newly_reviewed_numbered_sections": 130,
+    "target_section_rereads": 29,
+    "legacy_opening_section_match": 1
   }
 }

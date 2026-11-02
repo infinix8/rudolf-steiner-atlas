@@ -5,8 +5,8 @@
   "source_sha256": "b8e01cb2db0660c3795ca05116bbd897bb23ca59b48a0bef13cee694afacefe4",
   "source_bytes": 185831,
   "cumulative_path": "docs/Steiner_Organ_Evolution_Research_Atlas_v13.md",
-  "preserved_start_byte": 2382,
-  "preserved_end_byte_exclusive": 188213,
-  "cumulative_sha256": "0ab88ee2083003a4cd312f4e76fc6944e9860dd5eb5b650dfd77ef39fb6e7ac4",
+  "preserved_start_byte": 2514,
+  "preserved_end_byte_exclusive": 188345,
+  "cumulative_sha256": "0d2366ef5e0bff5244ed4313f3990a773a1dfb3da5257a9fc49bd71e175bcdb6",
   "preservation": "Exact contiguous v11 bytes, including all inherited chapters/citations; current corrections precede and supplement source body."
 }

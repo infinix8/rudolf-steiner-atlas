@@ -3,8 +3,8 @@
   "as_of": "2026-11-02",
   "catalogued_entries": 61,
   "fully_audited": 0,
-  "partially_reviewed": 4,
-  "coverage_notes": "61 entries: 12 complete English numbered reviews; 1 unnumbered thematic sweep; 3 selected-only; 45 unreviewed.",
+  "partially_reviewed": 6,
+  "coverage_notes": "61 entries: 12 complete English numbered reviews; 1 thematic sweep; 5 selected-only; 43 unread. Corrected two legacy pilot/ledger contradictions.",
   "entries": [
     {
       "id": "GA313-01",
@@ -75,11 +75,15 @@
       "label": "Lecture IV",
       "date": "1921-04-14",
       "catalog_url": "https://rsarchive.org/Lectures/GA313/",
-      "source_url": null,
-      "audit_status": "unreviewed",
+      "source_url": "https://rsarchive.org/Medicine/GA313/English/MP1991/19210414a01.html",
+      "audit_status": "selected_english_passages_checked_not_whole_lecture",
       "full_lecture_audited": false,
       "extraction_complete": false,
-      "german_checked": false
+      "german_checked": false,
+      "audit_record": "research/organ-passages-ga313-317-pilot.json",
+      "audit_notes": [
+        "Legacy correction: pilot selected passage ORG-313-19210414-01 contradicts earlier unread label."
+      ]
     },
     {
       "id": "GA313-05",
@@ -455,11 +459,15 @@
       "label": "Lecture VII",
       "date": "1921-04-18",
       "catalog_url": "https://rsarchive.org/Lectures/GA315/",
-      "source_url": null,
-      "audit_status": "unreviewed",
+      "source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210418.html",
+      "audit_status": "selected_english_passages_checked_not_whole_lecture",
       "full_lecture_audited": false,
       "extraction_complete": false,
-      "german_checked": false
+      "german_checked": false,
+      "audit_record": "research/organ-passages-ga313-317-pilot.json",
+      "audit_notes": [
+        "Legacy correction: pilot selected passage ORG-315-19210418-01 contradicts earlier unread label."
+      ]
     },
     {
       "id": "GA315-08",
@@ -876,13 +884,13 @@
     }
   ],
   "english_paragraph_coverage_completed": 12,
-  "unreviewed": 45,
-  "disclaimer": "No exhaustive bilingual, atomic, second-reviewed lecture certified. Numbered count 295 covers only the 12 completed English lectures; sampled sections elsewhere are not added.",
+  "unreviewed": 43,
+  "disclaimer": "Complete English coverage does not certify exhaustive atomic or bilingual audit. Pilot selections corrected in current category arithmetic.",
   "english_paragraph_coverage_complete": 12,
   "numbered_english_paragraphs_checked": 295,
   "unnumbered_morning_thematic_passages": 9,
   "external_ga205_english_sections_checked": 26,
-  "selective_passage_reviews": 3,
+  "selective_passage_reviews": 5,
   "phase9_six_lecture_census": {
     "total_numbered_english_sections": 164,
     "selected_section_checks_cumulative": 89,
@@ -921,5 +929,24 @@
     "six_lecture_census_reviewed": 164,
     "six_lecture_census_located_only": 0,
     "original_german_collation_complete": false
+  },
+  "legacy_coverage_correction": {
+    "reported_v11": {
+      "complete_English": 10,
+      "thematic": 1,
+      "selected_only": 5,
+      "unread": 45
+    },
+    "corrected_v11": {
+      "complete_English": 10,
+      "thematic": 1,
+      "selected_only": 7,
+      "unread": 43
+    },
+    "evidence": [
+      "ORG-313-19210414-01",
+      "ORG-315-19210418-01"
+    ],
+    "scope": "Pilot selected passages, not whole-lecture audits; historical v11 unchanged."
   }
 }
