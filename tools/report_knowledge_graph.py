@@ -29,7 +29,7 @@ lines = [
     f"- **{len(edges)} passage-qualified relationships**; **{len(graph['sources'])} original source pages**.",
     f"- **{cross} direct cross-domain graph connections**.",
     f"- **{legacy['counts']['exact']} of 30 initial crosslinks** directly matched; "
-    f"**{legacy['counts']['not_evidenced']} still have no matching exact-endpoint source evidence.",
+    f"**{legacy['counts']['not_evidenced']}** still have no matching exact-endpoint source evidence.",
     "- Source verification means **selected passages were checked**, not that full books were reviewed.",
     "",
     "## Related nodes by domain", "",
