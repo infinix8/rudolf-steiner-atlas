@@ -89,3 +89,13 @@ Run locally with `python -m http.server 8000` and open `http://localhost:8000/at
 - [Current development record](docs/ITERATION_2026-11-02_DEEPENING.md) covers additional exact passage references, honest gaps, QA and next steps.
 
 The **original archives remain the only reading destinations for full texts**. No complete lecture/book content is hosted by this project. There is no public website deployment yet.
+
+## Iteration 6 — deeper sources and contextual comparisons
+
+- The graph now contains **179 passage-qualified relations** from **40 original Steiner pages**, including **78 cross-domain links**.
+- **[Six context comparisons](atlas/trajectories.html)** connect original texts without assuming different presentation contexts prove doctrinal changes; each source record carries an exact external link and verified lecture dates only when known.
+- The [subdomain evidence audit](docs/SUBDOMAIN_EVIDENCE_COVERAGE.md) now distinguishes **51 direct, 48 child-only, and 51 lacking graph evidence** among the 150 subdomains.
+- The [graph explorer](atlas/graph.html) includes **eight coarse editorial relationship-family filters** in addition to 123 precise relation types and original passage evidence. [See family method](docs/RELATION_FAMILY_METHOD.md).
+- [Original research and build record](docs/ITERATION_2026-11-02_CONCEPT_CONTEXTS.md) documents ten new sources and remaining open questions.
+
+To run: `python -m http.server 8000` in the repository root, then visit `http://localhost:8000/atlas/trajectories.html`. The site has not been publicly deployed. **Steiner's original works stay at the existing archive.**
