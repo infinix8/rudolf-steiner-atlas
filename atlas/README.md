@@ -64,3 +64,11 @@ The browser smoke tests at `tests/atlas-browser-smoke.mjs` use Chromium on deskt
 - `/atlas/dossiers.html`: five original editorial concept guides with 17 sourced sections, open research questions, and direct original-text links.
 
 The companion [subdomain coverage report](../docs/SUBDOMAIN_EVIDENCE_COVERAGE.md) is regenerated with `python tools/report_subdomain_coverage.py --write` and validated with `--check`. The structured dossiers are in `research/concept-dossiers-v1.json` and checked by `python tools/validate_dossiers.py`.
+
+## Source-context comparisons and evidence families
+
+- Open `/atlas/trajectories.html` for six source-grounded comparisons. The viewer does **not** treat date of an English edition as original composition or lecture date, or assume two differing contexts prove a doctrinal shift.
+- The graph viewer now allows a **coarse connection family** filter (eight editorial types), with the exact fine-grained edge type and passage unchanged.
+- Current graph: **179 relations / 40 source pages / 78 cross-domain links**. The subdomain coverage summary is **51 direct / 48 descendant only / 51 not linked**.
+- `python tools/validate_trajectories.py` verifies all trajectory IDs and source contexts.
+- See [relation family method](../docs/RELATION_FAMILY_METHOD.md) and [iteration record](../docs/ITERATION_2026-11-02_CONCEPT_CONTEXTS.md).
