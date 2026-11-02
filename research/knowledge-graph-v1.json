@@ -1,0 +1,829 @@
+{
+  "schema_version": "1.0",
+  "created": "2026-11-02",
+  "purpose": "Source-linked *editorial* knowledge graph. Full original text remains at the source archives.",
+  "restriction": "Do not copy source texts. Do not infer that a graph edge applies beyond its cited passage.",
+  "status_convention": {
+    "selected_passage_checked": "Specific section was inspected; claim is original paraphrase, not entire work audited",
+    "editorial_comparison_with_checked_passages": "Both stated topics inspected; the relationship is an atlas editorial comparison, not asserted by Steiner as an exact equivalence"
+  },
+  "sources": [
+    {
+      "id": "SG-GA009-C01",
+      "ga": "9",
+      "work": "Theosophy",
+      "unit": "The Essential Nature of Man",
+      "kind": "authored_book",
+      "edition": "English AP 1971",
+      "lecture_date": null,
+      "url": "https://rsarchive.org/Books/GA009/English/AP1971/GA009_c01.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Selected numbered paragraphs [5], [14]-[15], [24]-[25], [40]-[42] checked; not entire work.",
+        "checked_on": "2026-11-02",
+        "source_site": "Rudolf Steiner Archive",
+        "entire_work_reviewed": false
+      }
+    },
+    {
+      "id": "SG-GA013-C04",
+      "ga": "13",
+      "work": "Occult Science",
+      "unit": "IV. The Evolution of the Cosmos and Man",
+      "kind": "authored_book",
+      "edition": "English AP 1972; translated by Lisa Monges",
+      "lecture_date": null,
+      "url": "https://rsarchive.org/Books/GA013/English/AP1972/GA013_c04.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Selected passages in [1], [11]-[18], [20]-[24], [31]-[32], [40] checked; not entire chapter.",
+        "checked_on": "2026-11-02",
+        "source_site": "Rudolf Steiner Archive",
+        "entire_work_reviewed": false
+      }
+    },
+    {
+      "id": "SG-GA151-19140122",
+      "ga": "151",
+      "work": "Human and Cosmic Thought",
+      "unit": "Lecture Three",
+      "kind": "recorded_lecture",
+      "edition": "English RSP 1991; translated by Charles Davy",
+      "lecture_date": "1914-01-22",
+      "url": "https://rsarchive.org/Lectures/GA151/English/RSP1991/19140122p02.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Selected paragraphs [1], [5], [19]-[20], [23]-[26], [29] checked.",
+        "checked_on": "2026-11-02",
+        "source_site": "Rudolf Steiner Archive",
+        "entire_work_reviewed": false
+      }
+    },
+    {
+      "id": "SG-GA293-19190828",
+      "ga": "293",
+      "work": "The Study of Man",
+      "unit": "Lecture VII",
+      "kind": "recorded_lecture",
+      "edition": "English RSP 1966",
+      "lecture_date": "1919-08-28",
+      "url": "https://rsarchive.org/Lectures/GA293/English/RSP1966/19190828a01.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Opening paragraphs about waking, dreaming and sleeping checked.",
+        "checked_on": "2026-11-02",
+        "source_site": "Rudolf Steiner Archive",
+        "entire_work_reviewed": false
+      }
+    },
+    {
+      "id": "SG-GA293-19190905",
+      "ga": "293",
+      "work": "The Study of Man",
+      "unit": "Lecture XIV",
+      "kind": "recorded_lecture",
+      "edition": "English RSP 1966",
+      "lecture_date": "1919-09-05",
+      "url": "https://rsarchive.org/Lectures/GA293/English/RSP1966/19190905a01.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Opening account of head, trunk/chest and limbs checked.",
+        "checked_on": "2026-11-02",
+        "source_site": "Rudolf Steiner Archive",
+        "entire_work_reviewed": false
+      }
+    },
+    {
+      "id": "SG-GA170-19160813",
+      "ga": "170",
+      "work": "The Riddle of Humanity",
+      "unit": "Lecture Eight",
+      "kind": "recorded_lecture",
+      "edition": "English RSP 1990; translated by John F. Logan",
+      "lecture_date": "1916-08-13",
+      "url": "https://rsarchive.org/Lectures/GA170/English/RSP1990/19160813p01.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Numbered paragraphs [2]-[5] on senses, life processes and cosmic analogies checked.",
+        "checked_on": "2026-11-02",
+        "source_site": "Rudolf Steiner Archive",
+        "entire_work_reviewed": false
+      }
+    },
+    {
+      "id": "SG-GA010-C01",
+      "ga": "10",
+      "work": "Knowledge of Higher Worlds and its Attainment",
+      "unit": "I. How is Knowledge of the Higher Worlds Attained?",
+      "kind": "authored_book",
+      "edition": "English RSPC 1947; translated by Henry B. Monges",
+      "lecture_date": null,
+      "url": "https://rsarchive.org/Books/GA010/English/RSPC1947/GA010_c01.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Numbered paragraphs [1]-[6] on preparation and attitude checked.",
+        "checked_on": "2026-11-02",
+        "source_site": "Rudolf Steiner Archive",
+        "entire_work_reviewed": false
+      }
+    },
+    {
+      "id": "SG-GA327-19240612",
+      "ga": "327",
+      "work": "Agriculture",
+      "unit": "Lecture IV",
+      "kind": "recorded_lecture",
+      "edition": "English BDA 1958",
+      "lecture_date": "1924-06-12",
+      "url": "https://rsarchive.org/Lectures/GA327/English/BDA1958/19240612p01.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Sections on whole farm, manure, cow horns and winter preparation checked.",
+        "checked_on": "2026-11-02",
+        "source_site": "Rudolf Steiner Archive",
+        "entire_work_reviewed": false
+      }
+    },
+    {
+      "id": "SG-GA004-C01",
+      "ga": "4",
+      "work": "The Philosophy of Freedom",
+      "unit": "I. Conscious Human Action",
+      "kind": "authored_book",
+      "edition": "English RSP 1964",
+      "lecture_date": null,
+      "url": "https://rsarchive.org/Books/GA004/English/RSP1964/GA004_c01.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Opening numbered paragraphs [1]-[4] on freedom and necessity checked.",
+        "checked_on": "2026-11-02",
+        "source_site": "Rudolf Steiner Archive",
+        "entire_work_reviewed": false
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "KG-001",
+      "from": "RS-09.02.01",
+      "to": "RS-09.02.02",
+      "type": "distinguished_from",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA009-C01",
+          "passage_locator": "[5]-[6]"
+        }
+      ],
+      "claim": "Body mediates sensory encounter; soul personalizes its impressions."
+    },
+    {
+      "id": "KG-002",
+      "from": "RS-09.02.02",
+      "to": "RS-09.02.03",
+      "type": "distinguished_from",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA009-C01",
+          "passage_locator": "[5]-[6]"
+        }
+      ],
+      "claim": "Spirit is distinguished from the soul's individual reactions."
+    },
+    {
+      "id": "KG-003",
+      "from": "RS-09.01.02",
+      "to": "RS-07.02.02",
+      "type": "attributed_nature_explanation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA009-C01",
+          "passage_locator": "discussion of etheric/life body around [14]-[15]"
+        }
+      ],
+      "claim": "The etheric principle is invoked in Steiner's account of plant life."
+    },
+    {
+      "id": "KG-004",
+      "from": "RS-09.04.01",
+      "to": "RS-09.04.02",
+      "type": "described_transition",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA009-C01",
+          "passage_locator": "[24]-[25]; [40]"
+        }
+      ],
+      "claim": "Steiner describes thought permeating sentient life as intellectual soul."
+    },
+    {
+      "id": "KG-005",
+      "from": "RS-09.04.02",
+      "to": "RS-09.04.03",
+      "type": "described_transition",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA009-C01",
+          "passage_locator": "[40]"
+        }
+      ],
+      "claim": "The intellectual soul is described as opening toward spiritual intuition."
+    },
+    {
+      "id": "KG-006",
+      "from": "RS-09.04.03",
+      "to": "RS-09.05.01",
+      "type": "forms_unity_with",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA009-C01",
+          "passage_locator": "[40]"
+        }
+      ],
+      "claim": "Consciousness soul and spirit-self form a unity in the earthly person."
+    },
+    {
+      "id": "KG-007",
+      "from": "RS-09.06.01",
+      "to": "RS-09.06.02",
+      "type": "condensed_as",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA009-C01",
+          "passage_locator": "[40]-[42]"
+        }
+      ],
+      "claim": "The ninefold arrangement becomes sevenfold through specified unions."
+    },
+    {
+      "id": "KG-008",
+      "from": "RS-09.01.03",
+      "to": "RS-09.04.01",
+      "type": "forms_unity_with",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA009-C01",
+          "passage_locator": "[42]"
+        }
+      ],
+      "claim": "The fourfold account groups the soul body and sentient soul in astral body."
+    },
+    {
+      "id": "KG-009",
+      "from": "RS-09.05.01",
+      "to": "RS-09.01.03",
+      "type": "transforms",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA009-C01",
+          "passage_locator": "[42]"
+        }
+      ],
+      "claim": "Spirit-self is described as transformation of astral body."
+    },
+    {
+      "id": "KG-010",
+      "from": "RS-09.05.02",
+      "to": "RS-09.01.02",
+      "type": "transforms",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA009-C01",
+          "passage_locator": "[42]"
+        }
+      ],
+      "claim": "Life-spirit is described as transformation of life body."
+    },
+    {
+      "id": "KG-011",
+      "from": "RS-09.05.03",
+      "to": "RS-09.01.01",
+      "type": "transforms",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA009-C01",
+          "passage_locator": "[42]"
+        }
+      ],
+      "claim": "Spirit-man is described as transformation of physical body."
+    },
+    {
+      "id": "KG-012",
+      "from": "RS-06.01.01",
+      "to": "RS-06.03.01",
+      "type": "begins_development_of",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA013-C04",
+          "passage_locator": "[17]-[20]"
+        }
+      ],
+      "claim": "Old Saturn is presented as the beginning of the human physical body's development."
+    },
+    {
+      "id": "KG-013",
+      "from": "RS-06.01.02",
+      "to": "RS-06.03.02",
+      "type": "begins_development_of",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA013-C04",
+          "passage_locator": "[31]-[32]"
+        }
+      ],
+      "claim": "Old Sun introduces the etheric/life body into the human constitution."
+    },
+    {
+      "id": "KG-014",
+      "from": "RS-06.01.03",
+      "to": "RS-06.03.03",
+      "type": "begins_development_of",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA013-C04",
+          "passage_locator": "[16]; [40]"
+        }
+      ],
+      "claim": "Old Moon is connected with reception of the astral body."
+    },
+    {
+      "id": "KG-015",
+      "from": "RS-06.01.04",
+      "to": "RS-06.03.04",
+      "type": "begins_development_of",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA013-C04",
+          "passage_locator": "[16]; [1]-[5]"
+        }
+      ],
+      "claim": "Earth is the evolutionary stage in which the I becomes active."
+    },
+    {
+      "id": "KG-016",
+      "from": "RS-05.02.07",
+      "to": "RS-06.01.01",
+      "type": "acts_during",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA013-C04",
+          "passage_locator": "[21]"
+        }
+      ],
+      "claim": "Steiner assigns an outpouring of will to the Thrones at Saturn's beginning."
+    },
+    {
+      "id": "KG-017",
+      "from": "RS-05.02.06",
+      "to": "RS-06.03.02",
+      "type": "contributes_to",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA013-C04",
+          "passage_locator": "[31]"
+        }
+      ],
+      "claim": "Spirits of Wisdom are associated with the bestowal of the life body on Old Sun."
+    },
+    {
+      "id": "KG-018",
+      "from": "RS-05.02.02",
+      "to": "RS-06.03.01",
+      "type": "contributes_to",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA013-C04",
+          "passage_locator": "[23]"
+        }
+      ],
+      "claim": "Archangels are connected with early sense-organ development on Saturn."
+    },
+    {
+      "id": "KG-019",
+      "from": "RS-06.01.01",
+      "to": "RS-06.01.02",
+      "type": "precedes_in_account",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA013-C04",
+          "passage_locator": "[16]-[17]"
+        }
+      ],
+      "claim": "Saturn precedes Sun in Steiner's cosmic narrative."
+    },
+    {
+      "id": "KG-020",
+      "from": "RS-06.01.02",
+      "to": "RS-06.01.03",
+      "type": "precedes_in_account",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA013-C04",
+          "passage_locator": "[16]-[17]"
+        }
+      ],
+      "claim": "Sun precedes Moon in Steiner's cosmic narrative."
+    },
+    {
+      "id": "KG-021",
+      "from": "RS-06.01.03",
+      "to": "RS-06.01.04",
+      "type": "precedes_in_account",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA013-C04",
+          "passage_locator": "[16]-[17]"
+        }
+      ],
+      "claim": "Moon precedes Earth in Steiner's cosmic narrative."
+    },
+    {
+      "id": "KG-022",
+      "from": "RS-06.02.01",
+      "to": "RS-06.01.04",
+      "type": "describes_phase_of",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA013-C04",
+          "passage_locator": "[11]-[12]"
+        }
+      ],
+      "claim": "Earth evolution initially recapitulates earlier developmental stages."
+    },
+    {
+      "id": "KG-023",
+      "from": "RS-04.01",
+      "to": "RS-04.02",
+      "type": "combines_with",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA151-19140122",
+          "passage_locator": "[5]; [19]"
+        }
+      ],
+      "claim": "Each worldview orientation may be adopted with different soul moods."
+    },
+    {
+      "id": "KG-024",
+      "from": "RS-04.02",
+      "to": "RS-04.03",
+      "type": "further_modified_by",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA151-19140122",
+          "passage_locator": "[25]"
+        }
+      ],
+      "claim": "Worldview combinations can receive an additional tonal qualification."
+    },
+    {
+      "id": "KG-025",
+      "from": "RS-04.01",
+      "to": "RS-04.06.04",
+      "type": "symbolically_corresponds_to",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA151-19140122",
+          "passage_locator": "[1]-[3]; [20]"
+        }
+      ],
+      "claim": "The twelve orientations are related symbolically to zodiacal signs."
+    },
+    {
+      "id": "KG-026",
+      "from": "RS-04.02",
+      "to": "RS-04.06.04",
+      "type": "symbolically_corresponds_to",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA151-19140122",
+          "passage_locator": "[19]-[20]"
+        }
+      ],
+      "claim": "The seven moods are related to planetary imagery within the zodiac."
+    },
+    {
+      "id": "KG-027",
+      "from": "RS-04.03",
+      "to": "RS-04.06.03",
+      "type": "symbolically_corresponds_to",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA151-19140122",
+          "passage_locator": "[25]-[26]"
+        }
+      ],
+      "claim": "The three tones are compared respectively with Sun, Moon and Earth."
+    },
+    {
+      "id": "KG-028",
+      "from": "RS-04.03.04",
+      "to": "RS-04.03",
+      "type": "special_case_of",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA151-19140122",
+          "passage_locator": "[29]"
+        }
+      ],
+      "claim": "Anthropomorphism is presented separately from the three primary tones."
+    },
+    {
+      "id": "KG-029",
+      "from": "RS-10.01.01",
+      "to": "RS-10.02.01",
+      "type": "associated_with",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA293-19190828",
+          "passage_locator": "opening paragraphs"
+        }
+      ],
+      "claim": "Thinking-cognition is associated with waking consciousness."
+    },
+    {
+      "id": "KG-030",
+      "from": "RS-10.01.02",
+      "to": "RS-10.02.02",
+      "type": "associated_with",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA293-19190828",
+          "passage_locator": "opening paragraphs"
+        }
+      ],
+      "claim": "Feeling is associated with dreaming consciousness."
+    },
+    {
+      "id": "KG-031",
+      "from": "RS-10.01.03",
+      "to": "RS-10.02.03",
+      "type": "associated_with",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA293-19190828",
+          "passage_locator": "opening paragraphs"
+        }
+      ],
+      "claim": "Willing is associated with sleeping consciousness."
+    },
+    {
+      "id": "KG-032",
+      "from": "RS-09.02.05",
+      "to": "RS-19.01",
+      "type": "used_in_pedagogical_account",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA293-19190905",
+          "passage_locator": "lecture opening on body formation"
+        }
+      ],
+      "claim": "Head, chest/trunk and limbs form a distinct educational account of human organization."
+    },
+    {
+      "id": "KG-033",
+      "from": "RS-10.03.01",
+      "to": "RS-10.04",
+      "type": "interacts_with",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA170-19160813",
+          "passage_locator": "[2]-[3]"
+        }
+      ],
+      "claim": "Twelve sense regions are described as permeated by seven life processes."
+    },
+    {
+      "id": "KG-034",
+      "from": "RS-10.03.01",
+      "to": "RS-06.04.02",
+      "type": "symbolically_corresponds_to",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA170-19160813",
+          "passage_locator": "[2]-[5]"
+        }
+      ],
+      "claim": "Steiner likens sense regions to a human zodiac.",
+      "note": "An attributed analogy, not established neuroscience."
+    },
+    {
+      "id": "KG-035",
+      "from": "RS-03.01.01",
+      "to": "RS-03.01",
+      "type": "is_preparatory_practice_within",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA010-C01",
+          "passage_locator": "[5]-[6]"
+        }
+      ],
+      "claim": "Veneration is described as an initial disposition in esoteric training."
+    },
+    {
+      "id": "KG-036",
+      "from": "RS-03.01",
+      "to": "RS-03.03",
+      "type": "enables_development_toward",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA010-C01",
+          "passage_locator": "[1]-[6]"
+        }
+      ],
+      "claim": "Steiner presents preparatory inner training as prerequisite to higher perception."
+    },
+    {
+      "id": "KG-037",
+      "from": "RS-20.03.02",
+      "to": "RS-20.04.01",
+      "type": "prepared_as",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA327-19240612",
+          "passage_locator": "Lecture IV, horn manure preparation section"
+        }
+      ],
+      "claim": "Manure is placed in cow horns as the described agricultural preparation."
+    },
+    {
+      "id": "KG-038",
+      "from": "RS-07.05.02",
+      "to": "RS-20.04.01",
+      "type": "provides_seasonal_context_for",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA327-19240612",
+          "passage_locator": "Lecture IV, winter burial section"
+        }
+      ],
+      "claim": "The winter season is assigned importance for the horn-manure process."
+    },
+    {
+      "id": "KG-039",
+      "from": "RS-20.01",
+      "to": "RS-20.03",
+      "type": "frames_as_living_whole",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA327-19240612",
+          "passage_locator": "Lecture IV, opening and compost sections"
+        }
+      ],
+      "claim": "Soil fertility is discussed as part of an interconnected farm organism."
+    },
+    {
+      "id": "KG-040",
+      "from": "RS-01.02.06",
+      "to": "RS-01.02.01",
+      "type": "frames_problem_of",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA004-C01",
+          "passage_locator": "[1]-[4]"
+        }
+      ],
+      "claim": "The freedom-versus-necessity question frames deliberate human action."
+    },
+    {
+      "id": "KG-041",
+      "from": "RS-09.03",
+      "to": "RS-09.02.05",
+      "type": "must_distinguish",
+      "direction": "symmetric",
+      "evidence_basis": "editorial_comparison",
+      "status": "editorial_comparison_with_checked_passages",
+      "evidence": [
+        {
+          "source_id": "SG-GA009-C01",
+          "passage_locator": "[40]-[42]"
+        },
+        {
+          "source_id": "SG-GA293-19190905",
+          "passage_locator": "lecture opening"
+        }
+      ],
+      "claim": "The physical/etheric/astral enumeration and head/chest/limb organization are different schemas.",
+      "note": "The current RS-09.03 label is misleading and needs a taxonomy revision; this is a comparison by the atlas editors, not a direct statement equating the schemes."
+    }
+  ]
+}
