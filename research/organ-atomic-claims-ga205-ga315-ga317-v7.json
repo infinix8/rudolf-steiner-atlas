@@ -1,0 +1,543 @@
+{
+  "schema_version": "0.1",
+  "date": "2026-11-02",
+  "record_count": 28,
+  "method": "Selected distinct claims from the 69 English sections reviewed in GA205/315/317; source paragraph-specific and original editorial summaries. Not all claims from every section captured.",
+  "records": [
+    {
+      "id": "ORG-V7-001",
+      "ga": 205,
+      "date": "1921-07-02",
+      "source_url": "https://rsarchive.org/Lectures/GA205/English/SOL/19210702p01.html",
+      "paragraph": 1,
+      "passage_cue": "English §1",
+      "organs": [
+        "metabolic-limb",
+        "head"
+      ],
+      "relation": "incarnation_metamorphosis",
+      "editorial_paraphrase": "The current metabolic-limb organization is described as providing metamorphosed formative forces for the head in a subsequent incarnation.",
+      "evidence_status": "selected_primary_English_paragraph_checked",
+      "source_kind": "recorded lecture",
+      "german_collation": "pending",
+      "type": "atomic_claim",
+      "warning": null
+    },
+    {
+      "id": "ORG-V7-002",
+      "ga": 205,
+      "date": "1921-07-02",
+      "source_url": "https://rsarchive.org/Lectures/GA205/English/SOL/19210702p01.html",
+      "paragraph": 5,
+      "passage_cue": "English §5",
+      "organs": [
+        "lungs",
+        "organ surfaces"
+      ],
+      "relation": "memory_reflection",
+      "editorial_paraphrase": "The surface of lungs is alleged to contribute especially to recollection of abstract representations.",
+      "evidence_status": "selected_primary_English_paragraph_checked",
+      "source_kind": "recorded lecture",
+      "german_collation": "pending",
+      "type": "atomic_claim",
+      "warning": null
+    },
+    {
+      "id": "ORG-V7-003",
+      "ga": 205,
+      "date": "1921-07-02",
+      "source_url": "https://rsarchive.org/Lectures/GA205/English/SOL/19210702p01.html",
+      "paragraph": 5,
+      "passage_cue": "English §5",
+      "organs": [
+        "liver",
+        "organ surfaces"
+      ],
+      "relation": "memory_reflection",
+      "editorial_paraphrase": "The surface of liver is alleged to reflect memory content colored by feelings.",
+      "evidence_status": "selected_primary_English_paragraph_checked",
+      "source_kind": "recorded lecture",
+      "german_collation": "pending",
+      "type": "atomic_claim",
+      "warning": null
+    },
+    {
+      "id": "ORG-V7-004",
+      "ga": 205,
+      "date": "1921-07-02",
+      "source_url": "https://rsarchive.org/Lectures/GA205/English/SOL/19210702p01.html",
+      "paragraph": 7,
+      "passage_cue": "English §7",
+      "organs": [
+        "lungs",
+        "head"
+      ],
+      "relation": "next_incarnation_form",
+      "editorial_paraphrase": "The inner lungs are said to preserve forces of present-life objective perception that later form the outer physiognomy of the head.",
+      "evidence_status": "selected_primary_English_paragraph_checked",
+      "source_kind": "recorded lecture",
+      "german_collation": "pending",
+      "type": "atomic_claim",
+      "warning": null
+    },
+    {
+      "id": "ORG-V7-005",
+      "ga": 205,
+      "date": "1921-07-02",
+      "source_url": "https://rsarchive.org/Lectures/GA205/English/SOL/19210702p01.html",
+      "paragraph": 10,
+      "passage_cue": "English §10",
+      "organs": [
+        "liver",
+        "brain"
+      ],
+      "relation": "next_incarnation_disposition",
+      "editorial_paraphrase": "The interior of the liver is said to accumulate forces that contribute to internal brain dispositions in the next incarnation.",
+      "evidence_status": "selected_primary_English_paragraph_checked",
+      "source_kind": "recorded lecture",
+      "german_collation": "pending",
+      "type": "atomic_claim",
+      "warning": null
+    },
+    {
+      "id": "ORG-V7-006",
+      "ga": 205,
+      "date": "1921-07-02",
+      "source_url": "https://rsarchive.org/Lectures/GA205/English/SOL/19210702p01.html",
+      "paragraph": 12,
+      "passage_cue": "English §12",
+      "organs": [
+        "kidneys",
+        "head"
+      ],
+      "relation": "next_incarnation_temperament",
+      "editorial_paraphrase": "Kidney system is said to prepare next-life temperament and emotional habits via future head organization.",
+      "evidence_status": "selected_primary_English_paragraph_checked",
+      "source_kind": "recorded lecture",
+      "german_collation": "pending",
+      "type": "atomic_claim",
+      "warning": null
+    },
+    {
+      "id": "ORG-V7-007",
+      "ga": 205,
+      "date": "1921-07-02",
+      "source_url": "https://rsarchive.org/Lectures/GA205/English/SOL/19210702p01.html",
+      "paragraph": 13,
+      "passage_cue": "English §13",
+      "organs": [
+        "heart",
+        "blood"
+      ],
+      "relation": "historical_false_physiology",
+      "editorial_paraphrase": "Steiner denies the heart's pumping role and attributes blood motion to astral/I activity; this contradicts modern cardiovascular physiology.",
+      "evidence_status": "selected_primary_English_paragraph_checked",
+      "source_kind": "recorded lecture",
+      "german_collation": "pending",
+      "type": "atomic_claim",
+      "warning": "Historical esoteric claim, not modern scientific or clinical evidence"
+    },
+    {
+      "id": "ORG-V7-008",
+      "ga": 205,
+      "date": "1921-07-02",
+      "source_url": "https://rsarchive.org/Lectures/GA205/English/SOL/19210702p01.html",
+      "paragraph": 14,
+      "passage_cue": "English §14",
+      "organs": [
+        "heart"
+      ],
+      "relation": "conscience_reflection",
+      "editorial_paraphrase": "The outer surface of the heart is said to reflect experiences as pangs of conscience.",
+      "evidence_status": "selected_primary_English_paragraph_checked",
+      "source_kind": "recorded lecture",
+      "german_collation": "pending",
+      "type": "atomic_claim",
+      "warning": null
+    },
+    {
+      "id": "ORG-V7-009",
+      "ga": 205,
+      "date": "1921-07-02",
+      "source_url": "https://rsarchive.org/Lectures/GA205/English/SOL/19210702p01.html",
+      "paragraph": 14,
+      "passage_cue": "English §14",
+      "organs": [
+        "heart"
+      ],
+      "relation": "next_incarnation_karma",
+      "editorial_paraphrase": "Interior heart forces are said to preserve predispositions for future karmic actions.",
+      "evidence_status": "selected_primary_English_paragraph_checked",
+      "source_kind": "recorded lecture",
+      "german_collation": "pending",
+      "type": "atomic_claim",
+      "warning": null
+    },
+    {
+      "id": "ORG-V7-010",
+      "ga": 205,
+      "date": "1921-07-02",
+      "source_url": "https://rsarchive.org/Lectures/GA205/English/SOL/19210702p01.html",
+      "paragraph": 15,
+      "passage_cue": "English §15",
+      "organs": [
+        "lungs",
+        "liver",
+        "kidneys",
+        "heart",
+        "head"
+      ],
+      "relation": "organ_system_ensemble",
+      "editorial_paraphrase": "Steiner gathers lungs, liver, kidneys and heart as four organ systems which supposedly contribute to the next incarnation's head.",
+      "evidence_status": "selected_primary_English_paragraph_checked",
+      "source_kind": "recorded lecture",
+      "german_collation": "pending",
+      "type": "atomic_claim",
+      "warning": null
+    },
+    {
+      "id": "ORG-V7-011",
+      "ga": 205,
+      "date": "1921-07-02",
+      "source_url": "https://rsarchive.org/Lectures/GA205/English/SOL/19210702p01.html",
+      "paragraph": 21,
+      "passage_cue": "English §21",
+      "organs": [
+        "lungs"
+      ],
+      "relation": "elemental_correspondence",
+      "editorial_paraphrase": "Lungs are related especially to the earth element; this is explicitly distinct from literal planetary genealogy.",
+      "evidence_status": "selected_primary_English_paragraph_checked",
+      "source_kind": "recorded lecture",
+      "german_collation": "pending",
+      "type": "atomic_claim",
+      "warning": null
+    },
+    {
+      "id": "ORG-V7-012",
+      "ga": 205,
+      "date": "1921-07-02",
+      "source_url": "https://rsarchive.org/Lectures/GA205/English/SOL/19210702p01.html",
+      "paragraph": 21,
+      "passage_cue": "English §21",
+      "organs": [
+        "liver"
+      ],
+      "relation": "elemental_correspondence",
+      "editorial_paraphrase": "Liver is related to the water element within four inner organ system correspondences.",
+      "evidence_status": "selected_primary_English_paragraph_checked",
+      "source_kind": "recorded lecture",
+      "german_collation": "pending",
+      "type": "atomic_claim",
+      "warning": null
+    },
+    {
+      "id": "ORG-V7-013",
+      "ga": 205,
+      "date": "1921-07-02",
+      "source_url": "https://rsarchive.org/Lectures/GA205/English/SOL/19210702p01.html",
+      "paragraph": 21,
+      "passage_cue": "English §21",
+      "organs": [
+        "kidneys"
+      ],
+      "relation": "elemental_correspondence",
+      "editorial_paraphrase": "Kidney system is related to the air element rather than lungs.",
+      "evidence_status": "selected_primary_English_paragraph_checked",
+      "source_kind": "recorded lecture",
+      "german_collation": "pending",
+      "type": "atomic_claim",
+      "warning": null
+    },
+    {
+      "id": "ORG-V7-014",
+      "ga": 205,
+      "date": "1921-07-02",
+      "source_url": "https://rsarchive.org/Lectures/GA205/English/SOL/19210702p01.html",
+      "paragraph": 21,
+      "passage_cue": "English §21",
+      "organs": [
+        "heart"
+      ],
+      "relation": "elemental_correspondence",
+      "editorial_paraphrase": "Heart system is related to warmth and associated with storage of karmic forces.",
+      "evidence_status": "selected_primary_English_paragraph_checked",
+      "source_kind": "recorded lecture",
+      "german_collation": "pending",
+      "type": "atomic_claim",
+      "warning": null
+    },
+    {
+      "id": "ORG-V7-015",
+      "ga": 315,
+      "date": "1921-04-12",
+      "source_url": "https://rsarchive.org/Lectures/CuratEuryth/19210412p01.html",
+      "paragraph": 4,
+      "passage_cue": "English §4",
+      "organs": [
+        "larynx",
+        "all organs"
+      ],
+      "relation": "organ_metamorphosis_general",
+      "editorial_paraphrase": "Every self-contained organ is described as a metamorphic variation of other organs within the human whole.",
+      "evidence_status": "selected_primary_English_paragraph_checked",
+      "source_kind": "recorded lecture",
+      "german_collation": "pending",
+      "type": "atomic_claim",
+      "warning": null
+    },
+    {
+      "id": "ORG-V7-016",
+      "ga": 315,
+      "date": "1921-04-12",
+      "source_url": "https://rsarchive.org/Lectures/CuratEuryth/19210412p01.html",
+      "paragraph": 6,
+      "passage_cue": "English §6",
+      "organs": [
+        "larynx",
+        "posterior head",
+        "rib cage"
+      ],
+      "relation": "morphological_metamorphosis",
+      "editorial_paraphrase": "The larynx is interpreted as an inversion of posterior head and ribs through etheric formative forces.",
+      "evidence_status": "selected_primary_English_paragraph_checked",
+      "source_kind": "recorded lecture",
+      "german_collation": "pending",
+      "type": "atomic_claim",
+      "warning": null
+    },
+    {
+      "id": "ORG-V7-017",
+      "ga": 315,
+      "date": "1921-04-12",
+      "source_url": "https://rsarchive.org/Lectures/CuratEuryth/19210412p01.html",
+      "paragraph": 7,
+      "passage_cue": "English §7",
+      "organs": [
+        "thyroid",
+        "forebrain",
+        "larynx"
+      ],
+      "relation": "morphological_metamorphosis",
+      "editorial_paraphrase": "Steiner analogizes the thyroid to a metamorphosed forebrain and attributes chest-related thought functions to it.",
+      "evidence_status": "selected_primary_English_paragraph_checked",
+      "source_kind": "recorded lecture",
+      "german_collation": "pending",
+      "type": "atomic_claim",
+      "warning": null
+    },
+    {
+      "id": "ORG-V7-018",
+      "ga": 315,
+      "date": "1921-04-12",
+      "source_url": "https://rsarchive.org/Lectures/CuratEuryth/19210412p01.html",
+      "paragraph": 8,
+      "passage_cue": "English §8",
+      "organs": [
+        "ear",
+        "larynx",
+        "breathing"
+      ],
+      "relation": "rhythmic_reflection",
+      "editorial_paraphrase": "Larynx and ear are described as metamorphic expressions of head/chest breathing and speech movement.",
+      "evidence_status": "selected_primary_English_paragraph_checked",
+      "source_kind": "recorded lecture",
+      "german_collation": "pending",
+      "type": "atomic_claim",
+      "warning": null
+    },
+    {
+      "id": "ORG-V7-019",
+      "ga": 315,
+      "date": "1921-04-12",
+      "source_url": "https://rsarchive.org/Lectures/CuratEuryth/19210412p01.html",
+      "paragraph": 10,
+      "passage_cue": "English §10",
+      "organs": [
+        "head",
+        "lungs",
+        "circulation"
+      ],
+      "relation": "rhythmic_polarity",
+      "editorial_paraphrase": "Head quieting of respiratory/chest dynamics is described as enabling conscious thought.",
+      "evidence_status": "selected_primary_English_paragraph_checked",
+      "source_kind": "recorded lecture",
+      "german_collation": "pending",
+      "type": "atomic_claim",
+      "warning": null
+    },
+    {
+      "id": "ORG-V7-020",
+      "ga": 315,
+      "date": "1921-04-12",
+      "source_url": "https://rsarchive.org/Lectures/CuratEuryth/19210412p01.html",
+      "paragraph": 19,
+      "passage_cue": "English §19",
+      "organs": [
+        "gallbladder",
+        "all organs"
+      ],
+      "relation": "historical_therapeutic_claim",
+      "editorial_paraphrase": "He proposes that outward movement forms can counteract an allegedly malformed internal organ, giving gallbladder as example.",
+      "evidence_status": "selected_primary_English_paragraph_checked",
+      "source_kind": "recorded lecture",
+      "german_collation": "pending",
+      "type": "atomic_claim",
+      "warning": "Historical esoteric claim, not modern scientific or clinical evidence"
+    },
+    {
+      "id": "ORG-V7-021",
+      "ga": 317,
+      "date": "1924-06-25",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240625.html",
+      "paragraph": 5,
+      "passage_cue": "English §5",
+      "organs": [
+        "liver",
+        "inherited body"
+      ],
+      "relation": "prebirth_organ_embodiment",
+      "editorial_paraphrase": "Prebirth soul-spiritual individuality is said to take hold of an inherited organ, with liver used as an illustration.",
+      "evidence_status": "selected_primary_English_paragraph_checked",
+      "source_kind": "recorded lecture",
+      "german_collation": "pending",
+      "type": "atomic_claim",
+      "warning": null
+    },
+    {
+      "id": "ORG-V7-022",
+      "ga": 317,
+      "date": "1924-06-25",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240625.html",
+      "paragraph": 7,
+      "passage_cue": "English §7",
+      "organs": [
+        "liver",
+        "head"
+      ],
+      "relation": "organ_process_reflection",
+      "editorial_paraphrase": "The visible liver is described as a stabilized liver-process that also has corresponding activity in the head.",
+      "evidence_status": "selected_primary_English_paragraph_checked",
+      "source_kind": "recorded lecture",
+      "german_collation": "pending",
+      "type": "atomic_claim",
+      "warning": null
+    },
+    {
+      "id": "ORG-V7-023",
+      "ga": 317,
+      "date": "1924-06-25",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240625.html",
+      "paragraph": 8,
+      "passage_cue": "English §8",
+      "organs": [
+        "kidneys",
+        "intestines",
+        "head"
+      ],
+      "relation": "synthetic_counterpart",
+      "editorial_paraphrase": "Kidney and intestinal activities are said to be integrated or synthesized in the head rather than separated as in lower organs.",
+      "evidence_status": "selected_primary_English_paragraph_checked",
+      "source_kind": "recorded lecture",
+      "german_collation": "pending",
+      "type": "atomic_claim",
+      "warning": null
+    },
+    {
+      "id": "ORG-V7-024",
+      "ga": 317,
+      "date": "1924-06-25",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240625.html",
+      "paragraph": 9,
+      "passage_cue": "English §9",
+      "organs": [
+        "liver",
+        "lungs",
+        "heart",
+        "limbs"
+      ],
+      "relation": "will_anatomy",
+      "editorial_paraphrase": "The distinct organ structures of the metabolic-limb system are presented as foundations of willing.",
+      "evidence_status": "selected_primary_English_paragraph_checked",
+      "source_kind": "recorded lecture",
+      "german_collation": "pending",
+      "type": "atomic_claim",
+      "warning": null
+    },
+    {
+      "id": "ORG-V7-025",
+      "ga": 317,
+      "date": "1924-06-25",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240625.html",
+      "paragraph": 11,
+      "passage_cue": "English §11",
+      "organs": [
+        "body",
+        "teeth"
+      ],
+      "relation": "historical_development",
+      "editorial_paraphrase": "Steiner claims hereditary anatomy is fundamentally replaced by a self-created body during the first seven years; this contradicts contemporary genetics.",
+      "evidence_status": "selected_primary_English_paragraph_checked",
+      "source_kind": "recorded lecture",
+      "german_collation": "pending",
+      "type": "atomic_claim",
+      "warning": "Historical esoteric claim, not modern scientific or clinical evidence"
+    },
+    {
+      "id": "ORG-V7-026",
+      "ga": 317,
+      "date": "1924-06-25",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240625.html",
+      "paragraph": 15,
+      "passage_cue": "English §15",
+      "organs": [
+        "liver",
+        "all organs"
+      ],
+      "relation": "age_dependent_organ_soul_relation",
+      "editorial_paraphrase": "Organ changes are described as more closely connected to will and soul processes in childhood than adulthood.",
+      "evidence_status": "selected_primary_English_paragraph_checked",
+      "source_kind": "recorded lecture",
+      "german_collation": "pending",
+      "type": "atomic_claim",
+      "warning": null
+    },
+    {
+      "id": "ORG-V7-027",
+      "ga": 317,
+      "date": "1924-06-25",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240625.html",
+      "paragraph": 21,
+      "passage_cue": "English §21",
+      "organs": [
+        "liver",
+        "limbs"
+      ],
+      "relation": "intention_action_mediation",
+      "editorial_paraphrase": "Steiner attributes to the liver the task of mediating translation of intended actions into bodily deeds.",
+      "evidence_status": "selected_primary_English_paragraph_checked",
+      "source_kind": "recorded lecture",
+      "german_collation": "pending",
+      "type": "atomic_claim",
+      "warning": null
+    },
+    {
+      "id": "ORG-V7-028",
+      "ga": 317,
+      "date": "1924-06-25",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240625.html",
+      "paragraph": 22,
+      "passage_cue": "English §22",
+      "organs": [
+        "liver"
+      ],
+      "relation": "historical_karmic_etiology",
+      "editorial_paraphrase": "A particular father's philosophical rejection of will is proposed as causing son's liver-related failure of will; this is unverified and inappropriate as diagnosis.",
+      "evidence_status": "selected_primary_English_paragraph_checked",
+      "source_kind": "recorded lecture",
+      "german_collation": "pending",
+      "type": "atomic_claim",
+      "warning": "Historical esoteric claim, not modern scientific or clinical evidence"
+    }
+  ]
+}
