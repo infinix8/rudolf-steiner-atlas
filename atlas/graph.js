@@ -35,6 +35,13 @@ function prepare() {
     opt.textContent = "GA " + src.ga + " · " + src.work.slice(0, 38);
     sourceSelect.append(opt);
   }
+  const families = state.graph.semantic_families?.definitions || {};
+  for (const [key,description] of Object.entries(families)) {
+    const opt = document.createElement("option"); opt.value = key;
+    opt.textContent = key.replaceAll("_"," ");
+    opt.title = description;
+    $("#family-filter").append(opt);
+  }
   const t = [...new Set(state.graph.edges.map((e) => e.type))].sort();
   for (const type of t) {
     const opt = document.createElement("option"); opt.value = type;
@@ -46,11 +53,12 @@ function prepare() {
 }
 function filterEdges() {
   const src = $("#source-filter").value, type = $("#type-filter").value;
-  const domain = $("#domain-filter").value, basis = $("#evidence-filter").value;
+  const domain = $("#domain-filter").value, basis = $("#evidence-filter").value, family = $("#family-filter").value;
   const q = $("#graph-search").value.trim().toLowerCase().split(/\s+/).filter(Boolean);
   return state.graph.edges.filter((edge) => {
     if (src && !edge.evidence.some((e) => e.source_id === src)) return false;
     if (type && edge.type !== type) return false;
+    if (family && edge.relation_family !== family) return false;
     if (basis && edge.evidence_basis !== basis) return false;
     if (domain && ![edge.from, edge.to].some(id => id.startsWith("RS-" + domain + "."))) return false;
     if (!q.length) return true;
@@ -123,6 +131,8 @@ function selectEdge(edge) {
   state.selected = edge.id;
   const left=byId(edge.from),right=byId(edge.to);
   let out='<p class="eyebrow">'+esc(edge.id)+'</p><h2>Relationship evidence</h2>'+
+    '<p class="mini-label">Editorial connection family: '+esc(edge.relation_family?.replaceAll('_',' ')||'unclassified')+
+    '</p>'+
     '<p><strong>'+esc(left.title)+'</strong><br><span class="muted">'+esc(edge.type.replace(/_/g," "))+
     '</span><br><strong>'+esc(right.title)+'</strong></p>'+
     '<p>'+esc(edge.claim)+'</p>'+
@@ -165,10 +175,10 @@ async function init(){
     if(!g.ok||!t.ok)throw Error("Cannot load repository JSON; serve this directory over localhost instead of file://.");
     [state.graph,state.taxonomy]=await Promise.all([g.json(),t.json()]);
     prepare();render();
-    ["#source-filter","#domain-filter","#evidence-filter","#type-filter","#graph-search"].forEach(id=>
+    ["#source-filter","#domain-filter","#evidence-filter","#family-filter","#type-filter","#graph-search"].forEach(id=>
       $(id).addEventListener(id==="#graph-search"?"input":"change",render));
     $("#clear-filters").addEventListener("click",()=>{$("#source-filter").value="";$("#domain-filter").value="";
-      $("#evidence-filter").value="";$("#type-filter").value="";
+      $("#evidence-filter").value="";$("#family-filter").value="";$("#type-filter").value="";
       $("#graph-search").value="";render();});
     $("#relations").addEventListener("click",e=>{
       const btn=e.target.closest("[data-edge]");if(!btn)return;
