@@ -1,42 +1,9 @@
-# Organ concordance — current continuation checkpoint
+# Research continuation checkpoint — phase 14
 
-Updated 2 November 2026 after phases 12–13. The original work brief remains in [WORK_TASK_COMPLETE_ORGAN_CONCORDANCE.md](WORK_TASK_COMPLETE_ORGAN_CONCORDANCE.md).
+Updated 2 November 2026. Start with [phase 14 findings](ORGAN_CONCORDANCE_PHASE14_FINDINGS.md), [v14 ledger](../research/organ-corpus-ledger-ga313-317-v14.json), [24 dossiers](../research/organ-comparative-dossiers-v14.json) and [event alias crosswalk](../research/organ-source-event-aliases-v14.json).
 
-## Read these current records first
+Current coverage: 61 catalogue entries; 20 complete English source views, 1 thematic, 3 selected-only, 37 unread. Section sum 494 includes the duplicate GA315 VII view. GA313 IX and GA315 VII are the same event; GA313 VIII morning is separate. Full German/exhaustive second-reviewed certification remains zero.
 
-1. [Phase 12 findings](ORGAN_CONCORDANCE_PHASE12_FINDINGS.md) and [phase 13 findings](ORGAN_CONCORDANCE_PHASE13_FINDINGS.md).
-2. [Current corpus ledger v13](../research/organ-corpus-ledger-ga313-317-v13.json): 16 English-complete numbered reviews, one additional thematic sweep, four selected-only entries, 40 unread; 395 sections in completed English lectures.
-3. [Current dossiers v13](../research/organ-comparative-dossiers-v13.json): 21 organ/process dossiers, all older relations retained.
-4. [German checks/corrections v12](../research/organ-german-checks-and-corrections-v12.json), [textual issues v13](../research/organ-german-checks-and-textual-issues-v13.json).
-5. [Cumulative manuscript v13](Steiner_Organ_Evolution_Research_Atlas_v13.md). Its v11 body is preserved exactly, with an explicit current correction layer.
+GA313 I–IX English reviews are complete (212 sections). Continue next at GA317 VI, 1 July 1924, §1, then VII–XII. Do not atomize the GA315 VII alias as a second lecture. Afterwards prioritize GA315 V–VI/VIII and remaining GA314/316 entries, then the wider-corpus sequence in the original work brief.
 
-## Exact next full-English source
-
-**GA 313 Lecture VII, 17 April 1921: start at §1.** Locate the English text through the GA 313 catalogue before marking any section reviewed. Continue VII–IX in sequence. No section in these lectures has been newly read in phases 12–13.
-
-**Second sequence: GA 317 Lecture VI, 1 July 1924: start at §1.** Then proceed VII–XII. GA 317 V is dated **30 June**, not 29 June; do not infer dates by lecture ordinal.
-
-The following priorities remain GA 315 V–VIII, the remaining GA 314/316 catalogue entries and then the wider GA corpus specified in the work brief. Query the v13 ledger for exact unread entries; do not reconstruct them from this summary.
-
-## Unfinished work within English-complete lectures
-
-- Full original-German collation, systematic sentence-level claim extraction and independent second review remain incomplete for every lecture. Zero certified exhaustive bilingual audits.
-- Reconcile the sleep formulations across GA 317 III §3, GA 313 II §26 and III §5. Do not declare the apparent conflict resolved by analogy alone.
-- Check printed editions for the GA 317 IV §4 formula, GA 313 VI §6 digital reading rendered as arm, and GA 317 V §5 diagram references.
-- Check GA 313 V §16 phosphorus-process translation, §4 versus §21 bowel/I causal tension, and GA 317 V §26 editorial note provenance.
-- Propagate the v12 correction layer whenever earlier v8/v9 claims are reused. Their stable IDs and historical files were preserved intentionally.
-- The 63 provisional new candidates from this session are not a certified globally unique teaching count. Full cross-corpus deduplication remains outstanding.
-
-## Verification and working tools
-
-`python3 tools/validate_organ_concordance.py 13`
-
-`python3 tools/validate_knowledge_graph.py`
-
-`python3 tools/report_knowledge_graph.py --check`
-
-`python3 tools/query_organ_concordance.py --organ liver`
-
-The search tool covers 93 selected v12–v13 propositions and the cumulative dossiers; it does not claim to search the entire Steiner corpus. The main taxonomy graph has 191 edges and 46 primary-source pages; only 12 edges and six pages were added in this session. The organ evidence graph is a separate connected view, not an additional count of teachings.
-
-Preserve all prior files. Never equate organ formation, present function, metamorphic analogy, symptom theory, sleep relation, inter-incarnation account and hierarchy agency. Medical and disability assertions remain attributed historical material, never diagnosis or treatment instructions.
+Preserve historical v11–v13 manuscripts and corrections. Cumulative v14 document assembly is pending at this checkpoint. German spot checks do not certify full collation. Retain v12 brain-buoyancy/crosslink corrections, unresolved sleep tension, v13 text questions and v14 critical-note uncertainties.

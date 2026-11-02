@@ -921,6 +921,84 @@
         "archive_url_checked": true,
         "full_translation_collation": false
       }
+    },
+    {
+      "id": "SG-GA313-19210417",
+      "ga": "313",
+      "work": "Perspectives on Therapeutic Eurythmy",
+      "unit": "Lecture VII",
+      "kind": "recorded_lecture",
+      "edition": "SOL English; selective German comparison",
+      "lecture_date": "1921-04-17",
+      "url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210417.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Selected graph claims within a complete 20-section English source-view review. Full work and bilingual audit not certified.",
+        "checked_on": "2026-11-02",
+        "entire_work_reviewed": false,
+        "archive_page_opened_on": "2026-11-02",
+        "archive_url_checked": true,
+        "full_translation_collation": false
+      }
+    },
+    {
+      "id": "SG-GA313-19210418A",
+      "ga": "313",
+      "work": "Perspectives on Therapeutic Eurythmy",
+      "unit": "Lecture VIII (morning)",
+      "kind": "recorded_lecture",
+      "edition": "SOL English; selective German comparison",
+      "lecture_date": "1921-04-18",
+      "url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418a.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Selected graph claims within a complete 27-section English source-view review. Full work and bilingual audit not certified.",
+        "checked_on": "2026-11-02",
+        "entire_work_reviewed": false,
+        "archive_page_opened_on": "2026-11-02",
+        "archive_url_checked": true,
+        "full_translation_collation": false
+      }
+    },
+    {
+      "id": "SG-GA313-19210418P",
+      "ga": "313",
+      "work": "Perspectives on Therapeutic Eurythmy",
+      "unit": "Lecture IX (afternoon)",
+      "kind": "recorded_lecture",
+      "edition": "SOL English; selective German comparison",
+      "lecture_date": "1921-04-18",
+      "url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418p.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Selected graph claims within a complete 24-section English source-view review. Full work and bilingual audit not certified.",
+        "checked_on": "2026-11-02",
+        "entire_work_reviewed": false,
+        "archive_page_opened_on": "2026-11-02",
+        "archive_url_checked": true,
+        "full_translation_collation": false
+      },
+      "event_id": "EV-19210418-DORNACH-MEDICAL-EURYTHMY"
+    },
+    {
+      "id": "SG-GA315-19210418",
+      "ga": "315",
+      "work": "Therapeutic Eurythmy",
+      "unit": "Lecture VII / same event as GA313 IX",
+      "kind": "recorded_lecture",
+      "edition": "SOL English with critical notes",
+      "lecture_date": "1921-04-18",
+      "url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210418.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Selected graph claims within a complete 28-section English source-view review. Full work and bilingual audit not certified.",
+        "checked_on": "2026-11-02",
+        "entire_work_reviewed": false,
+        "archive_page_opened_on": "2026-11-02",
+        "archive_url_checked": true,
+        "full_translation_collation": false
+      },
+      "event_id": "EV-19210418-DORNACH-MEDICAL-EURYTHMY"
     }
   ],
   "edges": [
@@ -4193,6 +4271,129 @@
       ],
       "claim": "Steiner derives repetition, dietary and movement proposals from his unvalidated constitutional model.",
       "relation_family": "method_and_application"
+    },
+    {
+      "id": "KG-192",
+      "from": "RS-18.02",
+      "to": "RS-12.03.01",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA313-19210417",
+          "passage_locator": "§§5,14"
+        }
+      ],
+      "claim": "Steiner treats digestive nerve-sense activity and milk secretion as sensory metamorphoses.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-193",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA313-19210417",
+          "passage_locator": "§16"
+        }
+      ],
+      "claim": "Milk formation related to I response.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-194",
+      "from": "RS-18.02",
+      "to": "RS-09.01.02",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA313-19210418A",
+          "passage_locator": "§§13–15"
+        }
+      ],
+      "claim": "Etheric sphere formation opposed by physical envelope in heart account.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-195",
+      "from": "RS-18.02",
+      "to": "RS-09.02.05",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA313-19210418A",
+          "passage_locator": "§§9–17"
+        }
+      ],
+      "claim": "Metals associated with radiating, oscillating and spherical processes, not exclusive organ assignments.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-196",
+      "from": "RS-18.02",
+      "to": "RS-12.04.01",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA313-19210418P",
+          "passage_locator": "§§3–6"
+        },
+        {
+          "source_id": "SG-GA315-19210418",
+          "passage_locator": "§§3–10 (same event as GA313 IX; alternate numbering, not independent corroboration)"
+        }
+      ],
+      "claim": "Peripheral formation, consolidation and separation related to cognition/formative forces without named ranks.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-197",
+      "from": "RS-18.02",
+      "to": "RS-11.05.05",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA313-19210418P",
+          "passage_locator": "§15"
+        }
+      ],
+      "claim": "Steiner predicts future human freedom in forming bodily shape; unverified prediction.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-198",
+      "from": "RS-18.02",
+      "to": "RS-19.06.04",
+      "type": "used_in_pedagogical_account",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA313-19210418P",
+          "passage_locator": "§§16–18,21"
+        }
+      ],
+      "claim": "Eurythmy connected to rhythm and organ imagery; individual breathing observation emphasized.",
+      "relation_family": "method_and_application"
     }
   ],
   "version": "1.1",
@@ -4222,5 +4423,11 @@
     "new_sources": 4,
     "new_edges": 7,
     "claim_dataset": "research/organ-atomic-claims-ga313-iv-vi-ga317-v-v13.json"
+  },
+  "organ_concordance_phase14": {
+    "source_views": 4,
+    "lecture_events": 3,
+    "source_alias_registry": "research/organ-source-event-aliases-v14.json",
+    "edges_added": 7
   }
 }

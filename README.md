@@ -110,3 +110,9 @@ Current organ research: [Phase 12 findings](docs/ORGAN_CONCORDANCE_PHASE12_FINDI
 
 Current coverage: 16 complete English numbered-section lecture reviews, 1 additional thematic sweep, 4 selected-only entries, 40 unread of 61. Full bilingual exhaustive certification remains zero. Earlier checkpoints below retain historical statistics.
 
+
+## Current phase 14 checkpoint
+
+[Findings](docs/ORGAN_CONCORDANCE_PHASE14_FINDINGS.md) · [Coverage](research/organ-corpus-ledger-ga313-317-v14.json) · [24 dossiers](research/organ-comparative-dossiers-v14.json) · [Confirmed lecture alias](research/organ-source-event-aliases-v14.json).
+
+20 complete English catalogue source views, 1 thematic, 3 selected-only, 37 unread. GA313 IX and GA315 VII share one event; 494 source-view sections is not distinct-text coverage. Historical counts above retain their checkpoint meaning.

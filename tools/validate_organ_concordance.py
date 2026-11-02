@@ -2,14 +2,14 @@
 """Validate current organ evidence links, arithmetic and cumulative preservation.
 
 Structural validation does not certify the accuracy of editorial source readings.
-Run from any directory; accepts a version number (default 13).
+Run from any directory; accepts a version number (default: latest ledger).
 """
 from pathlib import Path
 import hashlib
 from collections import Counter
 import json, sys
 ROOT=Path(__file__).resolve().parents[1]
-version=sys.argv[1] if len(sys.argv)>1 else '13'
+version=sys.argv[1] if len(sys.argv)>1 else str(max(int(p.stem.rsplit('-v',1)[1]) for p in (ROOT/'research').glob('organ-corpus-ledger-ga313-317-v*.json')))
 def load(path):return json.loads((ROOT/path).read_text())
 ledger=load(f'research/organ-corpus-ledger-ga313-317-v{version}.json')
 counts=Counter(x['audit_status'] for x in ledger['entries'])
@@ -38,20 +38,21 @@ for p in (ROOT/'research').glob('organ-*.json'):
  d=json.loads(p.read_text())
  for r in d.get('records',[]):
   if r.get('id'): claims[r['id']]=r
-for p in (ROOT/'research').glob('organ-atomic-claims-*-v1[23].json'):
+for p in (ROOT/'research').glob('organ-atomic-claims-*-v*.json'):
+ if int(p.stem.rsplit('-v',1)[1])<12:continue
  d=json.loads(p.read_text());ids=set()
  for c in d['records']:
   assert c['id'] not in ids;ids.add(c['id'])
   assert c['source_url'].startswith('https://rsarchive.org/')
   assert c.get('section',c.get('paragraph'))
   for prior in c['reconciliation']['prior_claim_ids']: assert prior in claims,prior
-  section_files=list((ROOT/'research').glob('organ-paragraph-review-*-v1[23].json'))
-  if c['id'].startswith(('ORG-CLAIM-V12-','ORG-CLAIM-V13-')):
+  section_files=list((ROOT/'research').glob('organ-paragraph-review-*-v*.json'))
+  if c['id'].startswith('ORG-CLAIM-V') and int(c['id'].split('-')[2][1:])>=12:
    sections=[r for f in section_files for r in json.loads(f.read_text())['records']]
-   assert any(r['ga']==c['ga'] and r['date']==c['date'] and r['paragraph']==c['section'] for r in sections),c['id']
+   assert any(r['source_url']==c['source_url'] and r['paragraph']==c['section'] for r in sections),c['id']
 for d in new['dossiers']:
  for key,value in d.items():
-  if key.startswith('phase12_refinements') or key.startswith('phase13_refinements'):
+  if key.startswith('phase') and key.endswith('_refinements') and int(key[5:].split('_')[0])>=12:
    for r in value: assert r['claim_ref_id'] in claims,r
 provenance=ROOT/'research/organ-manuscript-provenance-v13.json'
 if provenance.exists():
@@ -65,6 +66,13 @@ for e in ledger['entries']:
   # Prior audit files are canonical GitHub dependencies; validate locally when loaded.
   p=ROOT/e['audit_record']
   if p.exists():
-   d=json.loads(p.read_text());rs=[r for r in d.get('records',[]) if r.get('ga')==e['ga'] and r.get('date')==e['date']]
+   d=json.loads(p.read_text());rs=[r for r in d.get('records',[]) if r.get('catalogue_entry_id')==e['id'] or (not r.get('catalogue_entry_id') and r.get('source_url')==e['source_url'])]
    if rs and all('paragraph' in r for r in rs): assert len(rs)==e['english_paragraphs_reviewed'],e['id']
-print(json.dumps({'version':version,'catalogue':61,'statuses':dict(counts),'completed_English_sections':ledger['numbered_english_paragraphs_checked'],'dossiers':len(byid),'structural_checks':'passed'}))
+alias_path=ROOT/'research/organ-source-event-aliases-v14.json'
+if alias_path.exists():
+ for event in json.loads(alias_path.read_text())['events']:
+  rows=event['crosswalk']
+  assert [r['ga315_section'] for r in rows]==list(range(1,29))
+  assert set(s for r in rows for s in r['ga313_ix_sections'])==set(range(1,25))
+  assert len(event['catalogue_entries'])==len(set(event['catalogue_entries']))
+print(json.dumps({'version':version,'catalogue':61,'statuses':dict(counts),'completed_English_source_view_sections':ledger['numbered_english_paragraphs_checked'],'dossiers':len(byid),'structural_checks':'passed'}))

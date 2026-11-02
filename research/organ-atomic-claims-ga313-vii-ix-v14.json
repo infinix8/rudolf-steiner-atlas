@@ -1,0 +1,1477 @@
+{
+  "schema_version": "1.1",
+  "as_of": "2026-11-02",
+  "scope": "45 selected propositions; not exhaustive atomic extraction. Aliased GA315 source is not independently atomized.",
+  "records": [
+    {
+      "id": "ORG-CLAIM-V14-001",
+      "catalogue_entry_id": "GA313-07",
+      "ga": 313,
+      "date": "1921-04-17",
+      "lecture": "VII",
+      "section": 2,
+      "passage_cue": "English numbered §2",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210417.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "stomach",
+        "intestines"
+      ],
+      "agent": null,
+      "agent_scope": "No named hierarchy or exclusive organ builder in this proposition.",
+      "predicate": "member_association",
+      "temporal_framework": "present_function",
+      "paraphrase": "Steiner: Gentian bitterness/aroma associated with astral activity; sugar with I.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "See selective check log; not full collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with loaded prior registers; new_candidate means provisionally unpaired, not globally unique."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V14-002",
+      "catalogue_entry_id": "GA313-07",
+      "ga": 313,
+      "date": "1921-04-17",
+      "lecture": "VII",
+      "section": 5,
+      "passage_cue": "English numbered §5",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210417.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "esophagus",
+        "stomach"
+      ],
+      "agent": null,
+      "agent_scope": "No named hierarchy or exclusive organ builder in this proposition.",
+      "predicate": "inner_sense_metamorphosis",
+      "temporal_framework": "present_function",
+      "paraphrase": "Steiner: Digestive organs carry an inward nerve-sense apparatus.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "See selective check log; not full collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with loaded prior registers; new_candidate means provisionally unpaired, not globally unique."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V14-003",
+      "catalogue_entry_id": "GA313-07",
+      "ga": 313,
+      "date": "1921-04-17",
+      "lecture": "VII",
+      "section": 8,
+      "passage_cue": "English numbered §8",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210417.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "uterus"
+      ],
+      "agent": null,
+      "agent_scope": "No named hierarchy or exclusive organ builder in this proposition.",
+      "predicate": "therapeutic_proposal",
+      "temporal_framework": "present_function",
+      "paraphrase": "Steiner: Marjoram linked to uterine weakness through internal respiratory activity.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "See selective check log; not full collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with loaded prior registers; new_candidate means provisionally unpaired, not globally unique."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology.",
+        "Unvalidated historical remedy claim."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V14-004",
+      "catalogue_entry_id": "GA313-07",
+      "ga": 313,
+      "date": "1921-04-17",
+      "lecture": "VII",
+      "section": 9,
+      "passage_cue": "English numbered §9",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210417.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "lungs",
+        "circulation"
+      ],
+      "agent": null,
+      "agent_scope": "No named hierarchy or exclusive organ builder in this proposition.",
+      "predicate": "member_sequence",
+      "temporal_framework": "present_function",
+      "paraphrase": "Steiner: Elderflower acts first on etheric, then astral activity in respiration/circulation.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "See selective check log; not full collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with loaded prior registers; new_candidate means provisionally unpaired, not globally unique."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology.",
+        "Unvalidated therapeutic mechanism."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V14-005",
+      "catalogue_entry_id": "GA313-07",
+      "ga": 313,
+      "date": "1921-04-17",
+      "lecture": "VII",
+      "section": 13,
+      "passage_cue": "English numbered §13",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210417.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "nerves"
+      ],
+      "agent": null,
+      "agent_scope": "No named hierarchy or exclusive organ builder in this proposition.",
+      "predicate": "motor_nerve_denial",
+      "temporal_framework": "present_function",
+      "paraphrase": "Steiner: Denies distinct motor nerves using sensory/reflex analogy.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "See selective check log; not full collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with loaded prior registers; new_candidate means provisionally unpaired, not globally unique."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology.",
+        "Incorrect neurological assertion; do not present as established anatomy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V14-006",
+      "catalogue_entry_id": "GA313-07",
+      "ga": 313,
+      "date": "1921-04-17",
+      "lecture": "VII",
+      "section": 14,
+      "passage_cue": "English numbered §14",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210417.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "mammary glands"
+      ],
+      "agent": null,
+      "agent_scope": "No named hierarchy or exclusive organ builder in this proposition.",
+      "predicate": "sensory_metamorphosis",
+      "temporal_framework": "present_function",
+      "paraphrase": "Steiner: Milk secretion described as condensed inward sensory activity.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "See selective check log; not full collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with loaded prior registers; new_candidate means provisionally unpaired, not globally unique."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V14-007",
+      "catalogue_entry_id": "GA313-07",
+      "ga": 313,
+      "date": "1921-04-17",
+      "lecture": "VII",
+      "section": 16,
+      "passage_cue": "English numbered §16",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210417.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "mammary glands"
+      ],
+      "agent": null,
+      "agent_scope": "No named hierarchy or exclusive organ builder in this proposition.",
+      "predicate": "i_response",
+      "temporal_framework": "present_function",
+      "paraphrase": "Steiner: Milk formation related to I response to oil/mucilage.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "See selective check log; not full collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with loaded prior registers; new_candidate means provisionally unpaired, not globally unique."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V14-008",
+      "catalogue_entry_id": "GA313-07",
+      "ga": 313,
+      "date": "1921-04-17",
+      "lecture": "VII",
+      "section": 18,
+      "passage_cue": "English numbered §18",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210417.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "brain"
+      ],
+      "agent": null,
+      "agent_scope": "No named hierarchy or exclusive organ builder in this proposition.",
+      "predicate": "metal_polarity",
+      "temporal_framework": "present_function",
+      "paraphrase": "Steiner: Lead associated with head nerve-sense processes.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "See selective check log; not full collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with loaded prior registers; new_candidate means provisionally unpaired, not globally unique."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology.",
+        "Historical metal remedy assertions are not clinical recommendations."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V14-009",
+      "catalogue_entry_id": "GA313-07",
+      "ga": 313,
+      "date": "1921-04-17",
+      "lecture": "VII",
+      "section": 19,
+      "passage_cue": "English numbered §19",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210417.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "limbs",
+        "heart"
+      ],
+      "agent": null,
+      "agent_scope": "No named hierarchy or exclusive organ builder in this proposition.",
+      "predicate": "metal_polarity",
+      "temporal_framework": "present_function",
+      "paraphrase": "Steiner: Silver/limb-metabolism contrasted with lead/head and gold/middle.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "See selective check log; not full collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with loaded prior registers; new_candidate means provisionally unpaired, not globally unique."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology.",
+        "Relational schema, not exclusive organ-to-metal identity."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V14-010",
+      "catalogue_entry_id": "GA313-07",
+      "ga": 313,
+      "date": "1921-04-17",
+      "lecture": "VII",
+      "section": 20,
+      "passage_cue": "English numbered §20",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210417.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "lungs",
+        "heart"
+      ],
+      "agent": null,
+      "agent_scope": "No named hierarchy or exclusive organ builder in this proposition.",
+      "predicate": "nested_organ_polarity",
+      "temporal_framework": "morphological_analogy",
+      "paraphrase": "Steiner: Upper/posterior organs enclose lower/anterior organs in nested polarities.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "See selective check log; not full collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with loaded prior registers; new_candidate means provisionally unpaired, not globally unique."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V14-011",
+      "catalogue_entry_id": "GA313-08",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "VIII (morning)",
+      "section": 2,
+      "passage_cue": "English numbered §2",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418a.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "head"
+      ],
+      "agent": null,
+      "agent_scope": "No named hierarchy or exclusive organ builder in this proposition.",
+      "predicate": "force_substance_distinction",
+      "temporal_framework": "prenatal_formation",
+      "paraphrase": "Steiner: Prenatal lead-like formative activity distinguished from ingested terrestrial lead.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "See selective check log; not full collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with loaded prior registers; new_candidate means provisionally unpaired, not globally unique."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology.",
+        "Not a claim that lead metal is physiologically required."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V14-012",
+      "catalogue_entry_id": "GA313-08",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "VIII (morning)",
+      "section": 9,
+      "passage_cue": "English numbered §9",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418a.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "teeth"
+      ],
+      "agent": null,
+      "agent_scope": "No named hierarchy or exclusive organ builder in this proposition.",
+      "predicate": "magnesium_formative_analogy",
+      "temporal_framework": "development",
+      "paraphrase": "Steiner: Magnesium radiating forces associated with tooth emergence.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "See selective check log; not full collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with loaded prior registers; new_candidate means provisionally unpaired, not globally unique."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V14-013",
+      "catalogue_entry_id": "GA313-08",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "VIII (morning)",
+      "section": 12,
+      "passage_cue": "English numbered §12",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418a.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "lungs"
+      ],
+      "agent": null,
+      "agent_scope": "No named hierarchy or exclusive organ builder in this proposition.",
+      "predicate": "tin_oscillation",
+      "temporal_framework": "present_function",
+      "paraphrase": "Steiner: Respiratory oscillation associated with tin.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "See selective check log; not full collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with loaded prior registers; new_candidate means provisionally unpaired, not globally unique."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V14-014",
+      "catalogue_entry_id": "GA313-08",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "VIII (morning)",
+      "section": 13,
+      "passage_cue": "English numbered §13",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418a.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "metabolism"
+      ],
+      "agent": null,
+      "agent_scope": "No named hierarchy or exclusive organ builder in this proposition.",
+      "predicate": "threefold_members",
+      "temporal_framework": "present_function",
+      "paraphrase": "Steiner: I/radiation, astral/oscillation and etheric/sphere processes distinguished.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "See selective check log; not full collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with loaded prior registers; new_candidate means provisionally unpaired, not globally unique."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology.",
+        "Process mapping is not a spiritual hierarchy assignment."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V14-015",
+      "catalogue_entry_id": "GA313-08",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "VIII (morning)",
+      "section": 15,
+      "passage_cue": "English numbered §15",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418a.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "heart"
+      ],
+      "agent": null,
+      "agent_scope": "No named hierarchy or exclusive organ builder in this proposition.",
+      "predicate": "sphere_envelope_balance",
+      "temporal_framework": "present_function",
+      "paraphrase": "Steiner: Heart balances etheric sphere formation against physical enclosing force.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "See selective check log; not full collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with loaded prior registers; new_candidate means provisionally unpaired, not globally unique."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V14-016",
+      "catalogue_entry_id": "GA313-08",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "VIII (morning)",
+      "section": 16,
+      "passage_cue": "English numbered §16",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418a.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "reproductive organs",
+        "digestive tract"
+      ],
+      "agent": null,
+      "agent_scope": "No named hierarchy or exclusive organ builder in this proposition.",
+      "predicate": "mercury_counterforces",
+      "temporal_framework": "present_function",
+      "paraphrase": "Steiner: Mercurial oscillations opposed in sexual, digestive and excretory activity.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "See selective check log; not full collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with loaded prior registers; new_candidate means provisionally unpaired, not globally unique."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V14-017",
+      "catalogue_entry_id": "GA313-08",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "VIII (morning)",
+      "section": 17,
+      "passage_cue": "English numbered §17",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418a.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "skin",
+        "kidneys",
+        "intestines"
+      ],
+      "agent": null,
+      "agent_scope": "No named hierarchy or exclusive organ builder in this proposition.",
+      "predicate": "route_polarity",
+      "temporal_framework": "present_function",
+      "paraphrase": "Steiner: Skin and urinary/purgative radiation contrasted; warns against rigid generalization.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "See selective check log; not full collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with loaded prior registers; new_candidate means provisionally unpaired, not globally unique."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V14-018",
+      "catalogue_entry_id": "GA313-08",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "VIII (morning)",
+      "section": 18,
+      "passage_cue": "English numbered §18",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418a.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "reproductive organs"
+      ],
+      "agent": null,
+      "agent_scope": "No named hierarchy or exclusive organ builder in this proposition.",
+      "predicate": "menstrual_flower_assertion",
+      "temporal_framework": "present_function",
+      "paraphrase": "Steiner: Attributes flower wilting to menstruating women.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "See selective check log; not full collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with loaded prior registers; new_candidate means provisionally unpaired, not globally unique."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology.",
+        "Unsupported and stigmatizing menstrual assertion."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V14-019",
+      "catalogue_entry_id": "GA313-08",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "VIII (morning)",
+      "section": 19,
+      "passage_cue": "English numbered §19",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418a.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "lungs"
+      ],
+      "agent": null,
+      "agent_scope": "No named hierarchy or exclusive organ builder in this proposition.",
+      "predicate": "asthma_misplacement_theory",
+      "temporal_framework": "present_function",
+      "paraphrase": "Steiner: Asthma attributed to nerve-sense activity entering respiration.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "See selective check log; not full collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with loaded prior registers; new_candidate means provisionally unpaired, not globally unique."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology.",
+        "Unvalidated etiology and bath treatment; not medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V14-020",
+      "catalogue_entry_id": "GA313-08",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "VIII (morning)",
+      "section": 20,
+      "passage_cue": "English numbered §20",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418a.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "glands and secretions"
+      ],
+      "agent": null,
+      "agent_scope": "No named hierarchy or exclusive organ builder in this proposition.",
+      "predicate": "milk_injection_proposal",
+      "temporal_framework": "present_function",
+      "paraphrase": "Steiner: Milk secretion forces used to rationalize injections for gonorrhea.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "See selective check log; not full collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with loaded prior registers; new_candidate means provisionally unpaired, not globally unique."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology.",
+        "Unvalidated treatment assertion."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V14-021",
+      "catalogue_entry_id": "GA313-08",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "VIII (morning)",
+      "section": 22,
+      "passage_cue": "English numbered §22",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418a.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "bones",
+        "muscles"
+      ],
+      "agent": null,
+      "agent_scope": "No named hierarchy or exclusive organ builder in this proposition.",
+      "predicate": "ideal_not_genetic_metamorphosis",
+      "temporal_framework": "ideal_morphology",
+      "paraphrase": "Steiner: Bones called transformed muscles in an ideal rather than genetic-developmental sense.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "See selective check log; not full collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with loaded prior registers; new_candidate means provisionally unpaired, not globally unique."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology.",
+        "Do not recast as literal embryological derivation or modern DNA genetics."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V14-022",
+      "catalogue_entry_id": "GA313-08",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "VIII (morning)",
+      "section": 23,
+      "passage_cue": "English numbered §23",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418a.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "eyes",
+        "ears",
+        "taste",
+        "smell"
+      ],
+      "agent": null,
+      "agent_scope": "No named hierarchy or exclusive organ builder in this proposition.",
+      "predicate": "limits_of_sensory_analogy",
+      "temporal_framework": "present_function",
+      "paraphrase": "Steiner: Rejects constructed taste/smell spectra; distinguishes etheric vision from material taste/smell.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "See selective check log; not full collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with loaded prior registers; new_candidate means provisionally unpaired, not globally unique."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology.",
+        "His caution against analogy does not independently validate the alternative physiology."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V14-023",
+      "catalogue_entry_id": "GA313-08",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "VIII (morning)",
+      "section": 24,
+      "passage_cue": "English numbered §24",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418a.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "whole organism"
+      ],
+      "agent": null,
+      "agent_scope": "No named hierarchy or exclusive organ builder in this proposition.",
+      "predicate": "process_not_substance",
+      "temporal_framework": "present_function",
+      "paraphrase": "Steiner: Internal generation of etheric metal-like processes distinguished from producing substances.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "See selective check log; not full collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with loaded prior registers; new_candidate means provisionally unpaired, not globally unique."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology.",
+        "No literal internal lead production is asserted here."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V14-024",
+      "catalogue_entry_id": "GA313-08",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "VIII (morning)",
+      "section": 25,
+      "passage_cue": "English numbered §25",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418a.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "thyroid",
+        "brain"
+      ],
+      "agent": null,
+      "agent_scope": "No named hierarchy or exclusive organ builder in this proposition.",
+      "predicate": "unfinished_brain_metamorphosis",
+      "temporal_framework": "morphological_analogy",
+      "paraphrase": "Steiner: Thyroid described as unfinished brain.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "See selective check log; not full collation.",
+      "reconciliation": {
+        "decision": "overlap",
+        "prior_claim_ids": [
+          "ORG-V7-017"
+        ],
+        "scope": "Compared with loaded prior registers; new_candidate means provisionally unpaired, not globally unique."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology.",
+        "Cross-reference to first therapeutic-eurythmy lesson, not a new independent discovery."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V14-025",
+      "catalogue_entry_id": "GA313-08",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "VIII (morning)",
+      "section": 25,
+      "passage_cue": "English numbered §25",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418a.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "thyroid"
+      ],
+      "agent": null,
+      "agent_scope": "No named hierarchy or exclusive organ builder in this proposition.",
+      "predicate": "graves_head_tendency",
+      "temporal_framework": "present_function",
+      "paraphrase": "Steiner: Graves disease interpreted as excessive head tendency toward thyroid.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "See selective check log; not full collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with loaded prior registers; new_candidate means provisionally unpaired, not globally unique."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology.",
+        "Speculative disease mechanism and eurythmy/intellectualization proposal."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V14-026",
+      "catalogue_entry_id": "GA313-09",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "IX (afternoon)",
+      "section": 3,
+      "passage_cue": "English numbered §3",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418p.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "teeth"
+      ],
+      "agent": null,
+      "agent_scope": "No named hierarchy or exclusive organ builder in this proposition.",
+      "predicate": "peripheral_formative_origin",
+      "temporal_framework": "cosmic_formative_process",
+      "paraphrase": "Steiner: Peripheral cosmic forces form organs, planetary spheres modify them.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "See selective check log; not full collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with loaded prior registers; new_candidate means provisionally unpaired, not globally unique."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology.",
+        "No named spiritual rank or exclusive organ builder."
+      ],
+      "event_id": "EV-19210418-DORNACH-MEDICAL-EURYTHMY",
+      "alias_source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210418.html",
+      "alias_sections": [
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V14-027",
+      "catalogue_entry_id": "GA313-09",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "IX (afternoon)",
+      "section": 3,
+      "passage_cue": "English numbered §3",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418p.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "teeth"
+      ],
+      "agent": null,
+      "agent_scope": "No named hierarchy or exclusive organ builder in this proposition.",
+      "predicate": "magnesium_fluorine_polarity",
+      "temporal_framework": "development",
+      "paraphrase": "Steiner: Magnesium pushing and fluorine rounding used as tooth formation example.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "See selective check log; not full collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with loaded prior registers; new_candidate means provisionally unpaired, not globally unique."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology."
+      ],
+      "event_id": "EV-19210418-DORNACH-MEDICAL-EURYTHMY",
+      "alias_source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210418.html",
+      "alias_sections": [
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V14-028",
+      "catalogue_entry_id": "GA313-09",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "IX (afternoon)",
+      "section": 3,
+      "passage_cue": "English numbered §3",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418p.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "whole organism"
+      ],
+      "agent": null,
+      "agent_scope": "No named hierarchy or exclusive organ builder in this proposition.",
+      "predicate": "fixing_separating_distinction",
+      "temporal_framework": "formative_process",
+      "paraphrase": "Steiner: Consolidation and separation/elimination mediate formation.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "See selective check log; not full collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with loaded prior registers; new_candidate means provisionally unpaired, not globally unique."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology.",
+        "GA315 shorthand note distinguishes separation from elimination."
+      ],
+      "event_id": "EV-19210418-DORNACH-MEDICAL-EURYTHMY",
+      "alias_source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210418.html",
+      "alias_sections": [
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V14-029",
+      "catalogue_entry_id": "GA313-09",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "IX (afternoon)",
+      "section": 4,
+      "passage_cue": "English numbered §4",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418p.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "eyes"
+      ],
+      "agent": null,
+      "agent_scope": "No named hierarchy or exclusive organ builder in this proposition.",
+      "predicate": "opposed_formative_directions",
+      "temporal_framework": "development",
+      "paraphrase": "Steiner: Eye formed from outside inward and fixed from inside outward.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "See selective check log; not full collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with loaded prior registers; new_candidate means provisionally unpaired, not globally unique."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology."
+      ],
+      "event_id": "EV-19210418-DORNACH-MEDICAL-EURYTHMY",
+      "alias_source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210418.html",
+      "alias_sections": [
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V14-030",
+      "catalogue_entry_id": "GA313-09",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "IX (afternoon)",
+      "section": 4,
+      "passage_cue": "English numbered §4",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418p.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "whole organism"
+      ],
+      "agent": null,
+      "agent_scope": "No named hierarchy or exclusive organ builder in this proposition.",
+      "predicate": "cognition_ladder",
+      "temporal_framework": "higher_cognition",
+      "paraphrase": "Steiner: Imagination consciously fixes; Inspiration separates; Intuition participates in forming.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "See selective check log; not full collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with loaded prior registers; new_candidate means provisionally unpaired, not globally unique."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology.",
+        "Cognition modes, not named ranks of spiritual beings."
+      ],
+      "event_id": "EV-19210418-DORNACH-MEDICAL-EURYTHMY",
+      "alias_source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210418.html",
+      "alias_sections": [
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V14-031",
+      "catalogue_entry_id": "GA313-09",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "IX (afternoon)",
+      "section": 5,
+      "passage_cue": "English numbered §5",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418p.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "whole organism"
+      ],
+      "agent": null,
+      "agent_scope": "No named hierarchy or exclusive organ builder in this proposition.",
+      "predicate": "reversal_of_becoming",
+      "temporal_framework": "higher_cognition",
+      "paraphrase": "Steiner: Cognition described as reversal of becoming through creative counterforces.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "See selective check log; not full collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with loaded prior registers; new_candidate means provisionally unpaired, not globally unique."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology."
+      ],
+      "event_id": "EV-19210418-DORNACH-MEDICAL-EURYTHMY",
+      "alias_source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210418.html",
+      "alias_sections": [
+        9
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V14-032",
+      "catalogue_entry_id": "GA313-09",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "IX (afternoon)",
+      "section": 6,
+      "passage_cue": "English numbered §6",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418p.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "whole organism"
+      ],
+      "agent": null,
+      "agent_scope": "No named hierarchy or exclusive organ builder in this proposition.",
+      "predicate": "imagination_growth_identity",
+      "temporal_framework": "higher_cognition_and_growth",
+      "paraphrase": "Steiner: Forces used in Imagination identified with plastic growth forces.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "See selective check log; not full collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with loaded prior registers; new_candidate means provisionally unpaired, not globally unique."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology.",
+        "Identity of forces does not establish conscious access by ordinary organ awareness."
+      ],
+      "event_id": "EV-19210418-DORNACH-MEDICAL-EURYTHMY",
+      "alias_source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210418.html",
+      "alias_sections": [
+        10
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V14-033",
+      "catalogue_entry_id": "GA313-09",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "IX (afternoon)",
+      "section": 6,
+      "passage_cue": "English numbered §6",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418p.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "lungs"
+      ],
+      "agent": null,
+      "agent_scope": "No named hierarchy or exclusive organ builder in this proposition.",
+      "predicate": "inspiration_respiration_identity",
+      "temporal_framework": "higher_cognition_and_respiration",
+      "paraphrase": "Steiner: Forces used in Inspiration identified with formative respiratory forces.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "See selective check log; not full collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with loaded prior registers; new_candidate means provisionally unpaired, not globally unique."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology."
+      ],
+      "event_id": "EV-19210418-DORNACH-MEDICAL-EURYTHMY",
+      "alias_source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210418.html",
+      "alias_sections": [
+        10
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V14-034",
+      "catalogue_entry_id": "GA313-09",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "IX (afternoon)",
+      "section": 6,
+      "passage_cue": "English numbered §6",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418p.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "whole organism"
+      ],
+      "agent": null,
+      "agent_scope": "No named hierarchy or exclusive organ builder in this proposition.",
+      "predicate": "intuition_formative_agency",
+      "temporal_framework": "higher_cognition_and_formation",
+      "paraphrase": "Steiner: Intuition associated with agency entering substantial formation.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "See selective check log; not full collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with loaded prior registers; new_candidate means provisionally unpaired, not globally unique."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology.",
+        "No organ-specific named hierarchy given."
+      ],
+      "event_id": "EV-19210418-DORNACH-MEDICAL-EURYTHMY",
+      "alias_source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210418.html",
+      "alias_sections": [
+        10
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V14-035",
+      "catalogue_entry_id": "GA313-09",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "IX (afternoon)",
+      "section": 7,
+      "passage_cue": "English numbered §7",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418p.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "whole organism"
+      ],
+      "agent": null,
+      "agent_scope": "No named hierarchy or exclusive organ builder in this proposition.",
+      "predicate": "consonants_unconscious_imagination",
+      "temporal_framework": "eurythmy",
+      "paraphrase": "Steiner: Consonant movements said to evoke unconscious imaginative formative powers.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "See selective check log; not full collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with loaded prior registers; new_candidate means provisionally unpaired, not globally unique."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology.",
+        "GA315 notes uncertainty between dreaming-through and streaming-through."
+      ],
+      "event_id": "EV-19210418-DORNACH-MEDICAL-EURYTHMY",
+      "alias_source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210418.html",
+      "alias_sections": [
+        11
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V14-036",
+      "catalogue_entry_id": "GA313-09",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "IX (afternoon)",
+      "section": 11,
+      "passage_cue": "English numbered §11",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418p.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "digestive tract"
+      ],
+      "agent": null,
+      "agent_scope": "No named hierarchy or exclusive organ builder in this proposition.",
+      "predicate": "parasite_psychic_causation",
+      "temporal_framework": "present_function",
+      "paraphrase": "Steiner: Intestinal worms attributed to inadequate psychic plastic forces.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "See selective check log; not full collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with loaded prior registers; new_candidate means provisionally unpaired, not globally unique."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology.",
+        "False parasitic disease explanation; disability and treatment claims must stay attributed."
+      ],
+      "event_id": "EV-19210418-DORNACH-MEDICAL-EURYTHMY",
+      "alias_source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210418.html",
+      "alias_sections": [
+        15,
+        16
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V14-037",
+      "catalogue_entry_id": "GA313-09",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "IX (afternoon)",
+      "section": 15,
+      "passage_cue": "English numbered §15",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418p.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "whole organism",
+        "joints"
+      ],
+      "agent": null,
+      "agent_scope": "No named hierarchy or exclusive organ builder in this proposition.",
+      "predicate": "future_formative_freedom",
+      "temporal_framework": "future_human_development",
+      "paraphrase": "Steiner: Future freedom extended to forming human shape through compensating imaginations.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "See selective check log; not full collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with loaded prior registers; new_candidate means provisionally unpaired, not globally unique."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology.",
+        "Prediction, not observed efficacy or a practical organ-creation protocol."
+      ],
+      "event_id": "EV-19210418-DORNACH-MEDICAL-EURYTHMY",
+      "alias_source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210418.html",
+      "alias_sections": [
+        19
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V14-038",
+      "catalogue_entry_id": "GA313-09",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "IX (afternoon)",
+      "section": 16,
+      "passage_cue": "English numbered §16",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418p.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "circulation"
+      ],
+      "agent": null,
+      "agent_scope": "No named hierarchy or exclusive organ builder in this proposition.",
+      "predicate": "vowels_inspirational_rhythm",
+      "temporal_framework": "eurythmy",
+      "paraphrase": "Steiner: Vowels associated with objective Inspiration and circulation rhythm.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "See selective check log; not full collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with loaded prior registers; new_candidate means provisionally unpaired, not globally unique."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology."
+      ],
+      "event_id": "EV-19210418-DORNACH-MEDICAL-EURYTHMY",
+      "alias_source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210418.html",
+      "alias_sections": [
+        20
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V14-039",
+      "catalogue_entry_id": "GA313-09",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "IX (afternoon)",
+      "section": 17,
+      "passage_cue": "English numbered §17",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418p.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "kidneys",
+        "liver",
+        "lungs",
+        "posterior head"
+      ],
+      "agent": null,
+      "agent_scope": "No named hierarchy or exclusive organ builder in this proposition.",
+      "predicate": "organ_luminescence",
+      "temporal_framework": "eurythmy",
+      "paraphrase": "Steiner: Consonant eurythmy said to elicit luminous organ responses.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "See selective check log; not full collation.",
+      "reconciliation": {
+        "decision": "same_claim",
+        "prior_claim_ids": [
+          "ORG-315-19210418-01"
+        ],
+        "scope": "Compared with loaded prior registers; new_candidate means provisionally unpaired, not globally unique."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology.",
+        "Same lecture as GA315 VII §21; not corroboration from another event."
+      ],
+      "event_id": "EV-19210418-DORNACH-MEDICAL-EURYTHMY",
+      "alias_source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210418.html",
+      "alias_sections": [
+        21
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V14-040",
+      "catalogue_entry_id": "GA313-09",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "IX (afternoon)",
+      "section": 17,
+      "passage_cue": "English numbered §17",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418p.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "kidneys"
+      ],
+      "agent": null,
+      "agent_scope": "No named hierarchy or exclusive organ builder in this proposition.",
+      "predicate": "copper_process_equivalence",
+      "temporal_framework": "eurythmy",
+      "paraphrase": "Steiner: Organ luminous process identified with the process attributed to copper.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "See selective check log; not full collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with loaded prior registers; new_candidate means provisionally unpaired, not globally unique."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology.",
+        "Historical esoteric equivalence, not evidence of clinical interchangeability."
+      ],
+      "event_id": "EV-19210418-DORNACH-MEDICAL-EURYTHMY",
+      "alias_source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210418.html",
+      "alias_sections": [
+        21
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V14-041",
+      "catalogue_entry_id": "GA313-09",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "IX (afternoon)",
+      "section": 17,
+      "passage_cue": "English numbered §17",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418p.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "kidneys"
+      ],
+      "agent": null,
+      "agent_scope": "No named hierarchy or exclusive organ builder in this proposition.",
+      "predicate": "urinary_mystical_drawing",
+      "temporal_framework": "present_function",
+      "paraphrase": "Steiner: Mystical drawings interpreted as retained-urine organ luminescence.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "See selective check log; not full collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with loaded prior registers; new_candidate means provisionally unpaired, not globally unique."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology.",
+        "Unsupported pathologizing account of artistic/mystical experience."
+      ],
+      "event_id": "EV-19210418-DORNACH-MEDICAL-EURYTHMY",
+      "alias_source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210418.html",
+      "alias_sections": [
+        21
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V14-042",
+      "catalogue_entry_id": "GA313-09",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "IX (afternoon)",
+      "section": 18,
+      "passage_cue": "English numbered §18",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418p.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "reproductive organs",
+        "circulation"
+      ],
+      "agent": null,
+      "agent_scope": "No named hierarchy or exclusive organ builder in this proposition.",
+      "predicate": "sexual_mysticism_account",
+      "temporal_framework": "present_function",
+      "paraphrase": "Steiner: Mystical poetry of named women attributed to repressed sexuality.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "See selective check log; not full collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with loaded prior registers; new_candidate means provisionally unpaired, not globally unique."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology.",
+        "Speculative gendered/religious pathologization."
+      ],
+      "event_id": "EV-19210418-DORNACH-MEDICAL-EURYTHMY",
+      "alias_source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210418.html",
+      "alias_sections": [
+        22
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V14-043",
+      "catalogue_entry_id": "GA313-09",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "IX (afternoon)",
+      "section": 18,
+      "passage_cue": "English numbered §18",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418p.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "whole organism"
+      ],
+      "agent": null,
+      "agent_scope": "No named hierarchy or exclusive organ builder in this proposition.",
+      "predicate": "prenatal_cause_claim",
+      "temporal_framework": "prenatal_and_childhood",
+      "paraphrase": "Steiner: Some inherited or congenital conditions reinterpreted as pre-earthly carryover.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "See selective check log; not full collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with loaded prior registers; new_candidate means provisionally unpaired, not globally unique."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology.",
+        "Unvalidated and potentially stigmatizing disability etiology."
+      ],
+      "event_id": "EV-19210418-DORNACH-MEDICAL-EURYTHMY",
+      "alias_source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210418.html",
+      "alias_sections": [
+        22
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V14-044",
+      "catalogue_entry_id": "GA313-09",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "IX (afternoon)",
+      "section": 18,
+      "passage_cue": "English numbered §18",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418p.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "whole organism"
+      ],
+      "agent": null,
+      "agent_scope": "No named hierarchy or exclusive organ builder in this proposition.",
+      "predicate": "outward_attentive_intuitive_forces",
+      "temporal_framework": "eurythmy",
+      "paraphrase": "Steiner: Attention to externally heard poetry linked to objective intuitive formative forces.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "See selective check log; not full collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with loaded prior registers; new_candidate means provisionally unpaired, not globally unique."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology.",
+        "Distinguish outward attention from inward pathological images in the same lecture."
+      ],
+      "event_id": "EV-19210418-DORNACH-MEDICAL-EURYTHMY",
+      "alias_source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210418.html",
+      "alias_sections": [
+        22
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V14-045",
+      "catalogue_entry_id": "GA313-09",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "IX (afternoon)",
+      "section": 21,
+      "passage_cue": "English numbered §21",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418p.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "lungs"
+      ],
+      "agent": null,
+      "agent_scope": "No named hierarchy or exclusive organ builder in this proposition.",
+      "predicate": "individual_breathing_observation",
+      "temporal_framework": "eurythmy",
+      "paraphrase": "Steiner: Rejects universal prescribed breathing in favor of individual observed rhythmic change.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "See selective check log; not full collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with loaded prior registers; new_candidate means provisionally unpaired, not globally unique."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology.",
+        "Historical instruction indexed descriptively, not a breathing regimen."
+      ],
+      "event_id": "EV-19210418-DORNACH-MEDICAL-EURYTHMY",
+      "alias_source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210418.html",
+      "alias_sections": [
+        25
+      ]
+    }
+  ],
+  "new_candidate_count": 43,
+  "globally_unique_new_claim_count": null
+}

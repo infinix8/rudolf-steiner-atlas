@@ -1,0 +1,2027 @@
+{
+  "schema_version": "1.1",
+  "as_of": "2026-11-02",
+  "scope": "99 source-view sections; GA315 VII duplicates the GA313 IX event; 71 sections in primary GA313 layout. No exhaustive atomization or full German audit.",
+  "lectures": [
+    {
+      "catalogue_entry_id": "GA313-07",
+      "ga": 313,
+      "date": "1921-04-17",
+      "lecture": "VII",
+      "sections": 20,
+      "url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210417.html"
+    },
+    {
+      "catalogue_entry_id": "GA313-08",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "VIII (morning)",
+      "sections": 27,
+      "url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418a.html"
+    },
+    {
+      "catalogue_entry_id": "GA313-09",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "IX (afternoon)",
+      "sections": 24,
+      "url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418p.html"
+    },
+    {
+      "catalogue_entry_id": "GA315-07",
+      "ga": 315,
+      "date": "1921-04-18",
+      "lecture": "VII (medical-course lecture)",
+      "sections": 28,
+      "url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210418.html"
+    }
+  ],
+  "records": [
+    {
+      "id": "ORG-S14-GA313-07-P01",
+      "catalogue_entry_id": "GA313-07",
+      "ga": 313,
+      "date": "1921-04-17",
+      "lecture": "VII",
+      "paragraph": 1,
+      "classification": "context",
+      "summary": "Remedy understanding rather than personal genesis.",
+      "organ_terms": [],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210417.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": true,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-07-P02",
+      "catalogue_entry_id": "GA313-07",
+      "ga": 313,
+      "date": "1921-04-17",
+      "lecture": "VII",
+      "paragraph": 2,
+      "classification": "digestive polarity",
+      "summary": "Root/head polarity; gentian, sugar and astral/I account; ethnic stereotypes flagged.",
+      "organ_terms": [
+        "stomach",
+        "intestines"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210417.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-07-P03",
+      "catalogue_entry_id": "GA313-07",
+      "ga": 313,
+      "date": "1921-04-17",
+      "lecture": "VII",
+      "paragraph": 3,
+      "classification": "digestive function",
+      "summary": "Fatty oils, motility and mineralization; headache/fever theory.",
+      "organ_terms": [
+        "stomach",
+        "intestines"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210417.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-07-P04",
+      "catalogue_entry_id": "GA313-07",
+      "ga": 313,
+      "date": "1921-04-17",
+      "lecture": "VII",
+      "paragraph": 4,
+      "classification": "context",
+      "summary": "Concrete force relations rather than abstract currents.",
+      "organ_terms": [],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210417.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": true,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-07-P05",
+      "catalogue_entry_id": "GA313-07",
+      "ga": 313,
+      "date": "1921-04-17",
+      "lecture": "VII",
+      "paragraph": 5,
+      "classification": "inner senses",
+      "summary": "Avens root and esophageal/stomach nerve-sense organization.",
+      "organ_terms": [
+        "esophagus",
+        "stomach"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210417.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-07-P06",
+      "catalogue_entry_id": "GA313-07",
+      "ga": 313,
+      "date": "1921-04-17",
+      "lecture": "VII",
+      "paragraph": 6,
+      "classification": "therapy claim",
+      "summary": "Avens fever, diarrhea and mucus proposals.",
+      "organ_terms": [
+        "intestines"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210417.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-07-P07",
+      "catalogue_entry_id": "GA313-07",
+      "ga": 313,
+      "date": "1921-04-17",
+      "lecture": "VII",
+      "paragraph": 7,
+      "classification": "therapy claim",
+      "summary": "Iris root, I and urinary/dropsy proposals.",
+      "organ_terms": [
+        "kidneys"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210417.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-07-P08",
+      "catalogue_entry_id": "GA313-07",
+      "ga": 313,
+      "date": "1921-04-17",
+      "lecture": "VII",
+      "paragraph": 8,
+      "classification": "therapy claim",
+      "summary": "Marjoram, internal respiration, sweating and uterine weakness.",
+      "organ_terms": [
+        "uterus",
+        "skin"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210417.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-07-P09",
+      "catalogue_entry_id": "GA313-07",
+      "ga": 313,
+      "date": "1921-04-17",
+      "lecture": "VII",
+      "paragraph": 9,
+      "classification": "respiration",
+      "summary": "Elderflower: etheric then astral, respiration then circulation.",
+      "organ_terms": [
+        "lungs",
+        "circulation"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210417.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-07-P10",
+      "catalogue_entry_id": "GA313-07",
+      "ga": 313,
+      "date": "1921-04-17",
+      "lecture": "VII",
+      "paragraph": 10,
+      "classification": "context",
+      "summary": "Transition toward head activity.",
+      "organ_terms": [],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210417.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": true,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-07-P11",
+      "catalogue_entry_id": "GA313-07",
+      "ga": 313,
+      "date": "1921-04-17",
+      "lecture": "VII",
+      "paragraph": 11,
+      "classification": "polarity",
+      "summary": "Head/digestion polarity; caraway eye treatment claim.",
+      "organ_terms": [
+        "eyes",
+        "digestive tract"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210417.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-07-P12",
+      "catalogue_entry_id": "GA313-07",
+      "ga": 313,
+      "date": "1921-04-17",
+      "lecture": "VII",
+      "paragraph": 12,
+      "classification": "inner senses",
+      "summary": "Digestive nerve-sense metamorphosis and colic.",
+      "organ_terms": [
+        "intestines"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210417.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-07-P13",
+      "catalogue_entry_id": "GA313-07",
+      "ga": 313,
+      "date": "1921-04-17",
+      "lecture": "VII",
+      "paragraph": 13,
+      "classification": "neurology claim",
+      "summary": "Reflex analogy and denial of motor nerves.",
+      "organ_terms": [
+        "nerves",
+        "muscles"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210417.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-07-P14",
+      "catalogue_entry_id": "GA313-07",
+      "ga": 313,
+      "date": "1921-04-17",
+      "lecture": "VII",
+      "paragraph": 14,
+      "classification": "secretion",
+      "summary": "Milk secretion as inward sensory metamorphosis.",
+      "organ_terms": [
+        "mammary glands"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210417.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-07-P15",
+      "catalogue_entry_id": "GA313-07",
+      "ga": 313,
+      "date": "1921-04-17",
+      "lecture": "VII",
+      "paragraph": 15,
+      "classification": "analogy",
+      "summary": "Wax/resin external-impression analogy.",
+      "organ_terms": [],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210417.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": true,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-07-P16",
+      "catalogue_entry_id": "GA313-07",
+      "ga": 313,
+      "date": "1921-04-17",
+      "lecture": "VII",
+      "paragraph": 16,
+      "classification": "secretion",
+      "summary": "Oil/mucilage, I reaction and milk formation.",
+      "organ_terms": [
+        "mammary glands"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210417.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-07-P17",
+      "catalogue_entry_id": "GA313-07",
+      "ga": 313,
+      "date": "1921-04-17",
+      "lecture": "VII",
+      "paragraph": 17,
+      "classification": "therapy claim",
+      "summary": "External metal ointments: peripheral I and internal response.",
+      "organ_terms": [
+        "skin"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210417.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-07-P18",
+      "catalogue_entry_id": "GA313-07",
+      "ga": 313,
+      "date": "1921-04-17",
+      "lecture": "VII",
+      "paragraph": 18,
+      "classification": "therapy claim",
+      "summary": "Lead/head nerve-sense association; toxicity mentioned in source.",
+      "organ_terms": [
+        "brain"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210417.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-07-P19",
+      "catalogue_entry_id": "GA313-07",
+      "ga": 313,
+      "date": "1921-04-17",
+      "lecture": "VII",
+      "paragraph": 19,
+      "classification": "polarity",
+      "summary": "Silver limbs/metabolism, lead head, gold middle; heart analogy.",
+      "organ_terms": [
+        "limbs",
+        "heart"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210417.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-07-P20",
+      "catalogue_entry_id": "GA313-07",
+      "ga": 313,
+      "date": "1921-04-17",
+      "lecture": "VII",
+      "paragraph": 20,
+      "classification": "morphology",
+      "summary": "Nested upper/lower polarity: lung/heart and digestion/reproduction.",
+      "organ_terms": [
+        "lungs",
+        "heart",
+        "reproductive organs"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210417.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-08-P01",
+      "catalogue_entry_id": "GA313-08",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "VIII (morning)",
+      "paragraph": 1,
+      "classification": "context",
+      "summary": "Lead/honey remedy question framed as process.",
+      "organ_terms": [],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418a.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": true,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-08-P02",
+      "catalogue_entry_id": "GA313-08",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "VIII (morning)",
+      "paragraph": 2,
+      "classification": "formative forces",
+      "summary": "Prenatal lead-like forces distinguished from terrestrial lead.",
+      "organ_terms": [
+        "head",
+        "limbs"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418a.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-08-P03",
+      "catalogue_entry_id": "GA313-08",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "VIII (morning)",
+      "paragraph": 3,
+      "classification": "therapy claim",
+      "summary": "Inverse upper/lower dosage schema.",
+      "organ_terms": [
+        "whole organism"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418a.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-08-P04",
+      "catalogue_entry_id": "GA313-08",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "VIII (morning)",
+      "paragraph": 4,
+      "classification": "therapy claim",
+      "summary": "Honey and continuing I activity.",
+      "organ_terms": [
+        "whole organism"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418a.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-08-P05",
+      "catalogue_entry_id": "GA313-08",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "VIII (morning)",
+      "paragraph": 5,
+      "classification": "polarity",
+      "summary": "Salts and acids in earth-becoming/digestion contrast.",
+      "organ_terms": [
+        "digestive tract"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418a.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-08-P06",
+      "catalogue_entry_id": "GA313-08",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "VIII (morning)",
+      "paragraph": 6,
+      "classification": "analogy",
+      "summary": "Acid/base directions and electrical comparison.",
+      "organ_terms": [],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418a.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": true,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-08-P07",
+      "catalogue_entry_id": "GA313-08",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "VIII (morning)",
+      "paragraph": 7,
+      "classification": "cosmic process",
+      "summary": "Metals and earth-unbecoming radiation.",
+      "organ_terms": [],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418a.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": true,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-08-P08",
+      "catalogue_entry_id": "GA313-08",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "VIII (morning)",
+      "paragraph": 8,
+      "classification": "context",
+      "summary": "Methodological reference to preceding table.",
+      "organ_terms": [],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418a.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": true,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-08-P09",
+      "catalogue_entry_id": "GA313-08",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "VIII (morning)",
+      "paragraph": 9,
+      "classification": "teeth",
+      "summary": "Lead radiation, magnesium and tooth formation.",
+      "organ_terms": [
+        "teeth"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418a.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-08-P10",
+      "catalogue_entry_id": "GA313-08",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "VIII (morning)",
+      "paragraph": 10,
+      "classification": "sensory forces",
+      "summary": "Prenatal sensory lead-like radiation.",
+      "organ_terms": [
+        "senses",
+        "nerves"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418a.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-08-P11",
+      "catalogue_entry_id": "GA313-08",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "VIII (morning)",
+      "paragraph": 11,
+      "classification": "context",
+      "summary": "Reference to Riddles of the Soul.",
+      "organ_terms": [],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418a.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": true,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-08-P12",
+      "catalogue_entry_id": "GA313-08",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "VIII (morning)",
+      "paragraph": 12,
+      "classification": "rhythm",
+      "summary": "Tin and oscillating respiratory processes.",
+      "organ_terms": [
+        "lungs"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418a.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-08-P13",
+      "catalogue_entry_id": "GA313-08",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "VIII (morning)",
+      "paragraph": 13,
+      "classification": "metabolism",
+      "summary": "Iron/spheres and etheric metabolism, contrasted with I/astral processes.",
+      "organ_terms": [
+        "metabolism"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418a.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-08-P14",
+      "catalogue_entry_id": "GA313-08",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "VIII (morning)",
+      "paragraph": 14,
+      "classification": "formative forces",
+      "summary": "Physical envelope opposes etheric sphere formation.",
+      "organ_terms": [
+        "whole organism"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418a.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-08-P15",
+      "catalogue_entry_id": "GA313-08",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "VIII (morning)",
+      "paragraph": 15,
+      "classification": "heart",
+      "summary": "Heart balances inner sphere and outer envelope; gold/copper claims.",
+      "organ_terms": [
+        "heart",
+        "circulation"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418a.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-08-P16",
+      "catalogue_entry_id": "GA313-08",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "VIII (morning)",
+      "paragraph": 16,
+      "classification": "metabolism",
+      "summary": "Mercury/caduceus and reproductive/digestive counterforces.",
+      "organ_terms": [
+        "reproductive organs",
+        "digestive tract"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418a.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-08-P17",
+      "catalogue_entry_id": "GA313-08",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "VIII (morning)",
+      "paragraph": 17,
+      "classification": "excretion",
+      "summary": "Silver and skin/urinary/purgative routes; warns against rigid schemas.",
+      "organ_terms": [
+        "skin",
+        "kidneys",
+        "intestines"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418a.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-08-P18",
+      "catalogue_entry_id": "GA313-08",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "VIII (morning)",
+      "paragraph": 18,
+      "classification": "stigmatizing assertion",
+      "summary": "Allegation that menstruating women wilt flowers.",
+      "organ_terms": [
+        "reproductive organs"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418a.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-08-P19",
+      "catalogue_entry_id": "GA313-08",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "VIII (morning)",
+      "paragraph": 19,
+      "classification": "therapy claim",
+      "summary": "Asthma attributed to displaced nerve-sense activity; acid bath proposal.",
+      "organ_terms": [
+        "lungs"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418a.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-08-P20",
+      "catalogue_entry_id": "GA313-08",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "VIII (morning)",
+      "paragraph": 20,
+      "classification": "therapy claim",
+      "summary": "Milk-injection gonorrhea proposal; secretion/sensory relation.",
+      "organ_terms": [
+        "glands and secretions"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418a.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-08-P21",
+      "catalogue_entry_id": "GA313-08",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "VIII (morning)",
+      "paragraph": 21,
+      "classification": "therapy claim",
+      "summary": "Colds as displaced sensory activity; compress proposal.",
+      "organ_terms": [
+        "respiratory tract"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418a.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-08-P22",
+      "catalogue_entry_id": "GA313-08",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "VIII (morning)",
+      "paragraph": 22,
+      "classification": "ideal metamorphosis",
+      "summary": "Bones/muscles: ideal rather than developmental derivation.",
+      "organ_terms": [
+        "bones",
+        "muscles"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418a.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-08-P23",
+      "catalogue_entry_id": "GA313-08",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "VIII (morning)",
+      "paragraph": 23,
+      "classification": "limits of analogy",
+      "summary": "Rejects speculative taste/smell spectrum; sensory distinctions.",
+      "organ_terms": [
+        "eyes",
+        "ears",
+        "taste",
+        "smell"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418a.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-08-P24",
+      "catalogue_entry_id": "GA313-08",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "VIII (morning)",
+      "paragraph": 24,
+      "classification": "process not substance",
+      "summary": "Internally generated etheric processes distinguished from substances.",
+      "organ_terms": [
+        "teeth",
+        "whole organism"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418a.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-08-P25",
+      "catalogue_entry_id": "GA313-08",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "VIII (morning)",
+      "paragraph": 25,
+      "classification": "organ metamorphosis",
+      "summary": "Thyroid as unfinished brain; Graves/eurythmy proposal.",
+      "organ_terms": [
+        "thyroid",
+        "brain"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418a.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-08-P26",
+      "catalogue_entry_id": "GA313-08",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "VIII (morning)",
+      "paragraph": 26,
+      "classification": "context",
+      "summary": "Closing remarks.",
+      "organ_terms": [],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418a.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": true,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-08-P27",
+      "catalogue_entry_id": "GA313-08",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "VIII (morning)",
+      "paragraph": 27,
+      "classification": "context",
+      "summary": "Announces eurythmy session after break.",
+      "organ_terms": [],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418a.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": true,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-09-P01",
+      "catalogue_entry_id": "GA313-09",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "IX (afternoon)",
+      "paragraph": 1,
+      "classification": "context",
+      "summary": "Eurythmy/physical-spiritual method.",
+      "organ_terms": [],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418p.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": true,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-09-P02",
+      "catalogue_entry_id": "GA313-09",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "IX (afternoon)",
+      "paragraph": 2,
+      "classification": "cosmic forces",
+      "summary": "Peripheral cosmic formative forces.",
+      "organ_terms": [
+        "whole organism"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418p.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-09-P03",
+      "catalogue_entry_id": "GA313-09",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "IX (afternoon)",
+      "paragraph": 3,
+      "classification": "formative forces",
+      "summary": "Forming, fixing and separating; planetary modification; tooth example.",
+      "organ_terms": [
+        "teeth",
+        "eyes"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418p.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-09-P04",
+      "catalogue_entry_id": "GA313-09",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "IX (afternoon)",
+      "paragraph": 4,
+      "classification": "cognition",
+      "summary": "Eye and cognition ladder reverse formation/fixation/separation.",
+      "organ_terms": [
+        "eyes"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418p.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-09-P05",
+      "catalogue_entry_id": "GA313-09",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "IX (afternoon)",
+      "paragraph": 5,
+      "classification": "cognition",
+      "summary": "Knowledge reverses becoming; creative counterforces.",
+      "organ_terms": [
+        "whole organism"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418p.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-09-P06",
+      "catalogue_entry_id": "GA313-09",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "IX (afternoon)",
+      "paragraph": 6,
+      "classification": "cognition",
+      "summary": "Same forces: Imagination/plastic growth, Inspiration/breathing, Intuition/agency.",
+      "organ_terms": [
+        "whole organism",
+        "lungs"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418p.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-09-P07",
+      "catalogue_entry_id": "GA313-09",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "IX (afternoon)",
+      "paragraph": 7,
+      "classification": "eurythmy",
+      "summary": "Consonants and unconscious imaginative plastic forces.",
+      "organ_terms": [
+        "whole organism"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418p.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-09-P08",
+      "catalogue_entry_id": "GA313-09",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "IX (afternoon)",
+      "paragraph": 8,
+      "classification": "therapy claim",
+      "summary": "Centrifugal head-growth account and consonants.",
+      "organ_terms": [
+        "head"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418p.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-09-P09",
+      "catalogue_entry_id": "GA313-09",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "IX (afternoon)",
+      "paragraph": 9,
+      "classification": "audience case",
+      "summary": "Two-year-old large-head report; no hydrocephalus stated.",
+      "organ_terms": [
+        "head"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418p.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-09-P10",
+      "catalogue_entry_id": "GA313-09",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "IX (afternoon)",
+      "paragraph": 10,
+      "classification": "therapy claim",
+      "summary": "Consonant eurythmy response to case.",
+      "organ_terms": [
+        "head"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418p.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-09-P11",
+      "catalogue_entry_id": "GA313-09",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "IX (afternoon)",
+      "paragraph": 11,
+      "classification": "therapy claim",
+      "summary": "Parasites attributed to insufficient imaginative forces.",
+      "organ_terms": [
+        "digestive tract"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418p.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-09-P12",
+      "catalogue_entry_id": "GA313-09",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "IX (afternoon)",
+      "paragraph": 12,
+      "classification": "therapy context",
+      "summary": "Material treatment adjunct mentioned.",
+      "organ_terms": [],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418p.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": true,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-09-P13",
+      "catalogue_entry_id": "GA313-09",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "IX (afternoon)",
+      "paragraph": 13,
+      "classification": "context",
+      "summary": "Introduces audience question and limits answer.",
+      "organ_terms": [],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418p.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": true,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-09-P14",
+      "catalogue_entry_id": "GA313-09",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "IX (afternoon)",
+      "paragraph": 14,
+      "classification": "audience case",
+      "summary": "Blood-loss/joint-deformation report; edition contains editorial addition.",
+      "organ_terms": [
+        "blood",
+        "joints"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418p.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-09-P15",
+      "catalogue_entry_id": "GA313-09",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "IX (afternoon)",
+      "paragraph": 15,
+      "classification": "future development",
+      "summary": "Consonants, deformity and future freedom in forming human shape.",
+      "organ_terms": [
+        "joints",
+        "whole organism"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418p.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-09-P16",
+      "catalogue_entry_id": "GA313-09",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "IX (afternoon)",
+      "paragraph": 16,
+      "classification": "eurythmy",
+      "summary": "Vowels/Inspirational rhythm versus consonants/morphology.",
+      "organ_terms": [
+        "circulation"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418p.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-09-P17",
+      "catalogue_entry_id": "GA313-09",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "IX (afternoon)",
+      "paragraph": 17,
+      "classification": "inner activity",
+      "summary": "Organ luminescence, copper and urinary/mystical-drawing assertions.",
+      "organ_terms": [
+        "kidneys",
+        "liver",
+        "lungs",
+        "posterior head"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418p.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-09-P18",
+      "catalogue_entry_id": "GA313-09",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "IX (afternoon)",
+      "paragraph": 18,
+      "classification": "cognition and stigma",
+      "summary": "Poetry, sexual repression, prenatal causes and outward intuitive forces.",
+      "organ_terms": [
+        "reproductive organs",
+        "circulation"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418p.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-09-P19",
+      "catalogue_entry_id": "GA313-09",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "IX (afternoon)",
+      "paragraph": 19,
+      "classification": "context",
+      "summary": "Introduces breathing question.",
+      "organ_terms": [],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418p.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": true,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-09-P20",
+      "catalogue_entry_id": "GA313-09",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "IX (afternoon)",
+      "paragraph": 20,
+      "classification": "audience question",
+      "summary": "Asks about breathing exercises and Hatha yoga.",
+      "organ_terms": [
+        "lungs"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418p.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-09-P21",
+      "catalogue_entry_id": "GA313-09",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "IX (afternoon)",
+      "paragraph": 21,
+      "classification": "individual rhythm",
+      "summary": "Rejects universal breathing prescriptions; observe spontaneous individual change.",
+      "organ_terms": [
+        "lungs"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418p.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-09-P22",
+      "catalogue_entry_id": "GA313-09",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "IX (afternoon)",
+      "paragraph": 22,
+      "classification": "context",
+      "summary": "Institutional opposition and unanswered questions.",
+      "organ_terms": [],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418p.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": true,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-09-P23",
+      "catalogue_entry_id": "GA313-09",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "IX (afternoon)",
+      "paragraph": 23,
+      "classification": "professional context",
+      "summary": "Says he advises doctors rather than directly treating patients.",
+      "organ_terms": [],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418p.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": true,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA313-09-P24",
+      "catalogue_entry_id": "GA313-09",
+      "ga": 313,
+      "date": "1921-04-18",
+      "lecture": "IX (afternoon)",
+      "paragraph": 24,
+      "classification": "context",
+      "summary": "Closing and proposed continuation.",
+      "organ_terms": [],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210418p.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": true,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S14-GA315-07-P01",
+      "catalogue_entry_id": "GA315-07",
+      "ga": 315,
+      "date": "1921-04-18",
+      "lecture": "VII (medical-course lecture)",
+      "paragraph": 1,
+      "classification": "context",
+      "summary": "Eurythmy/physical-spiritual method.",
+      "organ_terms": [],
+      "source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210418.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": true,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation",
+      "alias_of_ga313_ix_sections": [
+        1
+      ],
+      "same_lecture_event": true
+    },
+    {
+      "id": "ORG-S14-GA315-07-P02",
+      "catalogue_entry_id": "GA315-07",
+      "ga": 315,
+      "date": "1921-04-18",
+      "lecture": "VII (medical-course lecture)",
+      "paragraph": 2,
+      "classification": "cosmic forces",
+      "summary": "Peripheral cosmic formative forces.",
+      "organ_terms": [
+        "whole organism"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210418.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": true,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation",
+      "alias_of_ga313_ix_sections": [
+        2
+      ],
+      "same_lecture_event": true
+    },
+    {
+      "id": "ORG-S14-GA315-07-P03",
+      "catalogue_entry_id": "GA315-07",
+      "ga": 315,
+      "date": "1921-04-18",
+      "lecture": "VII (medical-course lecture)",
+      "paragraph": 3,
+      "classification": "formative forces",
+      "summary": "Forming, fixing and separating; planetary modification; tooth example.",
+      "organ_terms": [
+        "teeth",
+        "eyes"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210418.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": true,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation",
+      "alias_of_ga313_ix_sections": [
+        3
+      ],
+      "same_lecture_event": true
+    },
+    {
+      "id": "ORG-S14-GA315-07-P04",
+      "catalogue_entry_id": "GA315-07",
+      "ga": 315,
+      "date": "1921-04-18",
+      "lecture": "VII (medical-course lecture)",
+      "paragraph": 4,
+      "classification": "formative forces",
+      "summary": "Forming, fixing and separating; planetary modification; tooth example.",
+      "organ_terms": [
+        "teeth",
+        "eyes"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210418.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": true,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation",
+      "alias_of_ga313_ix_sections": [
+        3
+      ],
+      "same_lecture_event": true
+    },
+    {
+      "id": "ORG-S14-GA315-07-P05",
+      "catalogue_entry_id": "GA315-07",
+      "ga": 315,
+      "date": "1921-04-18",
+      "lecture": "VII (medical-course lecture)",
+      "paragraph": 5,
+      "classification": "formative forces",
+      "summary": "Forming, fixing and separating; planetary modification; tooth example.",
+      "organ_terms": [
+        "teeth",
+        "eyes"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210418.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": true,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation",
+      "alias_of_ga313_ix_sections": [
+        3
+      ],
+      "same_lecture_event": true
+    },
+    {
+      "id": "ORG-S14-GA315-07-P06",
+      "catalogue_entry_id": "GA315-07",
+      "ga": 315,
+      "date": "1921-04-18",
+      "lecture": "VII (medical-course lecture)",
+      "paragraph": 6,
+      "classification": "cognition",
+      "summary": "Eye and cognition ladder reverse formation/fixation/separation.",
+      "organ_terms": [
+        "eyes"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210418.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": true,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation",
+      "alias_of_ga313_ix_sections": [
+        4
+      ],
+      "same_lecture_event": true
+    },
+    {
+      "id": "ORG-S14-GA315-07-P07",
+      "catalogue_entry_id": "GA315-07",
+      "ga": 315,
+      "date": "1921-04-18",
+      "lecture": "VII (medical-course lecture)",
+      "paragraph": 7,
+      "classification": "cognition",
+      "summary": "Eye and cognition ladder reverse formation/fixation/separation.",
+      "organ_terms": [
+        "eyes"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210418.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": true,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation",
+      "alias_of_ga313_ix_sections": [
+        4
+      ],
+      "same_lecture_event": true
+    },
+    {
+      "id": "ORG-S14-GA315-07-P08",
+      "catalogue_entry_id": "GA315-07",
+      "ga": 315,
+      "date": "1921-04-18",
+      "lecture": "VII (medical-course lecture)",
+      "paragraph": 8,
+      "classification": "cognition",
+      "summary": "Eye and cognition ladder reverse formation/fixation/separation.",
+      "organ_terms": [
+        "eyes"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210418.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": true,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation",
+      "alias_of_ga313_ix_sections": [
+        4
+      ],
+      "same_lecture_event": true
+    },
+    {
+      "id": "ORG-S14-GA315-07-P09",
+      "catalogue_entry_id": "GA315-07",
+      "ga": 315,
+      "date": "1921-04-18",
+      "lecture": "VII (medical-course lecture)",
+      "paragraph": 9,
+      "classification": "cognition",
+      "summary": "Knowledge reverses becoming; creative counterforces.",
+      "organ_terms": [
+        "whole organism"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210418.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": true,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation",
+      "alias_of_ga313_ix_sections": [
+        5
+      ],
+      "same_lecture_event": true
+    },
+    {
+      "id": "ORG-S14-GA315-07-P10",
+      "catalogue_entry_id": "GA315-07",
+      "ga": 315,
+      "date": "1921-04-18",
+      "lecture": "VII (medical-course lecture)",
+      "paragraph": 10,
+      "classification": "cognition",
+      "summary": "Same forces: Imagination/plastic growth, Inspiration/breathing, Intuition/agency.",
+      "organ_terms": [
+        "whole organism",
+        "lungs"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210418.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": true,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation",
+      "alias_of_ga313_ix_sections": [
+        6
+      ],
+      "same_lecture_event": true
+    },
+    {
+      "id": "ORG-S14-GA315-07-P11",
+      "catalogue_entry_id": "GA315-07",
+      "ga": 315,
+      "date": "1921-04-18",
+      "lecture": "VII (medical-course lecture)",
+      "paragraph": 11,
+      "classification": "eurythmy",
+      "summary": "Consonants and unconscious imaginative plastic forces.",
+      "organ_terms": [
+        "whole organism"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210418.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": true,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation",
+      "alias_of_ga313_ix_sections": [
+        7
+      ],
+      "same_lecture_event": true
+    },
+    {
+      "id": "ORG-S14-GA315-07-P12",
+      "catalogue_entry_id": "GA315-07",
+      "ga": 315,
+      "date": "1921-04-18",
+      "lecture": "VII (medical-course lecture)",
+      "paragraph": 12,
+      "classification": "therapy claim",
+      "summary": "Centrifugal head-growth account and consonants.",
+      "organ_terms": [
+        "head"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210418.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": true,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation",
+      "alias_of_ga313_ix_sections": [
+        8
+      ],
+      "same_lecture_event": true
+    },
+    {
+      "id": "ORG-S14-GA315-07-P13",
+      "catalogue_entry_id": "GA315-07",
+      "ga": 315,
+      "date": "1921-04-18",
+      "lecture": "VII (medical-course lecture)",
+      "paragraph": 13,
+      "classification": "audience case",
+      "summary": "Two-year-old large-head report; no hydrocephalus stated.",
+      "organ_terms": [
+        "head"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210418.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": true,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation",
+      "alias_of_ga313_ix_sections": [
+        9
+      ],
+      "same_lecture_event": true
+    },
+    {
+      "id": "ORG-S14-GA315-07-P14",
+      "catalogue_entry_id": "GA315-07",
+      "ga": 315,
+      "date": "1921-04-18",
+      "lecture": "VII (medical-course lecture)",
+      "paragraph": 14,
+      "classification": "therapy claim",
+      "summary": "Consonant eurythmy response to case.",
+      "organ_terms": [
+        "head"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210418.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": true,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation",
+      "alias_of_ga313_ix_sections": [
+        10
+      ],
+      "same_lecture_event": true
+    },
+    {
+      "id": "ORG-S14-GA315-07-P15",
+      "catalogue_entry_id": "GA315-07",
+      "ga": 315,
+      "date": "1921-04-18",
+      "lecture": "VII (medical-course lecture)",
+      "paragraph": 15,
+      "classification": "therapy claim",
+      "summary": "Parasites attributed to insufficient imaginative forces.",
+      "organ_terms": [
+        "digestive tract"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210418.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": true,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation",
+      "alias_of_ga313_ix_sections": [
+        11
+      ],
+      "same_lecture_event": true
+    },
+    {
+      "id": "ORG-S14-GA315-07-P16",
+      "catalogue_entry_id": "GA315-07",
+      "ga": 315,
+      "date": "1921-04-18",
+      "lecture": "VII (medical-course lecture)",
+      "paragraph": 16,
+      "classification": "therapy claim / therapy context",
+      "summary": "Parasites attributed to insufficient imaginative forces.; Material treatment adjunct mentioned.",
+      "organ_terms": [
+        "digestive tract"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210418.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": true,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation",
+      "alias_of_ga313_ix_sections": [
+        11,
+        12
+      ],
+      "same_lecture_event": true
+    },
+    {
+      "id": "ORG-S14-GA315-07-P17",
+      "catalogue_entry_id": "GA315-07",
+      "ga": 315,
+      "date": "1921-04-18",
+      "lecture": "VII (medical-course lecture)",
+      "paragraph": 17,
+      "classification": "context",
+      "summary": "Introduces audience question and limits answer.",
+      "organ_terms": [],
+      "source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210418.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": true,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation",
+      "alias_of_ga313_ix_sections": [
+        13
+      ],
+      "same_lecture_event": true
+    },
+    {
+      "id": "ORG-S14-GA315-07-P18",
+      "catalogue_entry_id": "GA315-07",
+      "ga": 315,
+      "date": "1921-04-18",
+      "lecture": "VII (medical-course lecture)",
+      "paragraph": 18,
+      "classification": "audience case",
+      "summary": "Blood-loss/joint-deformation report; edition contains editorial addition.",
+      "organ_terms": [
+        "blood",
+        "joints"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210418.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": true,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation",
+      "alias_of_ga313_ix_sections": [
+        14
+      ],
+      "same_lecture_event": true
+    },
+    {
+      "id": "ORG-S14-GA315-07-P19",
+      "catalogue_entry_id": "GA315-07",
+      "ga": 315,
+      "date": "1921-04-18",
+      "lecture": "VII (medical-course lecture)",
+      "paragraph": 19,
+      "classification": "future development",
+      "summary": "Consonants, deformity and future freedom in forming human shape.",
+      "organ_terms": [
+        "joints",
+        "whole organism"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210418.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": true,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation",
+      "alias_of_ga313_ix_sections": [
+        15
+      ],
+      "same_lecture_event": true
+    },
+    {
+      "id": "ORG-S14-GA315-07-P20",
+      "catalogue_entry_id": "GA315-07",
+      "ga": 315,
+      "date": "1921-04-18",
+      "lecture": "VII (medical-course lecture)",
+      "paragraph": 20,
+      "classification": "eurythmy",
+      "summary": "Vowels/Inspirational rhythm versus consonants/morphology.",
+      "organ_terms": [
+        "circulation"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210418.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": true,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation",
+      "alias_of_ga313_ix_sections": [
+        16
+      ],
+      "same_lecture_event": true
+    },
+    {
+      "id": "ORG-S14-GA315-07-P21",
+      "catalogue_entry_id": "GA315-07",
+      "ga": 315,
+      "date": "1921-04-18",
+      "lecture": "VII (medical-course lecture)",
+      "paragraph": 21,
+      "classification": "inner activity",
+      "summary": "Organ luminescence, copper and urinary/mystical-drawing assertions.",
+      "organ_terms": [
+        "kidneys",
+        "liver",
+        "lungs",
+        "posterior head"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210418.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": true,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation",
+      "alias_of_ga313_ix_sections": [
+        17
+      ],
+      "same_lecture_event": true
+    },
+    {
+      "id": "ORG-S14-GA315-07-P22",
+      "catalogue_entry_id": "GA315-07",
+      "ga": 315,
+      "date": "1921-04-18",
+      "lecture": "VII (medical-course lecture)",
+      "paragraph": 22,
+      "classification": "cognition and stigma",
+      "summary": "Poetry, sexual repression, prenatal causes and outward intuitive forces.",
+      "organ_terms": [
+        "reproductive organs",
+        "circulation"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210418.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": true,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation",
+      "alias_of_ga313_ix_sections": [
+        18
+      ],
+      "same_lecture_event": true
+    },
+    {
+      "id": "ORG-S14-GA315-07-P23",
+      "catalogue_entry_id": "GA315-07",
+      "ga": 315,
+      "date": "1921-04-18",
+      "lecture": "VII (medical-course lecture)",
+      "paragraph": 23,
+      "classification": "context",
+      "summary": "Introduces breathing question.",
+      "organ_terms": [],
+      "source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210418.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": true,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation",
+      "alias_of_ga313_ix_sections": [
+        19
+      ],
+      "same_lecture_event": true
+    },
+    {
+      "id": "ORG-S14-GA315-07-P24",
+      "catalogue_entry_id": "GA315-07",
+      "ga": 315,
+      "date": "1921-04-18",
+      "lecture": "VII (medical-course lecture)",
+      "paragraph": 24,
+      "classification": "audience question",
+      "summary": "Asks about breathing exercises and Hatha yoga.",
+      "organ_terms": [
+        "lungs"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210418.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": true,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation",
+      "alias_of_ga313_ix_sections": [
+        20
+      ],
+      "same_lecture_event": true
+    },
+    {
+      "id": "ORG-S14-GA315-07-P25",
+      "catalogue_entry_id": "GA315-07",
+      "ga": 315,
+      "date": "1921-04-18",
+      "lecture": "VII (medical-course lecture)",
+      "paragraph": 25,
+      "classification": "individual rhythm",
+      "summary": "Rejects universal breathing prescriptions; observe spontaneous individual change.",
+      "organ_terms": [
+        "lungs"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210418.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": true,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation",
+      "alias_of_ga313_ix_sections": [
+        21
+      ],
+      "same_lecture_event": true
+    },
+    {
+      "id": "ORG-S14-GA315-07-P26",
+      "catalogue_entry_id": "GA315-07",
+      "ga": 315,
+      "date": "1921-04-18",
+      "lecture": "VII (medical-course lecture)",
+      "paragraph": 26,
+      "classification": "context",
+      "summary": "Institutional opposition and unanswered questions.",
+      "organ_terms": [],
+      "source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210418.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": true,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation",
+      "alias_of_ga313_ix_sections": [
+        22
+      ],
+      "same_lecture_event": true
+    },
+    {
+      "id": "ORG-S14-GA315-07-P27",
+      "catalogue_entry_id": "GA315-07",
+      "ga": 315,
+      "date": "1921-04-18",
+      "lecture": "VII (medical-course lecture)",
+      "paragraph": 27,
+      "classification": "professional context",
+      "summary": "Says he advises doctors rather than directly treating patients.",
+      "organ_terms": [],
+      "source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210418.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": true,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation",
+      "alias_of_ga313_ix_sections": [
+        23
+      ],
+      "same_lecture_event": true
+    },
+    {
+      "id": "ORG-S14-GA315-07-P28",
+      "catalogue_entry_id": "GA315-07",
+      "ga": 315,
+      "date": "1921-04-18",
+      "lecture": "VII (medical-course lecture)",
+      "paragraph": 28,
+      "classification": "context",
+      "summary": "Closing and proposed continuation.",
+      "organ_terms": [],
+      "source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210418.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": true,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation",
+      "alias_of_ga313_ix_sections": [
+        24
+      ],
+      "same_lecture_event": true
+    }
+  ]
+}

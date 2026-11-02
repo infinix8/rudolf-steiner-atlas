@@ -1,0 +1,192 @@
+{
+  "schema_version": "1.0",
+  "scope": "One confirmed shared event; not a deduplication of the entire 61-entry catalogue.",
+  "events": [
+    {
+      "id": "EV-19210418-DORNACH-MEDICAL-EURYTHMY",
+      "date": "1921-04-18",
+      "session": "afternoon / eurythmy continuation",
+      "catalogue_entries": [
+        "GA313-09",
+        "GA315-07"
+      ],
+      "source_urls": [
+        "https://rsarchive.org/Lectures/GA313/English/SOL/19210418p.html",
+        "https://rsarchive.org/Lectures/GA315/English/SOL/19210418.html"
+      ],
+      "basis": "Catalogues and full-text sequence agree: opening, force/cognition exposition, cases, organ luminescence, breathing question, institutional closing. GA315 title explicitly identifies the second medical course. Different transcription apparatus and numbering do not establish independent lecture events.",
+      "crosswalk": [
+        {
+          "ga315_section": 1,
+          "ga313_ix_sections": [
+            1
+          ]
+        },
+        {
+          "ga315_section": 2,
+          "ga313_ix_sections": [
+            2
+          ]
+        },
+        {
+          "ga315_section": 3,
+          "ga313_ix_sections": [
+            3
+          ]
+        },
+        {
+          "ga315_section": 4,
+          "ga313_ix_sections": [
+            3
+          ]
+        },
+        {
+          "ga315_section": 5,
+          "ga313_ix_sections": [
+            3
+          ]
+        },
+        {
+          "ga315_section": 6,
+          "ga313_ix_sections": [
+            4
+          ]
+        },
+        {
+          "ga315_section": 7,
+          "ga313_ix_sections": [
+            4
+          ]
+        },
+        {
+          "ga315_section": 8,
+          "ga313_ix_sections": [
+            4
+          ]
+        },
+        {
+          "ga315_section": 9,
+          "ga313_ix_sections": [
+            5
+          ]
+        },
+        {
+          "ga315_section": 10,
+          "ga313_ix_sections": [
+            6
+          ]
+        },
+        {
+          "ga315_section": 11,
+          "ga313_ix_sections": [
+            7
+          ]
+        },
+        {
+          "ga315_section": 12,
+          "ga313_ix_sections": [
+            8
+          ]
+        },
+        {
+          "ga315_section": 13,
+          "ga313_ix_sections": [
+            9
+          ]
+        },
+        {
+          "ga315_section": 14,
+          "ga313_ix_sections": [
+            10
+          ]
+        },
+        {
+          "ga315_section": 15,
+          "ga313_ix_sections": [
+            11
+          ]
+        },
+        {
+          "ga315_section": 16,
+          "ga313_ix_sections": [
+            11,
+            12
+          ]
+        },
+        {
+          "ga315_section": 17,
+          "ga313_ix_sections": [
+            13
+          ]
+        },
+        {
+          "ga315_section": 18,
+          "ga313_ix_sections": [
+            14
+          ]
+        },
+        {
+          "ga315_section": 19,
+          "ga313_ix_sections": [
+            15
+          ]
+        },
+        {
+          "ga315_section": 20,
+          "ga313_ix_sections": [
+            16
+          ]
+        },
+        {
+          "ga315_section": 21,
+          "ga313_ix_sections": [
+            17
+          ]
+        },
+        {
+          "ga315_section": 22,
+          "ga313_ix_sections": [
+            18
+          ]
+        },
+        {
+          "ga315_section": 23,
+          "ga313_ix_sections": [
+            19
+          ]
+        },
+        {
+          "ga315_section": 24,
+          "ga313_ix_sections": [
+            20
+          ]
+        },
+        {
+          "ga315_section": 25,
+          "ga313_ix_sections": [
+            21
+          ]
+        },
+        {
+          "ga315_section": 26,
+          "ga313_ix_sections": [
+            22
+          ]
+        },
+        {
+          "ga315_section": 27,
+          "ga313_ix_sections": [
+            23
+          ]
+        },
+        {
+          "ga315_section": 28,
+          "ga313_ix_sections": [
+            24
+          ]
+        }
+      ]
+    }
+  ],
+  "metric_rule": "Retain 61 catalogue entries and source-view coverage; do not sum aliased claims or infer distinct-event totals for the unaudited catalogue. GA313 VIII is a separate morning session on the same date."
+}

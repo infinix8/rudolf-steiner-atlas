@@ -1,0 +1,154 @@
+{
+  "schema_version": "1.0",
+  "as_of": "2026-11-02",
+  "scope": "8 selective German check entries, not eight whole-section bilingual collations. No stenographic original inspected.",
+  "checks": [
+    {
+      "id": "GER-V14-01",
+      "lecture": "GA313 VII",
+      "passage_cue": "§5",
+      "source_url": "https://rsarchive.org/Lectures/GA313/Compare_07.php",
+      "terms": [
+        "Nelkenwurz",
+        "Geum urbanum",
+        "Speiseröhre"
+      ],
+      "finding": "Botanical identity is avens, not culinary clove; English switches common names. Astringent/bitter rendering remains a translation question.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V14-02",
+      "lecture": "GA313 VIII",
+      "passage_cue": "§22",
+      "source_url": "https://rsarchive.org/Lectures/GA313/Compare_08.php",
+      "terms": [
+        "ideell",
+        "nicht genetisch"
+      ],
+      "finding": "Ideal metamorphosis explicitly distinguished from genetic/developmental origin. Do not read genetisch as a modern DNA claim.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V14-03",
+      "lecture": "GA313 VIII",
+      "passage_cue": "§§23–24",
+      "source_url": "https://rsarchive.org/Lectures/GA313/Compare_08.php",
+      "terms": [
+        "Stoffe",
+        "Prozesse",
+        "Bleiprozeß"
+      ],
+      "finding": "Rejects extrapolated sensory spectra and distinguishes substance production from internally generated etheric process.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V14-04",
+      "lecture": "GA313 VIII",
+      "passage_cue": "§25",
+      "source_url": "https://rsarchive.org/Lectures/GA313/Compare_08.php",
+      "terms": [
+        "Schilddrüse",
+        "Gehirn"
+      ],
+      "finding": "Thyroid/unfinished-brain formulation confirmed; disease theory remains attributed.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V14-05",
+      "lecture": "GA313 IX",
+      "passage_cue": "§§3–4",
+      "source_url": "https://rsarchive.org/Lectures/GA313/Compare_09.php",
+      "terms": [
+        "Bildungskräfte",
+        "Befestigen"
+      ],
+      "finding": "Peripheral formation and inward consolidation are distinct operations.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V14-06",
+      "lecture": "GA313 IX",
+      "passage_cue": "§§5–6",
+      "source_url": "https://rsarchive.org/Lectures/GA313/Compare_09.php",
+      "terms": [
+        "Umkehrung des Werdeprozesses",
+        "dieselben Kräfte",
+        "Agens"
+      ],
+      "finding": "Reversal of becoming and identity of cognitive/formative forces confirmed; no named rank.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V14-07",
+      "lecture": "GA313 IX",
+      "passage_cue": "§15",
+      "source_url": "https://rsarchive.org/Lectures/GA313/Compare_09.php",
+      "terms": [
+        "Bildung seiner eigenen Gestalt"
+      ],
+      "finding": "Future formative freedom explicitly present; prediction and alleged therapy must not become verified capability.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V14-08",
+      "lecture": "GA313 IX",
+      "passage_cue": "§21",
+      "source_url": "https://rsarchive.org/Lectures/GA313/Compare_09.php",
+      "terms": [
+        "nicht schablonisieren"
+      ],
+      "finding": "Individual observation required in this historical breathing discussion.",
+      "status": "German_spot_checked"
+    }
+  ],
+  "edition_variants": [
+    {
+      "id": "TXT-V14-01",
+      "source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210418.html",
+      "passage_cue": "§5",
+      "issue": "Shorthand distinguishes separation from elimination; do not normalize them to one process.",
+      "status": "English critical note inspected; independent manuscript verification pending"
+    },
+    {
+      "id": "TXT-V14-02",
+      "source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210418.html",
+      "passage_cue": "§11",
+      "issue": "Dreaming-through versus streaming-through uncertain in shorthand; GA313 wording appears definite.",
+      "status": "English critical note inspected; independent manuscript verification pending"
+    },
+    {
+      "id": "TXT-V14-03",
+      "source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210418.html",
+      "passage_cue": "§15",
+      "issue": "Gap within audience parasite case report.",
+      "status": "English critical note inspected; independent manuscript verification pending"
+    },
+    {
+      "id": "TXT-V14-04",
+      "source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210418.html",
+      "passage_cue": "§18",
+      "issue": "Helene Finckh marks a gap; anemia parenthesis added in transcription, absent from shorthand. Do not treat as secure verbatim Steiner utterance.",
+      "status": "English critical note inspected; independent manuscript verification pending"
+    },
+    {
+      "id": "TXT-V14-05",
+      "source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210418.html",
+      "passage_cue": "§19",
+      "issue": "Future-form sentence has an alternative shorthand reading; keep uncertainty with freedom prediction.",
+      "status": "English critical note inspected; independent manuscript verification pending"
+    },
+    {
+      "id": "TXT-V14-06",
+      "source_url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210418.html",
+      "passage_cue": "§22",
+      "issue": "Experienced/desired reading uncertain in note.",
+      "status": "English critical note inspected; independent manuscript verification pending"
+    }
+  ],
+  "unresolved": [
+    "No full German collation of any new lecture.",
+    "No independent consultation of shorthand manuscripts.",
+    "GA313/GA315 editorial variants require edition-level investigation, not a second-event count.",
+    "Previously recorded sleep interruption/redistribution tension and v12/v13 textual issues remain open."
+  ]
+}

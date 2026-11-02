@@ -1,3 +1,10 @@
+# 2026-11-02 — Phase 14: complete GA313 English sequence; reconcile GA315 alias
+
+- Reviewed 99 source-view sections: GA313 VII–IX and GA315 VII, representing three events.
+- Added 45 selected claims (43 provisionally unpaired, one overlap, one same-claim match), eight German spot checks and six transcription-note issues.
+- Added three dossiers (24 total), seven graph links and 28-row alias crosswalk. Correctly separate same-date morning/afternoon sources in validation.
+- Coverage: 20 English-complete source views + 1 thematic + 3 selected-only + 37 unread; 494 source-view sections. No global distinct-event or unique-teaching total certified.
+
 # 2026-11-02 — Final legacy coverage correction
 
 - Pilot selections for GA313 IV and GA315 VII contradict earlier unread labels. Corrected v12 categories: 12 + 1 + 5 + 43; current v13: 16 + 1 + 4 + 40 (English-complete, thematic, selected-only, unread).
