@@ -58,16 +58,24 @@ The taxonomy, notes and diagrams are an original working classification. Origina
 
 [Run the static atlas prototype](atlas/README.md): from the repository root run `python -m http.server 8000` and open `http://localhost:8000/atlas/`. It is committed but **not yet deployed** as a public website.
 
-**Current research:** 1,006 nodes, eight editorial routes, 14 links back to RS Archive subject lists, 41 alternative search phrases, 19 located source pages, three comparison models, and automated integrity checks. [See source coverage and gaps](docs/SOURCE_COVERAGE_2026-11-01.md).
+**Current research:** 1,006 nodes, eight editorial routes, 14 links back to RS Archive subject lists, 41 alternative search phrases, 19 earlier located gateway records, three comparison models, and automated integrity checks. [See source coverage and gaps](docs/SOURCE_COVERAGE_2026-11-01.md).
 
 ## Passage-linked knowledge graph · iteration 2026-11-02
 
-The [knowledge graph explorer](atlas/graph.html) is a second, evidence-first navigation mode. It contains **66 typed relationships from 13 Steiner primary-source pages**, including **19 cross-domain connections**, and distinguishes paraphrases of selected checked passages from source-comparison judgments. It links directly to the original archive without rehosting source material.
+The [knowledge graph explorer](atlas/graph.html) is a second, evidence-first navigation mode. It currently contains **116 typed relationships from 27 Steiner primary-source pages**, including **51 cross-domain connections**, and distinguishes paraphrases of selected checked passages from source-comparison judgments. It links directly to the original archive without rehosting source material.
 
 - [Graph methodology, evidence levels and source URLs](docs/KNOWLEDGE_GRAPH_METHOD.md)
 - [Reproducible graph coverage audit](docs/KNOWLEDGE_GRAPH_COVERAGE.md)
 - [Original graph dataset](research/knowledge-graph-v1.json)
-- [Reconciliation of 30 earlier hypothetical crosslinks](research/legacy-crosslink-audit.json) — only 4 directly source-matched, 26 remain unverified
+- [Reconciliation of 30 earlier hypothetical crosslinks](research/legacy-crosslink-audit.json) — 4 directly source-matched, 1 supported only at a narrower descendant level, 25 with no matching passage-level evidence
 - [Work completed and further limitations](docs/ITERATION_2026-11-02.md)
 
-Run locally with `python -m http.server 8000` and open `http://localhost:8000/atlas/graph.html`. The site has not been publicly deployed.
+Run locally with `python -m http.server 8000` and open `http://localhost:8000/atlas/` (concepts), `/atlas/graph.html` (evidence network) or `/atlas/sources.html` (source guide). The site has not been publicly deployed.
+
+## Iteration 4 — stronger research breadth and reproducibility
+
+- Graph relationships now reach all **26 thematic domains** (not all individual concepts).
+- [Find original source works](atlas/sources.html) by GA, date, title, domain and source type; links lead outward to the archive.
+- All **974 named taxonomy entries** are checked against JSON, Markdown and OPML so stable IDs remain consistent.
+- [Desktop/mobile Chromium smoke tests](tests/atlas-browser-smoke.mjs) and [GitHub Actions](.github/workflows/browser-smoke.yml) cover concept search, graph filtering and source discovery.
+- [Iteration report](docs/ITERATION_2026-11-02_EXPANSION.md) and [current domain coverage](docs/KNOWLEDGE_GRAPH_COVERAGE.md) describe completed work and open gaps.
