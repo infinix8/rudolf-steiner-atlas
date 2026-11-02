@@ -3,7 +3,7 @@
 // This app never downloads the full texts or scrapes the source sites.
 // It indexes the project's *own classification* and opens original source pages.
 const $ = (selector) => document.querySelector(selector);
-const state = { data: null, paths: null, nodes: new Map(), parents: new Map(), regions: new Map(), domains: new Map(), selected: null, query: "", domainFilter: "", anchors: null, crosswalk: null, models: null, vocabulary: null, evidenceGraph: null, legacyAudit: null };
+const state = { data: null, paths: null, nodes: new Map(), parents: new Map(), regions: new Map(), domains: new Map(), selected: null, query: "", domainFilter: "", anchors: null, crosswalk: null, models: null, vocabulary: null, evidenceGraph: null, legacyAudit: null, trajectories: null };
 const html = (input) => String(input ?? "").replace(/[&<>"']/g, (c) => ({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"}[c]));
 const knownSource = (url) => {
   try {
@@ -215,6 +215,18 @@ function checkedGraphBlock(id) {
   });
   return parts.join('')+'<p><a href="graph.html?focus='+encodeURIComponent(id)+'">Explore this topic in the evidence graph →</a></p>';
 }
+function trajectoryLinks(id) {
+  const items = (state.trajectories?.trajectories || []).filter(t =>
+    t.topic_ids.includes(id));
+  if (!items.length) return "";
+  return '<section><h2>Compare across original works</h2>' +
+    '<p class="muted">Source-context comparisons, not assumed changes in doctrine.</p>' +
+    '<div class="grid">' + items.map(t =>
+      '<a class="tile" href="trajectories.html?id=' + encodeURIComponent(t.id) +
+      '"><span class="id">COMPARATIVE RESEARCH</span><strong>' + html(t.title) +
+      '</strong><small>' + html(t.question) + '</small></a>').join("") +
+    '</div></section>';
+}
 function nodePage(id) {
   const node = byId(id);
   const lineage = ancestors(id);
@@ -237,7 +249,7 @@ function nodePage(id) {
     (domain ? '<div class="stat"><strong>Domain ' + html(domain.id) + '</strong><span>' + html(domain.title) + "</span></div>" : "") +
     '</div><div class="node-actions">' +
     (parentId(id) ? '<button class="btn" data-node="' + html(parentId(id)) + '">↑ Parent topic</button>' : "") +
-    '<button class="btn" data-copy>Copy topic link</button></div>' + modelBlock(id) + hierarchy +
+    '<button class="btn" data-copy>Copy topic link</button></div>' + modelBlock(id) + trajectoryLinks(id) + hierarchy +
     (siblings.length ? '<section><h2>Nearby concepts</h2><div class="grid">' + siblings.map((s) => card(s.id)).join("") + "</div></section>" : "") + "</div>";
   return heading + '<div class="two-col">' + inside + aside + "</div>";
 }
@@ -309,7 +321,7 @@ function render() {
 }
 async function initialize() {
   try {
-    const [taxResponse, pathsResponse, anchorsResponse, crosswalkResponse, modelsResponse, vocabularyResponse, evidenceResponse, auditResponse] = await Promise.all([
+    const [taxResponse, pathsResponse, anchorsResponse, crosswalkResponse, modelsResponse, vocabularyResponse, evidenceResponse, auditResponse, trajectoryResponse] = await Promise.all([
       fetch("../taxonomy/taxonomy-v1.json"),
       fetch("study-paths.json"),
       fetch("../research/primary-source-anchors.json"),
@@ -317,12 +329,13 @@ async function initialize() {
       fetch("../research/concept-models.json"),
       fetch("../research/search-vocabulary.json"),
       fetch("../research/knowledge-graph-v1.json"),
-      fetch("../research/legacy-crosslink-audit.json")
+      fetch("../research/legacy-crosslink-audit.json"),
+      fetch("../research/concept-trajectories-v1.json")
     ]);
-    if ([taxResponse, pathsResponse, anchorsResponse, crosswalkResponse, modelsResponse, vocabularyResponse, evidenceResponse, auditResponse].some((r) => !r.ok))
+    if ([taxResponse, pathsResponse, anchorsResponse, crosswalkResponse, modelsResponse, vocabularyResponse, evidenceResponse, auditResponse, trajectoryResponse].some((r) => !r.ok))
       throw new Error("One of the local data files could not be loaded.");
-    [state.data, state.paths, state.anchors, state.crosswalk, state.models, state.vocabulary, state.evidenceGraph, state.legacyAudit] = await Promise.all([
-      taxResponse.json(), pathsResponse.json(), anchorsResponse.json(), crosswalkResponse.json(), modelsResponse.json(), vocabularyResponse.json(), evidenceResponse.json(), auditResponse.json()
+    [state.data, state.paths, state.anchors, state.crosswalk, state.models, state.vocabulary, state.evidenceGraph, state.legacyAudit, state.trajectories] = await Promise.all([
+      taxResponse.json(), pathsResponse.json(), anchorsResponse.json(), crosswalkResponse.json(), modelsResponse.json(), vocabularyResponse.json(), evidenceResponse.json(), auditResponse.json(), trajectoryResponse.json()
     ]);
     indexData(state.data);
     renderNav();
