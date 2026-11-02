@@ -44,7 +44,7 @@ function renderDetails(d){
   }).join("");
   const sidebar='<aside class="dossier-sidebar"><h2>Primary-source entry points</h2>'+
     '<p class="muted" style="font-size:.82rem">Read the full text at the original archive; this guide contains only editorial notes.</p>'+
-    sourceIds.map(id=>{const src=state.sourceById.get(id);return '<div class="source-link">'+sourceAnchor(id,src?.review?.scope?"Selected paragraphs reviewed":"Source lead")+'</div>'}).join("")+
+    sourceIds.map(id=>{const src=state.sourceById.get(id);return '<div class="source-link">'+sourceAnchor(id,src?.review?.scope?"Selected passages inspected":"Source lead")+'</div>'}).join("")+
     '<hr><h2>Supported conceptual connections</h2><ul>'+cross+'</ul>'+
     '<hr><h2>Important boundaries</h2><ul>'+d.cautions.map(note=>'<li>'+esc(note)+'</li>').join("")+'</ul>'+
     '</aside>';
