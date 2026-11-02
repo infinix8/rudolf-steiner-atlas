@@ -1,0 +1,439 @@
+{
+  "schema_version": "0.1",
+  "research_date": "2026-11-02",
+  "records_count": 22,
+  "method": "Atomic research statements, each anchored to a primary numbered section. Many refine preexisting records; cannot be added to earlier totals as unique findings. Historical medical theories annotated, not validated.",
+  "records": [
+    {
+      "id": "ORG-CLAIM-V11-001",
+      "ga": 313,
+      "date": "1921-04-13",
+      "section": 2,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210413.html",
+      "compare_url": "https://rsarchive.org/Lectures/GA313/Compare_03.php",
+      "organ_terms": [
+        "chest",
+        "breathing",
+        "circulation"
+      ],
+      "relation_type": "chest_organs_physical_etheric_cooperation",
+      "editorial_paraphrase": "Steiner says the chest region exhibits co-working of the physical and etheric organizations while astral and I activity can enter it.",
+      "assertion_type": "direct_statement",
+      "overlap_note": "phase8:GA313-19210413",
+      "evidence_level": "direct_English_numbered_paragraph_read",
+      "german": "selective_spot_check_not_full_collation",
+      "clinical_status": "Steiner attributed esoteric concept, not experimentally established"
+    },
+    {
+      "id": "ORG-CLAIM-V11-002",
+      "ga": 313,
+      "date": "1921-04-13",
+      "section": 3,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210413.html",
+      "compare_url": "https://rsarchive.org/Lectures/GA313/Compare_03.php",
+      "organ_terms": [
+        "chest",
+        "head",
+        "metabolism"
+      ],
+      "relation_type": "rhythm_balanced_head_and_metabolism",
+      "editorial_paraphrase": "He treats chest rhythms as effects of counteracting head and metabolic forces, rather than their causes originating only in chest tissues.",
+      "assertion_type": "direct_statement",
+      "overlap_note": "phase8:GA313-19210413",
+      "evidence_level": "direct_English_numbered_paragraph_read",
+      "german": "selective_spot_check_not_full_collation",
+      "clinical_status": "Steiner attributed esoteric concept, not experimentally established"
+    },
+    {
+      "id": "ORG-CLAIM-V11-003",
+      "ga": 313,
+      "date": "1921-04-13",
+      "section": 5,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210413.html",
+      "compare_url": "https://rsarchive.org/Lectures/GA313/Compare_03.php",
+      "organ_terms": [
+        "head",
+        "metabolism",
+        "breathing"
+      ],
+      "relation_type": "sleep_astral_below_head",
+      "editorial_paraphrase": "He qualifies the notion that the astral body is outside during sleep by saying astral action persists from the lower organization.",
+      "assertion_type": "direct_statement",
+      "overlap_note": "GA313-II-§26-related",
+      "evidence_level": "direct_English_numbered_paragraph_read",
+      "german": "selective_spot_check_not_full_collation",
+      "clinical_status": "Steiner attributed esoteric concept, not experimentally established"
+    },
+    {
+      "id": "ORG-CLAIM-V11-004",
+      "ga": 313,
+      "date": "1921-04-13",
+      "section": 7,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210413.html",
+      "compare_url": "https://rsarchive.org/Lectures/GA313/Compare_03.php",
+      "organ_terms": [
+        "sleep",
+        "waking",
+        "circulation"
+      ],
+      "relation_type": "sleep_wake_symptom_condensation",
+      "editorial_paraphrase": "Falling asleep and awakening are described as compressions of complicated physiological symptom patterns, a proposed diagnostic analogy.",
+      "assertion_type": "direct_statement",
+      "overlap_note": "No specific crosswalk assigned yet; candidate overlaps elsewhere pending",
+      "evidence_level": "direct_English_numbered_paragraph_read",
+      "german": "selective_spot_check_not_full_collation",
+      "clinical_status": "Steiner attributed esoteric concept, not experimentally established"
+    },
+    {
+      "id": "ORG-CLAIM-V11-005",
+      "ga": 313,
+      "date": "1921-04-13",
+      "section": 7,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210413.html",
+      "compare_url": "https://rsarchive.org/Lectures/GA313/Compare_03.php",
+      "organ_terms": [
+        "breathing",
+        "heart",
+        "circulation"
+      ],
+      "relation_type": "delayed_emotions_rhythmic_organs",
+      "editorial_paraphrase": "Steiner asserts older worry and hurried thinking may later affect rhythmic organs; a historically unsupported medical causal claim.",
+      "assertion_type": "direct_statement",
+      "overlap_note": "No specific crosswalk assigned yet; candidate overlaps elsewhere pending",
+      "evidence_level": "direct_English_numbered_paragraph_read",
+      "german": "selective_spot_check_not_full_collation",
+      "clinical_status": "Steiner attributed esoteric concept, not experimentally established"
+    },
+    {
+      "id": "ORG-CLAIM-V11-006",
+      "ga": 313,
+      "date": "1921-04-13",
+      "section": 8,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210413.html",
+      "compare_url": "https://rsarchive.org/Lectures/GA313/Compare_03.php",
+      "organ_terms": [
+        "stomach",
+        "metabolism"
+      ],
+      "relation_type": "hunger_thirst_astral",
+      "editorial_paraphrase": "He classifies consciously felt hunger and thirst as astral experiences.",
+      "assertion_type": "direct_statement",
+      "overlap_note": "No specific crosswalk assigned yet; candidate overlaps elsewhere pending",
+      "evidence_level": "direct_English_numbered_paragraph_read",
+      "german": "selective_spot_check_not_full_collation",
+      "clinical_status": "Steiner attributed esoteric concept, not experimentally established"
+    },
+    {
+      "id": "ORG-CLAIM-V11-007",
+      "ga": 313,
+      "date": "1921-04-13",
+      "section": 9,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210413.html",
+      "compare_url": "https://rsarchive.org/Lectures/GA313/Compare_03.php",
+      "organ_terms": [
+        "chest",
+        "breathing",
+        "circulation"
+      ],
+      "relation_type": "rhythmic_three_sided_influences",
+      "editorial_paraphrase": "He describes chest rhythm as the result of head, metabolism and the outer world working together.",
+      "assertion_type": "direct_statement",
+      "overlap_note": "No specific crosswalk assigned yet; candidate overlaps elsewhere pending",
+      "evidence_level": "direct_English_numbered_paragraph_read",
+      "german": "selective_spot_check_not_full_collation",
+      "clinical_status": "Steiner attributed esoteric concept, not experimentally established"
+    },
+    {
+      "id": "ORG-CLAIM-V11-008",
+      "ga": 313,
+      "date": "1921-04-13",
+      "section": 14,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210413.html",
+      "compare_url": "https://rsarchive.org/Lectures/GA313/Compare_03.php",
+      "organ_terms": [
+        "immune system",
+        "infection"
+      ],
+      "relation_type": "false_germs_indicator_only",
+      "editorial_paraphrase": "He expressly denies that germs or parasites are primary pathogens; this contradicts infectious-disease science.",
+      "assertion_type": "direct_statement",
+      "overlap_note": "phase8:GA313-§14",
+      "evidence_level": "direct_English_numbered_paragraph_read",
+      "german": "selective_spot_check_not_full_collation",
+      "clinical_status": "historical_unsupported_or_false_medical_claim"
+    },
+    {
+      "id": "ORG-CLAIM-V11-009",
+      "ga": 313,
+      "date": "1921-04-13",
+      "section": 17,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210413.html",
+      "compare_url": "https://rsarchive.org/Lectures/GA313/Compare_03.php",
+      "organ_terms": [
+        "heart",
+        "circulation"
+      ],
+      "relation_type": "magnetic_treatment_arrhythmia_claim",
+      "editorial_paraphrase": "He proposes magnets held near the body as a therapy for irregular heartbeat; this is not an established treatment.",
+      "assertion_type": "direct_statement",
+      "overlap_note": "No specific crosswalk assigned yet; candidate overlaps elsewhere pending",
+      "evidence_level": "direct_English_numbered_paragraph_read",
+      "german": "selective_spot_check_not_full_collation",
+      "clinical_status": "historical_unsupported_or_false_medical_claim"
+    },
+    {
+      "id": "ORG-CLAIM-V11-010",
+      "ga": 313,
+      "date": "1921-04-13",
+      "section": 18,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210413.html",
+      "compare_url": "https://rsarchive.org/Lectures/GA313/Compare_03.php",
+      "organ_terms": [
+        "lungs",
+        "respiration"
+      ],
+      "relation_type": "magnetic_treatment_tuberculosis_claim",
+      "editorial_paraphrase": "He proposes magnet-based therapy for pulmonary tuberculosis; this is not evidence-based treatment.",
+      "assertion_type": "direct_statement",
+      "overlap_note": "No specific crosswalk assigned yet; candidate overlaps elsewhere pending",
+      "evidence_level": "direct_English_numbered_paragraph_read",
+      "german": "selective_spot_check_not_full_collation",
+      "clinical_status": "historical_unsupported_or_false_medical_claim"
+    },
+    {
+      "id": "ORG-CLAIM-V11-011",
+      "ga": 317,
+      "date": "1924-06-26",
+      "section": 9,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "compare_url": "https://rsarchive.org/Lectures/GA317/Compare_02.php",
+      "organ_terms": [
+        "liver",
+        "limbs",
+        "will"
+      ],
+      "relation_type": "liver_intention_action",
+      "editorial_paraphrase": "Steiner recaps his prior view linking inability to carry an intention into action to an alleged subtle liver abnormality.",
+      "assertion_type": "direct_statement",
+      "overlap_note": "GA317-I-§21-related",
+      "evidence_level": "direct_English_numbered_paragraph_read",
+      "german": "selective_spot_check_not_full_collation",
+      "clinical_status": "Steiner attributed esoteric concept, not experimentally established"
+    },
+    {
+      "id": "ORG-CLAIM-V11-012",
+      "ga": 317,
+      "date": "1924-06-26",
+      "section": 11,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "compare_url": "https://rsarchive.org/Lectures/GA317/Compare_02.php",
+      "organ_terms": [
+        "brain",
+        "metabolic-limb system"
+      ],
+      "relation_type": "brain_synthetic_lower_organs_analytic",
+      "editorial_paraphrase": "He contrasts synthetic processes associated with the brain and thinking with analytic processes associated with the organs and willing.",
+      "assertion_type": "direct_statement",
+      "overlap_note": "phase8:GA317-II-§11",
+      "evidence_level": "direct_English_numbered_paragraph_read",
+      "german": "selective_spot_check_not_full_collation",
+      "clinical_status": "Steiner attributed esoteric concept, not experimentally established"
+    },
+    {
+      "id": "ORG-CLAIM-V11-013",
+      "ga": 317,
+      "date": "1924-06-26",
+      "section": 12,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "compare_url": "https://rsarchive.org/Lectures/GA317/Compare_02.php",
+      "organ_terms": [
+        "brain",
+        "thoughts"
+      ],
+      "relation_type": "milk_vessel_thought_analogy",
+      "editorial_paraphrase": "He uses a milk jug analogy to argue that thoughts are not generated inside the brain, just as milk is not produced by a clay jug.",
+      "assertion_type": "explicit_analogy",
+      "overlap_note": "No specific crosswalk assigned yet; candidate overlaps elsewhere pending",
+      "evidence_level": "direct_English_numbered_paragraph_read",
+      "german": "selective_spot_check_not_full_collation",
+      "clinical_status": "Steiner attributed esoteric concept, not experimentally established"
+    },
+    {
+      "id": "ORG-CLAIM-V11-014",
+      "ga": 317,
+      "date": "1924-06-26",
+      "section": 13,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "compare_url": "https://rsarchive.org/Lectures/GA317/Compare_02.php",
+      "organ_terms": [
+        "etheric body",
+        "brain"
+      ],
+      "relation_type": "living_thoughts_world_ether",
+      "editorial_paraphrase": "He describes living thoughts as already present in the universal world ether before incarnation.",
+      "assertion_type": "direct_statement",
+      "overlap_note": "phase8:GA317-II-§13",
+      "evidence_level": "direct_English_numbered_paragraph_read",
+      "german": "selective_spot_check_not_full_collation",
+      "clinical_status": "Steiner attributed esoteric concept, not experimentally established"
+    },
+    {
+      "id": "ORG-CLAIM-V11-015",
+      "ga": 317,
+      "date": "1924-06-26",
+      "section": 14,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "compare_url": "https://rsarchive.org/Lectures/GA317/Compare_02.php",
+      "organ_terms": [
+        "brain",
+        "nervous system"
+      ],
+      "relation_type": "brain_shaped_by_living_thought",
+      "editorial_paraphrase": "He says the living thought element helps form brain and nerve-sense organization.",
+      "assertion_type": "direct_statement",
+      "overlap_note": "phase8:GA317-II-§14",
+      "evidence_level": "direct_English_numbered_paragraph_read",
+      "german": "selective_spot_check_not_full_collation",
+      "clinical_status": "Steiner attributed esoteric concept, not experimentally established"
+    },
+    {
+      "id": "ORG-CLAIM-V11-016",
+      "ga": 317,
+      "date": "1924-06-26",
+      "section": 15,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "compare_url": "https://rsarchive.org/Lectures/GA317/Compare_02.php",
+      "organ_terms": [
+        "brain",
+        "nerves"
+      ],
+      "relation_type": "brain_reflector_thought",
+      "editorial_paraphrase": "He describes nerves as reflecting already-existing etheric thoughts into waking representations.",
+      "assertion_type": "direct_statement",
+      "overlap_note": "phase8:GA317-II-§14-15",
+      "evidence_level": "direct_English_numbered_paragraph_read",
+      "german": "selective_spot_check_not_full_collation",
+      "clinical_status": "Steiner attributed esoteric concept, not experimentally established"
+    },
+    {
+      "id": "ORG-CLAIM-V11-017",
+      "ga": 317,
+      "date": "1924-06-26",
+      "section": 15,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "compare_url": "https://rsarchive.org/Lectures/GA317/Compare_02.php",
+      "organ_terms": [
+        "nerves",
+        "brain"
+      ],
+      "relation_type": "false_nerve_dying_substance",
+      "editorial_paraphrase": "He attributes nerve tissue to shed or dying matter; this is not a valid neurophysiological description.",
+      "assertion_type": "direct_statement",
+      "overlap_note": "phase8:GA317-II-§15",
+      "evidence_level": "direct_English_numbered_paragraph_read",
+      "german": "selective_spot_check_not_full_collation",
+      "clinical_status": "historical_unsupported_or_false_medical_claim"
+    },
+    {
+      "id": "ORG-CLAIM-V11-018",
+      "ga": 317,
+      "date": "1924-06-26",
+      "section": 16,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "compare_url": "https://rsarchive.org/Lectures/GA317/Compare_02.php",
+      "organ_terms": [
+        "brain",
+        "cognition"
+      ],
+      "relation_type": "false_abnormal_thought_mirror",
+      "editorial_paraphrase": "He claims anomalous thinking comes from a defective brain mirror; this metaphysical diagnosis is unsupported.",
+      "assertion_type": "direct_statement",
+      "overlap_note": "No specific crosswalk assigned yet; candidate overlaps elsewhere pending",
+      "evidence_level": "direct_English_numbered_paragraph_read",
+      "german": "selective_spot_check_not_full_collation",
+      "clinical_status": "historical_unsupported_or_false_medical_claim"
+    },
+    {
+      "id": "ORG-CLAIM-V11-019",
+      "ga": 317,
+      "date": "1924-06-26",
+      "section": 21,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "compare_url": "https://rsarchive.org/Lectures/GA317/Compare_02.php",
+      "organ_terms": [
+        "etheric body",
+        "astral body",
+        "I",
+        "spirit-self"
+      ],
+      "relation_type": "next_higher_educator_member",
+      "editorial_paraphrase": "He asserts that a teacher's next-higher supersensible member affects a child's corresponding lower member; an educational rather than organ-genesis schema.",
+      "assertion_type": "direct_statement",
+      "overlap_note": "phase8:GA317-II-§21",
+      "evidence_level": "direct_English_numbered_paragraph_read",
+      "german": "selective_spot_check_not_full_collation",
+      "clinical_status": "Steiner attributed esoteric concept, not experimentally established"
+    },
+    {
+      "id": "ORG-CLAIM-V11-020",
+      "ga": 317,
+      "date": "1924-06-26",
+      "section": 25,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "compare_url": "https://rsarchive.org/Lectures/GA317/Compare_02.php",
+      "organ_terms": [
+        "liver",
+        "etheric body",
+        "will"
+      ],
+      "relation_type": "false_liver_etheric_will_defect",
+      "editorial_paraphrase": "He claims diminished etheric activity in the liver explains a child's difficulty moving from intention into action; unsupported and potentially stigmatizing.",
+      "assertion_type": "direct_statement",
+      "overlap_note": "phase8:GA317-II-§25",
+      "evidence_level": "direct_English_numbered_paragraph_read",
+      "german": "selective_spot_check_not_full_collation",
+      "clinical_status": "historical_unsupported_or_false_medical_claim"
+    },
+    {
+      "id": "ORG-CLAIM-V11-021",
+      "ga": 317,
+      "date": "1924-06-26",
+      "section": 28,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "compare_url": "https://rsarchive.org/Lectures/GA317/Compare_02.php",
+      "organ_terms": [
+        "liver",
+        "stomach",
+        "astral body",
+        "I"
+      ],
+      "relation_type": "liver_stomach_astral_entry",
+      "editorial_paraphrase": "He imagines I/astral members rhythmically entering and withdrawing from the child's liver and stomach, producing behavioral changes.",
+      "assertion_type": "direct_statement",
+      "overlap_note": "No specific crosswalk assigned yet; candidate overlaps elsewhere pending",
+      "evidence_level": "direct_English_numbered_paragraph_read",
+      "german": "selective_spot_check_not_full_collation",
+      "clinical_status": "Steiner attributed esoteric concept, not experimentally established"
+    },
+    {
+      "id": "ORG-CLAIM-V11-022",
+      "ga": 317,
+      "date": "1924-06-26",
+      "section": 31,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "compare_url": "https://rsarchive.org/Lectures/GA317/Compare_02.php",
+      "organ_terms": [
+        "physical body",
+        "etheric body",
+        "mental health"
+      ],
+      "relation_type": "false_karmic_disability_etiology",
+      "editorial_paraphrase": "He links developmental disability or mental illness with alleged past-life experience and karmic interruption; unsubstantiated, potentially stigmatizing.",
+      "assertion_type": "direct_statement",
+      "overlap_note": "No specific crosswalk assigned yet; candidate overlaps elsewhere pending",
+      "evidence_level": "direct_English_numbered_paragraph_read",
+      "german": "selective_spot_check_not_full_collation",
+      "clinical_status": "historical_unsupported_or_false_medical_claim"
+    }
+  ]
+}
