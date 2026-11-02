@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Evidence graph · Rudolf Steiner Atlas</title><link rel="stylesheet" href="style.css"><link rel="stylesheet" href="graph.css">
+<script defer src="graph.js"></script></head>
+<body>
+<a class="skip-link" href="#graph-content">Skip to evidence graph</a>
+<header class="masthead"><div class="masthead-inner">
+<a class="brand" href="index.html"><span class="brandmark">✳</span><span><strong>Rudolf Steiner Atlas</strong><small>Evidence-qualified concept relationships</small></span></a>
+<nav class="top-nav"><a href="index.html">← Concept browser</a><a href="https://rsarchive.org/" target="_blank" rel="noopener noreferrer">Read at RS Archive ↗</a></nav>
+</div></header>
+<main id="graph-content" class="graph-content">
+<p class="eyebrow">Source-linked relationships · research graph v1</p>
+<h1>Follow the evidence between teachings</h1>
+<p class="intro">Every line represents a specifically described relationship, not a mere shared keyword. Select a link to see which Steiner passage was used and what remains provisional. Original texts are read at RS Archive.</p>
+<div class="stats" id="graph-stats" aria-live="polite"></div>
+<div class="controls panel">
+<div><label for="source-filter">Original source</label><select id="source-filter"><option value="">All reviewed sources</option></select></div>
+<div><label for="type-filter">Relationship</label><select id="type-filter"><option value="">All types</option></select></div>
+<div><label for="graph-search">Find a concept or relation</label><input id="graph-search" type="search" placeholder="e.g. etheric, Saturn, feeling"></div>
+<button id="clear-filters" type="button" class="btn">Reset filters</button>
+</div>
+<div class="graph-columns">
+<section class="panel" aria-label="Connections diagram">
+<div class="section-heading"><h2>Concept network</h2><span class="badge warn">Linked passages, not full corpus</span></div>
+<p class="muted">Lines connect classification topics. Select a node to see the original concept; select a connection in the table for exact evidence.</p>
+<div class="graph-svg-holder"><svg id="graph-svg" role="img" aria-label="Diagram of documented conceptual relationships" viewBox="0 0 900 620" preserveAspectRatio="xMidYMid meet"><title>Documented Steiner concept graph</title></svg></div>
+<p class="muted">The diagram is a supplementary orientation. All links are also available in the keyboard-accessible relationship list.</p>
+</section>
+<aside id="evidence-panel" class="panel" tabindex="-1" aria-live="polite">
+<h2>Choose a relationship</h2><p class="muted">Select a row to inspect its source and the precise subject cue.</p>
+</aside>
+</div>
+<section class="panel relation-list">
+<div class="section-heading"><h2>Evidence table</h2><span id="result-count" class="badge"></span></div>
+<div class="table-wrap"><table><thead><tr><th scope="col">Connection</th><th scope="col">Relation</th><th scope="col">Source</th><th scope="col">Review status</th></tr></thead><tbody id="relations"></tbody></table></div>
+</section>
+<div class="caution">These are original editorial paraphrases of limited, manually checked passages. They reconstruct Steiner's internal accounts, not independently validated historical or scientific facts. A checked passage does not mean the entire lecture or volume has been audited. Graph relationships marked as editorial comparisons are interpretations by the atlas, not statements of identity made by Steiner.</div>
+</main>
+<footer class="site-footer">Independent atlas: no texts mirrored. <a href="../docs/KNOWLEDGE_GRAPH_METHOD.md">Graph methodology</a> · <a href="../docs/COMPLEMENTARY_ARCHITECTURE.md">Archive-complementing policy</a> · <a href="index.html">Browse all topics</a></footer>
+</body></html>
