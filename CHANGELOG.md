@@ -1,5 +1,15 @@
 # Changelog
 
+## 2026-11-02 — Iteration 5: subdomain depth, chronology and original analysis
+
+- Expanded source-linked knowledge graph to **142 typed relations**, **30 original Steiner source pages** and **60 cross-domain edges**; added GA 4's Moral Imagination chapter and GA 9's Re-Embodiment and Three Worlds chapters.
+- Built [evidence coverage explorer](atlas/coverage.html) distinguishing 40 directly linked subdomains, 39 with child-only evidence, and 71 with no graph relationship yet (150 total).
+- Built [chronological source explorer](atlas/timeline.html) for original dated talks, keeping authored books/essays without lecture dates separately instead of inventing publication chronology.
+- Authored [five detailed concept dossiers](atlas/dossiers.html) with 17 source-cited interpretive sections, supported graph connections, limitations, and open research questions; no original text mirrored.
+- Added a [150-subdomain reproducible report](docs/SUBDOMAIN_EVIDENCE_COVERAGE.md) and a checked offline report generator.
+- Added dossier schema/provenance validation and extended Chromium desktop/mobile smoke tests for coverage, chronology and study dossiers.
+- Maintained distinct evidence grades: direct graph endpoints, narrower descendant-only connections, and still-unverified legacy editorial suggestions.
+
 ## 2026-11-02 — Iteration 4: broad coverage, source discovery and browser QA
 
 - Expanded the passage-linked graph from 66/13 to **116 relationships from 27 original source pages**, with **51 cross-domain** relations and at least one graph connection in every one of 26 major domains.
