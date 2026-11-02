@@ -1,0 +1,622 @@
+{
+  "schema_version": "0.2",
+  "as_of": "2026-11-02",
+  "record_count": 32,
+  "description": "32 additional atomic organ-related passages selected from five priority lectures; overlapping thematic coverage with the earlier 12-record pilot is intentional until canonical reconciliation.",
+  "limitations": [
+    "Selected-passage checks, not exhaustive whole-lecture audits",
+    "Original German and translation collation pending",
+    "Historical medical claims do not support present-day treatment decisions"
+  ],
+  "records": [
+    {
+      "id": "ORG-314-19221027-organ-study-sequence",
+      "ga": 314,
+      "lecture_date": "1922-10-27",
+      "source_url": "https://rsarchive.org/Lectures/FundAnthro/19221027a01.html",
+      "passage_cue": "opening remarks",
+      "organs": [
+        "digestive tract",
+        "heart",
+        "lungs",
+        "kidneys",
+        "nervous system",
+        "liver",
+        "gallbladder",
+        "spleen"
+      ],
+      "relationship_type": "organ_study_sequence",
+      "paraphrase": "Steiner recommends studying digestion, heart and lungs, kidney and nerve-sense relationships, then liver, gall and spleen as an integrated physiology.",
+      "evidence_status": "selected_passage_checked",
+      "full_lecture_audited": false,
+      "german_check": "pending",
+      "evidence_basis": "direct_statement_paraphrased",
+      "review_notes": "English lecture page inspected; no claim of full lecture completeness; esoteric/historical medical claim."
+    },
+    {
+      "id": "ORG-314-19221027-fourfold-organism",
+      "ga": 314,
+      "lecture_date": "1922-10-27",
+      "source_url": "https://rsarchive.org/Lectures/FundAnthro/19221027a01.html",
+      "passage_cue": "discussion of fourfold constitution",
+      "organs": [
+        "physical body",
+        "fluid organism",
+        "air organism",
+        "warmth organism"
+      ],
+      "relationship_type": "fourfold_organism",
+      "paraphrase": "Steiner differentiates a solid physical organization, a living fluid organization, gaseous-astral processes and warmth-related I-organization.",
+      "evidence_status": "selected_passage_checked",
+      "full_lecture_audited": false,
+      "german_check": "pending",
+      "evidence_basis": "direct_statement_paraphrased",
+      "review_notes": "English lecture page inspected; no claim of full lecture completeness; esoteric/historical medical claim."
+    },
+    {
+      "id": "ORG-314-19221027-digestive-function",
+      "ga": 314,
+      "lecture_date": "1922-10-27",
+      "source_url": "https://rsarchive.org/Lectures/FundAnthro/19221027a01.html",
+      "passage_cue": "digestion and chyle",
+      "organs": [
+        "digestive tract",
+        "lymph",
+        "blood"
+      ],
+      "relationship_type": "digestive_function",
+      "paraphrase": "He claims digestion transforms incoming food and identifies the passage of chyle into lymph and blood as a threshold.",
+      "evidence_status": "selected_passage_checked",
+      "full_lecture_audited": false,
+      "german_check": "pending",
+      "evidence_basis": "direct_statement_paraphrased",
+      "review_notes": "English lecture page inspected; no claim of full lecture completeness; esoteric/historical medical claim."
+    },
+    {
+      "id": "ORG-314-19221027-heart-lung-etheric",
+      "ga": 314,
+      "lecture_date": "1922-10-27",
+      "source_url": "https://rsarchive.org/Lectures/FundAnthro/19221027a01.html",
+      "passage_cue": "heart-lung and oxygen",
+      "organs": [
+        "heart",
+        "lungs",
+        "blood"
+      ],
+      "relationship_type": "heart_lung_etheric",
+      "paraphrase": "He relates the heart-lung system and oxygen to the transition toward etheric or living organization.",
+      "evidence_status": "selected_passage_checked",
+      "full_lecture_audited": false,
+      "german_check": "pending",
+      "evidence_basis": "direct_statement_paraphrased",
+      "review_notes": "English lecture page inspected; no claim of full lecture completeness; esoteric/historical medical claim."
+    },
+    {
+      "id": "ORG-314-19221027-kidney-astral",
+      "ga": 314,
+      "lecture_date": "1922-10-27",
+      "source_url": "https://rsarchive.org/Lectures/FundAnthro/19221027a01.html",
+      "passage_cue": "kidney radiations and excretion",
+      "organs": [
+        "kidneys"
+      ],
+      "relationship_type": "kidney_astral",
+      "paraphrase": "The kidney system is called an organ-radiation centre for the astral organization; excretion is described as secondary.",
+      "evidence_status": "selected_passage_checked",
+      "full_lecture_audited": false,
+      "german_check": "pending",
+      "evidence_basis": "direct_statement_paraphrased",
+      "review_notes": "English lecture page inspected; no claim of full lecture completeness; esoteric/historical medical claim."
+    },
+    {
+      "id": "ORG-314-19221027-kidney-nitrogen",
+      "ga": 314,
+      "lecture_date": "1922-10-27",
+      "source_url": "https://rsarchive.org/Lectures/FundAnthro/19221027a01.html",
+      "passage_cue": "urea, uric acid and nitrogen",
+      "organs": [
+        "kidneys",
+        "urine"
+      ],
+      "relationship_type": "kidney_nitrogen",
+      "paraphrase": "He proposes examining urea, uric acid and nitrogen as evidence of renal-astral functions, a historically unvalidated claim.",
+      "evidence_status": "selected_passage_checked",
+      "full_lecture_audited": false,
+      "german_check": "pending",
+      "evidence_basis": "direct_statement_paraphrased",
+      "review_notes": "English lecture page inspected; no claim of full lecture completeness; esoteric/historical medical claim."
+    },
+    {
+      "id": "ORG-314-19221027-liver-ego",
+      "ga": 314,
+      "lecture_date": "1922-10-27",
+      "source_url": "https://rsarchive.org/Lectures/FundAnthro/19221027a01.html",
+      "passage_cue": "liver-gall warmth and hydrogen",
+      "organs": [
+        "liver",
+        "gallbladder"
+      ],
+      "relationship_type": "liver_ego",
+      "paraphrase": "The liver-gall system, warmth differentiation and hydrogen are associated with the I-organization.",
+      "evidence_status": "selected_passage_checked",
+      "full_lecture_audited": false,
+      "german_check": "pending",
+      "evidence_basis": "direct_statement_paraphrased",
+      "review_notes": "English lecture page inspected; no claim of full lecture completeness; esoteric/historical medical claim."
+    },
+    {
+      "id": "ORG-314-19221027-therapeutic-plant-analogy",
+      "ga": 314,
+      "lecture_date": "1922-10-27",
+      "source_url": "https://rsarchive.org/Lectures/FundAnthro/19221027a01.html",
+      "passage_cue": "plant root, leaf, blossom and seed",
+      "organs": [
+        "digestive tract",
+        "vascular system",
+        "nervous system"
+      ],
+      "relationship_type": "therapeutic_plant_analogy",
+      "paraphrase": "He proposes that different plant structures might act on digestive, vascular and nervous systems; not established therapeutic efficacy.",
+      "evidence_status": "selected_passage_checked",
+      "full_lecture_audited": false,
+      "german_check": "pending",
+      "evidence_basis": "direct_statement_paraphrased",
+      "review_notes": "English lecture page inspected; no claim of full lecture completeness; esoteric/historical medical claim."
+    },
+    {
+      "id": "ORG-314-19221027-threefold-systems",
+      "ga": 314,
+      "lecture_date": "1922-10-27",
+      "source_url": "https://rsarchive.org/Lectures/GA314/English/MP1986/19221027p01.html",
+      "passage_cue": "§§2–4",
+      "organs": [
+        "head",
+        "heart",
+        "lungs",
+        "limbs"
+      ],
+      "relationship_type": "threefold_systems",
+      "paraphrase": "He distinguishes nerve-sense, rhythmic heart-lung, and metabolic-limb activity, which extend beyond single anatomical locations.",
+      "evidence_status": "selected_passage_checked",
+      "full_lecture_audited": false,
+      "german_check": "pending",
+      "evidence_basis": "direct_statement_paraphrased",
+      "review_notes": "English lecture page inspected; no claim of full lecture completeness; esoteric/historical medical claim."
+    },
+    {
+      "id": "ORG-314-19221027-rhythmic-ratio",
+      "ga": 314,
+      "lecture_date": "1922-10-27",
+      "source_url": "https://rsarchive.org/Lectures/GA314/English/MP1986/19221027p01.html",
+      "passage_cue": "§§5–6",
+      "organs": [
+        "heart",
+        "lungs",
+        "breathing",
+        "circulation"
+      ],
+      "relationship_type": "rhythmic_ratio",
+      "paraphrase": "He interprets a roughly four-to-one pulse/breath relation as a meeting between metabolic and nerve-sense tempos.",
+      "evidence_status": "selected_passage_checked",
+      "full_lecture_audited": false,
+      "german_check": "pending",
+      "evidence_basis": "direct_statement_paraphrased",
+      "review_notes": "English lecture page inspected; no claim of full lecture completeness; esoteric/historical medical claim."
+    },
+    {
+      "id": "ORG-314-19221027-kidney-liver-plasticity",
+      "ga": 314,
+      "lecture_date": "1922-10-27",
+      "source_url": "https://rsarchive.org/Lectures/GA314/English/MP1986/19221027p01.html",
+      "passage_cue": "§§7–8",
+      "organs": [
+        "kidneys",
+        "liver",
+        "lungs",
+        "head"
+      ],
+      "relationship_type": "kidney_liver_plasticity",
+      "paraphrase": "He describes radial liver-kidney formative forces meeting the rounding counterforces of the head, using lung form as an example.",
+      "evidence_status": "selected_passage_checked",
+      "full_lecture_audited": false,
+      "german_check": "pending",
+      "evidence_basis": "direct_statement_paraphrased",
+      "review_notes": "English lecture page inspected; no claim of full lecture completeness; esoteric/historical medical claim."
+    },
+    {
+      "id": "ORG-314-19221027-childhood-reflection",
+      "ga": 314,
+      "lecture_date": "1922-10-27",
+      "source_url": "https://rsarchive.org/Lectures/GA314/English/MP1986/19221027p01.html",
+      "passage_cue": "§§9–10",
+      "organs": [
+        "kidneys",
+        "liver",
+        "gallbladder",
+        "head"
+      ],
+      "relationship_type": "childhood_reflection",
+      "paraphrase": "Before the change of teeth, kidney/astral and liver-gall/I activities are said to operate through reflections from the head.",
+      "evidence_status": "selected_passage_checked",
+      "full_lecture_audited": false,
+      "german_check": "pending",
+      "evidence_basis": "direct_statement_paraphrased",
+      "review_notes": "English lecture page inspected; no claim of full lecture completeness; esoteric/historical medical claim."
+    },
+    {
+      "id": "ORG-314-19221027-age-transitions",
+      "ga": 314,
+      "lecture_date": "1922-10-27",
+      "source_url": "https://rsarchive.org/Lectures/GA314/English/MP1986/19221027p01.html",
+      "passage_cue": "§§6,14–15",
+      "organs": [
+        "teeth",
+        "voice",
+        "rhythmic system"
+      ],
+      "relationship_type": "age_transitions",
+      "paraphrase": "Second dentition, childhood and puberty are presented as shifting relations of nerve-sense, rhythmic and metabolic-limb systems.",
+      "evidence_status": "selected_passage_checked",
+      "full_lecture_audited": false,
+      "german_check": "pending",
+      "evidence_basis": "direct_statement_paraphrased",
+      "review_notes": "English lecture page inspected; no claim of full lecture completeness; esoteric/historical medical claim."
+    },
+    {
+      "id": "ORG-314-19221027-ear-system-integration",
+      "ga": 314,
+      "lecture_date": "1922-10-27",
+      "source_url": "https://rsarchive.org/Lectures/GA314/English/MP1986/19221027p01.html",
+      "passage_cue": "§24",
+      "organs": [
+        "ear",
+        "breathing",
+        "blood",
+        "metabolism"
+      ],
+      "relationship_type": "ear_system_integration",
+      "paraphrase": "He states that every organ, illustrated by the ear, involves four constituent organizations and the interplay of respiration, circulation and metabolism.",
+      "evidence_status": "selected_passage_checked",
+      "full_lecture_audited": false,
+      "german_check": "pending",
+      "evidence_basis": "direct_statement_paraphrased",
+      "review_notes": "English lecture page inspected; no claim of full lecture completeness; esoteric/historical medical claim."
+    },
+    {
+      "id": "ORG-314-19221027-tumor-historical-claim",
+      "ga": 314,
+      "lecture_date": "1922-10-27",
+      "source_url": "https://rsarchive.org/Lectures/GA314/English/MP1986/19221027p01.html",
+      "passage_cue": "§§24–25",
+      "organs": [
+        "ear",
+        "pylorus",
+        "breast",
+        "uterus"
+      ],
+      "relationship_type": "tumor_historical_claim",
+      "paraphrase": "He describes tumors as displaced sensory-organ attempts and discusses mistletoe and fever; historically attributed only, not cancer-care guidance.",
+      "evidence_status": "selected_passage_checked",
+      "full_lecture_audited": false,
+      "german_check": "pending",
+      "evidence_basis": "direct_statement_paraphrased",
+      "review_notes": "English lecture page inspected; no claim of full lecture completeness; esoteric/historical medical claim."
+    },
+    {
+      "id": "ORG-316-19240103-organization-polarity",
+      "ga": 316,
+      "lecture_date": "1924-01-03",
+      "source_url": "https://rsarchive.org/Medicine/YoungDoctors/19240103p01.html",
+      "passage_cue": "§§3–9",
+      "organs": [
+        "physical body",
+        "etheric body",
+        "astral body",
+        "I organization"
+      ],
+      "relationship_type": "organization_polarity",
+      "paraphrase": "He presents nourishing and growing processes as opposed by astral inhibition and I-organizational breakdown, associating restraint with consciousness.",
+      "evidence_status": "selected_passage_checked",
+      "full_lecture_audited": false,
+      "german_check": "pending",
+      "evidence_basis": "direct_statement_paraphrased",
+      "review_notes": "English lecture page inspected; no claim of full lecture completeness; esoteric/historical medical claim."
+    },
+    {
+      "id": "ORG-316-19240103-liver-external-enclave",
+      "ga": 316,
+      "lecture_date": "1924-01-03",
+      "source_url": "https://rsarchive.org/Medicine/YoungDoctors/19240103p01.html",
+      "passage_cue": "§§13–14",
+      "organs": [
+        "liver"
+      ],
+      "relationship_type": "liver_external_enclave",
+      "paraphrase": "He calls the liver an enclave of the outer world within the human organism, contrasting it with outward-facing senses.",
+      "evidence_status": "selected_passage_checked",
+      "full_lecture_audited": false,
+      "german_check": "pending",
+      "evidence_basis": "direct_statement_paraphrased",
+      "review_notes": "English lecture page inspected; no claim of full lecture completeness; esoteric/historical medical claim."
+    },
+    {
+      "id": "ORG-316-19240103-liver-material-sense",
+      "ga": 316,
+      "lecture_date": "1924-01-03",
+      "source_url": "https://rsarchive.org/Medicine/YoungDoctors/19240103p01.html",
+      "passage_cue": "§§14–16",
+      "organs": [
+        "liver",
+        "digestion"
+      ],
+      "relationship_type": "liver_material_sense",
+      "paraphrase": "The liver is characterized as an inner sense organ for determining the value of food substances, a spiritual analogy.",
+      "evidence_status": "selected_passage_checked",
+      "full_lecture_audited": false,
+      "german_check": "pending",
+      "evidence_basis": "direct_statement_paraphrased",
+      "review_notes": "English lecture page inspected; no claim of full lecture completeness; esoteric/historical medical claim."
+    },
+    {
+      "id": "ORG-316-19240103-heart-inner-sense",
+      "ga": 316,
+      "lecture_date": "1924-01-03",
+      "source_url": "https://rsarchive.org/Medicine/YoungDoctors/19240103p01.html",
+      "passage_cue": "§§15–16",
+      "organs": [
+        "heart",
+        "blood"
+      ],
+      "relationship_type": "heart_inner_sense",
+      "paraphrase": "The heart is called a sense organ for astral and I activities and circulation; he challenges the established pump account.",
+      "evidence_status": "selected_passage_checked",
+      "full_lecture_audited": false,
+      "german_check": "pending",
+      "evidence_basis": "direct_statement_paraphrased",
+      "review_notes": "English lecture page inspected; no claim of full lecture completeness; esoteric/historical medical claim."
+    },
+    {
+      "id": "ORG-316-19240103-organs-whole-context",
+      "ga": 316,
+      "lecture_date": "1924-01-03",
+      "source_url": "https://rsarchive.org/Medicine/YoungDoctors/19240103p01.html",
+      "passage_cue": "§16",
+      "organs": [
+        "heart",
+        "liver"
+      ],
+      "relationship_type": "organs_whole_context",
+      "paraphrase": "He argues that anatomical structures cannot be comprehended apart from an organ's relationship to the living whole.",
+      "evidence_status": "selected_passage_checked",
+      "full_lecture_audited": false,
+      "german_check": "pending",
+      "evidence_basis": "direct_statement_paraphrased",
+      "review_notes": "English lecture page inspected; no claim of full lecture completeness; esoteric/historical medical claim."
+    },
+    {
+      "id": "ORG-316-19240104-earth-cosmos-balance",
+      "ga": 316,
+      "lecture_date": "1924-01-04",
+      "source_url": "https://rsarchive.org/Lectures/YoungDoctors/19240104a01.html",
+      "passage_cue": "§3",
+      "organs": [
+        "all organs"
+      ],
+      "relationship_type": "earth_cosmos_balance",
+      "paraphrase": "Each organ is said to express an interaction of earthly material forces and cosmic peripheral influences.",
+      "evidence_status": "selected_passage_checked",
+      "full_lecture_audited": false,
+      "german_check": "pending",
+      "evidence_basis": "direct_statement_paraphrased",
+      "review_notes": "English lecture page inspected; no claim of full lecture completeness; esoteric/historical medical claim."
+    },
+    {
+      "id": "ORG-316-19240104-brain-buoyancy",
+      "ga": 316,
+      "lecture_date": "1924-01-04",
+      "source_url": "https://rsarchive.org/Lectures/YoungDoctors/19240104a01.html",
+      "passage_cue": "§§4–6",
+      "organs": [
+        "brain",
+        "cerebrospinal fluid"
+      ],
+      "relationship_type": "brain_buoyancy",
+      "paraphrase": "Steiner uses buoyancy of the brain in fluid to illustrate alleged relative freedom of head structure from earthly heaviness.",
+      "evidence_status": "selected_passage_checked",
+      "full_lecture_audited": false,
+      "german_check": "pending",
+      "evidence_basis": "direct_statement_paraphrased",
+      "review_notes": "English lecture page inspected; no claim of full lecture completeness; esoteric/historical medical claim."
+    },
+    {
+      "id": "ORG-316-19240104-bones-cosmic-earth",
+      "ga": 316,
+      "lecture_date": "1924-01-04",
+      "source_url": "https://rsarchive.org/Lectures/YoungDoctors/19240104a01.html",
+      "passage_cue": "§7",
+      "organs": [
+        "skull",
+        "ribs",
+        "vertebrae",
+        "long bones"
+      ],
+      "relationship_type": "bones_cosmic_earth",
+      "paraphrase": "He assigns a largely cosmic form to the skull, earthly form to limb long bones and a mediating position to ribs and vertebrae.",
+      "evidence_status": "selected_passage_checked",
+      "full_lecture_audited": false,
+      "german_check": "pending",
+      "evidence_basis": "direct_statement_paraphrased",
+      "review_notes": "English lecture page inspected; no claim of full lecture completeness; esoteric/historical medical claim."
+    },
+    {
+      "id": "ORG-316-19240104-bone-substances-process",
+      "ga": 316,
+      "lecture_date": "1924-01-04",
+      "source_url": "https://rsarchive.org/Lectures/YoungDoctors/19240104a01.html",
+      "passage_cue": "§§9–10",
+      "organs": [
+        "femur",
+        "bones",
+        "teeth"
+      ],
+      "relationship_type": "bone_substances_process",
+      "paraphrase": "Calcium carbonate and phosphate are discussed in shaft and femoral head; he stresses active building and breakdown rather than mere presence.",
+      "evidence_status": "selected_passage_checked",
+      "full_lecture_audited": false,
+      "german_check": "pending",
+      "evidence_basis": "direct_statement_paraphrased",
+      "review_notes": "English lecture page inspected; no claim of full lecture completeness; esoteric/historical medical claim."
+    },
+    {
+      "id": "ORG-316-19240104-metals-cosmic-age",
+      "ga": 316,
+      "lecture_date": "1924-01-04",
+      "source_url": "https://rsarchive.org/Lectures/YoungDoctors/19240104a01.html",
+      "passage_cue": "§§11–13",
+      "organs": [
+        "blood",
+        "head"
+      ],
+      "relationship_type": "metals_cosmic_age",
+      "paraphrase": "Iron, magnesium and elimination of lead are situated in an account of cosmic evolution and the organism; not medical guidance.",
+      "evidence_status": "selected_passage_checked",
+      "full_lecture_audited": false,
+      "german_check": "pending",
+      "evidence_basis": "direct_statement_paraphrased",
+      "review_notes": "English lecture page inspected; no claim of full lecture completeness; esoteric/historical medical claim."
+    },
+    {
+      "id": "ORG-316-19240107-bones-cosmic-thought",
+      "ga": 316,
+      "lecture_date": "1924-01-07",
+      "source_url": "https://rsarchive.org/Lectures/YoungDoctors/19240107p01.html",
+      "passage_cue": "§§4–5",
+      "organs": [
+        "skeleton",
+        "inner organs"
+      ],
+      "relationship_type": "bones_cosmic_thought",
+      "paraphrase": "He attributes the definite outlines of bone and other organs to a formative activity of cosmic thought.",
+      "evidence_status": "selected_passage_checked",
+      "full_lecture_audited": false,
+      "german_check": "pending",
+      "evidence_basis": "direct_statement_paraphrased",
+      "review_notes": "English lecture page inspected; no claim of full lecture completeness; esoteric/historical medical claim."
+    },
+    {
+      "id": "ORG-316-19240107-muscles-fluid-imagination",
+      "ga": 316,
+      "lecture_date": "1924-01-07",
+      "source_url": "https://rsarchive.org/Lectures/YoungDoctors/19240107p01.html",
+      "passage_cue": "§§5–6",
+      "organs": [
+        "muscles",
+        "blood",
+        "bones"
+      ],
+      "relationship_type": "muscles_fluid_imagination",
+      "paraphrase": "Muscular organization is connected with fluid metamorphosis, accessible in his scheme through imaginative cognition.",
+      "evidence_status": "selected_passage_checked",
+      "full_lecture_audited": false,
+      "german_check": "pending",
+      "evidence_basis": "direct_statement_paraphrased",
+      "review_notes": "English lecture page inspected; no claim of full lecture completeness; esoteric/historical medical claim."
+    },
+    {
+      "id": "ORG-316-19240107-inner-organs-air-sound",
+      "ga": 316,
+      "lecture_date": "1924-01-07",
+      "source_url": "https://rsarchive.org/Lectures/YoungDoctors/19240107p01.html",
+      "passage_cue": "§7",
+      "organs": [
+        "lungs",
+        "liver",
+        "inner organs"
+      ],
+      "relationship_type": "inner_organs_air_sound",
+      "paraphrase": "He says air and sound-like formative activity shapes inner organs, with the lungs directly related to breathing forces.",
+      "evidence_status": "selected_passage_checked",
+      "full_lecture_audited": false,
+      "german_check": "pending",
+      "evidence_basis": "direct_statement_paraphrased",
+      "review_notes": "English lecture page inspected; no claim of full lecture completeness; esoteric/historical medical claim."
+    },
+    {
+      "id": "ORG-316-19240107-hearing-whole-body",
+      "ga": 316,
+      "lecture_date": "1924-01-07",
+      "source_url": "https://rsarchive.org/Lectures/YoungDoctors/19240107p01.html",
+      "passage_cue": "§8",
+      "organs": [
+        "ears",
+        "inner organs"
+      ],
+      "relationship_type": "hearing_whole_body",
+      "paraphrase": "He treats the whole organism as resonant during hearing and the ear as the organ bringing that experience into consciousness.",
+      "evidence_status": "selected_passage_checked",
+      "full_lecture_audited": false,
+      "german_check": "pending",
+      "evidence_basis": "direct_statement_paraphrased",
+      "review_notes": "English lecture page inspected; no claim of full lecture completeness; esoteric/historical medical claim."
+    },
+    {
+      "id": "ORG-316-19240107-beings-by-tissue-level",
+      "ga": 316,
+      "lecture_date": "1924-01-07",
+      "source_url": "https://rsarchive.org/Lectures/YoungDoctors/19240107p01.html",
+      "passage_cue": "§§9–10",
+      "organs": [
+        "skeleton",
+        "muscles",
+        "inner organs"
+      ],
+      "relationship_type": "beings_by_tissue_level",
+      "paraphrase": "He distinguishes elementary beings working in bone, higher beings in muscle, and still higher beings in internal-organ formation.",
+      "evidence_status": "selected_passage_checked",
+      "full_lecture_audited": false,
+      "german_check": "pending",
+      "evidence_basis": "direct_statement_paraphrased",
+      "review_notes": "English lecture page inspected; no claim of full lecture completeness; esoteric/historical medical claim."
+    },
+    {
+      "id": "ORG-316-19240107-four-levels-of-cognition",
+      "ga": 316,
+      "lecture_date": "1924-01-07",
+      "source_url": "https://rsarchive.org/Lectures/YoungDoctors/19240107p01.html",
+      "passage_cue": "§§9–16",
+      "organs": [
+        "skeleton",
+        "muscles",
+        "inner organs",
+        "organ activity"
+      ],
+      "relationship_type": "four_levels_of_cognition",
+      "paraphrase": "He contrasts thinking, imagination, inspiration and intuition, the last linked to differentiated warmth and organ activity.",
+      "evidence_status": "selected_passage_checked",
+      "full_lecture_audited": false,
+      "german_check": "pending",
+      "evidence_basis": "direct_statement_paraphrased",
+      "review_notes": "English lecture page inspected; no claim of full lecture completeness; esoteric/historical medical claim."
+    },
+    {
+      "id": "ORG-316-19240107-etheric-physical-correspondence",
+      "ga": 316,
+      "lecture_date": "1924-01-07",
+      "source_url": "https://rsarchive.org/Lectures/YoungDoctors/19240107p01.html",
+      "passage_cue": "§16",
+      "organs": [
+        "solid",
+        "fluid",
+        "air",
+        "warmth"
+      ],
+      "relationship_type": "etheric_physical_correspondence",
+      "paraphrase": "A reversal aligns earth/water/air/warmth states with life/chemical/light/warmth ether in his cosmology.",
+      "evidence_status": "selected_passage_checked",
+      "full_lecture_audited": false,
+      "german_check": "pending",
+      "evidence_basis": "direct_statement_paraphrased",
+      "review_notes": "English lecture page inspected; no claim of full lecture completeness; esoteric/historical medical claim."
+    }
+  ]
+}
