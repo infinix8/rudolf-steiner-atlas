@@ -47,6 +47,10 @@ for src in data.get("sources", []):
         errors.append("must not suggest entire work was checked: " + str(sid))
     if not review.get("scope"):
         errors.append("missing passage audit scope: " + str(sid))
+    if review.get("archive_url_checked") is not True or not review.get("archive_page_opened_on"):
+        errors.append("missing source-site opening audit: " + str(sid))
+    if review.get("full_translation_collation") is not False:
+        errors.append("do not imply full translations were compared: " + str(sid))
 
 ids = set()
 allowed_statuses = {"selected_passage_checked", "editorial_comparison_with_checked_passages"}
