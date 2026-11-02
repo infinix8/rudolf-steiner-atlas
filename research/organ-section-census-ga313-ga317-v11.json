@@ -1,0 +1,1736 @@
+{
+  "schema_version": "0.3",
+  "date": "2026-11-02",
+  "corpus": "GA313 I–III; GA317 II–IV",
+  "total_numbered_sections": 164,
+  "purpose": "Numbered-section census and targeted source review tracking. Census DOES NOT imply every paragraph was read. This is an overlay over v8 selection to prioritize full audits.",
+  "scope": "English Steiner Online Library pages; original German uncollated",
+  "lectures": [
+    {
+      "ga": 313,
+      "date": "1921-04-11",
+      "title": "Spiritual-Scientific Perspectives on Therapy — I",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210411.html",
+      "numbered_english_sections": 21,
+      "selected_sections_with_review": 21,
+      "number_located_only": 0,
+      "whole_lecture_audited": false,
+      "german_collated": false,
+      "english_numbered_sections_fully_reviewed": true,
+      "audit_record": "research/organ-paragraph-review-ga313-i-ii-v10.json"
+    },
+    {
+      "ga": 313,
+      "date": "1921-04-12",
+      "title": "Spiritual-Scientific Perspectives on Therapy — II",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210412.html",
+      "numbered_english_sections": 30,
+      "selected_sections_with_review": 30,
+      "number_located_only": 0,
+      "whole_lecture_audited": false,
+      "german_collated": false,
+      "english_numbered_sections_fully_reviewed": true,
+      "audit_record": "research/organ-paragraph-review-ga313-i-ii-v10.json"
+    },
+    {
+      "ga": 313,
+      "date": "1921-04-13",
+      "title": "Spiritual-Scientific Perspectives on Therapy — III",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210413.html",
+      "numbered_english_sections": 20,
+      "selected_sections_with_review": 20,
+      "number_located_only": 0,
+      "whole_lecture_audited": false,
+      "german_collated": false,
+      "english_numbered_sections_fully_reviewed": true,
+      "audit_record": "research/organ-paragraph-review-ga313-iii-ga317-ii-v11.json"
+    },
+    {
+      "ga": 317,
+      "date": "1924-06-26",
+      "title": "Remedial Education Course — II",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "numbered_english_sections": 33,
+      "selected_sections_with_review": 33,
+      "number_located_only": 0,
+      "whole_lecture_audited": false,
+      "german_collated": false,
+      "english_numbered_sections_fully_reviewed": true,
+      "audit_record": "research/organ-paragraph-review-ga313-iii-ga317-ii-v11.json"
+    },
+    {
+      "ga": 317,
+      "date": "1924-06-27",
+      "title": "Remedial Education Course — III",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "numbered_english_sections": 26,
+      "selected_sections_with_review": 14,
+      "number_located_only": 12,
+      "whole_lecture_audited": false,
+      "german_collated": false
+    },
+    {
+      "ga": 317,
+      "date": "1924-06-28",
+      "title": "Remedial Education Course — IV",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "numbered_english_sections": 34,
+      "selected_sections_with_review": 15,
+      "number_located_only": 19,
+      "whole_lecture_audited": false,
+      "german_collated": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "SC-V9-GA313-19210411-P01",
+      "ga": 313,
+      "date": "1921-04-11",
+      "paragraph": 1,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210411.html",
+      "review_state": "whole_numbered_english_section_reviewed_v10",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210411-P02",
+      "ga": 313,
+      "date": "1921-04-11",
+      "paragraph": 2,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210411.html",
+      "review_state": "whole_numbered_english_section_reviewed_v10",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210411-P03",
+      "ga": 313,
+      "date": "1921-04-11",
+      "paragraph": 3,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210411.html",
+      "review_state": "whole_numbered_english_section_reviewed_v10",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210411-P04",
+      "ga": 313,
+      "date": "1921-04-11",
+      "paragraph": 4,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210411.html",
+      "review_state": "whole_numbered_english_section_reviewed_v10",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210411-P05",
+      "ga": 313,
+      "date": "1921-04-11",
+      "paragraph": 5,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210411.html",
+      "review_state": "whole_numbered_english_section_reviewed_v10",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210411-P06",
+      "ga": 313,
+      "date": "1921-04-11",
+      "paragraph": 6,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210411.html",
+      "review_state": "whole_numbered_english_section_reviewed_v10",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210411-P07",
+      "ga": 313,
+      "date": "1921-04-11",
+      "paragraph": 7,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210411.html",
+      "review_state": "whole_numbered_english_section_reviewed_v10",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210411-P08",
+      "ga": 313,
+      "date": "1921-04-11",
+      "paragraph": 8,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210411.html",
+      "review_state": "whole_numbered_english_section_reviewed_v10",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210411-P09",
+      "ga": 313,
+      "date": "1921-04-11",
+      "paragraph": 9,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210411.html",
+      "review_state": "whole_numbered_english_section_reviewed_v10",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210411-P10",
+      "ga": 313,
+      "date": "1921-04-11",
+      "paragraph": 10,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210411.html",
+      "review_state": "whole_numbered_english_section_reviewed_v10",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210411-P11",
+      "ga": 313,
+      "date": "1921-04-11",
+      "paragraph": 11,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210411.html",
+      "review_state": "whole_numbered_english_section_reviewed_v10",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210411-P12",
+      "ga": 313,
+      "date": "1921-04-11",
+      "paragraph": 12,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210411.html",
+      "review_state": "whole_numbered_english_section_reviewed_v10",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210411-P13",
+      "ga": 313,
+      "date": "1921-04-11",
+      "paragraph": 13,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210411.html",
+      "review_state": "whole_numbered_english_section_reviewed_v10",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210411-P14",
+      "ga": 313,
+      "date": "1921-04-11",
+      "paragraph": 14,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210411.html",
+      "review_state": "whole_numbered_english_section_reviewed_v10",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210411-P15",
+      "ga": 313,
+      "date": "1921-04-11",
+      "paragraph": 15,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210411.html",
+      "review_state": "whole_numbered_english_section_reviewed_v10",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210411-P16",
+      "ga": 313,
+      "date": "1921-04-11",
+      "paragraph": 16,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210411.html",
+      "review_state": "whole_numbered_english_section_reviewed_v10",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210411-P17",
+      "ga": 313,
+      "date": "1921-04-11",
+      "paragraph": 17,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210411.html",
+      "review_state": "whole_numbered_english_section_reviewed_v10",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210411-P18",
+      "ga": 313,
+      "date": "1921-04-11",
+      "paragraph": 18,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210411.html",
+      "review_state": "whole_numbered_english_section_reviewed_v10",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210411-P19",
+      "ga": 313,
+      "date": "1921-04-11",
+      "paragraph": 19,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210411.html",
+      "review_state": "whole_numbered_english_section_reviewed_v10",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210411-P20",
+      "ga": 313,
+      "date": "1921-04-11",
+      "paragraph": 20,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210411.html",
+      "review_state": "whole_numbered_english_section_reviewed_v10",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210411-P21",
+      "ga": 313,
+      "date": "1921-04-11",
+      "paragraph": 21,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210411.html",
+      "review_state": "whole_numbered_english_section_reviewed_v10",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210412-P01",
+      "ga": 313,
+      "date": "1921-04-12",
+      "paragraph": 1,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210412.html",
+      "review_state": "whole_numbered_english_section_reviewed_v10",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210412-P02",
+      "ga": 313,
+      "date": "1921-04-12",
+      "paragraph": 2,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210412.html",
+      "review_state": "whole_numbered_english_section_reviewed_v10",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210412-P03",
+      "ga": 313,
+      "date": "1921-04-12",
+      "paragraph": 3,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210412.html",
+      "review_state": "whole_numbered_english_section_reviewed_v10",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210412-P04",
+      "ga": 313,
+      "date": "1921-04-12",
+      "paragraph": 4,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210412.html",
+      "review_state": "whole_numbered_english_section_reviewed_v10",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210412-P05",
+      "ga": 313,
+      "date": "1921-04-12",
+      "paragraph": 5,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210412.html",
+      "review_state": "whole_numbered_english_section_reviewed_v10",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210412-P06",
+      "ga": 313,
+      "date": "1921-04-12",
+      "paragraph": 6,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210412.html",
+      "review_state": "whole_numbered_english_section_reviewed_v10",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210412-P07",
+      "ga": 313,
+      "date": "1921-04-12",
+      "paragraph": 7,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210412.html",
+      "review_state": "whole_numbered_english_section_reviewed_v10",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210412-P08",
+      "ga": 313,
+      "date": "1921-04-12",
+      "paragraph": 8,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210412.html",
+      "review_state": "whole_numbered_english_section_reviewed_v10",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210412-P09",
+      "ga": 313,
+      "date": "1921-04-12",
+      "paragraph": 9,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210412.html",
+      "review_state": "whole_numbered_english_section_reviewed_v10",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210412-P10",
+      "ga": 313,
+      "date": "1921-04-12",
+      "paragraph": 10,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210412.html",
+      "review_state": "whole_numbered_english_section_reviewed_v10",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210412-P11",
+      "ga": 313,
+      "date": "1921-04-12",
+      "paragraph": 11,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210412.html",
+      "review_state": "whole_numbered_english_section_reviewed_v10",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210412-P12",
+      "ga": 313,
+      "date": "1921-04-12",
+      "paragraph": 12,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210412.html",
+      "review_state": "whole_numbered_english_section_reviewed_v10",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210412-P13",
+      "ga": 313,
+      "date": "1921-04-12",
+      "paragraph": 13,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210412.html",
+      "review_state": "whole_numbered_english_section_reviewed_v10",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210412-P14",
+      "ga": 313,
+      "date": "1921-04-12",
+      "paragraph": 14,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210412.html",
+      "review_state": "whole_numbered_english_section_reviewed_v10",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210412-P15",
+      "ga": 313,
+      "date": "1921-04-12",
+      "paragraph": 15,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210412.html",
+      "review_state": "whole_numbered_english_section_reviewed_v10",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210412-P16",
+      "ga": 313,
+      "date": "1921-04-12",
+      "paragraph": 16,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210412.html",
+      "review_state": "whole_numbered_english_section_reviewed_v10",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210412-P17",
+      "ga": 313,
+      "date": "1921-04-12",
+      "paragraph": 17,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210412.html",
+      "review_state": "whole_numbered_english_section_reviewed_v10",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210412-P18",
+      "ga": 313,
+      "date": "1921-04-12",
+      "paragraph": 18,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210412.html",
+      "review_state": "whole_numbered_english_section_reviewed_v10",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210412-P19",
+      "ga": 313,
+      "date": "1921-04-12",
+      "paragraph": 19,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210412.html",
+      "review_state": "whole_numbered_english_section_reviewed_v10",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210412-P20",
+      "ga": 313,
+      "date": "1921-04-12",
+      "paragraph": 20,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210412.html",
+      "review_state": "whole_numbered_english_section_reviewed_v10",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210412-P21",
+      "ga": 313,
+      "date": "1921-04-12",
+      "paragraph": 21,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210412.html",
+      "review_state": "whole_numbered_english_section_reviewed_v10",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210412-P22",
+      "ga": 313,
+      "date": "1921-04-12",
+      "paragraph": 22,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210412.html",
+      "review_state": "whole_numbered_english_section_reviewed_v10",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210412-P23",
+      "ga": 313,
+      "date": "1921-04-12",
+      "paragraph": 23,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210412.html",
+      "review_state": "whole_numbered_english_section_reviewed_v10",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210412-P24",
+      "ga": 313,
+      "date": "1921-04-12",
+      "paragraph": 24,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210412.html",
+      "review_state": "whole_numbered_english_section_reviewed_v10",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210412-P25",
+      "ga": 313,
+      "date": "1921-04-12",
+      "paragraph": 25,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210412.html",
+      "review_state": "whole_numbered_english_section_reviewed_v10",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210412-P26",
+      "ga": 313,
+      "date": "1921-04-12",
+      "paragraph": 26,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210412.html",
+      "review_state": "whole_numbered_english_section_reviewed_v10",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210412-P27",
+      "ga": 313,
+      "date": "1921-04-12",
+      "paragraph": 27,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210412.html",
+      "review_state": "whole_numbered_english_section_reviewed_v10",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210412-P28",
+      "ga": 313,
+      "date": "1921-04-12",
+      "paragraph": 28,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210412.html",
+      "review_state": "whole_numbered_english_section_reviewed_v10",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210412-P29",
+      "ga": 313,
+      "date": "1921-04-12",
+      "paragraph": 29,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210412.html",
+      "review_state": "whole_numbered_english_section_reviewed_v10",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210412-P30",
+      "ga": 313,
+      "date": "1921-04-12",
+      "paragraph": 30,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210412.html",
+      "review_state": "whole_numbered_english_section_reviewed_v10",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210413-P01",
+      "ga": 313,
+      "date": "1921-04-13",
+      "paragraph": 1,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210413.html",
+      "review_state": "whole_numbered_english_section_reviewed_v11",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210413-P02",
+      "ga": 313,
+      "date": "1921-04-13",
+      "paragraph": 2,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210413.html",
+      "review_state": "whole_numbered_english_section_reviewed_v11",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210413-P03",
+      "ga": 313,
+      "date": "1921-04-13",
+      "paragraph": 3,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210413.html",
+      "review_state": "whole_numbered_english_section_reviewed_v11",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210413-P04",
+      "ga": 313,
+      "date": "1921-04-13",
+      "paragraph": 4,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210413.html",
+      "review_state": "whole_numbered_english_section_reviewed_v11",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210413-P05",
+      "ga": 313,
+      "date": "1921-04-13",
+      "paragraph": 5,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210413.html",
+      "review_state": "whole_numbered_english_section_reviewed_v11",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210413-P06",
+      "ga": 313,
+      "date": "1921-04-13",
+      "paragraph": 6,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210413.html",
+      "review_state": "whole_numbered_english_section_reviewed_v11",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210413-P07",
+      "ga": 313,
+      "date": "1921-04-13",
+      "paragraph": 7,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210413.html",
+      "review_state": "whole_numbered_english_section_reviewed_v11",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210413-P08",
+      "ga": 313,
+      "date": "1921-04-13",
+      "paragraph": 8,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210413.html",
+      "review_state": "whole_numbered_english_section_reviewed_v11",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210413-P09",
+      "ga": 313,
+      "date": "1921-04-13",
+      "paragraph": 9,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210413.html",
+      "review_state": "whole_numbered_english_section_reviewed_v11",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210413-P10",
+      "ga": 313,
+      "date": "1921-04-13",
+      "paragraph": 10,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210413.html",
+      "review_state": "whole_numbered_english_section_reviewed_v11",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210413-P11",
+      "ga": 313,
+      "date": "1921-04-13",
+      "paragraph": 11,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210413.html",
+      "review_state": "whole_numbered_english_section_reviewed_v11",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210413-P12",
+      "ga": 313,
+      "date": "1921-04-13",
+      "paragraph": 12,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210413.html",
+      "review_state": "whole_numbered_english_section_reviewed_v11",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210413-P13",
+      "ga": 313,
+      "date": "1921-04-13",
+      "paragraph": 13,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210413.html",
+      "review_state": "whole_numbered_english_section_reviewed_v11",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210413-P14",
+      "ga": 313,
+      "date": "1921-04-13",
+      "paragraph": 14,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210413.html",
+      "review_state": "whole_numbered_english_section_reviewed_v11",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210413-P15",
+      "ga": 313,
+      "date": "1921-04-13",
+      "paragraph": 15,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210413.html",
+      "review_state": "whole_numbered_english_section_reviewed_v11",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210413-P16",
+      "ga": 313,
+      "date": "1921-04-13",
+      "paragraph": 16,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210413.html",
+      "review_state": "whole_numbered_english_section_reviewed_v11",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210413-P17",
+      "ga": 313,
+      "date": "1921-04-13",
+      "paragraph": 17,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210413.html",
+      "review_state": "whole_numbered_english_section_reviewed_v11",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210413-P18",
+      "ga": 313,
+      "date": "1921-04-13",
+      "paragraph": 18,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210413.html",
+      "review_state": "whole_numbered_english_section_reviewed_v11",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210413-P19",
+      "ga": 313,
+      "date": "1921-04-13",
+      "paragraph": 19,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210413.html",
+      "review_state": "whole_numbered_english_section_reviewed_v11",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA313-19210413-P20",
+      "ga": 313,
+      "date": "1921-04-13",
+      "paragraph": 20,
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210413.html",
+      "review_state": "whole_numbered_english_section_reviewed_v11",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240626-P01",
+      "ga": 317,
+      "date": "1924-06-26",
+      "paragraph": 1,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "review_state": "whole_numbered_english_section_reviewed_v11",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240626-P02",
+      "ga": 317,
+      "date": "1924-06-26",
+      "paragraph": 2,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "review_state": "whole_numbered_english_section_reviewed_v11",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240626-P03",
+      "ga": 317,
+      "date": "1924-06-26",
+      "paragraph": 3,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "review_state": "whole_numbered_english_section_reviewed_v11",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240626-P04",
+      "ga": 317,
+      "date": "1924-06-26",
+      "paragraph": 4,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "review_state": "whole_numbered_english_section_reviewed_v11",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240626-P05",
+      "ga": 317,
+      "date": "1924-06-26",
+      "paragraph": 5,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "review_state": "whole_numbered_english_section_reviewed_v11",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240626-P06",
+      "ga": 317,
+      "date": "1924-06-26",
+      "paragraph": 6,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "review_state": "whole_numbered_english_section_reviewed_v11",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240626-P07",
+      "ga": 317,
+      "date": "1924-06-26",
+      "paragraph": 7,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "review_state": "whole_numbered_english_section_reviewed_v11",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240626-P08",
+      "ga": 317,
+      "date": "1924-06-26",
+      "paragraph": 8,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "review_state": "whole_numbered_english_section_reviewed_v11",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240626-P09",
+      "ga": 317,
+      "date": "1924-06-26",
+      "paragraph": 9,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "review_state": "whole_numbered_english_section_reviewed_v11",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240626-P10",
+      "ga": 317,
+      "date": "1924-06-26",
+      "paragraph": 10,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "review_state": "whole_numbered_english_section_reviewed_v11",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240626-P11",
+      "ga": 317,
+      "date": "1924-06-26",
+      "paragraph": 11,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "review_state": "whole_numbered_english_section_reviewed_v11",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240626-P12",
+      "ga": 317,
+      "date": "1924-06-26",
+      "paragraph": 12,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "review_state": "whole_numbered_english_section_reviewed_v11",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240626-P13",
+      "ga": 317,
+      "date": "1924-06-26",
+      "paragraph": 13,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "review_state": "whole_numbered_english_section_reviewed_v11",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240626-P14",
+      "ga": 317,
+      "date": "1924-06-26",
+      "paragraph": 14,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "review_state": "whole_numbered_english_section_reviewed_v11",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240626-P15",
+      "ga": 317,
+      "date": "1924-06-26",
+      "paragraph": 15,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "review_state": "whole_numbered_english_section_reviewed_v11",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240626-P16",
+      "ga": 317,
+      "date": "1924-06-26",
+      "paragraph": 16,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "review_state": "whole_numbered_english_section_reviewed_v11",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240626-P17",
+      "ga": 317,
+      "date": "1924-06-26",
+      "paragraph": 17,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "review_state": "whole_numbered_english_section_reviewed_v11",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240626-P18",
+      "ga": 317,
+      "date": "1924-06-26",
+      "paragraph": 18,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "review_state": "whole_numbered_english_section_reviewed_v11",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240626-P19",
+      "ga": 317,
+      "date": "1924-06-26",
+      "paragraph": 19,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "review_state": "whole_numbered_english_section_reviewed_v11",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240626-P20",
+      "ga": 317,
+      "date": "1924-06-26",
+      "paragraph": 20,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "review_state": "whole_numbered_english_section_reviewed_v11",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240626-P21",
+      "ga": 317,
+      "date": "1924-06-26",
+      "paragraph": 21,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "review_state": "whole_numbered_english_section_reviewed_v11",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240626-P22",
+      "ga": 317,
+      "date": "1924-06-26",
+      "paragraph": 22,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "review_state": "whole_numbered_english_section_reviewed_v11",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240626-P23",
+      "ga": 317,
+      "date": "1924-06-26",
+      "paragraph": 23,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "review_state": "whole_numbered_english_section_reviewed_v11",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240626-P24",
+      "ga": 317,
+      "date": "1924-06-26",
+      "paragraph": 24,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "review_state": "whole_numbered_english_section_reviewed_v11",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240626-P25",
+      "ga": 317,
+      "date": "1924-06-26",
+      "paragraph": 25,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "review_state": "whole_numbered_english_section_reviewed_v11",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240626-P26",
+      "ga": 317,
+      "date": "1924-06-26",
+      "paragraph": 26,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "review_state": "whole_numbered_english_section_reviewed_v11",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240626-P27",
+      "ga": 317,
+      "date": "1924-06-26",
+      "paragraph": 27,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "review_state": "whole_numbered_english_section_reviewed_v11",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240626-P28",
+      "ga": 317,
+      "date": "1924-06-26",
+      "paragraph": 28,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "review_state": "whole_numbered_english_section_reviewed_v11",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240626-P29",
+      "ga": 317,
+      "date": "1924-06-26",
+      "paragraph": 29,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "review_state": "whole_numbered_english_section_reviewed_v11",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240626-P30",
+      "ga": 317,
+      "date": "1924-06-26",
+      "paragraph": 30,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "review_state": "whole_numbered_english_section_reviewed_v11",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240626-P31",
+      "ga": 317,
+      "date": "1924-06-26",
+      "paragraph": 31,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "review_state": "whole_numbered_english_section_reviewed_v11",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240626-P32",
+      "ga": 317,
+      "date": "1924-06-26",
+      "paragraph": 32,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "review_state": "whole_numbered_english_section_reviewed_v11",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240626-P33",
+      "ga": 317,
+      "date": "1924-06-26",
+      "paragraph": 33,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "review_state": "whole_numbered_english_section_reviewed_v11",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240627-P01",
+      "ga": 317,
+      "date": "1924-06-27",
+      "paragraph": 1,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "review_state": "number_located_only",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240627-P02",
+      "ga": 317,
+      "date": "1924-06-27",
+      "paragraph": 2,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "review_state": "number_located_only",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240627-P03",
+      "ga": 317,
+      "date": "1924-06-27",
+      "paragraph": 3,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "review_state": "number_located_only",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240627-P04",
+      "ga": 317,
+      "date": "1924-06-27",
+      "paragraph": 4,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "review_state": "selected_passage_checked_v9",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240627-P05",
+      "ga": 317,
+      "date": "1924-06-27",
+      "paragraph": 5,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "review_state": "selected_passage_checked_v9",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240627-P06",
+      "ga": 317,
+      "date": "1924-06-27",
+      "paragraph": 6,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "review_state": "selected_passage_checked_v8",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240627-P07",
+      "ga": 317,
+      "date": "1924-06-27",
+      "paragraph": 7,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "review_state": "selected_passage_checked_v8_and_v9",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240627-P08",
+      "ga": 317,
+      "date": "1924-06-27",
+      "paragraph": 8,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "review_state": "selected_passage_checked_v9",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240627-P09",
+      "ga": 317,
+      "date": "1924-06-27",
+      "paragraph": 9,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "review_state": "selected_passage_checked_v8_and_v9",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240627-P10",
+      "ga": 317,
+      "date": "1924-06-27",
+      "paragraph": 10,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "review_state": "number_located_only",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240627-P11",
+      "ga": 317,
+      "date": "1924-06-27",
+      "paragraph": 11,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "review_state": "selected_passage_checked_v8_and_v9",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240627-P12",
+      "ga": 317,
+      "date": "1924-06-27",
+      "paragraph": 12,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "review_state": "selected_passage_checked_v8_and_v9",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240627-P13",
+      "ga": 317,
+      "date": "1924-06-27",
+      "paragraph": 13,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "review_state": "selected_passage_checked_v8_and_v9",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240627-P14",
+      "ga": 317,
+      "date": "1924-06-27",
+      "paragraph": 14,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "review_state": "selected_passage_checked_v9",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240627-P15",
+      "ga": 317,
+      "date": "1924-06-27",
+      "paragraph": 15,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "review_state": "number_located_only",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240627-P16",
+      "ga": 317,
+      "date": "1924-06-27",
+      "paragraph": 16,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "review_state": "number_located_only",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240627-P17",
+      "ga": 317,
+      "date": "1924-06-27",
+      "paragraph": 17,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "review_state": "number_located_only",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240627-P18",
+      "ga": 317,
+      "date": "1924-06-27",
+      "paragraph": 18,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "review_state": "number_located_only",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240627-P19",
+      "ga": 317,
+      "date": "1924-06-27",
+      "paragraph": 19,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "review_state": "number_located_only",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240627-P20",
+      "ga": 317,
+      "date": "1924-06-27",
+      "paragraph": 20,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "review_state": "selected_passage_checked_v9",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240627-P21",
+      "ga": 317,
+      "date": "1924-06-27",
+      "paragraph": 21,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "review_state": "number_located_only",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240627-P22",
+      "ga": 317,
+      "date": "1924-06-27",
+      "paragraph": 22,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "review_state": "selected_passage_checked_v9",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240627-P23",
+      "ga": 317,
+      "date": "1924-06-27",
+      "paragraph": 23,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "review_state": "number_located_only",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240627-P24",
+      "ga": 317,
+      "date": "1924-06-27",
+      "paragraph": 24,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "review_state": "selected_passage_checked_v9",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240627-P25",
+      "ga": 317,
+      "date": "1924-06-27",
+      "paragraph": 25,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "review_state": "number_located_only",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240627-P26",
+      "ga": 317,
+      "date": "1924-06-27",
+      "paragraph": 26,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "review_state": "selected_passage_checked_v9",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240628-P01",
+      "ga": 317,
+      "date": "1924-06-28",
+      "paragraph": 1,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "review_state": "number_located_only",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240628-P02",
+      "ga": 317,
+      "date": "1924-06-28",
+      "paragraph": 2,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "review_state": "number_located_only",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240628-P03",
+      "ga": 317,
+      "date": "1924-06-28",
+      "paragraph": 3,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "review_state": "selected_passage_checked_v9",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240628-P04",
+      "ga": 317,
+      "date": "1924-06-28",
+      "paragraph": 4,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "review_state": "number_located_only",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240628-P05",
+      "ga": 317,
+      "date": "1924-06-28",
+      "paragraph": 5,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "review_state": "selected_passage_checked_v8_and_v9",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240628-P06",
+      "ga": 317,
+      "date": "1924-06-28",
+      "paragraph": 6,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "review_state": "selected_passage_checked_v9",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240628-P07",
+      "ga": 317,
+      "date": "1924-06-28",
+      "paragraph": 7,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "review_state": "selected_passage_checked_v8_and_v9",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240628-P08",
+      "ga": 317,
+      "date": "1924-06-28",
+      "paragraph": 8,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "review_state": "number_located_only",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240628-P09",
+      "ga": 317,
+      "date": "1924-06-28",
+      "paragraph": 9,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "review_state": "selected_passage_checked_v9",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240628-P10",
+      "ga": 317,
+      "date": "1924-06-28",
+      "paragraph": 10,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "review_state": "selected_passage_checked_v9",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240628-P11",
+      "ga": 317,
+      "date": "1924-06-28",
+      "paragraph": 11,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "review_state": "selected_passage_checked_v9",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240628-P12",
+      "ga": 317,
+      "date": "1924-06-28",
+      "paragraph": 12,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "review_state": "selected_passage_checked_v9",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240628-P13",
+      "ga": 317,
+      "date": "1924-06-28",
+      "paragraph": 13,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "review_state": "number_located_only",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240628-P14",
+      "ga": 317,
+      "date": "1924-06-28",
+      "paragraph": 14,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "review_state": "selected_passage_checked_v9",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240628-P15",
+      "ga": 317,
+      "date": "1924-06-28",
+      "paragraph": 15,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "review_state": "selected_passage_checked_v9",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240628-P16",
+      "ga": 317,
+      "date": "1924-06-28",
+      "paragraph": 16,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "review_state": "selected_passage_checked_v8_and_v9",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240628-P17",
+      "ga": 317,
+      "date": "1924-06-28",
+      "paragraph": 17,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "review_state": "number_located_only",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240628-P18",
+      "ga": 317,
+      "date": "1924-06-28",
+      "paragraph": 18,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "review_state": "number_located_only",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240628-P19",
+      "ga": 317,
+      "date": "1924-06-28",
+      "paragraph": 19,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "review_state": "number_located_only",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240628-P20",
+      "ga": 317,
+      "date": "1924-06-28",
+      "paragraph": 20,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "review_state": "number_located_only",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240628-P21",
+      "ga": 317,
+      "date": "1924-06-28",
+      "paragraph": 21,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "review_state": "number_located_only",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240628-P22",
+      "ga": 317,
+      "date": "1924-06-28",
+      "paragraph": 22,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "review_state": "number_located_only",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240628-P23",
+      "ga": 317,
+      "date": "1924-06-28",
+      "paragraph": 23,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "review_state": "number_located_only",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240628-P24",
+      "ga": 317,
+      "date": "1924-06-28",
+      "paragraph": 24,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "review_state": "number_located_only",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240628-P25",
+      "ga": 317,
+      "date": "1924-06-28",
+      "paragraph": 25,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "review_state": "number_located_only",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240628-P26",
+      "ga": 317,
+      "date": "1924-06-28",
+      "paragraph": 26,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "review_state": "number_located_only",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240628-P27",
+      "ga": 317,
+      "date": "1924-06-28",
+      "paragraph": 27,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "review_state": "selected_passage_checked_v9",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240628-P28",
+      "ga": 317,
+      "date": "1924-06-28",
+      "paragraph": 28,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "review_state": "number_located_only",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240628-P29",
+      "ga": 317,
+      "date": "1924-06-28",
+      "paragraph": 29,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "review_state": "number_located_only",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240628-P30",
+      "ga": 317,
+      "date": "1924-06-28",
+      "paragraph": 30,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "review_state": "selected_passage_checked_v9",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240628-P31",
+      "ga": 317,
+      "date": "1924-06-28",
+      "paragraph": 31,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "review_state": "selected_passage_checked_v9",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240628-P32",
+      "ga": 317,
+      "date": "1924-06-28",
+      "paragraph": 32,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "review_state": "number_located_only",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240628-P33",
+      "ga": 317,
+      "date": "1924-06-28",
+      "paragraph": 33,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "review_state": "number_located_only",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    },
+    {
+      "id": "SC-V9-GA317-19240628-P34",
+      "ga": 317,
+      "date": "1924-06-28",
+      "paragraph": 34,
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "review_state": "selected_passage_checked_v9",
+      "original_german_checked": false,
+      "atomic_claim_completeness": false
+    }
+  ],
+  "constraints": [
+    "Census entries with status number_located_only have not been substantively inspected.",
+    "The targeted reviews may overlap earlier v8 citations; do not sum as new independent claims.",
+    "No complete English or bilingual lecture audits newly certified.",
+    "Historical medical and disability assertions are not clinical advice."
+  ],
+  "as_of": "2026-11-02",
+  "selected_or_full_section_reviews": 133,
+  "number_located_only": 31,
+  "caveat": "Four of six lectures have complete English numbered-paragraph reviews; remaining two (GA317 Jun27/28) have only selected passages checked. Full German and exhaustive atomization remain incomplete."
+}
