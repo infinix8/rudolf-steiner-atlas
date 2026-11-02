@@ -1,5 +1,17 @@
 # Changelog
 
+## 2026-11-02 — Iteration 4: broad coverage, source discovery and browser QA
+
+- Expanded the passage-linked graph from 66/13 to **116 relationships from 27 original source pages**, with **51 cross-domain** relations and at least one graph connection in every one of 26 major domains.
+- Added selected-passages research across karma, spiritual nature beings, Christology, ancient mysteries, Michael, music, painting, Goethean method, warmth science, architecture and eurythmy.
+- Corrected the misleading "threefold bodily nature" classification separately from nerve-sense/rhythmic/metabolic-limb physiological threefolding; maintained stable IDs in JSON, Markdown and OPML.
+- Fixed two merged lines in the markdown taxonomy and added CI checking **974 corresponding RS-labelled entries** across three formats.
+- Added a primary-source discovery interface with GA/title/date/domain/work-type filters and links to existing archive pages; no full text mirrored.
+- Added source-domain and evidence-basis filters to the graph explorer.
+- Added Chromium desktop/mobile smoke tests, including graph and source-guide filters, with GitHub Actions.
+- The 30 historical proposed links remain a different evidence class: 4 exact matches, 1 narrower descendant-only partial, 25 without matching evidence.
+- A successful smoke test verifies basic navigation, not exhaustive accessibility or source accuracy.
+
 ## 2026-11-02 — Passage-linked knowledge graph
 
 - Added 66 evidence-qualified, typed relationships with exact original-source URLs and passage cues from 13 selected primary pages.
