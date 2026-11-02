@@ -1,3 +1,11 @@
+## 2026-11-02 — Organ concordance Phase 10: two whole English GA 313 lectures
+
+- Completed English numbered-section reading of **GA 313, 11 Apr 1921 (§§1–21)** and **12 Apr 1921 (§§1–30)**, with [51 section abstracts](research/organ-paragraph-review-ga313-i-ii-v10.json) and contextual/zero-additional-organ sections included. Key German terminology checked in selected passages, **not** all original German.
+- [Phase 10 source report](docs/ORGAN_CONCORDANCE_PHASE10_FINDINGS.md) focuses on formative processes versus static substance, the head/chest/limb relationship to physical/etheric/astral/I, organ differentiation of heart and liver, four ethers, and **regional redistribution in sleep** (`Umlagerung`).
+- Updated [full corpus ledger](research/organ-corpus-ledger-ga313-317-v10.json): of 61 GA 313–317 items, **8 full English numbered-section reviews, 1 thematic sweep, 7 selected-only, 45 entirely unreviewed**. **No exhaustive bilingual atomic-claim audit** is claimed.
+- Updated [164-section census](research/organ-section-census-ga313-ga317-v10.json) for six GA 313/317 target lectures: **107 with some substantive review (51 completely read in English), 57 as numeric-only pending**.
+- Expanded complete local Word and Markdown research atlas to **Version 10 (53 pages)**. Medical, mineral and toxic-substance claims remain attributed historical descriptions, never treatment guidance.
+
 ## 2026-11-02 — Organ concordance Phase 9: six-lecture section census and sleep/waking correction
 
 - Revisited **GA 313 I–III and GA 317 II–IV**, establishing an exact [164-numbered-section census](research/organ-section-census-ga313-ga317-v9.json) with explicit per-section review statuses (**89 selected-passage-checked across v8/v9, 75 number-located-only**). Census does *not* assert whole-lecture extraction.
