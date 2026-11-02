@@ -607,6 +607,206 @@
         "archive_url_checked": true,
         "full_translation_collation": false
       }
+    },
+    {
+      "id": "SG-GA004-C03",
+      "ga": "4",
+      "work": "The Philosophy of Freedom",
+      "unit": "Chapter III: Thinking in the Service of Knowledge",
+      "kind": "authored_book",
+      "edition": "RSP 1964; Michael Wilson",
+      "lecture_date": null,
+      "url": "https://rsarchive.org/Books/GA004/English/RSP1964/GA004_c03.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Paragraphs 1-6 on observing, conceptual connections and thinking as activity.",
+        "checked_on": "2026-11-02",
+        "source_site": "Rudolf Steiner Archive",
+        "entire_work_reviewed": false,
+        "archive_page_opened_on": "2026-11-02",
+        "archive_url_checked": true,
+        "full_translation_collation": false
+      }
+    },
+    {
+      "id": "SG-GA004-C07",
+      "ga": "4",
+      "work": "The Philosophy of Freedom",
+      "unit": "Chapter VII: Are There Limits to Knowledge?",
+      "kind": "authored_book",
+      "edition": "RSP 1964; Michael Wilson",
+      "lecture_date": null,
+      "url": "https://rsarchive.org/Books/GA004/English/RSP1964/GA004_c07.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Paragraphs 1-11 on concept-percept synthesis, monism, critique of Kant and epistemic limits.",
+        "checked_on": "2026-11-02",
+        "source_site": "Rudolf Steiner Archive",
+        "entire_work_reviewed": false,
+        "archive_page_opened_on": "2026-11-02",
+        "archive_url_checked": true,
+        "full_translation_collation": false
+      }
+    },
+    {
+      "id": "SG-GA006-C01A",
+      "ga": "6",
+      "work": "Goethe's World View",
+      "unit": "Part I.1: Goethe and Schiller",
+      "kind": "authored_book",
+      "edition": "Mercury Press 1985; William Lindeman",
+      "lecture_date": null,
+      "url": "https://rsarchive.org/Books/GA006/English/MP1985/GA006_c01_1.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Paragraphs 1-3 on archetypal plant, dialogue with Schiller and sense-experience and idea.",
+        "checked_on": "2026-11-02",
+        "source_site": "Rudolf Steiner Archive",
+        "entire_work_reviewed": false,
+        "archive_page_opened_on": "2026-11-02",
+        "archive_url_checked": true,
+        "full_translation_collation": false
+      }
+    },
+    {
+      "id": "SG-GA006-C03",
+      "ga": "6",
+      "work": "Goethe's World View",
+      "unit": "Part III: The Phenomena of the World of Colors",
+      "kind": "authored_book",
+      "edition": "Mercury Press 1985; William Lindeman",
+      "lecture_date": null,
+      "url": "https://rsarchive.org/Books/GA006/English/MP1985/GA006_c03.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Paragraphs 1-4 on Goethe's prism observations, colored boundaries, light/dark and Newtonian interpretations.",
+        "checked_on": "2026-11-02",
+        "source_site": "Rudolf Steiner Archive",
+        "entire_work_reviewed": false,
+        "archive_page_opened_on": "2026-11-02",
+        "archive_url_checked": true,
+        "full_translation_collation": false
+      }
+    },
+    {
+      "id": "SG-GA010-C09",
+      "ga": "10",
+      "work": "Knowledge of Higher Worlds and its Attainment",
+      "unit": "IX. The Guardian of the Threshold",
+      "kind": "authored_book",
+      "edition": "RSPC 1947; Henry B. Monges",
+      "lecture_date": null,
+      "url": "https://rsarchive.org/Books/GA010/English/RSPC1947/GA010_c09.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Paragraphs 1-13 on two Guardians, lesser Guardian, thinking/feeling/willing, freedom and karmic responsibility; historical racialized passage requires critical contextualization.",
+        "checked_on": "2026-11-02",
+        "source_site": "Rudolf Steiner Archive",
+        "entire_work_reviewed": false,
+        "archive_page_opened_on": "2026-11-02",
+        "archive_url_checked": true,
+        "full_translation_collation": false
+      }
+    },
+    {
+      "id": "SG-GA010-C10",
+      "ga": "10",
+      "work": "Knowledge of Higher Worlds and its Attainment",
+      "unit": "X. Life and Death: The Greater Guardian",
+      "kind": "authored_book",
+      "edition": "RSPC 1947; Henry B. Monges",
+      "lecture_date": null,
+      "url": "https://rsarchive.org/Books/GA010/English/RSPC1947/GA010_c10.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Paragraphs 1-4 on greater Guardian, sense-world participation and spiritual future.",
+        "checked_on": "2026-11-02",
+        "source_site": "Rudolf Steiner Archive",
+        "entire_work_reviewed": false,
+        "archive_page_opened_on": "2026-11-02",
+        "archive_url_checked": true,
+        "full_translation_collation": false
+      }
+    },
+    {
+      "id": "SG-GA327-19240607",
+      "ga": "327",
+      "work": "Agriculture",
+      "unit": "Lecture I",
+      "kind": "recorded_lecture",
+      "edition": "BDA 1958; George Adams",
+      "lecture_date": "1924-06-07",
+      "url": "https://rsarchive.org/Lectures/GA327/English/BDA1958/19240607p01.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Introduction and paragraphs 17-31 on soil, field and season, cosmic rhythms, planetary influences, silica/limestone; historical agriculture assertions.",
+        "checked_on": "2026-11-02",
+        "source_site": "Rudolf Steiner Archive",
+        "entire_work_reviewed": false,
+        "archive_page_opened_on": "2026-11-02",
+        "archive_url_checked": true,
+        "full_translation_collation": false
+      }
+    },
+    {
+      "id": "SG-GA279-19240625",
+      "ga": "279",
+      "work": "Eurythmy as Visible Speech",
+      "unit": "Lecture II: Character of Individual Sounds",
+      "kind": "recorded_lecture",
+      "edition": "APC 1956; V. & J. Compton-Burnett",
+      "lecture_date": "1924-06-25",
+      "url": "https://rsarchive.org/Lectures/GA279/English/APC1956/19240625p02.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Opening section on vowels as inner expression, consonants as outer imitation, letter/gesture examples, three eurythmy applications.",
+        "checked_on": "2026-11-02",
+        "source_site": "Rudolf Steiner Archive",
+        "entire_work_reviewed": false,
+        "archive_page_opened_on": "2026-11-02",
+        "archive_url_checked": true,
+        "full_translation_collation": false
+      }
+    },
+    {
+      "id": "SG-GA279-19240707",
+      "ga": "279",
+      "work": "Eurythmy as Visible Speech",
+      "unit": "Lecture X: Movements Arising Out of the Being of Man",
+      "kind": "recorded_lecture",
+      "edition": "APC 1956; V. & J. Compton-Burnett",
+      "lecture_date": "1924-07-07",
+      "url": "https://rsarchive.org/Lectures/GA279/English/APC1956/19240707p02.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Opening passages on twelve movements, language and bodily gesture, thinking/feeling/willing; later symbolic seven vowels/twelve consonants.",
+        "checked_on": "2026-11-02",
+        "source_site": "Rudolf Steiner Archive",
+        "entire_work_reviewed": false,
+        "archive_page_opened_on": "2026-11-02",
+        "archive_url_checked": true,
+        "full_translation_collation": false
+      }
+    },
+    {
+      "id": "SG-GA034-ESSAY",
+      "ga": "34",
+      "work": "The Education of the Child in the Light of Anthroposophy",
+      "unit": "Essay: The Education of the Child",
+      "kind": "authored_essay",
+      "edition": "English George and Mary Adams; edition not established",
+      "lecture_date": null,
+      "url": "https://rsarchive.org/Articles/GA034/English/Singles/EduChi_essay.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Sections 3-19 and later statements on imitation, change of teeth, education by authority and inner observation; not a modern educational efficacy study.",
+        "checked_on": "2026-11-02",
+        "source_site": "Rudolf Steiner Archive",
+        "entire_work_reviewed": false,
+        "archive_page_opened_on": "2026-11-02",
+        "archive_url_checked": true,
+        "full_translation_collation": false
+      }
     }
   ],
   "edges": [
@@ -2900,6 +3100,602 @@
         }
       ],
       "claim": "Steiner connects experiences in spiritland with preparation for another earthly life."
+    },
+    {
+      "id": "KG-143",
+      "from": "RS-01.03.01",
+      "to": "RS-01.01.04",
+      "type": "unites_percept_and_concept_in",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA004-C03",
+          "passage_locator": "[1]-[4]"
+        }
+      ],
+      "claim": "Steiner contrasts observing a physical event with the thinking activity used to discover its conceptual relations."
+    },
+    {
+      "id": "KG-144",
+      "from": "RS-01.03.05",
+      "to": "RS-01.01",
+      "type": "describes_own_activity_as",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA004-C03",
+          "passage_locator": "[1]-[5]"
+        }
+      ],
+      "claim": "Thinking is presented as an activity experienced by the knower, distinct from the observed event."
+    },
+    {
+      "id": "KG-145",
+      "from": "RS-01.03",
+      "to": "RS-02.04",
+      "type": "provides_epistemic_basis_for",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA004-C03",
+          "passage_locator": "[3]-[5]"
+        }
+      ],
+      "claim": "Steiner describes observation and thinking as complementary starting points for inquiry."
+    },
+    {
+      "id": "KG-146",
+      "from": "RS-01.03.01",
+      "to": "RS-01.04.01",
+      "type": "contrasts_monism_with_kantian_dualism",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA004-C07",
+          "passage_locator": "[1]-[5]"
+        }
+      ],
+      "claim": "He contrasts the synthesis of percept and concept with a dualism he associates with Kant's thing-in-itself."
+    },
+    {
+      "id": "KG-147",
+      "from": "RS-01.04.01",
+      "to": "RS-01.01.02",
+      "type": "criticizes_limit_claims_about",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA004-C07",
+          "passage_locator": "[3]-[10]"
+        }
+      ],
+      "claim": "Steiner critiques alleged absolute limits to human knowledge as arising from a mistaken division of percept and concept."
+    },
+    {
+      "id": "KG-148",
+      "from": "RS-01.04",
+      "to": "RS-01.03.01",
+      "type": "interprets_debate_through",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA004-C07",
+          "passage_locator": "[1]-[6]"
+        }
+      ],
+      "claim": "The philosophical debate about monism and dualism is framed as a problem of how percept and concept are related."
+    },
+    {
+      "id": "KG-149",
+      "from": "RS-02.01.02",
+      "to": "RS-02.02.03",
+      "type": "exemplified_by_archetypal_plant",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA006-C01A",
+          "passage_locator": "[1]"
+        }
+      ],
+      "claim": "Steiner recounts Goethe's archetypal plant as an imaginative formative type expressed through many individual plants."
+    },
+    {
+      "id": "KG-150",
+      "from": "RS-02.01.05",
+      "to": "RS-01.03.01",
+      "type": "contrasts_idea_and_experience_in",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA006-C01A",
+          "passage_locator": "[1]-[2]"
+        }
+      ],
+      "claim": "Steiner contrasts Goethe's experienced idea with Schiller's separation of idea and observation."
+    },
+    {
+      "id": "KG-151",
+      "from": "RS-02.01",
+      "to": "RS-02.05.01",
+      "type": "historically_exemplified_by",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA006-C01A",
+          "passage_locator": "[1]-[3]"
+        }
+      ],
+      "claim": "The Goethe–Schiller exchange is used to characterize Goethe's mode of observing nature."
+    },
+    {
+      "id": "KG-152",
+      "from": "RS-02.03.01",
+      "to": "RS-02.03.02",
+      "type": "explains_goethean_color_through",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA006-C03",
+          "passage_locator": "[2]-[4]"
+        }
+      ],
+      "claim": "Steiner reports Goethe's claim that colors appear through the interaction of light and darkness."
+    },
+    {
+      "id": "KG-153",
+      "from": "RS-02.03.03",
+      "to": "RS-02.03.01",
+      "type": "discusses_prism_boundary_experiment_in",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA006-C03",
+          "passage_locator": "[2]-[3]"
+        }
+      ],
+      "claim": "The account describes colored edges observed through prisms in Goethe's experiments."
+    },
+    {
+      "id": "KG-154",
+      "from": "RS-02.03.06",
+      "to": "RS-22.02.01",
+      "type": "bridges_color_experience_and_art",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA006-C03",
+          "passage_locator": "[1]"
+        }
+      ],
+      "claim": "Goethe's interest in color is linked to questions about the effects and composition of visual art."
+    },
+    {
+      "id": "KG-155",
+      "from": "RS-02.03",
+      "to": "RS-17.01.03",
+      "type": "compares_goethe_and_newton_accounts",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA006-C03",
+          "passage_locator": "[2]-[4]"
+        }
+      ],
+      "claim": "Steiner sets out Goethe's interpretation of prism colors in contrast to Newton's account.",
+      "note": "These are historical descriptions of differing models, not validation of Goethean optics over modern physics."
+    },
+    {
+      "id": "KG-156",
+      "from": "RS-03.04.01",
+      "to": "RS-03.04.02",
+      "type": "distinguishes_lesser_and_greater_guardian",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA010-C09",
+          "passage_locator": "[1]"
+        }
+      ],
+      "claim": "Steiner describes lesser and greater Guardians of the Threshold as different experiences of initiation."
+    },
+    {
+      "id": "KG-157",
+      "from": "RS-03.04.02",
+      "to": "RS-10.01.01",
+      "type": "describes_separation_of_faculties_in",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA010-C09",
+          "passage_locator": "[1]-[3]; [12]"
+        }
+      ],
+      "claim": "The lesser Guardian encounter is associated with the loosening of thinking, feeling and willing in Steiner's account."
+    },
+    {
+      "id": "KG-158",
+      "from": "RS-03.04.01",
+      "to": "RS-08.02",
+      "type": "links_guardian_to_karmic_self_assessment",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA010-C09",
+          "passage_locator": "[5]-[8]"
+        }
+      ],
+      "claim": "The Guardian dialogue portrays prior deeds and their alleged karmic consequences as confronting the pupil."
+    },
+    {
+      "id": "KG-159",
+      "from": "RS-03.04.03",
+      "to": "RS-03.04.01",
+      "type": "describes_as_form_of_own_past",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA010-C09",
+          "passage_locator": "[6]-[12]"
+        }
+      ],
+      "claim": "Steiner depicts the lesser Guardian as a figure formed from the aspirant's past actions and character, not as an externally identified human person."
+    },
+    {
+      "id": "KG-160",
+      "from": "RS-03.04",
+      "to": "RS-03.05.01",
+      "type": "sets_responsibility_condition",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA010-C09",
+          "passage_locator": "[7]-[12]"
+        }
+      ],
+      "claim": "He presents readiness for individual responsibility as a condition for crossing the threshold."
+    },
+    {
+      "id": "KG-161",
+      "from": "RS-03.04.02",
+      "to": "RS-12.05.04",
+      "type": "emphasizes_value_of_sense_world",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA010-C10",
+          "passage_locator": "[1]-[3]"
+        }
+      ],
+      "claim": "The greater Guardian discussion describes earthly life as necessary for the development of faculties in Steiner's esoteric narrative."
+    },
+    {
+      "id": "KG-162",
+      "from": "RS-06.05",
+      "to": "RS-12.05.04",
+      "type": "depicts_future_transformation_of_sense_world",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA010-C10",
+          "passage_locator": "[3]-[4]"
+        }
+      ],
+      "claim": "Steiner presents human development within a future transformation of the sense-world into spiritual outcomes."
+    },
+    {
+      "id": "KG-163",
+      "from": "RS-20.02.01",
+      "to": "RS-20.02.05",
+      "type": "attributes_plant_timing_to_lunar_conditions",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA327-19240607",
+          "passage_locator": "[24]-[28]"
+        }
+      ],
+      "claim": "Steiner attributes plant reproduction and sowing conditions partly to lunar forces and preceding rainfall.",
+      "note": "Historical biodynamic assertion, not established agricultural evidence."
+    },
+    {
+      "id": "KG-164",
+      "from": "RS-20.02.02",
+      "to": "RS-07.06.03",
+      "type": "connects_planetary_and_earthly_processes",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA327-19240607",
+          "passage_locator": "[24]-[26]"
+        }
+      ],
+      "claim": "He relates planetary forces to supposed effects mediated by siliceous and calcareous substances.",
+      "note": "Historical cosmological claim, not independently corroborated crop physiology."
+    },
+    {
+      "id": "KG-165",
+      "from": "RS-20.02.03",
+      "to": "RS-07.06.04",
+      "type": "relates_planting_to_weather_and_seasons",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA327-19240607",
+          "passage_locator": "[27]-[31]"
+        }
+      ],
+      "claim": "Steiner connects his suggested planting schedule with warmth, rain and seasonal circumstances."
+    },
+    {
+      "id": "KG-166",
+      "from": "RS-07.06.01",
+      "to": "RS-20.01",
+      "type": "treats_soil_field_and_crop_as_whole",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA327-19240607",
+          "passage_locator": "intro; [16]-[19]"
+        }
+      ],
+      "claim": "He argues that understanding a crop requires considering field, soil, season and broader surroundings."
+    },
+    {
+      "id": "KG-167",
+      "from": "RS-20.02",
+      "to": "RS-20.05.05",
+      "type": "attributes_reproductive_rhythms_to",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA327-19240607",
+          "passage_locator": "[24]-[26]"
+        }
+      ],
+      "claim": "The agriculture lecture proposes a difference between influences associated with plant reproduction and nutrition."
+    },
+    {
+      "id": "KG-168",
+      "from": "RS-20.06.03",
+      "to": "RS-02.01.01",
+      "type": "contrasts_observation_with_abstract_theory",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA327-19240607",
+          "passage_locator": "opening critique of theoretical agricultural economics"
+        }
+      ],
+      "claim": "Steiner argues that agricultural reasoning should begin with practical knowledge of farming rather than abstract theories."
+    },
+    {
+      "id": "KG-169",
+      "from": "RS-24.02.01",
+      "to": "RS-24.02.02",
+      "type": "contrasts_inward_vowel_and_outward_consonant",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA279-19240625",
+          "passage_locator": "opening and vowel/consonant discussion"
+        }
+      ],
+      "claim": "Steiner characterizes vowels as expressions of inward experience and consonants as imitations of outer forms."
+    },
+    {
+      "id": "KG-170",
+      "from": "RS-24.02",
+      "to": "RS-24.01",
+      "type": "provides_elements_for_visible_speech",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA279-19240625",
+          "passage_locator": "lecture II opening"
+        }
+      ],
+      "claim": "The discussion of individual sounds is presented as the foundation for eurythmic gesture."
+    },
+    {
+      "id": "KG-171",
+      "from": "RS-24.02.04",
+      "to": "RS-24.02.05",
+      "type": "expresses_sound_through_movement",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA279-19240625",
+          "passage_locator": "sound descriptions and examples"
+        }
+      ],
+      "claim": "The lecture develops a relationship between the felt quality of sounds and expressive bodily movements."
+    },
+    {
+      "id": "KG-172",
+      "from": "RS-24.02.03",
+      "to": "RS-24.01.03",
+      "type": "interrelates_poetic_sound_and_gesture",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA279-19240707",
+          "passage_locator": "lecture X, movement and speech passage"
+        }
+      ],
+      "claim": "The lecture moves from possible bodily gestures to their possible corresponding sounds."
+    },
+    {
+      "id": "KG-173",
+      "from": "RS-24.03",
+      "to": "RS-22.03",
+      "type": "compares_cosmic_sound_with_motion",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA279-19240707",
+          "passage_locator": "later discussion of twelve consonants and seven vowels"
+        }
+      ],
+      "claim": "Steiner uses twelvefold zodiacal and sevenfold planetary analogies for vocal sounds and eurythmy.",
+      "note": "This does not verify an astronomical relationship between musical notes and planetary positions."
+    },
+    {
+      "id": "KG-174",
+      "from": "RS-11.02.01",
+      "to": "RS-19.02.01",
+      "type": "interprets_imitation_as_early_development",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA034-ESSAY",
+          "passage_locator": "childhood imitation discussion"
+        }
+      ],
+      "claim": "Steiner identifies imitation and example as central to his account of early childhood learning."
+    },
+    {
+      "id": "KG-175",
+      "from": "RS-11.02.03",
+      "to": "RS-19.02.02",
+      "type": "associates_authority_with_second_stage",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA034-ESSAY",
+          "passage_locator": "change of teeth to puberty section"
+        }
+      ],
+      "claim": "He associates authority and emulation with the childhood interval following the change of teeth."
+    },
+    {
+      "id": "KG-176",
+      "from": "RS-19.02",
+      "to": "RS-11.02",
+      "type": "frames_education_through_life_phases",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA034-ESSAY",
+          "passage_locator": "growing etheric body and stage of imitation"
+        }
+      ],
+      "claim": "Steiner organizes childhood education around successive life phases, as part of his historical pedagogical model."
+    },
+    {
+      "id": "KG-177",
+      "from": "RS-19.03.02",
+      "to": "RS-11.02.06",
+      "type": "argues_for_images_before_abstract_judgment",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA034-ESSAY",
+          "passage_locator": "passage on image-based education and observation"
+        }
+      ],
+      "claim": "He places vivid imagery and example before abstract judgment in the education of younger children."
+    },
+    {
+      "id": "KG-178",
+      "from": "RS-19.06.01",
+      "to": "RS-19.02.01",
+      "type": "applies_imitation_to_early_childhood",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA034-ESSAY",
+          "passage_locator": "imitation and example section"
+        }
+      ],
+      "claim": "The early education stage is characterized by learning through imitation in Steiner's account."
+    },
+    {
+      "id": "KG-179",
+      "from": "RS-26.01.01",
+      "to": "RS-02.05.01",
+      "type": "expressed_in_early_goethe_scholarship",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA006-C01A",
+          "passage_locator": "[1]-[3]"
+        }
+      ],
+      "claim": "Steiner's authored discussion of Goethe and Schiller displays his early interest in Goethe's scientific writings."
     }
   ],
   "version": "1.1",
