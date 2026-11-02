@@ -26,6 +26,7 @@ try {
   await page.locator('#domain-filter').selectOption('07');
   const domainRows=await page.locator('#relations tr').count();
   assert(domainRows>0 && domainRows<initial,'domain filter not working');
+  await page.locator('#domain-filter').selectOption('09');
   await page.locator('#evidence-filter').selectOption('editorial_comparison');
   const compared=await page.locator('#relations [data-edge]').count();
   assert(compared>=1 && compared<domainRows,'editorial filter not working');
