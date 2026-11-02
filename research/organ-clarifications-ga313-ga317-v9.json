@@ -1,0 +1,437 @@
+{
+  "schema_version": "0.1",
+  "as_of": "2026-11-02",
+  "scope": "23 clarified or newly distinguished primary-source claims; not a new count of nonoverlapping unique teachings. Passage selected and checked in English; German comparison still pending.",
+  "records": [
+    {
+      "id": "ORG-V9-001",
+      "ga": 313,
+      "date": "1921-04-11",
+      "url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210411.html",
+      "paragraph": 8,
+      "relation_type": "primary_vs_imprint",
+      "organs": [
+        "chest",
+        "respiration",
+        "circulation"
+      ],
+      "paraphrase": "Steiner distinguishes respiratory/chest processes involving the physical and etheric members primarily, from I and astral influences appearing as imprints.",
+      "relation_to_v8": "refines ORG-V8-005",
+      "verified_scope": "English numbered section selected_passage_checked",
+      "german_status": "not_checked",
+      "whole_lecture_audit": false,
+      "scientific_boundary": "Steiner's historical/esoteric account; unsupported medical claims not treatment advice"
+    },
+    {
+      "id": "ORG-V9-002",
+      "ga": 313,
+      "date": "1921-04-11",
+      "url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210411.html",
+      "paragraph": 11,
+      "relation_type": "matter_vs_force_gradient",
+      "organs": [
+        "head",
+        "metabolic-limb system"
+      ],
+      "paraphrase": "The silica process is described as having comparatively strong material expression in the head but stronger force activity in the metabolic-limb domain.",
+      "relation_to_v8": "refines ORG-V8-007",
+      "verified_scope": "English numbered section selected_passage_checked",
+      "german_status": "not_checked",
+      "whole_lecture_audit": false,
+      "scientific_boundary": "Steiner's historical/esoteric account; unsupported medical claims not treatment advice"
+    },
+    {
+      "id": "ORG-V9-003",
+      "ga": 313,
+      "date": "1921-04-11",
+      "url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210411.html",
+      "paragraph": 17,
+      "relation_type": "organ_differentiation",
+      "organs": [
+        "heart",
+        "liver",
+        "head"
+      ],
+      "paraphrase": "The head's differentiating activity is said to enable distribution of formative influences to distinct organs including heart and liver.",
+      "relation_to_v8": "refines ORG-V8-008",
+      "verified_scope": "English numbered section selected_passage_checked",
+      "german_status": "not_checked",
+      "whole_lecture_audit": false,
+      "scientific_boundary": "Steiner's historical/esoteric account; unsupported medical claims not treatment advice"
+    },
+    {
+      "id": "ORG-V9-004",
+      "ga": 313,
+      "date": "1921-04-11",
+      "url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210411.html",
+      "paragraph": 19,
+      "relation_type": "constructive_vs_excreted_substance",
+      "organs": [
+        "hair",
+        "urine",
+        "teeth",
+        "milk"
+      ],
+      "paraphrase": "He contrasts the constructive role attributed to silica in hair and magnesium in teeth with their presence in substances said to be eliminated.",
+      "relation_to_v8": "new predicate split, overlaps ORG-V8-009",
+      "verified_scope": "English numbered section selected_passage_checked",
+      "german_status": "not_checked",
+      "whole_lecture_audit": false,
+      "scientific_boundary": "Steiner's historical/esoteric account; unsupported medical claims not treatment advice"
+    },
+    {
+      "id": "ORG-V9-005",
+      "ga": 313,
+      "date": "1921-04-12",
+      "url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210412.html",
+      "paragraph": 2,
+      "relation_type": "ego_imprint_dynamic",
+      "organs": [
+        "head",
+        "limbs",
+        "posture"
+      ],
+      "paraphrase": "The I-imprint is described as a dynamic system of forces seen in movement, equilibrium and differentiated head warmth, not a static anatomical cast.",
+      "relation_to_v8": "refines ORG-V8-010",
+      "verified_scope": "English numbered section selected_passage_checked",
+      "german_status": "not_checked",
+      "whole_lecture_audit": false,
+      "scientific_boundary": "Steiner's historical/esoteric account; unsupported medical claims not treatment advice"
+    },
+    {
+      "id": "ORG-V9-006",
+      "ga": 313,
+      "date": "1921-04-12",
+      "url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210412.html",
+      "paragraph": 3,
+      "relation_type": "etheric_organ_differentiation",
+      "organs": [
+        "stomach",
+        "heart",
+        "liver"
+      ],
+      "paraphrase": "He warns against picturing the etheric body as an undifferentiated cloud, explicitly comparing it to the differentiated stomach, heart and liver.",
+      "relation_to_v8": "refines ORG-V8-011",
+      "verified_scope": "English numbered section selected_passage_checked",
+      "german_status": "not_checked",
+      "whole_lecture_audit": false,
+      "scientific_boundary": "Steiner's historical/esoteric account; unsupported medical claims not treatment advice"
+    },
+    {
+      "id": "ORG-V9-007",
+      "ga": 313,
+      "date": "1921-04-12",
+      "url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210412.html",
+      "paragraph": 4,
+      "relation_type": "four_ether_classification",
+      "organs": [
+        "etheric body"
+      ],
+      "paraphrase": "Names warmth, light, chemical and life ethers as distinct categories; chemical ether should not be treated as ordinary chemical synthesis.",
+      "relation_to_v8": "refines ORG-V8-012",
+      "verified_scope": "English numbered section selected_passage_checked",
+      "german_status": "not_checked",
+      "whole_lecture_audit": false,
+      "scientific_boundary": "Steiner's historical/esoteric account; unsupported medical claims not treatment advice"
+    },
+    {
+      "id": "ORG-V9-008",
+      "ga": 313,
+      "date": "1921-04-12",
+      "url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210412.html",
+      "paragraph": 7,
+      "relation_type": "fluid_organization",
+      "organs": [
+        "brain",
+        "eye",
+        "head"
+      ],
+      "paraphrase": "Treats the aqueous part of the head as organized rather than mere unstructured water, and presents the eye as formed by light.",
+      "relation_to_v8": "refines ORG-V8-013",
+      "verified_scope": "English numbered section selected_passage_checked",
+      "german_status": "not_checked",
+      "whole_lecture_audit": false,
+      "scientific_boundary": "Steiner's historical/esoteric account; unsupported medical claims not treatment advice"
+    },
+    {
+      "id": "ORG-V9-009",
+      "ga": 313,
+      "date": "1921-04-12",
+      "url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210412.html",
+      "paragraph": 26,
+      "relation_type": "sleep_region_specific_reorganization",
+      "organs": [
+        "head",
+        "respiration",
+        "circulation",
+        "metabolism"
+      ],
+      "paraphrase": "In sleep, astral and I activity is said to loosen from head and respiration while penetrating more deeply into metabolic and circulatory organization; Steiner explicitly rejects a simple whole-body exit model.",
+      "relation_to_v8": "new specific counter to simplification",
+      "verified_scope": "English numbered section selected_passage_checked",
+      "german_status": "not_checked",
+      "whole_lecture_audit": false,
+      "scientific_boundary": "Steiner's historical/esoteric account; unsupported medical claims not treatment advice"
+    },
+    {
+      "id": "ORG-V9-010",
+      "ga": 313,
+      "date": "1921-04-12",
+      "url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210412.html",
+      "paragraph": 25,
+      "relation_type": "constitutional_health_polarity",
+      "organs": [
+        "physical",
+        "etheric",
+        "astral",
+        "I organization"
+      ],
+      "paraphrase": "Explicit four-term schematic aligns physical with nutrition, etheric with health, astral with illness, I with death; this is a historical metaphysical schema, not actual disease causation.",
+      "relation_to_v8": "new schematic",
+      "verified_scope": "English numbered section selected_passage_checked",
+      "german_status": "not_checked",
+      "whole_lecture_audit": false,
+      "scientific_boundary": "Steiner's historical/esoteric account; unsupported medical claims not treatment advice"
+    },
+    {
+      "id": "ORG-V9-011",
+      "ga": 313,
+      "date": "1921-04-13",
+      "url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210413.html",
+      "paragraph": 2,
+      "relation_type": "chest_physical_etheric_unity",
+      "organs": [
+        "chest",
+        "lungs",
+        "circulation"
+      ],
+      "paraphrase": "Steiner describes physical and etheric processes as intimately joined in chest organs, which the astral and I allegedly can enter or permeate.",
+      "relation_to_v8": "refines ORG-V8-018",
+      "verified_scope": "English numbered section selected_passage_checked",
+      "german_status": "not_checked",
+      "whole_lecture_audit": false,
+      "scientific_boundary": "Steiner's historical/esoteric account; unsupported medical claims not treatment advice"
+    },
+    {
+      "id": "ORG-V9-012",
+      "ga": 313,
+      "date": "1921-04-13",
+      "url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210413.html",
+      "paragraph": 9,
+      "relation_type": "rhythm_between_systems",
+      "organs": [
+        "chest",
+        "head",
+        "metabolism"
+      ],
+      "paraphrase": "Chest rhythmic activity is positioned as receiving influences from head, metabolism and exterior environment rather than originating solely within chest tissues.",
+      "relation_to_v8": "extends ORG-V8-019",
+      "verified_scope": "English numbered section selected_passage_checked",
+      "german_status": "not_checked",
+      "whole_lecture_audit": false,
+      "scientific_boundary": "Steiner's historical/esoteric account; unsupported medical claims not treatment advice"
+    },
+    {
+      "id": "ORG-V9-013",
+      "ga": 313,
+      "date": "1921-04-13",
+      "url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210413.html",
+      "paragraph": 14,
+      "relation_type": "microbes_disease_misinterpretation",
+      "organs": [
+        "infection",
+        "circulation"
+      ],
+      "paraphrase": "Steiner treats germs as signs rather than primary causal agents in a discussion of illness; this conflicts with established infectious-disease science.",
+      "relation_to_v8": "new historical error",
+      "verified_scope": "English numbered section selected_passage_checked",
+      "german_status": "not_checked",
+      "whole_lecture_audit": false,
+      "scientific_boundary": "Steiner's historical/esoteric account; unsupported medical claims not treatment advice"
+    },
+    {
+      "id": "ORG-V9-014",
+      "ga": 317,
+      "date": "1924-06-26",
+      "url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "paragraph": 13,
+      "relation_type": "world_ether_living_thought",
+      "organs": [
+        "world ether",
+        "brain"
+      ],
+      "paraphrase": "Steiner claims living thoughts pre-exist individuals in a universal ether from which the developing etheric organization receives them.",
+      "relation_to_v8": "refines ORG-V8-038",
+      "verified_scope": "English numbered section selected_passage_checked",
+      "german_status": "not_checked",
+      "whole_lecture_audit": false,
+      "scientific_boundary": "Steiner's historical/esoteric account; unsupported medical claims not treatment advice"
+    },
+    {
+      "id": "ORG-V9-015",
+      "ga": 317,
+      "date": "1924-06-26",
+      "url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "paragraph": 15,
+      "relation_type": "brain_reflection_not_generation",
+      "organs": [
+        "brain",
+        "nerves"
+      ],
+      "paraphrase": "He describes the brain and nervous system as reflectors, not originators, of ordinary thoughts; his claim of continual nerve 'death' is not accepted neurobiology.",
+      "relation_to_v8": "new breakdown vs reflection split",
+      "verified_scope": "English numbered section selected_passage_checked",
+      "german_status": "not_checked",
+      "whole_lecture_audit": false,
+      "scientific_boundary": "Steiner's historical/esoteric account; unsupported medical claims not treatment advice"
+    },
+    {
+      "id": "ORG-V9-016",
+      "ga": 317,
+      "date": "1924-06-26",
+      "url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "paragraph": 22,
+      "relation_type": "next_higher_member_pedagogic_scheme",
+      "organs": [
+        "physical",
+        "etheric",
+        "astral",
+        "I",
+        "spirit-self"
+      ],
+      "paraphrase": "He proposes teacher–child relations in which a teacher's next-higher member acts upon the child's given member; not an anatomical creator map.",
+      "relation_to_v8": "new educational-schema distinction",
+      "verified_scope": "English numbered section selected_passage_checked",
+      "german_status": "not_checked",
+      "whole_lecture_audit": false,
+      "scientific_boundary": "Steiner's historical/esoteric account; unsupported medical claims not treatment advice"
+    },
+    {
+      "id": "ORG-V9-017",
+      "ga": 317,
+      "date": "1924-06-26",
+      "url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+      "paragraph": 25,
+      "relation_type": "liver_etheric_intention_action",
+      "organs": [
+        "liver",
+        "etheric body"
+      ],
+      "paraphrase": "He interprets inability to turn intention into action in a child as an effect of allegedly inadequately developed etheric activity in the liver.",
+      "relation_to_v8": "refines ORG-V8-036; clinical assertion unsupported",
+      "verified_scope": "English numbered section selected_passage_checked",
+      "german_status": "not_checked",
+      "whole_lecture_audit": false,
+      "scientific_boundary": "Steiner's historical/esoteric account; unsupported medical claims not treatment advice"
+    },
+    {
+      "id": "ORG-V9-018",
+      "ga": 317,
+      "date": "1924-06-27",
+      "url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "paragraph": 7,
+      "relation_type": "ego_earth_forces_waking",
+      "organs": [
+        "I organization",
+        "gravity",
+        "limbs"
+      ],
+      "paraphrase": "The I organization is said to enter a direct relation with gravity, earthly physical forces and some warmth during waking life.",
+      "relation_to_v8": "refines ORG-V8-044",
+      "verified_scope": "English numbered section selected_passage_checked",
+      "german_status": "not_checked",
+      "whole_lecture_audit": false,
+      "scientific_boundary": "Steiner's historical/esoteric account; unsupported medical claims not treatment advice"
+    },
+    {
+      "id": "ORG-V9-019",
+      "ga": 317,
+      "date": "1924-06-27",
+      "url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "paragraph": 11,
+      "relation_type": "eye_sensory_interface",
+      "organs": [
+        "eye"
+      ],
+      "paraphrase": "Eye is portrayed as a boundary organ bringing astral and I organization into direct relationship with external physical processes.",
+      "relation_to_v8": "refines ORG-V8-046",
+      "verified_scope": "English numbered section selected_passage_checked",
+      "german_status": "not_checked",
+      "whole_lecture_audit": false,
+      "scientific_boundary": "Steiner's historical/esoteric account; unsupported medical claims not treatment advice"
+    },
+    {
+      "id": "ORG-V9-020",
+      "ga": 317,
+      "date": "1924-06-27",
+      "url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "paragraph": 22,
+      "relation_type": "phrenology_moral_character_false",
+      "organs": [
+        "brain",
+        "skull",
+        "spleen"
+      ],
+      "paraphrase": "Steiner claims skull configurations and a spleen-related blockage correspond to moral character; phrenology and such causal claims are scientifically invalid and stigmatizing.",
+      "relation_to_v8": "new historical harm/caution",
+      "verified_scope": "English numbered section selected_passage_checked",
+      "german_status": "not_checked",
+      "whole_lecture_audit": false,
+      "scientific_boundary": "Steiner's historical/esoteric account; unsupported medical claims not treatment advice"
+    },
+    {
+      "id": "ORG-V9-021",
+      "ga": 317,
+      "date": "1924-06-28",
+      "url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "paragraph": 5,
+      "relation_type": "organ_boundary_retention",
+      "organs": [
+        "organ surfaces",
+        "consciousness"
+      ],
+      "paraphrase": "Steiner treats alleged astral/I retention at an organ surface as a cause of convulsions or pain, a false medical theory.",
+      "relation_to_v8": "refines ORG-V8-047",
+      "verified_scope": "English numbered section selected_passage_checked",
+      "german_status": "not_checked",
+      "whole_lecture_audit": false,
+      "scientific_boundary": "Steiner's historical/esoteric account; unsupported medical claims not treatment advice"
+    },
+    {
+      "id": "ORG-V9-022",
+      "ga": 317,
+      "date": "1924-06-28",
+      "url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "paragraph": 7,
+      "relation_type": "organ_boundary_outflow",
+      "organs": [
+        "organ surfaces",
+        "secretions"
+      ],
+      "paraphrase": "He describes excessive permeability of an organ surface to astral/I activity as a separate polarity from congestion and relates it to bodily secretions.",
+      "relation_to_v8": "refines ORG-V8-048",
+      "verified_scope": "English numbered section selected_passage_checked",
+      "german_status": "not_checked",
+      "whole_lecture_audit": false,
+      "scientific_boundary": "Steiner's historical/esoteric account; unsupported medical claims not treatment advice"
+    },
+    {
+      "id": "ORG-V9-023",
+      "ga": 317,
+      "date": "1924-06-28",
+      "url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "paragraph": 14,
+      "relation_type": "enuresis_incorrect_etiology",
+      "organs": [
+        "urinary excretion",
+        "organ boundaries"
+      ],
+      "paraphrase": "He attributes childhood bedwetting to astral activity 'leaking out'; this is not a supported medical explanation and must not be offered as diagnosis.",
+      "relation_to_v8": "new false etiology",
+      "verified_scope": "English numbered section selected_passage_checked",
+      "german_status": "not_checked",
+      "whole_lecture_audit": false,
+      "scientific_boundary": "Steiner's historical/esoteric account; unsupported medical claims not treatment advice"
+    }
+  ]
+}
