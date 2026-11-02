@@ -3,7 +3,7 @@
 // This app never downloads the full texts or scrapes the source sites.
 // It indexes the project's *own classification* and opens original source pages.
 const $ = (selector) => document.querySelector(selector);
-const state = { data: null, paths: null, nodes: new Map(), parents: new Map(), regions: new Map(), domains: new Map(), selected: null, query: "", domainFilter: "", anchors: null, crosswalk: null, models: null, vocabulary: null };
+const state = { data: null, paths: null, nodes: new Map(), parents: new Map(), regions: new Map(), domains: new Map(), selected: null, query: "", domainFilter: "", anchors: null, crosswalk: null, models: null, vocabulary: null, evidenceGraph: null };
 const html = (input) => String(input ?? "").replace(/[&<>"']/g, (c) => ({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"}[c]));
 const knownSource = (url) => {
   try {
@@ -185,6 +185,32 @@ function modelBlock(id) {
       '<p>' + link(model.source_url, "Read the original Steiner passage") + '</p></article>').join("") +
     '</section>';
 }
+function checkedGraphBlock(id) {
+  const lineageIds = new Set(ancestors(id).map((n) => n.id));
+  const direct = (state.evidenceGraph?.edges || []).filter((edge) =>
+    edge.from === id || edge.to === id);
+  const contextual = (state.evidenceGraph?.edges || []).filter((edge) =>
+    !direct.includes(edge) && (lineageIds.has(edge.from) || lineageIds.has(edge.to)));
+  const relevant = [...direct, ...contextual].slice(0,12);
+  if (!relevant.length) return '<p class="muted">No checked passage-level relationship has been assigned directly to this topic yet. The graph is a carefully reviewed subset, not the whole taxonomy.</p>' +
+    '<p><a href="graph.html">Explore the passage-linked graph →</a></p>';
+  const parts = relevant.map((edge) => {
+    const other = edge.from === id ? edge.to : edge.from;
+    const title = byId(other)?.title || other;
+    const linkId = edge.from === id ? edge.from : edge.to;
+    const evidence = edge.evidence.map((e) => (state.evidenceGraph.sources.find(s => s.id === e.source_id)))
+      .filter(Boolean);
+    const ref = evidence.map((s) => 'GA '+s.ga).join(', ');
+    return '<div class="panel" style="margin-bottom:9px">' +
+      '<strong>' + action(other,title) + '</strong>' +
+      '<div class="count">' + html(edge.type.replace(/_/g,' ')) + ' · '+html(ref)+'</div>'+
+      '<p class="muted" style="font-size:.83rem">' + html(edge.claim) + '</p>' +
+      '<a href="graph.html?focus='+encodeURIComponent(linkId)+'">Inspect sources and context ↗</a>' +
+      (direct.includes(edge) ? '' : '<p class="count">Relation inherited from a broader topic</p>') +
+      '</div>';
+  });
+  return parts.join('')+'<p><a href="graph.html?focus='+encodeURIComponent(id)+'">Explore this topic in the evidence graph →</a></p>';
+}
 function nodePage(id) {
   const node = byId(id);
   const lineage = ancestors(id);
@@ -199,7 +225,8 @@ function nodePage(id) {
     : "<section class='caution'>This is a classification entry, not a rewritten lecture. Further explanation will be attached only when a specific original passage has been checked.</section>";
   const siblings = parentId(id) ? (byId(parentId(id))?.children || []).filter((n) => n.id !== id).slice(0, 7) : [];
   const aside = '<aside><div class="panel"><h2>Read at the source</h2>' + sourceBlock(node) + '</div>' +
-    '<div class="panel" style="margin-top:16px"><h2>Connections</h2>' + relatedBlock(id) + "</div></aside>";
+    '<div class="panel" style="margin-top:16px"><h2>Passage-linked relationships</h2>' + checkedGraphBlock(id) +
+    '</div><div class="panel" style="margin-top:16px"><h2>Unverified proposed links</h2>' + relatedBlock(id) + "</div></aside>";
   const inside = '<div><div class="stats">' +
     '<div class="stat"><strong>' + html(id) + '</strong><span>Stable concept ID</span></div>' +
     '<div class="stat"><strong>' + countDescendants(node) + '</strong><span>Descendant entries</span></div>' +
@@ -217,6 +244,7 @@ function homePage() {
   return '<p class="eyebrow">Explore · Connect · Return to Steiner</p>' +
     "<h1>Find the teaching, then read the original.</h1>" +
     '<p class="intro">This atlas complements the existing archives: it classifies concepts at finer depth and reveals relationships between subjects. It does not reproduce their full books, lectures, or independent bibliographic work.</p>' +
+    '<p><a href="graph.html" class="btn">Explore evidence-linked knowledge graph →</a></p>' +
     '<div class="stats"><div class="stat"><strong>6</strong><span>Knowledge regions</span></div>' +
     '<div class="stat"><strong>' + domains.length + '</strong><span>Thematic domains</span></div>' +
     '<div class="stat"><strong>' + nodes.length.toLocaleString() + '</strong><span>Indexed nodes</span></div>' +
@@ -277,18 +305,19 @@ function render() {
 }
 async function initialize() {
   try {
-    const [taxResponse, pathsResponse, anchorsResponse, crosswalkResponse, modelsResponse, vocabularyResponse] = await Promise.all([
+    const [taxResponse, pathsResponse, anchorsResponse, crosswalkResponse, modelsResponse, vocabularyResponse, evidenceResponse] = await Promise.all([
       fetch("../taxonomy/taxonomy-v1.json"),
       fetch("study-paths.json"),
       fetch("../research/primary-source-anchors.json"),
       fetch("../research/archive-topic-crosswalk.json"),
       fetch("../research/concept-models.json"),
-      fetch("../research/search-vocabulary.json")
+      fetch("../research/search-vocabulary.json"),
+      fetch("../research/knowledge-graph-v1.json")
     ]);
-    if ([taxResponse, pathsResponse, anchorsResponse, crosswalkResponse, modelsResponse, vocabularyResponse].some((r) => !r.ok))
+    if ([taxResponse, pathsResponse, anchorsResponse, crosswalkResponse, modelsResponse, vocabularyResponse, evidenceResponse].some((r) => !r.ok))
       throw new Error("One of the local data files could not be loaded.");
-    [state.data, state.paths, state.anchors, state.crosswalk, state.models, state.vocabulary] = await Promise.all([
-      taxResponse.json(), pathsResponse.json(), anchorsResponse.json(), crosswalkResponse.json(), modelsResponse.json(), vocabularyResponse.json()
+    [state.data, state.paths, state.anchors, state.crosswalk, state.models, state.vocabulary, state.evidenceGraph] = await Promise.all([
+      taxResponse.json(), pathsResponse.json(), anchorsResponse.json(), crosswalkResponse.json(), modelsResponse.json(), vocabularyResponse.json(), evidenceResponse.json()
     ]);
     indexData(state.data);
     renderNav();
