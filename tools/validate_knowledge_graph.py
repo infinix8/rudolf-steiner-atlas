@@ -105,6 +105,34 @@ for edge in data.get("edges", []):
     b = edge.get("to", "").split("-")[1].split(".")[0] if "-" in edge.get("to", "") else ""
     if a and b and a != b: cross_domains += 1
 
+# Ensure old exploratory crosslinks cannot silently become 'verified'.
+legacy = json.loads((ROOT / "research/legacy-crosslink-audit.json").read_text(encoding="utf-8"))
+original_links = taxonomy.get("crosslinks", [])
+if len(legacy.get("relations", [])) != len(original_links):
+    errors.append("legacy crosslink audit is incomplete")
+edge_lookup = {e.get("id"): e for e in data.get("edges", [])}
+for idx, old in enumerate(original_links):
+    if idx >= len(legacy.get("relations", [])):
+        break
+    audit = legacy["relations"][idx]
+    if audit.get("from") != old.get("from") or audit.get("to") != old.get("to"):
+        errors.append(f"legacy order/endpoints mismatch at {idx + 1}")
+        continue
+    direct = [e for e in data.get("edges", []) if
+              (e.get("from"), e.get("to")) in (
+                  (old.get("from"), old.get("to")),
+                  (old.get("to"), old.get("from")))]
+    if audit.get("review_status") == "matched_exact_nodes":
+        if not direct:
+            errors.append(f"claim of match without exact evidence at {idx + 1}")
+        if not any(e.get("id") in audit.get("candidate_graph_edges", []) for e in direct):
+            errors.append(f"unlinked match at {idx + 1}")
+    elif audit.get("review_status") == "not_yet_evidenced":
+        if direct:
+            errors.append(f"new verified edge not reflected in legacy audit at {idx + 1}")
+    elif audit.get("review_status") != "related_descendant_evidence_not_sufficient":
+        errors.append(f"unknown audit status at {idx + 1}")
+
 for src in sources:
     if not source_refs[src]:
         errors.append("unused source: " + src)
