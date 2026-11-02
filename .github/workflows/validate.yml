@@ -17,5 +17,9 @@ jobs:
         run: python tools/validate_taxonomy.py
       - name: Check source gateway and study paths
         run: python tools/validate_atlas.py
+      - name: Check knowledge graph provenance
+        run: python tools/validate_knowledge_graph.py
       - name: JavaScript syntax
-        run: node --check atlas/app.js
+        run: |
+          node --check atlas/app.js
+          node --check atlas/graph.js
