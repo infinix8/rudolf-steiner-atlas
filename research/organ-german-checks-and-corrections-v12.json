@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "as_of": "2026-11-02",
+  "scope": "Selected original German checks; no full bilingual audit",
+  "checks": [
+    {"id":"DE12-01","ga":317,"date":"1924-06-27","section":3,"url":"https://rsarchive.org/Lectures/GA317/Compare_03.php","terms":["unterbrochen"],"finding":"Sleep interruption wording confirmed; compare regional redistribution in GA313 rather than imposing uniform identity."},
+    {"id":"DE12-02","ga":317,"date":"1924-06-27","section":5,"url":"https://rsarchive.org/Lectures/GA317/Compare_03.php","terms":["zurückgeht beim Aufwachen","für mein Bewußtsein"],"finding":"Return upon waking, not withdrawal; gravity-overcoming qualified in relation to consciousness."},
+    {"id":"DE12-03","ga":317,"date":"1924-06-27","section":6,"url":"https://rsarchive.org/Lectures/GA317/Compare_03.php","terms":["Auftrieb","direkt"],"finding":"Direct I relation confirmed; ORG-V8-041 indirect paraphrase is reversed."},
+    {"id":"DE12-04","ga":317,"date":"1924-06-27","section":12,"url":"https://rsarchive.org/Lectures/GA317/Compare_03.php","terms":["Lunge","Übergang"],"finding":"Lung explicitly illustrative, not an exclusive organ localization; distinguishes waking from acquiring consciousness."},
+    {"id":"DE12-05","ga":317,"date":"1924-06-27","section":22,"url":"https://rsarchive.org/Lectures/GA317/Compare_03.php","terms":["Milzfunktion"],"finding":"Spleen-function reference confirmed, not a named hierarchy; phrenology and moral-causation claim flagged."},
+    {"id":"DE12-06","ga":317,"date":"1924-06-28","section":5,"url":"https://rsarchive.org/Lectures/GA317/Compare_04.php","terms":["Hemmungsorgane","Schmerz"],"finding":"Distinguishes consciousness-inhibiting from consciousness-promoting organs, without naming concrete organ pairs."},
+    {"id":"DE12-07","ga":317,"date":"1924-06-28","section":7,"url":"https://rsarchive.org/Lectures/GA317/Compare_04.php","terms":["durchlässig","Sekretion"],"finding":"Excess permeability and secretion relation confirmed; supersensible outflow is not literal anatomical fluid leakage."},
+    {"id":"DE12-08","ga":317,"date":"1924-06-28","section":10,"url":"https://rsarchive.org/Lectures/GA317/Compare_04.php","terms":["zu schwach","zu stark"],"finding":"German contrasts weak contact in the preceding model with excessive contact here; English syntax obscures contrast."},
+    {"id":"DE12-09","ga":317,"date":"1924-06-28","section":23,"url":"https://rsarchive.org/Lectures/GA317/Compare_04.php","terms":["Drüsensekretion"],"finding":"Glandular secretion confirmed; no specific endocrine gland is named."}
+  ],
+  "corrections": [
+    {"target":"ORG-V8-041","kind":"reversed_relation","replacement_claim":"ORG-CLAIM-V12-004","action":"Preserve original record; use corrected direct-contact interpretation in current synthesis."},
+    {"target":"ORG-V9-017","kind":"wrong_prior_id","old":"ORG-V8-036","corrected":"ORG-V8-040"},
+    {"target":"ORG-V9-018","kind":"wrong_prior_id","old":"ORG-V8-044","corrected":"ORG-V8-042"},
+    {"target":"ORG-V9-019","kind":"wrong_prior_id","old":"ORG-V8-046","corrected":"ORG-V8-044"}
+  ],
+  "unresolved": [
+    {"id":"TENSION12-SLEEP","relation":"apparent_conflict","sources":["GA317 1924-06-27 §3","GA313 1921-04-12 §26","GA313 1921-04-13 §5"],"status":"not_resolved","next_action":"Collate all original German sections and distinguish whole-person schematic statement from regional activity."},
+    {"id":"TENSION12-FORMULA","source":"GA317 1924-06-28 §4","status":"digital_formula_uncertain","next_action":"Check printed German edition before attributing precise erroneous formula to Steiner."}
+  ]
+}

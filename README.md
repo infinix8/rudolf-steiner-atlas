@@ -99,3 +99,8 @@ The **original archives remain the only reading destinations for full texts**. N
 - [Original research and build record](docs/ITERATION_2026-11-02_CONCEPT_CONTEXTS.md) documents ten new sources and remaining open questions.
 
 To run: `python -m http.server 8000` in the repository root, then visit `http://localhost:8000/atlas/trajectories.html`. The site has not been publicly deployed. **Steiner's original works stay at the existing archive.**
+
+# Organ concordance research checkpoint — phase 12
+
+Current organ research: [Phase 12 findings](docs/ORGAN_CONCORDANCE_PHASE12_FINDINGS.md), [coverage ledger v12](research/organ-corpus-ledger-ga313-317-v12.json), [organ dossiers v12](research/organ-comparative-dossiers-v12.json). GA 317 III–IV complete in English at numbered-section level; full bilingual exhaustive audit pending. Older phase records below retain their historical counts.
+

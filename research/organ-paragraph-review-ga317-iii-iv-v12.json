@@ -1,0 +1,1040 @@
+{
+  "schema_version": "1.0",
+  "as_of": "2026-11-02",
+  "source_kind": "recorded lectures, SOL English translation; original German selected comparisons",
+  "review_complete": true,
+  "full_bilingual_review": false,
+  "lectures": [
+    {
+      "ga": 317,
+      "date": "1924-06-27",
+      "url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "english_numbered_paragraphs": 26,
+      "review_complete": true
+    },
+    {
+      "ga": 317,
+      "date": "1924-06-28",
+      "url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "english_numbered_paragraphs": 34,
+      "review_complete": true
+    }
+  ],
+  "records": [
+    {
+      "id": "ORG-S12-GA317-19240627-P01",
+      "ga": 317,
+      "date": "1924-06-27",
+      "paragraph": 1,
+      "classification": "context",
+      "summary": "Individualized education; world-ether recap.",
+      "organ_terms": [
+        "etheric organization"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "exhaustive_atomic_claims": false,
+      "zero_new_organ_specific_claim": true,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S12-GA317-19240627-P02",
+      "ga": 317,
+      "date": "1924-06-27",
+      "paragraph": 2,
+      "classification": "therapy_context",
+      "summary": "Childhood intervention contrasted with adult institutions.",
+      "organ_terms": [],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "exhaustive_atomic_claims": false,
+      "zero_new_organ_specific_claim": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S12-GA317-19240627-P03",
+      "ga": 317,
+      "date": "1924-06-27",
+      "paragraph": 3,
+      "classification": "sleep_wake",
+      "summary": "Physical–etheric continuity; interrupted astral/I connection.",
+      "organ_terms": [
+        "whole organism"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "exhaustive_atomic_claims": false,
+      "zero_new_organ_specific_claim": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S12-GA317-19240627-P04",
+      "ga": 317,
+      "date": "1924-06-27",
+      "paragraph": 4,
+      "classification": "waking",
+      "summary": "Entry alone does not explain waking.",
+      "organ_terms": [
+        "whole organism"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "exhaustive_atomic_claims": false,
+      "zero_new_organ_specific_claim": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S12-GA317-19240627-P05",
+      "ga": 317,
+      "date": "1924-06-27",
+      "paragraph": 5,
+      "classification": "force_relation",
+      "summary": "I allegedly contacts gravity directly.",
+      "organ_terms": [
+        "posture",
+        "warmth organism"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "exhaustive_atomic_claims": false,
+      "zero_new_organ_specific_claim": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S12-GA317-19240627-P06",
+      "ga": 317,
+      "date": "1924-06-27",
+      "paragraph": 6,
+      "classification": "organ_relation",
+      "summary": "Brain buoyancy illustrates direct I relation.",
+      "organ_terms": [
+        "brain",
+        "cerebrospinal fluid"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "exhaustive_atomic_claims": false,
+      "zero_new_organ_specific_claim": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S12-GA317-19240627-P07",
+      "ga": 317,
+      "date": "1924-06-27",
+      "paragraph": 7,
+      "classification": "force_relation",
+      "summary": "I related to terrestrial elemental forces.",
+      "organ_terms": [
+        "whole organism"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "exhaustive_atomic_claims": false,
+      "zero_new_organ_specific_claim": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S12-GA317-19240627-P08",
+      "ga": 317,
+      "date": "1924-06-27",
+      "paragraph": 8,
+      "classification": "context",
+      "summary": "Direct relation characterized as magical.",
+      "organ_terms": [
+        "whole organism"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "exhaustive_atomic_claims": false,
+      "zero_new_organ_specific_claim": true,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S12-GA317-19240627-P09",
+      "ga": 317,
+      "date": "1924-06-27",
+      "paragraph": 9,
+      "classification": "sensory_relation",
+      "summary": "Astral relation to expanded light concept.",
+      "organ_terms": [
+        "senses"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "exhaustive_atomic_claims": false,
+      "zero_new_organ_specific_claim": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S12-GA317-19240627-P10",
+      "ga": 317,
+      "date": "1924-06-27",
+      "paragraph": 10,
+      "classification": "development",
+      "summary": "Successive bodily development requires world connection.",
+      "organ_terms": [
+        "whole organism"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "exhaustive_atomic_claims": false,
+      "zero_new_organ_specific_claim": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S12-GA317-19240627-P11",
+      "ga": 317,
+      "date": "1924-06-27",
+      "paragraph": 11,
+      "classification": "organ_relation",
+      "summary": "Eye illustrates direct spiritual/physical contact.",
+      "organ_terms": [
+        "eyes"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "exhaustive_atomic_claims": false,
+      "zero_new_organ_specific_claim": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S12-GA317-19240627-P12",
+      "ga": 317,
+      "date": "1924-06-27",
+      "paragraph": 12,
+      "classification": "historical_pathology",
+      "summary": "Lung obstruction; waking distinguished from consciousness.",
+      "organ_terms": [
+        "lungs"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "exhaustive_atomic_claims": false,
+      "zero_new_organ_specific_claim": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S12-GA317-19240627-P13",
+      "ga": 317,
+      "date": "1924-06-27",
+      "paragraph": 13,
+      "classification": "historical_pathology",
+      "summary": "Congestion model; brain as possible reflection.",
+      "organ_terms": [
+        "lungs",
+        "liver",
+        "brain"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "exhaustive_atomic_claims": false,
+      "zero_new_organ_specific_claim": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S12-GA317-19240627-P14",
+      "ga": 317,
+      "date": "1924-06-27",
+      "paragraph": 14,
+      "classification": "historical_therapy",
+      "summary": "Balance exercises proposed for vertigo-associated seizures.",
+      "organ_terms": [
+        "limbs",
+        "equilibrium"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "exhaustive_atomic_claims": false,
+      "zero_new_organ_specific_claim": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S12-GA317-19240627-P15",
+      "ga": 317,
+      "date": "1924-06-27",
+      "paragraph": 15,
+      "classification": "historical_therapy",
+      "summary": "Fluid symptoms; water-related measures proposed.",
+      "organ_terms": [
+        "circulation",
+        "digestion"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "exhaustive_atomic_claims": false,
+      "zero_new_organ_specific_claim": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S12-GA317-19240627-P16",
+      "ga": 317,
+      "date": "1924-06-27",
+      "paragraph": 16,
+      "classification": "historical_therapy",
+      "summary": "Breathing/warmth measures; false appendicitis explanation.",
+      "organ_terms": [
+        "breathing",
+        "skin",
+        "appendix"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "exhaustive_atomic_claims": false,
+      "zero_new_organ_specific_claim": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S12-GA317-19240627-P17",
+      "ga": 317,
+      "date": "1924-06-27",
+      "paragraph": 17,
+      "classification": "medical_context",
+      "summary": "Physician involvement for alleged astral blockage.",
+      "organ_terms": [
+        "whole organism"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "exhaustive_atomic_claims": false,
+      "zero_new_organ_specific_claim": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S12-GA317-19240627-P18",
+      "ga": 317,
+      "date": "1924-06-27",
+      "paragraph": 18,
+      "classification": "historical_therapy",
+      "summary": "Moralized symptoms; sulfur/belladonna recommendations.",
+      "organ_terms": [
+        "whole organism"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "exhaustive_atomic_claims": false,
+      "zero_new_organ_specific_claim": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S12-GA317-19240627-P19",
+      "ga": 317,
+      "date": "1924-06-27",
+      "paragraph": 19,
+      "classification": "incarnation",
+      "summary": "Organ thought distinguished from inherited will.",
+      "organ_terms": [
+        "lungs",
+        "whole organism"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "exhaustive_atomic_claims": false,
+      "zero_new_organ_specific_claim": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S12-GA317-19240627-P20",
+      "ga": 317,
+      "date": "1924-06-27",
+      "paragraph": 20,
+      "classification": "moral_development",
+      "summary": "Language/imitation; whole-organism blockage hypothesis.",
+      "organ_terms": [
+        "whole organism"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "exhaustive_atomic_claims": false,
+      "zero_new_organ_specific_claim": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S12-GA317-19240627-P21",
+      "ga": 317,
+      "date": "1924-06-27",
+      "paragraph": 21,
+      "classification": "context",
+      "summary": "Temporary symptoms contrasted with lasting dispositions.",
+      "organ_terms": [],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "exhaustive_atomic_claims": false,
+      "zero_new_organ_specific_claim": true,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S12-GA317-19240627-P22",
+      "ga": 317,
+      "date": "1924-06-27",
+      "paragraph": 22,
+      "classification": "historical_pathology",
+      "summary": "Embryo–brain–spleen moral/phrenological claims.",
+      "organ_terms": [
+        "brain",
+        "spleen",
+        "head"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "exhaustive_atomic_claims": false,
+      "zero_new_organ_specific_claim": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S12-GA317-19240627-P23",
+      "ga": 317,
+      "date": "1924-06-27",
+      "paragraph": 23,
+      "classification": "anecdote",
+      "summary": "Poet/phrenologist anecdote supports alleged transformation.",
+      "organ_terms": [
+        "head"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "exhaustive_atomic_claims": false,
+      "zero_new_organ_specific_claim": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S12-GA317-19240627-P24",
+      "ga": 317,
+      "date": "1924-06-27",
+      "paragraph": 24,
+      "classification": "system_polarity",
+      "summary": "Acquisitive thinking contrasted with restrained will.",
+      "organ_terms": [
+        "brain",
+        "metabolic-limb system",
+        "rhythmic system"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "exhaustive_atomic_claims": false,
+      "zero_new_organ_specific_claim": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S12-GA317-19240627-P25",
+      "ga": 317,
+      "date": "1924-06-27",
+      "paragraph": 25,
+      "classification": "educational_context",
+      "summary": "Stories/gestures proposed for kleptomania.",
+      "organ_terms": [
+        "fingers",
+        "toes"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "exhaustive_atomic_claims": false,
+      "zero_new_organ_specific_claim": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S12-GA317-19240627-P26",
+      "ga": 317,
+      "date": "1924-06-27",
+      "paragraph": 26,
+      "classification": "closing_context",
+      "summary": "Promises cases; diagnosis-to-therapy conclusion.",
+      "organ_terms": [],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "exhaustive_atomic_claims": false,
+      "zero_new_organ_specific_claim": true,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S12-GA317-19240628-P01",
+      "ga": 317,
+      "date": "1924-06-28",
+      "paragraph": 1,
+      "classification": "context",
+      "summary": "Introductory recap; karmic illness attribution.",
+      "organ_terms": [],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "exhaustive_atomic_claims": false,
+      "zero_new_organ_specific_claim": true,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S12-GA317-19240628-P02",
+      "ga": 317,
+      "date": "1924-06-28",
+      "paragraph": 2,
+      "classification": "context",
+      "summary": "Rejects karmic fatalism; prenatal gods reference.",
+      "organ_terms": [
+        "embryonic organism"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "exhaustive_atomic_claims": false,
+      "zero_new_organ_specific_claim": true,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S12-GA317-19240628-P03",
+      "ga": 317,
+      "date": "1924-06-28",
+      "paragraph": 3,
+      "classification": "historical_pathology",
+      "summary": "Organ-surface retention allegedly produces convulsions.",
+      "organ_terms": [
+        "organ boundaries"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "exhaustive_atomic_claims": false,
+      "zero_new_organ_specific_claim": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S12-GA317-19240628-P04",
+      "ga": 317,
+      "date": "1924-06-28",
+      "paragraph": 4,
+      "classification": "analogy",
+      "summary": "Chemical proportions analogy; formula uncertainty.",
+      "organ_terms": [],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "exhaustive_atomic_claims": false,
+      "zero_new_organ_specific_claim": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S12-GA317-19240628-P05",
+      "ga": 317,
+      "date": "1924-06-28",
+      "paragraph": 5,
+      "classification": "historical_pathology",
+      "summary": "Organ-consciousness polarity; convulsion/pain distinction.",
+      "organ_terms": [
+        "organ boundaries",
+        "consciousness"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "exhaustive_atomic_claims": false,
+      "zero_new_organ_specific_claim": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S12-GA317-19240628-P06",
+      "ga": 317,
+      "date": "1924-06-28",
+      "paragraph": 6,
+      "classification": "context",
+      "summary": "Epileptic/epileptoid discussion transition.",
+      "organ_terms": [],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "exhaustive_atomic_claims": false,
+      "zero_new_organ_specific_claim": true,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S12-GA317-19240628-P07",
+      "ga": 317,
+      "date": "1924-06-28",
+      "paragraph": 7,
+      "classification": "historical_pathology",
+      "summary": "Excess permeability linked to secretions.",
+      "organ_terms": [
+        "organ boundaries",
+        "secretions"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "exhaustive_atomic_claims": false,
+      "zero_new_organ_specific_claim": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S12-GA317-19240628-P08",
+      "ga": 317,
+      "date": "1924-06-28",
+      "paragraph": 8,
+      "classification": "historical_classification",
+      "summary": "Critique of historical hysteria terminology.",
+      "organ_terms": [
+        "reproductive development"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "exhaustive_atomic_claims": false,
+      "zero_new_organ_specific_claim": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S12-GA317-19240628-P09",
+      "ga": 317,
+      "date": "1924-06-28",
+      "paragraph": 9,
+      "classification": "historical_classification",
+      "summary": "Prepubertal condition distinguished from sexual explanation.",
+      "organ_terms": [
+        "organ boundaries"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "exhaustive_atomic_claims": false,
+      "zero_new_organ_specific_claim": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S12-GA317-19240628-P10",
+      "ga": 317,
+      "date": "1924-06-28",
+      "paragraph": 10,
+      "classification": "sensory_relation",
+      "summary": "Environmental forces allegedly experienced excessively.",
+      "organ_terms": [
+        "whole organism",
+        "senses"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "exhaustive_atomic_claims": false,
+      "zero_new_organ_specific_claim": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S12-GA317-19240628-P11",
+      "ga": 317,
+      "date": "1924-06-28",
+      "paragraph": 11,
+      "classification": "analogy",
+      "summary": "Abraded-skin analogy; painful volition.",
+      "organ_terms": [
+        "skin",
+        "will"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "exhaustive_atomic_claims": false,
+      "zero_new_organ_specific_claim": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S12-GA317-19240628-P12",
+      "ga": 317,
+      "date": "1924-06-28",
+      "paragraph": 12,
+      "classification": "historical_psychology",
+      "summary": "Fearful representations and depressive affect theory.",
+      "organ_terms": [
+        "will",
+        "consciousness"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "exhaustive_atomic_claims": false,
+      "zero_new_organ_specific_claim": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S12-GA317-19240628-P13",
+      "ga": 317,
+      "date": "1924-06-28",
+      "paragraph": 13,
+      "classification": "method_context",
+      "summary": "Intuitive recognition of alleged outflow.",
+      "organ_terms": [
+        "organ complex"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "exhaustive_atomic_claims": false,
+      "zero_new_organ_specific_claim": true,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S12-GA317-19240628-P14",
+      "ga": 317,
+      "date": "1924-06-28",
+      "paragraph": 14,
+      "classification": "historical_pathology",
+      "summary": "Bedwetting attributed to astral outflow.",
+      "organ_terms": [
+        "urinary excretion"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "exhaustive_atomic_claims": false,
+      "zero_new_organ_specific_claim": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S12-GA317-19240628-P15",
+      "ga": 317,
+      "date": "1924-06-28",
+      "paragraph": 15,
+      "classification": "force_relation",
+      "summary": "Physical/etheric elemental relations; soul vulnerability.",
+      "organ_terms": [
+        "physical body",
+        "etheric body"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "exhaustive_atomic_claims": false,
+      "zero_new_organ_specific_claim": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S12-GA317-19240628-P16",
+      "ga": 317,
+      "date": "1924-06-28",
+      "paragraph": 16,
+      "classification": "death_analogy",
+      "summary": "Delayed sweating; outflow compared with dying.",
+      "organ_terms": [
+        "skin",
+        "secretions",
+        "whole organism"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "exhaustive_atomic_claims": false,
+      "zero_new_organ_specific_claim": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S12-GA317-19240628-P17",
+      "ga": 317,
+      "date": "1924-06-28",
+      "paragraph": 17,
+      "classification": "historical_diagnosis",
+      "summary": "Alleged auric smell and death-retrospect timing.",
+      "organ_terms": [
+        "olfaction",
+        "skin"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "exhaustive_atomic_claims": false,
+      "zero_new_organ_specific_claim": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S12-GA317-19240628-P18",
+      "ga": 317,
+      "date": "1924-06-28",
+      "paragraph": 18,
+      "classification": "method_context",
+      "summary": "Proposes multi-day observation interval.",
+      "organ_terms": [],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "exhaustive_atomic_claims": false,
+      "zero_new_organ_specific_claim": true,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S12-GA317-19240628-P19",
+      "ga": 317,
+      "date": "1924-06-28",
+      "paragraph": 19,
+      "classification": "educational_context",
+      "summary": "Educator temperament; criticism of examinations.",
+      "organ_terms": [],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "exhaustive_atomic_claims": false,
+      "zero_new_organ_specific_claim": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S12-GA317-19240628-P20",
+      "ga": 317,
+      "date": "1924-06-28",
+      "paragraph": 20,
+      "classification": "institutional_context",
+      "summary": "Lauenstein examination requirements discussed.",
+      "organ_terms": [],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "exhaustive_atomic_claims": false,
+      "zero_new_organ_specific_claim": true,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S12-GA317-19240628-P21",
+      "ga": 317,
+      "date": "1924-06-28",
+      "paragraph": 21,
+      "classification": "historical_therapy",
+      "summary": "Habitual shocks rejected; deliberate shocks endorsed.",
+      "organ_terms": [],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "exhaustive_atomic_claims": false,
+      "zero_new_organ_specific_claim": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S12-GA317-19240628-P22",
+      "ga": 317,
+      "date": "1924-06-28",
+      "paragraph": 22,
+      "classification": "historical_therapy",
+      "summary": "Pace changes allegedly consolidate astral/I.",
+      "organ_terms": [
+        "whole organism"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "exhaustive_atomic_claims": false,
+      "zero_new_organ_specific_claim": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S12-GA317-19240628-P23",
+      "ga": 317,
+      "date": "1924-06-28",
+      "paragraph": 23,
+      "classification": "glandular_relation",
+      "summary": "Teaching tempo allegedly affects gland secretion.",
+      "organ_terms": [
+        "glands",
+        "secretions"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "exhaustive_atomic_claims": false,
+      "zero_new_organ_specific_claim": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S12-GA317-19240628-P24",
+      "ga": 317,
+      "date": "1924-06-28",
+      "paragraph": 24,
+      "classification": "educational_context",
+      "summary": "Contrasts treatment approaches; mood alternation.",
+      "organ_terms": [],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "exhaustive_atomic_claims": false,
+      "zero_new_organ_specific_claim": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S12-GA317-19240628-P25",
+      "ga": 317,
+      "date": "1924-06-28",
+      "paragraph": 25,
+      "classification": "historical_psychology",
+      "summary": "Mood alternation explained through frustrated/released will.",
+      "organ_terms": [
+        "will",
+        "urinary excretion",
+        "skin"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "exhaustive_atomic_claims": false,
+      "zero_new_organ_specific_claim": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S12-GA317-19240628-P26",
+      "ga": 317,
+      "date": "1924-06-28",
+      "paragraph": 26,
+      "classification": "educational_context",
+      "summary": "Comfort contrasted with simply sharing sadness.",
+      "organ_terms": [],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "exhaustive_atomic_claims": false,
+      "zero_new_organ_specific_claim": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S12-GA317-19240628-P27",
+      "ga": 317,
+      "date": "1924-06-28",
+      "paragraph": 27,
+      "classification": "educational_context",
+      "summary": "Studies intention/action mismatch experience.",
+      "organ_terms": [
+        "will"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "exhaustive_atomic_claims": false,
+      "zero_new_organ_specific_claim": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S12-GA317-19240628-P28",
+      "ga": 317,
+      "date": "1924-06-28",
+      "paragraph": 28,
+      "classification": "context",
+      "summary": "Short formulation of intention/action mismatch.",
+      "organ_terms": [],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "exhaustive_atomic_claims": false,
+      "zero_new_organ_specific_claim": true,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S12-GA317-19240628-P29",
+      "ga": 317,
+      "date": "1924-06-28",
+      "paragraph": 29,
+      "classification": "historical_psychology",
+      "summary": "Mismatch explained by astral/I outflow.",
+      "organ_terms": [
+        "whole organism",
+        "will"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "exhaustive_atomic_claims": false,
+      "zero_new_organ_specific_claim": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S12-GA317-19240628-P30",
+      "ga": 317,
+      "date": "1924-06-28",
+      "paragraph": 30,
+      "classification": "educational_context",
+      "summary": "Symbolic movement accompaniment proposed.",
+      "organ_terms": [
+        "hand"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "exhaustive_atomic_claims": false,
+      "zero_new_organ_specific_claim": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S12-GA317-19240628-P31",
+      "ga": 317,
+      "date": "1924-06-28",
+      "paragraph": 31,
+      "classification": "method_context",
+      "summary": "Each child requires individualized investigation.",
+      "organ_terms": [],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "exhaustive_atomic_claims": false,
+      "zero_new_organ_specific_claim": true,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S12-GA317-19240628-P32",
+      "ga": 317,
+      "date": "1924-06-28",
+      "paragraph": 32,
+      "classification": "method_context",
+      "summary": "Educator self-education emphasized.",
+      "organ_terms": [],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "exhaustive_atomic_claims": false,
+      "zero_new_organ_specific_claim": true,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S12-GA317-19240628-P33",
+      "ga": 317,
+      "date": "1924-06-28",
+      "paragraph": 33,
+      "classification": "spiritual_interpretation",
+      "summary": "Symptoms called spiritually proximate; warns against deification.",
+      "organ_terms": [
+        "whole organism"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "exhaustive_atomic_claims": false,
+      "zero_new_organ_specific_claim": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S12-GA317-19240628-P34",
+      "ga": 317,
+      "date": "1924-06-28",
+      "paragraph": 34,
+      "classification": "closing_context",
+      "summary": "Diagnosis-to-therapy conclusion.",
+      "organ_terms": [],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "exhaustive_atomic_claims": false,
+      "zero_new_organ_specific_claim": true,
+      "german_collation": "not_full_collation"
+    }
+  ]
+}

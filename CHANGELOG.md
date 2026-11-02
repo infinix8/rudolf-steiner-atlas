@@ -115,3 +115,13 @@
 - Added a structural integrity validator and issue templates.
 
 **Caution:** GA-level source pointers are not complete passage-level verifications. The HTML atlas remains to be built.
+
+# 2026-11-02 — Organ concordance phase 12
+
+- Completed GA 317 III–IV: 60 English numbered sections; closed 31 pending sections. Six-lecture target census 164/164.
+- Added 38 selected proposition records (20 new candidates; 18 reconciled earlier relations), nine German comparison notes, four correction records and two unresolved textual/interpretive tensions.
+- Preserved prior files; added v12 ledgers and 14 cumulative organ/process dossiers, including spleen, skin and gland/secretory entries.
+- Added two source pages and five source-linked taxonomy graph edges; corrected stale coverage headlines through explicit metric definitions.
+- English-complete coverage now 12/61; 45 wholly unread entries remain. Full bilingual exhaustive second review remains zero.
+- See `docs/ORGAN_CONCORDANCE_PHASE12_FINDINGS.md` and `tools/validate_organ_concordance.py`.
+

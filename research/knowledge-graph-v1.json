@@ -807,6 +807,44 @@
         "archive_url_checked": true,
         "full_translation_collation": false
       }
+    },
+    {
+      "id": "SG-GA317-19240627",
+      "ga": "317",
+      "work": "Remedial Education Course",
+      "unit": "Lecture III",
+      "kind": "recorded_lecture",
+      "edition": "SOL English; selected German comparison",
+      "lecture_date": "1924-06-27",
+      "url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Graph edges cite selected sections within a complete English numbered-section review; full German collation and exhaustive atomization pending.",
+        "checked_on": "2026-11-02",
+        "entire_work_reviewed": false,
+        "archive_page_opened_on": "2026-11-02",
+        "archive_url_checked": true,
+        "full_translation_collation": false
+      }
+    },
+    {
+      "id": "SG-GA317-19240628",
+      "ga": "317",
+      "work": "Remedial Education Course",
+      "unit": "Lecture IV",
+      "kind": "recorded_lecture",
+      "edition": "SOL English; selected German comparison",
+      "lecture_date": "1924-06-28",
+      "url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Graph edges cite selected sections within a complete English numbered-section review; full German collation and exhaustive atomization pending.",
+        "checked_on": "2026-11-02",
+        "entire_work_reviewed": false,
+        "archive_page_opened_on": "2026-11-02",
+        "archive_url_checked": true,
+        "full_translation_collation": false
+      }
     }
   ],
   "edges": [
@@ -3875,6 +3913,91 @@
       ],
       "claim": "Steiner's authored discussion of Goethe and Schiller displays his early interest in Goethe's scientific writings.",
       "relation_family": "contextual_association"
+    },
+    {
+      "id": "KG-180",
+      "from": "RS-09.01.04",
+      "to": "RS-10.03.05",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA317-19240627",
+          "passage_locator": "§§5–7"
+        }
+      ],
+      "claim": "Steiner relates the I directly to gravity and equilibrium; this is a supersensible attribution, not measured mechanics.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-181",
+      "from": "RS-09.01.04",
+      "to": "RS-18.02",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA317-19240627",
+          "passage_locator": "§§11–13"
+        }
+      ],
+      "claim": "Steiner treats organs as passages for I/astral contact with surroundings; obstruction is his unsupported pathology model.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-182",
+      "from": "RS-18.02",
+      "to": "RS-10.02.03",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA317-19240627",
+          "passage_locator": "§12"
+        }
+      ],
+      "claim": "Steiner distinguishes waking from regained consciousness through the example of alleged lung obstruction.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-183",
+      "from": "RS-18.06",
+      "to": "RS-19.01.03",
+      "type": "motivates_educational_task",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA317-19240628",
+          "passage_locator": "§§31–33"
+        }
+      ],
+      "claim": "Steiner emphasizes individualized observation and educator self-education in curative education.",
+      "relation_family": "method_and_application"
+    },
+    {
+      "id": "KG-184",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA317-19240628",
+          "passage_locator": "§§5,7,23"
+        }
+      ],
+      "claim": "Steiner connects organ retention/outflow and gland secretion with astral/I activity; this is unvalidated historical physiology.",
+      "relation_family": "attributed_process_and_causation"
     }
   ],
   "version": "1.1",
@@ -3893,5 +4016,11 @@
       "explanation_and_interpretation": "How Steiner interprets, explains or frames a concept in a cited original source.",
       "contextual_association": "A documented topical association that does not establish a stronger causal, structural or historical connection."
     }
+  },
+  "organ_concordance_phase12": {
+    "new_sources": 2,
+    "new_edges": 5,
+    "claim_dataset": "research/organ-atomic-claims-ga317-iii-iv-v12.json",
+    "scope": "Graph edges select relations, not a count of unique organ claims."
   }
 }
