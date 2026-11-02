@@ -32,9 +32,9 @@ These are planned tasks; a checklist item is not complete merely because this do
 
 ## Phase 4 — Passage-level knowledge graph
 
-- [ ] Store per-concept source evidence with exact book section or dated lecture.
+- [x] First-pass source-linked graph: 66 typed relations with passage cues from 13 checked original pages (not full corpus).\n- [ ] Expand to per-concept source evidence across every subdomain and dated lecture.
 - [ ] Add original German terms, translations, aliases and chronology.
-- [ ] Add typed, source-supported crosslinks; resolve duplicate canonical ideas.
+- [x] Initial typed, passage-checked graph separate from 30 exploratory links; four exact matches identified.\n- [ ] Verify 26 remaining legacy crosslinks and resolve duplicate canonical ideas.
 - [ ] Mark every entry as lead / located / verified / contested.
 
 ## Phase 5 — HTML Atlas
