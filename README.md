@@ -104,3 +104,9 @@ To run: `python -m http.server 8000` in the repository root, then visit `http://
 
 Current organ research: [Phase 12 findings](docs/ORGAN_CONCORDANCE_PHASE12_FINDINGS.md), [coverage ledger v12](research/organ-corpus-ledger-ga313-317-v12.json), [organ dossiers v12](research/organ-comparative-dossiers-v12.json). GA 317 III–IV complete in English at numbered-section level; full bilingual exhaustive audit pending. Older phase records below retain their historical counts.
 
+# Current organ research — phase 13
+
+[Cumulative research manuscript v13](docs/Steiner_Organ_Evolution_Research_Atlas_v13.md) · [Exact continuation checkpoint](docs/ORGAN_CONCORDANCE_RESUME.md) · [Current coverage ledger](research/organ-corpus-ledger-ga313-317-v13.json) · [21 cumulative dossiers](research/organ-comparative-dossiers-v13.json) · [Phase 13 findings](docs/ORGAN_CONCORDANCE_PHASE13_FINDINGS.md).
+
+Current coverage: 16 complete English numbered-section lecture reviews, 1 additional thematic sweep, 3 selected-only entries, 41 unread of 61. Full bilingual exhaustive certification remains zero. Earlier checkpoints below retain historical statistics.
+

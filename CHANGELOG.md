@@ -125,3 +125,14 @@
 - English-complete coverage now 12/61; 45 wholly unread entries remain. Full bilingual exhaustive second review remains zero.
 - See `docs/ORGAN_CONCORDANCE_PHASE12_FINDINGS.md` and `tools/validate_organ_concordance.py`.
 
+# 2026-11-02 — Organ concordance phase 13
+
+- Read all 100 English numbered sections across previously unread GA313 IV (24), V (24), VI (22), and GA317 V (30).
+- Added 55 selected proposition records: 43 provisional new candidates, 12 different-context comparisons; no global unique count asserted.
+- Expanded cumulative dossiers from 14 to 21; added teeth, blood, bones, muscles, uterus, hair and limbs while preserving prior evidence.
+- Added eight German spot-check records and five textual/provenance issues; distinguish serial/polar metamorphosis and memory absorption/surface congestion.
+- Current ledger: 16 complete English numbered reviews, 1 thematic sweep, 3 selected-only, 41 unread; 395 sections in completed English reviews.
+- Added four source pages/seven edges to main graph; session total six pages/twelve edges. Added connected organ evidence graph and scoped search command.
+- Preserved complete source v11 manuscript in cumulative v13 with hash/byte-range provenance; appended current correction layer and both new phases. Added exact continuation checkpoint.
+- Validation: organ schema/arithmetic/preservation and main graph reference checks passed; regenerated quantitative graph coverage.
+

@@ -1,0 +1,1791 @@
+{
+  "schema_version": "1.0",
+  "as_of": "2026-11-02",
+  "scope": "Connected v12–v13 evidence with cumulative dossier and legacy-claim references; not complete corpus graph",
+  "nodes": [
+    {
+      "id": "organ-liver",
+      "kind": "organ_dossier",
+      "label": "liver"
+    },
+    {
+      "id": "organ-heart",
+      "kind": "organ_dossier",
+      "label": "heart"
+    },
+    {
+      "id": "organ-kidneys",
+      "kind": "organ_dossier",
+      "label": "kidneys"
+    },
+    {
+      "id": "organ-lungs",
+      "kind": "organ_dossier",
+      "label": "lungs"
+    },
+    {
+      "id": "organ-larynx",
+      "kind": "organ_dossier",
+      "label": "larynx"
+    },
+    {
+      "id": "organ-brain",
+      "kind": "organ_dossier",
+      "label": "brain"
+    },
+    {
+      "id": "organ-eyes",
+      "kind": "organ_dossier",
+      "label": "eyes"
+    },
+    {
+      "id": "organ-intestines",
+      "kind": "organ_dossier",
+      "label": "intestines"
+    },
+    {
+      "id": "organ-circulation",
+      "kind": "organ_dossier",
+      "label": "circulation"
+    },
+    {
+      "id": "organ-chest-rhythm",
+      "kind": "organ_dossier",
+      "label": "rhythmic chest system"
+    },
+    {
+      "id": "organ-stomach",
+      "kind": "organ_dossier",
+      "label": "stomach"
+    },
+    {
+      "id": "organ-spleen",
+      "kind": "organ_dossier",
+      "label": "spleen"
+    },
+    {
+      "id": "organ-skin",
+      "kind": "organ_dossier",
+      "label": "skin"
+    },
+    {
+      "id": "organ-glands-secretions",
+      "kind": "organ_dossier",
+      "label": "glands and secretions"
+    },
+    {
+      "id": "organ-teeth",
+      "kind": "organ_dossier",
+      "label": "teeth"
+    },
+    {
+      "id": "organ-blood",
+      "kind": "organ_dossier",
+      "label": "blood"
+    },
+    {
+      "id": "organ-bones",
+      "kind": "organ_dossier",
+      "label": "bones"
+    },
+    {
+      "id": "organ-muscles",
+      "kind": "organ_dossier",
+      "label": "muscles"
+    },
+    {
+      "id": "organ-uterus",
+      "kind": "organ_dossier",
+      "label": "uterus"
+    },
+    {
+      "id": "organ-hair",
+      "kind": "organ_dossier",
+      "label": "hair"
+    },
+    {
+      "id": "organ-limbs",
+      "kind": "organ_dossier",
+      "label": "limbs"
+    },
+    {
+      "id": "ORG-CLAIM-V12-001",
+      "kind": "claim",
+      "label": "physical_etheric_continuity",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "section": 3
+    },
+    {
+      "id": "ORG-CLAIM-V12-002",
+      "kind": "claim",
+      "label": "astral_I_sleep_interruption",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "section": 3
+    },
+    {
+      "id": "ORG-CLAIM-V12-003",
+      "kind": "claim",
+      "label": "I_direct_gravity",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "section": 5
+    },
+    {
+      "id": "ORG-CLAIM-V12-004",
+      "kind": "claim",
+      "label": "brain_buoyancy_I_direct",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "section": 6
+    },
+    {
+      "id": "ORG-CLAIM-V12-005",
+      "kind": "claim",
+      "label": "I_elemental_forces",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "section": 7
+    },
+    {
+      "id": "ORG-CLAIM-V12-006",
+      "kind": "claim",
+      "label": "astral_expanded_light",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "section": 9
+    },
+    {
+      "id": "ORG-CLAIM-V12-007",
+      "kind": "claim",
+      "label": "eye_direct_interface",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "section": 11
+    },
+    {
+      "id": "ORG-CLAIM-V12-008",
+      "kind": "claim",
+      "label": "lung_obstructed_passage",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "section": 12
+    },
+    {
+      "id": "ORG-CLAIM-V12-009",
+      "kind": "claim",
+      "label": "waking_without_consciousness",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "section": 12
+    },
+    {
+      "id": "ORG-CLAIM-V12-010",
+      "kind": "claim",
+      "label": "convulsion_surface_congestion",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "section": 13
+    },
+    {
+      "id": "ORG-CLAIM-V12-011",
+      "kind": "claim",
+      "label": "brain_secondary_projection",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "section": 13
+    },
+    {
+      "id": "ORG-CLAIM-V12-012",
+      "kind": "claim",
+      "label": "balance_therapy_claim",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "section": 14
+    },
+    {
+      "id": "ORG-CLAIM-V12-013",
+      "kind": "claim",
+      "label": "water_therapy_claim",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "section": 15
+    },
+    {
+      "id": "ORG-CLAIM-V12-014",
+      "kind": "claim",
+      "label": "breathing_therapy_claim",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "section": 16
+    },
+    {
+      "id": "ORG-CLAIM-V12-015",
+      "kind": "claim",
+      "label": "false_cold_appendicitis",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "section": 16
+    },
+    {
+      "id": "ORG-CLAIM-V12-016",
+      "kind": "claim",
+      "label": "warmth_therapy_claim",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "section": 16
+    },
+    {
+      "id": "ORG-CLAIM-V12-017",
+      "kind": "claim",
+      "label": "moralized_remedy_claim",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "section": 18
+    },
+    {
+      "id": "ORG-CLAIM-V12-018",
+      "kind": "claim",
+      "label": "organ_thought_integration",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "section": 19
+    },
+    {
+      "id": "ORG-CLAIM-V12-019",
+      "kind": "claim",
+      "label": "will_distributed_organs",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "section": 19
+    },
+    {
+      "id": "ORG-CLAIM-V12-020",
+      "kind": "claim",
+      "label": "moral_learning_organism",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "section": 20
+    },
+    {
+      "id": "ORG-CLAIM-V12-021",
+      "kind": "claim",
+      "label": "brain_spleen_moral_claim",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "section": 22
+    },
+    {
+      "id": "ORG-CLAIM-V12-022",
+      "kind": "claim",
+      "label": "false_phrenology",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "section": 22
+    },
+    {
+      "id": "ORG-CLAIM-V12-023",
+      "kind": "claim",
+      "label": "appropriation_system_polarity",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+      "section": 24
+    },
+    {
+      "id": "ORG-CLAIM-V12-024",
+      "kind": "claim",
+      "label": "generic_gods_prenatal",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "section": 2
+    },
+    {
+      "id": "ORG-CLAIM-V12-025",
+      "kind": "claim",
+      "label": "convulsion_surface_congestion",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "section": 3
+    },
+    {
+      "id": "ORG-CLAIM-V12-026",
+      "kind": "claim",
+      "label": "organ_astral_awareness",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "section": 5
+    },
+    {
+      "id": "ORG-CLAIM-V12-027",
+      "kind": "claim",
+      "label": "consciousness_pain_polarity",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "section": 5
+    },
+    {
+      "id": "ORG-CLAIM-V12-028",
+      "kind": "claim",
+      "label": "organ_excessive_permeability",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "section": 7
+    },
+    {
+      "id": "ORG-CLAIM-V12-029",
+      "kind": "claim",
+      "label": "wound_sensitivity_analogy",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "section": 11
+    },
+    {
+      "id": "ORG-CLAIM-V12-030",
+      "kind": "claim",
+      "label": "false_enuresis_etiology",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "section": 14
+    },
+    {
+      "id": "ORG-CLAIM-V12-031",
+      "kind": "claim",
+      "label": "elemental_relations_recap",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "section": 15
+    },
+    {
+      "id": "ORG-CLAIM-V12-032",
+      "kind": "claim",
+      "label": "delayed_sweating_claim",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "section": 16
+    },
+    {
+      "id": "ORG-CLAIM-V12-033",
+      "kind": "claim",
+      "label": "outflow_death_analogy",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "section": 16
+    },
+    {
+      "id": "ORG-CLAIM-V12-034",
+      "kind": "claim",
+      "label": "auric_smell_claim",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "section": 17
+    },
+    {
+      "id": "ORG-CLAIM-V12-035",
+      "kind": "claim",
+      "label": "tempo_consolidates_astral_I",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "section": 22
+    },
+    {
+      "id": "ORG-CLAIM-V12-036",
+      "kind": "claim",
+      "label": "teaching_tempo_glandular",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "section": 23
+    },
+    {
+      "id": "ORG-CLAIM-V12-037",
+      "kind": "claim",
+      "label": "outflow_intention_action",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "section": 29
+    },
+    {
+      "id": "ORG-CLAIM-V12-038",
+      "kind": "claim",
+      "label": "symbolic_movement_accompaniment",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
+      "section": 30
+    },
+    {
+      "id": "ORG-CLAIM-V13-001",
+      "kind": "claim",
+      "label": "insomnia_astral_adherence",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html",
+      "section": 1
+    },
+    {
+      "id": "ORG-CLAIM-V13-002",
+      "kind": "claim",
+      "label": "inadequate_waking_astral",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html",
+      "section": 4
+    },
+    {
+      "id": "ORG-CLAIM-V13-003",
+      "kind": "claim",
+      "label": "diet_rhythmic_polarity",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html",
+      "section": 6
+    },
+    {
+      "id": "ORG-CLAIM-V13-004",
+      "kind": "claim",
+      "label": "inner_I_birth",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html",
+      "section": 7
+    },
+    {
+      "id": "ORG-CLAIM-V13-005",
+      "kind": "claim",
+      "label": "I_penetrates_food_forces",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html",
+      "section": 8
+    },
+    {
+      "id": "ORG-CLAIM-V13-006",
+      "kind": "claim",
+      "label": "one_I_two_instruments",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html",
+      "section": 9
+    },
+    {
+      "id": "ORG-CLAIM-V13-007",
+      "kind": "claim",
+      "label": "childhood_head_gastric_relation",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html",
+      "section": 10
+    },
+    {
+      "id": "ORG-CLAIM-V13-008",
+      "kind": "claim",
+      "label": "homework_digestive_claim",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html",
+      "section": 11
+    },
+    {
+      "id": "ORG-CLAIM-V13-009",
+      "kind": "claim",
+      "label": "anemia_I_development_claim",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html",
+      "section": 12
+    },
+    {
+      "id": "ORG-CLAIM-V13-010",
+      "kind": "claim",
+      "label": "chest_dual_orientation",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html",
+      "section": 13
+    },
+    {
+      "id": "ORG-CLAIM-V13-011",
+      "kind": "claim",
+      "label": "inward_tasting_head_counteraction",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html",
+      "section": 14
+    },
+    {
+      "id": "ORG-CLAIM-V13-012",
+      "kind": "claim",
+      "label": "healing_as_inward_digestion",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html",
+      "section": 16
+    },
+    {
+      "id": "ORG-CLAIM-V13-013",
+      "kind": "claim",
+      "label": "organism_homeopathizes_metals",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html",
+      "section": 19
+    },
+    {
+      "id": "ORG-CLAIM-V13-014",
+      "kind": "claim",
+      "label": "head_warmth_metabolic_ascent",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html",
+      "section": 22
+    },
+    {
+      "id": "ORG-CLAIM-V13-015",
+      "kind": "claim",
+      "label": "cold_extremities_I_claim",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html",
+      "section": 23
+    },
+    {
+      "id": "ORG-CLAIM-V13-016",
+      "kind": "claim",
+      "label": "arsenization_force_not_substance",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html",
+      "section": 2
+    },
+    {
+      "id": "ORG-CLAIM-V13-017",
+      "kind": "claim",
+      "label": "whole_person_tooth_analogy",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html",
+      "section": 3
+    },
+    {
+      "id": "ORG-CLAIM-V13-018",
+      "kind": "claim",
+      "label": "dysentery_weak_astral_I",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html",
+      "section": 4
+    },
+    {
+      "id": "ORG-CLAIM-V13-019",
+      "kind": "claim",
+      "label": "speech_astral_upward",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html",
+      "section": 9
+    },
+    {
+      "id": "ORG-CLAIM-V13-020",
+      "kind": "claim",
+      "label": "false_contagion_imitation",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html",
+      "section": 12
+    },
+    {
+      "id": "ORG-CLAIM-V13-021",
+      "kind": "claim",
+      "label": "cinnabar_signature_therapy",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html",
+      "section": 13
+    },
+    {
+      "id": "ORG-CLAIM-V13-022",
+      "kind": "claim",
+      "label": "I_phosphorus_carrier",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html",
+      "section": 15
+    },
+    {
+      "id": "ORG-CLAIM-V13-023",
+      "kind": "claim",
+      "label": "I_blood_cell_boundary",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html",
+      "section": 17
+    },
+    {
+      "id": "ORG-CLAIM-V13-024",
+      "kind": "claim",
+      "label": "I_striated_muscle_relation",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html",
+      "section": 17
+    },
+    {
+      "id": "ORG-CLAIM-V13-025",
+      "kind": "claim",
+      "label": "phosphorization_tissue_decay",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html",
+      "section": 17
+    },
+    {
+      "id": "ORG-CLAIM-V13-026",
+      "kind": "claim",
+      "label": "poisoning_postmortem_analogy",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html",
+      "section": 18
+    },
+    {
+      "id": "ORG-CLAIM-V13-027",
+      "kind": "claim",
+      "label": "synthesis_analysis_members",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html",
+      "section": 21
+    },
+    {
+      "id": "ORG-CLAIM-V13-028",
+      "kind": "claim",
+      "label": "iron_analysis_exception",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html",
+      "section": 22
+    },
+    {
+      "id": "ORG-CLAIM-V13-029",
+      "kind": "claim",
+      "label": "lung_restrained_head_metamorphosis",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html",
+      "section": 4
+    },
+    {
+      "id": "ORG-CLAIM-V13-030",
+      "kind": "claim",
+      "label": "false_tuberculosis_thought_organ",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html",
+      "section": 5
+    },
+    {
+      "id": "ORG-CLAIM-V13-031",
+      "kind": "claim",
+      "label": "sensory_perception_refined_breathing",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html",
+      "section": 6
+    },
+    {
+      "id": "ORG-CLAIM-V13-032",
+      "kind": "claim",
+      "label": "liver_lung_head_metamorphosis",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html",
+      "section": 6
+    },
+    {
+      "id": "ORG-CLAIM-V13-033",
+      "kind": "claim",
+      "label": "astral_respiratory_sympathy",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html",
+      "section": 7
+    },
+    {
+      "id": "ORG-CLAIM-V13-034",
+      "kind": "claim",
+      "label": "organ_inward_spirit_activity",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html",
+      "section": 8
+    },
+    {
+      "id": "ORG-CLAIM-V13-035",
+      "kind": "claim",
+      "label": "liver_inward_spiritual_activity",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html",
+      "section": 9
+    },
+    {
+      "id": "ORG-CLAIM-V13-036",
+      "kind": "claim",
+      "label": "nitrogen_spiritualization_claim",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html",
+      "section": 10
+    },
+    {
+      "id": "ORG-CLAIM-V13-037",
+      "kind": "claim",
+      "label": "regional_member_elements",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html",
+      "section": 10
+    },
+    {
+      "id": "ORG-CLAIM-V13-038",
+      "kind": "claim",
+      "label": "heart_tissue_fluid_formation",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html",
+      "section": 11
+    },
+    {
+      "id": "ORG-CLAIM-V13-039",
+      "kind": "claim",
+      "label": "false_heart_no_pump",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html",
+      "section": 12
+    },
+    {
+      "id": "ORG-CLAIM-V13-040",
+      "kind": "claim",
+      "label": "heart_lung_polar_metamorphosis",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html",
+      "section": 14
+    },
+    {
+      "id": "ORG-CLAIM-V13-041",
+      "kind": "claim",
+      "label": "uterus_transformed_heart",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html",
+      "section": 14
+    },
+    {
+      "id": "ORG-CLAIM-V13-042",
+      "kind": "claim",
+      "label": "male_etheric_uterus",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html",
+      "section": 14
+    },
+    {
+      "id": "ORG-CLAIM-V13-043",
+      "kind": "claim",
+      "label": "combined_brain_liver_degeneration",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html",
+      "section": 19
+    },
+    {
+      "id": "ORG-CLAIM-V13-044",
+      "kind": "claim",
+      "label": "organ_unconscious_imagery",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html",
+      "section": 21
+    },
+    {
+      "id": "ORG-CLAIM-V13-045",
+      "kind": "claim",
+      "label": "hallucination_organ_defect_claim",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html",
+      "section": 21
+    },
+    {
+      "id": "ORG-CLAIM-V13-046",
+      "kind": "claim",
+      "label": "head_inward_I_outward_physical",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html",
+      "section": 5
+    },
+    {
+      "id": "ORG-CLAIM-V13-047",
+      "kind": "claim",
+      "label": "limb_peripheral_I_long_bones",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html",
+      "section": 6
+    },
+    {
+      "id": "ORG-CLAIM-V13-048",
+      "kind": "claim",
+      "label": "rhythm_mediates_polar_arrangements",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html",
+      "section": 7
+    },
+    {
+      "id": "ORG-CLAIM-V13-049",
+      "kind": "claim",
+      "label": "memory_lower_echo",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html",
+      "section": 8
+    },
+    {
+      "id": "ORG-CLAIM-V13-050",
+      "kind": "claim",
+      "label": "sulfur_poor_recurring_thought",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html",
+      "section": 11
+    },
+    {
+      "id": "ORG-CLAIM-V13-051",
+      "kind": "claim",
+      "label": "absorption_not_surface_congestion",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html",
+      "section": 12
+    },
+    {
+      "id": "ORG-CLAIM-V13-052",
+      "kind": "claim",
+      "label": "false_hair_sulfur_iron_diagnosis",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html",
+      "section": 15
+    },
+    {
+      "id": "ORG-CLAIM-V13-053",
+      "kind": "claim",
+      "label": "verse_alters_sulfur_claim",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html",
+      "section": 23
+    },
+    {
+      "id": "ORG-CLAIM-V13-054",
+      "kind": "claim",
+      "label": "motor_behavior_diagnostic_claim",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html",
+      "section": 29
+    },
+    {
+      "id": "ORG-CLAIM-V13-055",
+      "kind": "claim",
+      "label": "eurythmy_constitutional_therapy",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html",
+      "section": 30
+    },
+    {
+      "id": "ORG-V8-042",
+      "kind": "legacy_claim_reference",
+      "label": "ORG-V8-042"
+    },
+    {
+      "id": "ORG-V9-018",
+      "kind": "legacy_claim_reference",
+      "label": "ORG-V9-018"
+    },
+    {
+      "id": "ORG-V8-041",
+      "kind": "legacy_claim_reference",
+      "label": "ORG-V8-041"
+    },
+    {
+      "id": "ORG-V8-043",
+      "kind": "legacy_claim_reference",
+      "label": "ORG-V8-043"
+    },
+    {
+      "id": "ORG-V8-044",
+      "kind": "legacy_claim_reference",
+      "label": "ORG-V8-044"
+    },
+    {
+      "id": "ORG-V9-019",
+      "kind": "legacy_claim_reference",
+      "label": "ORG-V9-019"
+    },
+    {
+      "id": "ORG-V8-045",
+      "kind": "legacy_claim_reference",
+      "label": "ORG-V8-045"
+    },
+    {
+      "id": "ORG-V8-046",
+      "kind": "legacy_claim_reference",
+      "label": "ORG-V8-046"
+    },
+    {
+      "id": "ORG-V9-020",
+      "kind": "legacy_claim_reference",
+      "label": "ORG-V9-020"
+    },
+    {
+      "id": "ORG-V8-047",
+      "kind": "legacy_claim_reference",
+      "label": "ORG-V8-047"
+    },
+    {
+      "id": "ORG-V9-021",
+      "kind": "legacy_claim_reference",
+      "label": "ORG-V9-021"
+    },
+    {
+      "id": "ORG-V8-048",
+      "kind": "legacy_claim_reference",
+      "label": "ORG-V8-048"
+    },
+    {
+      "id": "ORG-V9-022",
+      "kind": "legacy_claim_reference",
+      "label": "ORG-V9-022"
+    },
+    {
+      "id": "ORG-V9-023",
+      "kind": "legacy_claim_reference",
+      "label": "ORG-V9-023"
+    },
+    {
+      "id": "ORG-V8-049",
+      "kind": "legacy_claim_reference",
+      "label": "ORG-V8-049"
+    },
+    {
+      "id": "ORG-CLAIM-V11-004",
+      "kind": "legacy_claim_reference",
+      "label": "ORG-CLAIM-V11-004"
+    },
+    {
+      "id": "ORG-CLAIM-V11-002",
+      "kind": "legacy_claim_reference",
+      "label": "ORG-CLAIM-V11-002"
+    },
+    {
+      "id": "ORG-CLAIM-V11-007",
+      "kind": "legacy_claim_reference",
+      "label": "ORG-CLAIM-V11-007"
+    },
+    {
+      "id": "ORG-V8-009",
+      "kind": "legacy_claim_reference",
+      "label": "ORG-V8-009"
+    },
+    {
+      "id": "ORG-CLAIM-V11-008",
+      "kind": "legacy_claim_reference",
+      "label": "ORG-CLAIM-V11-008"
+    },
+    {
+      "id": "ORG-CLAIM-V11-012",
+      "kind": "legacy_claim_reference",
+      "label": "ORG-CLAIM-V11-012"
+    },
+    {
+      "id": "ORG-V8-005",
+      "kind": "legacy_claim_reference",
+      "label": "ORG-V8-005"
+    },
+    {
+      "id": "ORG-CLAIM-V11-020",
+      "kind": "legacy_claim_reference",
+      "label": "ORG-CLAIM-V11-020"
+    },
+    {
+      "id": "RS-18.02",
+      "kind": "canonical_taxonomy",
+      "label": "Organ systems"
+    }
+  ],
+  "edges": [
+    {
+      "source": "organ-liver",
+      "target": "ORG-CLAIM-V12-010",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html"
+    },
+    {
+      "source": "organ-liver",
+      "target": "ORG-CLAIM-V12-011",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html"
+    },
+    {
+      "source": "organ-liver",
+      "target": "ORG-CLAIM-V13-032",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html"
+    },
+    {
+      "source": "organ-liver",
+      "target": "ORG-CLAIM-V13-033",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html"
+    },
+    {
+      "source": "organ-liver",
+      "target": "ORG-CLAIM-V13-035",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html"
+    },
+    {
+      "source": "organ-liver",
+      "target": "ORG-CLAIM-V13-043",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html"
+    },
+    {
+      "source": "organ-heart",
+      "target": "ORG-CLAIM-V13-038",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html"
+    },
+    {
+      "source": "organ-heart",
+      "target": "ORG-CLAIM-V13-039",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html"
+    },
+    {
+      "source": "organ-heart",
+      "target": "ORG-CLAIM-V13-040",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html"
+    },
+    {
+      "source": "organ-heart",
+      "target": "ORG-CLAIM-V13-041",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html"
+    },
+    {
+      "source": "organ-lungs",
+      "target": "ORG-CLAIM-V12-008",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html"
+    },
+    {
+      "source": "organ-lungs",
+      "target": "ORG-CLAIM-V12-009",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html"
+    },
+    {
+      "source": "organ-lungs",
+      "target": "ORG-CLAIM-V12-010",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html"
+    },
+    {
+      "source": "organ-lungs",
+      "target": "ORG-CLAIM-V12-011",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html"
+    },
+    {
+      "source": "organ-lungs",
+      "target": "ORG-CLAIM-V12-018",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html"
+    },
+    {
+      "source": "organ-lungs",
+      "target": "ORG-CLAIM-V13-003",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html"
+    },
+    {
+      "source": "organ-lungs",
+      "target": "ORG-CLAIM-V13-010",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html"
+    },
+    {
+      "source": "organ-lungs",
+      "target": "ORG-CLAIM-V13-013",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html"
+    },
+    {
+      "source": "organ-lungs",
+      "target": "ORG-CLAIM-V13-019",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html"
+    },
+    {
+      "source": "organ-lungs",
+      "target": "ORG-CLAIM-V13-029",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html"
+    },
+    {
+      "source": "organ-lungs",
+      "target": "ORG-CLAIM-V13-030",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html"
+    },
+    {
+      "source": "organ-lungs",
+      "target": "ORG-CLAIM-V13-032",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html"
+    },
+    {
+      "source": "organ-lungs",
+      "target": "ORG-CLAIM-V13-033",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html"
+    },
+    {
+      "source": "organ-lungs",
+      "target": "ORG-CLAIM-V13-040",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html"
+    },
+    {
+      "source": "organ-lungs",
+      "target": "ORG-CLAIM-V13-048",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html"
+    },
+    {
+      "source": "organ-brain",
+      "target": "ORG-CLAIM-V12-004",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html"
+    },
+    {
+      "source": "organ-brain",
+      "target": "ORG-CLAIM-V12-010",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html"
+    },
+    {
+      "source": "organ-brain",
+      "target": "ORG-CLAIM-V12-011",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html"
+    },
+    {
+      "source": "organ-brain",
+      "target": "ORG-CLAIM-V12-021",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html"
+    },
+    {
+      "source": "organ-brain",
+      "target": "ORG-CLAIM-V12-023",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html"
+    },
+    {
+      "source": "organ-brain",
+      "target": "ORG-CLAIM-V13-006",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html"
+    },
+    {
+      "source": "organ-brain",
+      "target": "ORG-CLAIM-V13-007",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html"
+    },
+    {
+      "source": "organ-brain",
+      "target": "ORG-CLAIM-V13-010",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html"
+    },
+    {
+      "source": "organ-brain",
+      "target": "ORG-CLAIM-V13-011",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html"
+    },
+    {
+      "source": "organ-brain",
+      "target": "ORG-CLAIM-V13-013",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html"
+    },
+    {
+      "source": "organ-brain",
+      "target": "ORG-CLAIM-V13-014",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html"
+    },
+    {
+      "source": "organ-brain",
+      "target": "ORG-CLAIM-V13-029",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html"
+    },
+    {
+      "source": "organ-brain",
+      "target": "ORG-CLAIM-V13-030",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html"
+    },
+    {
+      "source": "organ-brain",
+      "target": "ORG-CLAIM-V13-031",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html"
+    },
+    {
+      "source": "organ-brain",
+      "target": "ORG-CLAIM-V13-032",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html"
+    },
+    {
+      "source": "organ-brain",
+      "target": "ORG-CLAIM-V13-033",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html"
+    },
+    {
+      "source": "organ-brain",
+      "target": "ORG-CLAIM-V13-035",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html"
+    },
+    {
+      "source": "organ-brain",
+      "target": "ORG-CLAIM-V13-043",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html"
+    },
+    {
+      "source": "organ-brain",
+      "target": "ORG-CLAIM-V13-046",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html"
+    },
+    {
+      "source": "organ-brain",
+      "target": "ORG-CLAIM-V13-049",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html"
+    },
+    {
+      "source": "organ-eyes",
+      "target": "ORG-CLAIM-V12-007",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html"
+    },
+    {
+      "source": "organ-intestines",
+      "target": "ORG-CLAIM-V13-003",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html"
+    },
+    {
+      "source": "organ-intestines",
+      "target": "ORG-CLAIM-V13-005",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html"
+    },
+    {
+      "source": "organ-intestines",
+      "target": "ORG-CLAIM-V13-008",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html"
+    },
+    {
+      "source": "organ-intestines",
+      "target": "ORG-CLAIM-V13-011",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html"
+    },
+    {
+      "source": "organ-intestines",
+      "target": "ORG-CLAIM-V13-012",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html"
+    },
+    {
+      "source": "organ-intestines",
+      "target": "ORG-CLAIM-V13-018",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html"
+    },
+    {
+      "source": "organ-circulation",
+      "target": "ORG-CLAIM-V12-013",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html"
+    },
+    {
+      "source": "organ-circulation",
+      "target": "ORG-CLAIM-V13-003",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html"
+    },
+    {
+      "source": "organ-circulation",
+      "target": "ORG-CLAIM-V13-010",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html"
+    },
+    {
+      "source": "organ-circulation",
+      "target": "ORG-CLAIM-V13-019",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html"
+    },
+    {
+      "source": "organ-circulation",
+      "target": "ORG-CLAIM-V13-039",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html"
+    },
+    {
+      "source": "organ-circulation",
+      "target": "ORG-CLAIM-V13-048",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html"
+    },
+    {
+      "source": "organ-chest-rhythm",
+      "target": "ORG-CLAIM-V13-003",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html"
+    },
+    {
+      "source": "organ-chest-rhythm",
+      "target": "ORG-CLAIM-V13-010",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html"
+    },
+    {
+      "source": "organ-chest-rhythm",
+      "target": "ORG-CLAIM-V13-013",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html"
+    },
+    {
+      "source": "organ-chest-rhythm",
+      "target": "ORG-CLAIM-V13-019",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html"
+    },
+    {
+      "source": "organ-chest-rhythm",
+      "target": "ORG-CLAIM-V13-039",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html"
+    },
+    {
+      "source": "organ-chest-rhythm",
+      "target": "ORG-CLAIM-V13-048",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html"
+    },
+    {
+      "source": "organ-stomach",
+      "target": "ORG-CLAIM-V13-007",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html"
+    },
+    {
+      "source": "organ-stomach",
+      "target": "ORG-CLAIM-V13-016",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html"
+    },
+    {
+      "source": "organ-stomach",
+      "target": "ORG-CLAIM-V13-032",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html"
+    },
+    {
+      "source": "organ-spleen",
+      "target": "ORG-CLAIM-V12-021",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html"
+    },
+    {
+      "source": "organ-skin",
+      "target": "ORG-CLAIM-V12-015",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html"
+    },
+    {
+      "source": "organ-skin",
+      "target": "ORG-CLAIM-V12-016",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html"
+    },
+    {
+      "source": "organ-skin",
+      "target": "ORG-CLAIM-V12-029",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html"
+    },
+    {
+      "source": "organ-skin",
+      "target": "ORG-CLAIM-V12-032",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html"
+    },
+    {
+      "source": "organ-skin",
+      "target": "ORG-CLAIM-V12-034",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html"
+    },
+    {
+      "source": "organ-glands-secretions",
+      "target": "ORG-CLAIM-V12-028",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html"
+    },
+    {
+      "source": "organ-glands-secretions",
+      "target": "ORG-CLAIM-V12-030",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html"
+    },
+    {
+      "source": "organ-glands-secretions",
+      "target": "ORG-CLAIM-V12-032",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html"
+    },
+    {
+      "source": "organ-glands-secretions",
+      "target": "ORG-CLAIM-V12-036",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html"
+    },
+    {
+      "source": "organ-glands-secretions",
+      "target": "ORG-CLAIM-V13-018",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html"
+    },
+    {
+      "source": "organ-teeth",
+      "target": "ORG-CLAIM-V13-017",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html"
+    },
+    {
+      "source": "organ-blood",
+      "target": "ORG-CLAIM-V13-009",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html"
+    },
+    {
+      "source": "organ-blood",
+      "target": "ORG-CLAIM-V13-023",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html"
+    },
+    {
+      "source": "organ-blood",
+      "target": "ORG-CLAIM-V13-028",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html"
+    },
+    {
+      "source": "organ-bones",
+      "target": "ORG-CLAIM-V13-025",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html"
+    },
+    {
+      "source": "organ-bones",
+      "target": "ORG-CLAIM-V13-047",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html"
+    },
+    {
+      "source": "organ-muscles",
+      "target": "ORG-CLAIM-V13-024",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html"
+    },
+    {
+      "source": "organ-uterus",
+      "target": "ORG-CLAIM-V13-041",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html"
+    },
+    {
+      "source": "organ-uterus",
+      "target": "ORG-CLAIM-V13-042",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html"
+    },
+    {
+      "source": "organ-hair",
+      "target": "ORG-CLAIM-V13-052",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html"
+    },
+    {
+      "source": "organ-limbs",
+      "target": "ORG-CLAIM-V13-015",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html"
+    },
+    {
+      "source": "organ-limbs",
+      "target": "ORG-CLAIM-V13-047",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html"
+    },
+    {
+      "source": "organ-limbs",
+      "target": "ORG-CLAIM-V13-054",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html"
+    },
+    {
+      "source": "organ-limbs",
+      "target": "ORG-CLAIM-V13-055",
+      "relation": "indexed_by",
+      "evidence_source": "https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html"
+    },
+    {
+      "source": "ORG-CLAIM-V12-003",
+      "target": "ORG-V8-042",
+      "relation": "overlap",
+      "evidence_source": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html"
+    },
+    {
+      "source": "ORG-CLAIM-V12-003",
+      "target": "ORG-V9-018",
+      "relation": "overlap",
+      "evidence_source": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html"
+    },
+    {
+      "source": "ORG-CLAIM-V12-004",
+      "target": "ORG-V8-041",
+      "relation": "apparent_conflict",
+      "evidence_source": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html"
+    },
+    {
+      "source": "ORG-CLAIM-V12-005",
+      "target": "ORG-V8-042",
+      "relation": "same_claim",
+      "evidence_source": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html"
+    },
+    {
+      "source": "ORG-CLAIM-V12-005",
+      "target": "ORG-V9-018",
+      "relation": "same_claim",
+      "evidence_source": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html"
+    },
+    {
+      "source": "ORG-CLAIM-V12-006",
+      "target": "ORG-V8-043",
+      "relation": "overlap",
+      "evidence_source": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html"
+    },
+    {
+      "source": "ORG-CLAIM-V12-007",
+      "target": "ORG-V8-044",
+      "relation": "same_claim",
+      "evidence_source": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html"
+    },
+    {
+      "source": "ORG-CLAIM-V12-007",
+      "target": "ORG-V9-019",
+      "relation": "same_claim",
+      "evidence_source": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html"
+    },
+    {
+      "source": "ORG-CLAIM-V12-008",
+      "target": "ORG-V8-045",
+      "relation": "same_claim",
+      "evidence_source": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html"
+    },
+    {
+      "source": "ORG-CLAIM-V12-009",
+      "target": "ORG-V8-045",
+      "relation": "overlap",
+      "evidence_source": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html"
+    },
+    {
+      "source": "ORG-CLAIM-V12-010",
+      "target": "ORG-V8-046",
+      "relation": "same_claim",
+      "evidence_source": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html"
+    },
+    {
+      "source": "ORG-CLAIM-V12-011",
+      "target": "ORG-V8-046",
+      "relation": "overlap",
+      "evidence_source": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html"
+    },
+    {
+      "source": "ORG-CLAIM-V12-021",
+      "target": "ORG-V9-020",
+      "relation": "overlap",
+      "evidence_source": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html"
+    },
+    {
+      "source": "ORG-CLAIM-V12-022",
+      "target": "ORG-V9-020",
+      "relation": "overlap",
+      "evidence_source": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html"
+    },
+    {
+      "source": "ORG-CLAIM-V12-025",
+      "target": "ORG-V8-046",
+      "relation": "different_context",
+      "evidence_source": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html"
+    },
+    {
+      "source": "ORG-CLAIM-V12-026",
+      "target": "ORG-V8-047",
+      "relation": "overlap",
+      "evidence_source": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html"
+    },
+    {
+      "source": "ORG-CLAIM-V12-026",
+      "target": "ORG-V9-021",
+      "relation": "overlap",
+      "evidence_source": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html"
+    },
+    {
+      "source": "ORG-CLAIM-V12-027",
+      "target": "ORG-V8-047",
+      "relation": "overlap",
+      "evidence_source": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html"
+    },
+    {
+      "source": "ORG-CLAIM-V12-027",
+      "target": "ORG-V9-021",
+      "relation": "overlap",
+      "evidence_source": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html"
+    },
+    {
+      "source": "ORG-CLAIM-V12-028",
+      "target": "ORG-V8-048",
+      "relation": "same_claim",
+      "evidence_source": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html"
+    },
+    {
+      "source": "ORG-CLAIM-V12-028",
+      "target": "ORG-V9-022",
+      "relation": "same_claim",
+      "evidence_source": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html"
+    },
+    {
+      "source": "ORG-CLAIM-V12-030",
+      "target": "ORG-V9-023",
+      "relation": "same_claim",
+      "evidence_source": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html"
+    },
+    {
+      "source": "ORG-CLAIM-V12-031",
+      "target": "ORG-V8-042",
+      "relation": "different_context",
+      "evidence_source": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html"
+    },
+    {
+      "source": "ORG-CLAIM-V12-031",
+      "target": "ORG-V8-043",
+      "relation": "different_context",
+      "evidence_source": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html"
+    },
+    {
+      "source": "ORG-CLAIM-V12-033",
+      "target": "ORG-V8-049",
+      "relation": "same_claim",
+      "evidence_source": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html"
+    },
+    {
+      "source": "ORG-CLAIM-V13-001",
+      "target": "ORG-CLAIM-V11-004",
+      "relation": "different_context",
+      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html"
+    },
+    {
+      "source": "ORG-CLAIM-V13-002",
+      "target": "ORG-CLAIM-V12-009",
+      "relation": "different_context",
+      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html"
+    },
+    {
+      "source": "ORG-CLAIM-V13-010",
+      "target": "ORG-CLAIM-V11-002",
+      "relation": "different_context",
+      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html"
+    },
+    {
+      "source": "ORG-CLAIM-V13-010",
+      "target": "ORG-CLAIM-V11-007",
+      "relation": "different_context",
+      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html"
+    },
+    {
+      "source": "ORG-CLAIM-V13-017",
+      "target": "ORG-V8-009",
+      "relation": "different_context",
+      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html"
+    },
+    {
+      "source": "ORG-CLAIM-V13-020",
+      "target": "ORG-CLAIM-V11-008",
+      "relation": "different_context",
+      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html"
+    },
+    {
+      "source": "ORG-CLAIM-V13-026",
+      "target": "ORG-CLAIM-V12-033",
+      "relation": "different_context",
+      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html"
+    },
+    {
+      "source": "ORG-CLAIM-V13-027",
+      "target": "ORG-CLAIM-V11-012",
+      "relation": "different_context",
+      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html"
+    },
+    {
+      "source": "ORG-CLAIM-V13-037",
+      "target": "ORG-V8-005",
+      "relation": "different_context",
+      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html"
+    },
+    {
+      "source": "ORG-CLAIM-V13-045",
+      "target": "ORG-CLAIM-V12-026",
+      "relation": "different_context",
+      "evidence_source": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html"
+    },
+    {
+      "source": "ORG-CLAIM-V13-048",
+      "target": "ORG-CLAIM-V11-002",
+      "relation": "different_context",
+      "evidence_source": "https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html"
+    },
+    {
+      "source": "ORG-CLAIM-V13-051",
+      "target": "ORG-CLAIM-V12-010",
+      "relation": "different_context",
+      "evidence_source": "https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html"
+    },
+    {
+      "source": "ORG-CLAIM-V13-054",
+      "target": "ORG-CLAIM-V11-020",
+      "relation": "different_context",
+      "evidence_source": "https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html"
+    },
+    {
+      "source": "organ-liver",
+      "target": "RS-18.02",
+      "relation": "editorial_topic_index",
+      "evidence_source": "taxonomy/taxonomy-v1.json"
+    },
+    {
+      "source": "organ-heart",
+      "target": "RS-18.02",
+      "relation": "editorial_topic_index",
+      "evidence_source": "taxonomy/taxonomy-v1.json"
+    },
+    {
+      "source": "organ-kidneys",
+      "target": "RS-18.02",
+      "relation": "editorial_topic_index",
+      "evidence_source": "taxonomy/taxonomy-v1.json"
+    },
+    {
+      "source": "organ-lungs",
+      "target": "RS-18.02",
+      "relation": "editorial_topic_index",
+      "evidence_source": "taxonomy/taxonomy-v1.json"
+    },
+    {
+      "source": "organ-larynx",
+      "target": "RS-18.02",
+      "relation": "editorial_topic_index",
+      "evidence_source": "taxonomy/taxonomy-v1.json"
+    },
+    {
+      "source": "organ-brain",
+      "target": "RS-18.02",
+      "relation": "editorial_topic_index",
+      "evidence_source": "taxonomy/taxonomy-v1.json"
+    },
+    {
+      "source": "organ-eyes",
+      "target": "RS-18.02",
+      "relation": "editorial_topic_index",
+      "evidence_source": "taxonomy/taxonomy-v1.json"
+    },
+    {
+      "source": "organ-intestines",
+      "target": "RS-18.02",
+      "relation": "editorial_topic_index",
+      "evidence_source": "taxonomy/taxonomy-v1.json"
+    },
+    {
+      "source": "organ-circulation",
+      "target": "RS-18.02",
+      "relation": "editorial_topic_index",
+      "evidence_source": "taxonomy/taxonomy-v1.json"
+    },
+    {
+      "source": "organ-chest-rhythm",
+      "target": "RS-18.02",
+      "relation": "editorial_topic_index",
+      "evidence_source": "taxonomy/taxonomy-v1.json"
+    },
+    {
+      "source": "organ-stomach",
+      "target": "RS-18.02",
+      "relation": "editorial_topic_index",
+      "evidence_source": "taxonomy/taxonomy-v1.json"
+    },
+    {
+      "source": "organ-spleen",
+      "target": "RS-18.02",
+      "relation": "editorial_topic_index",
+      "evidence_source": "taxonomy/taxonomy-v1.json"
+    },
+    {
+      "source": "organ-skin",
+      "target": "RS-18.02",
+      "relation": "editorial_topic_index",
+      "evidence_source": "taxonomy/taxonomy-v1.json"
+    },
+    {
+      "source": "organ-glands-secretions",
+      "target": "RS-18.02",
+      "relation": "editorial_topic_index",
+      "evidence_source": "taxonomy/taxonomy-v1.json"
+    },
+    {
+      "source": "organ-teeth",
+      "target": "RS-18.02",
+      "relation": "editorial_topic_index",
+      "evidence_source": "taxonomy/taxonomy-v1.json"
+    },
+    {
+      "source": "organ-blood",
+      "target": "RS-18.02",
+      "relation": "editorial_topic_index",
+      "evidence_source": "taxonomy/taxonomy-v1.json"
+    },
+    {
+      "source": "organ-bones",
+      "target": "RS-18.02",
+      "relation": "editorial_topic_index",
+      "evidence_source": "taxonomy/taxonomy-v1.json"
+    },
+    {
+      "source": "organ-muscles",
+      "target": "RS-18.02",
+      "relation": "editorial_topic_index",
+      "evidence_source": "taxonomy/taxonomy-v1.json"
+    },
+    {
+      "source": "organ-uterus",
+      "target": "RS-18.02",
+      "relation": "editorial_topic_index",
+      "evidence_source": "taxonomy/taxonomy-v1.json"
+    },
+    {
+      "source": "organ-hair",
+      "target": "RS-18.02",
+      "relation": "editorial_topic_index",
+      "evidence_source": "taxonomy/taxonomy-v1.json"
+    },
+    {
+      "source": "organ-limbs",
+      "target": "RS-18.02",
+      "relation": "editorial_topic_index",
+      "evidence_source": "taxonomy/taxonomy-v1.json"
+    }
+  ]
+}

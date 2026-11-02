@@ -1,0 +1,1656 @@
+{
+  "schema_version": "1.0",
+  "as_of": "2026-11-02",
+  "scope": "Selected independent propositions, not exhaustive atomization",
+  "records": [
+    {
+      "id": "ORG-CLAIM-V13-001",
+      "ga": 313,
+      "date": "1921-04-14",
+      "section": 1,
+      "passage_cue": "English numbered §1",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "whole organism"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual hierarchy or exclusive builder in this proposition",
+      "predicate": "insomnia_astral_adherence",
+      "temporal_framework": "sleep_wake",
+      "paraphrase": "Steiner: Insomnia attributed to excessive astral adherence.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "not_checked_at_claim_level",
+      "reconciliation": {
+        "decision": "different_context",
+        "prior_claim_ids": [
+          "ORG-CLAIM-V11-004"
+        ],
+        "scope": "Comparison against loaded v8–v12 registers; new candidate does not certify corpus-wide novelty"
+      },
+      "caveats": [
+        "Steiner attribution, not independently established mechanism."
+      ],
+      "german_check_ids": []
+    },
+    {
+      "id": "ORG-CLAIM-V13-002",
+      "ga": 313,
+      "date": "1921-04-14",
+      "section": 4,
+      "passage_cue": "English numbered §4",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "chest"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual hierarchy or exclusive builder in this proposition",
+      "predicate": "inadequate_waking_astral",
+      "temporal_framework": "sleep_wake",
+      "paraphrase": "Steiner: Inadequate waking attributed to insufficient astral interaction.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "not_checked_at_claim_level",
+      "reconciliation": {
+        "decision": "different_context",
+        "prior_claim_ids": [
+          "ORG-CLAIM-V12-009"
+        ],
+        "scope": "Comparison against loaded v8–v12 registers; new candidate does not certify corpus-wide novelty"
+      },
+      "caveats": [
+        "Steiner attribution, not independently established mechanism."
+      ],
+      "german_check_ids": []
+    },
+    {
+      "id": "ORG-CLAIM-V13-003",
+      "ga": 313,
+      "date": "1921-04-14",
+      "section": 6,
+      "passage_cue": "English numbered §6",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "circulation",
+        "respiration",
+        "digestion"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual hierarchy or exclusive builder in this proposition",
+      "predicate": "diet_rhythmic_polarity",
+      "temporal_framework": "present_function",
+      "paraphrase": "Steiner: Fruit/root prescriptions differentiated by alleged circulatory/respiratory origin.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "not_checked_at_claim_level",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Comparison against loaded v8–v12 registers; new candidate does not certify corpus-wide novelty"
+      },
+      "caveats": [
+        "Steiner attribution, not independently established mechanism."
+      ],
+      "german_check_ids": []
+    },
+    {
+      "id": "ORG-CLAIM-V13-004",
+      "ga": 313,
+      "date": "1921-04-14",
+      "section": 7,
+      "passage_cue": "English numbered §7",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "whole organism"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual hierarchy or exclusive builder in this proposition",
+      "predicate": "inner_I_birth",
+      "temporal_framework": "childhood_9_to_10",
+      "paraphrase": "Steiner: Inner I development distinguished from later exoteric birth.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "not_checked_at_claim_level",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Comparison against loaded v8–v12 registers; new candidate does not certify corpus-wide novelty"
+      },
+      "caveats": [
+        "Steiner attribution, not independently established mechanism."
+      ],
+      "german_check_ids": []
+    },
+    {
+      "id": "ORG-CLAIM-V13-005",
+      "ga": 313,
+      "date": "1921-04-14",
+      "section": 8,
+      "passage_cue": "English numbered §8",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "digestion"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual hierarchy or exclusive builder in this proposition",
+      "predicate": "I_penetrates_food_forces",
+      "temporal_framework": "present_function",
+      "paraphrase": "Steiner: I alone allegedly transforms inner forces of food substances.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "not_checked_at_claim_level",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Comparison against loaded v8–v12 registers; new candidate does not certify corpus-wide novelty"
+      },
+      "caveats": [
+        "Steiner attribution, not independently established mechanism."
+      ],
+      "german_check_ids": []
+    },
+    {
+      "id": "ORG-CLAIM-V13-006",
+      "ga": 313,
+      "date": "1921-04-14",
+      "section": 9,
+      "passage_cue": "English numbered §9",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "head",
+        "metabolic-limb system"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual hierarchy or exclusive builder in this proposition",
+      "predicate": "one_I_two_instruments",
+      "temporal_framework": "childhood",
+      "paraphrase": "Steiner: Upper/lower descriptions concern instruments of a single I.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "German_spot_checked",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Comparison against loaded v8–v12 registers; new candidate does not certify corpus-wide novelty"
+      },
+      "caveats": [
+        "Steiner attribution, not independently established mechanism."
+      ],
+      "german_check_ids": [
+        "DE13-01"
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V13-007",
+      "ga": 313,
+      "date": "1921-04-14",
+      "section": 10,
+      "passage_cue": "English numbered §10",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "head",
+        "stomach"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual hierarchy or exclusive builder in this proposition",
+      "predicate": "childhood_head_gastric_relation",
+      "temporal_framework": "childhood",
+      "paraphrase": "Steiner: Headache and gastric secretion linked to alleged I adjustment.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "not_checked_at_claim_level",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Comparison against loaded v8–v12 registers; new candidate does not certify corpus-wide novelty"
+      },
+      "caveats": [
+        "Steiner attribution, not independently established mechanism."
+      ],
+      "german_check_ids": []
+    },
+    {
+      "id": "ORG-CLAIM-V13-008",
+      "ga": 313,
+      "date": "1921-04-14",
+      "section": 11,
+      "passage_cue": "English numbered §11",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "digestion"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual hierarchy or exclusive builder in this proposition",
+      "predicate": "homework_digestive_claim",
+      "temporal_framework": "childhood",
+      "paraphrase": "Steiner: Homework alleged to contribute to later digestive disturbance.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "not_checked_at_claim_level",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Comparison against loaded v8–v12 registers; new candidate does not certify corpus-wide novelty"
+      },
+      "caveats": [
+        "Steiner attribution, not independently established mechanism."
+      ],
+      "german_check_ids": []
+    },
+    {
+      "id": "ORG-CLAIM-V13-009",
+      "ga": 313,
+      "date": "1921-04-14",
+      "section": 12,
+      "passage_cue": "English numbered §12",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "blood"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual hierarchy or exclusive builder in this proposition",
+      "predicate": "anemia_I_development_claim",
+      "temporal_framework": "childhood_to_adult",
+      "paraphrase": "Steiner: Anemia explained through alleged inadequate I integration.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "not_checked_at_claim_level",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Comparison against loaded v8–v12 registers; new candidate does not certify corpus-wide novelty"
+      },
+      "caveats": [
+        "Steiner attribution, not independently established mechanism."
+      ],
+      "german_check_ids": []
+    },
+    {
+      "id": "ORG-CLAIM-V13-010",
+      "ga": 313,
+      "date": "1921-04-14",
+      "section": 13,
+      "passage_cue": "English numbered §13",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "circulation",
+        "respiration",
+        "head"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual hierarchy or exclusive builder in this proposition",
+      "predicate": "chest_dual_orientation",
+      "temporal_framework": "present_function",
+      "paraphrase": "Steiner: Circulation oriented toward metabolism, respiration toward head.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "not_checked_at_claim_level",
+      "reconciliation": {
+        "decision": "different_context",
+        "prior_claim_ids": [
+          "ORG-CLAIM-V11-002",
+          "ORG-CLAIM-V11-007"
+        ],
+        "scope": "Comparison against loaded v8–v12 registers; new candidate does not certify corpus-wide novelty"
+      },
+      "caveats": [
+        "Steiner attribution, not independently established mechanism."
+      ],
+      "german_check_ids": []
+    },
+    {
+      "id": "ORG-CLAIM-V13-011",
+      "ga": 313,
+      "date": "1921-04-14",
+      "section": 14,
+      "passage_cue": "English numbered §14",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "taste",
+        "digestion",
+        "head"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual hierarchy or exclusive builder in this proposition",
+      "predicate": "inward_tasting_head_counteraction",
+      "temporal_framework": "present_function",
+      "paraphrase": "Steiner: Digestive tasting allegedly extends inward and meets head counteraction.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "not_checked_at_claim_level",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Comparison against loaded v8–v12 registers; new candidate does not certify corpus-wide novelty"
+      },
+      "caveats": [
+        "Steiner attribution, not independently established mechanism."
+      ],
+      "german_check_ids": []
+    },
+    {
+      "id": "ORG-CLAIM-V13-012",
+      "ga": 313,
+      "date": "1921-04-14",
+      "section": 16,
+      "passage_cue": "English numbered §16",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "digestion"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual hierarchy or exclusive builder in this proposition",
+      "predicate": "healing_as_inward_digestion",
+      "temporal_framework": "therapeutic_analogy",
+      "paraphrase": "Steiner: Healing characterized as digestion shifted into the organism.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "not_checked_at_claim_level",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Comparison against loaded v8–v12 registers; new candidate does not certify corpus-wide novelty"
+      },
+      "caveats": [
+        "Steiner attribution, not independently established mechanism."
+      ],
+      "german_check_ids": []
+    },
+    {
+      "id": "ORG-CLAIM-V13-013",
+      "ga": 313,
+      "date": "1921-04-14",
+      "section": 19,
+      "passage_cue": "English numbered §19",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "head",
+        "respiration"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual hierarchy or exclusive builder in this proposition",
+      "predicate": "organism_homeopathizes_metals",
+      "temporal_framework": "historical_therapy",
+      "paraphrase": "Steiner: Organism alleged to potentize metals during inward transit.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "not_checked_at_claim_level",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Comparison against loaded v8–v12 registers; new candidate does not certify corpus-wide novelty"
+      },
+      "caveats": [
+        "Historical esoteric attribution; not accepted physiology, diagnosis or treatment.",
+        "Developmental/disability claims cannot be used to judge individuals."
+      ],
+      "german_check_ids": []
+    },
+    {
+      "id": "ORG-CLAIM-V13-014",
+      "ga": 313,
+      "date": "1921-04-14",
+      "section": 22,
+      "passage_cue": "English numbered §22",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "head",
+        "thermoregulation"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual hierarchy or exclusive builder in this proposition",
+      "predicate": "head_warmth_metabolic_ascent",
+      "temporal_framework": "childhood",
+      "paraphrase": "Steiner: Declining head warmth allegedly met by rising metabolic warmth.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "not_checked_at_claim_level",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Comparison against loaded v8–v12 registers; new candidate does not certify corpus-wide novelty"
+      },
+      "caveats": [
+        "Steiner attribution, not independently established mechanism."
+      ],
+      "german_check_ids": []
+    },
+    {
+      "id": "ORG-CLAIM-V13-015",
+      "ga": 313,
+      "date": "1921-04-14",
+      "section": 23,
+      "passage_cue": "English numbered §23",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "hands",
+        "feet",
+        "thermoregulation"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual hierarchy or exclusive builder in this proposition",
+      "predicate": "cold_extremities_I_claim",
+      "temporal_framework": "present_pathology",
+      "paraphrase": "Steiner: Cold extremities interpreted as insufficient I warmth activity.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "not_checked_at_claim_level",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Comparison against loaded v8–v12 registers; new candidate does not certify corpus-wide novelty"
+      },
+      "caveats": [
+        "Historical esoteric attribution; not accepted physiology, diagnosis or treatment.",
+        "Developmental/disability claims cannot be used to judge individuals."
+      ],
+      "german_check_ids": []
+    },
+    {
+      "id": "ORG-CLAIM-V13-016",
+      "ga": 313,
+      "date": "1921-04-15",
+      "section": 2,
+      "passage_cue": "English numbered §2",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "stomach",
+        "whole organism"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual hierarchy or exclusive builder in this proposition",
+      "predicate": "arsenization_force_not_substance",
+      "temporal_framework": "process_analogy",
+      "paraphrase": "Steiner: Arsenization denotes force activity without requiring literal arsenic.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "German_spot_checked",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Comparison against loaded v8–v12 registers; new candidate does not certify corpus-wide novelty"
+      },
+      "caveats": [
+        "Steiner attribution, not independently established mechanism."
+      ],
+      "german_check_ids": [
+        "DE13-02"
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V13-017",
+      "ga": 313,
+      "date": "1921-04-15",
+      "section": 3,
+      "passage_cue": "English numbered §3",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "teeth"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual hierarchy or exclusive builder in this proposition",
+      "predicate": "whole_person_tooth_analogy",
+      "temporal_framework": "therapeutic_analogy",
+      "paraphrase": "Steiner: Tooth/magnesium image proposed against excessive astralization.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "not_checked_at_claim_level",
+      "reconciliation": {
+        "decision": "different_context",
+        "prior_claim_ids": [
+          "ORG-V8-009"
+        ],
+        "scope": "Comparison against loaded v8–v12 registers; new candidate does not certify corpus-wide novelty"
+      },
+      "caveats": [
+        "Steiner attribution, not independently established mechanism."
+      ],
+      "german_check_ids": []
+    },
+    {
+      "id": "ORG-CLAIM-V13-018",
+      "ga": 313,
+      "date": "1921-04-15",
+      "section": 4,
+      "passage_cue": "English numbered §4",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "intestines",
+        "excretion"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual hierarchy or exclusive builder in this proposition",
+      "predicate": "dysentery_weak_astral_I",
+      "temporal_framework": "present_pathology",
+      "paraphrase": "Steiner: Diarrhea/dysentery attributed to weak astral/I organ penetration.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "not_checked_at_claim_level",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Comparison against loaded v8–v12 registers; new candidate does not certify corpus-wide novelty"
+      },
+      "caveats": [
+        "Historical esoteric attribution; not accepted physiology, diagnosis or treatment.",
+        "Developmental/disability claims cannot be used to judge individuals."
+      ],
+      "german_check_ids": []
+    },
+    {
+      "id": "ORG-CLAIM-V13-019",
+      "ga": 313,
+      "date": "1921-04-15",
+      "section": 9,
+      "passage_cue": "English numbered §9",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "speech",
+        "respiration",
+        "circulation"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual hierarchy or exclusive builder in this proposition",
+      "predicate": "speech_astral_upward",
+      "temporal_framework": "childhood",
+      "paraphrase": "Steiner: Excess upward astral speech process alleged to predispose diphtheria.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "not_checked_at_claim_level",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Comparison against loaded v8–v12 registers; new candidate does not certify corpus-wide novelty"
+      },
+      "caveats": [
+        "Steiner attribution, not independently established mechanism."
+      ],
+      "german_check_ids": []
+    },
+    {
+      "id": "ORG-CLAIM-V13-020",
+      "ga": 313,
+      "date": "1921-04-15",
+      "section": 12,
+      "passage_cue": "English numbered §12",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "whole organism"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual hierarchy or exclusive builder in this proposition",
+      "predicate": "false_contagion_imitation",
+      "temporal_framework": "present_pathology",
+      "paraphrase": "Steiner: Diphtheria transmission explained through organismic imitation.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "not_checked_at_claim_level",
+      "reconciliation": {
+        "decision": "different_context",
+        "prior_claim_ids": [
+          "ORG-CLAIM-V11-008"
+        ],
+        "scope": "Comparison against loaded v8–v12 registers; new candidate does not certify corpus-wide novelty"
+      },
+      "caveats": [
+        "Historical esoteric attribution; not accepted physiology, diagnosis or treatment.",
+        "Developmental/disability claims cannot be used to judge individuals."
+      ],
+      "german_check_ids": []
+    },
+    {
+      "id": "ORG-CLAIM-V13-021",
+      "ga": 313,
+      "date": "1921-04-15",
+      "section": 13,
+      "passage_cue": "English numbered §13",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "whole organism"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual hierarchy or exclusive builder in this proposition",
+      "predicate": "cinnabar_signature_therapy",
+      "temporal_framework": "historical_therapy",
+      "paraphrase": "Steiner: Cinnabar proposed against alleged fungal/astral disease process.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "not_checked_at_claim_level",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Comparison against loaded v8–v12 registers; new candidate does not certify corpus-wide novelty"
+      },
+      "caveats": [
+        "Historical esoteric attribution; not accepted physiology, diagnosis or treatment.",
+        "Developmental/disability claims cannot be used to judge individuals."
+      ],
+      "german_check_ids": []
+    },
+    {
+      "id": "ORG-CLAIM-V13-022",
+      "ga": 313,
+      "date": "1921-04-15",
+      "section": 15,
+      "passage_cue": "English numbered §15",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "whole organism"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual hierarchy or exclusive builder in this proposition",
+      "predicate": "I_phosphorus_carrier",
+      "temporal_framework": "present_function",
+      "paraphrase": "Steiner: I allegedly distributes bound phosphorus and regulates equilibrium.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "not_checked_at_claim_level",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Comparison against loaded v8–v12 registers; new candidate does not certify corpus-wide novelty"
+      },
+      "caveats": [
+        "Steiner attribution, not independently established mechanism."
+      ],
+      "german_check_ids": []
+    },
+    {
+      "id": "ORG-CLAIM-V13-023",
+      "ga": 313,
+      "date": "1921-04-15",
+      "section": 17,
+      "passage_cue": "English numbered §17",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "blood"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual hierarchy or exclusive builder in this proposition",
+      "predicate": "I_blood_cell_boundary",
+      "temporal_framework": "present_function",
+      "paraphrase": "Steiner: Blood cells described as boundary of I movement activity.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "German_spot_checked",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Comparison against loaded v8–v12 registers; new candidate does not certify corpus-wide novelty"
+      },
+      "caveats": [
+        "Steiner attribution, not independently established mechanism."
+      ],
+      "german_check_ids": [
+        "DE13-03"
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V13-024",
+      "ga": 313,
+      "date": "1921-04-15",
+      "section": 17,
+      "passage_cue": "English numbered §17",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "muscles"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual hierarchy or exclusive builder in this proposition",
+      "predicate": "I_striated_muscle_relation",
+      "temporal_framework": "present_function",
+      "paraphrase": "Steiner: Striated muscle fibers assigned particularly strong I influence.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "German_spot_checked",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Comparison against loaded v8–v12 registers; new candidate does not certify corpus-wide novelty"
+      },
+      "caveats": [
+        "Steiner attribution, not independently established mechanism."
+      ],
+      "german_check_ids": [
+        "DE13-03"
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V13-025",
+      "ga": 313,
+      "date": "1921-04-15",
+      "section": 17,
+      "passage_cue": "English numbered §17",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "bones",
+        "epithelium"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual hierarchy or exclusive builder in this proposition",
+      "predicate": "phosphorization_tissue_decay",
+      "temporal_framework": "present_pathology",
+      "paraphrase": "Steiner: Disordered phosphoric activity associated with tissue/bone degeneration.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "German_spot_checked",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Comparison against loaded v8–v12 registers; new candidate does not certify corpus-wide novelty"
+      },
+      "caveats": [
+        "Historical esoteric attribution; not accepted physiology, diagnosis or treatment.",
+        "Developmental/disability claims cannot be used to judge individuals."
+      ],
+      "german_check_ids": [
+        "DE13-03"
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V13-026",
+      "ga": 313,
+      "date": "1921-04-15",
+      "section": 18,
+      "passage_cue": "English numbered §18",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "whole organism"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual hierarchy or exclusive builder in this proposition",
+      "predicate": "poisoning_postmortem_analogy",
+      "temporal_framework": "death_analogy",
+      "paraphrase": "Steiner: Phosphorus poisoning compared to etheric/astral postmortem retrospect.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "not_checked_at_claim_level",
+      "reconciliation": {
+        "decision": "different_context",
+        "prior_claim_ids": [
+          "ORG-CLAIM-V12-033"
+        ],
+        "scope": "Comparison against loaded v8–v12 registers; new candidate does not certify corpus-wide novelty"
+      },
+      "caveats": [
+        "Steiner attribution, not independently established mechanism."
+      ],
+      "german_check_ids": []
+    },
+    {
+      "id": "ORG-CLAIM-V13-027",
+      "ga": 313,
+      "date": "1921-04-15",
+      "section": 21,
+      "passage_cue": "English numbered §21",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "metabolism"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual hierarchy or exclusive builder in this proposition",
+      "predicate": "synthesis_analysis_members",
+      "temporal_framework": "present_function",
+      "paraphrase": "Steiner: Physical/etheric synthesis opposed to I/astral analysis.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "not_checked_at_claim_level",
+      "reconciliation": {
+        "decision": "different_context",
+        "prior_claim_ids": [
+          "ORG-CLAIM-V11-012"
+        ],
+        "scope": "Comparison against loaded v8–v12 registers; new candidate does not certify corpus-wide novelty"
+      },
+      "caveats": [
+        "Steiner attribution, not independently established mechanism."
+      ],
+      "german_check_ids": []
+    },
+    {
+      "id": "ORG-CLAIM-V13-028",
+      "ga": 313,
+      "date": "1921-04-15",
+      "section": 22,
+      "passage_cue": "English numbered §22",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "blood"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual hierarchy or exclusive builder in this proposition",
+      "predicate": "iron_analysis_exception",
+      "temporal_framework": "present_function",
+      "paraphrase": "Steiner: Iron processing distinguished within analysis of metals.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "not_checked_at_claim_level",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Comparison against loaded v8–v12 registers; new candidate does not certify corpus-wide novelty"
+      },
+      "caveats": [
+        "Steiner attribution, not independently established mechanism."
+      ],
+      "german_check_ids": []
+    },
+    {
+      "id": "ORG-CLAIM-V13-029",
+      "ga": 313,
+      "date": "1921-04-16",
+      "section": 4,
+      "passage_cue": "English numbered §4",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "lungs",
+        "head"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual hierarchy or exclusive builder in this proposition",
+      "predicate": "lung_restrained_head_metamorphosis",
+      "temporal_framework": "formative_metamorphosis",
+      "paraphrase": "Steiner: Lung formation described as less advanced head-forming activity.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "not_checked_at_claim_level",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Comparison against loaded v8–v12 registers; new candidate does not certify corpus-wide novelty"
+      },
+      "caveats": [
+        "Steiner attribution, not independently established mechanism."
+      ],
+      "german_check_ids": []
+    },
+    {
+      "id": "ORG-CLAIM-V13-030",
+      "ga": 313,
+      "date": "1921-04-16",
+      "section": 5,
+      "passage_cue": "English numbered §5",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "lungs",
+        "head"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual hierarchy or exclusive builder in this proposition",
+      "predicate": "false_tuberculosis_thought_organ",
+      "temporal_framework": "present_pathology",
+      "paraphrase": "Steiner: Lung becoming thought-organ alleged as consumption mechanism.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "not_checked_at_claim_level",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Comparison against loaded v8–v12 registers; new candidate does not certify corpus-wide novelty"
+      },
+      "caveats": [
+        "Historical esoteric attribution; not accepted physiology, diagnosis or treatment.",
+        "Developmental/disability claims cannot be used to judge individuals."
+      ],
+      "german_check_ids": []
+    },
+    {
+      "id": "ORG-CLAIM-V13-031",
+      "ga": 313,
+      "date": "1921-04-16",
+      "section": 6,
+      "passage_cue": "English numbered §6",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "senses",
+        "head"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual hierarchy or exclusive builder in this proposition",
+      "predicate": "sensory_perception_refined_breathing",
+      "temporal_framework": "present_function",
+      "paraphrase": "Steiner: Sense perception described as breathing extended into etheric forces.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "not_checked_at_claim_level",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Comparison against loaded v8–v12 registers; new candidate does not certify corpus-wide novelty"
+      },
+      "caveats": [
+        "Steiner attribution, not independently established mechanism."
+      ],
+      "german_check_ids": []
+    },
+    {
+      "id": "ORG-CLAIM-V13-032",
+      "ga": 313,
+      "date": "1921-04-16",
+      "section": 6,
+      "passage_cue": "English numbered §6",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "liver",
+        "lungs",
+        "brain",
+        "stomach"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual hierarchy or exclusive builder in this proposition",
+      "predicate": "liver_lung_head_metamorphosis",
+      "temporal_framework": "formative_metamorphosis",
+      "paraphrase": "Steiner: Liver/lung situated between stomach and head in metamorphic sequence.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "not_checked_at_claim_level",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Comparison against loaded v8–v12 registers; new candidate does not certify corpus-wide novelty"
+      },
+      "caveats": [
+        "Steiner attribution, not independently established mechanism."
+      ],
+      "german_check_ids": []
+    },
+    {
+      "id": "ORG-CLAIM-V13-033",
+      "ga": 313,
+      "date": "1921-04-16",
+      "section": 7,
+      "passage_cue": "English numbered §7",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "lungs",
+        "liver",
+        "brain"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual hierarchy or exclusive builder in this proposition",
+      "predicate": "astral_respiratory_sympathy",
+      "temporal_framework": "present_function",
+      "paraphrase": "Steiner: Inhalation/exhalation assigned astral sympathy/antipathy.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "not_checked_at_claim_level",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Comparison against loaded v8–v12 registers; new candidate does not certify corpus-wide novelty"
+      },
+      "caveats": [
+        "Steiner attribution, not independently established mechanism."
+      ],
+      "german_check_ids": []
+    },
+    {
+      "id": "ORG-CLAIM-V13-034",
+      "ga": 313,
+      "date": "1921-04-16",
+      "section": 8,
+      "passage_cue": "English numbered §8",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "protein organs"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual hierarchy or exclusive builder in this proposition",
+      "predicate": "organ_inward_spirit_activity",
+      "temporal_framework": "present_function",
+      "paraphrase": "Steiner: Outward respiration paired with inward spiritual activity.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "not_checked_at_claim_level",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Comparison against loaded v8–v12 registers; new candidate does not certify corpus-wide novelty"
+      },
+      "caveats": [
+        "Steiner attribution, not independently established mechanism."
+      ],
+      "german_check_ids": []
+    },
+    {
+      "id": "ORG-CLAIM-V13-035",
+      "ga": 313,
+      "date": "1921-04-16",
+      "section": 9,
+      "passage_cue": "English numbered §9",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "liver",
+        "head"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual hierarchy or exclusive builder in this proposition",
+      "predicate": "liver_inward_spiritual_activity",
+      "temporal_framework": "present_function",
+      "paraphrase": "Steiner: Liver system given strongest inward spiritual activity.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "not_checked_at_claim_level",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Comparison against loaded v8–v12 registers; new candidate does not certify corpus-wide novelty"
+      },
+      "caveats": [
+        "Steiner attribution, not independently established mechanism."
+      ],
+      "german_check_ids": []
+    },
+    {
+      "id": "ORG-CLAIM-V13-036",
+      "ga": 313,
+      "date": "1921-04-16",
+      "section": 10,
+      "passage_cue": "English numbered §10",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "whole organism"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual hierarchy or exclusive builder in this proposition",
+      "predicate": "nitrogen_spiritualization_claim",
+      "temporal_framework": "present_function",
+      "paraphrase": "Steiner: Nitrogen excretion claimed to measure inward spiritualization.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "not_checked_at_claim_level",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Comparison against loaded v8–v12 registers; new candidate does not certify corpus-wide novelty"
+      },
+      "caveats": [
+        "Steiner attribution, not independently established mechanism."
+      ],
+      "german_check_ids": []
+    },
+    {
+      "id": "ORG-CLAIM-V13-037",
+      "ga": 313,
+      "date": "1921-04-16",
+      "section": 10,
+      "passage_cue": "English numbered §10",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "fluid organism",
+        "thermoregulation"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual hierarchy or exclusive builder in this proposition",
+      "predicate": "regional_member_elements",
+      "temporal_framework": "present_function",
+      "paraphrase": "Steiner: Etheric/water, astral/air and I/warmth activities distinguished.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "not_checked_at_claim_level",
+      "reconciliation": {
+        "decision": "different_context",
+        "prior_claim_ids": [
+          "ORG-V8-005"
+        ],
+        "scope": "Comparison against loaded v8–v12 registers; new candidate does not certify corpus-wide novelty"
+      },
+      "caveats": [
+        "Steiner attribution, not independently established mechanism."
+      ],
+      "german_check_ids": []
+    },
+    {
+      "id": "ORG-CLAIM-V13-038",
+      "ga": 313,
+      "date": "1921-04-16",
+      "section": 11,
+      "passage_cue": "English numbered §11",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "heart",
+        "interstitial fluid"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual hierarchy or exclusive builder in this proposition",
+      "predicate": "heart_tissue_fluid_formation",
+      "temporal_framework": "present_formation",
+      "paraphrase": "Steiner: Heart formation attributed to activity of tissue fluid.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "German_spot_checked",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Comparison against loaded v8–v12 registers; new candidate does not certify corpus-wide novelty"
+      },
+      "caveats": [
+        "Steiner attribution, not independently established mechanism."
+      ],
+      "german_check_ids": [
+        "DE13-04"
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V13-039",
+      "ga": 313,
+      "date": "1921-04-16",
+      "section": 12,
+      "passage_cue": "English numbered §12",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "heart",
+        "circulation"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual hierarchy or exclusive builder in this proposition",
+      "predicate": "false_heart_no_pump",
+      "temporal_framework": "present_function",
+      "paraphrase": "Steiner: Heart pumping denied in favor of circulation-reading analogy.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "German_spot_checked",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Comparison against loaded v8–v12 registers; new candidate does not certify corpus-wide novelty"
+      },
+      "caveats": [
+        "Historical esoteric attribution; not accepted physiology, diagnosis or treatment.",
+        "Developmental/disability claims cannot be used to judge individuals."
+      ],
+      "german_check_ids": [
+        "DE13-05"
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V13-040",
+      "ga": 313,
+      "date": "1921-04-16",
+      "section": 14,
+      "passage_cue": "English numbered §14",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "heart",
+        "lungs"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual hierarchy or exclusive builder in this proposition",
+      "predicate": "heart_lung_polar_metamorphosis",
+      "temporal_framework": "formative_metamorphosis",
+      "paraphrase": "Steiner: Heart–lung called polar metamorphosis rather than serial transformation.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "German_spot_checked",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Comparison against loaded v8–v12 registers; new candidate does not certify corpus-wide novelty"
+      },
+      "caveats": [
+        "Steiner attribution, not independently established mechanism."
+      ],
+      "german_check_ids": [
+        "DE13-06"
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V13-041",
+      "ga": 313,
+      "date": "1921-04-16",
+      "section": 14,
+      "passage_cue": "English numbered §14",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "uterus",
+        "heart"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual hierarchy or exclusive builder in this proposition",
+      "predicate": "uterus_transformed_heart",
+      "temporal_framework": "formative_metamorphosis",
+      "paraphrase": "Steiner: Uterus described as transformed heart.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "German_spot_checked",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Comparison against loaded v8–v12 registers; new candidate does not certify corpus-wide novelty"
+      },
+      "caveats": [
+        "Steiner attribution, not independently established mechanism."
+      ],
+      "german_check_ids": [
+        "DE13-06"
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V13-042",
+      "ga": 313,
+      "date": "1921-04-16",
+      "section": 14,
+      "passage_cue": "English numbered §14",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "uterus"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual hierarchy or exclusive builder in this proposition",
+      "predicate": "male_etheric_uterus",
+      "temporal_framework": "etheric_correspondence",
+      "paraphrase": "Steiner: Male counterpart asserted as etheric, not anatomical uterus.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "German_spot_checked",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Comparison against loaded v8–v12 registers; new candidate does not certify corpus-wide novelty"
+      },
+      "caveats": [
+        "Steiner attribution, not independently established mechanism."
+      ],
+      "german_check_ids": [
+        "DE13-06"
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V13-043",
+      "ga": 313,
+      "date": "1921-04-16",
+      "section": 19,
+      "passage_cue": "English numbered §19",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "brain",
+        "liver"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual hierarchy or exclusive builder in this proposition",
+      "predicate": "combined_brain_liver_degeneration",
+      "temporal_framework": "present_pathology",
+      "paraphrase": "Steiner: Brain/liver degeneration interpreted through organ metamorphosis.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "not_checked_at_claim_level",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Comparison against loaded v8–v12 registers; new candidate does not certify corpus-wide novelty"
+      },
+      "caveats": [
+        "Historical esoteric attribution; not accepted physiology, diagnosis or treatment.",
+        "Developmental/disability claims cannot be used to judge individuals."
+      ],
+      "german_check_ids": []
+    },
+    {
+      "id": "ORG-CLAIM-V13-044",
+      "ga": 313,
+      "date": "1921-04-16",
+      "section": 21,
+      "passage_cue": "English numbered §21",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "organ complexes",
+        "consciousness"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual hierarchy or exclusive builder in this proposition",
+      "predicate": "organ_unconscious_imagery",
+      "temporal_framework": "present_function",
+      "paraphrase": "Steiner: Normally formed organs alleged to produce unconscious imagery.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "not_checked_at_claim_level",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Comparison against loaded v8–v12 registers; new candidate does not certify corpus-wide novelty"
+      },
+      "caveats": [
+        "Steiner attribution, not independently established mechanism."
+      ],
+      "german_check_ids": []
+    },
+    {
+      "id": "ORG-CLAIM-V13-045",
+      "ga": 313,
+      "date": "1921-04-16",
+      "section": 21,
+      "passage_cue": "English numbered §21",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "organ complexes",
+        "consciousness"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual hierarchy or exclusive builder in this proposition",
+      "predicate": "hallucination_organ_defect_claim",
+      "temporal_framework": "present_pathology",
+      "paraphrase": "Steiner: Defective organ imagery alleged to intrude as hallucination.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "not_checked_at_claim_level",
+      "reconciliation": {
+        "decision": "different_context",
+        "prior_claim_ids": [
+          "ORG-CLAIM-V12-026"
+        ],
+        "scope": "Comparison against loaded v8–v12 registers; new candidate does not certify corpus-wide novelty"
+      },
+      "caveats": [
+        "Historical esoteric attribution; not accepted physiology, diagnosis or treatment.",
+        "Developmental/disability claims cannot be used to judge individuals."
+      ],
+      "german_check_ids": []
+    },
+    {
+      "id": "ORG-CLAIM-V13-046",
+      "ga": 317,
+      "date": "1924-06-30",
+      "section": 5,
+      "passage_cue": "English numbered §5",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "head",
+        "face"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual hierarchy or exclusive builder in this proposition",
+      "predicate": "head_inward_I_outward_physical",
+      "temporal_framework": "constitutional_schema",
+      "paraphrase": "Steiner: Head I/astral placed inward, physical/etheric outward.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "not_checked_at_claim_level",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Comparison against loaded v8–v12 registers; new candidate does not certify corpus-wide novelty"
+      },
+      "caveats": [
+        "Steiner attribution, not independently established mechanism."
+      ],
+      "german_check_ids": []
+    },
+    {
+      "id": "ORG-CLAIM-V13-047",
+      "ga": 317,
+      "date": "1924-06-30",
+      "section": 6,
+      "passage_cue": "English numbered §6",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "limbs",
+        "bones"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual hierarchy or exclusive builder in this proposition",
+      "predicate": "limb_peripheral_I_long_bones",
+      "temporal_framework": "constitutional_schema",
+      "paraphrase": "Steiner: Limb I placed peripheral, physical toward long bones.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "German_spot_checked",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Comparison against loaded v8–v12 registers; new candidate does not certify corpus-wide novelty"
+      },
+      "caveats": [
+        "Steiner attribution, not independently established mechanism."
+      ],
+      "german_check_ids": [
+        "DE13-07"
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V13-048",
+      "ga": 317,
+      "date": "1924-06-30",
+      "section": 7,
+      "passage_cue": "English numbered §7",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "respiration",
+        "circulation"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual hierarchy or exclusive builder in this proposition",
+      "predicate": "rhythm_mediates_polar_arrangements",
+      "temporal_framework": "constitutional_schema",
+      "paraphrase": "Steiner: Rhythm mediates opposed head and limb configurations.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "not_checked_at_claim_level",
+      "reconciliation": {
+        "decision": "different_context",
+        "prior_claim_ids": [
+          "ORG-CLAIM-V11-002"
+        ],
+        "scope": "Comparison against loaded v8–v12 registers; new candidate does not certify corpus-wide novelty"
+      },
+      "caveats": [
+        "Steiner attribution, not independently established mechanism."
+      ],
+      "german_check_ids": []
+    },
+    {
+      "id": "ORG-CLAIM-V13-049",
+      "ga": 317,
+      "date": "1924-06-30",
+      "section": 8,
+      "passage_cue": "English numbered §8",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "head",
+        "metabolic-limb system"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual hierarchy or exclusive builder in this proposition",
+      "predicate": "memory_lower_echo",
+      "temporal_framework": "present_function",
+      "paraphrase": "Steiner: Memory impressions allegedly persist as lower-organism echoes.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "not_checked_at_claim_level",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Comparison against loaded v8–v12 registers; new candidate does not certify corpus-wide novelty"
+      },
+      "caveats": [
+        "Steiner attribution, not independently established mechanism."
+      ],
+      "german_check_ids": []
+    },
+    {
+      "id": "ORG-CLAIM-V13-050",
+      "ga": 317,
+      "date": "1924-06-30",
+      "section": 11,
+      "passage_cue": "English numbered §11",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "protein organism"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual hierarchy or exclusive builder in this proposition",
+      "predicate": "sulfur_poor_recurring_thought",
+      "temporal_framework": "present_pathology",
+      "paraphrase": "Steiner: Sulfur-poor protein alleged to cause recurring representations.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "not_checked_at_claim_level",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Comparison against loaded v8–v12 registers; new candidate does not certify corpus-wide novelty"
+      },
+      "caveats": [
+        "Historical esoteric attribution; not accepted physiology, diagnosis or treatment.",
+        "Developmental/disability claims cannot be used to judge individuals."
+      ],
+      "german_check_ids": []
+    },
+    {
+      "id": "ORG-CLAIM-V13-051",
+      "ga": 317,
+      "date": "1924-06-30",
+      "section": 12,
+      "passage_cue": "English numbered §12",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "protein organism",
+        "organ boundaries"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual hierarchy or exclusive builder in this proposition",
+      "predicate": "absorption_not_surface_congestion",
+      "temporal_framework": "present_pathology",
+      "paraphrase": "Steiner: Absorption of impressions explicitly distinguished from surface congestion.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "German_spot_checked",
+      "reconciliation": {
+        "decision": "different_context",
+        "prior_claim_ids": [
+          "ORG-CLAIM-V12-010"
+        ],
+        "scope": "Comparison against loaded v8–v12 registers; new candidate does not certify corpus-wide novelty"
+      },
+      "caveats": [
+        "Historical esoteric attribution; not accepted physiology, diagnosis or treatment.",
+        "Developmental/disability claims cannot be used to judge individuals."
+      ],
+      "german_check_ids": [
+        "DE13-08"
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V13-052",
+      "ga": 317,
+      "date": "1924-06-30",
+      "section": 15,
+      "passage_cue": "English numbered §15",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "hair"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual hierarchy or exclusive builder in this proposition",
+      "predicate": "false_hair_sulfur_iron_diagnosis",
+      "temporal_framework": "historical_diagnosis",
+      "paraphrase": "Steiner: Hair color used to infer sulfur/iron constitutional types.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "not_checked_at_claim_level",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Comparison against loaded v8–v12 registers; new candidate does not certify corpus-wide novelty"
+      },
+      "caveats": [
+        "Historical esoteric attribution; not accepted physiology, diagnosis or treatment.",
+        "Developmental/disability claims cannot be used to judge individuals."
+      ],
+      "german_check_ids": []
+    },
+    {
+      "id": "ORG-CLAIM-V13-053",
+      "ga": 317,
+      "date": "1924-06-30",
+      "section": 23,
+      "passage_cue": "English numbered §23",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "protein organism",
+        "memory"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual hierarchy or exclusive builder in this proposition",
+      "predicate": "verse_alters_sulfur_claim",
+      "temporal_framework": "historical_therapy",
+      "paraphrase": "Steiner: Rhythmic verse alleged to change protein sulfur excess.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "not_checked_at_claim_level",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Comparison against loaded v8–v12 registers; new candidate does not certify corpus-wide novelty"
+      },
+      "caveats": [
+        "Historical esoteric attribution; not accepted physiology, diagnosis or treatment.",
+        "Developmental/disability claims cannot be used to judge individuals."
+      ],
+      "german_check_ids": []
+    },
+    {
+      "id": "ORG-CLAIM-V13-054",
+      "ga": 317,
+      "date": "1924-06-30",
+      "section": 29,
+      "passage_cue": "English numbered §29",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "legs",
+        "hands",
+        "fingers"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual hierarchy or exclusive builder in this proposition",
+      "predicate": "motor_behavior_diagnostic_claim",
+      "temporal_framework": "historical_diagnosis",
+      "paraphrase": "Steiner: Movement responses used to infer intellectual/manic dispositions.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "not_checked_at_claim_level",
+      "reconciliation": {
+        "decision": "different_context",
+        "prior_claim_ids": [
+          "ORG-CLAIM-V11-020"
+        ],
+        "scope": "Comparison against loaded v8–v12 registers; new candidate does not certify corpus-wide novelty"
+      },
+      "caveats": [
+        "Historical esoteric attribution; not accepted physiology, diagnosis or treatment.",
+        "Developmental/disability claims cannot be used to judge individuals."
+      ],
+      "german_check_ids": []
+    },
+    {
+      "id": "ORG-CLAIM-V13-055",
+      "ga": 317,
+      "date": "1924-06-30",
+      "section": 30,
+      "passage_cue": "English numbered §30",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "limbs"
+      ],
+      "agent": null,
+      "agent_scope": "No named spiritual hierarchy or exclusive builder in this proposition",
+      "predicate": "eurythmy_constitutional_therapy",
+      "temporal_framework": "historical_therapy",
+      "paraphrase": "Steiner: Eurythmy proposed through changing metabolic-limb activity.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "not_checked_at_claim_level",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Comparison against loaded v8–v12 registers; new candidate does not certify corpus-wide novelty"
+      },
+      "caveats": [
+        "Historical esoteric attribution; not accepted physiology, diagnosis or treatment.",
+        "Developmental/disability claims cannot be used to judge individuals."
+      ],
+      "german_check_ids": []
+    }
+  ],
+  "new_candidate_count": 43,
+  "globally_unique_new_claim_count": null
+}

@@ -5,6 +5,7 @@ Structural validation does not certify the accuracy of editorial source readings
 Run from any directory; accepts a version number (default 12).
 """
 from pathlib import Path
+import hashlib
 from collections import Counter
 import json, sys
 ROOT=Path(__file__).resolve().parents[1]
@@ -44,10 +45,21 @@ for p in (ROOT/'research').glob('organ-atomic-claims-*-v1[23].json'):
   assert c['source_url'].startswith('https://rsarchive.org/')
   assert c.get('section',c.get('paragraph'))
   for prior in c['reconciliation']['prior_claim_ids']: assert prior in claims,prior
+  section_files=list((ROOT/'research').glob('organ-paragraph-review-*-v1[23].json'))
+  if c['id'].startswith(('ORG-CLAIM-V12-','ORG-CLAIM-V13-')):
+   sections=[r for f in section_files for r in json.loads(f.read_text())['records']]
+   assert any(r['ga']==c['ga'] and r['date']==c['date'] and r['paragraph']==c['section'] for r in sections),c['id']
 for d in new['dossiers']:
  for key,value in d.items():
   if key.startswith('phase12_refinements') or key.startswith('phase13_refinements'):
    for r in value: assert r['claim_ref_id'] in claims,r
+provenance=ROOT/'research/organ-manuscript-provenance-v13.json'
+if provenance.exists():
+ meta=json.loads(provenance.read_text());body=(ROOT/meta['cumulative_path']).read_bytes()
+ preserved=body[meta['preserved_start_byte']:meta['preserved_end_byte_exclusive']]
+ assert len(preserved)==meta['source_bytes']==185831
+ assert hashlib.sha256(preserved).hexdigest()==meta['source_sha256']
+ assert hashlib.sha256(body).hexdigest()==meta['cumulative_sha256']
 for e in ledger['entries']:
  if e['audit_status']=='all_numbered_english_paragraphs_reviewed' and e.get('audit_record'):
   # Prior audit files are canonical GitHub dependencies; validate locally when loaded.

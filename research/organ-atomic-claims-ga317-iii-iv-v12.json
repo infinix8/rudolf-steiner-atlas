@@ -20,7 +20,7 @@
       "temporal_framework": "conception_to_death",
       "paraphrase": "Steiner: Physical and etheric connection allegedly persists through sleep.",
       "evidence_state": "complete_English_section_review",
-      "german_status": "selected_checks_in_separate_log; not_full_collation",
+      "german_status": "German_spot_checked",
       "reconciliation": {
         "decision": "new_candidate",
         "prior_claim_ids": [],
@@ -28,6 +28,9 @@
       },
       "caveats": [
         "Historical Steiner attribution; no clinical validation asserted."
+      ],
+      "german_check_ids": [
+        "DE12-01"
       ]
     },
     {
@@ -47,7 +50,7 @@
       "temporal_framework": "sleep_wake",
       "paraphrase": "Steiner: Astral/I connection is described as interrupted in sleep.",
       "evidence_state": "complete_English_section_review",
-      "german_status": "selected_checks_in_separate_log; not_full_collation",
+      "german_status": "German_spot_checked",
       "reconciliation": {
         "decision": "new_candidate",
         "prior_claim_ids": [],
@@ -55,6 +58,9 @@
       },
       "caveats": [
         "Historical Steiner attribution; no clinical validation asserted."
+      ],
+      "german_check_ids": [
+        "DE12-01"
       ]
     },
     {
@@ -75,7 +81,7 @@
       "temporal_framework": "waking",
       "paraphrase": "Steiner: I allegedly engages gravity directly, expressed through warmth.",
       "evidence_state": "complete_English_section_review",
-      "german_status": "selected_checks_in_separate_log; not_full_collation",
+      "german_status": "German_spot_checked",
       "reconciliation": {
         "decision": "overlap",
         "prior_claim_ids": [
@@ -86,6 +92,9 @@
       },
       "caveats": [
         "Historical Steiner attribution; no clinical validation asserted."
+      ],
+      "german_check_ids": [
+        "DE12-02"
       ]
     },
     {
@@ -106,7 +115,7 @@
       "temporal_framework": "waking",
       "paraphrase": "Steiner: Brain buoyancy illustrates direct, not indirect, I–force contact.",
       "evidence_state": "complete_English_section_review",
-      "german_status": "selected_checks_in_separate_log; not_full_collation",
+      "german_status": "German_spot_checked",
       "reconciliation": {
         "decision": "apparent_conflict",
         "prior_claim_ids": [
@@ -116,6 +125,9 @@
       },
       "caveats": [
         "Historical Steiner attribution; no clinical validation asserted."
+      ],
+      "german_check_ids": [
+        "DE12-03"
       ]
     },
     {
@@ -135,7 +147,7 @@
       "temporal_framework": "waking",
       "paraphrase": "Steiner: I contacts terrestrial forces and part of warmth.",
       "evidence_state": "complete_English_section_review",
-      "german_status": "selected_checks_in_separate_log; not_full_collation",
+      "german_status": "not_checked_at_claim_level",
       "reconciliation": {
         "decision": "same_claim",
         "prior_claim_ids": [
@@ -146,7 +158,8 @@
       },
       "caveats": [
         "Historical Steiner attribution; no clinical validation asserted."
-      ]
+      ],
+      "german_check_ids": []
     },
     {
       "id": "ORG-CLAIM-V12-006",
@@ -165,7 +178,7 @@
       "temporal_framework": "waking",
       "paraphrase": "Steiner: Astral light includes the basis of multiple sensory modalities.",
       "evidence_state": "complete_English_section_review",
-      "german_status": "selected_checks_in_separate_log; not_full_collation",
+      "german_status": "not_checked_at_claim_level",
       "reconciliation": {
         "decision": "overlap",
         "prior_claim_ids": [
@@ -175,7 +188,8 @@
       },
       "caveats": [
         "Historical Steiner attribution; no clinical validation asserted."
-      ]
+      ],
+      "german_check_ids": []
     },
     {
       "id": "ORG-CLAIM-V12-007",
@@ -194,7 +208,7 @@
       "temporal_framework": "present_function",
       "paraphrase": "Steiner: Eye illustrates direct I/astral contact with physical processes.",
       "evidence_state": "complete_English_section_review",
-      "german_status": "selected_checks_in_separate_log; not_full_collation",
+      "german_status": "not_checked_at_claim_level",
       "reconciliation": {
         "decision": "same_claim",
         "prior_claim_ids": [
@@ -205,7 +219,8 @@
       },
       "caveats": [
         "Historical Steiner attribution; no clinical validation asserted."
-      ]
+      ],
+      "german_check_ids": []
     },
     {
       "id": "ORG-CLAIM-V12-008",
@@ -224,7 +239,7 @@
       "temporal_framework": "sleep_wake",
       "paraphrase": "Steiner: Lung obstruction allegedly prevents outward passage of astral/I.",
       "evidence_state": "complete_English_section_review",
-      "german_status": "selected_checks_in_separate_log; not_full_collation",
+      "german_status": "German_spot_checked",
       "reconciliation": {
         "decision": "same_claim",
         "prior_claim_ids": [
@@ -234,6 +249,9 @@
       },
       "caveats": [
         "Historical Steiner attribution; no clinical validation asserted."
+      ],
+      "german_check_ids": [
+        "DE12-04"
       ]
     },
     {
@@ -254,7 +272,7 @@
       "temporal_framework": "sleep_wake",
       "paraphrase": "Steiner: Entry allegedly wakes; passage outward allegedly restores consciousness.",
       "evidence_state": "complete_English_section_review",
-      "german_status": "selected_checks_in_separate_log; not_full_collation",
+      "german_status": "German_spot_checked",
       "reconciliation": {
         "decision": "overlap",
         "prior_claim_ids": [
@@ -264,6 +282,9 @@
       },
       "caveats": [
         "Historical Steiner attribution; no clinical validation asserted."
+      ],
+      "german_check_ids": [
+        "DE12-04"
       ]
     },
     {
@@ -285,7 +306,7 @@
       "temporal_framework": "present_pathology",
       "paraphrase": "Steiner: Convulsions attributed to astral/I congestion at organ surfaces.",
       "evidence_state": "complete_English_section_review",
-      "german_status": "selected_checks_in_separate_log; not_full_collation",
+      "german_status": "not_checked_at_claim_level",
       "reconciliation": {
         "decision": "same_claim",
         "prior_claim_ids": [
@@ -296,7 +317,8 @@
       "caveats": [
         "Historical esoteric attribution, not established physiology or treatment.",
         "Medical/disability and moral-causation assertions must not be used to judge or diagnose a person."
-      ]
+      ],
+      "german_check_ids": []
     },
     {
       "id": "ORG-CLAIM-V12-011",
@@ -317,7 +339,7 @@
       "temporal_framework": "present_pathology",
       "paraphrase": "Steiner: Brain congestion may allegedly reflect liver or lung congestion.",
       "evidence_state": "complete_English_section_review",
-      "german_status": "selected_checks_in_separate_log; not_full_collation",
+      "german_status": "not_checked_at_claim_level",
       "reconciliation": {
         "decision": "overlap",
         "prior_claim_ids": [
@@ -328,7 +350,8 @@
       "caveats": [
         "Historical esoteric attribution, not established physiology or treatment.",
         "Medical/disability and moral-causation assertions must not be used to judge or diagnose a person."
-      ]
+      ],
+      "german_check_ids": []
     },
     {
       "id": "ORG-CLAIM-V12-012",
@@ -348,7 +371,7 @@
       "temporal_framework": "childhood",
       "paraphrase": "Steiner: Balance movements proposed for vertigo-associated epileptic symptoms.",
       "evidence_state": "complete_English_section_review",
-      "german_status": "selected_checks_in_separate_log; not_full_collation",
+      "german_status": "not_checked_at_claim_level",
       "reconciliation": {
         "decision": "new_candidate",
         "prior_claim_ids": [],
@@ -357,7 +380,8 @@
       "caveats": [
         "Historical esoteric attribution, not established physiology or treatment.",
         "Medical/disability and moral-causation assertions must not be used to judge or diagnose a person."
-      ]
+      ],
+      "german_check_ids": []
     },
     {
       "id": "ORG-CLAIM-V12-013",
@@ -377,7 +401,7 @@
       "temporal_framework": "childhood",
       "paraphrase": "Steiner: Water-related interventions proposed for nausea-associated seizure symptoms.",
       "evidence_state": "complete_English_section_review",
-      "german_status": "selected_checks_in_separate_log; not_full_collation",
+      "german_status": "not_checked_at_claim_level",
       "reconciliation": {
         "decision": "new_candidate",
         "prior_claim_ids": [],
@@ -386,7 +410,8 @@
       "caveats": [
         "Historical esoteric attribution, not established physiology or treatment.",
         "Medical/disability and moral-causation assertions must not be used to judge or diagnose a person."
-      ]
+      ],
+      "german_check_ids": []
     },
     {
       "id": "ORG-CLAIM-V12-014",
@@ -405,7 +430,7 @@
       "temporal_framework": "childhood",
       "paraphrase": "Steiner: Regulated breathing proposed for certain impaired-consciousness symptoms.",
       "evidence_state": "complete_English_section_review",
-      "german_status": "selected_checks_in_separate_log; not_full_collation",
+      "german_status": "not_checked_at_claim_level",
       "reconciliation": {
         "decision": "new_candidate",
         "prior_claim_ids": [],
@@ -414,7 +439,8 @@
       "caveats": [
         "Historical esoteric attribution, not established physiology or treatment.",
         "Medical/disability and moral-causation assertions must not be used to judge or diagnose a person."
-      ]
+      ],
+      "german_check_ids": []
     },
     {
       "id": "ORG-CLAIM-V12-015",
@@ -434,7 +460,7 @@
       "temporal_framework": "later_life",
       "paraphrase": "Steiner: Uncovered lower legs alleged to cause later appendicitis.",
       "evidence_state": "complete_English_section_review",
-      "german_status": "selected_checks_in_separate_log; not_full_collation",
+      "german_status": "not_checked_at_claim_level",
       "reconciliation": {
         "decision": "new_candidate",
         "prior_claim_ids": [],
@@ -443,7 +469,8 @@
       "caveats": [
         "Historical esoteric attribution, not established physiology or treatment.",
         "Medical/disability and moral-causation assertions must not be used to judge or diagnose a person."
-      ]
+      ],
+      "german_check_ids": []
     },
     {
       "id": "ORG-CLAIM-V12-016",
@@ -463,7 +490,7 @@
       "temporal_framework": "childhood",
       "paraphrase": "Steiner: Warmer clothing and incipient sweating presented as epilepsy therapy.",
       "evidence_state": "complete_English_section_review",
-      "german_status": "selected_checks_in_separate_log; not_full_collation",
+      "german_status": "not_checked_at_claim_level",
       "reconciliation": {
         "decision": "new_candidate",
         "prior_claim_ids": [],
@@ -472,7 +499,8 @@
       "caveats": [
         "Historical esoteric attribution, not established physiology or treatment.",
         "Medical/disability and moral-causation assertions must not be used to judge or diagnose a person."
-      ]
+      ],
+      "german_check_ids": []
     },
     {
       "id": "ORG-CLAIM-V12-017",
@@ -491,7 +519,7 @@
       "temporal_framework": "childhood",
       "paraphrase": "Steiner: Moralized seizure classification linked to sulfur/belladonna recommendations.",
       "evidence_state": "complete_English_section_review",
-      "german_status": "selected_checks_in_separate_log; not_full_collation",
+      "german_status": "not_checked_at_claim_level",
       "reconciliation": {
         "decision": "new_candidate",
         "prior_claim_ids": [],
@@ -500,7 +528,8 @@
       "caveats": [
         "Historical esoteric attribution, not established physiology or treatment.",
         "Medical/disability and moral-causation assertions must not be used to judge or diagnose a person."
-      ]
+      ],
+      "german_check_ids": []
     },
     {
       "id": "ORG-CLAIM-V12-018",
@@ -520,7 +549,7 @@
       "temporal_framework": "incarnation",
       "paraphrase": "Steiner: Lung congestion interpreted as wrongly integrated organ thought.",
       "evidence_state": "complete_English_section_review",
-      "german_status": "selected_checks_in_separate_log; not_full_collation",
+      "german_status": "not_checked_at_claim_level",
       "reconciliation": {
         "decision": "new_candidate",
         "prior_claim_ids": [],
@@ -528,7 +557,8 @@
       },
       "caveats": [
         "Historical Steiner attribution; no clinical validation asserted."
-      ]
+      ],
+      "german_check_ids": []
     },
     {
       "id": "ORG-CLAIM-V12-019",
@@ -548,7 +578,7 @@
       "temporal_framework": "inter_incarnation",
       "paraphrase": "Steiner: Previous-life will allegedly carried into individual organs.",
       "evidence_state": "complete_English_section_review",
-      "german_status": "selected_checks_in_separate_log; not_full_collation",
+      "german_status": "not_checked_at_claim_level",
       "reconciliation": {
         "decision": "new_candidate",
         "prior_claim_ids": [],
@@ -556,7 +586,8 @@
       },
       "caveats": [
         "Historical Steiner attribution; no clinical validation asserted."
-      ]
+      ],
+      "german_check_ids": []
     },
     {
       "id": "ORG-CLAIM-V12-020",
@@ -576,7 +607,7 @@
       "temporal_framework": "childhood",
       "paraphrase": "Steiner: Blocked whole-organism passage allegedly prevents moral learning.",
       "evidence_state": "complete_English_section_review",
-      "german_status": "selected_checks_in_separate_log; not_full_collation",
+      "german_status": "not_checked_at_claim_level",
       "reconciliation": {
         "decision": "new_candidate",
         "prior_claim_ids": [],
@@ -585,7 +616,8 @@
       "caveats": [
         "Historical esoteric attribution, not established physiology or treatment.",
         "Medical/disability and moral-causation assertions must not be used to judge or diagnose a person."
-      ]
+      ],
+      "german_check_ids": []
     },
     {
       "id": "ORG-CLAIM-V12-021",
@@ -605,7 +637,7 @@
       "temporal_framework": "childhood_7_to_14",
       "paraphrase": "Steiner: Narrow brain allegedly blocks radiations reflected in spleen function.",
       "evidence_state": "complete_English_section_review",
-      "german_status": "selected_checks_in_separate_log; not_full_collation",
+      "german_status": "German_spot_checked",
       "reconciliation": {
         "decision": "overlap",
         "prior_claim_ids": [
@@ -616,6 +648,9 @@
       "caveats": [
         "Historical esoteric attribution, not established physiology or treatment.",
         "Medical/disability and moral-causation assertions must not be used to judge or diagnose a person."
+      ],
+      "german_check_ids": [
+        "DE12-05"
       ]
     },
     {
@@ -636,7 +671,7 @@
       "temporal_framework": "incarnation",
       "paraphrase": "Steiner: Physical deformation alleged to reveal karmic moral defects.",
       "evidence_state": "complete_English_section_review",
-      "german_status": "selected_checks_in_separate_log; not_full_collation",
+      "german_status": "German_spot_checked",
       "reconciliation": {
         "decision": "overlap",
         "prior_claim_ids": [
@@ -647,6 +682,9 @@
       "caveats": [
         "Historical esoteric attribution, not established physiology or treatment.",
         "Medical/disability and moral-causation assertions must not be used to judge or diagnose a person."
+      ],
+      "german_check_ids": [
+        "DE12-05"
       ]
     },
     {
@@ -668,7 +706,7 @@
       "temporal_framework": "present_function",
       "paraphrase": "Steiner: Acquisitive brain activity allegedly becomes kleptomania in lower systems.",
       "evidence_state": "complete_English_section_review",
-      "german_status": "selected_checks_in_separate_log; not_full_collation",
+      "german_status": "not_checked_at_claim_level",
       "reconciliation": {
         "decision": "new_candidate",
         "prior_claim_ids": [],
@@ -676,7 +714,8 @@
       },
       "caveats": [
         "Historical Steiner attribution; no clinical validation asserted."
-      ]
+      ],
+      "german_check_ids": []
     },
     {
       "id": "ORG-CLAIM-V12-024",
@@ -695,7 +734,7 @@
       "temporal_framework": "embryonic",
       "paraphrase": "Steiner: Prenatal development referred to as the work of gods.",
       "evidence_state": "complete_English_section_review",
-      "german_status": "selected_checks_in_separate_log; not_full_collation",
+      "german_status": "not_checked_at_claim_level",
       "reconciliation": {
         "decision": "new_candidate",
         "prior_claim_ids": [],
@@ -703,7 +742,8 @@
       },
       "caveats": [
         "Historical Steiner attribution; no clinical validation asserted."
-      ]
+      ],
+      "german_check_ids": []
     },
     {
       "id": "ORG-CLAIM-V12-025",
@@ -722,7 +762,7 @@
       "temporal_framework": "present_pathology",
       "paraphrase": "Steiner: Retained astral/I atmosphere alleged to produce convulsions.",
       "evidence_state": "complete_English_section_review",
-      "german_status": "selected_checks_in_separate_log; not_full_collation",
+      "german_status": "not_checked_at_claim_level",
       "reconciliation": {
         "decision": "different_context",
         "prior_claim_ids": [
@@ -733,7 +773,8 @@
       "caveats": [
         "Historical esoteric attribution, not established physiology or treatment.",
         "Medical/disability and moral-causation assertions must not be used to judge or diagnose a person."
-      ]
+      ],
+      "german_check_ids": []
     },
     {
       "id": "ORG-CLAIM-V12-026",
@@ -753,7 +794,7 @@
       "temporal_framework": "present_pathology",
       "paraphrase": "Steiner: Excess retained astrality allegedly becomes perceptible to the organ.",
       "evidence_state": "complete_English_section_review",
-      "german_status": "selected_checks_in_separate_log; not_full_collation",
+      "german_status": "German_spot_checked",
       "reconciliation": {
         "decision": "overlap",
         "prior_claim_ids": [
@@ -765,6 +806,9 @@
       "caveats": [
         "Historical esoteric attribution, not established physiology or treatment.",
         "Medical/disability and moral-causation assertions must not be used to judge or diagnose a person."
+      ],
+      "german_check_ids": [
+        "DE12-06"
       ]
     },
     {
@@ -785,7 +829,7 @@
       "temporal_framework": "present_pathology",
       "paraphrase": "Steiner: Congestion allegedly yields unconsciousness or pain by organ role.",
       "evidence_state": "complete_English_section_review",
-      "german_status": "selected_checks_in_separate_log; not_full_collation",
+      "german_status": "German_spot_checked",
       "reconciliation": {
         "decision": "overlap",
         "prior_claim_ids": [
@@ -797,6 +841,9 @@
       "caveats": [
         "Historical esoteric attribution, not established physiology or treatment.",
         "Medical/disability and moral-causation assertions must not be used to judge or diagnose a person."
+      ],
+      "german_check_ids": [
+        "DE12-06"
       ]
     },
     {
@@ -817,7 +864,7 @@
       "temporal_framework": "present_pathology",
       "paraphrase": "Steiner: Excess astral/I permeability associated with physical secretions.",
       "evidence_state": "complete_English_section_review",
-      "german_status": "selected_checks_in_separate_log; not_full_collation",
+      "german_status": "German_spot_checked",
       "reconciliation": {
         "decision": "same_claim",
         "prior_claim_ids": [
@@ -829,6 +876,9 @@
       "caveats": [
         "Historical esoteric attribution, not established physiology or treatment.",
         "Medical/disability and moral-causation assertions must not be used to judge or diagnose a person."
+      ],
+      "german_check_ids": [
+        "DE12-07"
       ]
     },
     {
@@ -849,7 +899,7 @@
       "temporal_framework": "present_experience",
       "paraphrase": "Steiner: Abraded skin illustrates alleged painful environmental overexposure.",
       "evidence_state": "complete_English_section_review",
-      "german_status": "selected_checks_in_separate_log; not_full_collation",
+      "german_status": "not_checked_at_claim_level",
       "reconciliation": {
         "decision": "new_candidate",
         "prior_claim_ids": [],
@@ -857,7 +907,8 @@
       },
       "caveats": [
         "Historical Steiner attribution; no clinical validation asserted."
-      ]
+      ],
+      "german_check_ids": []
     },
     {
       "id": "ORG-CLAIM-V12-030",
@@ -876,7 +927,7 @@
       "temporal_framework": "childhood",
       "paraphrase": "Steiner: Bedwetting attributed to astral outflow.",
       "evidence_state": "complete_English_section_review",
-      "german_status": "selected_checks_in_separate_log; not_full_collation",
+      "german_status": "not_checked_at_claim_level",
       "reconciliation": {
         "decision": "same_claim",
         "prior_claim_ids": [
@@ -887,7 +938,8 @@
       "caveats": [
         "Historical esoteric attribution, not established physiology or treatment.",
         "Medical/disability and moral-causation assertions must not be used to judge or diagnose a person."
-      ]
+      ],
+      "german_check_ids": []
     },
     {
       "id": "ORG-CLAIM-V12-031",
@@ -907,7 +959,7 @@
       "temporal_framework": "present_function",
       "paraphrase": "Steiner: Physical/etheric routes distinguished in elemental connections.",
       "evidence_state": "complete_English_section_review",
-      "german_status": "selected_checks_in_separate_log; not_full_collation",
+      "german_status": "not_checked_at_claim_level",
       "reconciliation": {
         "decision": "different_context",
         "prior_claim_ids": [
@@ -918,7 +970,8 @@
       },
       "caveats": [
         "Historical Steiner attribution; no clinical validation asserted."
-      ]
+      ],
+      "german_check_ids": []
     },
     {
       "id": "ORG-CLAIM-V12-032",
@@ -938,7 +991,7 @@
       "temporal_framework": "three_to_three_and_half_days",
       "paraphrase": "Steiner: Emotional restraint alleged to emerge later as sweating.",
       "evidence_state": "complete_English_section_review",
-      "german_status": "selected_checks_in_separate_log; not_full_collation",
+      "german_status": "not_checked_at_claim_level",
       "reconciliation": {
         "decision": "new_candidate",
         "prior_claim_ids": [],
@@ -946,7 +999,8 @@
       },
       "caveats": [
         "Historical Steiner attribution; no clinical validation asserted."
-      ]
+      ],
+      "german_check_ids": []
     },
     {
       "id": "ORG-CLAIM-V12-033",
@@ -965,7 +1019,7 @@
       "temporal_framework": "death_analogy",
       "paraphrase": "Steiner: Excess outflow compared to postmortem astral/I expansion.",
       "evidence_state": "complete_English_section_review",
-      "german_status": "selected_checks_in_separate_log; not_full_collation",
+      "german_status": "not_checked_at_claim_level",
       "reconciliation": {
         "decision": "same_claim",
         "prior_claim_ids": [
@@ -975,7 +1029,8 @@
       },
       "caveats": [
         "Historical Steiner attribution; no clinical validation asserted."
-      ]
+      ],
+      "german_check_ids": []
     },
     {
       "id": "ORG-CLAIM-V12-034",
@@ -995,7 +1050,7 @@
       "temporal_framework": "present_pathology",
       "paraphrase": "Steiner: Alleged cadaveric aura smell linked to dying analogy.",
       "evidence_state": "complete_English_section_review",
-      "german_status": "selected_checks_in_separate_log; not_full_collation",
+      "german_status": "not_checked_at_claim_level",
       "reconciliation": {
         "decision": "new_candidate",
         "prior_claim_ids": [],
@@ -1004,7 +1059,8 @@
       "caveats": [
         "Historical esoteric attribution, not established physiology or treatment.",
         "Medical/disability and moral-causation assertions must not be used to judge or diagnose a person."
-      ]
+      ],
+      "german_check_ids": []
     },
     {
       "id": "ORG-CLAIM-V12-035",
@@ -1023,7 +1079,7 @@
       "temporal_framework": "childhood",
       "paraphrase": "Steiner: Deliberate teaching-pace changes allegedly consolidate astral/I.",
       "evidence_state": "complete_English_section_review",
-      "german_status": "selected_checks_in_separate_log; not_full_collation",
+      "german_status": "not_checked_at_claim_level",
       "reconciliation": {
         "decision": "new_candidate",
         "prior_claim_ids": [],
@@ -1031,7 +1087,8 @@
       },
       "caveats": [
         "Historical Steiner attribution; no clinical validation asserted."
-      ]
+      ],
+      "german_check_ids": []
     },
     {
       "id": "ORG-CLAIM-V12-036",
@@ -1051,7 +1108,7 @@
       "temporal_framework": "childhood",
       "paraphrase": "Steiner: Teaching changes alleged to alter glandular secretion.",
       "evidence_state": "complete_English_section_review",
-      "german_status": "selected_checks_in_separate_log; not_full_collation",
+      "german_status": "German_spot_checked",
       "reconciliation": {
         "decision": "new_candidate",
         "prior_claim_ids": [],
@@ -1059,6 +1116,9 @@
       },
       "caveats": [
         "Historical Steiner attribution; no clinical validation asserted."
+      ],
+      "german_check_ids": [
+        "DE12-09"
       ]
     },
     {
@@ -1079,7 +1139,7 @@
       "temporal_framework": "present_experience",
       "paraphrase": "Steiner: Intention/action mismatch explained through excessive astral/I outflow.",
       "evidence_state": "complete_English_section_review",
-      "german_status": "selected_checks_in_separate_log; not_full_collation",
+      "german_status": "not_checked_at_claim_level",
       "reconciliation": {
         "decision": "new_candidate",
         "prior_claim_ids": [],
@@ -1087,7 +1147,8 @@
       },
       "caveats": [
         "Historical Steiner attribution; no clinical validation asserted."
-      ]
+      ],
+      "german_check_ids": []
     },
     {
       "id": "ORG-CLAIM-V12-038",
@@ -1106,7 +1167,7 @@
       "temporal_framework": "education",
       "paraphrase": "Steiner: Educator movement accompaniment proposed for intention/action difficulty.",
       "evidence_state": "complete_English_section_review",
-      "german_status": "selected_checks_in_separate_log; not_full_collation",
+      "german_status": "not_checked_at_claim_level",
       "reconciliation": {
         "decision": "new_candidate",
         "prior_claim_ids": [],
@@ -1114,7 +1175,8 @@
       },
       "caveats": [
         "Historical Steiner attribution; no clinical validation asserted."
-      ]
+      ],
+      "german_check_ids": []
     }
   ],
   "globally_unique_new_claim_count": null,

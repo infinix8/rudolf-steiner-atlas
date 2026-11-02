@@ -1157,10 +1157,14 @@
       "paragraph": 3,
       "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
       "review_state": "whole_numbered_english_section_reviewed_v12",
-      "original_german_checked": false,
+      "original_german_checked": true,
       "atomic_claim_completeness": false,
       "previous_review_state": "number_located_only",
-      "audit_record": "research/organ-paragraph-review-ga317-iii-iv-v12.json"
+      "audit_record": "research/organ-paragraph-review-ga317-iii-iv-v12.json",
+      "german_check_ids": [
+        "DE12-01"
+      ],
+      "german_check_scope": "Selected terminology/proposition only; not full section collation"
     },
     {
       "id": "SC-V9-GA317-19240627-P04",
@@ -1181,10 +1185,14 @@
       "paragraph": 5,
       "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
       "review_state": "whole_numbered_english_section_reviewed_v12",
-      "original_german_checked": false,
+      "original_german_checked": true,
       "atomic_claim_completeness": false,
       "previous_review_state": "selected_passage_checked_v9",
-      "audit_record": "research/organ-paragraph-review-ga317-iii-iv-v12.json"
+      "audit_record": "research/organ-paragraph-review-ga317-iii-iv-v12.json",
+      "german_check_ids": [
+        "DE12-02"
+      ],
+      "german_check_scope": "Selected terminology/proposition only; not full section collation"
     },
     {
       "id": "SC-V9-GA317-19240627-P06",
@@ -1193,10 +1201,14 @@
       "paragraph": 6,
       "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
       "review_state": "whole_numbered_english_section_reviewed_v12",
-      "original_german_checked": false,
+      "original_german_checked": true,
       "atomic_claim_completeness": false,
       "previous_review_state": "selected_passage_checked_v8",
-      "audit_record": "research/organ-paragraph-review-ga317-iii-iv-v12.json"
+      "audit_record": "research/organ-paragraph-review-ga317-iii-iv-v12.json",
+      "german_check_ids": [
+        "DE12-03"
+      ],
+      "german_check_scope": "Selected terminology/proposition only; not full section collation"
     },
     {
       "id": "SC-V9-GA317-19240627-P07",
@@ -1265,10 +1277,14 @@
       "paragraph": 12,
       "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
       "review_state": "whole_numbered_english_section_reviewed_v12",
-      "original_german_checked": false,
+      "original_german_checked": true,
       "atomic_claim_completeness": false,
       "previous_review_state": "selected_passage_checked_v8_and_v9",
-      "audit_record": "research/organ-paragraph-review-ga317-iii-iv-v12.json"
+      "audit_record": "research/organ-paragraph-review-ga317-iii-iv-v12.json",
+      "german_check_ids": [
+        "DE12-04"
+      ],
+      "german_check_scope": "Selected terminology/proposition only; not full section collation"
     },
     {
       "id": "SC-V9-GA317-19240627-P13",
@@ -1385,10 +1401,14 @@
       "paragraph": 22,
       "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
       "review_state": "whole_numbered_english_section_reviewed_v12",
-      "original_german_checked": false,
+      "original_german_checked": true,
       "atomic_claim_completeness": false,
       "previous_review_state": "selected_passage_checked_v9",
-      "audit_record": "research/organ-paragraph-review-ga317-iii-iv-v12.json"
+      "audit_record": "research/organ-paragraph-review-ga317-iii-iv-v12.json",
+      "german_check_ids": [
+        "DE12-05"
+      ],
+      "german_check_scope": "Selected terminology/proposition only; not full section collation"
     },
     {
       "id": "SC-V9-GA317-19240627-P23",
@@ -1493,10 +1513,14 @@
       "paragraph": 5,
       "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
       "review_state": "whole_numbered_english_section_reviewed_v12",
-      "original_german_checked": false,
+      "original_german_checked": true,
       "atomic_claim_completeness": false,
       "previous_review_state": "selected_passage_checked_v8_and_v9",
-      "audit_record": "research/organ-paragraph-review-ga317-iii-iv-v12.json"
+      "audit_record": "research/organ-paragraph-review-ga317-iii-iv-v12.json",
+      "german_check_ids": [
+        "DE12-06"
+      ],
+      "german_check_scope": "Selected terminology/proposition only; not full section collation"
     },
     {
       "id": "SC-V9-GA317-19240628-P06",
@@ -1517,10 +1541,14 @@
       "paragraph": 7,
       "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
       "review_state": "whole_numbered_english_section_reviewed_v12",
-      "original_german_checked": false,
+      "original_german_checked": true,
       "atomic_claim_completeness": false,
       "previous_review_state": "selected_passage_checked_v8_and_v9",
-      "audit_record": "research/organ-paragraph-review-ga317-iii-iv-v12.json"
+      "audit_record": "research/organ-paragraph-review-ga317-iii-iv-v12.json",
+      "german_check_ids": [
+        "DE12-07"
+      ],
+      "german_check_scope": "Selected terminology/proposition only; not full section collation"
     },
     {
       "id": "SC-V9-GA317-19240628-P08",
@@ -1553,10 +1581,14 @@
       "paragraph": 10,
       "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
       "review_state": "whole_numbered_english_section_reviewed_v12",
-      "original_german_checked": false,
+      "original_german_checked": true,
       "atomic_claim_completeness": false,
       "previous_review_state": "selected_passage_checked_v9",
-      "audit_record": "research/organ-paragraph-review-ga317-iii-iv-v12.json"
+      "audit_record": "research/organ-paragraph-review-ga317-iii-iv-v12.json",
+      "german_check_ids": [
+        "DE12-08"
+      ],
+      "german_check_scope": "Selected terminology/proposition only; not full section collation"
     },
     {
       "id": "SC-V9-GA317-19240628-P11",
@@ -1709,10 +1741,14 @@
       "paragraph": 23,
       "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240628.html",
       "review_state": "whole_numbered_english_section_reviewed_v12",
-      "original_german_checked": false,
+      "original_german_checked": true,
       "atomic_claim_completeness": false,
       "previous_review_state": "number_located_only",
-      "audit_record": "research/organ-paragraph-review-ga317-iii-iv-v12.json"
+      "audit_record": "research/organ-paragraph-review-ga317-iii-iv-v12.json",
+      "german_check_ids": [
+        "DE12-09"
+      ],
+      "german_check_scope": "Selected terminology/proposition only; not full section collation"
     },
     {
       "id": "SC-V9-GA317-19240628-P24",

@@ -1,0 +1,1797 @@
+{
+  "schema_version": "1.0",
+  "as_of": "2026-11-02",
+  "lectures": [
+    {
+      "ga": 313,
+      "date": "1921-04-14",
+      "title": "IV",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html",
+      "english_numbered_paragraphs": 24,
+      "review_complete": true,
+      "full_bilingual_review": false
+    },
+    {
+      "ga": 313,
+      "date": "1921-04-15",
+      "title": "V",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html",
+      "english_numbered_paragraphs": 24,
+      "review_complete": true,
+      "full_bilingual_review": false
+    },
+    {
+      "ga": 313,
+      "date": "1921-04-16",
+      "title": "VI",
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html",
+      "english_numbered_paragraphs": 22,
+      "review_complete": true,
+      "full_bilingual_review": false
+    },
+    {
+      "ga": 317,
+      "date": "1924-06-30",
+      "title": "V",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html",
+      "english_numbered_paragraphs": 30,
+      "review_complete": true,
+      "full_bilingual_review": false
+    }
+  ],
+  "records": [
+    {
+      "id": "ORG-S13-GA313-19210414-P01",
+      "ga": 313,
+      "date": "1921-04-14",
+      "paragraph": 1,
+      "classification": "sleep",
+      "summary": "Insomnia attributed to astral adherence.",
+      "organ_terms": [
+        "whole organism"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA313-19210414-P02",
+      "ga": 313,
+      "date": "1921-04-14",
+      "paragraph": 2,
+      "classification": "symptoms",
+      "summary": "Involuntary movement and venous sounds discussed.",
+      "organ_terms": [
+        "lips",
+        "eyelids",
+        "fingers",
+        "veins"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA313-19210414-P03",
+      "ga": 313,
+      "date": "1921-04-14",
+      "paragraph": 3,
+      "classification": "therapy",
+      "summary": "Root/ash remedies opposed to external fields.",
+      "organ_terms": [
+        "chest",
+        "lungs"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA313-19210414-P04",
+      "ga": 313,
+      "date": "1921-04-14",
+      "paragraph": 4,
+      "classification": "therapy",
+      "summary": "Insufficient waking; arsenic/electric-field proposals.",
+      "organ_terms": [
+        "chest",
+        "circulation"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA313-19210414-P05",
+      "ga": 313,
+      "date": "1921-04-14",
+      "paragraph": 5,
+      "classification": "diet",
+      "summary": "Raw-food respiratory theory; rejects fanaticism.",
+      "organ_terms": [
+        "respiration"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA313-19210414-P06",
+      "ga": 313,
+      "date": "1921-04-14",
+      "paragraph": 6,
+      "classification": "diet",
+      "summary": "Fruit/root prescriptions distinguish circulatory/respiratory origin.",
+      "organ_terms": [
+        "circulation",
+        "digestion",
+        "respiration"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA313-19210414-P07",
+      "ga": 313,
+      "date": "1921-04-14",
+      "paragraph": 7,
+      "classification": "development",
+      "summary": "Speech and inner I birth distinguished.",
+      "organ_terms": [
+        "teeth",
+        "whole organism"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA313-19210414-P08",
+      "ga": 313,
+      "date": "1921-04-14",
+      "paragraph": 8,
+      "classification": "nutrition",
+      "summary": "I alone allegedly penetrates food-substance forces.",
+      "organ_terms": [
+        "digestion"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA313-19210414-P09",
+      "ga": 313,
+      "date": "1921-04-14",
+      "paragraph": 9,
+      "classification": "development",
+      "summary": "Upper/lower instruments of one I.",
+      "organ_terms": [
+        "head",
+        "metabolic-limb system"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA313-19210414-P10",
+      "ga": 313,
+      "date": "1921-04-14",
+      "paragraph": 10,
+      "classification": "symptoms",
+      "summary": "Headache, gastric secretion, feeding and workload claims.",
+      "organ_terms": [
+        "head",
+        "stomach",
+        "digestion"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA313-19210414-P11",
+      "ga": 313,
+      "date": "1921-04-14",
+      "paragraph": 11,
+      "classification": "education",
+      "summary": "Homework linked to later digestive trouble.",
+      "organ_terms": [
+        "digestion"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA313-19210414-P12",
+      "ga": 313,
+      "date": "1921-04-14",
+      "paragraph": 12,
+      "classification": "historical_pathology",
+      "summary": "Class/sex generalizations; anemia/I-development theory.",
+      "organ_terms": [
+        "blood",
+        "head",
+        "respiration"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA313-19210414-P13",
+      "ga": 313,
+      "date": "1921-04-14",
+      "paragraph": 13,
+      "classification": "system_relation",
+      "summary": "Chest dual orientation; metabolic ascent toward head.",
+      "organ_terms": [
+        "circulation",
+        "respiration",
+        "head"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA313-19210414-P14",
+      "ga": 313,
+      "date": "1921-04-14",
+      "paragraph": 14,
+      "classification": "sensory_relation",
+      "summary": "Digestion extended as inward taste; head counteracts.",
+      "organ_terms": [
+        "taste",
+        "digestion",
+        "blood",
+        "head"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA313-19210414-P15",
+      "ga": 313,
+      "date": "1921-04-14",
+      "paragraph": 15,
+      "classification": "context",
+      "summary": "Mineral salts; asks definition of remedy.",
+      "organ_terms": [
+        "digestion"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": true,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA313-19210414-P16",
+      "ga": 313,
+      "date": "1921-04-14",
+      "paragraph": 16,
+      "classification": "analogy",
+      "summary": "Healing characterized as inwardly shifted digestion.",
+      "organ_terms": [
+        "digestion"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA313-19210414-P17",
+      "ga": 313,
+      "date": "1921-04-14",
+      "paragraph": 17,
+      "classification": "therapy",
+      "summary": "Iron-carbonate support for digestive/I activity.",
+      "organ_terms": [
+        "digestion",
+        "blood"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA313-19210414-P18",
+      "ga": 313,
+      "date": "1921-04-14",
+      "paragraph": 18,
+      "classification": "therapy",
+      "summary": "Iron preparation proposed for circulatory involvement.",
+      "organ_terms": [
+        "circulation"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA313-19210414-P19",
+      "ga": 313,
+      "date": "1921-04-14",
+      "paragraph": 19,
+      "classification": "therapy",
+      "summary": "Plant acids/metals; internal potentization claim.",
+      "organ_terms": [
+        "respiration",
+        "head"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA313-19210414-P20",
+      "ga": 313,
+      "date": "1921-04-14",
+      "paragraph": 20,
+      "classification": "therapy",
+      "summary": "Potency chosen by alleged center of disorder.",
+      "organ_terms": [
+        "head",
+        "metabolic-limb system"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA313-19210414-P21",
+      "ga": 313,
+      "date": "1921-04-14",
+      "paragraph": 21,
+      "classification": "constitution",
+      "summary": "Solid, fluid, air and warmth organization.",
+      "organ_terms": [
+        "whole organism",
+        "thermoregulation"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA313-19210414-P22",
+      "ga": 313,
+      "date": "1921-04-14",
+      "paragraph": 22,
+      "classification": "development",
+      "summary": "Declining head warmth; rising metabolic contribution.",
+      "organ_terms": [
+        "head",
+        "thermoregulation"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA313-19210414-P23",
+      "ga": 313,
+      "date": "1921-04-14",
+      "paragraph": 23,
+      "classification": "symptoms",
+      "summary": "Cold extremities attributed to insufficient I activity.",
+      "organ_terms": [
+        "hands",
+        "feet",
+        "thermoregulation"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA313-19210414-P24",
+      "ga": 313,
+      "date": "1921-04-14",
+      "paragraph": 24,
+      "classification": "symptoms",
+      "summary": "Uprightness internalized; stair fatigue/anemia interpretation.",
+      "organ_terms": [
+        "posture",
+        "limbs",
+        "blood"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA313-19210415-P01",
+      "ga": 313,
+      "date": "1921-04-15",
+      "paragraph": 1,
+      "classification": "context",
+      "summary": "Remedies framed through fourfold interplay.",
+      "organ_terms": [
+        "whole organism"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": true,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA313-19210415-P02",
+      "ga": 313,
+      "date": "1921-04-15",
+      "paragraph": 2,
+      "classification": "process_analogy",
+      "summary": "Arsenic-like forces distinguished from literal arsenic.",
+      "organ_terms": [
+        "stomach",
+        "whole organism"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA313-19210415-P03",
+      "ga": 313,
+      "date": "1921-04-15",
+      "paragraph": 3,
+      "classification": "analogy",
+      "summary": "Whole-person tooth image; magnesium therapy claim.",
+      "organ_terms": [
+        "teeth"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA313-19210415-P04",
+      "ga": 313,
+      "date": "1921-04-15",
+      "paragraph": 4,
+      "classification": "historical_pathology",
+      "summary": "Weak astral/I penetration; diarrhea/dysentery theory.",
+      "organ_terms": [
+        "intestines",
+        "blood",
+        "excretion"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA313-19210415-P05",
+      "ga": 313,
+      "date": "1921-04-15",
+      "paragraph": 5,
+      "classification": "context",
+      "summary": "External correspondences introduced.",
+      "organ_terms": [],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": true,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA313-19210415-P06",
+      "ga": 313,
+      "date": "1921-04-15",
+      "paragraph": 6,
+      "classification": "analogy",
+      "summary": "Rock formation and groundwater/dysentery analogy.",
+      "organ_terms": [
+        "intestines",
+        "whole organism"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA313-19210415-P07",
+      "ga": 313,
+      "date": "1921-04-15",
+      "paragraph": 7,
+      "classification": "context",
+      "summary": "Introduces diphtheria treatment question.",
+      "organ_terms": [],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": true,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA313-19210415-P08",
+      "ga": 313,
+      "date": "1921-04-15",
+      "paragraph": 8,
+      "classification": "development",
+      "summary": "Speech respiratory change opposed to circulatory change.",
+      "organ_terms": [
+        "respiration",
+        "circulation"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA313-19210415-P09",
+      "ga": 313,
+      "date": "1921-04-15",
+      "paragraph": 9,
+      "classification": "historical_pathology",
+      "summary": "Upward astral speech process linked to diphtheria.",
+      "organ_terms": [
+        "speech",
+        "respiration",
+        "head"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA313-19210415-P10",
+      "ga": 313,
+      "date": "1921-04-15",
+      "paragraph": 10,
+      "classification": "analogy",
+      "summary": "Plant/fungal cosmology; groundwater comparison.",
+      "organ_terms": [],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA313-19210415-P11",
+      "ga": 313,
+      "date": "1921-04-15",
+      "paragraph": 11,
+      "classification": "historical_pathology",
+      "summary": "Diphtheria interpreted through fungal/astral process.",
+      "organ_terms": [
+        "respiration",
+        "head"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA313-19210415-P12",
+      "ga": 313,
+      "date": "1921-04-15",
+      "paragraph": 12,
+      "classification": "historical_pathology",
+      "summary": "Contagion falsely explained through bodily imitation.",
+      "organ_terms": [
+        "whole organism"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA313-19210415-P13",
+      "ga": 313,
+      "date": "1921-04-15",
+      "paragraph": 13,
+      "classification": "therapy",
+      "summary": "Cinnabar and color-signature counterforce proposed.",
+      "organ_terms": [
+        "whole organism"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA313-19210415-P14",
+      "ga": 313,
+      "date": "1921-04-15",
+      "paragraph": 14,
+      "classification": "context",
+      "summary": "Transition to further constitutional observation.",
+      "organ_terms": [],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": true,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA313-19210415-P15",
+      "ga": 313,
+      "date": "1921-04-15",
+      "paragraph": 15,
+      "classification": "process_relation",
+      "summary": "I as phosphorus carrier and equilibrium agent.",
+      "organ_terms": [
+        "whole organism",
+        "posture"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA313-19210415-P16",
+      "ga": 313,
+      "date": "1921-04-15",
+      "paragraph": 16,
+      "classification": "process_relation",
+      "summary": "Fluid organization and dynamic equilibrium.",
+      "organ_terms": [
+        "fluid organism"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA313-19210415-P17",
+      "ga": 313,
+      "date": "1921-04-15",
+      "paragraph": 17,
+      "classification": "organ_relation",
+      "summary": "Blood cells limit I activity; tissue degeneration claims.",
+      "organ_terms": [
+        "blood",
+        "epithelium",
+        "muscles",
+        "bones"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA313-19210415-P18",
+      "ga": 313,
+      "date": "1921-04-15",
+      "paragraph": 18,
+      "classification": "death_analogy",
+      "summary": "Phosphorus poisoning compared with postmortem retrospect.",
+      "organ_terms": [
+        "whole organism"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA313-19210415-P19",
+      "ga": 313,
+      "date": "1921-04-15",
+      "paragraph": 19,
+      "classification": "historical_pathology",
+      "summary": "Sleep symptoms, anemia, jaundice through phosphorization.",
+      "organ_terms": [
+        "blood",
+        "sleep",
+        "jaundice"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA313-19210415-P20",
+      "ga": 313,
+      "date": "1921-04-15",
+      "paragraph": 20,
+      "classification": "constitution",
+      "summary": "Human life as I/astral work within skin.",
+      "organ_terms": [
+        "skin",
+        "whole organism"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA313-19210415-P21",
+      "ga": 313,
+      "date": "1921-04-15",
+      "paragraph": 21,
+      "classification": "process_relation",
+      "summary": "Physical/etheric synthesis versus I/astral analysis.",
+      "organ_terms": [
+        "stomach",
+        "metabolism"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA313-19210415-P22",
+      "ga": 313,
+      "date": "1921-04-15",
+      "paragraph": 22,
+      "classification": "process_relation",
+      "summary": "Iron analysis distinguished from other metals.",
+      "organ_terms": [
+        "blood"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA313-19210415-P23",
+      "ga": 313,
+      "date": "1921-04-15",
+      "paragraph": 23,
+      "classification": "method",
+      "summary": "External observation supplemented by spiritual model.",
+      "organ_terms": [],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": true,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA313-19210415-P24",
+      "ga": 313,
+      "date": "1921-04-15",
+      "paragraph": 24,
+      "classification": "closing_context",
+      "summary": "Promises remedies and answers.",
+      "organ_terms": [],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": true,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA313-19210416-P01",
+      "ga": 313,
+      "date": "1921-04-16",
+      "paragraph": 1,
+      "classification": "context",
+      "summary": "Remedy explanations and methodology introduced.",
+      "organ_terms": [],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": true,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA313-19210416-P02",
+      "ga": 313,
+      "date": "1921-04-16",
+      "paragraph": 2,
+      "classification": "method",
+      "summary": "Intuitive remedy certainty; nitrogen claim.",
+      "organ_terms": [
+        "respiration"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": true,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA313-19210416-P03",
+      "ga": 313,
+      "date": "1921-04-16",
+      "paragraph": 3,
+      "classification": "nutrition",
+      "summary": "Opposed protein theories criticized.",
+      "organ_terms": [
+        "protein organism"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA313-19210416-P04",
+      "ga": 313,
+      "date": "1921-04-16",
+      "paragraph": 4,
+      "classification": "metamorphosis",
+      "summary": "Lung formation called restrained head formation.",
+      "organ_terms": [
+        "lungs",
+        "head"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA313-19210416-P05",
+      "ga": 313,
+      "date": "1921-04-16",
+      "paragraph": 5,
+      "classification": "historical_pathology",
+      "summary": "Lung becoming thought-organ linked to consumption.",
+      "organ_terms": [
+        "lungs",
+        "head"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA313-19210416-P06",
+      "ga": 313,
+      "date": "1921-04-16",
+      "paragraph": 6,
+      "classification": "metamorphosis",
+      "summary": "Sensory breathing; liver–lung–head continuum.",
+      "organ_terms": [
+        "liver",
+        "lungs",
+        "brain",
+        "stomach",
+        "senses"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA313-19210416-P07",
+      "ga": 313,
+      "date": "1921-04-16",
+      "paragraph": 7,
+      "classification": "respiration",
+      "summary": "Astral sympathy/inhalation; antipathy/exhalation.",
+      "organ_terms": [
+        "brain",
+        "lungs",
+        "liver"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA313-19210416-P08",
+      "ga": 313,
+      "date": "1921-04-16",
+      "paragraph": 8,
+      "classification": "spiritual_activity",
+      "summary": "Outward respiration contrasted with inward spirit activity.",
+      "organ_terms": [
+        "protein organs",
+        "head"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA313-19210416-P09",
+      "ga": 313,
+      "date": "1921-04-16",
+      "paragraph": 9,
+      "classification": "spiritual_activity",
+      "summary": "Liver system assigned greatest inward spiritual activity.",
+      "organ_terms": [
+        "liver",
+        "head"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA313-19210416-P10",
+      "ga": 313,
+      "date": "1921-04-16",
+      "paragraph": 10,
+      "classification": "constitution",
+      "summary": "Nitrogen spirituality; ether/water, astral/air, I/warmth.",
+      "organ_terms": [
+        "respiration",
+        "fluid organism",
+        "thermoregulation"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA313-19210416-P11",
+      "ga": 313,
+      "date": "1921-04-16",
+      "paragraph": 11,
+      "classification": "organ_relation",
+      "summary": "Tissue-fluid/protein interplay; heart formation.",
+      "organ_terms": [
+        "heart",
+        "lungs",
+        "liver",
+        "interstitial fluid"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA313-19210416-P12",
+      "ga": 313,
+      "date": "1921-04-16",
+      "paragraph": 12,
+      "classification": "false_physiology",
+      "summary": "Heart-pump denial; thermometer/reading-device analogy.",
+      "organ_terms": [
+        "heart",
+        "circulation"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA313-19210416-P13",
+      "ga": 313,
+      "date": "1921-04-16",
+      "paragraph": 13,
+      "classification": "method",
+      "summary": "Dynamic forces said to imprint heart.",
+      "organ_terms": [
+        "heart"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": true,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA313-19210416-P14",
+      "ga": 313,
+      "date": "1921-04-16",
+      "paragraph": 14,
+      "classification": "polar_metamorphosis",
+      "summary": "Heart–lung polarity; uterus as transformed heart.",
+      "organ_terms": [
+        "heart",
+        "lungs",
+        "uterus"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA313-19210416-P15",
+      "ga": 313,
+      "date": "1921-04-16",
+      "paragraph": 15,
+      "classification": "historical_pathology",
+      "summary": "Fats/carbohydrates; tuberculosis head-formation theory.",
+      "organ_terms": [
+        "lungs",
+        "head"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA313-19210416-P16",
+      "ga": 313,
+      "date": "1921-04-16",
+      "paragraph": 16,
+      "classification": "therapy",
+      "summary": "Salt-rub proposal for alleged lung hardening.",
+      "organ_terms": [
+        "lungs",
+        "skin"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA313-19210416-P17",
+      "ga": 313,
+      "date": "1921-04-16",
+      "paragraph": 17,
+      "classification": "therapy_context",
+      "summary": "Baths and internal preparation introduced.",
+      "organ_terms": [
+        "skin",
+        "whole organism"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA313-19210416-P18",
+      "ga": 313,
+      "date": "1921-04-16",
+      "paragraph": 18,
+      "classification": "therapy",
+      "summary": "Mercury; potency schema and foot/head example.",
+      "organ_terms": [
+        "lungs",
+        "head",
+        "feet"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA313-19210416-P19",
+      "ga": 313,
+      "date": "1921-04-16",
+      "paragraph": 19,
+      "classification": "historical_pathology",
+      "summary": "Brain/liver degeneration related; mercury/calcium claims.",
+      "organ_terms": [
+        "brain",
+        "liver"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA313-19210416-P20",
+      "ga": 313,
+      "date": "1921-04-16",
+      "paragraph": 20,
+      "classification": "historical_pathology",
+      "summary": "Organ deformation/mental illness; excretion diagnostic claims.",
+      "organ_terms": [
+        "organ complexes",
+        "excretion"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA313-19210416-P21",
+      "ga": 313,
+      "date": "1921-04-16",
+      "paragraph": 21,
+      "classification": "historical_pathology",
+      "summary": "Unconscious organ imagery versus hallucination hypothesis.",
+      "organ_terms": [
+        "organ complexes",
+        "consciousness"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA313-19210416-P22",
+      "ga": 313,
+      "date": "1921-04-16",
+      "paragraph": 22,
+      "classification": "closing_context",
+      "summary": "Closes for Scheidegger lecture.",
+      "organ_terms": [],
+      "source_url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": true,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA317-19240630-P01",
+      "ga": 317,
+      "date": "1924-06-30",
+      "paragraph": 1,
+      "classification": "context",
+      "summary": "Karmic/prenatal developmental frame.",
+      "organ_terms": [],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": true,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA317-19240630-P02",
+      "ga": 317,
+      "date": "1924-06-30",
+      "paragraph": 2,
+      "classification": "context",
+      "summary": "Promises next-day clinical example.",
+      "organ_terms": [],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": true,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA317-19240630-P03",
+      "ga": 317,
+      "date": "1924-06-30",
+      "paragraph": 3,
+      "classification": "diagram",
+      "summary": "First schematic member arrangement introduced.",
+      "organ_terms": [
+        "whole organism"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA317-19240630-P04",
+      "ga": 317,
+      "date": "1924-06-30",
+      "paragraph": 4,
+      "classification": "diagram",
+      "summary": "Reverse schematic arrangement introduced.",
+      "organ_terms": [
+        "head"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA317-19240630-P05",
+      "ga": 317,
+      "date": "1924-06-30",
+      "paragraph": 5,
+      "classification": "constitution",
+      "summary": "Head I/astral inward; physical/etheric outward.",
+      "organ_terms": [
+        "head",
+        "face"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA317-19240630-P06",
+      "ga": 317,
+      "date": "1924-06-30",
+      "paragraph": 6,
+      "classification": "constitution",
+      "summary": "Limb I peripheral; physical toward long bones.",
+      "organ_terms": [
+        "limbs",
+        "bones"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA317-19240630-P07",
+      "ga": 317,
+      "date": "1924-06-30",
+      "paragraph": 7,
+      "classification": "system_relation",
+      "summary": "Opposed orientations mediated by rhythmic system.",
+      "organ_terms": [
+        "respiration",
+        "circulation"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA317-19240630-P08",
+      "ga": 317,
+      "date": "1924-06-30",
+      "paragraph": 8,
+      "classification": "memory",
+      "summary": "Head impressions echoed in lower organization.",
+      "organ_terms": [
+        "head",
+        "metabolic-limb system"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA317-19240630-P09",
+      "ga": 317,
+      "date": "1924-06-30",
+      "paragraph": 9,
+      "classification": "memory",
+      "summary": "Weak lower imprint allegedly reflects impressions upward.",
+      "organ_terms": [
+        "head",
+        "metabolic-limb system"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA317-19240630-P10",
+      "ga": 317,
+      "date": "1924-06-30",
+      "paragraph": 10,
+      "classification": "historical_pathology",
+      "summary": "Watch example; repeated thoughts and later illness.",
+      "organ_terms": [
+        "metabolic-limb system"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA317-19240630-P11",
+      "ga": 317,
+      "date": "1924-06-30",
+      "paragraph": 11,
+      "classification": "historical_pathology",
+      "summary": "Sulfur-poor protein linked to recurring representations.",
+      "organ_terms": [
+        "protein organism"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA317-19240630-P12",
+      "ga": 317,
+      "date": "1924-06-30",
+      "paragraph": 12,
+      "classification": "historical_pathology",
+      "summary": "Sulfur-rich absorption distinguished from surface congestion.",
+      "organ_terms": [
+        "protein organism",
+        "organ boundaries"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA317-19240630-P13",
+      "ga": 317,
+      "date": "1924-06-30",
+      "paragraph": 13,
+      "classification": "context",
+      "summary": "Criticizes psychoanalysis through sulfur hypothesis.",
+      "organ_terms": [
+        "protein organism"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": true,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA317-19240630-P14",
+      "ga": 317,
+      "date": "1924-06-30",
+      "paragraph": 14,
+      "classification": "method",
+      "summary": "Urges sulfur classification through symptoms.",
+      "organ_terms": [
+        "protein organism"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": true,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA317-19240630-P15",
+      "ga": 317,
+      "date": "1924-06-30",
+      "paragraph": 15,
+      "classification": "false_diagnosis",
+      "summary": "Hair color used for sulfur/iron classification.",
+      "organ_terms": [
+        "hair"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA317-19240630-P16",
+      "ga": 317,
+      "date": "1924-06-30",
+      "paragraph": 16,
+      "classification": "education",
+      "summary": "Rhythmic repetitions proposed for lost impressions.",
+      "organ_terms": [
+        "memory"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA317-19240630-P17",
+      "ga": 317,
+      "date": "1924-06-30",
+      "paragraph": 17,
+      "classification": "institutional_context",
+      "summary": "Remedy disclosure/production dilemma.",
+      "organ_terms": [],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": true,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA317-19240630-P18",
+      "ga": 317,
+      "date": "1924-06-30",
+      "paragraph": 18,
+      "classification": "case_context",
+      "summary": "Classroom anecdote of agitation and apathy.",
+      "organ_terms": [],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA317-19240630-P19",
+      "ga": 317,
+      "date": "1924-06-30",
+      "paragraph": 19,
+      "classification": "education",
+      "summary": "Individual sentence proposed to orient attention.",
+      "organ_terms": [],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA317-19240630-P20",
+      "ga": 317,
+      "date": "1924-06-30",
+      "paragraph": 20,
+      "classification": "observation",
+      "summary": "Nose forms used as observation exercise.",
+      "organ_terms": [
+        "nose"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA317-19240630-P21",
+      "ga": 317,
+      "date": "1924-06-30",
+      "paragraph": 21,
+      "classification": "education",
+      "summary": "Daily sentence repetition for alleged inner agitation.",
+      "organ_terms": [
+        "memory"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA317-19240630-P22",
+      "ga": 317,
+      "date": "1924-06-30",
+      "paragraph": 22,
+      "classification": "education",
+      "summary": "Morning verse as anti-absorption method.",
+      "organ_terms": [
+        "memory"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA317-19240630-P23",
+      "ga": 317,
+      "date": "1924-06-30",
+      "paragraph": 23,
+      "classification": "historical_therapy",
+      "summary": "Choral repetition alleged to alter protein sulfur.",
+      "organ_terms": [
+        "protein organism",
+        "memory"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA317-19240630-P24",
+      "ga": 317,
+      "date": "1924-06-30",
+      "paragraph": 24,
+      "classification": "education",
+      "summary": "Whispered counter-impression for repetitive thought.",
+      "organ_terms": [
+        "memory"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA317-19240630-P25",
+      "ga": 317,
+      "date": "1924-06-30",
+      "paragraph": 25,
+      "classification": "education",
+      "summary": "Teacher shouting alleged to worsen condition.",
+      "organ_terms": [],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA317-19240630-P26",
+      "ga": 317,
+      "date": "1924-06-30",
+      "paragraph": 26,
+      "classification": "historical_therapy",
+      "summary": "Root/fruit diet prescribed through sulfur model.",
+      "organ_terms": [
+        "digestion",
+        "protein organism"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA317-19240630-P27",
+      "ga": 317,
+      "date": "1924-06-30",
+      "paragraph": 27,
+      "classification": "historical_therapy",
+      "summary": "Salty diet proposal against later difficulties.",
+      "organ_terms": [
+        "digestion"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA317-19240630-P28",
+      "ga": 317,
+      "date": "1924-06-30",
+      "paragraph": 28,
+      "classification": "historical_therapy",
+      "summary": "Opposite fruit/aroma/sulfur treatment proposal.",
+      "organ_terms": [
+        "digestion",
+        "olfaction"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA317-19240630-P29",
+      "ga": 317,
+      "date": "1924-06-30",
+      "paragraph": 29,
+      "classification": "historical_pathology",
+      "summary": "Dense organization; movement/intention and mania claims.",
+      "organ_terms": [
+        "legs",
+        "fingers",
+        "hands"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    },
+    {
+      "id": "ORG-S13-GA317-19240630-P30",
+      "ga": 317,
+      "date": "1924-06-30",
+      "paragraph": 30,
+      "classification": "historical_therapy",
+      "summary": "Eurythmy proposed through limb organization.",
+      "organ_terms": [
+        "limbs"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html",
+      "scope": "entire numbered English section reviewed",
+      "evidence_state": "complete_English_section_review",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "not_full_collation"
+    }
+  ],
+  "scope": "Complete English section coverage, selected atomic claims and German spot checks only"
+}

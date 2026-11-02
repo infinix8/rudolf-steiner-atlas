@@ -845,6 +845,82 @@
         "archive_url_checked": true,
         "full_translation_collation": false
       }
+    },
+    {
+      "id": "SG-GA313-19210414",
+      "ga": "313",
+      "work": "Spiritual-Scientific Perspectives on Therapy",
+      "unit": "Lecture IV",
+      "kind": "recorded_lecture",
+      "edition": "SOL English; selected German comparison",
+      "lecture_date": "1921-04-14",
+      "url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210414.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Selected graph propositions from complete 24-section English read; exhaustive atomization/German collation pending.",
+        "checked_on": "2026-11-02",
+        "entire_work_reviewed": false,
+        "archive_page_opened_on": "2026-11-02",
+        "archive_url_checked": true,
+        "full_translation_collation": false
+      }
+    },
+    {
+      "id": "SG-GA313-19210415",
+      "ga": "313",
+      "work": "Spiritual-Scientific Perspectives on Therapy",
+      "unit": "Lecture V",
+      "kind": "recorded_lecture",
+      "edition": "SOL English; selected German comparison",
+      "lecture_date": "1921-04-15",
+      "url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210415.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Selected graph propositions from complete 24-section English read; exhaustive atomization/German collation pending.",
+        "checked_on": "2026-11-02",
+        "entire_work_reviewed": false,
+        "archive_page_opened_on": "2026-11-02",
+        "archive_url_checked": true,
+        "full_translation_collation": false
+      }
+    },
+    {
+      "id": "SG-GA313-19210416",
+      "ga": "313",
+      "work": "Spiritual-Scientific Perspectives on Therapy",
+      "unit": "Lecture VI",
+      "kind": "recorded_lecture",
+      "edition": "SOL English; selected German comparison",
+      "lecture_date": "1921-04-16",
+      "url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210416.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Selected graph propositions from complete 22-section English read; exhaustive atomization/German collation pending.",
+        "checked_on": "2026-11-02",
+        "entire_work_reviewed": false,
+        "archive_page_opened_on": "2026-11-02",
+        "archive_url_checked": true,
+        "full_translation_collation": false
+      }
+    },
+    {
+      "id": "SG-GA317-19240630",
+      "ga": "317",
+      "work": "Remedial Education Course",
+      "unit": "Lecture V",
+      "kind": "recorded_lecture",
+      "edition": "SOL English; selected German comparison",
+      "lecture_date": "1924-06-30",
+      "url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240630.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Selected graph propositions from complete 30-section English read; exhaustive atomization/German collation pending.",
+        "checked_on": "2026-11-02",
+        "entire_work_reviewed": false,
+        "archive_page_opened_on": "2026-11-02",
+        "archive_url_checked": true,
+        "full_translation_collation": false
+      }
     }
   ],
   "edges": [
@@ -3998,6 +4074,125 @@
       ],
       "claim": "Steiner connects organ retention/outflow and gland secretion with astral/I activity; this is unvalidated historical physiology.",
       "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-185",
+      "from": "RS-09.01.04",
+      "to": "RS-18.02",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA313-19210414",
+          "passage_locator": "§§8–9"
+        }
+      ],
+      "claim": "Steiner assigns nutritional substance transformation to one I with differentiated regional instruments.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-186",
+      "from": "RS-09.02.05",
+      "to": "RS-18.02",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA313-19210414",
+          "passage_locator": "§13"
+        }
+      ],
+      "claim": "Steiner distinguishes head-oriented respiration from metabolically oriented circulation.",
+      "relation_family": "composition_and_structure"
+    },
+    {
+      "id": "KG-187",
+      "from": "RS-09.01.04",
+      "to": "RS-18.02",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA313-19210415",
+          "passage_locator": "§§15–17"
+        }
+      ],
+      "claim": "Steiner links I activity to phosphorus processes, blood cells and striated muscles; this is historical supersensible physiology.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-188",
+      "from": "RS-18.02",
+      "to": "RS-09.03.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA313-19210416",
+          "passage_locator": "§§4–6,14"
+        }
+      ],
+      "claim": "Steiner distinguishes serial head–lung–liver metamorphosis from heart–lung polarity and a heart–uterus transformation.",
+      "relation_family": "composition_and_structure"
+    },
+    {
+      "id": "KG-189",
+      "from": "RS-18.02",
+      "to": "RS-12.03.01",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA313-19210416",
+          "passage_locator": "§6"
+        }
+      ],
+      "claim": "Steiner describes sensory perception as respiration refined into the etheric; this is not established sensory physiology.",
+      "relation_family": "explanation_and_interpretation"
+    },
+    {
+      "id": "KG-190",
+      "from": "RS-18.02",
+      "to": "RS-09.03.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA317-19240630",
+          "passage_locator": "§§8–12"
+        }
+      ],
+      "claim": "Steiner links memory to lower-organism impressions and distinguishes absorption from previously discussed surface congestion.",
+      "relation_family": "explanation_and_interpretation"
+    },
+    {
+      "id": "KG-191",
+      "from": "RS-18.06",
+      "to": "RS-19.06.04",
+      "type": "used_in_pedagogical_account",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA317-19240630",
+          "passage_locator": "§§23–30"
+        }
+      ],
+      "claim": "Steiner derives repetition, dietary and movement proposals from his unvalidated constitutional model.",
+      "relation_family": "method_and_application"
     }
   ],
   "version": "1.1",
@@ -4022,5 +4217,10 @@
     "new_edges": 5,
     "claim_dataset": "research/organ-atomic-claims-ga317-iii-iv-v12.json",
     "scope": "Graph edges select relations, not a count of unique organ claims."
+  },
+  "organ_concordance_phase13": {
+    "new_sources": 4,
+    "new_edges": 7,
+    "claim_dataset": "research/organ-atomic-claims-ga313-iv-vi-ga317-v-v13.json"
   }
 }

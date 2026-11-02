@@ -1,0 +1,22 @@
+{
+  "schema_version":"1.0",
+  "as_of":"2026-11-02",
+  "scope":"Eight selected German comparison checks; no entire-lecture bilingual collation",
+  "checks":[
+    {"id":"DE13-01","ga":313,"date":"1921-04-14","section":9,"url":"https://rsarchive.org/Lectures/GA313/Compare_04.php","terms":["Werkzeuge des Ich","Einheitliches"],"finding":"Upper/lower I refers to instruments of a single I, not distinct selves."},
+    {"id":"DE13-02","ga":313,"date":"1921-04-15","section":2,"url":"https://rsarchive.org/Lectures/GA313/Compare_05.php","terms":["Arsenisieren","Kräftesystem"],"finding":"Force analogy explicitly does not require literal arsenic in organism; distinguish subsequent remedy proposal."},
+    {"id":"DE13-03","ga":313,"date":"1921-04-15","section":17,"url":"https://rsarchive.org/Lectures/GA313/Compare_05.php","terms":["Blutkörperchen","quergestreiften Muskelfasern"],"finding":"Blood-cell and striated-muscle propositions confirmed; transcription also contains a corrupted blood-cell spelling, not adopted as canonical term."},
+    {"id":"DE13-04","ga":313,"date":"1921-04-16","section":11,"url":"https://rsarchive.org/Lectures/GA313/Compare_06.php","terms":["Urorgan","Gewebeflüssigkeit"],"finding":"Heart designation in tissue-fluid discussion; no cosmic stage named. Tissue fluid is the less restrictive translation."},
+    {"id":"DE13-05","ga":313,"date":"1921-04-16","section":12,"url":"https://rsarchive.org/Lectures/GA313/Compare_06.php","terms":["Ableseapparat"],"finding":"Reading-device metaphor and heart-pump denial confirmed; denial is medically false."},
+    {"id":"DE13-06","ga":313,"date":"1921-04-16","section":14,"url":"https://rsarchive.org/Lectures/GA313/Compare_06.php","terms":["polarische Metamorphose","Uterus"],"finding":"Polar relation differs from serial organ metamorphosis; etheric male counterpart explicitly distinguished from anatomy."},
+    {"id":"DE13-07","ga":317,"date":"1924-06-30","section":6,"url":"https://rsarchive.org/Lectures/GA317/Compare_05.php","terms":["Röhrenknochen"],"finding":"Long-bone reference confirmed; no named hierarchy attribution."},
+    {"id":"DE13-08","ga":317,"date":"1924-06-30","section":12,"url":"https://rsarchive.org/Lectures/GA317/Compare_05.php","terms":["Stauen","Einsaugen"],"finding":"Explicit distinction between surface congestion and absorption of impressions confirmed."}
+  ],
+  "unresolved":[
+    {"id":"TEXT13-ARMEN","ga":313,"date":"1921-04-16","section":6,"status":"digital_transcription_uncertain","finding":"German digital text has Armen where context concerns breathing; SOL renders arm. Do not create an arm-organ claim. Printed-edition check required."},
+    {"id":"TEXT13-PHOSPHORESCENCE","ga":313,"date":"1921-04-15","section":16,"status":"translation_scope_issue","finding":"German phosphorus-process vocabulary rendered phosphorescence in English. Do not silently equate physiological metaphor with optical luminescence."},
+    {"id":"TEXT13-DEICTIC","ga":317,"date":"1924-06-30","section":5,"status":"diagram_transcript_ambiguity","finding":"First/second entity references require diagram and edition comparison; explicit head and limb descriptions in §§5–7 remain usable without reconstructing the sequence."},
+    {"id":"TEXT13-DIARRHEA","ga":313,"date":"1921-04-15","sections":[4,21],"status":"apparent_conflict_not_resolved","finding":"§4 attributes bowel disorder to weak astral/I penetration, while §21 begins from excessive I activity; distinguish possible regional/predicate differences before claiming reconciliation."},
+    {"id":"TEXT13-EDITORIAL","ga":317,"date":"1924-06-30","section":26,"status":"third_person_note","finding":"Unnumbered third-person anecdote summary is present; count the numbered section once and do not promote summary into a verbatim Steiner quotation."}
+  ]
+}
