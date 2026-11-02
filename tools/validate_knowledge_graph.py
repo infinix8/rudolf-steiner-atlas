@@ -192,6 +192,9 @@ for edge in data.get("edges", []):
             errors.append(str(eid) + ": invalid " + field + " " + str(edge.get(field)))
     if edge.get("from") == edge.get("to"):
         errors.append(str(eid) + ": reflexive relation requires explicit modeling")
+    families = data.get("semantic_families", {}).get("definitions", {})
+    if edge.get("relation_family") not in families:
+        errors.append(str(eid) + ": unrecognized semantic relation family")
     if edge.get("type") not in allowed_types:
         errors.append(str(eid) + ": missing / unknown relation type " + str(edge.get("type")))
     if edge.get("status") not in allowed_statuses:
