@@ -62,7 +62,7 @@ allowed_types = {
     "frames_problem_of", "must_distinguish", "influences_next_rank",
     "directs_activity_of", "works_with", "used_as_analogy_for", "has_component",
     "forms_process_with", "motivates_educational_task", "frames_festival_interpretation",
-    "illustrates", "influences_festival_interpretation"
+    "illustrates", "influences_festival_interpretation", "framed_as_related_to"
 }
 source_refs = Counter()
 cross_domains = 0
