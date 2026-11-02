@@ -3,7 +3,7 @@
 // This app never downloads the full texts or scrapes the source sites.
 // It indexes the project's *own classification* and opens original source pages.
 const $ = (selector) => document.querySelector(selector);
-const state = { data: null, paths: null, nodes: new Map(), parents: new Map(), regions: new Map(), domains: new Map(), selected: null, query: "", domainFilter: "", anchors: null, crosswalk: null, models: null, vocabulary: null, evidenceGraph: null };
+const state = { data: null, paths: null, nodes: new Map(), parents: new Map(), regions: new Map(), domains: new Map(), selected: null, query: "", domainFilter: "", anchors: null, crosswalk: null, models: null, vocabulary: null, evidenceGraph: null, legacyAudit: null };
 const html = (input) => String(input ?? "").replace(/[&<>"']/g, (c) => ({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"}[c]));
 const knownSource = (url) => {
   try {
@@ -150,8 +150,12 @@ function sourceBlock(node) {
 }
 function relatedBlock(id) {
   const contextIds = new Set(ancestors(id).map((n) => n.id));
+  const confirmedPairs = new Set((state.legacyAudit?.relations || [])
+    .filter((audit) => audit.review_status === "matched_exact_nodes")
+    .map((audit) => [audit.from,audit.to].sort().join("|")));
   const edges = (state.data.crosslinks || []).filter((edge) =>
-    contextIds.has(edge.from) || contextIds.has(edge.to));
+    (contextIds.has(edge.from) || contextIds.has(edge.to)) &&
+    !confirmedPairs.has([edge.from,edge.to].sort().join("|")));
   if (!edges.length) {
     const parent = parentId(id);
     return '<p class="muted">No curated direct crosslink at this level yet.' +
@@ -305,19 +309,20 @@ function render() {
 }
 async function initialize() {
   try {
-    const [taxResponse, pathsResponse, anchorsResponse, crosswalkResponse, modelsResponse, vocabularyResponse, evidenceResponse] = await Promise.all([
+    const [taxResponse, pathsResponse, anchorsResponse, crosswalkResponse, modelsResponse, vocabularyResponse, evidenceResponse, auditResponse] = await Promise.all([
       fetch("../taxonomy/taxonomy-v1.json"),
       fetch("study-paths.json"),
       fetch("../research/primary-source-anchors.json"),
       fetch("../research/archive-topic-crosswalk.json"),
       fetch("../research/concept-models.json"),
       fetch("../research/search-vocabulary.json"),
-      fetch("../research/knowledge-graph-v1.json")
+      fetch("../research/knowledge-graph-v1.json"),
+      fetch("../research/legacy-crosslink-audit.json")
     ]);
-    if ([taxResponse, pathsResponse, anchorsResponse, crosswalkResponse, modelsResponse, vocabularyResponse, evidenceResponse].some((r) => !r.ok))
+    if ([taxResponse, pathsResponse, anchorsResponse, crosswalkResponse, modelsResponse, vocabularyResponse, evidenceResponse, auditResponse].some((r) => !r.ok))
       throw new Error("One of the local data files could not be loaded.");
-    [state.data, state.paths, state.anchors, state.crosswalk, state.models, state.vocabulary, state.evidenceGraph] = await Promise.all([
-      taxResponse.json(), pathsResponse.json(), anchorsResponse.json(), crosswalkResponse.json(), modelsResponse.json(), vocabularyResponse.json(), evidenceResponse.json()
+    [state.data, state.paths, state.anchors, state.crosswalk, state.models, state.vocabulary, state.evidenceGraph, state.legacyAudit] = await Promise.all([
+      taxResponse.json(), pathsResponse.json(), anchorsResponse.json(), crosswalkResponse.json(), modelsResponse.json(), vocabularyResponse.json(), evidenceResponse.json(), auditResponse.json()
     ]);
     indexData(state.data);
     renderNav();
