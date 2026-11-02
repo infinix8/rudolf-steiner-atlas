@@ -5,8 +5,8 @@
   "counts": {
     "original": 30,
     "exact": 4,
-    "partial": 1,
-    "not_evidenced": 25
+    "partial": 3,
+    "not_evidenced": 23
   },
   "relations": [
     {
@@ -173,9 +173,11 @@
       "from": "RS-17.01",
       "to": "RS-02.03",
       "previous_description": "optics and Goethean color",
-      "review_status": "not_yet_evidenced",
-      "candidate_graph_edges": [],
-      "caveat": "The legacy relationship remains a provisional editorial navigation suggestion, not an established Steiner relation."
+      "review_status": "related_descendant_evidence_not_sufficient",
+      "candidate_graph_edges": [
+        "KG-155"
+      ],
+      "caveat": "At least one related descendant link is supported by a checked passage, but the full broad crosslink has NOT been verified."
     },
     {
       "id": "LEG-019",
@@ -227,9 +229,11 @@
       "from": "RS-22.02",
       "to": "RS-02.03",
       "previous_description": "painting and color phenomenology",
-      "review_status": "not_yet_evidenced",
-      "candidate_graph_edges": [],
-      "caveat": "The legacy relationship remains a provisional editorial navigation suggestion, not an established Steiner relation."
+      "review_status": "related_descendant_evidence_not_sufficient",
+      "candidate_graph_edges": [
+        "KG-154"
+      ],
+      "caveat": "At least one related descendant link is supported by a checked passage, but the full broad crosslink has NOT been verified."
     },
     {
       "id": "LEG-025",
