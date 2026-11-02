@@ -8,11 +8,12 @@ These are planned tasks; a checklist item is not complete merely because this do
 - [x] Include editable mind maps and source rules.
 - [x] Provide structural integrity validation.
 - [x] Establish the dedicated GitHub repository.
+- [x] Source evidence levels, versioned GitHub commits and automated checks in the workflow.
 - [ ] Agree review and merge conventions for major revisions.
 
 ## Phase 1 — GA-by-GA coverage audit
 
-- [ ] Build a master bibliography of GA volumes, books and dated lectures.
+- [ ] Build a master bibliography of **all** GA volumes, books and dated lectures (current source guide indexes only 27 selected primary pages).
 - [ ] Compare every GA work with the 26 domains; identify gaps and missing branches.
 - [ ] Verify volume, chapter and lecture URLs.
 - [ ] Track edition, translation, authorship and transcription status.
@@ -33,7 +34,7 @@ These are planned tasks; a checklist item is not complete merely because this do
 ## Phase 4 — Passage-level knowledge graph
 
 - [x] First-pass source-linked graph: 66 typed relations with passage cues from 13 checked original pages (not full corpus).
-- [ ] Expand to per-concept source evidence across every subdomain and dated lecture.
+- [ ] Expand from 116 typed passage-linked relations across all 26 broad domains to per-concept evidence across every subdomain and dated lecture.
 - [ ] Add original German terms, translations, aliases and chronology.
 - [x] Initial typed, passage-checked graph separate from 30 exploratory links; four exact matches identified.
 - [ ] Verify 26 remaining legacy crosslinks and resolve duplicate canonical ideas.
@@ -44,9 +45,11 @@ These are planned tasks; a checklist item is not complete merely because this do
 - [x] First-pass region → domain → subdomain → concept browser (static prototype; not deployed).
 - [ ] Source-linked concept pages with concise quotations and faithful paraphrase.
 - [x] First-pass search, concept routes, related concepts, source gateway and 14 archive-topic bridges.
-- [ ] Source coverage dashboard, richer concept comparisons, chronology and graph views.
+- [x] First-pass source guide (27 original pages) with GA/date/title/domain/type filters; evidence graph with 116 typed relations and domain/evidence filters.
+- [ ] Long-form concept comparisons, chronological visualization, and per-subdomain source coverage dashboard.
 - [x] Responsive CSS and offline internal JSON and JS validation.
-- [ ] Real-browser accessibility and navigation testing; external link reviews and deployment.
+- [x] Desktop/mobile Chromium smoke navigation tests for taxonomy, graph and source guide.
+- [ ] Full keyboard/screen-reader/contrast audit, wider source-link checks and deployment.
 
 ## Quality gates
 
