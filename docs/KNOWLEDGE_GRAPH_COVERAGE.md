@@ -2,8 +2,8 @@
 
 Generated from local, original Atlas records; no external documents accessed.
 
-- **116 passage-qualified relationships**; **27 original source pages**.
-- **51 direct cross-domain graph connections**.
+- **142 passage-qualified relationships**; **30 original source pages**.
+- **60 direct cross-domain graph connections**.
 - **4 of 30 initial crosslinks** directly matched; **25** still have no matching exact-endpoint source evidence.
 - Source verification means **selected passages were checked**, not that full books were reviewed.
 
@@ -11,23 +11,23 @@ Generated from local, original Atlas records; no external documents accessed.
 
 | Domain | Title | Incident graph edges |
 |---|---|---:|
-| 01 | Thinking, Knowledge, Logic, and Freedom | 3 |
+| 01 | Thinking, Knowledge, Logic, and Freedom | 10 |
 | 02 | Goethean Science and the Foundations of Research | 7 |
-| 03 | Esoteric Training, Initiation, and Spiritual Research | 3 |
+| 03 | Esoteric Training, Initiation, and Spiritual Research | 7 |
 | 04 | Worldviews, Philosophy of Spirit, and Conceptual Structures | 6 |
-| 05 | Spiritual Worlds, Hierarchies, and Beings | 11 |
+| 05 | Spiritual Worlds, Hierarchies, and Beings | 16 |
 | 06 | Cosmic Genesis, Earth Evolution, and the Future | 18 |
-| 07 | Nature Kingdoms, Elemental Beings, and the Living Earth | 17 |
-| 08 | Karma, Reincarnation, Death, and Spiritual Destiny | 10 |
-| 09 | Human Constitution: Body, Soul, and Spirit | 21 |
-| 10 | Soul Life, Consciousness, Senses, and Psychology | 6 |
-| 11 | Life Course, Human Relations, and Embodied Biography | 3 |
+| 07 | Nature Kingdoms, Elemental Beings, and the Living Earth | 19 |
+| 08 | Karma, Reincarnation, Death, and Spiritual Destiny | 19 |
+| 09 | Human Constitution: Body, Soul, and Spirit | 23 |
+| 10 | Soul Life, Consciousness, Senses, and Psychology | 9 |
+| 11 | Life Course, Human Relations, and Embodied Biography | 5 |
 | 12 | Human Evolution and the Future of Consciousness | 1 |
 | 13 | Christology, Jesus, and the Mystery of Golgotha | 6 |
 | 14 | Religions, Ancient Mysteries, Scriptures, and Mythology | 4 |
 | 15 | Human History, Cultural Epochs, Peoples, and Civilizations | 4 |
 | 16 | Michael, Lucifer, Ahriman, and Spiritual Opposition | 4 |
-| 17 | Natural Sciences, Mathematics, Astronomy, and Technology | 4 |
+| 17 | Natural Sciences, Mathematics, Astronomy, and Technology | 5 |
 | 18 | Medicine, Therapeutics, Health, and Remedial Care | 3 |
 | 19 | Education, Waldorf Pedagogy, and Child Development | 4 |
 | 20 | Agriculture, Food, Nutrition, and Ecological Life | 3 |
@@ -42,13 +42,13 @@ Generated from local, original Atlas records; no external documents accessed.
 
 | Source | Original work | Graph evidence references |
 |---|---|---:|
-| [SG-GA009-C01](https://rsarchive.org/Books/GA009/English/AP1971/GA009_c01.html) | GA 9 — Theosophy | 12 |
+| [SG-GA009-C01](https://rsarchive.org/Books/GA009/English/AP1971/GA009_c01.html) | GA 9 — Theosophy | 14 |
 | [SG-GA013-C04](https://rsarchive.org/Books/GA013/English/AP1972/GA013_c04.html) | GA 13 — Occult Science | 12 |
 | [SG-GA151-19140122](https://rsarchive.org/Lectures/GA151/English/RSP1991/19140122p02.html) | GA 151 — Human and Cosmic Thought | 6 |
 | [SG-GA293-19190828](https://rsarchive.org/Lectures/GA293/English/RSP1966/19190828a01.html) | GA 293 — The Study of Man | 3 |
 | [SG-GA293-19190905](https://rsarchive.org/Lectures/GA293/English/RSP1966/19190905a01.html) | GA 293 — The Study of Man | 2 |
 | [SG-GA170-19160813](https://rsarchive.org/Lectures/GA170/English/RSP1990/19160813p01.html) | GA 170 — The Riddle of Humanity | 2 |
-| [SG-GA010-C01](https://rsarchive.org/Books/GA010/English/RSPC1947/GA010_c01.html) | GA 10 — Knowledge of Higher Worlds and its Attainment | 2 |
+| [SG-GA010-C01](https://rsarchive.org/Books/GA010/English/RSPC1947/GA010_c01.html) | GA 10 — Knowledge of Higher Worlds and its Attainment | 6 |
 | [SG-GA327-19240612](https://rsarchive.org/Lectures/GA327/English/BDA1958/19240612p01.html) | GA 327 — Agriculture | 3 |
 | [SG-GA004-C01](https://rsarchive.org/Books/GA004/English/RSP1964/GA004_c01.html) | GA 4 — The Philosophy of Freedom | 1 |
 | [SG-GA110-19090414](https://rsarchive.org/Lectures/19090414p01.html) | GA 110 — The Spiritual Hierarchies | 10 |
@@ -69,6 +69,9 @@ Generated from local, original Atlas records; no external documents accessed.
 | [SG-GA002-C03](https://rsarchive.org/Books/GA002/English/AP1940/GA002_c03.html) | GA 2 — A Theory of Knowledge | 2 |
 | [SG-GA321-19200301](https://rsarchive.org/Science/GA321/English/MP1980/19200301p01.html) | GA 321 — Second Scientific Lecture-Course: Warmth Course | 3 |
 | [SG-GA036-GOETHE](https://rsarchive.org/Articles/GA036/English/SOL2024/68_Goethe_and_the_Goetheanum.html) | GA 36 — Collected Essays from Das Goetheanum (1921–1925) | 2 |
+| [SG-GA004-C12](https://rsarchive.org/Books/GA004/English/RSP1964/GA004_c12.html) | GA 4 — The Philosophy of Freedom | 7 |
+| [SG-GA009-C02](https://rsarchive.org/Books/GA009/English/AP1971/GA009_c02.html) | GA 9 — Theosophy | 6 |
+| [SG-GA009-C03](https://rsarchive.org/Books/GA009/English/AP1971/GA009_c03.html) | GA 9 — Theosophy | 7 |
 
 ## Audit boundaries
 
