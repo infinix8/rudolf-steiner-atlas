@@ -1,0 +1,358 @@
+{
+  "schema_version": "0.1",
+  "as_of": "2026-11-02",
+  "scope": "Source-linked comparative organ dossiers; primary Steiner claims are distinguished by relationship type and context. Claims are not established medical or scientific findings.",
+  "dossier_count": 5,
+  "dossiers": [
+    {
+      "id": "organ-liver",
+      "organ": "liver",
+      "aliases": [
+        "Leber",
+        "liver-gall system (broader; do not conflate)"
+      ],
+      "relations": [
+        {
+          "relation": "inner_planet_analogy",
+          "source_url": "https://rsarchive.org/Lectures/GA128/English/SOL/19110321p01.html",
+          "ga": 128,
+          "passage_cue": "§11",
+          "original_editorial_summary": "Steiner initially uses inner Jupiter provisionally as analogy.",
+          "source_basis": "primary passage, English, checked/previously indexed",
+          "german_collation": "pending"
+        },
+        {
+          "relation": "member_association",
+          "source_url": "https://rsarchive.org/Lectures/FundAnthro/19221027a01.html",
+          "ga": 314,
+          "passage_cue": "liver/gall warmth and I discussion",
+          "original_editorial_summary": "Associates liver–gall system with I organization and warmth.",
+          "source_basis": "primary passage, English, checked/previously indexed",
+          "german_collation": "pending"
+        },
+        {
+          "relation": "developmental_head_reflection",
+          "source_url": "https://rsarchive.org/Lectures/GA314/English/MP1986/19221027p01.html",
+          "ga": 314,
+          "passage_cue": "§10",
+          "original_editorial_summary": "Liver–gall/I influences reflected from head in early childhood.",
+          "source_basis": "primary passage, English, checked/previously indexed",
+          "german_collation": "pending"
+        },
+        {
+          "relation": "inner_sense_analogy",
+          "source_url": "https://rsarchive.org/Medicine/YoungDoctors/19240103p01.html",
+          "ga": 316,
+          "passage_cue": "§§13–16",
+          "original_editorial_summary": "Liver treated as inward sense for food value.",
+          "source_basis": "primary passage, English, checked/previously indexed",
+          "german_collation": "pending"
+        },
+        {
+          "relation": "memory_surface_reflection",
+          "source_url": "https://rsarchive.org/Lectures/GA205/English/SOL/19210702p01.html",
+          "ga": 205,
+          "passage_cue": "§5",
+          "original_editorial_summary": "Emotional memory content said to reflect on liver surface.",
+          "source_basis": "primary passage, English, checked/previously indexed",
+          "german_collation": "pending"
+        },
+        {
+          "relation": "future_brain_interior_form",
+          "source_url": "https://rsarchive.org/Lectures/GA205/English/SOL/19210702p01.html",
+          "ga": 205,
+          "passage_cue": "§10",
+          "original_editorial_summary": "Interior organ forces said to shape future inner brain dispositions.",
+          "source_basis": "primary passage, English, checked/previously indexed",
+          "german_collation": "pending"
+        },
+        {
+          "relation": "elemental_correspondence",
+          "source_url": "https://rsarchive.org/Lectures/GA205/English/SOL/19210702p01.html",
+          "ga": 205,
+          "passage_cue": "§21",
+          "original_editorial_summary": "Water element relation; distinct from Jupiter.",
+          "source_basis": "primary passage, English, checked/previously indexed",
+          "german_collation": "pending"
+        },
+        {
+          "relation": "childhood_will_mediation",
+          "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240625.html",
+          "ga": 317,
+          "passage_cue": "§21",
+          "original_editorial_summary": "Liver said to mediate intention becoming action in limbs.",
+          "source_basis": "primary passage, English, checked/previously indexed",
+          "german_collation": "pending"
+        },
+        {
+          "relation": "liver_process_head_counterpart",
+          "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240625.html",
+          "ga": 317,
+          "passage_cue": "§7",
+          "original_editorial_summary": "Liver visible form portrayed as fixed process with corresponding head activity.",
+          "source_basis": "primary passage, English, checked/previously indexed",
+          "german_collation": "pending"
+        }
+      ],
+      "open_questions": [
+        "GA 102 Saturn-beings influence versus Jupiter analogy requires comparison with passage context and translation.",
+        "Liver-only versus liver–gall system terminology must remain distinct.",
+        "Historical medical and will interpretations have no clinical validation."
+      ]
+    },
+    {
+      "id": "organ-heart",
+      "organ": "heart",
+      "aliases": [
+        "Herz",
+        "cardiac/rhythmic system (broader)"
+      ],
+      "relations": [
+        {
+          "relation": "first_rudiment_cosmic_origin",
+          "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090417p01.html",
+          "ga": 110,
+          "passage_cue": "§§6–8",
+          "original_editorial_summary": "Old Saturn/Leo region early heart rudiment, attributed to Thrones, Cherubim and Seraphim.",
+          "source_basis": "primary passage, English, checked/previously indexed",
+          "german_collation": "pending"
+        },
+        {
+          "relation": "rhythmic_etheric_role",
+          "source_url": "https://rsarchive.org/Lectures/FundAnthro/19221027a01.html",
+          "ga": 314,
+          "passage_cue": "heart–lung/oxygen discussion",
+          "original_editorial_summary": "Heart–lung and etheric organization connected.",
+          "source_basis": "primary passage, English, checked/previously indexed",
+          "german_collation": "pending"
+        },
+        {
+          "relation": "inner_sense_analogy",
+          "source_url": "https://rsarchive.org/Medicine/YoungDoctors/19240103p01.html",
+          "ga": 316,
+          "passage_cue": "§§15–16",
+          "original_editorial_summary": "Heart allegedly senses internal astral and I organization.",
+          "source_basis": "primary passage, English, checked/previously indexed",
+          "german_collation": "pending"
+        },
+        {
+          "relation": "conscience_surface_reflection",
+          "source_url": "https://rsarchive.org/Lectures/GA205/English/SOL/19210702p01.html",
+          "ga": 205,
+          "passage_cue": "§14",
+          "original_editorial_summary": "Heart surface said to reflect pangs of conscience.",
+          "source_basis": "primary passage, English, checked/previously indexed",
+          "german_collation": "pending"
+        },
+        {
+          "relation": "future_karmic_dispositions",
+          "source_url": "https://rsarchive.org/Lectures/GA205/English/SOL/19210702p01.html",
+          "ga": 205,
+          "passage_cue": "§§14–16",
+          "original_editorial_summary": "Heart's interior said to carry next-incarnation karmic predispositions.",
+          "source_basis": "primary passage, English, checked/previously indexed",
+          "german_collation": "pending"
+        },
+        {
+          "relation": "elemental_correspondence",
+          "source_url": "https://rsarchive.org/Lectures/GA205/English/SOL/19210702p01.html",
+          "ga": 205,
+          "passage_cue": "§21",
+          "original_editorial_summary": "Heart associates with warmth.",
+          "source_basis": "primary passage, English, checked/previously indexed",
+          "german_collation": "pending"
+        },
+        {
+          "relation": "historically_false_pump_denial",
+          "source_url": "https://rsarchive.org/Lectures/GA205/English/SOL/19210702p01.html",
+          "ga": 205,
+          "passage_cue": "§13",
+          "original_editorial_summary": "Steiner denies cardiac pumping; this contradicts established cardiovascular physiology.",
+          "source_basis": "primary passage, English, checked/previously indexed",
+          "german_collation": "pending"
+        }
+      ],
+      "open_questions": [
+        "Compare named hierarchies of GA110 with ongoing organ activity of GA316; do not extrapolate.",
+        "Sun correspondence in GA107/128 is distinct from named Old Saturn builders and needs a separate direct passage anchor."
+      ]
+    },
+    {
+      "id": "organ-kidneys",
+      "organ": "kidneys",
+      "aliases": [
+        "Nierensystem",
+        "renal system"
+      ],
+      "relations": [
+        {
+          "relation": "astral_organization",
+          "source_url": "https://rsarchive.org/Lectures/FundAnthro/19221027a01.html",
+          "ga": 314,
+          "passage_cue": "kidney/nitrogen discussion",
+          "original_editorial_summary": "Kidney system assigned a role in astral organization.",
+          "source_basis": "primary passage, English, checked/previously indexed",
+          "german_collation": "pending"
+        },
+        {
+          "relation": "childhood_head_reflection",
+          "source_url": "https://rsarchive.org/Lectures/GA314/English/MP1986/19221027p01.html",
+          "ga": 314,
+          "passage_cue": "§10",
+          "original_editorial_summary": "Kidney/astral activity reflected from head in the child.",
+          "source_basis": "primary passage, English, checked/previously indexed",
+          "german_collation": "pending"
+        },
+        {
+          "relation": "future_temperament",
+          "source_url": "https://rsarchive.org/Lectures/GA205/English/SOL/19210702p01.html",
+          "ga": 205,
+          "passage_cue": "§12",
+          "original_editorial_summary": "Forces said to prepare future head's emotional temperament.",
+          "source_basis": "primary passage, English, checked/previously indexed",
+          "german_collation": "pending"
+        },
+        {
+          "relation": "elemental_correspondence",
+          "source_url": "https://rsarchive.org/Lectures/GA205/English/SOL/19210702p01.html",
+          "ga": 205,
+          "passage_cue": "§21",
+          "original_editorial_summary": "Air-element relation; not identical to Venus planetary label.",
+          "source_basis": "primary passage, English, checked/previously indexed",
+          "german_collation": "pending"
+        },
+        {
+          "relation": "head_analytic_synthetic_interplay",
+          "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240625.html",
+          "ga": 317,
+          "passage_cue": "§8",
+          "original_editorial_summary": "Kidney activity described as integrated with intestinal activity in head.",
+          "source_basis": "primary passage, English, checked/previously indexed",
+          "german_collation": "pending"
+        }
+      ],
+      "open_questions": [
+        "Kidney physical excretion and astral-radiating analogy must not be equated.",
+        "No unique named angel or hierarchy confirmed as builder of kidneys."
+      ]
+    },
+    {
+      "id": "organ-lungs",
+      "organ": "lungs",
+      "aliases": [
+        "Lunge",
+        "respiratory system (broader)"
+      ],
+      "relations": [
+        {
+          "relation": "etheric_rhythmic_role",
+          "source_url": "https://rsarchive.org/Lectures/FundAnthro/19221027a01.html",
+          "ga": 314,
+          "passage_cue": "heart-lung oxygen discussion",
+          "original_editorial_summary": "Lungs included with heart in etheric/rhythmic processes.",
+          "source_basis": "primary passage, English, checked/previously indexed",
+          "german_collation": "pending"
+        },
+        {
+          "relation": "formative_interaction",
+          "source_url": "https://rsarchive.org/Lectures/GA314/English/MP1986/19221027p01.html",
+          "ga": 314,
+          "passage_cue": "§7",
+          "original_editorial_summary": "Lung shape described as meeting of kidney-liver radial and head rounding forces.",
+          "source_basis": "primary passage, English, checked/previously indexed",
+          "german_collation": "pending"
+        },
+        {
+          "relation": "air_sound_organ_form",
+          "source_url": "https://rsarchive.org/Lectures/YoungDoctors/19240107p01.html",
+          "ga": 316,
+          "passage_cue": "§7",
+          "original_editorial_summary": "Organ formation in air/sound forces; lung comparatively direct relation.",
+          "source_basis": "primary passage, English, checked/previously indexed",
+          "german_collation": "pending"
+        },
+        {
+          "relation": "memory_surface_reflection",
+          "source_url": "https://rsarchive.org/Lectures/GA205/English/SOL/19210702p01.html",
+          "ga": 205,
+          "passage_cue": "§5",
+          "original_editorial_summary": "Lung surfaces said to reflect abstract thought memory.",
+          "source_basis": "primary passage, English, checked/previously indexed",
+          "german_collation": "pending"
+        },
+        {
+          "relation": "future_head_outer_form",
+          "source_url": "https://rsarchive.org/Lectures/GA205/English/SOL/19210702p01.html",
+          "ga": 205,
+          "passage_cue": "§7",
+          "original_editorial_summary": "Lung interior forces said to form future head physiognomy.",
+          "source_basis": "primary passage, English, checked/previously indexed",
+          "german_collation": "pending"
+        },
+        {
+          "relation": "elemental_correspondence",
+          "source_url": "https://rsarchive.org/Lectures/GA205/English/SOL/19210702p01.html",
+          "ga": 205,
+          "passage_cue": "§21",
+          "original_editorial_summary": "The lung is related to earth, not air, in this elemental mapping.",
+          "source_basis": "primary passage, English, checked/previously indexed",
+          "german_collation": "pending"
+        }
+      ],
+      "open_questions": [
+        "Present air as formative force vs earth as elemental organ correspondence are different relation types.",
+        "No unique named spiritual builder of lung established in source passages indexed here."
+      ]
+    },
+    {
+      "id": "organ-larynx",
+      "organ": "larynx",
+      "aliases": [
+        "Kehlkopf"
+      ],
+      "relations": [
+        {
+          "relation": "general_organ_metamorphosis",
+          "source_url": "https://rsarchive.org/Lectures/CuratEuryth/19210412p01.html",
+          "ga": 315,
+          "passage_cue": "§4",
+          "original_editorial_summary": "Every organ described as metamorphic variation within whole organism.",
+          "source_basis": "primary passage, English, checked/previously indexed",
+          "german_collation": "pending"
+        },
+        {
+          "relation": "posterior_head_rib_inversion",
+          "source_url": "https://rsarchive.org/Lectures/CuratEuryth/19210412p01.html",
+          "ga": 315,
+          "passage_cue": "§§5–6",
+          "original_editorial_summary": "Larynx described as a transformed/reversed posterior head and rib cage.",
+          "source_basis": "primary passage, English, checked/previously indexed",
+          "german_collation": "pending"
+        },
+        {
+          "relation": "thyroid_forebrain_analogy",
+          "source_url": "https://rsarchive.org/Lectures/CuratEuryth/19210412p01.html",
+          "ga": 315,
+          "passage_cue": "§7",
+          "original_editorial_summary": "Thyroid linked in Steiner's analogy to altered forebrain formation.",
+          "source_basis": "primary passage, English, checked/previously indexed",
+          "german_collation": "pending"
+        },
+        {
+          "relation": "speech_breath_hearing_rhythm",
+          "source_url": "https://rsarchive.org/Lectures/CuratEuryth/19210412p01.html",
+          "ga": 315,
+          "passage_cue": "§§8–12",
+          "original_editorial_summary": "Speech, singing and internal larynx movements linked to hearing and chest rhythm.",
+          "source_basis": "primary passage, English, checked/previously indexed",
+          "german_collation": "pending"
+        }
+      ],
+      "open_questions": [
+        "A metaphoric/metamorphic relationship does not certify a literal embryological identity.",
+        "Historical therapeutic claims must not be represented as established interventions."
+      ]
+    }
+  ],
+  "source_policy": "Original paraphrase and link only; no reproduction of archive full text."
+}
