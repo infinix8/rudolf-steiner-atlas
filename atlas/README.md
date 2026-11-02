@@ -40,3 +40,11 @@ node --check atlas/app.js
 ## Additional features
 
 19 located-but-not-fully-reviewed original source links; 14 archive-topic bridges; 41 controlled alternative search phrases; and 3 source-linked comparison models (GA 9, GA 151 and GA 293).
+
+## Passage-evidence graph (iteration 2026-11-02)
+
+Open `http://localhost:8000/atlas/graph.html` for a filterable diagram and an accessible evidence table covering 66 typed relations, 13 original book/lecture pages and 19 cross-domain connections.
+
+The main concept browser includes separate panels for **passage-checked** relationships and **unverified proposed** crosslinks. All relations are original paraphrases or explicitly marked editorial comparisons. Follow the outgoing source link to read Steiner's own text in its original context.
+
+See [graph evidence method](../docs/KNOWLEDGE_GRAPH_METHOD.md) and [coverage report](../docs/KNOWLEDGE_GRAPH_COVERAGE.md). To regenerate and verify the report, run `python tools/report_knowledge_graph.py --write` and `python tools/report_knowledge_graph.py --check`.
