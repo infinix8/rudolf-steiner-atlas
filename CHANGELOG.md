@@ -1,3 +1,12 @@
+## 2026-11-02 — Organ concordance Phase 8: GA 313, 315, 317 and nine-organ atlas
+
+- Inspected **selected English passages in nine previously unreviewed lectures**: GA 313 I–III, GA 315 II–IV, GA 317 II–IV. Recorded [49 narrowly sourced, paragraph-cued historical claims](research/organ-atomic-claims-ga313-ga315-ga317-phase8.json); **these are not whole-lecture audits**.
+- Added [full source-linked Phase 8 report](docs/ORGAN_CONCORDANCE_PHASE8_FINDINGS.md) comparing primary versus imprinted bodily organizations, four ether streams, organ differentiation, speech/movement relationships, brain/world ether, eye/earth relation and organ-boundary hypotheses.
+- Expanded [comparative organ dossiers to nine](research/organ-comparative-dossiers-v8.json), adding brain/head, eye, intestines and circulation to liver, heart, kidneys, lungs and larynx.
+- Updated [GA313–317 corpus ledger](research/organ-corpus-ledger-ga313-317-v8.json): **6 complete English numbered-section reviews**, **1 English thematic sweep**, **9 selected-passage readings**, **45 wholly unreviewed**, **0 exhaustive bilingual original-German/atomic-claim concordances** in 61 catalogue entries.
+- The full local research document is now **Version 8.0 (46 rendered pages)**, preserving all earlier research; Word and Markdown copies are furnished as conversation artifacts.
+- Carefully distinguishes historical/unsupported epilepsy, child development, organ therapy and disability-related assertions from established science or clinical guidance. German source checking, duplicate claim consolidation and whole-lecture extraction remain pending.
+
 ## 2026-11-02 — Organ concordance Phase 7: organ metamorphosis and inter-incarnation history
 
 - Examined all **69 numbered English sections** across GA 205 (July 2, 1921; 26 sections), GA 315 (April 12, 1921; 20 sections) and GA 317 (June 25, 1924; 23 sections). Added [section coverage register](research/organ-section-audit-ga205-ga315-ga317-v7.json) and [28 selected distinct organ claims](research/organ-atomic-claims-ga205-ga315-ga317-v7.json).
