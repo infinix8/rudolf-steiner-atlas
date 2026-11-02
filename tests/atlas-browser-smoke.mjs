@@ -73,6 +73,16 @@ try {
   assert(karmaEvents>0 && karmaEvents<lectureCards,'timeline domain filter failed');
   await page.locator('#timeline-clear').click();
   assert(await page.locator('.chronology-entry').count()===lectureCards,'timeline reset failed');
+  await page.goto(root+'/atlas/dossiers.html',{waitUntil:'networkidle'});
+  await page.getByRole('heading',{name:"Follow a question across Steiner's original works."}).waitFor();
+  const allDossiers=await page.locator('#dossier-list article').count();
+  assert(allDossiers>=5,'dossier index missing original concept comparison guides');
+  await page.locator('#dossier-search').fill('karma');
+  assert(await page.locator('#dossier-list article').count()>0,'dossier search did not find karma');
+  await page.goto(root+'/atlas/dossiers.html?id=human-constitution-schemes',{waitUntil:'networkidle'});
+  await page.getByRole('heading',{name:/Four, seven, nine/}).waitFor();
+  assert(await page.locator('.dossier-section').count()>=3,'dossier lacks substantial research sections');
+  assert(await page.locator('.dossier-section a[href*="rsarchive.org"]').count()>=3,'dossier primary source links missing');
   assert(!errors.length,'console or page errors: '+errors.join('; '));
   console.log(JSON.stringify({ok:true,conceptSearch:true,domainRows,compared,sourceRows,totalRelationships:initial}));
   await page.close();
@@ -88,6 +98,8 @@ try {
   assert(await mobile.locator('#coverage-status').isVisible(),'mobile coverage filtering unavailable');
   await mobile.goto(root+'/atlas/timeline.html',{waitUntil:'networkidle'});
   assert(await mobile.locator('#timeline-from').isVisible(),'mobile timeline unavailable');
+  await mobile.goto(root+'/atlas/dossiers.html',{waitUntil:'networkidle'});
+  assert(await mobile.locator('#dossier-search').isVisible(),'mobile dossiers search unavailable');
   assert(!errors.length,'mobile console or page errors: '+errors.join('; '));
   await mobile.close();
   console.log('PASS: desktop + mobile atlas routes, search, source links, domain/evidence filtering');
