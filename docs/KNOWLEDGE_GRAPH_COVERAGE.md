@@ -2,8 +2,8 @@
 
 Generated from local, original Atlas records; no external documents accessed.
 
-- **218 passage-qualified relationships**; **58 original source pages**.
-- **113 direct cross-domain graph connections**.
+- **289 passage-qualified relationships**; **96 original source pages**.
+- **184 direct cross-domain graph connections**.
 - **4 of 30 initial crosslinks** directly matched; **22** still have no matching exact-endpoint source evidence.
 - Source pages include alternate views of shared lecture events (GA313 IX / GA315 VII); page counts are not independent-event counts.
 - Source verification means **selected passages were checked**, not that full books were reviewed.
@@ -20,16 +20,16 @@ Generated from local, original Atlas records; no external documents accessed.
 | 06 | Cosmic Genesis, Earth Evolution, and the Future | 19 |
 | 07 | Nature Kingdoms, Elemental Beings, and the Living Earth | 22 |
 | 08 | Karma, Reincarnation, Death, and Spiritual Destiny | 21 |
-| 09 | Human Constitution: Body, Soul, and Spirit | 41 |
+| 09 | Human Constitution: Body, Soul, and Spirit | 107 |
 | 10 | Soul Life, Consciousness, Senses, and Psychology | 13 |
-| 11 | Life Course, Human Relations, and Embodied Biography | 15 |
-| 12 | Human Evolution and the Future of Consciousness | 8 |
+| 11 | Life Course, Human Relations, and Embodied Biography | 18 |
+| 12 | Human Evolution and the Future of Consciousness | 10 |
 | 13 | Christology, Jesus, and the Mystery of Golgotha | 6 |
 | 14 | Religions, Ancient Mysteries, Scriptures, and Mythology | 4 |
 | 15 | Human History, Cultural Epochs, Peoples, and Civilizations | 4 |
 | 16 | Michael, Lucifer, Ahriman, and Spiritual Opposition | 4 |
 | 17 | Natural Sciences, Mathematics, Astronomy, and Technology | 6 |
-| 18 | Medicine, Therapeutics, Health, and Remedial Care | 40 |
+| 18 | Medicine, Therapeutics, Health, and Remedial Care | 111 |
 | 19 | Education, Waldorf Pedagogy, and Child Development | 13 |
 | 20 | Agriculture, Food, Nutrition, and Ecological Life | 9 |
 | 21 | Social Threefolding, Economics, Law, and Political Life | 7 |
@@ -101,6 +101,44 @@ Generated from local, original Atlas records; no external documents accessed.
 | [SG-GA317-19240705](https://rsarchive.org/Lectures/GA317/English/SOL/19240705.html) | GA 317 — Remedial Education Course | 1 |
 | [SG-GA317-19240706](https://rsarchive.org/Lectures/GA317/English/SOL/19240706.html) | GA 317 — Remedial Education Course | 3 |
 | [SG-GA317-19240707](https://rsarchive.org/Lectures/GA317/English/SOL/19240707.html) | GA 317 — Remedial Education Course | 2 |
+| [SG-GA315-19210413](https://rsarchive.org/Lectures/GA315/English/SOL/19210413.html) | GA 315 — Therapeutic Eurythmy | 1 |
+| [SG-GA315-19210414](https://rsarchive.org/Lectures/GA315/English/SOL/19210414.html) | GA 315 — Therapeutic Eurythmy | 1 |
+| [SG-GA315-19210415](https://rsarchive.org/Lectures/GA315/English/SOL/19210415.html) | GA 315 — Therapeutic Eurythmy | 1 |
+| [SG-GA315-19210416](https://rsarchive.org/Lectures/GA315/English/SOL/19210416.html) | GA 315 — Therapeutic Eurythmy | 1 |
+| [SG-GA315-19210417](https://rsarchive.org/Lectures/GA315/English/SOL/19210417.html) | GA 315 — Therapeutic Eurythmy | 3 |
+| [SG-GA315-19221028](https://rsarchive.org/Lectures/GA315/English/SOL/19221028.html) | GA 315 — Therapeutic Eurythmy | 2 |
+| [SG-GA314-19201007](https://rsarchive.org/Lectures/GA314/English/SOL/19201007.html) | GA 314 — Physiological Therapeutics | 1 |
+| [SG-GA314-19201008](https://rsarchive.org/Lectures/GA314/English/SOL/19201008.html) | GA 314 — Physiological Therapeutics | 2 |
+| [SG-GA314-19201009a](https://rsarchive.org/Lectures/GA314/English/SOL/19201009a.html) | GA 314 — Physiological Therapeutics | 2 |
+| [SG-GA314-19201009p](https://rsarchive.org/Lectures/GA314/English/SOL/19201009p.html) | GA 314 — Physiological Therapeutics | 2 |
+| [SG-GA314-05-V20](https://rsarchive.org/Lectures/GA314/English/SOL/19221026.html) | GA 314 — Physiological Therapeutics | 2 |
+| [SG-GA314-06-V20](https://rsarchive.org/Lectures/GA314/English/MP1986/19221027a01.html) | GA 314 — Physiological Therapeutics | 1 |
+| [SG-GA314-08-V20](https://rsarchive.org/Lectures/GA314/English/SOL/19221028.html) | GA 314 — Physiological Therapeutics | 2 |
+| [SG-GA314-09-V20](https://rsarchive.org/Lectures/GA314/English/SOL/19231231.html) | GA 314 — Physiological Therapeutics | 2 |
+| [SG-GA314-10-V21](https://rsarchive.org/Lectures/GA314/English/SOL/19240101.html) | GA 314 — Physiological Therapeutics based on Spiritual Science | 2 |
+| [SG-GA314-11-V21](https://rsarchive.org/Lectures/GA314/English/SOL/19240102.html) | GA 314 — Physiological Therapeutics based on Spiritual Science | 2 |
+| [SG-GA314-12-V21](https://rsarchive.org/Lectures/GA314/English/SOL/19200407.html) | GA 314 — Physiological Therapeutics based on Spiritual Science | 2 |
+| [SG-GA314-13-V21](https://rsarchive.org/Lectures/GA314/English/SOL/19200326.html) | GA 314 — Physiological Therapeutics based on Spiritual Science | 2 |
+| [SG-GA314-14-V21](https://rsarchive.org/Lectures/GA314/English/SOL/19240421.html) | GA 314 — Physiological Therapeutics based on Spiritual Science | 2 |
+| [SG-GA314-15-V21](https://rsarchive.org/Lectures/GA314/English/SOL/19240422.html) | GA 314 — Physiological Therapeutics based on Spiritual Science | 2 |
+| [SG-GA314-16-V21](https://rsarchive.org/Lectures/GA314/English/SOL/19240423.html) | GA 314 — Physiological Therapeutics based on Spiritual Science | 2 |
+| [SG-GA316-01-V22](https://rsarchive.org/Lectures/GA316/English/SOL/19240102.html) | GA 316 — Meditative Reflections and Guidance for Deepening the Art of Healing | 2 |
+| [SG-GA316-04-V22](https://rsarchive.org/Lectures/GA316/English/SOL/19240105.html) | GA 316 — Meditative Reflections and Guidance for Deepening the Art of Healing | 2 |
+| [SG-GA316-05-V22](https://rsarchive.org/Lectures/GA316/English/SOL/19240106.html) | GA 316 — Meditative Reflections and Guidance for Deepening the Art of Healing | 2 |
+| [SG-GA316-07-V22](https://rsarchive.org/Lectures/GA316/English/SOL/19240108.html) | GA 316 — Meditative Reflections and Guidance for Deepening the Art of Healing | 2 |
+| [SG-GA316-08-V22](https://rsarchive.org/Lectures/GA316/English/SOL/19240109.html) | GA 316 — Meditative Reflections and Guidance for Deepening the Art of Healing | 2 |
+| [SG-GA316-09-V23](https://rsarchive.org/Lectures/GA316/English/SOL/19240421.html) | GA 316 — Meditative Reflections and Guidance for Deepening the Art of Healing | 2 |
+| [SG-GA316-10-V23](https://rsarchive.org/Lectures/GA316/English/SOL/19240422.html) | GA 316 — Meditative Reflections and Guidance for Deepening the Art of Healing | 2 |
+| [SG-GA316-11-V23](https://rsarchive.org/Lectures/GA316/English/SOL/19240423.html) | GA 316 — Meditative Reflections and Guidance for Deepening the Art of Healing | 2 |
+| [SG-GA316-12-V23](https://rsarchive.org/Lectures/GA316/English/SOL/19240424.html) | GA 316 — Meditative Reflections and Guidance for Deepening the Art of Healing | 2 |
+| [SG-GA316-13-V23](https://rsarchive.org/Lectures/GA316/English/SOL/19240425.html) | GA 316 — Meditative Reflections and Guidance for Deepening the Art of Healing | 2 |
+| [SG-GA316-14-V23](https://rsarchive.org/Lectures/GA316/English/SOL/19240311.html) | GA 316 — Meditative Reflections and Guidance for Deepening the Art of Healing | 2 |
+| [SG-GA316-15-V23](https://rsarchive.org/Lectures/GA316/English/SOL/19240424a.html) | GA 316 — Meditative Reflections and Guidance for Deepening the Art of Healing | 2 |
+| [SG-GA316-16-V23](https://rsarchive.org/Lectures/GA316/English/SOL/Meditation.html) | GA 316 — Meditative Reflections and Guidance for Deepening the Art of Healing | 2 |
+| [SG-GA128-01-V24](https://rsarchive.org/Lectures/GA128/English/SOL/19110320p01.html) | GA 128 — An Occult Physiology | 2 |
+| [SG-GA128-02-V24](https://rsarchive.org/Lectures/GA128/English/SOL/19110321p01.html) | GA 128 — An Occult Physiology | 2 |
+| [SG-GA128-03-V24](https://rsarchive.org/Lectures/GA128/English/SOL/19110322p01.html) | GA 128 — An Occult Physiology | 2 |
+| [SG-GA128-04-V24](https://rsarchive.org/Lectures/GA128/English/SOL/19110323p01.html) | GA 128 — An Occult Physiology | 2 |
 
 ## Audit boundaries
 

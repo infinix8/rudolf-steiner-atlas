@@ -105,3 +105,24 @@ if ledger.get('unnumbered_English_blocks_checked'):
    assert len(units)==e['english_unnumbered_blocks_reviewed']
    assert all(isinstance(r['paragraph'],str) and r['paragraph'].startswith('block-') for r in units)
    assert e['english_paragraphs_reviewed']==0
+
+# Wider-corpus views must not inflate the fixed medical catalogue.
+wider=ROOT/f'research/organ-corpus-ledger-ga128-v{version}.json'
+if wider.exists():
+ w=json.loads(wider.read_text());assert len(w['entries'])==w['catalogued_entries']==8
+ done=[e for e in w['entries'] if e['audit_status']=='all_numbered_english_paragraphs_reviewed']
+ assert len(done)==w['complete_English_source_views']
+ assert sum(e['audit_status']=='unreviewed' for e in w['entries'])==w['unread']
+ assert sum(e['english_paragraphs_reviewed'] for e in done)==w['numbered_units_reviewed']
+ for e in done:
+  rows=[r for r in load(e['audit_record'])['records'] if r['catalogue_entry_id']==e['id']]
+  assert [r['paragraph'] for r in rows]==list(range(1,e['english_paragraphs_reviewed']+1))
+for audit in (ROOT/'research').glob('organ-paragraph-review-*-v*.json'):
+ for row in json.loads(audit.read_text()).get('records',[]):
+  if row.get('speaker') in ('audience','editorial'):
+   assert not any(c.get('source_url')==row['source_url'] and c.get('section')==row['paragraph'] and c.get('speaker')=='Steiner' for c in claims.values())
+for provenance in (ROOT/'research').glob('organ-manuscript-provenance-v*.json'):
+ m=json.loads(provenance.read_text())
+ if 'nested_v15' in m:
+  b=(ROOT/m['cumulative_path']).read_bytes();n=m['nested_v15'];piece=b[n['preserved_start_byte']:n['preserved_end_byte_exclusive']]
+  assert len(piece)==n['source_bytes'] and hashlib.sha256(piece).hexdigest()==n['source_sha256']

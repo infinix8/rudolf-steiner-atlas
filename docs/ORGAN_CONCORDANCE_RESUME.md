@@ -1,61 +1,43 @@
-# Current checkpoint — phase 23
+# Organ concordance continuation checkpoint Version 24
 
-The 61-entry GA313–317 English first pass is complete. Current ledger v23: 59 numbered views and two unnumbered; 1,607 numbered source units, 44 editorial blocks, one table. Full bilingual/exhaustive/independent review certifications remain zero. Read phase23 findings. Next: GA128 lecture I, 20 March 1911, §1; inspect prior selected evidence before extracting. Cumulative v19 manuscript retained pending final expansion.
+Updated 3 November 2026. Current cumulative manuscript is Version24, 42,089 words, 77 Word pages. Read this checkpoint and the current ledgers before selecting new work. Historical checkpoints remain in Git history and in the preserved cumulative manuscript.
 
----
+## Exact next original source
 
-# Current checkpoint — phase 22
+**GA128 Lecture V, 24 March 1911, Prague, §1**
 
-53 complete English source views; eight unread entries, GA316-09 through -16. Current ledger v22. Next permanent audit: GA316-09 §1. See phase22 findings. Cumulative v19 manuscript preserved pending session-end expansion.
+https://rsarchive.org/Lectures/GA128/English/SOL/19110324p01.html
 
----
+No section of V was newly reviewed in phases20–24. Start at §1 and read the entire available English source; then VI (26 March), VII (27 March), VIII (28 March). Older GA128 thematic notes or selected references do not substitute for a complete source-view audit. Initial lectures explicitly defer qualifications to the rest of the course.
 
-# Current checkpoint — phase 21
+## Authoritative current files
 
-GA314 English first pass is complete. Current ledger: research/organ-corpus-ledger-ga313-317-v21.json. 48 complete English source views, 13 unread (all GA316), 1,321 numbered units, 38 unnumbered editorial blocks, one supplementary table. Read docs/ORGAN_CONCORDANCE_PHASE21_FINDINGS.md. Next: GA316-01, Christmas Course I, 2 January 1924, §1; then remaining GA316 entries. V19 cumulative manuscript is preserved; final cumulative update follows ongoing research.
+- `research/organ-corpus-ledger-ga313-317-v24.json`: all61 catalogue source views English-complete, 59 numbered views and two unnumbered views; 1,607 numbered units, 44 editorial blocks and one supplementary table. Zero unread, thematic-only or selected-only entries.
+- `research/organ-corpus-ledger-ga128-v24.json`: eight events, I–IV complete English, 87 numbered units, V–VIII unread. Keep the eight-entry denominator separate from the fixed61.
+- `research/organ-comparative-dossiers-v24.json`: 39 dossiers, all earlier fields/relations retained.
+- `research/organ-evidence-graph-v24.json`: selected claim/dossier/reconciliation links.
+- `research/knowledge-graph-v1.json`: 289 relationships and 96 source views. These are not independent-event or unique-teaching totals.
+- `research/organ-atomic-claims-*-v20.json` through v24 and corresponding paragraph-review files: selected extraction after whole-English reading.
+- `research/organ-german-checks-and-textual-issues-v20.json` through v24: 38 new selective checks; unresolved register retained.
+- `docs/Steiner_Organ_Evolution_Research_Atlas_v24.md` and `.docx`: cumulative manuscript; provenance in `research/organ-manuscript-provenance-v24.json`.
+- `docs/ORGAN_CONCORDANCE_SESSION_V24.md`, phase20–24 findings and `research/organ-session-results-v24.json`: exact new/reconciled counts and section totals.
 
----
+## Certification boundaries
 
-# Phase 20 continuation checkpoint
+Complete English source-view reading is not exhaustive atomic extraction. Full original-German collation, exhaustive extraction and independent second review remain uncertified across the corpus. Selective German checks must not be reported as complete German lecture reviews. Catalogue aliases GA313 IX/GA315 VII, the alternate GA317 VIII edition, and five GA315 VI heading/Husemann units remain explicit. GA316-14 is a joint Steiner–Wegman circular; -16 is a personal meditation, not a recorded lecture.
 
-Current: 41 complete English source views, no thematic-only or selected-only, 20 unread. 1,041 numbered units, 38 unnumbered English blocks, one supplemental table. Latest v20 ledgers/dossiers/evidence/German logs; 35 dossiers, 241 main graph relationships/72 source views. Full bilingual/exhaustive/second-review certification remains zero.
+## Corrections that must travel with reuse
 
-Next: GA314 catalogue entry 10, Therapy II, 1 January 1924, §1; then entries 11–16, then GA316 remaining entries.
+GA314 entry6 SOL page repeats entry5’s body under a new title/date. The correct audited English source is MP1986 `19221027a01.html`, 38 editorial blocks; do not count duplicate SOL body as a second lecture or pretend these ordinals are printed sections. SOL/catalogue/MP location metadata remains unresolved.
 
-Source warning: SOL GA314 entry 6 repeats entry 5 body. Full entry 6 audited in Wuslin MP1986 19221027a01.html, 38 unnumbered blocks. Do not count the duplicate body or pretend these blocks have printed numbers. Read PHASE20_FINDINGS.md and v20 datasets. Preserve all earlier IDs, alias crosswalks, Husemann attribution and v19 manuscript. Phase20 adds 73 propositions and seven selective German entries; global novelty uncertified.
+Preserve late-twenties age correction (GA314-10 Palmer reply after §28), child’s mother/aunt correction (-16 §4), disappearing accessory-organ limitation (-16 §18), and beekeeper correction (GA316-01 §15). Original files remain historical evidence; corrections are additive.
 
-# Organ Concordance continuation checkpoint
+Open comparisons: GA314-10 §15 versus -14 §21 arsenic cure scope; GA314-10 §23 inward/outward ear breathing; GA316-01 §§7–8 / -10 §10 / -15 §12 kidney intervention; changed ages in Kristiania poisoning story; GA314-16 §7 versus GA317-03 cramp mechanisms; sleep interruption/redistribution/inertia across prior and new sources; organ-surface activity versus pathological spiritualization; personal karma after puberty versus prior-life force effects in childhood. Never force agreement by changing the subject or bodily organization.
 
-Updated 3 November 2026 after phases 17–19. Canonical repository: infinix8/rudolf-steiner-atlas. Preserve all research and concurrent interface changes.
+GA128 III’s meal-rhythm spleen account must retain IV §6’s explicit secondary-function qualification. Claimed supersensible persistence after splenectomy is not proof of physical regeneration in GA316’s rabbit account. Saturnian isolation, Old Saturn warmth and present planetary Saturn activity remain distinct explanatory settings. Pineal memory-forming and pituitary receiving currents must not be reversed. Galle requires contextual distinction between bile and biliary organ.
 
-## Current coverage
+## Execute the next batch
 
-61 catalogue entries: **37 complete English source views, one thematic review, zero selected-only, 23 unread**. Completed source views contain **932 numbered units plus one separate table**. GA313 IX/GA315 VII is a confirmed event alias with different numbered layouts. GA315 VI includes five non-Steiner units: §25 heading and §§26–29 Friedrich Husemann. Another source-view alias pairs SOL/RSP1972 GA317 VIII. These are coverage counts, not independent-event or unique-teaching totals.
+Read all GA128 V–VIII English sections; record zero-claim contexts and other speakers. Extract atomic claims separately, with exact locations and genre/actor/temporal setting. Check consequential German passages and update dossiers/evidence links while retaining stable prior IDs. Mark any inaccessible source blocked and continue. After GA128, follow the workbrief’s wider sequence GA110,102,107,205,208,218. Keep incomplete bilingual/exhaustive work visible while broadening.
 
-GA313 I–IX, GA315 I–VIII and GA317 I–XII are English complete; GA314 entries 1–4 and 7 are complete, entry 6 is thematic only. Complete bilingual comparison, exhaustive atomic extraction and independent second review remain uncertified (zero). Do not reopen completed sources merely because earlier checkpoints name them as next.
-
-Latest datasets: v19 corpus ledger, comparative dossiers (32), evidence graph, GA314 I–IV passage audit and atomic claims, German/textual log. The main graph has 234 typed relationships and 68 primary source views. Search helper covers 417 selected v12+ propositions, including preserved concurrent v16 supplement, not every historical assertion.
-
-## Exact next source
-
-Begin **GA314 catalogue entry 5, Anthroposophical Foundations of Pharmacology I, 26 October 1922, first section**. Primary English source: https://rsarchive.org/Lectures/GA314/English/SOL/19221026.html — begin §1. Catalogue: https://rsarchive.org/Lectures/GA314/. The source is located, not reviewed in this session. Read the whole available text and record context/zero-claim sections. Then complete entry 6's thematic-only source, preserve entry 7's completed review, and audit entries 8–16. Finish all remaining GA316 entries before widening the corpus. Same-date lectures are not automatically aliases; GA314 entries 3 and 4 are separate morning/evening events.
-
-## Session results
-
-- GA317 VIII–XII: 150 numbered units plus a separate table, 89 selected propositions, ten selective German entries; committed milestone 6a949fc8b51345e9620a37c978d6b6f41f4e0958.
-- GA315 II–VI and VIII: 158 numbered units including Husemann/heading, 90 selected propositions, eleven selective German entries; committed milestone 85c7e2c40ffc24eb6d76d44a499449a474b665a8.
-- GA314 entries 1–4: 78 numbered units, 56 selected propositions, five selective German entries.
-- Total: 15 English source views, 386 numbered units plus table, 235 selected propositions (177 provisional candidates, 58 reconciliations). Global novelty and exhaustive extraction not certified.
-- Cumulative v19 Markdown and Word extend v15. Markdown has 37,072 whitespace-delimited words. Complete v15 body preserved byte for byte with nested v13/v11 provenance; old counts remain historical.
-
-## Open textual and comparative questions
-
-Retain GA317 XI Mars/Venus prose/table disagreement, missing §18 marker and separate table; GA315 VI §13 ordinary-sleep/stenographic ambiguity; GA313/GA317 sleep redistribution versus interruption; weak/excess-I diarrhea tension; pituitary direction and Balkenstich translation; GA315 kidney A/S variant; no soul-only organs context; original unsupported temporal-lobe inference. German GA314 IV §23 confirms diabetes (Zuckerharnruhr) where SOL prints dysentery. No correction of wording validates its treatment claim. Questions and Husemann remarks must not become direct Steiner assertions.
-
-## Validation and continuation procedure
-
-Read PHASE17, PHASE18 and PHASE19 findings and current v19 datasets. Run `python tools/validate_organ_concordance.py 19`, `validate_knowledge_graph.py`, `validate_taxonomy.py`, `validate_dossiers.py`, `validate_trajectories.py`, and `validate_source_view_aliases.py`; all passed locally. Validation results and dossier-preservation checks are in research/organ-validation-results-v19.json. They check structure, arithmetic, references and preservation, not independent accuracy of source interpretation.
-
-Keep primary source URLs, stable IDs and prior manuscript bytes. Continue substantial batches and commit at milestones. Update issue #14. This checkpoint records completed work and a next action; it does not assert an ongoing background research process.
-
-Cumulative v19 Word rendering: 68 pages; every page visually reviewed. Markdown: 37,072 words.
+Run the nine checks recorded in the validation file, including `python3 tools/validate_organ_concordance.py 24`, graph/report checks and source aliases. The graph report is regenerated with `python3 tools/report_knowledge_graph.py --write`. Word pagination is rendering-specific; preserve every preceding Markdown byte when building the next cumulative edition. Commit at meaningful milestones and update issue14.

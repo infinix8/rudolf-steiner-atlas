@@ -1,12 +1,15 @@
-> **Current organ-research checkpoint — phase18 (3 November 2026):** GA313 I–IX, GA315 I–VIII and GA317 I–XII now have complete numbered English source-view reviews. Across 61 GA313–317 catalogue entries: **33 English-complete, 1 thematic, 0 selected-only, 27 unread**; **854 numbered source units** (five are GA315 VI paratext/another speaker), plus the separately logged GA317 XI table. **32 organ dossiers**. [Phase18 findings](docs/ORGAN_CONCORDANCE_PHASE18_FINDINGS.md) · [Resume](docs/ORGAN_CONCORDANCE_RESUME.md). Full bilingual source collation and independent second review are not complete.
-
-Current [Organ Concordance Explorer](atlas/organs.html) reads the v18 dossier and corpus ledger; the broad knowledge graph has **227 passage-linked relationships across 64 source-page records**. These are not certified distinct lecture events, and historical medical claims are not treatment guidance.
-
 # Rudolf Steiner Atlas
+
+## Latest organ research checkpoint 3 November 2026
+
+[Version24 cumulative manuscript](docs/Steiner_Organ_Evolution_Research_Atlas_v24.md) · [Word edition](docs/Steiner_Organ_Evolution_Research_Atlas_v24.docx) · [Session results](docs/ORGAN_CONCORDANCE_SESSION_V24.md) · [Exact resume](docs/ORGAN_CONCORDANCE_RESUME.md).
+
+GA313–317: all **61 catalogue source views English-complete**, with 1,607 numbered units, 44 editorial blocks and one table. GA128: **I–IV English-complete**, 87 numbered units; V–VIII pending. **39 organ dossiers**, **289 graph relationships**, **96 source views**. Full bilingual, exhaustive atomic and independent review remain uncertified. Earlier checkpoint counts below are historical.
+
 
 A source-grounded, evolving thematic atlas of the **teachings of Rudolf Steiner**, designed to be navigable from broad domains through individual concepts to exact passages in his writings and recorded lectures.
 
-> **Current status (3 November 2026):** Active source-linked Atlas with organ concordance through phase 17. The taxonomy remains a working editorial classification, not Steiner-authored headings; GA volume references alone are research leads, not passage verification. The original lecture and book texts remain on the archive sites.
+> **Status:** Foundation / taxonomy v1.0 (1 November 2026). This classification is a research-created working taxonomy, not a list of headings chosen by Steiner. GA volume references are often **research leads**, not verified passage-level citations.
 
 ## Current scope
 
@@ -126,18 +129,3 @@ Current coverage: 16 complete English numbered-section lecture reviews, 1 additi
 [Cumulative manuscript v15](docs/Steiner_Organ_Evolution_Research_Atlas_v15.md) · [Word edition](docs/Steiner_Organ_Evolution_Research_Atlas_v15.docx) · [Phase 15 findings](docs/ORGAN_CONCORDANCE_PHASE15_FINDINGS.md) · [Current coverage](research/organ-corpus-ledger-ga313-317-v15.json) · [25 dossiers](research/organ-comparative-dossiers-v15.json) · [Resume](docs/ORGAN_CONCORDANCE_RESUME.md).
 
 22 complete English catalogue source views, 1 thematic, 3 selected-only, 35 unread. The 546 completed source-view sections include the GA315 VII alias. Phases 14–15 add 151 section reads and 79 selected propositions across five events; globally unique teaching count remains unknown. Full German/exhaustive second-review certification remains zero. Earlier checkpoint counts above are historical.
-
-## Organ Concordance and primary-text research (3 November 2026)
-
-- **[Explore 29 comparative organ dossiers](atlas/organs.html)** in the new accessible local browser, including heart, lungs, liver, brain, bladder, uterus and other systems. The explorer distinguishes original comparative relations from later selected claim annotations and preserves source links and medical-evidence cautions.
-- The corpus-level [phase-17 organ ledger](research/organ-corpus-ledger-ga313-317-v17.json) has **27 all-numbered-English-source-view reviews**, **1 thematic**, **3 selected-only**, **30 unread** entries, from **61 catalogued source views**. Numbered English source-view sections total **696**, plus a separately tracked unnumbered table. Counts are **source views**, not necessarily unique lecture events.
-- [GA317 VIII phase-16 selected alternate-English reading](docs/ORGAN_CONCORDANCE_PHASE16_FINDINGS.md) remains as a separate source-critical supplement, noting **two numerical English/German discrepancies**. The [phase-17 continuation](docs/ORGAN_CONCORDANCE_PHASE17_FINDINGS.md) later completed the numbered English GA317 VIII–XII audit; the same VIII lecture must not be double counted.
-- The current broad [knowledge graph](research/knowledge-graph-v1.json) contains **218 source-qualified relationships** across **58 source-page records**. Because some pages are alternate versions of a single lecture, page counts must not be interpreted as independent corroborations.
-- The [150-subdomain coverage report](docs/SUBDOMAIN_EVIDENCE_COVERAGE.md) distinguishes **53 direct**, **51 descendant-only**, and **46 without graph-attached evidence**. This is a research workflow measure, not corpus completeness.
-- [Current integration report](docs/ITERATION_2026-11-03_ORGAN_INTEGRATION.md) and [live resume checkpoint](docs/ORGAN_CONCORDANCE_RESUME.md).
-
-All attributed spiritual, therapeutic, biological and parental-causation claims are historical material, not established medical science or individualized treatment guidance.
-
-### Source-view identity (important for research accuracy)
-
-The [Source Guide](atlas/sources.html) now identifies **two confirmed groups of alternate views of one original lecture**. The [partial event registry](research/known-source-view-aliases-v1.json) identifies the shared **GA313 IX / GA315 VII** afternoon event and the shared **GA317 VIII RSP1972 / SOL** event. The 58 source-page records are *not* an independently verified count of distinct original lectures. The remaining pages have not all been checked for identity overlap; do not subtract two duplicates and call the result a complete event census. [The original source-event crosswalk](research/organ-source-event-aliases-v14.json) retains detailed section alignment for the first group.

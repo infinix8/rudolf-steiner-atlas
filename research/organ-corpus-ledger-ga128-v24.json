@@ -1,0 +1,108 @@
+{
+  "schema_version": "1.0",
+  "as_of": "2026-11-03",
+  "catalogue_url": "https://rsarchive.org/Lectures/GA128/",
+  "catalogued_entries": 8,
+  "complete_English_source_views": 4,
+  "unread": 4,
+  "numbered_units_reviewed": 87,
+  "entries": [
+    {
+      "id": "GA128-01",
+      "ga": 128,
+      "date": "1911-03-20",
+      "source_url": "https://rsarchive.org/Lectures/GA128/English/SOL/19110320p01.html",
+      "audit_status": "all_numbered_english_paragraphs_reviewed",
+      "english_paragraphs_reviewed": 22,
+      "audit_record": "research/organ-paragraph-review-ga128-i-iv-v24.json",
+      "exhaustive_atomic_claims": false,
+      "complete_bilingual_collation": false,
+      "independent_second_review": false
+    },
+    {
+      "id": "GA128-02",
+      "ga": 128,
+      "date": "1911-03-21",
+      "source_url": "https://rsarchive.org/Lectures/GA128/English/SOL/19110321p01.html",
+      "audit_status": "all_numbered_english_paragraphs_reviewed",
+      "english_paragraphs_reviewed": 21,
+      "audit_record": "research/organ-paragraph-review-ga128-i-iv-v24.json",
+      "exhaustive_atomic_claims": false,
+      "complete_bilingual_collation": false,
+      "independent_second_review": false
+    },
+    {
+      "id": "GA128-03",
+      "ga": 128,
+      "date": "1911-03-22",
+      "source_url": "https://rsarchive.org/Lectures/GA128/English/SOL/19110322p01.html",
+      "audit_status": "all_numbered_english_paragraphs_reviewed",
+      "english_paragraphs_reviewed": 21,
+      "audit_record": "research/organ-paragraph-review-ga128-i-iv-v24.json",
+      "exhaustive_atomic_claims": false,
+      "complete_bilingual_collation": false,
+      "independent_second_review": false
+    },
+    {
+      "id": "GA128-04",
+      "ga": 128,
+      "date": "1911-03-23",
+      "source_url": "https://rsarchive.org/Lectures/GA128/English/SOL/19110323p01.html",
+      "audit_status": "all_numbered_english_paragraphs_reviewed",
+      "english_paragraphs_reviewed": 23,
+      "audit_record": "research/organ-paragraph-review-ga128-i-iv-v24.json",
+      "exhaustive_atomic_claims": false,
+      "complete_bilingual_collation": false,
+      "independent_second_review": false
+    },
+    {
+      "id": "GA128-05",
+      "ga": 128,
+      "date": "1911-03-24",
+      "source_url": "https://rsarchive.org/Lectures/GA128/English/SOL/19110324p01.html",
+      "audit_status": "unreviewed",
+      "english_paragraphs_reviewed": 0,
+      "audit_record": null,
+      "exhaustive_atomic_claims": false,
+      "complete_bilingual_collation": false,
+      "independent_second_review": false
+    },
+    {
+      "id": "GA128-06",
+      "ga": 128,
+      "date": "1911-03-26",
+      "source_url": "https://rsarchive.org/Lectures/GA128/English/SOL/19110326p01.html",
+      "audit_status": "unreviewed",
+      "english_paragraphs_reviewed": 0,
+      "audit_record": null,
+      "exhaustive_atomic_claims": false,
+      "complete_bilingual_collation": false,
+      "independent_second_review": false
+    },
+    {
+      "id": "GA128-07",
+      "ga": 128,
+      "date": "1911-03-27",
+      "source_url": "https://rsarchive.org/Lectures/GA128/English/SOL/19110327p01.html",
+      "audit_status": "unreviewed",
+      "english_paragraphs_reviewed": 0,
+      "audit_record": null,
+      "exhaustive_atomic_claims": false,
+      "complete_bilingual_collation": false,
+      "independent_second_review": false
+    },
+    {
+      "id": "GA128-08",
+      "ga": 128,
+      "date": "1911-03-28",
+      "source_url": "https://rsarchive.org/Lectures/GA128/English/SOL/19110328p01.html",
+      "audit_status": "unreviewed",
+      "english_paragraphs_reviewed": 0,
+      "audit_record": null,
+      "exhaustive_atomic_claims": false,
+      "complete_bilingual_collation": false,
+      "independent_second_review": false
+    }
+  ],
+  "scope": "One selected English edition per event. Alternative English editions not counted independently; no exhaustive or full bilingual certification."
+}

@@ -1803,6 +1803,82 @@
         "full_translation_collation": false
       },
       "date_precision": "autumn; exact day unspecified"
+    },
+    {
+      "id": "SG-GA128-01-V24",
+      "ga": "128",
+      "work": "An Occult Physiology",
+      "unit": "GA128-01",
+      "kind": "recorded_lecture",
+      "edition": "SOL English",
+      "lecture_date": "1911-03-20",
+      "url": "https://rsarchive.org/Lectures/GA128/English/SOL/19110320p01.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Graph selected propositions; full available English source read in separate audit; no bilingual/exhaustive certification.",
+        "checked_on": "2026-11-03",
+        "archive_page_opened_on": "2026-11-03",
+        "archive_url_checked": true,
+        "entire_work_reviewed": false,
+        "full_translation_collation": false
+      }
+    },
+    {
+      "id": "SG-GA128-02-V24",
+      "ga": "128",
+      "work": "An Occult Physiology",
+      "unit": "GA128-02",
+      "kind": "recorded_lecture",
+      "edition": "SOL English",
+      "lecture_date": "1911-03-21",
+      "url": "https://rsarchive.org/Lectures/GA128/English/SOL/19110321p01.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Graph selected propositions; full available English source read in separate audit; no bilingual/exhaustive certification.",
+        "checked_on": "2026-11-03",
+        "archive_page_opened_on": "2026-11-03",
+        "archive_url_checked": true,
+        "entire_work_reviewed": false,
+        "full_translation_collation": false
+      }
+    },
+    {
+      "id": "SG-GA128-03-V24",
+      "ga": "128",
+      "work": "An Occult Physiology",
+      "unit": "GA128-03",
+      "kind": "recorded_lecture",
+      "edition": "SOL English",
+      "lecture_date": "1911-03-22",
+      "url": "https://rsarchive.org/Lectures/GA128/English/SOL/19110322p01.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Graph selected propositions; full available English source read in separate audit; no bilingual/exhaustive certification.",
+        "checked_on": "2026-11-03",
+        "archive_page_opened_on": "2026-11-03",
+        "archive_url_checked": true,
+        "entire_work_reviewed": false,
+        "full_translation_collation": false
+      }
+    },
+    {
+      "id": "SG-GA128-04-V24",
+      "ga": "128",
+      "work": "An Occult Physiology",
+      "unit": "GA128-04",
+      "kind": "recorded_lecture",
+      "edition": "SOL English",
+      "lecture_date": "1911-03-23",
+      "url": "https://rsarchive.org/Lectures/GA128/English/SOL/19110323p01.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Graph selected propositions; full available English source read in separate audit; no bilingual/exhaustive certification.",
+        "checked_on": "2026-11-03",
+        "archive_page_opened_on": "2026-11-03",
+        "archive_url_checked": true,
+        "entire_work_reviewed": false,
+        "full_translation_collation": false
+      }
     }
   ],
   "edges": [
@@ -6616,6 +6692,142 @@
       ],
       "claim": "Meditative light, sound and life directions are heart-centered, abdomen-to-head and head-to-body respectively.",
       "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-282",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA128-01-V24",
+          "passage_locator": "§§9–10"
+        }
+      ],
+      "claim": "Older brain-force history is distinguished from the present spinal cord, which is not predicted to become another brain.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-283",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA128-01-V24",
+          "passage_locator": "§§15–17"
+        }
+      ],
+      "claim": "Dream imagery is linked to an occult cord-like earlier brain stage, initially stated hypothetically.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-284",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA128-02-V24",
+          "passage_locator": "§11"
+        }
+      ],
+      "claim": "Saturn–spleen, Jupiter–liver and Mars–biliary naming is introduced provisionally.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-285",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA128-02-V24",
+          "passage_locator": "§§13–18"
+        }
+      ],
+      "claim": "Nerves–astral and blood–I correspondences support a claimed concentration-based change of self-experience.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-286",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA128-03-V24",
+          "passage_locator": "§§11–14"
+        }
+      ],
+      "claim": "The spleen is assigned mediation between irregular eating and regular blood rhythm; further functions remain open.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-287",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA128-03-V24",
+          "passage_locator": "§§15–18"
+        }
+      ],
+      "claim": "Saturnian names initially refer to isolation and independent rhythm, with a further self-overcoming qualification.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-288",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA128-04-V24",
+          "passage_locator": "§§3–6"
+        }
+      ],
+      "claim": "Splenic supersensible activity is distinguished from the removable physical organ, and meal timing is explicitly secondary.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-289",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA128-04-V24",
+          "passage_locator": "§§19–21"
+        }
+      ],
+      "claim": "Blood/heart and lymphatic etheric currents culminate in distinct pineal and pituitary expressions of memory formation.",
+      "relation_family": "attributed_process_and_causation"
     }
   ],
   "version": "1.1",
@@ -6704,6 +6916,14 @@
     "unnumbered_blocks": 6,
     "selected_claim_records": 87,
     "German_spot_check_entries": 8,
+    "full_German_collations": 0
+  },
+  "organ_concordance_phase24": {
+    "complete_English_views": 4,
+    "numbered_units": 87,
+    "unnumbered_blocks": 0,
+    "selected_claim_records": 55,
+    "German_spot_check_entries": 6,
     "full_German_collations": 0
   }
 }

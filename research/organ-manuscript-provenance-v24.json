@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.3",
+  "source_filename": "Steiner_Organ_Evolution_Research_Atlas_v19.md",
+  "source_bytes": 265175,
+  "source_sha256": "869c396727721f75a183110c44eaa9c9606e2788b3dc6ffb9a288f0e2df8d50e",
+  "preserved_start_byte": 17130,
+  "preserved_end_byte_exclusive": 282305,
+  "cumulative_path": "docs/Steiner_Organ_Evolution_Research_Atlas_v24.md",
+  "cumulative_sha256": "f1f3515d3b829794ddca76d833a79d6ec90a8750cf7697475e3bb66ce4a6ba05",
+  "words": 42089,
+  "preservation": "Complete v19 bytes retained; v15/v13/v11 remain nested. New comparative synthesis precedes historical body; five new batch reports follow.",
+  "nested_v15": {
+    "source_bytes": 227424,
+    "source_sha256": "35ad6cd2c45f39c2c7b164c0db7c0a07d9602d56584a42f1546847f80e8f81cd",
+    "preserved_start_byte": 34860,
+    "preserved_end_byte_exclusive": 262284
+  },
+  "nested_v11": {
+    "source_bytes": 185831,
+    "source_sha256": "b8e01cb2db0660c3795ca05116bbd897bb23ca59b48a0bef13cee694afacefe4",
+    "preserved_start_byte": 39829,
+    "preserved_end_byte_exclusive": 225660
+  },
+  "docx_path": "docs/Steiner_Organ_Evolution_Research_Atlas_v24.docx",
+  "docx_sha256": "3f06b21be466cacc04f69211ab6350de9d9aa82a27a657b3e50e097f4e6c3fa9",
+  "rendered_pages": 77,
+  "visual_QA": "All 78 initial pages inspected. Final orphan removed by spacing-only edit in phase24 report. Pages 1\u201376 identical text/coordinates; final page77 inspected at native size."
+}

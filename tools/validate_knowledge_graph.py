@@ -34,7 +34,7 @@ for src in data.get("sources", []):
     u = urlparse(src.get("url", ""))
     if u.scheme != "https" or u.hostname not in ("rsarchive.org", "www.rsarchive.org"):
         errors.append("unapproved archive URL for " + str(sid))
-    if src.get("kind") not in ("authored_book", "recorded_lecture", "authored_essay"):
+    if src.get("kind") not in ("authored_book", "recorded_lecture", "authored_essay", "coauthored_circular_letter", "personal_meditation"):
         errors.append("missing / invalid original-source kind: " + str(sid))
     if src.get("kind") == "recorded_lecture" and not src.get("lecture_date"):
         errors.append("undated lecture: " + str(sid))
@@ -266,3 +266,4 @@ if errors:
     for error in errors: print("ERROR: " + error, file=sys.stderr)
     sys.exit(1)
 print("PASS: references, relationships, provenance and local UI files structurally consistent")
+

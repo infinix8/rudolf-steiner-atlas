@@ -1,0 +1,115 @@
+{
+  "as_of": "2026-11-03",
+  "checks": [
+    {
+      "command": "python3 tools/validate_organ_concordance.py 24",
+      "status": "fulfilled",
+      "value": {
+        "chunk_id": "af3d23",
+        "wall_time_seconds": 0.000032979,
+        "exit_code": 0,
+        "original_token_count": 62,
+        "output": "{\"version\": \"24\", \"catalogue\": 61, \"statuses\": {\"all_numbered_english_paragraphs_reviewed\": 59, \"complete_English_source_view_review_unnumbered\": 2}, \"completed_English_source_view_sections\": 1607, \"dossiers\": 39, \"structural_checks\": \"passed\"}\n"
+      }
+    },
+    {
+      "command": "python3 tools/validate_knowledge_graph.py",
+      "status": "fulfilled",
+      "value": {
+        "chunk_id": "d60327",
+        "wall_time_seconds": 0.188731951,
+        "exit_code": 0,
+        "original_token_count": 46,
+        "output": "1006 canonical taxonomy nodes, 289 graph edges, 96 primary-source pages, 184 cross-domain edges\nPASS: references, relationships, provenance and local UI files structurally consistent\n"
+      }
+    },
+    {
+      "command": "python3 tools/validate_dossiers.py",
+      "status": "fulfilled",
+      "value": {
+        "chunk_id": "458b49",
+        "wall_time_seconds": 0.108526636,
+        "exit_code": 0,
+        "original_token_count": 16,
+        "output": "PASS: 5 editorial dossiers, 17 section-level source annotations\n"
+      }
+    },
+    {
+      "command": "python3 tools/validate_trajectories.py",
+      "status": "fulfilled",
+      "value": {
+        "chunk_id": "0d5cfa",
+        "wall_time_seconds": 0.180861675,
+        "exit_code": 0,
+        "original_token_count": 16,
+        "output": "PASS: 6 concept trajectories and 16 original source contexts\n"
+      }
+    },
+    {
+      "command": "python3 tools/validate_taxonomy.py",
+      "status": "fulfilled",
+      "value": {
+        "chunk_id": "bed306",
+        "wall_time_seconds": 0.108460555,
+        "exit_code": 0,
+        "original_token_count": 63,
+        "output": "Source: /workspace/scratch/18a018931d76/repo/taxonomy/taxonomy-v1.json\nNodes: 1006 by depth: {0: 6, 1: 26, 2: 150, 3: 785, 4: 39}\nCrosslinks: 30\nAnchor evidence topics: 12\nPASS: structural integrity; primary-source validity not independently checked\n"
+      }
+    },
+    {
+      "command": "python3 tools/validate_taxonomy_exports.py",
+      "status": "fulfilled",
+      "value": {
+        "chunk_id": "6bfa23",
+        "wall_time_seconds": 0.174088117,
+        "exit_code": 0,
+        "original_token_count": 16,
+        "output": "PASS: 974 taxonomy entries agree across JSON, Markdown and OPML\n"
+      }
+    },
+    {
+      "command": "python3 tools/validate_source_view_aliases.py",
+      "status": "fulfilled",
+      "value": {
+        "chunk_id": "2a770b",
+        "wall_time_seconds": 0.178611965,
+        "exit_code": 0,
+        "original_token_count": 24,
+        "output": "PASS: 2 confirmed multi-page source events, 4 source views; no independent-event total inferred\n"
+      }
+    },
+    {
+      "command": "python3 tools/validate_atlas.py",
+      "status": "fulfilled",
+      "value": {
+        "chunk_id": "3593c5",
+        "wall_time_seconds": 0.180738193,
+        "exit_code": 0,
+        "original_token_count": 33,
+        "output": "PASS: no internal integrity problems detected\n1006 nodes | 26 domains | 8 study paths | 14 archive categories | 19 source anchors\n"
+      }
+    },
+    {
+      "command": "python3 tools/report_knowledge_graph.py --check",
+      "status": "fulfilled",
+      "value": {
+        "chunk_id": "1f094c",
+        "wall_time_seconds": 0.118958571,
+        "exit_code": 0,
+        "original_token_count": 13,
+        "output": "PASS: graph coverage report matches repository data\n"
+      }
+    }
+  ],
+  "interpretation": "Structural and arithmetic checks do not independently verify Steiner source readings. Nine suites passed after loading unchanged canonical dependencies and extending source genres.",
+  "document": {
+    "pages": 77,
+    "words": 42089,
+    "review": "Every initial page visually inspected at native resolution; final spacing-only correction keeps continuation on page77. Pages1–76 text and coordinates unchanged; final page77 inspected.",
+    "preservation": "Exact v19 and nested v15/v11 Markdown byte ranges and hashes verified."
+  },
+  "query": {
+    "scope": "804 selected v12+ propositions, 39 cumulative dossiers",
+    "pineal_GA128_matching_claims": 2
+  }
+}

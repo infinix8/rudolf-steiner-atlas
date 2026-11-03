@@ -1,0 +1,178 @@
+{
+  "as_of": "2026-11-03",
+  "baseline_commit": "80447e9b3bc04730d5ac1c67e96b7c70f3ccc141",
+  "baseline_manuscript_version": 19,
+  "phases": [
+    {
+      "phase": 20,
+      "catalogue_entry_ids": [
+        "GA314-05",
+        "GA314-06",
+        "GA314-08",
+        "GA314-09"
+      ],
+      "unit_counts": {
+        "GA314-05": 33,
+        "GA314-06": 38,
+        "GA314-08": 35,
+        "GA314-09": 41
+      },
+      "review_units": 147,
+      "numbered_units": 109,
+      "unnumbered_blocks": 38,
+      "selected_claims": 73,
+      "reconciliation_counts": {
+        "new_candidate": 58,
+        "apparent_conflict": 1,
+        "overlap": 6,
+        "same_claim": 4,
+        "different_context": 4
+      },
+      "german_spot_check_entries": 7
+    },
+    {
+      "phase": 21,
+      "catalogue_entry_ids": [
+        "GA314-10",
+        "GA314-11",
+        "GA314-12",
+        "GA314-13",
+        "GA314-14",
+        "GA314-15",
+        "GA314-16"
+      ],
+      "unit_counts": {
+        "GA314-10": 43,
+        "GA314-11": 44,
+        "GA314-12": 54,
+        "GA314-13": 21,
+        "GA314-14": 24,
+        "GA314-15": 49,
+        "GA314-16": 45
+      },
+      "review_units": 280,
+      "numbered_units": 280,
+      "unnumbered_blocks": 0,
+      "selected_claims": 105,
+      "reconciliation_counts": {
+        "different_context": 5,
+        "new_candidate": 96,
+        "overlap": 3,
+        "apparent_conflict": 1
+      },
+      "german_spot_check_entries": 9
+    },
+    {
+      "phase": 22,
+      "catalogue_entry_ids": [
+        "GA316-01",
+        "GA316-04",
+        "GA316-05",
+        "GA316-07",
+        "GA316-08"
+      ],
+      "unit_counts": {
+        "GA316-01": 16,
+        "GA316-04": 20,
+        "GA316-05": 36,
+        "GA316-07": 35,
+        "GA316-08": 32
+      },
+      "review_units": 139,
+      "numbered_units": 139,
+      "unnumbered_blocks": 0,
+      "selected_claims": 67,
+      "reconciliation_counts": {
+        "new_candidate": 66,
+        "overlap": 1
+      },
+      "german_spot_check_entries": 8
+    },
+    {
+      "phase": 23,
+      "catalogue_entry_ids": [
+        "GA316-09",
+        "GA316-10",
+        "GA316-11",
+        "GA316-12",
+        "GA316-13",
+        "GA316-14",
+        "GA316-15",
+        "GA316-16"
+      ],
+      "unit_counts": {
+        "GA316-09": 18,
+        "GA316-10": 28,
+        "GA316-11": 22,
+        "GA316-12": 15,
+        "GA316-13": 17,
+        "GA316-14": 30,
+        "GA316-15": 17,
+        "GA316-16": 6
+      },
+      "review_units": 153,
+      "numbered_units": 147,
+      "unnumbered_blocks": 6,
+      "selected_claims": 87,
+      "reconciliation_counts": {
+        "new_candidate": 85,
+        "different_context": 2
+      },
+      "german_spot_check_entries": 8
+    },
+    {
+      "phase": 24,
+      "catalogue_entry_ids": [
+        "GA128-01",
+        "GA128-02",
+        "GA128-03",
+        "GA128-04"
+      ],
+      "unit_counts": {
+        "GA128-01": 22,
+        "GA128-02": 21,
+        "GA128-03": 21,
+        "GA128-04": 23
+      },
+      "review_units": 87,
+      "numbered_units": 87,
+      "unnumbered_blocks": 0,
+      "selected_claims": 55,
+      "reconciliation_counts": {
+        "new_candidate": 52,
+        "different_context": 3
+      },
+      "german_spot_check_entries": 6
+    }
+  ],
+  "total_new_complete_source_views": 28,
+  "total_review_units": 806,
+  "numbered_units": 762,
+  "unnumbered_blocks": 44,
+  "selected_claim_records": 387,
+  "claim_reconciliation_counts": {
+    "new_candidate": 357,
+    "apparent_conflict": 2,
+    "overlap": 10,
+    "same_claim": 4,
+    "different_context": 14
+  },
+  "German_spot_check_entries": 38,
+  "complete_bilingual_certifications_added": 0,
+  "exhaustive_atomic_certifications_added": 0,
+  "independent_second_reviews_added": 0,
+  "GA313_317_complete_English_views": 61,
+  "GA128_complete_English_views": 4,
+  "dossiers": 39,
+  "main_graph_relationships": 289,
+  "main_graph_source_views": 96,
+  "manuscript_words": 42089,
+  "manuscript_pages": 77,
+  "next_source": {
+    "ga": 128,
+    "lecture": 5,
+    "date": "1911-03-24",
+    "section": 1,
+    "url": "https://rsarchive.org/Lectures/GA128/English/SOL/19110324p01.html"
+  }
+}
