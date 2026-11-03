@@ -1342,6 +1342,82 @@
         "entire_work_reviewed": false,
         "full_translation_collation": false
       }
+    },
+    {
+      "id": "SG-GA314-05-V20",
+      "ga": "314",
+      "work": "Physiological Therapeutics",
+      "unit": "GA314-05",
+      "kind": "recorded_lecture",
+      "edition": "SOL English",
+      "lecture_date": "1922-10-26",
+      "url": "https://rsarchive.org/Lectures/GA314/English/SOL/19221026.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Graph selected propositions; full available English source read in separate audit; no bilingual/exhaustive certification.",
+        "checked_on": "2026-11-03",
+        "archive_page_opened_on": "2026-11-03",
+        "archive_url_checked": true,
+        "entire_work_reviewed": false,
+        "full_translation_collation": false
+      }
+    },
+    {
+      "id": "SG-GA314-06-V20",
+      "ga": "314",
+      "work": "Physiological Therapeutics",
+      "unit": "GA314-06",
+      "kind": "recorded_lecture",
+      "edition": "Alice Wuslin MP1986",
+      "lecture_date": "1922-10-27",
+      "url": "https://rsarchive.org/Lectures/GA314/English/MP1986/19221027a01.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Graph selected propositions; full available English source read in separate audit; no bilingual/exhaustive certification.",
+        "checked_on": "2026-11-03",
+        "archive_page_opened_on": "2026-11-03",
+        "archive_url_checked": true,
+        "entire_work_reviewed": false,
+        "full_translation_collation": false
+      }
+    },
+    {
+      "id": "SG-GA314-08-V20",
+      "ga": "314",
+      "work": "Physiological Therapeutics",
+      "unit": "GA314-08",
+      "kind": "recorded_lecture",
+      "edition": "SOL English",
+      "lecture_date": "1922-10-28",
+      "url": "https://rsarchive.org/Lectures/GA314/English/SOL/19221028.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Graph selected propositions; full available English source read in separate audit; no bilingual/exhaustive certification.",
+        "checked_on": "2026-11-03",
+        "archive_page_opened_on": "2026-11-03",
+        "archive_url_checked": true,
+        "entire_work_reviewed": false,
+        "full_translation_collation": false
+      }
+    },
+    {
+      "id": "SG-GA314-09-V20",
+      "ga": "314",
+      "work": "Physiological Therapeutics",
+      "unit": "GA314-09",
+      "kind": "recorded_lecture",
+      "edition": "SOL English",
+      "lecture_date": "1923-12-31",
+      "url": "https://rsarchive.org/Lectures/GA314/English/SOL/19231231.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Graph selected propositions; full available English source read in separate audit; no bilingual/exhaustive certification.",
+        "checked_on": "2026-11-03",
+        "archive_page_opened_on": "2026-11-03",
+        "archive_url_checked": true,
+        "entire_work_reviewed": false,
+        "full_translation_collation": false
+      }
     }
   ],
   "edges": [
@@ -5356,6 +5432,125 @@
       ],
       "claim": "Diabetes translation corrected from German; sexed cosmic inheritance account separated from observed hemophilia pattern.",
       "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-235",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA314-05-V20",
+          "passage_locator": "§§18–24"
+        }
+      ],
+      "claim": "Brain/Imagination, respiration/Inspiration and metabolism/Intuition are distinct cognitive and functional claims.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-236",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA314-05-V20",
+          "passage_locator": "§§28,31–32"
+        }
+      ],
+      "claim": "German Inspiration correction; accessory embryonic organs and kidney/liver discharge directions.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-237",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA314-06-V20",
+          "passage_locator": "Editorial blocks 7–12,18–32"
+        }
+      ],
+      "claim": "Four bodily organizations and their mediations; oxygen, nitrogen and hydrogen correspondences indexed without hierarchy ownership.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-238",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA314-08-V20",
+          "passage_locator": "§§9–10"
+        }
+      ],
+      "claim": "Primary organ-shaping nervous activity and secondary soul use; lifelong kidney/nervous cooperation.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-239",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA314-08-V20",
+          "passage_locator": "§§29–33"
+        }
+      ],
+      "claim": "Prior metabolic blockage, renal/sweat polarity and thyroid proposal; no clinical validity inferred.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-240",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA314-09-V20",
+          "passage_locator": "§3"
+        }
+      ],
+      "claim": "Direct waking agency distinguished from inertial aftereffects in sleep; no automatic reconciliation with all prior sleep passages.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-241",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA314-09-V20",
+          "passage_locator": "§§28–40"
+        }
+      ],
+      "claim": "Therapeutic meditation, astral regional polarity and literal cosmic nutrition claims kept separate.",
+      "relation_family": "attributed_process_and_causation"
     }
   ],
   "version": "1.1",
@@ -5413,5 +5608,13 @@
     "English_source_views": 4,
     "numbered_units": 78,
     "edges_added": 7
+  },
+  "organ_concordance_phase20": {
+    "complete_English_views": 4,
+    "numbered_units": 109,
+    "unnumbered_blocks": 38,
+    "selected_claim_records": 73,
+    "German_spot_check_entries": 7,
+    "full_German_collations": 0
   }
 }

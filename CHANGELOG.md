@@ -1,3 +1,9 @@
+# Phase 20 source identity and four GA314 views
+
+- Audit GA314 entries 5,6,8,9: 109 numbered units and 38 unnumbered blocks.
+- Correct duplicate SOL body and Inspiration translation; add 73 propositions/seven German checks.
+- Corpus: 41 English complete, 20 unread; 35 dossiers and 241 graph relationships.
+
 # Phase 19 GA314 and cumulative manuscript
 
 - Complete GA314 October 1920 entries 1–4, 78 numbered sections; add 56 selected propositions and five German checks.

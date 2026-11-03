@@ -16,7 +16,7 @@ counts=Counter(x['audit_status'] for x in ledger['entries'])
 assert len(ledger['entries'])==ledger['catalogued_entries']==61
 assert len({x['id'] for x in ledger['entries']})==61
 assert counts['unreviewed']==ledger['unreviewed']
-complete=counts['all_numbered_english_paragraphs_reviewed']
+complete=counts['all_numbered_english_paragraphs_reviewed']+counts['complete_English_source_view_review_unnumbered']
 assert complete==ledger['english_paragraph_coverage_complete']==ledger['english_paragraph_coverage_completed']
 assert ledger['selective_passage_reviews']==counts['selected_english_passages_checked_not_whole_lecture']
 assert ledger['partially_reviewed']==61-complete-counts['unreviewed']
@@ -94,3 +94,14 @@ for audit in (ROOT/'research').glob('organ-paragraph-review-*-v*.json'):
  for row in json.loads(audit.read_text()).get('records',[]):
   if row.get('speaker') in ('Friedrich Husemann','editorial_heading'):
    assert not any(c.get('source_url')==row['source_url'] and c.get('section')==row['paragraph'] and c.get('speaker')=='Steiner' for c in claims.values())
+
+# Editorial block ordinals never inflate printed-numbered coverage.
+if ledger.get('unnumbered_English_blocks_checked'):
+ assert sum(e.get('english_unnumbered_blocks_reviewed',0) for e in ledger['entries'])==ledger['unnumbered_English_blocks_checked']
+ for e in ledger['entries']:
+  if e['audit_status']=='complete_English_source_view_review_unnumbered':
+   units=load(e['audit_record'])['records']
+   units=[r for r in units if r['catalogue_entry_id']==e['id']]
+   assert len(units)==e['english_unnumbered_blocks_reviewed']
+   assert all(isinstance(r['paragraph'],str) and r['paragraph'].startswith('block-') for r in units)
+   assert e['english_paragraphs_reviewed']==0

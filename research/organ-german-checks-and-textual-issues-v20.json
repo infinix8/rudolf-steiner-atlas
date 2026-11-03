@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.3",
+  "as_of": "2026-11-03",
+  "scope": "Selective German passage/terminology checks only; not full bilingual collation.",
+  "checks": [
+    {
+      "id": "GER-V20-01",
+      "source_url": "https://rsarchive.org/Lectures/GA314/Compare_05.php",
+      "passage_cue": "§19",
+      "terms": [
+        "Abbild",
+        "Funktionen"
+      ],
+      "finding": "Brain reflection extends to functions; brain physiology said not to settle materialism.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V20-02",
+      "source_url": "https://rsarchive.org/Lectures/GA314/Compare_05.php",
+      "passage_cue": "§23",
+      "terms": [
+        "Zersetzung",
+        "vernichtet"
+      ],
+      "finding": "Volitional material decomposition is explicit; compare earlier anabolism rather than silently harmonizing.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V20-03",
+      "source_url": "https://rsarchive.org/Lectures/GA314/Compare_05.php",
+      "passage_cue": "§28",
+      "terms": [
+        "Inspiration"
+      ],
+      "finding": "SOL inhalation mistranslates cognitive Inspiration in both sentences.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V20-04",
+      "source_url": "https://rsarchive.org/Lectures/GA314/Compare_06.php?version=MP",
+      "passage_cue": "German §§1–3 / English opening blocks",
+      "terms": [
+        "Ptyalinisieren",
+        "Nierensystem"
+      ],
+      "finding": "Actual lecture begins curriculum; SOL standalone 27 October page duplicates 26 October content. MP English used for full audit.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V20-05",
+      "source_url": "https://rsarchive.org/Lectures/GA314/Compare_08.php",
+      "passage_cue": "§9",
+      "terms": [
+        "primär",
+        "sekundär",
+        "Plastiker"
+      ],
+      "finding": "Organ-shaping nervous role primary; soul adaptation secondary; original wording not translation inference.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V20-06",
+      "source_url": "https://rsarchive.org/Lectures/GA314/Compare_09.php",
+      "passage_cue": "§3",
+      "terms": [
+        "Beharrungsvermögen",
+        "Nachwirken"
+      ],
+      "finding": "Sleep continuation explicitly framed as inertial aftereffect without present I/astral.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V20-07",
+      "source_url": "https://rsarchive.org/Lectures/GA314/Compare_09.php",
+      "passage_cue": "§§39–40",
+      "terms": [
+        "Nahrung",
+        "Kosmos",
+        "Ohren"
+      ],
+      "finding": "Literal material nutrition replacement and ear absorption asserted in German too; not merely translation/metaphor.",
+      "status": "German_spot_checked"
+    }
+  ],
+  "unresolved": [
+    {
+      "id": "TXT-V20-01",
+      "issue": "SOL GA314-06 repeats GA314-05 content under different date/title; do not count as independent actual lecture review.",
+      "sources": [
+        "https://rsarchive.org/Lectures/GA314/English/SOL/19221026.html",
+        "https://rsarchive.org/Lectures/GA314/English/SOL/19221027a.html"
+      ],
+      "replacement": "https://rsarchive.org/Lectures/GA314/English/MP1986/19221027a01.html"
+    },
+    {
+      "id": "TXT-V20-02",
+      "issue": "SOL October pages say Dornach; catalogue and MP say Stuttgart. Metadata discrepancy retained."
+    },
+    {
+      "id": "TXT-V20-03",
+      "issue": "Volition/anabolism (GA314 III §5) versus volitional material destruction (GA314 V §23): unresolved scale/stage distinction or conflict."
+    },
+    {
+      "id": "TXT-V20-04",
+      "issue": "GA314 V §28 cognitive Inspiration mistranslated inhalation."
+    },
+    {
+      "id": "TXT-V20-05",
+      "issue": "GA314 IX §3 sleep inertia is a new mechanism, not proof that redistribution/interruption passages are equivalent."
+    }
+  ]
+}

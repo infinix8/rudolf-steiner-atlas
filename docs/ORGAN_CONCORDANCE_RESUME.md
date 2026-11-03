@@ -1,3 +1,11 @@
+# Phase 20 continuation checkpoint
+
+Current: 41 complete English source views, no thematic-only or selected-only, 20 unread. 1,041 numbered units, 38 unnumbered English blocks, one supplemental table. Latest v20 ledgers/dossiers/evidence/German logs; 35 dossiers, 241 main graph relationships/72 source views. Full bilingual/exhaustive/second-review certification remains zero.
+
+Next: GA314 catalogue entry 10, Therapy II, 1 January 1924, §1; then entries 11–16, then GA316 remaining entries.
+
+Source warning: SOL GA314 entry 6 repeats entry 5 body. Full entry 6 audited in Wuslin MP1986 19221027a01.html, 38 unnumbered blocks. Do not count the duplicate body or pretend these blocks have printed numbers. Read PHASE20_FINDINGS.md and v20 datasets. Preserve all earlier IDs, alias crosswalks, Husemann attribution and v19 manuscript. Phase20 adds 73 propositions and seven selective German entries; global novelty uncertified.
+
 # Organ Concordance continuation checkpoint
 
 Updated 3 November 2026 after phases 17–19. Canonical repository: infinix8/rudolf-steiner-atlas. Preserve all research and concurrent interface changes.
