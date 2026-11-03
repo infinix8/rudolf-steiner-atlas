@@ -22,7 +22,7 @@ try {
   await page.goto(root+'/atlas/graph.html',{waitUntil:'networkidle'});
   await page.getByRole('heading',{name:'Follow the evidence between teachings'}).waitFor();
   const initial=await page.locator('#relations tr').count();
-  assert(initial>=218,'expected at least 218 source-linked graph rows, got '+initial);
+  assert(initial>=227,'expected at least 227 source-linked graph rows, got '+initial);
   await page.locator('#family-filter').selectOption('distinction_and_comparison');
   const contrastRows=await page.locator('#relations [data-edge]').count();
   assert(contrastRows>0 && contrastRows<initial,'semantic relation family filter not functional');
@@ -45,7 +45,7 @@ try {
   await page.goto(root+'/atlas/sources.html',{waitUntil:'networkidle'});
   await page.getByRole('heading',{name:'Find the original work behind a concept.'}).waitFor();
   const totalSources=await page.locator('#source-cards article').count();
-  assert(totalSources>=58,'source guide has fewer than 58 original source cards');
+  assert(totalSources>=64,'source guide has fewer than 64 original source cards');
   await page.locator('#filter-text').fill('GA 317');
   const confirmed = await page.locator('#source-cards article').filter({hasText:'Lecture VIII'}).count();
   assert(confirmed>=1,'source search for GA317 VIII not working');
@@ -110,7 +110,7 @@ try {
   await page.goto(root+'/atlas/organs.html',{waitUntil:'networkidle'});
   await page.getByRole('heading',{name:'Find Steiner’s accounts of individual organs.'}).waitFor();
   const organCount=await page.locator('#organ-nav [data-organ]').count();
-  assert(organCount===29,'expected 29 comparative organ dossiers, found '+organCount);
+  assert(organCount===32,'expected 32 comparative organ dossiers, found '+organCount);
   assert(await page.locator('#organ-detail h2').textContent()==='heart','default heart organ dossier not rendered');
   await page.locator('#organ-query').fill('pituitary');
   assert(await page.locator('#organ-nav [data-organ]').count()>=1,'organ search does not find pituitary');
@@ -142,7 +142,7 @@ try {
   assert(await mobile.locator('#trajectory-select').isVisible(),'mobile comparison selector unavailable');
   await mobile.goto(root+'/atlas/organs.html',{waitUntil:'networkidle'});
   assert(await mobile.locator('#organ-query').isVisible(),'mobile organ search unavailable');
-  assert(await mobile.locator('#organ-nav [data-organ]').count()===29,'mobile organ dossiers not loaded');
+  assert(await mobile.locator('#organ-nav [data-organ]').count()===32,'mobile organ dossiers not loaded');
   assert(!errors.length,'mobile console or page errors: '+errors.join('; '));
   await mobile.close();
   console.log('PASS: desktop + mobile atlas routes, search, source links, domain/evidence filtering');
