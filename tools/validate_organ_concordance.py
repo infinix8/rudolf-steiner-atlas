@@ -46,7 +46,7 @@ for p in (ROOT/'research').glob('organ-atomic-claims-*-v*.json'):
   assert c['source_url'].startswith('https://rsarchive.org/')
   assert c.get('section',c.get('paragraph'))
   for prior in c['reconciliation']['prior_claim_ids']: assert prior in claims,prior
-  section_files=list((ROOT/'research').glob('organ-paragraph-review-*-v*.json'))
+  section_files=list((ROOT/'research').glob('organ-paragraph-review-*-v*.json')) + list((ROOT/'research').glob('organ-selected-reading-*-v*.json'))
   if c['id'].startswith('ORG-CLAIM-V') and int(c['id'].split('-')[2][1:])>=12:
    sections=[r for f in section_files for r in json.loads(f.read_text())['records']]
    assert any(r['source_url']==c['source_url'] and r['paragraph']==c['section'] for r in sections),c['id']
