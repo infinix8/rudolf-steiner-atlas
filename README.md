@@ -2,7 +2,7 @@
 
 A source-grounded, evolving thematic atlas of the **teachings of Rudolf Steiner**, designed to be navigable from broad domains through individual concepts to exact passages in his writings and recorded lectures.
 
-> **Status:** Foundation / taxonomy v1.0 (1 November 2026). This classification is a research-created working taxonomy, not a list of headings chosen by Steiner. GA volume references are often **research leads**, not verified passage-level citations.
+> **Current status (3 November 2026):** Active source-linked Atlas with organ concordance through phase 17. The taxonomy remains a working editorial classification, not Steiner-authored headings; GA volume references alone are research leads, not passage verification. The original lecture and book texts remain on the archive sites.
 
 ## Current scope
 
@@ -122,3 +122,14 @@ Current coverage: 16 complete English numbered-section lecture reviews, 1 additi
 [Cumulative manuscript v15](docs/Steiner_Organ_Evolution_Research_Atlas_v15.md) · [Word edition](docs/Steiner_Organ_Evolution_Research_Atlas_v15.docx) · [Phase 15 findings](docs/ORGAN_CONCORDANCE_PHASE15_FINDINGS.md) · [Current coverage](research/organ-corpus-ledger-ga313-317-v15.json) · [25 dossiers](research/organ-comparative-dossiers-v15.json) · [Resume](docs/ORGAN_CONCORDANCE_RESUME.md).
 
 22 complete English catalogue source views, 1 thematic, 3 selected-only, 35 unread. The 546 completed source-view sections include the GA315 VII alias. Phases 14–15 add 151 section reads and 79 selected propositions across five events; globally unique teaching count remains unknown. Full German/exhaustive second-review certification remains zero. Earlier checkpoint counts above are historical.
+
+## Organ Concordance and primary-text research (3 November 2026)
+
+- **[Explore 29 comparative organ dossiers](atlas/organs.html)** in the new accessible local browser, including heart, lungs, liver, brain, bladder, uterus and other systems. The explorer distinguishes original comparative relations from later selected claim annotations and preserves source links and medical-evidence cautions.
+- The corpus-level [phase-17 organ ledger](research/organ-corpus-ledger-ga313-317-v17.json) has **27 all-numbered-English-source-view reviews**, **1 thematic**, **3 selected-only**, **30 unread** entries, from **61 catalogued source views**. Numbered English source-view sections total **696**, plus a separately tracked unnumbered table. Counts are **source views**, not necessarily unique lecture events.
+- [GA317 VIII phase-16 selected alternate-English reading](docs/ORGAN_CONCORDANCE_PHASE16_FINDINGS.md) remains as a separate source-critical supplement, noting **two numerical English/German discrepancies**. The [phase-17 continuation](docs/ORGAN_CONCORDANCE_PHASE17_FINDINGS.md) later completed the numbered English GA317 VIII–XII audit; the same VIII lecture must not be double counted.
+- The current broad [knowledge graph](research/knowledge-graph-v1.json) contains **218 source-qualified relationships** across **58 source-page records**. Because some pages are alternate versions of a single lecture, page counts must not be interpreted as independent corroborations.
+- The [150-subdomain coverage report](docs/SUBDOMAIN_EVIDENCE_COVERAGE.md) distinguishes **53 direct**, **51 descendant-only**, and **46 without graph-attached evidence**. This is a research workflow measure, not corpus completeness.
+- [Current integration report](docs/ITERATION_2026-11-03_ORGAN_INTEGRATION.md) and [live resume checkpoint](docs/ORGAN_CONCORDANCE_RESUME.md).
+
+All attributed spiritual, therapeutic, biological and parental-causation claims are historical material, not established medical science or individualized treatment guidance.
