@@ -1,0 +1,325 @@
+{
+  "schema_version": "1.0",
+  "as_of": "2026-11-03",
+  "scope": "10 narrow selected GA317 VIII claims from an unnumbered RSP1972 web edition. NOT full English SOL numbered review, NOT globally unique and NOT validated treatment claims.",
+  "records": [
+    {
+      "id": "ORG-CLAIM-V16-001",
+      "catalogue_entry_id": "GA317-08",
+      "ga": 317,
+      "date": "1924-07-03",
+      "lecture": "VIII",
+      "section": "post-birth breathing, convulsions and developmental narrative",
+      "passage_cue": "RSP1972 English, topic-anchored unnumbered paragraph: post-birth breathing, convulsions and developmental narrative",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/RSP1972/19240703p01.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "lungs",
+        "head",
+        "brain"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive named builder or specific hierarchy established in this passage.",
+      "predicate": "postnatal_convulsion_as_astral_I_disjunction",
+      "temporal_framework": "historical_causal_interpretation",
+      "paraphrase": "Steiner interprets an early reported convulsion as I/astral organization failing to penetrate physical/etheric bodies.",
+      "evidence_state": "selected_English_passage_review_only",
+      "german_status": "Selective numeric and term checks; no full German collation or RSP/SOL numbering alignment.",
+      "reconciliation": {
+        "decision": "candidate_unpaired",
+        "prior_claim_ids": [],
+        "scope": "No exhaustive duplicate search; similarities to previous cases need explicit checking. Not counted as globally unique."
+      },
+      "caveats": [
+        "The medical observations and purported cause are different evidential categories",
+        "Historical Steiner assertion only; not independent clinical or scientific evidence."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V16-002",
+      "catalogue_entry_id": "GA317-08",
+      "ga": 317,
+      "date": "1924-07-03",
+      "lecture": "VIII",
+      "section": "mother's astral body and immature I interpretation",
+      "passage_cue": "RSP1972 English, topic-anchored unnumbered paragraph: mother's astral body and immature I interpretation",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/RSP1972/19240703p01.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "head",
+        "uterus"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive named builder or specific hierarchy established in this passage.",
+      "predicate": "maternal_astral_reflection_and_I_arrest",
+      "temporal_framework": "prenatal_metaphysical_development",
+      "paraphrase": "He conjectures that the child's astral body mirrors the mother's while prenatal I-development remains incomplete.",
+      "evidence_state": "selected_English_passage_review_only",
+      "german_status": "Selective numeric and term checks; no full German collation or RSP/SOL numbering alignment.",
+      "reconciliation": {
+        "decision": "candidate_unpaired",
+        "prior_claim_ids": [],
+        "scope": "No exhaustive duplicate search; similarities to previous cases need explicit checking. Not counted as globally unique."
+      },
+      "caveats": [
+        "Unverified metaphysical attribution; do not interpret as parental causation",
+        "Historical Steiner assertion only; not independent clinical or scientific evidence."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V16-003",
+      "catalogue_entry_id": "GA317-08",
+      "ga": 317,
+      "date": "1924-07-03",
+      "lecture": "VIII",
+      "section": "womb, cosmic head formation and metabolism-limbs",
+      "passage_cue": "RSP1972 English, topic-anchored unnumbered paragraph: womb, cosmic head formation and metabolism-limbs",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/RSP1972/19240703p01.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "uterus",
+        "head",
+        "limbs"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive named builder or specific hierarchy established in this passage.",
+      "predicate": "uterus_cosmic_head_protection",
+      "temporal_framework": "speculative_embryology",
+      "paraphrase": "He treats the womb as a cosmically active space favouring prenatal head formation over terrestrial limb/metabolic development.",
+      "evidence_state": "selected_English_passage_review_only",
+      "german_status": "Selective numeric and term checks; no full German collation or RSP/SOL numbering alignment.",
+      "reconciliation": {
+        "decision": "candidate_unpaired",
+        "prior_claim_ids": [],
+        "scope": "No exhaustive duplicate search; similarities to previous cases need explicit checking. Not counted as globally unique."
+      },
+      "caveats": [
+        "Not modern embryology; quotation or diagram should carry attributed historical context",
+        "Historical Steiner assertion only; not independent clinical or scientific evidence."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V16-004",
+      "catalogue_entry_id": "GA317-08",
+      "ga": 317,
+      "date": "1924-07-03",
+      "lecture": "VIII",
+      "section": "maternal feeling and father's heart condition",
+      "passage_cue": "RSP1972 English, topic-anchored unnumbered paragraph: maternal feeling and father's heart condition",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/RSP1972/19240703p01.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "heart",
+        "limbs",
+        "head"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive named builder or specific hierarchy established in this passage.",
+      "predicate": "parental_heart_and_heredity_inference",
+      "temporal_framework": "family_causation_speculation",
+      "paraphrase": "He assigns the father's heart illness and the mother's prenatal feelings causal roles in a child's head/limb imbalance.",
+      "evidence_state": "selected_English_passage_review_only",
+      "german_status": "Selective numeric and term checks; no full German collation or RSP/SOL numbering alignment.",
+      "reconciliation": {
+        "decision": "candidate_unpaired",
+        "prior_claim_ids": [],
+        "scope": "No exhaustive duplicate search; similarities to previous cases need explicit checking. Not counted as globally unique."
+      },
+      "caveats": [
+        "No evidential support for blaming parents for hydrocephalus or disability; historically stigmatizing",
+        "Historical Steiner assertion only; not independent clinical or scientific evidence."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V16-005",
+      "catalogue_entry_id": "GA317-08",
+      "ga": 317,
+      "date": "1924-07-03",
+      "lecture": "VIII",
+      "section": "retained earlier developmental phase across stages",
+      "passage_cue": "RSP1972 English, topic-anchored unnumbered paragraph: retained earlier developmental phase across stages",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/RSP1972/19240703p01.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "head",
+        "limbs"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive named builder or specific hierarchy established in this passage.",
+      "predicate": "retention_of_earlier_developmental_epoch",
+      "temporal_framework": "developmental_generalization",
+      "paraphrase": "He generalizes from one historical case to a supposed persistence of embryo or childhood organizational stages.",
+      "evidence_state": "selected_English_passage_review_only",
+      "german_status": "Selective numeric and term checks; no full German collation or RSP/SOL numbering alignment.",
+      "reconciliation": {
+        "decision": "candidate_unpaired",
+        "prior_claim_ids": [],
+        "scope": "No exhaustive duplicate search; similarities to previous cases need explicit checking. Not counted as globally unique."
+      },
+      "caveats": [
+        "Do not generalize from a single historical case to children's developmental diagnoses",
+        "Historical Steiner assertion only; not independent clinical or scientific evidence."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V16-006",
+      "catalogue_entry_id": "GA317-08",
+      "ga": 317,
+      "date": "1924-07-03",
+      "lecture": "VIII",
+      "section": "second case: head shape and supposed astral organ regions",
+      "passage_cue": "RSP1972 English, topic-anchored unnumbered paragraph: second case: head shape and supposed astral organ regions",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/RSP1972/19240703p01.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "brain",
+        "head"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive named builder or specific hierarchy established in this passage.",
+      "predicate": "asymmetric_astral_organ_regions",
+      "temporal_framework": "historical_diagnostic_conjecture",
+      "paraphrase": "He interprets head shape as reflecting unevenly developed parts of an alleged astral organization.",
+      "evidence_state": "selected_English_passage_review_only",
+      "german_status": "Selective numeric and term checks; no full German collation or RSP/SOL numbering alignment.",
+      "reconciliation": {
+        "decision": "candidate_unpaired",
+        "prior_claim_ids": [],
+        "scope": "No exhaustive duplicate search; similarities to previous cases need explicit checking. Not counted as globally unique."
+      },
+      "caveats": [
+        "Astral-organ inference is not a verified neurological assessment",
+        "Historical Steiner assertion only; not independent clinical or scientific evidence."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V16-007",
+      "catalogue_entry_id": "GA317-08",
+      "ga": 317,
+      "date": "1924-07-03",
+      "lecture": "VIII",
+      "section": "astral activity as explanation for daytime bladder symptoms",
+      "passage_cue": "RSP1972 English, topic-anchored unnumbered paragraph: astral activity as explanation for daytime bladder symptoms",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/RSP1972/19240703p01.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "bladder"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive named builder or specific hierarchy established in this passage.",
+      "predicate": "waking_astral_bladder_symptom",
+      "temporal_framework": "historical_diagnostic_conjecture",
+      "paraphrase": "He interprets daytime-only urinary incontinence as astral organization being active during waking.",
+      "evidence_state": "selected_English_passage_review_only",
+      "german_status": "Selective numeric and term checks; no full German collation or RSP/SOL numbering alignment.",
+      "reconciliation": {
+        "decision": "candidate_unpaired",
+        "prior_claim_ids": [],
+        "scope": "No exhaustive duplicate search; similarities to previous cases need explicit checking. Not counted as globally unique."
+      },
+      "caveats": [
+        "Not a medically verified mechanism of incontinence",
+        "Historical Steiner assertion only; not independent clinical or scientific evidence."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V16-008",
+      "catalogue_entry_id": "GA317-08",
+      "ga": 317,
+      "date": "1924-07-03",
+      "lecture": "VIII",
+      "section": "limb nourishment through breathing and sensory activity",
+      "passage_cue": "RSP1972 English, topic-anchored unnumbered paragraph: limb nourishment through breathing and sensory activity",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/RSP1972/19240703p01.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "limbs",
+        "lungs"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive named builder or specific hierarchy established in this passage.",
+      "predicate": "cosmic_limb_nourishment_vs_food",
+      "temporal_framework": "metaphysical_nutritional_claim",
+      "paraphrase": "He asserts that limbs receive substance through cosmic forces mediated by breathing and sensory activity rather than food.",
+      "evidence_state": "selected_English_passage_review_only",
+      "german_status": "Selective numeric and term checks; no full German collation or RSP/SOL numbering alignment.",
+      "reconciliation": {
+        "decision": "candidate_unpaired",
+        "prior_claim_ids": [],
+        "scope": "No exhaustive duplicate search; similarities to previous cases need explicit checking. Not counted as globally unique."
+      },
+      "caveats": [
+        "Contradicts modern physiological nutrition; present only as Steiner's assertion",
+        "Historical Steiner assertion only; not independent clinical or scientific evidence."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V16-009",
+      "catalogue_entry_id": "GA317-08",
+      "ga": 317,
+      "date": "1924-07-03",
+      "lecture": "VIII",
+      "section": "imagination from limbs contrasted with head",
+      "passage_cue": "RSP1972 English, topic-anchored unnumbered paragraph: imagination from limbs contrasted with head",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/RSP1972/19240703p01.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "limbs",
+        "head",
+        "brain"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive named builder or specific hierarchy established in this passage.",
+      "predicate": "fantasy_as_limb_activity",
+      "temporal_framework": "metaphysical_cognition_claim",
+      "paraphrase": "He attributes the child's imagination to limb organization rather than head organization.",
+      "evidence_state": "selected_English_passage_review_only",
+      "german_status": "Selective numeric and term checks; no full German collation or RSP/SOL numbering alignment.",
+      "reconciliation": {
+        "decision": "candidate_unpaired",
+        "prior_claim_ids": [],
+        "scope": "No exhaustive duplicate search; similarities to previous cases need explicit checking. Not counted as globally unique."
+      },
+      "caveats": [
+        "Does not establish an anatomical source of thought or imagination",
+        "Historical Steiner assertion only; not independent clinical or scientific evidence."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V16-010",
+      "catalogue_entry_id": "GA317-08",
+      "ga": 317,
+      "date": "1924-07-03",
+      "lecture": "VIII",
+      "section": "dream timing: falling asleep versus waking up",
+      "passage_cue": "RSP1972 English, topic-anchored unnumbered paragraph: dream timing: falling asleep versus waking up",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/RSP1972/19240703p01.html",
+      "source_kind": "recorded_lecture",
+      "organs": [
+        "brain",
+        "sleep"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive named builder or specific hierarchy established in this passage.",
+      "predicate": "distinguish_sleep_onset_and_waking_dreams",
+      "temporal_framework": "proposed_future_observation",
+      "paraphrase": "He proposes observing both sleep-onset and awakening dreams but reports only the first type in this case.",
+      "evidence_state": "selected_English_passage_review_only",
+      "german_status": "Selective numeric and term checks; no full German collation or RSP/SOL numbering alignment.",
+      "reconciliation": {
+        "decision": "candidate_unpaired",
+        "prior_claim_ids": [],
+        "scope": "No exhaustive duplicate search; similarities to previous cases need explicit checking. Not counted as globally unique."
+      },
+      "caveats": [
+        "An intended observation is not a reported outcome; no dream result was established",
+        "Historical Steiner assertion only; not independent clinical or scientific evidence."
+      ]
+    }
+  ],
+  "new_candidate_count": 0,
+  "globally_unique_new_claim_count": null,
+  "selected_proposition_count": 10,
+  "counted_in_english_numbered_section_totals": false,
+  "note": "Only topic-anchored selected reading. The full English numbered SOL audit remains open; source text is linked, not copied."
+}
