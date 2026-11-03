@@ -101,7 +101,7 @@ function cases(){
   $("#case-summary").innerHTML=
     '<div class="organ-badges"><span class="organ-tag">'+count+' selected passage cards</span>'+
     '<span class="organ-tag">'+issues.length+' translation discrepancies</span>'+
-    '<span class="organ-tag">NOT a full numbered-section review</span></div>'+
+    '<span class="organ-tag">Supplement only; full SOL review tracked in v17</span></div>'+
     '<p>'+srcLink(source,"Read original GA 317 lecture VIII ↗")+'</p>'+
     '<details><summary>Review specific case themes and source cautions ('+count+')</summary><div class="case-grid">'+
     r.records.map(x=>'<article><h3>'+safe(x.paragraph)+'</h3><p>'+safe(x.summary)+'</p>'+
@@ -116,8 +116,8 @@ function cases(){
 }
 async function init(){
  try{
-  const [a,b,c]=await Promise.all([fetch("../research/organ-comparative-dossiers-v16.json"),
-    fetch("../research/organ-corpus-ledger-ga313-317-v16.json"),
+  const [a,b,c]=await Promise.all([fetch("../research/organ-comparative-dossiers-v17.json"),
+    fetch("../research/organ-corpus-ledger-ga313-317-v17.json"),
     fetch("../research/organ-selected-reading-ga317-viii-v16.json")]);
   if([a,b,c].some(x=>!x.ok))throw Error("Cannot load local organ concordance data: serve from repository root.");
   [state.dossiers,state.ledger,state.phase16]=await Promise.all([a.json(),b.json(),c.json()]);
