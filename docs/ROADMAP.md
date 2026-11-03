@@ -62,9 +62,12 @@ Do not silently remove stable IDs. Do not label passages verified without direct
 
 - [x] Integrate a browsable original-source organ-concordance reader with current 29 dossiers and separate selected-claim annotations.
 - [x] Preserve and clearly label the phase-16 GA317 VIII English/German numeral discrepancies alongside the full phase-17 English source-view record.
-- [x] Expand automated CI to validate current v17 organ evidence, v16 preservation, and desktop/mobile organ navigation.
-- [ ] Complete six GA315 remaining English source views: II–VI and VIII; do not conflate GA315 VII with GA313 IX (one event).
+- [x] Expand automated CI to validate current v18 organ evidence, v16 preservation, and desktop/mobile organ navigation.
+- [x] Complete GA315 II–VI/VIII English source views in phase18, keeping GA315 VII / GA313 IX as one lecture event.
 - [ ] Continue GA314/316 first-pass English source coverage, then expand into the wider medical corpus with exact dated passages.
 - [ ] Compare all consequential original German terms across multiple editions and subject each proposed organ-hierarchy relation to independent second review.
 - [ ] Develop organ-specific chronology and typed relationship visualizations without implying that historical medical assertions are scientifically established.
 - [ ] Continue addressing the 46 subdomains with no attached graph evidence, keeping true source passages separate from GA lead references.
+
+- [x] Integrate 32 phase18 organ dossiers and source-view ledger in Atlas browser and smoke tests.
+- [ ] Complete remaining GA314/316 English source views; 27 GA313–317 catalogued views still unread in phase18. Distinguish Steiner’s statements from other speakers and manuscript/editorial material.
