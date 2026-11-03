@@ -2,7 +2,7 @@
   "schema_version": "0.7",
   "as_of": "2026-11-03",
   "scope": "Source-linked comparative organ dossiers; primary Steiner claims are distinguished by relationship type and context. Claims are not established medical or scientific findings.",
-  "dossier_count": 25,
+  "dossier_count": 26,
   "dossiers": [
     {
       "id": "organ-liver",
@@ -3336,6 +3336,32 @@
           "note": "Steiner: Pituitary secretion proposed to support harmony of head-to-limb force flow."
         }
       ]
+    },
+    {
+      "id": "organ-bladder",
+      "organ": "urinary bladder",
+      "aliases": [
+        "bladder",
+        "Harnblase",
+        "continence (wider function, not a synonym for the organ)"
+      ],
+      "relations": [],
+      "open_questions": [
+        "Distinguish organ-specific urinary claims from general astral, waking/sleep, and historical child-care contexts.",
+        "Find other original Steiner references to urinary system and kidney-bladder distinctions; do not assume clinical validity."
+      ],
+      "phase16_refinements": [
+        {
+          "claim_ref_id": "ORG-CLAIM-V16-007",
+          "relation": "waking_astral_bladder_symptom",
+          "source_url": "https://rsarchive.org/Lectures/GA317/English/RSP1972/19240703p01.html",
+          "passage_cue": "RSP1972 English, third-child daytime continence description",
+          "temporal_framework": "historical_diagnostic_conjecture",
+          "note": "Steiner attributes daytime-only wetting to astral organization during waking. This is not a verified clinical causal mechanism.",
+          "review_scope": "selected English 1972 passage; unnumbered SOL alignment pending"
+        }
+      ],
+      "phase16_scope_note": "New research dossier—one attributed historical case claim, not an independently validated bladder disorder diagnosis."
     }
   ],
   "source_policy": "Source URLs and original concise commentary only; no bulk archive reproduction. Historical esoteric/medical claims not established science.",
@@ -3352,6 +3378,8 @@
     "new_selected_claim_count": 10,
     "dossier_refinement_links": 19,
     "no_full_english_numbered_census": true,
-    "warning": "All clinically false or unsupported claims about parental fault, hydrocephalus, asthma, nutrition and astral causation remain attributed and not validated."
+    "warning": "All clinically false or unsupported claims about parental fault, hydrocephalus, asthma, nutrition and astral causation remain attributed and not validated.",
+    "previous_dossier_count": 25,
+    "new_dossiers": 1
   }
 }
