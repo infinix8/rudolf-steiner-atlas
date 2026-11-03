@@ -1,0 +1,166 @@
+{
+  "schema_version": "1.3",
+  "as_of": "2026-11-03",
+  "scope": "Selective German passage/terminology checks only; not full bilingual collation.",
+  "checks": [
+    {
+      "id": "GER-V21-01",
+      "entry": "GA314-10",
+      "section": "§1",
+      "url": "https://rsarchive.org/Lectures/GA314/Compare_10.php",
+      "terms": [
+        "vollständigen Ersatz"
+      ],
+      "finding": "Explicit complete replacement of mercury by previous preparation; not merely adjunctive.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V21-02",
+      "entry": "GA314-10",
+      "section": "§23",
+      "url": "https://rsarchive.org/Lectures/GA314/Compare_10.php",
+      "terms": [
+        "Ausatmung",
+        "nach innen",
+        "nach außen"
+      ],
+      "finding": "German itself switches inward/outward phrasing; no definitive directional correction invented.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V21-03",
+      "entry": "GA314-10",
+      "section": "§28 and Palmer reply",
+      "url": "https://rsarchive.org/Lectures/GA314/Compare_10.php",
+      "terms": [
+        "Ende der zwanziger Jahre"
+      ],
+      "finding": "Question asks patient age: late twenties, not calendar late 1920s in 1924. Palmer is speaker.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V21-04",
+      "entry": "GA314-14",
+      "section": "§21 versus GA314-10 §15",
+      "url": "https://rsarchive.org/Lectures/GA314/Compare_14.php",
+      "terms": [
+        "heilt eigentlich nur bloß das Arsen",
+        "es braucht nicht zu heilen"
+      ],
+      "finding": "Both cure and non-cure formulations occur in German. January congenital/acquired distinction may affect scope; not resolved.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V21-05",
+      "entry": "GA314-12",
+      "section": "§52",
+      "url": "https://rsarchive.org/Lectures/GA314/Compare_12.php",
+      "terms": [
+        "Krankheiten muß man heilen",
+        "individuelles Karma"
+      ],
+      "finding": "Explicit prohibition on karmic withholding and intrusion into individual karma.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V21-06",
+      "entry": "GA314-16",
+      "section": "§4",
+      "url": "https://rsarchive.org/Lectures/GA314/Compare_16.php",
+      "terms": [
+        "Mutter und Schwester"
+      ],
+      "finding": "Child’s mother and mother’s sister; SOL inserts misleading possessive my.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V21-07",
+      "entry": "GA314-16",
+      "section": "§18",
+      "url": "https://rsarchive.org/Lectures/GA314/Compare_16.php",
+      "terms": [
+        "Organe, die im Embryo abgehen",
+        "Nebenorgan"
+      ],
+      "finding": "Disappearing embryonic accessory organs, not every organ developing in an embryo; English overgeneralizes.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V21-08",
+      "entry": "GA314-16",
+      "section": "§19",
+      "url": "https://rsarchive.org/Lectures/GA314/Compare_16.php",
+      "terms": [
+        "Amnion",
+        "Allantois",
+        "Chorion",
+        "physische Korrelat"
+      ],
+      "finding": "Three separate physical correlates confirmed, not three identical organs or hierarchy builders.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V21-09",
+      "entry": "GA314-16",
+      "section": "§37",
+      "url": "https://rsarchive.org/Lectures/GA314/Compare_16.php",
+      "terms": [
+        "lose Affinität",
+        "jedem Sinn etwas anders"
+      ],
+      "finding": "Ear affinities differ from the eye scheme in German; retain organ specificity.",
+      "status": "German_spot_checked"
+    }
+  ],
+  "unresolved": [
+    {
+      "id": "TXT-V21-01",
+      "status": "open",
+      "topic": "Arsenic cure scope",
+      "sources": [
+        "GA314-10 §15–16",
+        "GA314-14 §21"
+      ],
+      "finding": "German confirms apparent tension; do not silently harmonize adult/congenital and preparation qualifications."
+    },
+    {
+      "id": "TXT-V21-02",
+      "status": "open",
+      "topic": "Ear breathing direction",
+      "sources": [
+        "GA314-10 §23",
+        "GA314-09 glaucoma passage"
+      ],
+      "finding": "Inward/outward wording ambiguous in German as well as English."
+    },
+    {
+      "id": "TXT-V21-03",
+      "status": "correction_recorded",
+      "topic": "SOL age and possessive errors",
+      "sources": [
+        "GA314-10 §28 Palmer reply",
+        "GA314-16 §4"
+      ],
+      "finding": "Age is late twenties, not late 1920s; mother/aunt are the child’s relatives, not Steiner’s."
+    },
+    {
+      "id": "TXT-V21-04",
+      "status": "qualification_recorded",
+      "topic": "Embryonic accessory organs",
+      "sources": [
+        "GA314-16 §18–19"
+      ],
+      "finding": "Restrict metamorphosis to passing accessory organs; do not claim adult liver or heart disappears."
+    },
+    {
+      "id": "TXT-V21-05",
+      "status": "open",
+      "topic": "Cramp mechanisms",
+      "sources": [
+        "GA314-16 §7",
+        "GA317-03"
+      ],
+      "finding": "Bypassed etheric mediation and interrupted astral-organ encounter require comparison, not forced identity."
+    }
+  ]
+}

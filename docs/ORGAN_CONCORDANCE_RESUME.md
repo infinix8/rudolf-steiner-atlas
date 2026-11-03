@@ -1,3 +1,9 @@
+# Current checkpoint — phase 21
+
+GA314 English first pass is complete. Current ledger: research/organ-corpus-ledger-ga313-317-v21.json. 48 complete English source views, 13 unread (all GA316), 1,321 numbered units, 38 unnumbered editorial blocks, one supplementary table. Read docs/ORGAN_CONCORDANCE_PHASE21_FINDINGS.md. Next: GA316-01, Christmas Course I, 2 January 1924, §1; then remaining GA316 entries. V19 cumulative manuscript is preserved; final cumulative update follows ongoing research.
+
+---
+
 # Phase 20 continuation checkpoint
 
 Current: 41 complete English source views, no thematic-only or selected-only, 20 unread. 1,041 numbered units, 38 unnumbered English blocks, one supplemental table. Latest v20 ledgers/dossiers/evidence/German logs; 35 dossiers, 241 main graph relationships/72 source views. Full bilingual/exhaustive/second-review certification remains zero.

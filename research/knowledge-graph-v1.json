@@ -1418,6 +1418,139 @@
         "entire_work_reviewed": false,
         "full_translation_collation": false
       }
+    },
+    {
+      "id": "SG-GA314-10-V21",
+      "ga": "314",
+      "work": "Physiological Therapeutics based on Spiritual Science",
+      "unit": "GA314-10",
+      "kind": "recorded_lecture",
+      "edition": "SOL English",
+      "lecture_date": "1924-01-01",
+      "url": "https://rsarchive.org/Lectures/GA314/English/SOL/19240101.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Graph selected propositions; full available English source read in separate audit; no bilingual/exhaustive certification.",
+        "checked_on": "2026-11-03",
+        "archive_page_opened_on": "2026-11-03",
+        "archive_url_checked": true,
+        "entire_work_reviewed": false,
+        "full_translation_collation": false
+      }
+    },
+    {
+      "id": "SG-GA314-11-V21",
+      "ga": "314",
+      "work": "Physiological Therapeutics based on Spiritual Science",
+      "unit": "GA314-11",
+      "kind": "recorded_lecture",
+      "edition": "SOL English",
+      "lecture_date": "1924-01-02",
+      "url": "https://rsarchive.org/Lectures/GA314/English/SOL/19240102.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Graph selected propositions; full available English source read in separate audit; no bilingual/exhaustive certification.",
+        "checked_on": "2026-11-03",
+        "archive_page_opened_on": "2026-11-03",
+        "archive_url_checked": true,
+        "entire_work_reviewed": false,
+        "full_translation_collation": false
+      }
+    },
+    {
+      "id": "SG-GA314-12-V21",
+      "ga": "314",
+      "work": "Physiological Therapeutics based on Spiritual Science",
+      "unit": "GA314-12",
+      "kind": "recorded_lecture",
+      "edition": "SOL English",
+      "lecture_date": "1920-04-07",
+      "url": "https://rsarchive.org/Lectures/GA314/English/SOL/19200407.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Graph selected propositions; full available English source read in separate audit; no bilingual/exhaustive certification.",
+        "checked_on": "2026-11-03",
+        "archive_page_opened_on": "2026-11-03",
+        "archive_url_checked": true,
+        "entire_work_reviewed": false,
+        "full_translation_collation": false
+      }
+    },
+    {
+      "id": "SG-GA314-13-V21",
+      "ga": "314",
+      "work": "Physiological Therapeutics based on Spiritual Science",
+      "unit": "GA314-13",
+      "kind": "recorded_lecture",
+      "edition": "SOL English",
+      "lecture_date": "1920-03-26",
+      "url": "https://rsarchive.org/Lectures/GA314/English/SOL/19200326.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Graph selected propositions; full available English source read in separate audit; no bilingual/exhaustive certification.",
+        "checked_on": "2026-11-03",
+        "archive_page_opened_on": "2026-11-03",
+        "archive_url_checked": true,
+        "entire_work_reviewed": false,
+        "full_translation_collation": false
+      }
+    },
+    {
+      "id": "SG-GA314-14-V21",
+      "ga": "314",
+      "work": "Physiological Therapeutics based on Spiritual Science",
+      "unit": "GA314-14",
+      "kind": "recorded_lecture",
+      "edition": "SOL English",
+      "lecture_date": "1924-04-21",
+      "url": "https://rsarchive.org/Lectures/GA314/English/SOL/19240421.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Graph selected propositions; full available English source read in separate audit; no bilingual/exhaustive certification.",
+        "checked_on": "2026-11-03",
+        "archive_page_opened_on": "2026-11-03",
+        "archive_url_checked": true,
+        "entire_work_reviewed": false,
+        "full_translation_collation": false
+      }
+    },
+    {
+      "id": "SG-GA314-15-V21",
+      "ga": "314",
+      "work": "Physiological Therapeutics based on Spiritual Science",
+      "unit": "GA314-15",
+      "kind": "recorded_lecture",
+      "edition": "SOL English",
+      "lecture_date": "1924-04-22",
+      "url": "https://rsarchive.org/Lectures/GA314/English/SOL/19240422.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Graph selected propositions; full available English source read in separate audit; no bilingual/exhaustive certification.",
+        "checked_on": "2026-11-03",
+        "archive_page_opened_on": "2026-11-03",
+        "archive_url_checked": true,
+        "entire_work_reviewed": false,
+        "full_translation_collation": false
+      }
+    },
+    {
+      "id": "SG-GA314-16-V21",
+      "ga": "314",
+      "work": "Physiological Therapeutics based on Spiritual Science",
+      "unit": "GA314-16",
+      "kind": "recorded_lecture",
+      "edition": "SOL English",
+      "lecture_date": "1924-04-23",
+      "url": "https://rsarchive.org/Lectures/GA314/English/SOL/19240423.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Graph selected propositions; full available English source read in separate audit; no bilingual/exhaustive certification.",
+        "checked_on": "2026-11-03",
+        "archive_page_opened_on": "2026-11-03",
+        "archive_url_checked": true,
+        "entire_work_reviewed": false,
+        "full_translation_collation": false
+      }
     }
   ],
   "edges": [
@@ -5551,6 +5684,244 @@
       ],
       "claim": "Therapeutic meditation, astral regional polarity and literal cosmic nutrition claims kept separate.",
       "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-242",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA314-10-V21",
+          "passage_locator": "§1"
+        }
+      ],
+      "claim": "Steiner explicitly replaces the preceding mercury proposal rather than merely supplementing it.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-243",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA314-10-V21",
+          "passage_locator": "§§20–23"
+        }
+      ],
+      "claim": "Steiner distinguishes eye and ear formative polarities and links otitis to whole-body etheric breathing activity.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-244",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA314-11-V21",
+          "passage_locator": "§3"
+        }
+      ],
+      "claim": "Fertilization is related to concentrated Sun–Moon forces in Steiner’s account.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-245",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA314-11-V21",
+          "passage_locator": "§28"
+        }
+      ],
+      "claim": "The hive as a whole, rather than the individual bee, is compared with brain and skeletal organization.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-246",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA314-12-V21",
+          "passage_locator": "§52"
+        }
+      ],
+      "claim": "Karmic interpretation must not be used to withhold medical care, and individual karmic privacy is explicitly defended.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-247",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA314-12-V21",
+          "passage_locator": "§§24–25,34–35"
+        }
+      ],
+      "claim": "A sleep-related epidemic claim is accompanied by rejection of a universal sleep duration.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-248",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA314-13-V21",
+          "passage_locator": "§9"
+        }
+      ],
+      "claim": "The earlier heart theory is referenced, not newly developed in this discussion.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-249",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA314-13-V21",
+          "passage_locator": "§§12–13"
+        }
+      ],
+      "claim": "A hypothetical pair distinguishes purported force intensity from constitutional resistance.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-250",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA314-14-V21",
+          "passage_locator": "§§5,8"
+        }
+      ],
+      "claim": "The head and metabolic liver receive contrasting accounts of appropriate I–astral engagement.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-251",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA314-14-V21",
+          "passage_locator": "§21"
+        }
+      ],
+      "claim": "The arsenic cure formulation conflicts in apparent scope with the earlier January qualification; no resolution is assumed.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-252",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA314-15-V21",
+          "passage_locator": "§§6–7"
+        }
+      ],
+      "claim": "Harmful vaccine-spirituality assertions coexist with explicit practical acceptance of vaccination.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-253",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA314-15-V21",
+          "passage_locator": "§29"
+        }
+      ],
+      "claim": "The stomach–uterus comparison concerns organ surface relations and is not reducible to sex alone.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-254",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA314-16-V21",
+          "passage_locator": "§19"
+        }
+      ],
+      "claim": "Amnion, allantois and chorion are assigned separate etheric, astral and I correlates.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-255",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA314-16-V21",
+          "passage_locator": "§§36–37"
+        }
+      ],
+      "claim": "Eye, ear and calf muscle receive different four-member affinity descriptions; the eye scheme is not universal.",
+      "relation_family": "attributed_process_and_causation"
     }
   ],
   "version": "1.1",
@@ -5615,6 +5986,14 @@
     "unnumbered_blocks": 38,
     "selected_claim_records": 73,
     "German_spot_check_entries": 7,
+    "full_German_collations": 0
+  },
+  "organ_concordance_phase21": {
+    "complete_English_views": 7,
+    "numbered_units": 280,
+    "unnumbered_blocks": 0,
+    "selected_claim_records": 105,
+    "German_spot_check_entries": 9,
     "full_German_collations": 0
   }
 }
