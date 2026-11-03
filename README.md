@@ -1,3 +1,7 @@
+> **Current organ-research checkpoint — phase18 (3 November 2026):** GA313 I–IX, GA315 I–VIII and GA317 I–XII now have complete numbered English source-view reviews. Across 61 GA313–317 catalogue entries: **33 English-complete, 1 thematic, 0 selected-only, 27 unread**; **854 numbered source units** (five are GA315 VI paratext/another speaker), plus the separately logged GA317 XI table. **32 organ dossiers**. [Phase18 findings](docs/ORGAN_CONCORDANCE_PHASE18_FINDINGS.md) · [Resume](docs/ORGAN_CONCORDANCE_RESUME.md). Full bilingual source collation and independent second review are not complete.
+
+Current [Organ Concordance Explorer](atlas/organs.html) reads the v18 dossier and corpus ledger; the broad knowledge graph has **227 passage-linked relationships across 64 source-page records**. These are not certified distinct lecture events, and historical medical claims are not treatment guidance.
+
 # Rudolf Steiner Atlas
 
 A source-grounded, evolving thematic atlas of the **teachings of Rudolf Steiner**, designed to be navigable from broad domains through individual concepts to exact passages in his writings and recorded lectures.
