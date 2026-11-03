@@ -72,3 +72,11 @@ The companion [subdomain coverage report](../docs/SUBDOMAIN_EVIDENCE_COVERAGE.md
 - Current graph: **179 relations / 40 source pages / 78 cross-domain links**. The subdomain coverage summary is **51 direct / 48 descendant only / 51 not linked**.
 - `python tools/validate_trajectories.py` verifies all trajectory IDs and source contexts.
 - See [relation family method](../docs/RELATION_FAMILY_METHOD.md) and [iteration record](../docs/ITERATION_2026-11-02_CONCEPT_CONTEXTS.md).
+
+## Organ Concordance Explorer (phase 17)
+
+Open `http://localhost:8000/atlas/organs.html` to browse **29 organ dossiers**, full original-source outgoing references, earlier comparative relations and later selected proposition annotations. This browser reads the current `research/organ-comparative-dossiers-v17.json` and `research/organ-corpus-ledger-ga313-317-v17.json`, while the earlier `research/organ-selected-reading-ga317-viii-v16.json` is presented separately as a **source-critical supplement**, not an extra event or a duplicate medical corpus.
+
+The phase-17 ledger represents **27 completed English source views**, **1 thematic**, **3 selected-only** and **30 unread** of 61 catalogued entries, with **696 numbered English sections** counted across source views. This does not certify a unique event count, complete German collation or independent clinical evidence. The main graph currently contains **218 source-qualified links**, **58 page records** and a transparent history of alternate-version events. Check `tools/validate_organ_concordance.py 17` and `tools/validate_organ_phase16.py`.
+
+The Atlas remains a local, archive-complementing prototype with no original lecture text mirrored and no public deployment.
