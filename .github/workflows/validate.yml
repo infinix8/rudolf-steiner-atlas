@@ -31,7 +31,7 @@ jobs:
         run: python tools/validate_trajectories.py
       - name: Validate cumulative organ evidence and phase 16 safeguards
         run: |
-          python tools/validate_organ_concordance.py 17
+          python tools/validate_organ_concordance.py 18
           python tools/validate_organ_phase16.py
       - name: Check confirmed shared lecture source views
         run: python tools/validate_source_view_aliases.py
