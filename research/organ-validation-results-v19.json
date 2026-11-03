@@ -1,0 +1,51 @@
+{
+  "as_of": "2026-11-03",
+  "checks": [
+    {
+      "command": "python tools/validate_organ_concordance.py 19",
+      "returncode": 0,
+      "stdout": "{\"version\": \"19\", \"catalogue\": 61, \"statuses\": {\"all_numbered_english_paragraphs_reviewed\": 37, \"unreviewed\": 23, \"english_thematic_sweep_unnumbered_not_section_aligned\": 1}, \"completed_English_source_view_sections\": 932, \"dossiers\": 32, \"structural_checks\": \"passed\"}\n",
+      "stderr": ""
+    },
+    {
+      "command": "python tools/validate_knowledge_graph.py ",
+      "returncode": 0,
+      "stdout": "1006 canonical taxonomy nodes, 234 graph edges, 68 primary-source pages, 129 cross-domain edges\nPASS: references, relationships, provenance and local UI files structurally consistent\n",
+      "stderr": ""
+    },
+    {
+      "command": "python tools/validate_taxonomy.py ",
+      "returncode": 0,
+      "stdout": "Source: /workspace/scratch/18a018931d76/repo/taxonomy/taxonomy-v1.json\nNodes: 1006 by depth: {0: 6, 1: 26, 2: 150, 3: 785, 4: 39}\nCrosslinks: 30\nAnchor evidence topics: 12\nPASS: structural integrity; primary-source validity not independently checked\n",
+      "stderr": ""
+    },
+    {
+      "command": "python tools/validate_dossiers.py ",
+      "returncode": 0,
+      "stdout": "PASS: 5 editorial dossiers, 17 section-level source annotations\n",
+      "stderr": ""
+    },
+    {
+      "command": "python tools/validate_trajectories.py ",
+      "returncode": 0,
+      "stdout": "PASS: 6 concept trajectories and 16 original source contexts\n",
+      "stderr": ""
+    },
+    {
+      "command": "python tools/validate_source_view_aliases.py ",
+      "returncode": 0,
+      "stdout": "PASS: 2 confirmed multi-page source events, 4 source views; no independent-event total inferred\n",
+      "stderr": ""
+    }
+  ],
+  "dossier_preservation": "all prior dossier fields preserved from v17 to v18 to v19",
+  "speaker_guard": "no GA315 VI §§25–29 attributed as Steiner claims",
+  "manuscript_preservation": "v15/v11 byte ranges and hashes passed",
+  "query_scope": "417 selected v12+ propositions; 32 cumulative dossiers. Not exhaustive corpus search; aliases not separate claims.",
+  "scope": "Structural verification does not independently verify source interpretations.",
+  "word_render_review": {
+    "pages": 68,
+    "status": "all 68 rendered page images visually inspected at native image resolution; no clipping, overlap or broken tables",
+    "docx_sha256": "a312a5fa8636cc2a1806690a95491521662f2a3fc1aeafa17fb0233958e6c72d"
+  }
+}

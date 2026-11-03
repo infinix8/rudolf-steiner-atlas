@@ -116,8 +116,8 @@ function cases(){
 }
 async function init(){
  try{
-  const [a,b,c]=await Promise.all([fetch("../research/organ-comparative-dossiers-v18.json"),
-    fetch("../research/organ-corpus-ledger-ga313-317-v18.json"),
+  const [a,b,c]=await Promise.all([fetch("../research/organ-comparative-dossiers-v19.json"),
+    fetch("../research/organ-corpus-ledger-ga313-317-v19.json"),
     fetch("../research/organ-selected-reading-ga317-viii-v16.json")]);
   if([a,b,c].some(x=>!x.ok))throw Error("Cannot load local organ concordance data: serve from repository root.");
   [state.dossiers,state.ledger,state.phase16]=await Promise.all([a.json(),b.json(),c.json()]);

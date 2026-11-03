@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Search current organ dossiers and checked v12–v13 claims, without source text copies.
+"""Search current organ dossiers and selected v12+ claims, without source text copies.
 
 Usage: python3 tools/query_organ_concordance.py liver
        python3 tools/query_organ_concordance.py --organ uterus --ga 313

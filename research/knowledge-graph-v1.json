@@ -1266,6 +1266,82 @@
         "full_translation_collation": false,
         "archive_page_opened_on": "2026-11-03"
       }
+    },
+    {
+      "id": "SG-GA314-19201007",
+      "ga": "314",
+      "work": "Physiological Therapeutics",
+      "unit": "Lecture 1",
+      "kind": "recorded_lecture",
+      "edition": "SOL English",
+      "lecture_date": "1920-10-07",
+      "url": "https://rsarchive.org/Lectures/GA314/English/SOL/19201007.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Graph selected propositions; complete English source view read separately; not whole-work bilingual certification.",
+        "checked_on": "2026-11-03",
+        "archive_page_opened_on": "2026-11-03",
+        "archive_url_checked": true,
+        "entire_work_reviewed": false,
+        "full_translation_collation": false
+      }
+    },
+    {
+      "id": "SG-GA314-19201008",
+      "ga": "314",
+      "work": "Physiological Therapeutics",
+      "unit": "Lecture 2",
+      "kind": "recorded_lecture",
+      "edition": "SOL English",
+      "lecture_date": "1920-10-08",
+      "url": "https://rsarchive.org/Lectures/GA314/English/SOL/19201008.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Graph selected propositions; complete English source view read separately; not whole-work bilingual certification.",
+        "checked_on": "2026-11-03",
+        "archive_page_opened_on": "2026-11-03",
+        "archive_url_checked": true,
+        "entire_work_reviewed": false,
+        "full_translation_collation": false
+      }
+    },
+    {
+      "id": "SG-GA314-19201009a",
+      "ga": "314",
+      "work": "Physiological Therapeutics",
+      "unit": "Lecture 3",
+      "kind": "recorded_lecture",
+      "edition": "SOL English",
+      "lecture_date": "1920-10-09",
+      "url": "https://rsarchive.org/Lectures/GA314/English/SOL/19201009a.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Graph selected propositions; complete English source view read separately; not whole-work bilingual certification.",
+        "checked_on": "2026-11-03",
+        "archive_page_opened_on": "2026-11-03",
+        "archive_url_checked": true,
+        "entire_work_reviewed": false,
+        "full_translation_collation": false
+      }
+    },
+    {
+      "id": "SG-GA314-19201009p",
+      "ga": "314",
+      "work": "Physiological Therapeutics",
+      "unit": "Lecture 4",
+      "kind": "recorded_lecture",
+      "edition": "SOL English",
+      "lecture_date": "1920-10-09",
+      "url": "https://rsarchive.org/Lectures/GA314/English/SOL/19201009p.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Graph selected propositions; complete English source view read separately; not whole-work bilingual certification.",
+        "checked_on": "2026-11-03",
+        "archive_page_opened_on": "2026-11-03",
+        "archive_url_checked": true,
+        "entire_work_reviewed": false,
+        "full_translation_collation": false
+      }
     }
   ],
   "edges": [
@@ -5161,6 +5237,125 @@
       ],
       "claim": "Five vowel/member correspondences distinguished; I is also a vowel label and must not always be read as the I organization.",
       "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-228",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA314-19201007",
+          "passage_locator": "§§12–19"
+        }
+      ],
+      "claim": "Cancer/mania polarity and limits of ordinary cognition; no accepted disease etiology.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-229",
+      "from": "RS-18.02",
+      "to": "RS-11.05.05",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA314-19201008",
+          "passage_locator": "§§2–5"
+        }
+      ],
+      "claim": "Child formative powers allegedly transform into thought/memory; retained-force pathology distinct from adult plasticity.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-230",
+      "from": "RS-18.02",
+      "to": "RS-09.01.02",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA314-19201008",
+          "passage_locator": "§§7–10"
+        }
+      ],
+      "claim": "Consciousness/breakdown and psychiatric organ under-organization attributed with caveats.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-231",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA314-19201009a",
+          "passage_locator": "§§3–5"
+        }
+      ],
+      "claim": "Three systems explicitly overlap spatially; feeling/will representations mediated indirectly.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-232",
+      "from": "RS-18.02",
+      "to": "RS-09.02.05",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA314-19201009a",
+          "passage_locator": "§§6–10"
+        }
+      ],
+      "claim": "Reciprocal toxicity and reversed plant processes; species-specific limits.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-233",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA314-19201009p",
+          "passage_locator": "§§5–11"
+        }
+      ],
+      "claim": "Blood/I-framework, bone calcification and arrested-rickets brain account indexed as historical claims.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-234",
+      "from": "RS-18.02",
+      "to": "RS-12.04.01",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA314-19201009p",
+          "passage_locator": "§§20–27"
+        }
+      ],
+      "claim": "Diabetes translation corrected from German; sexed cosmic inheritance account separated from observed hemophilia pattern.",
+      "relation_family": "attributed_process_and_causation"
     }
   ],
   "version": "1.1",
@@ -5213,5 +5408,10 @@
     "numbered_units": 158,
     "non_Steiner_units": 5,
     "edges_added": 9
+  },
+  "organ_concordance_phase19": {
+    "English_source_views": 4,
+    "numbered_units": 78,
+    "edges_added": 7
   }
 }

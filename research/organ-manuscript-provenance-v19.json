@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.2",
+  "source_filename": "Steiner_Organ_Evolution_Research_Atlas_v15.md",
+  "source_bytes": 227424,
+  "source_sha256": "35ad6cd2c45f39c2c7b164c0db7c0a07d9602d56584a42f1546847f80e8f81cd",
+  "preserved_start_byte": 17730,
+  "preserved_end_byte_exclusive": 245154,
+  "cumulative_path": "docs/Steiner_Organ_Evolution_Research_Atlas_v19.md",
+  "cumulative_sha256": "869c396727721f75a183110c44eaa9c9606e2788b3dc6ffb9a288f0e2df8d50e",
+  "nested_v11": {
+    "source_bytes": 185831,
+    "source_sha256": "b8e01cb2db0660c3795ca05116bbd897bb23ca59b48a0bef13cee694afacefe4",
+    "preserved_start_byte": 22699,
+    "preserved_end_byte_exclusive": 208530
+  },
+  "preservation": "Exact complete v15 bytes retained, including nested v13 and v11; current comparative synthesis precedes historical body; phase reports follow.",
+  "words": 37072
+}

@@ -1,3 +1,18 @@
+# Phase 19 GA314 and cumulative manuscript
+
+- Complete GA314 October 1920 entries 1–4, 78 numbered sections; add 56 selected propositions and five German checks.
+- Corpus now 37 complete English views, one thematic and 23 unread; 932 numbered units plus table.
+- Preserve all 32 organ dossiers; main graph reaches 234 relationships and 68 source views.
+- Add cumulative v19 manuscript with exact v15/v11 preservation, new comparative analysis and precise GA314 entry 5 checkpoint.
+- All six structural validation suites passed; new Husemann attribution guard added.
+
+## 2026-11-03 — Phase18 GA315 English source completion and current organ Atlas
+
+- Incorporated concurrent six-source GA315 II–VI/VIII English first-pass review and updated Organ Concordance Explorer to **32 organ dossiers**.
+- GA313–317 corpus: **33 completed English-numbered source views**, one thematic, zero selected-only, **27 unread**, **854 numbered source units**, five non-Steiner units in GA315 VI and one separately counted GA317 XI table.
+- Broad Atlas graph now **227 qualified edges / 64 source-page records**, with known event aliases kept separate from the page count.
+- Updated browser tests and integrity checks to consume phase18 while retaining the earlier GA317 VIII RSP translation disagreement as a supplement.
+
 ## 2026-11-03 — Phase18 GA315 English source completion and current organ Atlas
 
 - Incorporated concurrent six-source GA315 II–VI/VIII English first-pass review and updated Organ Concordance Explorer to **32 organ dossiers**.

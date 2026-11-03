@@ -88,3 +88,9 @@ if evidence.exists():
  graph=json.loads(evidence.read_text());nodes={n['id'] for n in graph['nodes']}
  assert len(nodes)==len(graph['nodes'])
  assert all(e['source'] in nodes and e['target'] in nodes for e in graph['edges'])
+
+# Source units may include other speakers; they are not Steiner propositions.
+for audit in (ROOT/'research').glob('organ-paragraph-review-*-v*.json'):
+ for row in json.loads(audit.read_text()).get('records',[]):
+  if row.get('speaker') in ('Friedrich Husemann','editorial_heading'):
+   assert not any(c.get('source_url')==row['source_url'] and c.get('section')==row['paragraph'] and c.get('speaker')=='Steiner' for c in claims.values())

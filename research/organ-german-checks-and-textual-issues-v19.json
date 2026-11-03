@@ -1,0 +1,98 @@
+{
+  "schema_version": "1.2",
+  "as_of": "2026-11-03",
+  "scope": "Five selective German check entries across three comparison views; GA314 I German not checked.",
+  "checks": [
+    {
+      "id": "GER-V19-01",
+      "ga": 314,
+      "lecture": 2,
+      "passage_cue": "§§2–5",
+      "terms": [
+        "Zahnwechsel",
+        "Organisationskräfte"
+      ],
+      "finding": "Formative-to-thought/memory transformation and retained-force pathology confirmed; developmental contexts remain distinct.",
+      "source_url": "https://rsarchive.org/Lectures/GA314/Compare_02.php",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V19-02",
+      "ga": 314,
+      "lecture": 3,
+      "passage_cue": "§§3–4",
+      "terms": [
+        "Funktionsabgrenzungen",
+        "Gehirnwassers"
+      ],
+      "finding": "Functional not spatial boundaries explicit; cerebrospinal rhythm named for feeling becoming representation.",
+      "source_url": "https://rsarchive.org/Lectures/GA314/Compare_03.php",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V19-03",
+      "ga": 314,
+      "lecture": 4,
+      "passage_cue": "§§5–8",
+      "terms": [
+        "Träger",
+        "Kräftegerüste"
+      ],
+      "finding": "Physical blood-based I-framework distinguished from spiritual I activity; phosphorus/rickets microcosmic analogy confirmed.",
+      "source_url": "https://rsarchive.org/Lectures/GA314/Compare_04.php",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V19-04",
+      "ga": 314,
+      "lecture": 4,
+      "passage_cue": "§§9–11",
+      "terms": [
+        "Knochenbildung",
+        "Rachitisentstehung"
+      ],
+      "finding": "Brain account explicitly describes constantly prevented bone formation and incipient rickets; not normal anatomical description.",
+      "source_url": "https://rsarchive.org/Lectures/GA314/Compare_04.php",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V19-05",
+      "ga": 314,
+      "lecture": 4,
+      "passage_cue": "§§20–23",
+      "terms": [
+        "Diabetes",
+        "Zuckerharnruhr"
+      ],
+      "finding": "German §23 continues diabetes discussion; SOL English dysentery mistranslates Zuckerharnruhr. Therapeutic assertion remains unvalidated.",
+      "source_url": "https://rsarchive.org/Lectures/GA314/Compare_04.php",
+      "status": "German_spot_checked"
+    }
+  ],
+  "unresolved": [
+    {
+      "id": "TXT-V19-01",
+      "issue": "Formative-to-cognition transformation and adult organ plasticity concern different endpoints; no universal conservation equation inferred.",
+      "sources": [
+        "GA314 II §§2–5",
+        "GA313 IX §6",
+        "GA315 VI §5"
+      ]
+    },
+    {
+      "id": "TXT-V19-02",
+      "issue": "Cancer/mania polarity and organ excess/deficiency are historical etiologies, not established diagnoses.",
+      "sources": [
+        "GA314 I §§12–15",
+        "GA314 II §§8–10"
+      ]
+    },
+    {
+      "id": "TXT-V19-03",
+      "issue": "Hemophilia observation does not entail sexed cosmic mechanism; original simplification requires no silent modern genetic repair.",
+      "sources": [
+        "GA314 IV §§25–27"
+      ]
+    }
+  ]
+}
