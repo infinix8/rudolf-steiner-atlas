@@ -1,0 +1,164 @@
+{
+  "schema_version": "1.3",
+  "as_of": "2026-11-03",
+  "scope": "Selective German passage/terminology checks only; not full bilingual collation.",
+  "checks": [
+    {
+      "id": "GER-V23-01",
+      "entry": "GA316-09",
+      "section": "§3",
+      "url": "https://rsarchive.org/Lectures/GA316/Compare_09.php",
+      "terms": [
+        "Mondphasen = Menses",
+        "emanzipiert"
+      ],
+      "finding": "Explicit present nonidentity and historical emancipation confirmed; also erroneous tide analogy occurs in German.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V23-02",
+      "entry": "GA316-10",
+      "section": "§10",
+      "url": "https://rsarchive.org/Lectures/GA316/Compare_10.php",
+      "terms": [
+        "astralischen Leibe",
+        "nicht genügend",
+        "Equisetum"
+      ],
+      "finding": "Insufficient astral kidney activity, unlike January I overengagement account. Preserve distinction.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V23-03",
+      "entry": "GA316-12",
+      "section": "§12",
+      "url": "https://rsarchive.org/Lectures/GA316/Compare_12.php",
+      "terms": [
+        "ungesiebt",
+        "Kräfte von Lunge und Leber",
+        "Kopfesorganisation"
+      ],
+      "finding": "Filtered prior-life influence and postmortem transformation of organ forces, not physical organ migration.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V23-04",
+      "entry": "GA316-15",
+      "section": "§11",
+      "url": "https://rsarchive.org/Lectures/GA316/Compare_15.php",
+      "terms": [
+        "Säftebewegung",
+        "Magen",
+        "Festgewordenen"
+      ],
+      "finding": "Gastric function and fixed organ are related as fluid and solidified activity.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V23-05",
+      "entry": "GA316-15",
+      "section": "§12",
+      "url": "https://rsarchive.org/Lectures/GA316/Compare_15.php",
+      "terms": [
+        "Phantom einer Niere",
+        "ersetzt",
+        "astrale Tätigkeit"
+      ],
+      "finding": "Renal phantom replaces astral activity explicitly; no experimental regeneration verified.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V23-06",
+      "entry": "GA316-15",
+      "section": "§13",
+      "url": "https://rsarchive.org/Lectures/GA316/Compare_15.php",
+      "terms": [
+        "Flüssigkeitsmenschen",
+        "der ganze Mensch"
+      ],
+      "finding": "Whole-human tendency belongs to fluid formative organization, not isolated excised liver.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V23-07",
+      "entry": "GA316-16",
+      "section": "Editorial blocks 1–3",
+      "url": "https://rsarchive.org/Lectures/GA316/English/SOL/Meditation.html",
+      "terms": [
+        "Denken",
+        "Fühlen",
+        "Wollen",
+        "Wärmeäther"
+      ],
+      "finding": "Displayed German confirms fluid/air/warmth moral-cognitive sequence; not a numbered recorded lecture.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V23-08",
+      "entry": "GA316-16",
+      "section": "Editorial blocks 4–6",
+      "url": "https://rsarchive.org/Lectures/GA316/English/SOL/Meditation.html",
+      "terms": [
+        "physische Herz",
+        "Unterleib nach dem Kopfe",
+        "ganzen Körper"
+      ],
+      "finding": "Displayed German confirms distinct heart, abdomen-head and head-body experiential directions.",
+      "status": "German_spot_checked"
+    }
+  ],
+  "unresolved": [
+    {
+      "id": "TXT-V23-01",
+      "status": "open",
+      "topic": "Equisetum intervention mechanisms",
+      "sources": [
+        "GA316-01 §§7–8",
+        "GA316-10 §10",
+        "GA316-15 §12"
+      ],
+      "finding": "I overengagement, insufficient astral function and phantom substitution may concern different cases but no case alignment established."
+    },
+    {
+      "id": "TXT-V23-02",
+      "status": "open",
+      "topic": "Kristiania poisoning anecdote ages",
+      "sources": [
+        "GA314-10 §§7–8",
+        "GA316-10 §22"
+      ],
+      "finding": "45/childhood versus 60/30–35 years earlier. Repeated motifs suggest possible same case; identity and discrepancy unresolved."
+    },
+    {
+      "id": "TXT-V23-03",
+      "status": "open",
+      "topic": "Personal karma puberty scope",
+      "sources": [
+        "GA316-09 §13",
+        "GA316-12 §§12–13"
+      ],
+      "finding": "Personal karma begins after puberty versus prior-life force effects in childhood; distinguish term scopes before judging contradiction."
+    },
+    {
+      "id": "TXT-V23-04",
+      "status": "qualification_recorded",
+      "topic": "Supplement catalogue types",
+      "sources": [
+        "GA316-14",
+        "GA316-15",
+        "GA316-16"
+      ],
+      "finding": "Joint newsletter, evening discussion and personal meditation are catalogue entries, not three ordinary lectures."
+    },
+    {
+      "id": "TXT-V23-05",
+      "status": "open",
+      "topic": "Organ-surface activity comparison",
+      "sources": [
+        "GA316-13 §3",
+        "GA313/317 prior surface activity records"
+      ],
+      "finding": "Illness-related spiritualization from surface not automatically same as normal surface operations."
+    }
+  ]
+}

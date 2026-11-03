@@ -1,3 +1,9 @@
+# Current checkpoint — phase 23
+
+The 61-entry GA313–317 English first pass is complete. Current ledger v23: 59 numbered views and two unnumbered; 1,607 numbered source units, 44 editorial blocks, one table. Full bilingual/exhaustive/independent review certifications remain zero. Read phase23 findings. Next: GA128 lecture I, 20 March 1911, §1; inspect prior selected evidence before extracting. Cumulative v19 manuscript retained pending final expansion.
+
+---
+
 # Current checkpoint — phase 22
 
 53 complete English source views; eight unread entries, GA316-09 through -16. Current ledger v22. Next permanent audit: GA316-09 §1. See phase22 findings. Cumulative v19 manuscript preserved pending session-end expansion.

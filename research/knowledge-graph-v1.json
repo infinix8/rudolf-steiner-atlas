@@ -1646,6 +1646,163 @@
         "entire_work_reviewed": false,
         "full_translation_collation": false
       }
+    },
+    {
+      "id": "SG-GA316-09-V23",
+      "ga": "316",
+      "work": "Meditative Reflections and Guidance for Deepening the Art of Healing",
+      "unit": "GA316-09",
+      "kind": "recorded_lecture",
+      "edition": "SOL English",
+      "lecture_date": "1924-04-21",
+      "url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240421.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Graph selected propositions; full available English source read in separate audit; no bilingual/exhaustive certification.",
+        "checked_on": "2026-11-03",
+        "archive_page_opened_on": "2026-11-03",
+        "archive_url_checked": true,
+        "entire_work_reviewed": false,
+        "full_translation_collation": false
+      }
+    },
+    {
+      "id": "SG-GA316-10-V23",
+      "ga": "316",
+      "work": "Meditative Reflections and Guidance for Deepening the Art of Healing",
+      "unit": "GA316-10",
+      "kind": "recorded_lecture",
+      "edition": "SOL English",
+      "lecture_date": "1924-04-22",
+      "url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240422.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Graph selected propositions; full available English source read in separate audit; no bilingual/exhaustive certification.",
+        "checked_on": "2026-11-03",
+        "archive_page_opened_on": "2026-11-03",
+        "archive_url_checked": true,
+        "entire_work_reviewed": false,
+        "full_translation_collation": false
+      }
+    },
+    {
+      "id": "SG-GA316-11-V23",
+      "ga": "316",
+      "work": "Meditative Reflections and Guidance for Deepening the Art of Healing",
+      "unit": "GA316-11",
+      "kind": "recorded_lecture",
+      "edition": "SOL English",
+      "lecture_date": "1924-04-23",
+      "url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240423.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Graph selected propositions; full available English source read in separate audit; no bilingual/exhaustive certification.",
+        "checked_on": "2026-11-03",
+        "archive_page_opened_on": "2026-11-03",
+        "archive_url_checked": true,
+        "entire_work_reviewed": false,
+        "full_translation_collation": false
+      }
+    },
+    {
+      "id": "SG-GA316-12-V23",
+      "ga": "316",
+      "work": "Meditative Reflections and Guidance for Deepening the Art of Healing",
+      "unit": "GA316-12",
+      "kind": "recorded_lecture",
+      "edition": "SOL English",
+      "lecture_date": "1924-04-24",
+      "url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240424.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Graph selected propositions; full available English source read in separate audit; no bilingual/exhaustive certification.",
+        "checked_on": "2026-11-03",
+        "archive_page_opened_on": "2026-11-03",
+        "archive_url_checked": true,
+        "entire_work_reviewed": false,
+        "full_translation_collation": false
+      }
+    },
+    {
+      "id": "SG-GA316-13-V23",
+      "ga": "316",
+      "work": "Meditative Reflections and Guidance for Deepening the Art of Healing",
+      "unit": "GA316-13",
+      "kind": "recorded_lecture",
+      "edition": "SOL English",
+      "lecture_date": "1924-04-25",
+      "url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240425.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Graph selected propositions; full available English source read in separate audit; no bilingual/exhaustive certification.",
+        "checked_on": "2026-11-03",
+        "archive_page_opened_on": "2026-11-03",
+        "archive_url_checked": true,
+        "entire_work_reviewed": false,
+        "full_translation_collation": false
+      }
+    },
+    {
+      "id": "SG-GA316-14-V23",
+      "ga": "316",
+      "work": "Meditative Reflections and Guidance for Deepening the Art of Healing",
+      "unit": "GA316-14",
+      "kind": "coauthored_circular_letter",
+      "edition": "SOL English",
+      "lecture_date": "1924-03-11",
+      "url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240311.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Graph selected propositions; full available English source read in separate audit; no bilingual/exhaustive certification.",
+        "checked_on": "2026-11-03",
+        "archive_page_opened_on": "2026-11-03",
+        "archive_url_checked": true,
+        "entire_work_reviewed": false,
+        "full_translation_collation": false
+      },
+      "authors": [
+        "Rudolf Steiner",
+        "Ita Wegman"
+      ]
+    },
+    {
+      "id": "SG-GA316-15-V23",
+      "ga": "316",
+      "work": "Meditative Reflections and Guidance for Deepening the Art of Healing",
+      "unit": "GA316-15",
+      "kind": "recorded_lecture",
+      "edition": "SOL English",
+      "lecture_date": "1924-04-24",
+      "url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240424a.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Graph selected propositions; full available English source read in separate audit; no bilingual/exhaustive certification.",
+        "checked_on": "2026-11-03",
+        "archive_page_opened_on": "2026-11-03",
+        "archive_url_checked": true,
+        "entire_work_reviewed": false,
+        "full_translation_collation": false
+      }
+    },
+    {
+      "id": "SG-GA316-16-V23",
+      "ga": "316",
+      "work": "Meditative Reflections and Guidance for Deepening the Art of Healing",
+      "unit": "GA316-16",
+      "kind": "personal_meditation",
+      "edition": "SOL English",
+      "lecture_date": "1923",
+      "url": "https://rsarchive.org/Lectures/GA316/English/SOL/Meditation.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Graph selected propositions; full available English source read in separate audit; no bilingual/exhaustive certification.",
+        "checked_on": "2026-11-03",
+        "archive_page_opened_on": "2026-11-03",
+        "archive_url_checked": true,
+        "entire_work_reviewed": false,
+        "full_translation_collation": false
+      },
+      "date_precision": "autumn; exact day unspecified"
     }
   ],
   "edges": [
@@ -6187,6 +6344,278 @@
       ],
       "claim": "Consonantal and vowel therapeutic movements are assigned Moon and Saturn forces respectively.",
       "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-266",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA316-09-V23",
+          "passage_locator": "§3"
+        }
+      ],
+      "claim": "An asserted historical lunar relation is explicitly distinguished from present menstrual phase-locking.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-267",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA316-09-V23",
+          "passage_locator": "§§7,15"
+        }
+      ],
+      "claim": "Accessory embryonic formations and a reported rabbit splenectomy are used in different accounts of cosmic formative activity.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-268",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA316-10-V23",
+          "passage_locator": "§10"
+        }
+      ],
+      "claim": "Equisetum is described as supporting insufficient astral kidney function; compare the January I-overengagement account.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-269",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA316-10-V23",
+          "passage_locator": "§§18–19"
+        }
+      ],
+      "claim": "Criticism of contemporary teaching is explicitly accompanied by a requirement to complete regular medical studies.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-270",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA316-11-V23",
+          "passage_locator": "§§3–4"
+        }
+      ],
+      "claim": "Astral and I activity are distinguished from ordinary spatial diagrams.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-271",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA316-11-V23",
+          "passage_locator": "§§6,9,11–12"
+        }
+      ],
+      "claim": "Planetary morphology, atmospheric animation and Earth-retained Saturn forces are separate explanatory levels.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-272",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA316-12-V23",
+          "passage_locator": "§12"
+        }
+      ],
+      "claim": "Lung and liver forces, not physical organs, are described as transforming into a later head organization.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-273",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA316-12-V23",
+          "passage_locator": "§§4,6,10"
+        }
+      ],
+      "claim": "Fever measure, pulse number and material weight are assigned Saturn, Sun and Moon interpretive roles.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-274",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA316-13-V23",
+          "passage_locator": "§§2–3"
+        }
+      ],
+      "claim": "Opposite structural imprints distinguish physical and psychiatric illness in Steiner’s unvalidated general account.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-275",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA316-13-V23",
+          "passage_locator": "§§5–10"
+        }
+      ],
+      "claim": "Forward and reverse age metamorphoses are proposed as different routes toward etheric and astral perception.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-276",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA316-14-V23",
+          "passage_locator": "§13"
+        }
+      ],
+      "claim": "The joint newsletter explicitly retains explanations and treatment for informed patients despite its unvalidated knowledge-effect theory.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-277",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA316-14-V23",
+          "passage_locator": "§§17,27"
+        }
+      ],
+      "claim": "Head cavities and the tinnitus–bladder relation receive distinct physiological-spiritual interpretations.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-278",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA316-15-V23",
+          "passage_locator": "§§11–13"
+        }
+      ],
+      "claim": "Stomach function, renal phantom and liver-forming fluid distinguish fixed organs from ongoing fluid formation.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-279",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA316-15-V23",
+          "passage_locator": "§§15–16"
+        }
+      ],
+      "claim": "Breath-proportional perception and speech experience are assigned astral and I roles.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-280",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA316-16-V23",
+          "passage_locator": "Editorial blocks 1–3"
+        }
+      ],
+      "claim": "Thinking, feeling and willing are distinguished through etheric-fluid, astral-air and I-warmth assignments.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-281",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA316-16-V23",
+          "passage_locator": "Editorial blocks 4–6"
+        }
+      ],
+      "claim": "Meditative light, sound and life directions are heart-centered, abdomen-to-head and head-to-body respectively.",
+      "relation_family": "attributed_process_and_causation"
     }
   ],
   "version": "1.1",
@@ -6266,6 +6695,14 @@
     "numbered_units": 139,
     "unnumbered_blocks": 0,
     "selected_claim_records": 67,
+    "German_spot_check_entries": 8,
+    "full_German_collations": 0
+  },
+  "organ_concordance_phase23": {
+    "complete_English_views": 8,
+    "numbered_units": 147,
+    "unnumbered_blocks": 6,
+    "selected_claim_records": 87,
     "German_spot_check_entries": 8,
     "full_German_collations": 0
   }
