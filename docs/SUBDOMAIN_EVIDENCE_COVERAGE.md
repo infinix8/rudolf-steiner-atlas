@@ -2,7 +2,7 @@
 
 Generated only from the repository's own taxonomy IDs and source-linked graph.
 
-**150 subdomains:** 51 with an edge directly on the subdomain, 48 with an edge only on a nested child, 51 with no graph-attached edge.
+**150 subdomains:** 53 with an edge directly on the subdomain, 51 with an edge only on a nested child, 46 with no graph-attached edge.
 
 **This is an editorial workflow metric, not a measurement of Steiner's corpus coverage.** A source-linked edge records selected passages, not a fully audited concept or lecture. An empty status does not mean the original works omit the subject.
 
@@ -21,13 +21,13 @@ Generated only from the repository's own taxonomy IDs and source-linked graph.
 | 09 | 3 | 3 | 0 | 6 |
 | 10 | 2 | 3 | 1 | 6 |
 | 11 | 1 | 4 | 0 | 5 |
-| 12 | 1 | 1 | 3 | 5 |
+| 12 | 1 | 3 | 1 | 5 |
 | 13 | 1 | 4 | 1 | 6 |
 | 14 | 0 | 3 | 2 | 5 |
 | 15 | 1 | 1 | 4 | 6 |
 | 16 | 1 | 1 | 4 | 6 |
 | 17 | 1 | 1 | 4 | 6 |
-| 18 | 3 | 0 | 4 | 7 |
+| 18 | 5 | 1 | 1 | 7 |
 | 19 | 2 | 3 | 1 | 6 |
 | 20 | 3 | 3 | 0 | 6 |
 | 21 | 2 | 0 | 4 | 6 |
@@ -82,32 +82,32 @@ Generated only from the repository's own taxonomy IDs and source-linked graph.
 | [RS-07.05 Earth as organism](../atlas/index.html#node=RS-07.05) | direct | 4 | 2 |
 | [RS-07.06 Ecology of relationships](../atlas/index.html#node=RS-07.06) | descendant | 3 | 1 |
 | [RS-08.01 Repeated earthly lives](../atlas/index.html#node=RS-08.01) | direct | 8 | 5 |
-| [RS-08.02 Karma and causality](../atlas/index.html#node=RS-08.02) | direct | 10 | 5 |
+| [RS-08.02 Karma and causality](../atlas/index.html#node=RS-08.02) | direct | 11 | 6 |
 | [RS-08.03 Life between death and rebirth](../atlas/index.html#node=RS-08.03) | descendant | 5 | 2 |
 | [RS-08.04 Spiritual companions](../atlas/index.html#node=RS-08.04) | none | 0 | 0 |
 | [RS-08.05 Karmic investigation](../atlas/index.html#node=RS-08.05) | none | 0 | 0 |
 | [RS-08.06 Time and life rhythm](../atlas/index.html#node=RS-08.06) | descendant | 1 | 1 |
-| [RS-09.01 Fourfold constitution](../atlas/index.html#node=RS-09.01) | direct | 13 | 4 |
-| [RS-09.02 Threefold human being](../atlas/index.html#node=RS-09.02) | direct | 6 | 4 |
-| [RS-09.03 Physical–etheric–astral grouping (not physiological threefolding)](../atlas/index.html#node=RS-09.03) | direct | 1 | 2 |
+| [RS-09.01 Fourfold constitution](../atlas/index.html#node=RS-09.01) | direct | 23 | 12 |
+| [RS-09.02 Threefold human being](../atlas/index.html#node=RS-09.02) | direct | 9 | 7 |
+| [RS-09.03 Physical–etheric–astral grouping (not physiological threefolding)](../atlas/index.html#node=RS-09.03) | direct | 3 | 4 |
 | [RS-09.04 Threefold soul](../atlas/index.html#node=RS-09.04) | descendant | 4 | 1 |
 | [RS-09.05 Threefold spirit](../atlas/index.html#node=RS-09.05) | descendant | 4 | 1 |
 | [RS-09.06 Ninefold and sevenfold schemas](../atlas/index.html#node=RS-09.06) | descendant | 1 | 1 |
 | [RS-10.01 Soul faculties](../atlas/index.html#node=RS-10.01) | direct | 8 | 5 |
-| [RS-10.02 States of consciousness](../atlas/index.html#node=RS-10.02) | descendant | 3 | 1 |
-| [RS-10.03 Sensory life](../atlas/index.html#node=RS-10.03) | descendant | 2 | 1 |
+| [RS-10.02 States of consciousness](../atlas/index.html#node=RS-10.02) | descendant | 5 | 3 |
+| [RS-10.03 Sensory life](../atlas/index.html#node=RS-10.03) | descendant | 3 | 2 |
 | [RS-10.04 Seven life processes](../atlas/index.html#node=RS-10.04) | direct | 1 | 1 |
 | [RS-10.05 Emotional development](../atlas/index.html#node=RS-10.05) | none | 0 | 0 |
 | [RS-10.06 Psychology of thinking](../atlas/index.html#node=RS-10.06) | descendant | 1 | 1 |
-| [RS-11.01 Phases of life](../atlas/index.html#node=RS-11.01) | descendant | 1 | 1 |
+| [RS-11.01 Phases of life](../atlas/index.html#node=RS-11.01) | descendant | 2 | 2 |
 | [RS-11.02 Childhood and youth](../atlas/index.html#node=RS-11.02) | direct | 4 | 1 |
 | [RS-11.03 Relationships](../atlas/index.html#node=RS-11.03) | descendant | 1 | 1 |
 | [RS-11.04 Individual differences](../atlas/index.html#node=RS-11.04) | descendant | 2 | 1 |
-| [RS-11.05 Life challenges](../atlas/index.html#node=RS-11.05) | descendant | 1 | 1 |
+| [RS-11.05 Life challenges](../atlas/index.html#node=RS-11.05) | descendant | 2 | 2 |
 | [RS-12.01 Historical evolution of consciousness](../atlas/index.html#node=RS-12.01) | direct | 1 | 1 |
 | [RS-12.02 Transformation of the I](../atlas/index.html#node=RS-12.02) | none | 0 | 0 |
-| [RS-12.03 Metamorphosis of faculties](../atlas/index.html#node=RS-12.03) | none | 0 | 0 |
-| [RS-12.04 Future development](../atlas/index.html#node=RS-12.04) | none | 0 | 0 |
+| [RS-12.03 Metamorphosis of faculties](../atlas/index.html#node=RS-12.03) | descendant | 2 | 2 |
+| [RS-12.04 Future development](../atlas/index.html#node=RS-12.04) | descendant | 1 | 2 |
 | [RS-12.05 Human cosmic role](../atlas/index.html#node=RS-12.05) | descendant | 2 | 1 |
 | [RS-13.01 Identity and mission of Christ](../atlas/index.html#node=RS-13.01) | descendant | 2 | 2 |
 | [RS-13.02 Jesus and Gospel narratives](../atlas/index.html#node=RS-13.02) | descendant | 3 | 1 |
@@ -139,18 +139,18 @@ Generated only from the repository's own taxonomy IDs and source-linked graph.
 | [RS-17.05 Science and knowledge](../atlas/index.html#node=RS-17.05) | direct | 4 | 3 |
 | [RS-17.06 Technology and modernity](../atlas/index.html#node=RS-17.06) | none | 0 | 0 |
 | [RS-18.01 Medical anthropology](../atlas/index.html#node=RS-18.01) | direct | 2 | 1 |
-| [RS-18.02 Organ systems](../atlas/index.html#node=RS-18.02) | none | 0 | 0 |
+| [RS-18.02 Organ systems](../atlas/index.html#node=RS-18.02) | direct | 21 | 13 |
 | [RS-18.03 Disease and diagnosis in Steiner's account](../atlas/index.html#node=RS-18.03) | direct | 1 | 1 |
 | [RS-18.04 Therapeutic methods](../atlas/index.html#node=RS-18.04) | direct | 2 | 2 |
-| [RS-18.05 Life stages and medical concerns](../atlas/index.html#node=RS-18.05) | none | 0 | 0 |
-| [RS-18.06 Remedial / curative education](../atlas/index.html#node=RS-18.06) | none | 0 | 0 |
+| [RS-18.05 Life stages and medical concerns](../atlas/index.html#node=RS-18.05) | descendant | 1 | 1 |
+| [RS-18.06 Remedial / curative education](../atlas/index.html#node=RS-18.06) | direct | 8 | 5 |
 | [RS-18.07 Evidence and safeguarding](../atlas/index.html#node=RS-18.07) | none | 0 | 0 |
-| [RS-19.01 Foundations of pedagogy](../atlas/index.html#node=RS-19.01) | direct | 3 | 3 |
+| [RS-19.01 Foundations of pedagogy](../atlas/index.html#node=RS-19.01) | direct | 4 | 4 |
 | [RS-19.02 Developmental stages](../atlas/index.html#node=RS-19.02) | direct | 4 | 1 |
 | [RS-19.03 Teaching practice](../atlas/index.html#node=RS-19.03) | descendant | 1 | 1 |
 | [RS-19.04 Subjects and curriculum](../atlas/index.html#node=RS-19.04) | descendant | 1 | 1 |
 | [RS-19.05 School organization](../atlas/index.html#node=RS-19.05) | none | 0 | 0 |
-| [RS-19.06 Special settings](../atlas/index.html#node=RS-19.06) | descendant | 1 | 1 |
+| [RS-19.06 Special settings](../atlas/index.html#node=RS-19.06) | descendant | 4 | 4 |
 | [RS-20.01 Farm as living individuality](../atlas/index.html#node=RS-20.01) | direct | 2 | 2 |
 | [RS-20.02 Cosmic and earthly influences](../atlas/index.html#node=RS-20.02) | direct | 4 | 1 |
 | [RS-20.03 Soil fertility](../atlas/index.html#node=RS-20.03) | direct | 2 | 1 |
