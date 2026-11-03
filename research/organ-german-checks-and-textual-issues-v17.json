@@ -1,0 +1,167 @@
+{
+  "schema_version": "1.1",
+  "as_of": "2026-11-03",
+  "scope": "10 selective check entries; no complete bilingual audit or stenographic manuscript consultation.",
+  "checks": [
+    {
+      "id": "GER-V17-01",
+      "ga": 317,
+      "lecture": 8,
+      "passage_cue": "§§8–11",
+      "terms": [
+        "Uterus",
+        "kosmische Kräfte",
+        "Erbkräfte"
+      ],
+      "finding": "Cosmic uterine enclosure and parental head/limb attribution confirmed. Hereditary forces should not automatically become modern genetic terminology.",
+      "source_url": "https://rsarchive.org/Lectures/GA317/Compare_08.php",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V17-02",
+      "ga": 317,
+      "lecture": 8,
+      "passage_cue": "§16",
+      "terms": [
+        "Schläfen",
+        "Organpartien des astralischen Leibes"
+      ],
+      "finding": "Outward temples and claimed astral organ regions must remain distinct.",
+      "source_url": "https://rsarchive.org/Lectures/GA317/Compare_08.php",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V17-03",
+      "ga": 317,
+      "lecture": 8,
+      "passage_cue": "§18",
+      "terms": [
+        "sulfurig"
+      ],
+      "finding": "SOL spirited suppresses the sulfuric constitutional label present in German.",
+      "source_url": "https://rsarchive.org/Lectures/GA317/Compare_08.php",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V17-04",
+      "ga": 317,
+      "lecture": 9,
+      "passage_cue": "§10",
+      "terms": [
+        "Schläfenlappen",
+        "Hypophysis cerebri"
+      ],
+      "finding": "German explicitly names temporal lobes and pituitary/honey therapy. This is an original unsubstantiated anatomical inference, not merely a translator introducing lobes.",
+      "source_url": "https://rsarchive.org/Lectures/GA317/Compare_09.php?version=DE",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V17-05",
+      "ga": 317,
+      "lecture": 9,
+      "passage_cue": "§§14,20",
+      "terms": [
+        "Reizbarkeit",
+        "Kopfumfanges"
+      ],
+      "finding": "German acknowledges initial overestimate and absence of reduced head circumference; SOL §20 obscures criticism of other treatments.",
+      "source_url": "https://rsarchive.org/Lectures/GA317/Compare_09.php?version=DE",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V17-06",
+      "ga": 317,
+      "lecture": 10,
+      "passage_cue": "§§21–23",
+      "terms": [
+        "Ich-Punkt",
+        "Rückenmark",
+        "Zähne",
+        "Zehen"
+      ],
+      "finding": "Point/circle, spinal cord and tooth/toe opposition confirmed; inward creation occurs within meditation discussion.",
+      "source_url": "https://rsarchive.org/Lectures/GA317/Compare_10.php",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V17-07",
+      "ga": 317,
+      "lecture": 11,
+      "passage_cue": "§17 and following table",
+      "terms": [
+        "Verstandesseele",
+        "Empfindungsseele"
+      ],
+      "finding": "German prose gives Mars/intellectual and Venus/sentient soul; table reverses these. Disagreement predates English translation; no resolution inferred.",
+      "source_url": "https://rsarchive.org/Lectures/GA317/Compare_11.php",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V17-08",
+      "ga": 317,
+      "lecture": 11,
+      "passage_cue": "§§1–2",
+      "terms": [
+        "Nasenrachenraum",
+        "Blasengegend"
+      ],
+      "finding": "Bladder/nasopharyngeal counterpart confirmed; memory account separates physical/etheric retention from sleeping I/astral.",
+      "source_url": "https://rsarchive.org/Lectures/GA317/Compare_11.php",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V17-09",
+      "ga": 317,
+      "lecture": 12,
+      "passage_cue": "§§4–5",
+      "terms": [
+        "Muttermilch",
+        "Ich-Inhalt",
+        "astralischen Inhalt"
+      ],
+      "finding": "Milk-force migration and loss/retention of member content confirmed; milk/blossom astrality explicitly related without identity.",
+      "source_url": "https://rsarchive.org/Lectures/GA317/Compare_12.php",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V17-10",
+      "ga": 317,
+      "lecture": 12,
+      "passage_cue": "§§9–10",
+      "terms": [
+        "Schein des Ich",
+        "werdende",
+        "Baby"
+      ],
+      "finding": "Present-I appearance/becoming and inter-incarnation framing confirmed; GA10 prerequisites explicitly invoked.",
+      "source_url": "https://rsarchive.org/Lectures/GA317/Compare_12.php",
+      "status": "German_spot_checked"
+    }
+  ],
+  "unresolved": [
+    {
+      "id": "TXT-V17-01",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240706.html",
+      "passage_cue": "§17 and unnumbered table",
+      "issue": "Mars/Venus soul mappings conflict in German and English; no silent correction."
+    },
+    {
+      "id": "TXT-V17-02",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240706.html",
+      "passage_cue": "between §17 and §19",
+      "issue": "Marker §18 absent. Count 37 numbered sections plus one separate table."
+    },
+    {
+      "id": "TXT-V17-03",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240703.html",
+      "passage_cue": "§§3,7",
+      "issue": "Head measurements and chronology require edition check; do not construct continuous clinical chart from all numbers."
+    },
+    {
+      "id": "TXT-V17-04",
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240704.html",
+      "passage_cue": "§20",
+      "issue": "German final sentence concerns inability to criticize other methods before success; SOL turns it toward discussion of tapping."
+    }
+  ]
+}

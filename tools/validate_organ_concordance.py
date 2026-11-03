@@ -70,7 +70,10 @@ for e in ledger['entries']:
   p=ROOT/e['audit_record']
   if p.exists():
    d=json.loads(p.read_text());rs=[r for r in d.get('records',[]) if r.get('catalogue_entry_id')==e['id'] or (not r.get('catalogue_entry_id') and r.get('source_url')==e['source_url'])]
-   if rs and all('paragraph' in r for r in rs): assert len(rs)==e['english_paragraphs_reviewed'],e['id']
+   if rs and all('paragraph' in r for r in rs):
+    assert len([r for r in rs if isinstance(r['paragraph'],int)])==e['english_paragraphs_reviewed'],e['id']
+    if e.get('english_supplemental_tables_reviewed'):
+     assert len([r for r in rs if not isinstance(r['paragraph'],int)])==e['english_supplemental_tables_reviewed'],e['id']
 alias_path=ROOT/'research/organ-source-event-aliases-v14.json'
 if alias_path.exists():
  for event in json.loads(alias_path.read_text())['events']:

@@ -1057,6 +1057,101 @@
         "archive_url_checked": true,
         "full_translation_collation": false
       }
+    },
+    {
+      "id": "SG-GA317-19240703-SOL",
+      "ga": "317",
+      "work": "Remedial Education Course",
+      "unit": "Lecture 8",
+      "kind": "recorded_lecture",
+      "edition": "SOL English; selective German comparison",
+      "lecture_date": "1924-07-03",
+      "url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240703.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Graph propositions from full English source-view read; not full work bilingual/exhaustive certification.",
+        "checked_on": "2026-11-03",
+        "entire_work_reviewed": false,
+        "archive_page_opened_on": "2026-11-03",
+        "archive_url_checked": true,
+        "full_translation_collation": false
+      }
+    },
+    {
+      "id": "SG-GA317-19240704",
+      "ga": "317",
+      "work": "Remedial Education Course",
+      "unit": "Lecture 9",
+      "kind": "recorded_lecture",
+      "edition": "SOL English; selective German comparison",
+      "lecture_date": "1924-07-04",
+      "url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240704.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Graph propositions from full English source-view read; not full work bilingual/exhaustive certification.",
+        "checked_on": "2026-11-03",
+        "entire_work_reviewed": false,
+        "archive_page_opened_on": "2026-11-03",
+        "archive_url_checked": true,
+        "full_translation_collation": false
+      }
+    },
+    {
+      "id": "SG-GA317-19240705",
+      "ga": "317",
+      "work": "Remedial Education Course",
+      "unit": "Lecture 10",
+      "kind": "recorded_lecture",
+      "edition": "SOL English; selective German comparison",
+      "lecture_date": "1924-07-05",
+      "url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240705.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Graph propositions from full English source-view read; not full work bilingual/exhaustive certification.",
+        "checked_on": "2026-11-03",
+        "entire_work_reviewed": false,
+        "archive_page_opened_on": "2026-11-03",
+        "archive_url_checked": true,
+        "full_translation_collation": false
+      }
+    },
+    {
+      "id": "SG-GA317-19240706",
+      "ga": "317",
+      "work": "Remedial Education Course",
+      "unit": "Lecture 11",
+      "kind": "recorded_lecture",
+      "edition": "SOL English; selective German comparison",
+      "lecture_date": "1924-07-06",
+      "url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240706.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Graph propositions from full English source-view read; not full work bilingual/exhaustive certification.",
+        "checked_on": "2026-11-03",
+        "entire_work_reviewed": false,
+        "archive_page_opened_on": "2026-11-03",
+        "archive_url_checked": true,
+        "full_translation_collation": false
+      }
+    },
+    {
+      "id": "SG-GA317-19240707",
+      "ga": "317",
+      "work": "Remedial Education Course",
+      "unit": "Lecture 12",
+      "kind": "recorded_lecture",
+      "edition": "SOL English; selective German comparison",
+      "lecture_date": "1924-07-07",
+      "url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240707.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Graph propositions from full English source-view read; not full work bilingual/exhaustive certification.",
+        "checked_on": "2026-11-03",
+        "entire_work_reviewed": false,
+        "archive_page_opened_on": "2026-11-03",
+        "archive_url_checked": true,
+        "full_translation_collation": false
+      }
     }
   ],
   "edges": [
@@ -4646,6 +4741,159 @@
       ],
       "claim": "Steiner generalizes from a hydrocephalus demonstration to a theory of persistence of earlier developmental organizations.",
       "note": "Historically attributed and unverified, with sensitive disability/parental-causation context. Never construe as evidence-based diagnosis, blame or treatment advice. See phase16 case audit and translation issue register."
+    },
+    {
+      "id": "KG-210",
+      "from": "RS-18.02",
+      "to": "RS-12.04.01",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA317-19240703-SOL",
+          "passage_locator": "§§8–11"
+        }
+      ],
+      "claim": "Prenatal uterine/head forces distinguished from later limb orientation; speculative case etiology.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-211",
+      "from": "RS-18.06",
+      "to": "RS-11.05.05",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA317-19240704",
+          "passage_locator": "§§27–30"
+        }
+      ],
+      "claim": "Language beings reaching Spirit-Self linked to pedagogy and eurythmy; no named hierarchy rank.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-212",
+      "from": "RS-18.02",
+      "to": "RS-18.06",
+      "type": "used_in_pedagogical_account",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA317-19240704",
+          "passage_locator": "§§10,18"
+        }
+      ],
+      "claim": "Pituitary proposals in distinct cases/routes; no clinical efficacy established.",
+      "relation_family": "method_and_application"
+    },
+    {
+      "id": "KG-213",
+      "from": "RS-18.02",
+      "to": "RS-11.05.05",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA317-19240705",
+          "passage_locator": "§§21–23"
+        }
+      ],
+      "claim": "Point-circle meditation related to head/limb metamorphosis, jaws and spinal cord.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-214",
+      "from": "RS-18.02",
+      "to": "RS-09.01.02",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA317-19240706",
+          "passage_locator": "§§1–2"
+        }
+      ],
+      "claim": "Bladder/head counterpart and physical/etheric memory account.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-215",
+      "from": "RS-18.02",
+      "to": "RS-12.04.01",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA317-19240706",
+          "passage_locator": "§17 and table"
+        }
+      ],
+      "claim": "Member/planet correspondence with unresolved Mars/Venus prose-table disagreement; not organ-origin chronology.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-216",
+      "from": "RS-18.02",
+      "to": "RS-11.05.05",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA317-19240706",
+          "passage_locator": "§34"
+        }
+      ],
+      "claim": "Point/circle meditative metamorphosis revisited.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-217",
+      "from": "RS-18.02",
+      "to": "RS-09.02.05",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA317-19240707",
+          "passage_locator": "§§4–6"
+        }
+      ],
+      "claim": "Milk forces change region and I/astral content; plant/milk kinship qualified.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-218",
+      "from": "RS-09.01.04",
+      "to": "RS-11.05.05",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA317-19240707",
+          "passage_locator": "§§9–10"
+        }
+      ],
+      "claim": "Young I and repeatedly transformed bodies contextualize educator meditation.",
+      "relation_family": "attributed_process_and_causation"
     }
   ],
   "version": "1.1",
@@ -4686,5 +4934,11 @@
     "source_views": 2,
     "section_reviews": 52,
     "edges_added": 4
+  },
+  "organ_concordance_phase17": {
+    "English_source_views": 5,
+    "numbered_sections": 150,
+    "supplemental_tables": 1,
+    "edges_added": 9
   }
 }

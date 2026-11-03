@@ -1,3 +1,10 @@
+# 2026-11-03 — Phase 17: finish GA317 English first pass
+
+- Read VIII–XII in full: 150 numbered sections plus one unnumbered XI table; all 12 GA317 views now English-complete.
+- Added 89 propositions (57 provisionally unpaired, 32 reconciliations), 10 selective German checks, four dossiers (29 cumulative), nine graph links (218 total / 58 source views).
+- Logged German/English Mars–Venus prose/table conflict, sulfuric/spirited rendering, and unsuccessful head-reduction qualification.
+- Current corpus: 27 complete views + 1 thematic + 3 selected-only + 30 unread; 696 numbered source-view sections. No exhaustive bilingual audit certified.
+
 # 2026-11-02 — Phase 15: GA317 VI–VII and cumulative edition 15
 
 - Completed 52 English section reviews and 34 selected claims: 21 provisionally unpaired, 13 prior-record comparisons. Seven selective German check entries; pituitary direction and Balkenstich translation issues retained.
