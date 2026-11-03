@@ -83,6 +83,16 @@
 
 # Changelog
 
+## 2026-11-03 — Integrate organ concordance, multilingual source criticism and phase 17 research
+
+- Added a fully linked [Organ Concordance Explorer](atlas/organs.html) with 29 organ dossiers, source-text outgoing links, filters, versioned claim annotations and historical-medical safeguards.
+- Added a carefully limited alternate-edition GA317 VIII phase-16 selected reading: 14 source-passage cards, 10 candidate propositions and two unresolved numerical differences with the displayed German.
+- Integrated the newer **phase 17** GA317 VIII–XII English-source-view reviews from concurrently committed research without treating the earlier alternate view as an independent lecture event.
+- Current GA313–317 audit: **27 completed English numbered source views**, 1 thematic, 3 selected-only, 30 unread; **696 numbered section views** plus one supplemental table, no exhaustive bilingual certification.
+- Current broad Atlas: **218 source-linked edges / 58 source-page records**; **53 directly covered, 51 child-only and 46 still-unlinked subdomains**.
+- Added organ integrity and phase16 preservation checks and desktop/mobile Chromium tests for the new explorer; restored phase17 as the canonical resume checkpoint.
+- Source records remain interpretive metadata; historical medical proposals are not treatments or validated diagnoses.
+
 ## 2026-11-02 — Iteration 6: primary passages and concept contexts
 
 - Expanded to **179 original passage-linked relations**, **40 original source pages** and **78 cross-domain links**.
