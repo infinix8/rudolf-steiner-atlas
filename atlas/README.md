@@ -84,3 +84,7 @@ The Atlas remains a local, archive-complementing prototype with no original lect
 ## Source-page aliases and independent-event cautions
 
 The original-source guide now labels two confirmed shared-lecture groups and shows the relationship of their linked page views. These groups are in `research/known-source-view-aliases-v1.json`, checked by `python tools/validate_source_view_aliases.py`. **A source-page is not necessarily an independent original lecture event.** No total independent-event census has been certified.
+
+## Current phase18 organ reader (3 November 2026)
+
+The [Organ Concordance Explorer](organs.html) now uses `research/organ-comparative-dossiers-v18.json` and `research/organ-corpus-ledger-ga313-317-v18.json`: **32 organ dossiers**, **33 complete numbered English source views**, one thematic, zero selected-only, and **27 unread** out of 61 catalogue views. The **854 numbered source units** include five heading/other-speaker units in GA315 VI; the GA317 XI table is recorded separately. The older phase16 GA317 VIII translation review remains **supplemental**, not another source event. Broad graph: **227 passage-linked relationships across 64 source-page records**, not independent lecture-event count. [Phase18 research findings](../docs/ORGAN_CONCORDANCE_PHASE18_FINDINGS.md).
