@@ -6,7 +6,6 @@ Generated from local, original Atlas records; no external documents accessed.
 - **113 direct cross-domain graph connections**.
 - **4 of 30 initial crosslinks** directly matched; **22** still have no matching exact-endpoint source evidence.
 - Source pages include alternate views of shared lecture events (GA313 IX / GA315 VII); page counts are not independent-event counts.
-- Source pages include alternate views of shared lecture events (GA313 IX / GA315 VII); page counts are not independent-event counts.
 - Source verification means **selected passages were checked**, not that full books were reviewed.
 
 ## Related nodes by domain
