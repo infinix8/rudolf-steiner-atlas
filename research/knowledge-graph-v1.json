@@ -1037,6 +1037,26 @@
         "archive_url_checked": true,
         "full_translation_collation": false
       }
+    },
+    {
+      "id": "SG-GA317-19240703",
+      "ga": "317",
+      "work": "Curative Education",
+      "unit": "Lecture VIII",
+      "kind": "recorded_lecture",
+      "edition": "English RSP1972, Mary Adams; unrevised shorthand transcription",
+      "lecture_date": "1924-07-03",
+      "url": "https://rsarchive.org/Lectures/GA317/English/RSP1972/19240703p01.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Selected English 1972 case descriptions and organ-related passages. Topic-specific unnumbered cues. Some German material compared for two numeric discrepancies. No full numbered SOL view, independent case verification, clinical evidence or full translation collation.",
+        "checked_on": "2026-11-03",
+        "source_site": "Rudolf Steiner Archive",
+        "entire_work_reviewed": false,
+        "archive_page_opened_on": "2026-11-03",
+        "archive_url_checked": true,
+        "full_translation_collation": false
+      }
     }
   ],
   "edges": [
@@ -4500,10 +4520,136 @@
       ],
       "claim": "Speech, bodily sensing, materials and narrative tempo proposed as case-specific educational methods.",
       "relation_family": "method_and_application"
+    },
+    {
+      "id": "KG-203",
+      "from": "RS-18.02.01",
+      "to": "RS-18.02.03",
+      "type": "distinguished_from",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "relation_family": "distinction_and_comparison",
+      "evidence": [
+        {
+          "source_id": "SG-GA317-19240703",
+          "passage_locator": "RSP1972 English unnumbered Lecture VIII: prenatal head/cosmic vs metabolism-and-limbs/terrestrial comparison in the hydrocephalus case"
+        }
+      ],
+      "claim": "Steiner contrasts head development in a supposedly cosmic-protected womb with forces he attributes to metabolic-limb development.",
+      "note": "Historically attributed and unverified, with sensitive disability/parental-causation context. Never construe as evidence-based diagnosis, blame or treatment advice. See phase16 case audit and translation issue register."
+    },
+    {
+      "id": "KG-204",
+      "from": "RS-09.01.04",
+      "to": "RS-18.06.03",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "relation_family": "attributed_process_and_causation",
+      "evidence": [
+        {
+          "source_id": "SG-GA317-19240703",
+          "passage_locator": "RSP1972 English unnumbered Lecture VIII: childhood hydrocephalus case, theory of an immature I-organization"
+        }
+      ],
+      "claim": "He conjectures that delayed development of the I-organization accounts for a child's enlarged head and subsequent development.",
+      "note": "Historically attributed and unverified, with sensitive disability/parental-causation context. Never construe as evidence-based diagnosis, blame or treatment advice. See phase16 case audit and translation issue register."
+    },
+    {
+      "id": "KG-205",
+      "from": "RS-09.01.03",
+      "to": "RS-18.06.03",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "relation_family": "attributed_process_and_causation",
+      "evidence": [
+        {
+          "source_id": "SG-GA317-19240703",
+          "passage_locator": "RSP1972 English unnumbered Lecture VIII: hydrocephalus case, asserted likeness of mother and child's astral body"
+        }
+      ],
+      "claim": "He interprets a child’s hydrocephalus through an alleged extraordinary maternal-astral resemblance.",
+      "note": "Historically attributed and unverified, with sensitive disability/parental-causation context. Never construe as evidence-based diagnosis, blame or treatment advice. See phase16 case audit and translation issue register."
+    },
+    {
+      "id": "KG-206",
+      "from": "RS-18.02.04",
+      "to": "RS-18.02.03",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "relation_family": "attributed_process_and_causation",
+      "evidence": [
+        {
+          "source_id": "SG-GA317-19240703",
+          "passage_locator": "RSP1972 English unnumbered Lecture VIII: father's heart illness and alleged effects on limb heredity"
+        }
+      ],
+      "claim": "Steiner asserts that a father's heart illness affected limb inheritance and contributed to a child's head–limb imbalance.",
+      "note": "Historically attributed and unverified, with sensitive disability/parental-causation context. Never construe as evidence-based diagnosis, blame or treatment advice. See phase16 case audit and translation issue register."
+    },
+    {
+      "id": "KG-207",
+      "from": "RS-18.06.01",
+      "to": "RS-08.02",
+      "type": "associated_with",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "relation_family": "contextual_association",
+      "evidence": [
+        {
+          "source_id": "SG-GA317-19240703",
+          "passage_locator": "RSP1972 English unnumbered Lecture VIII: mother's pregnancy feelings interpreted as karmic connection"
+        }
+      ],
+      "claim": "The lecture moves from a case-history inquiry to a karmic explanation involving a mother's prenatal feelings; this is an attribution, not a demonstrated cause.",
+      "note": "Historically attributed and unverified, with sensitive disability/parental-causation context. Never construe as evidence-based diagnosis, blame or treatment advice. See phase16 case audit and translation issue register."
+    },
+    {
+      "id": "KG-208",
+      "from": "RS-10.02.02",
+      "to": "RS-18.06.01",
+      "type": "associated_with",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "relation_family": "contextual_association",
+      "evidence": [
+        {
+          "source_id": "SG-GA317-19240703",
+          "passage_locator": "RSP1972 English unnumbered Lecture VIII: last child case, reported dreams at sleep onset and proposed waking-dream observations"
+        }
+      ],
+      "claim": "Steiner proposes tracking dream timing in a child's case, but the waking-dream observations are not reported as completed.",
+      "note": "Historically attributed and unverified, with sensitive disability/parental-causation context. Never construe as evidence-based diagnosis, blame or treatment advice. See phase16 case audit and translation issue register."
+    },
+    {
+      "id": "KG-209",
+      "from": "RS-11.01.01",
+      "to": "RS-18.05.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "relation_family": "attributed_process_and_causation",
+      "evidence": [
+        {
+          "source_id": "SG-GA317-19240703",
+          "passage_locator": "RSP1972 English unnumbered Lecture VIII: case applied as model of retained embryonic or earlier childhood developmental phases"
+        }
+      ],
+      "claim": "Steiner generalizes from a hydrocephalus demonstration to a theory of persistence of earlier developmental organizations.",
+      "note": "Historically attributed and unverified, with sensitive disability/parental-causation context. Never construe as evidence-based diagnosis, blame or treatment advice. See phase16 case audit and translation issue register."
     }
   ],
   "version": "1.1",
-  "last_updated": "2026-11-02",
+  "last_updated": "2026-11-03",
   "sources_added_20261102": 10,
   "semantic_families": {
     "version": "1.0",
