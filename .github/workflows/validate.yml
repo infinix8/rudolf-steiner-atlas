@@ -29,6 +29,10 @@ jobs:
         run: python tools/validate_dossiers.py
       - name: Check conceptual source trajectories
         run: python tools/validate_trajectories.py
+      - name: Validate cumulative organ evidence and phase 16 safeguards
+        run: |
+          python tools/validate_organ_concordance.py 16
+          python tools/validate_organ_phase16.py
       - name: JavaScript syntax
         run: |
           node --check atlas/app.js
@@ -38,3 +42,4 @@ jobs:
           node --check atlas/timeline.js
           node --check atlas/dossiers.js
           node --check atlas/trajectories.js
+          node --check atlas/organs.js
