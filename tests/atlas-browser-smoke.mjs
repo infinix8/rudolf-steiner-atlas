@@ -22,7 +22,7 @@ try {
   await page.goto(root+'/atlas/graph.html',{waitUntil:'networkidle'});
   await page.getByRole('heading',{name:'Follow the evidence between teachings'}).waitFor();
   const initial=await page.locator('#relations tr').count();
-  assert(initial>=179,'expected at least 179 source-linked graph rows, got '+initial);
+  assert(initial>=209,'expected at least 209 source-linked graph rows, got '+initial);
   await page.locator('#family-filter').selectOption('distinction_and_comparison');
   const contrastRows=await page.locator('#relations [data-edge]').count();
   assert(contrastRows>0 && contrastRows<initial,'semantic relation family filter not functional');
@@ -45,7 +45,7 @@ try {
   await page.goto(root+'/atlas/sources.html',{waitUntil:'networkidle'});
   await page.getByRole('heading',{name:'Find the original work behind a concept.'}).waitFor();
   const totalSources=await page.locator('#source-cards article').count();
-  assert(totalSources>=40,'source guide has fewer than 40 original source cards');
+  assert(totalSources>=53,'source guide has fewer than 53 original source cards');
   await page.locator('#filter-domain').selectOption('07');
   const limited=await page.locator('#source-cards article').count();
   assert(limited>0 && limited<totalSources,'source-guide domain filtering failed');
@@ -99,6 +99,20 @@ try {
   assert(await page.locator('.trajectory-card').count()===3,'human constitution comparison missing');
   assert(await page.locator('.trajectory-card time').count()===1,'authored books must not inherit translation edition years');
   assert(await page.locator('.trajectory-card a[href*="rsarchive.org"]').count()===3,'source links missing in comparisons');
+  await page.goto(root+'/atlas/organs.html',{waitUntil:'networkidle'});
+  await page.getByRole('heading',{name:'Find Steiner’s accounts of individual organs.'}).waitFor();
+  const organCount=await page.locator('#organ-nav [data-organ]').count();
+  assert(organCount===26,'expected 26 comparative organ dossiers, found '+organCount);
+  assert(await page.locator('#organ-detail h2').textContent()==='heart','default heart organ dossier not rendered');
+  await page.locator('#organ-query').fill('pituitary');
+  assert(await page.locator('#organ-nav [data-organ]').count()>=1,'organ search does not find pituitary');
+  await page.locator('#organ-reset').click();
+  await page.locator('#organ-nav [data-organ="organ-bladder"]').click();
+  assert((await page.locator('#organ-detail h2').textContent()).includes('bladder'),'bladder case dossier unavailable');
+  assert(await page.locator('#organ-detail a[href*="rsarchive.org"]').count()>0,'selected-only source link missing');
+  assert(await page.locator('#case-summary details').count()===2,'case passage audit or translation discrepancy not rendered');
+  await page.locator('#case-summary details').last().locator('summary').click();
+  assert(await page.locator('#case-summary details').last().locator('article').count()===2,'expected two bilingual numerical discrepancies');
   assert(!errors.length,'console or page errors: '+errors.join('; '));
   console.log(JSON.stringify({ok:true,conceptSearch:true,domainRows,compared,sourceRows,totalRelationships:initial}));
   await page.close();
@@ -118,6 +132,9 @@ try {
   assert(await mobile.locator('#dossier-search').isVisible(),'mobile dossiers search unavailable');
   await mobile.goto(root+'/atlas/trajectories.html',{waitUntil:'networkidle'});
   assert(await mobile.locator('#trajectory-select').isVisible(),'mobile comparison selector unavailable');
+  await mobile.goto(root+'/atlas/organs.html',{waitUntil:'networkidle'});
+  assert(await mobile.locator('#organ-query').isVisible(),'mobile organ search unavailable');
+  assert(await mobile.locator('#organ-nav [data-organ]').count()===26,'mobile organ dossiers not loaded');
   assert(!errors.length,'mobile console or page errors: '+errors.join('; '));
   await mobile.close();
   console.log('PASS: desktop + mobile atlas routes, search, source links, domain/evidence filtering');
