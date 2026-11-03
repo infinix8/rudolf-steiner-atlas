@@ -80,3 +80,7 @@ Open `http://localhost:8000/atlas/organs.html` to browse **29 organ dossiers**, 
 The phase-17 ledger represents **27 completed English source views**, **1 thematic**, **3 selected-only** and **30 unread** of 61 catalogued entries, with **696 numbered English sections** counted across source views. This does not certify a unique event count, complete German collation or independent clinical evidence. The main graph currently contains **218 source-qualified links**, **58 page records** and a transparent history of alternate-version events. Check `tools/validate_organ_concordance.py 17` and `tools/validate_organ_phase16.py`.
 
 The Atlas remains a local, archive-complementing prototype with no original lecture text mirrored and no public deployment.
+
+## Source-page aliases and independent-event cautions
+
+The original-source guide now labels two confirmed shared-lecture groups and shows the relationship of their linked page views. These groups are in `research/known-source-view-aliases-v1.json`, checked by `python tools/validate_source_view_aliases.py`. **A source-page is not necessarily an independent original lecture event.** No total independent-event census has been certified.
