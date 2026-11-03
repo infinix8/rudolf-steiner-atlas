@@ -1,3 +1,10 @@
+## 2026-11-03 — Phase18 GA315 English source completion and current organ Atlas
+
+- Incorporated concurrent six-source GA315 II–VI/VIII English first-pass review and updated Organ Concordance Explorer to **32 organ dossiers**.
+- GA313–317 corpus: **33 completed English-numbered source views**, one thematic, zero selected-only, **27 unread**, **854 numbered source units**, five non-Steiner units in GA315 VI and one separately counted GA317 XI table.
+- Broad Atlas graph now **227 qualified edges / 64 source-page records**, with known event aliases kept separate from the page count.
+- Updated browser tests and integrity checks to consume phase18 while retaining the earlier GA317 VIII RSP translation disagreement as a supplement.
+
 # Phase 18 GA315 English completion
 
 - Complete six remaining GA315 English source views, 158 numbered units; distinguish Husemann tail from Steiner.
