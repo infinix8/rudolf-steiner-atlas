@@ -1,4 +1,22 @@
-# Research continuation checkpoint — phase 16
+# Current organ concordance checkpoint — phase 17
+
+**Updated 3 November 2026.** Read [phase 17 findings](ORGAN_CONCORDANCE_PHASE17_FINDINGS.md), the [v17 61-entry ledger](../research/organ-corpus-ledger-ga313-317-v17.json), the [v17 29 organ dossiers](../research/organ-comparative-dossiers-v17.json), and the [GA317 VIII–XII 151-unit section audit](../research/organ-paragraph-review-ga317-viii-xii-v17.json) before resuming.
+
+**Current verified coverage:** GA317 I–XII now have all English source-view sections reviewed. Across GA313–317: **27 completed numbered English source-view reviews, one thematic, three selected-only and 30 unread**. The cumulative counted numbered-section total is **696**, plus a separately logged unnumbered table in GA317 XI. These are source-view totals, not unique lecture-event counts. GA313 IX and GA315 VII remain confirmed aliases of one event; no complete bilingual, exhaustive atomic, or independent second-review certification exists.
+
+**Next main research batch:** Finish GA315 II–VI and VIII, including re-reviewing the three selected-only source entries before treating them as complete. Then return to GA314/316 gaps while keeping the existing GA313 complete-English work intact. [Tracking issue #14](https://github.com/infinix8/rudolf-steiner-atlas/issues/14) remains the main task.
+
+**Related phase-16 supplement:** The earlier [RSP1972 GA317 VIII selective reading](ORGAN_CONCORDANCE_PHASE16_FINDINGS.md) compared the displayed English and German and recorded **two unresolved numeric birth-weight discrepancies**, 14 thematic passage cards and 10 candidate propositions. Its source event is **the same GA317 VIII lecture** fully reviewed in SOL form in phase 17. Preserve this textual issue register without counting it as a second confirmed lecture or overriding the newer source-view census. The previous phase-16 master ledger is a historical checkpoint, **not** the current count.
+
+**Reader interface:** [Organ Concordance Explorer](../atlas/organs.html) now reads the current v17 dossiers and ledger (29 organ dossiers) and separately displays the phase-16 textual supplement.
+
+**Clinical and ethical boundary:** Historical beliefs about spiritual beings, parent-caused disability, endocrinology, seizures, lead/arsenic/nicotine, and astrological treatment are not medical evidence or guidance. The cumulative concordance is a historical source index, not a diagnostic or prescribing system.
+
+Validate with `python3 tools/validate_organ_concordance.py 17`, `python3 tools/validate_organ_phase16.py` (to protect the preserved supplemental record), and the Atlas/browser checks in GitHub Actions.
+
+---
+
+# Historical checkpoint — phase 16 (superseded by phase 17 above)
 
 Updated **3 November 2026**. The new [phase-16 research findings](ORGAN_CONCORDANCE_PHASE16_FINDINGS.md) and [selected source review](../research/organ-selected-reading-ga317-viii-v16.json) extend the organ evolution research beyond the historical phase-15 checkpoint below.
 
