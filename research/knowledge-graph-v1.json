@@ -1152,6 +1152,120 @@
         "archive_url_checked": true,
         "full_translation_collation": false
       }
+    },
+    {
+      "id": "SG-GA315-19210413",
+      "ga": "315",
+      "work": "Therapeutic Eurythmy",
+      "unit": "Lecture 2",
+      "kind": "recorded_lecture",
+      "edition": "SOL English; German selective checks",
+      "lecture_date": "1921-04-13",
+      "url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210413.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Graph propositions from complete English source-view read; VI Husemann tail excluded.",
+        "checked_on": "2026-11-03",
+        "entire_work_reviewed": false,
+        "archive_url_checked": true,
+        "full_translation_collation": false,
+        "archive_page_opened_on": "2026-11-03"
+      }
+    },
+    {
+      "id": "SG-GA315-19210414",
+      "ga": "315",
+      "work": "Therapeutic Eurythmy",
+      "unit": "Lecture 3",
+      "kind": "recorded_lecture",
+      "edition": "SOL English; German selective checks",
+      "lecture_date": "1921-04-14",
+      "url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210414.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Graph propositions from complete English source-view read; VI Husemann tail excluded.",
+        "checked_on": "2026-11-03",
+        "entire_work_reviewed": false,
+        "archive_url_checked": true,
+        "full_translation_collation": false,
+        "archive_page_opened_on": "2026-11-03"
+      }
+    },
+    {
+      "id": "SG-GA315-19210415",
+      "ga": "315",
+      "work": "Therapeutic Eurythmy",
+      "unit": "Lecture 4",
+      "kind": "recorded_lecture",
+      "edition": "SOL English; German selective checks",
+      "lecture_date": "1921-04-15",
+      "url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210415.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Graph propositions from complete English source-view read; VI Husemann tail excluded.",
+        "checked_on": "2026-11-03",
+        "entire_work_reviewed": false,
+        "archive_url_checked": true,
+        "full_translation_collation": false,
+        "archive_page_opened_on": "2026-11-03"
+      }
+    },
+    {
+      "id": "SG-GA315-19210416",
+      "ga": "315",
+      "work": "Therapeutic Eurythmy",
+      "unit": "Lecture 5",
+      "kind": "recorded_lecture",
+      "edition": "SOL English; German selective checks",
+      "lecture_date": "1921-04-16",
+      "url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210416.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Graph propositions from complete English source-view read; VI Husemann tail excluded.",
+        "checked_on": "2026-11-03",
+        "entire_work_reviewed": false,
+        "archive_url_checked": true,
+        "full_translation_collation": false,
+        "archive_page_opened_on": "2026-11-03"
+      }
+    },
+    {
+      "id": "SG-GA315-19210417",
+      "ga": "315",
+      "work": "Therapeutic Eurythmy",
+      "unit": "Lecture 6",
+      "kind": "recorded_lecture",
+      "edition": "SOL English; German selective checks",
+      "lecture_date": "1921-04-17",
+      "url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210417.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Graph propositions from complete English source-view read; VI Husemann tail excluded.",
+        "checked_on": "2026-11-03",
+        "entire_work_reviewed": false,
+        "archive_url_checked": true,
+        "full_translation_collation": false,
+        "archive_page_opened_on": "2026-11-03"
+      }
+    },
+    {
+      "id": "SG-GA315-19221028",
+      "ga": "315",
+      "work": "Therapeutic Eurythmy",
+      "unit": "Lecture 8",
+      "kind": "recorded_lecture",
+      "edition": "SOL English; German selective checks",
+      "lecture_date": "1922-10-28",
+      "url": "https://rsarchive.org/Lectures/GA315/English/SOL/19221028.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Graph propositions from complete English source-view read; VI Husemann tail excluded.",
+        "checked_on": "2026-11-03",
+        "entire_work_reviewed": false,
+        "archive_url_checked": true,
+        "full_translation_collation": false,
+        "archive_page_opened_on": "2026-11-03"
+      }
     }
   ],
   "edges": [
@@ -4894,6 +5008,159 @@
       ],
       "claim": "Young I and repeatedly transformed bodies contextualize educator meditation.",
       "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-219",
+      "from": "RS-18.02",
+      "to": "RS-12.04.01",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA315-19210414",
+          "passage_locator": "§§20–24"
+        }
+      ],
+      "claim": "Head lunar form, speech localization and eurythmic redistribution; not named hierarchy construction.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-220",
+      "from": "RS-18.02",
+      "to": "RS-09.01.02",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA315-19210415",
+          "passage_locator": "§17"
+        }
+      ],
+      "claim": "Physical intestinal and allegedly opposite etheric currents distinguished.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-221",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA315-19210416",
+          "passage_locator": "§§1–4"
+        }
+      ],
+      "claim": "Judgment/feeling differentiated by relative I activity and warmth, not merely circulatory speed.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-222",
+      "from": "RS-18.02",
+      "to": "RS-11.05.05",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA315-19210417",
+          "passage_locator": "§5"
+        }
+      ],
+      "claim": "Child growth forces differentiated from adult organ plasticity.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-223",
+      "from": "RS-18.02",
+      "to": "RS-09.01.02",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA315-19210417",
+          "passage_locator": "§13"
+        }
+      ],
+      "claim": "Artificial metabolic-limb sleep passage retains ordinary-sleep stenographic ambiguity.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-224",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA315-19210417",
+          "passage_locator": "§§17–18"
+        }
+      ],
+      "claim": "Inner circulatory will and moralized organ shapes are attributed claims, not anatomy.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-225",
+      "from": "RS-18.02",
+      "to": "RS-09.02.05",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA315-19221028",
+          "passage_locator": "§10"
+        }
+      ],
+      "claim": "Cardiopulmonary/kidney interaction and per-organ polarity indexed separately.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-226",
+      "from": "RS-18.02",
+      "to": "RS-11.05.05",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA315-19221028",
+          "passage_locator": "§19"
+        }
+      ],
+      "claim": "Fracture/carcinoma limits qualify therapeutic harmonization; soul-only organ denial context bounded.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-227",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA315-19210413",
+          "passage_locator": "§18"
+        }
+      ],
+      "claim": "Five vowel/member correspondences distinguished; I is also a vowel label and must not always be read as the I organization.",
+      "relation_family": "attributed_process_and_causation"
     }
   ],
   "version": "1.1",
@@ -4939,6 +5206,12 @@
     "English_source_views": 5,
     "numbered_sections": 150,
     "supplemental_tables": 1,
+    "edges_added": 9
+  },
+  "organ_concordance_phase18": {
+    "English_source_views": 6,
+    "numbered_units": 158,
+    "non_Steiner_units": 5,
     "edges_added": 9
   }
 }

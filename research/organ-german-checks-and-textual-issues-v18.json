@@ -1,0 +1,187 @@
+{
+  "schema_version": "1.2",
+  "as_of": "2026-11-03",
+  "scope": "11 selective entries across six German comparison views; no complete bilingual collation.",
+  "checks": [
+    {
+      "id": "GER-V18-01",
+      "ga": 315,
+      "lecture": 2,
+      "passage_cue": "§§18–20",
+      "terms": [
+        "Ätherleib",
+        "Gaumenlaute"
+      ],
+      "finding": "Five vowels separately indexed; labial/lingual benefit distinguished from weaker palatal applicability.",
+      "source_url": "https://rsarchive.org/Lectures/GA315/Compare_02.php",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V18-02",
+      "ga": 315,
+      "lecture": 3,
+      "passage_cue": "§§21–24",
+      "terms": [
+        "motorischen Nerven",
+        "Rückenmarks"
+      ],
+      "finding": "E self-contact and neural pattern are original claims; denial of motor-nerve distinction is not a translation accident.",
+      "source_url": "https://rsarchive.org/Lectures/GA315/Compare_03.php",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V18-03",
+      "ga": 315,
+      "lecture": 4,
+      "passage_cue": "§6",
+      "terms": [
+        "Psychisches",
+        "Harnentleerung"
+      ],
+      "finding": "German itself says Psychisches; do not silently emend English psychological to physiological.",
+      "source_url": "https://rsarchive.org/Lectures/GA315/Compare_04.php",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V18-04",
+      "ga": 315,
+      "lecture": 4,
+      "passage_cue": "§17",
+      "terms": [
+        "von vorne nach rückwärts",
+        "von rückwärts nach vorne"
+      ],
+      "finding": "Opposed physical/etheric bowel directions confirmed; neither is established physiological evidence.",
+      "source_url": "https://rsarchive.org/Lectures/GA315/Compare_04.php",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V18-05",
+      "ga": 315,
+      "lecture": 5,
+      "passage_cue": "§23",
+      "terms": [
+        "Polarität",
+        "Rechtsbetonung"
+      ],
+      "finding": "Upper/lower metrical reversal is polarity, not same-direction copying; explicitly denies prescribing right emphasis for left-handed people.",
+      "source_url": "https://rsarchive.org/Lectures/GA315/Compare_05.php",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V18-06",
+      "ga": 315,
+      "lecture": 5,
+      "passage_cue": "§§26–27",
+      "terms": [
+        "typhösen",
+        "sieben Wochen"
+      ],
+      "finding": "Uncertain typhoid/diffuse transcript term and gap preserved; two/three-day reassessment is not claimed major therapeutic effect, which is assigned at least seven weeks.",
+      "source_url": "https://rsarchive.org/Lectures/GA315/Compare_05.php",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V18-07",
+      "ga": 315,
+      "lecture": 6,
+      "passage_cue": "§§3–6",
+      "terms": [
+        "Wachstums",
+        "plastischen Kräften"
+      ],
+      "finding": "Listening/partial sleep, child growth and adult plastic organ forces differentiated.",
+      "source_url": "https://rsarchive.org/Lectures/GA315/Compare_06.php",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V18-08",
+      "ga": 315,
+      "lecture": 6,
+      "passage_cue": "§13",
+      "terms": [
+        "wie im",
+        "beim"
+      ],
+      "finding": "Ordinary-sleep comparison is problematic in German too; editorial stenographic uncertainty remains unresolved. Do not harmonize to other sleep accounts.",
+      "source_url": "https://rsarchive.org/Lectures/GA315/Compare_06.php",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V18-09",
+      "ga": 315,
+      "lecture": 6,
+      "passage_cue": "§§17–18",
+      "terms": [
+        "Gewebeflüssigkeit",
+        "Kristallisationsprozessen"
+      ],
+      "finding": "Inner will attached to fluid/circulatory transition; angular/rounded organ forms moralized in original.",
+      "source_url": "https://rsarchive.org/Lectures/GA315/Compare_06.php",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V18-10",
+      "ga": 315,
+      "lecture": 8,
+      "passage_cue": "§§9–11",
+      "terms": [
+        "Nierenaffektion",
+        "zentripetal"
+      ],
+      "finding": "A/S transcript variant in kidney discussion; per-organ centrifugal/near-centripetal account distinct from global head/limb polarity.",
+      "source_url": "https://rsarchive.org/Lectures/GA315/Compare_08.php",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V18-11",
+      "ga": 315,
+      "lecture": 8,
+      "passage_cue": "§19",
+      "terms": [
+        "besondere seelische Organe"
+      ],
+      "finding": "Denial of special soul-only organs bounded by present organic-function discussion; not a corpus-wide denial of supersensible perceptive development.",
+      "source_url": "https://rsarchive.org/Lectures/GA315/Compare_08.php",
+      "status": "German_spot_checked"
+    }
+  ],
+  "unresolved": [
+    {
+      "id": "TXT-V18-01",
+      "catalogue_entry_id": "GA315-06",
+      "passage_cue": "§25 and §§26–29",
+      "issue": "Heading and Husemann remarks excluded from Steiner claim extraction."
+    },
+    {
+      "id": "TXT-V18-02",
+      "catalogue_entry_id": "GA315-06",
+      "passage_cue": "§13",
+      "issue": "I/astral retention in artificial sleep and comparison with ordinary sleep; German editorial ambiguity persists."
+    },
+    {
+      "id": "TXT-V18-03",
+      "catalogue_entry_id": "GA315-04",
+      "passage_cue": "§§15,18",
+      "issue": "Stenographic gaps/letter alternatives prevent silently treating all printed sequences as stable prescriptions."
+    },
+    {
+      "id": "TXT-V18-04",
+      "catalogue_entry_id": "GA315-05",
+      "passage_cue": "§§21–23",
+      "issue": "Question invokes thyroid and laterality; do not convert question content into Steiner endorsement of thyroid causation."
+    },
+    {
+      "id": "TXT-V18-05",
+      "catalogue_entry_id": "GA315-08",
+      "passage_cue": "§9",
+      "issue": "Kidney letter A has S alternative in another transcript; no silent resolution."
+    },
+    {
+      "id": "TXT-V18-06",
+      "catalogue_entry_id": "GA315-08",
+      "passage_cue": "§19",
+      "issue": "No soul-only organ statement requires functional context; compare future organ/spiritual-perception sources before universalizing."
+    }
+  ]
+}

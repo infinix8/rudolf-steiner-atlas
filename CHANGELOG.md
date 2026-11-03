@@ -1,3 +1,9 @@
+# Phase 18 GA315 English completion
+
+- Complete six remaining GA315 English source views, 158 numbered units; distinguish Husemann tail from Steiner.
+- Add 90 selected propositions, 11 German checks, 32 cumulative dossiers and nine typed graph links.
+- Corpus now 33 complete English views, one thematic, 27 unread; no complete bilingual/exhaustive audit claimed.
+
 # 2026-11-03 — Phase 17: finish GA317 English first pass
 
 - Read VIII–XII in full: 150 numbered sections plus one unnumbered XI table; all 12 GA317 views now English-complete.
