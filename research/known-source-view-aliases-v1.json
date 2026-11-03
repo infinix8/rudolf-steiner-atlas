@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "updated": "2026-11-03",
+  "scope": "Only known, document-supported duplicate source-page views within the current Atlas graph. Absence from this file does not establish that a source is a distinct original event.",
+  "events": [
+    {
+      "id": "EV-19210418-DORNACH-AFTERNOON",
+      "date": "1921-04-18",
+      "event_kind": "recorded_lecture",
+      "status": "same_event_confirmed",
+      "name": "Medical-eurythmy continuation, afternoon",
+      "source_ids": [
+        "SG-GA313-19210418P",
+        "SG-GA315-19210418"
+      ],
+      "evidence": "Prior organ event-alias registry has a 28-row GA315 VII to GA313 IX section correspondence, opening/closing continuity and catalogue comparison.",
+      "canonical_research_record": "research/organ-source-event-aliases-v14.json",
+      "caution": "GA313 VIII, the separate MORNING session, must NOT be joined with this afternoon event."
+    },
+    {
+      "id": "EV-19240703-DORNACH-CURATIVE-EDUCATION",
+      "date": "1924-07-03",
+      "event_kind": "recorded_lecture",
+      "status": "same_event_confirmed",
+      "name": "Curative Education lecture VIII",
+      "source_ids": [
+        "SG-GA317-19240703",
+        "SG-GA317-19240703-SOL"
+      ],
+      "evidence": "RSP1972 Mary Adams and SOL English views describe the same lecture VIII on 3 July 1924; phase17 full English-numbered source view and phase16 selective translation comparison are independent editorial reviews of one event, not two lectures.",
+      "canonical_research_record": "docs/ORGAN_CONCORDANCE_PHASE17_FINDINGS.md",
+      "caution": "Only SOL source view counts toward full numbered English source-view review; RSP1972 selected notes remain a source-critical supplement."
+    }
+  ],
+  "metrics": {
+    "known_duplicate_view_groups": 2,
+    "known_source_ids_in_groups": 4
+  },
+  "policy": "The event registry is intentionally partial: sources outside listed groups are not certified unique. Do not subtract these from total source pages to declare an exhaustive independent-event census. Preserve source-specific citations and translations on every graph edge."
+}
