@@ -1,0 +1,347 @@
+{
+  "schema_version": "1.0",
+  "as_of": "2026-11-03",
+  "scope": "GA317 Lecture VIII RSP1972 selected-passage study; not the numbered SOL English source-view census. Source HTML includes English, German and automated display; do not count different renderings as different lectures.",
+  "source": {
+    "ga": 317,
+    "date": "1924-07-03",
+    "lecture": "VIII",
+    "source_url": "https://rsarchive.org/Lectures/GA317/English/RSP1972/19240703p01.html",
+    "alternate_source_lead": "https://rsarchive.org/Lectures/GA317/English/SOL/19240703.html",
+    "alternate_status": "URL known from catalogue but inaccessible during this iteration; section-by-section SOL concordance remains pending",
+    "translation": "RSP 1972, Mary Adams; based on stenographic notes, not lecturer revised"
+  },
+  "records": [
+    {
+      "id": "ORG-S16-GA317-08-C01",
+      "catalogue_entry_id": "GA317-08",
+      "ga": 317,
+      "date": "1924-07-03",
+      "lecture": "VIII",
+      "paragraph": "opening pictures and hydrocephalus demonstration",
+      "classification": "reported_case_observation",
+      "summary": "Three child demonstrations are introduced; the hydrocephalus case is described with serial head measurements and only general light perception.",
+      "organ_terms": [
+        "head",
+        "brain",
+        "eyes"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/RSP1972/19240703p01.html",
+      "scope": "selected English 1972 passages reviewed in context; paragraph located by topic cue in unnumbered RSP1972 layout",
+      "evidence_state": "selected_passage_only",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "two selected numerical and terminology comparisons only",
+      "editorial_caution": "reported measurements and perceptions; no independent patient-record verification"
+    },
+    {
+      "id": "ORG-S16-GA317-08-C02",
+      "catalogue_entry_id": "GA317-08",
+      "ga": 317,
+      "date": "1924-07-03",
+      "lecture": "VIII",
+      "paragraph": "post-birth breathing, convulsions and developmental narrative",
+      "classification": "reported_history_plus_unverified_mechanism",
+      "summary": "The reported history includes respiratory transition, an early convulsion and progressive head enlargement; Steiner then posits difficulty of I and astral organization entering bodily members.",
+      "organ_terms": [
+        "lungs",
+        "head",
+        "brain"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/RSP1972/19240703p01.html",
+      "scope": "selected English 1972 passages reviewed in context; paragraph located by topic cue in unnumbered RSP1972 layout",
+      "evidence_state": "selected_passage_only",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "two selected numerical and terminology comparisons only",
+      "editorial_caution": "The medical observations and purported cause are different evidential categories"
+    },
+    {
+      "id": "ORG-S16-GA317-08-C03",
+      "catalogue_entry_id": "GA317-08",
+      "ga": 317,
+      "date": "1924-07-03",
+      "lecture": "VIII",
+      "paragraph": "mother's astral body and immature I interpretation",
+      "classification": "metaphysical_causal_conjecture",
+      "summary": "Steiner interprets the child's condition through supposed resemblance to the mother's astral body and arrested prenatal I-organization.",
+      "organ_terms": [
+        "head",
+        "uterus"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/RSP1972/19240703p01.html",
+      "scope": "selected English 1972 passages reviewed in context; paragraph located by topic cue in unnumbered RSP1972 layout",
+      "evidence_state": "selected_passage_only",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "two selected numerical and terminology comparisons only",
+      "editorial_caution": "Unverified metaphysical attribution; do not interpret as parental causation"
+    },
+    {
+      "id": "ORG-S16-GA317-08-C04",
+      "catalogue_entry_id": "GA317-08",
+      "ga": 317,
+      "date": "1924-07-03",
+      "lecture": "VIII",
+      "paragraph": "womb, cosmic head formation and metabolism-limbs",
+      "classification": "speculative_cosmic_embryology",
+      "summary": "The womb is said to shield head formation from earthly influences while cosmic forces dominate, in contrast to later metabolic-limb development.",
+      "organ_terms": [
+        "uterus",
+        "head",
+        "limbs",
+        "lungs"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/RSP1972/19240703p01.html",
+      "scope": "selected English 1972 passages reviewed in context; paragraph located by topic cue in unnumbered RSP1972 layout",
+      "evidence_state": "selected_passage_only",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "two selected numerical and terminology comparisons only",
+      "editorial_caution": "Not modern embryology; quotation or diagram should carry attributed historical context"
+    },
+    {
+      "id": "ORG-S16-GA317-08-C05",
+      "catalogue_entry_id": "GA317-08",
+      "ga": 317,
+      "date": "1924-07-03",
+      "lecture": "VIII",
+      "paragraph": "maternal feeling and father's heart condition",
+      "classification": "unsafe_family_causation",
+      "summary": "Steiner treats the father's heart illness and the mother's prenatal feelings as factors in an asserted head/limb hereditary imbalance.",
+      "organ_terms": [
+        "heart",
+        "limbs",
+        "joints",
+        "uterus"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/RSP1972/19240703p01.html",
+      "scope": "selected English 1972 passages reviewed in context; paragraph located by topic cue in unnumbered RSP1972 layout",
+      "evidence_state": "selected_passage_only",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "two selected numerical and terminology comparisons only",
+      "editorial_caution": "No evidential support for blaming parents for hydrocephalus or disability; historically stigmatizing"
+    },
+    {
+      "id": "ORG-S16-GA317-08-C06",
+      "catalogue_entry_id": "GA317-08",
+      "ga": 317,
+      "date": "1924-07-03",
+      "lecture": "VIII",
+      "paragraph": "retained earlier developmental phase across stages",
+      "classification": "developmental_generalization",
+      "summary": "The hydrocephalus case is used as an extreme illustrative model for the claim that earlier developmental stages may persist into later ones.",
+      "organ_terms": [
+        "head",
+        "limbs"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/RSP1972/19240703p01.html",
+      "scope": "selected English 1972 passages reviewed in context; paragraph located by topic cue in unnumbered RSP1972 layout",
+      "evidence_state": "selected_passage_only",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "two selected numerical and terminology comparisons only",
+      "editorial_caution": "Do not generalize from a single historical case to children's developmental diagnoses"
+    },
+    {
+      "id": "ORG-S16-GA317-08-C07",
+      "catalogue_entry_id": "GA317-08",
+      "ga": 317,
+      "date": "1924-07-03",
+      "lecture": "VIII",
+      "paragraph": "second case: reported stealing and claimed consciousness isolation",
+      "classification": "reported_history_and_soul_interpretation",
+      "summary": "An otherwise sociable child is described through reported stealing; Steiner hypothesizes a compartmentalized consciousness accompanying the actions.",
+      "organ_terms": [
+        "brain",
+        "head"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/RSP1972/19240703p01.html",
+      "scope": "selected English 1972 passages reviewed in context; paragraph located by topic cue in unnumbered RSP1972 layout",
+      "evidence_state": "selected_passage_only",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "two selected numerical and terminology comparisons only",
+      "editorial_caution": "Avoid labeling a child clinically from historic secondhand anecdotes"
+    },
+    {
+      "id": "ORG-S16-GA317-08-C08",
+      "catalogue_entry_id": "GA317-08",
+      "ga": 317,
+      "date": "1924-07-03",
+      "lecture": "VIII",
+      "paragraph": "second case: head shape and supposed astral organ regions",
+      "classification": "metaphysical_organ_conjecture",
+      "summary": "Steiner relates observed temple and posterior-head shape to a supposed left-sided organization of astral organ-parties.",
+      "organ_terms": [
+        "head",
+        "brain"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/RSP1972/19240703p01.html",
+      "scope": "selected English 1972 passages reviewed in context; paragraph located by topic cue in unnumbered RSP1972 layout",
+      "evidence_state": "selected_passage_only",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "two selected numerical and terminology comparisons only",
+      "editorial_caution": "Astral-organ inference is not a verified neurological assessment"
+    },
+    {
+      "id": "ORG-S16-GA317-08-C09",
+      "catalogue_entry_id": "GA317-08",
+      "ga": 317,
+      "date": "1924-07-03",
+      "lecture": "VIII",
+      "paragraph": "third case: diurnal continence and reported history",
+      "classification": "reported_case_observation",
+      "summary": "The third child's history contrasts daytime wetting with nighttime continence and includes later fever, measles and appetite observations.",
+      "organ_terms": [
+        "bladder",
+        "metabolism"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/RSP1972/19240703p01.html",
+      "scope": "selected English 1972 passages reviewed in context; paragraph located by topic cue in unnumbered RSP1972 layout",
+      "evidence_state": "selected_passage_only",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "two selected numerical and terminology comparisons only",
+      "editorial_caution": "No diagnosis, causal inference or treatment outcome is established"
+    },
+    {
+      "id": "ORG-S16-GA317-08-C10",
+      "catalogue_entry_id": "GA317-08",
+      "ga": 317,
+      "date": "1924-07-03",
+      "lecture": "VIII",
+      "paragraph": "astral activity as explanation for daytime bladder symptoms",
+      "classification": "speculative_causal_attribution",
+      "summary": "Steiner attributes the reported daytime-only wetting to astral participation during waking.",
+      "organ_terms": [
+        "bladder",
+        "astral organization"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/RSP1972/19240703p01.html",
+      "scope": "selected English 1972 passages reviewed in context; paragraph located by topic cue in unnumbered RSP1972 layout",
+      "evidence_state": "selected_passage_only",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "two selected numerical and terminology comparisons only",
+      "editorial_caution": "Not a medically verified mechanism of incontinence"
+    },
+    {
+      "id": "ORG-S16-GA317-08-C11",
+      "catalogue_entry_id": "GA317-08",
+      "ga": 317,
+      "date": "1924-07-03",
+      "lecture": "VIII",
+      "paragraph": "limb nourishment through breathing and sensory activity",
+      "classification": "speculative_physiology",
+      "summary": "The lecture asserts that limb substance comes from cosmic activity through breathing and sense processes rather than directly from food.",
+      "organ_terms": [
+        "limbs",
+        "head",
+        "lungs",
+        "nutrition"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/RSP1972/19240703p01.html",
+      "scope": "selected English 1972 passages reviewed in context; paragraph located by topic cue in unnumbered RSP1972 layout",
+      "evidence_state": "selected_passage_only",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "two selected numerical and terminology comparisons only",
+      "editorial_caution": "Contradicts modern physiological nutrition; present only as Steiner's assertion"
+    },
+    {
+      "id": "ORG-S16-GA317-08-C12",
+      "catalogue_entry_id": "GA317-08",
+      "ga": 317,
+      "date": "1924-07-03",
+      "lecture": "VIII",
+      "paragraph": "imagination from limbs contrasted with head",
+      "classification": "metaphysical_soul_physiology",
+      "summary": "The third child's lively imaginative activity is attributed to a strong limb system and comparatively weak head system.",
+      "organ_terms": [
+        "limbs",
+        "head",
+        "brain"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/RSP1972/19240703p01.html",
+      "scope": "selected English 1972 passages reviewed in context; paragraph located by topic cue in unnumbered RSP1972 layout",
+      "evidence_state": "selected_passage_only",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "two selected numerical and terminology comparisons only",
+      "editorial_caution": "Does not establish an anatomical source of thought or imagination"
+    },
+    {
+      "id": "ORG-S16-GA317-08-C13",
+      "catalogue_entry_id": "GA317-08",
+      "ga": 317,
+      "date": "1924-07-03",
+      "lecture": "VIII",
+      "paragraph": "dream timing: falling asleep versus waking up",
+      "classification": "proposed_future_observation",
+      "summary": "Steiner proposes examining whether dreams appear at sleep onset or waking, explicitly saying the latter have not yet been observed in this case.",
+      "organ_terms": [
+        "sleep",
+        "brain",
+        "consciousness"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/RSP1972/19240703p01.html",
+      "scope": "selected English 1972 passages reviewed in context; paragraph located by topic cue in unnumbered RSP1972 layout",
+      "evidence_state": "selected_passage_only",
+      "zero_new_organ_specific_claim": false,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "two selected numerical and terminology comparisons only",
+      "editorial_caution": "An intended observation is not a reported outcome; no dream result was established"
+    },
+    {
+      "id": "ORG-S16-GA317-08-C14",
+      "catalogue_entry_id": "GA317-08",
+      "ga": 317,
+      "date": "1924-07-03",
+      "lecture": "VIII",
+      "paragraph": "postponement of therapeutic discussion until following day",
+      "classification": "lecture_scope_boundary",
+      "summary": "The lecture closes by deferring treatment proposals to the following lecture; its case descriptions should not be catalogued as treatments performed.",
+      "organ_terms": [
+        "education",
+        "therapy"
+      ],
+      "source_url": "https://rsarchive.org/Lectures/GA317/English/RSP1972/19240703p01.html",
+      "scope": "selected English 1972 passages reviewed in context; paragraph located by topic cue in unnumbered RSP1972 layout",
+      "evidence_state": "selected_passage_only",
+      "zero_new_organ_specific_claim": true,
+      "exhaustive_atomic_claims": false,
+      "german_collation": "two selected numerical and terminology comparisons only",
+      "editorial_caution": "Do not infer therapeutic effect or completion of care from this lecture"
+    }
+  ],
+  "textual_issues": [
+    {
+      "id": "ORG-TRANSLATION-V16-01",
+      "cue": "hydrocephalus case birth weight",
+      "english_1972_rendering": "five and three-quarter pounds (5¾ lb)",
+      "german_record": "fünfeinviertel Pfund (five and one-quarter pounds, 5¼ lb)",
+      "source_locator": "English hydrocephalus case history; German Achter Vortrag, birth paragraph",
+      "status": "confirmed_difference_in_online_display; original edition collation pending",
+      "warning": "Do not normalize a quantitative clinical datum without discussing the discrepancy; unit convention also requires historical verification."
+    },
+    {
+      "id": "ORG-TRANSLATION-V16-02",
+      "cue": "third child's birth weight",
+      "english_1972_rendering": "a little under four and a quarter pounds",
+      "german_record": "nicht ganz vier Pfund (a little under four pounds)",
+      "source_locator": "English third case, birth history; German final third-child account",
+      "status": "confirmed_difference_in_online_display; original edition collation pending",
+      "warning": "This is a different child; do not merge or confuse case histories."
+    }
+  ],
+  "safeguards": [
+    "Case measurements are reports within historical notes; do not claim external chart confirmation.",
+    "No spiritual/astral or parental-causation hypothesis is clinically verified.",
+    "No efficacy of a remedy is shown in Lecture VIII; discussion is explicitly deferred.",
+    "Do not reproduce the source lecture in the atlas.",
+    "Dated original lecture event is one source; English, German and automated renderings are not independent corroborations."
+  ]
+}
