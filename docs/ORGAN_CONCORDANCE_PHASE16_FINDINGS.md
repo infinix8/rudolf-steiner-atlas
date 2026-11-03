@@ -3,6 +3,8 @@
 **Research date:** 3 November 2026.  
 **Source used:** [GA 317, Lecture VIII, *Curative Education*, Mary Adams translation, RSP 1972](https://rsarchive.org/Lectures/GA317/English/RSP1972/19240703p01.html). The site displays German alongside English and also exposes a separate English rendering. **This is one original lecture event**, not three independent confirmations.
 
+> **Subsequent source-review update (3 November 2026):** [Phase 17](ORGAN_CONCORDANCE_PHASE17_FINDINGS.md) has now completed the numbered English SOL GA317 VIII–XII source-view reviews. This phase-16 RSP1972 reading is retained **only as an edition-comparison and selected-claim supplement**, not an additional original lecture event. The next incomplete source set is GA315 II–VI/VIII, not GA317 VIII–XII. Read the [current checkpoint](ORGAN_CONCORDANCE_RESUME.md) for live counts.
+
 ## What was actually accomplished
 
 This iteration inspected an alternative English source view in relevant passages, registering **14 thematic passage cards** and **10 narrow candidate propositions**, with **two unresolved numerical translation/display differences**. This is not a completed numbered-section audit of the other SOL English page; its full bilingual review and exhaustive atomic extraction remain pending.
