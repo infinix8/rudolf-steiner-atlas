@@ -81,3 +81,9 @@ This integration deliberately preserves the newer v17 as the current baseline an
 6. Perform additional independent review and a real accessibility audit before any public hosting.
 
 **Completeness boundary:** This is a significant, verifiable development iteration, not a complete concordance of Steiner's thousands of lectures. No automated background work is promised or implied.
+
+## Additional research-integrity improvement: identify duplicate source views
+
+After the organ reader was integrated, the primary-source guide gained a [partial source-view identity registry](../research/known-source-view-aliases-v1.json). Its **two confirmed event groups** label two pairs of web pages as alternate views of one original lecture: GA313 IX / GA315 VII (18 April 1921 afternoon) and RSP1972 / SOL of GA317 VIII (3 July 1924). The guide displays a clear warning and retains both original source links. The source-event validator and Chromium tests check this functionality.
+
+The registry deliberately **does not** declare the remaining source-page records unique. The Atlas keeps a source-page count, a source-view coverage count, and a confirmed alias-event record as different metrics. This prevents double-counting a source re-edition as independent spiritual-scientific corroboration.
