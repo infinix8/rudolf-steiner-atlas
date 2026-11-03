@@ -133,3 +133,7 @@ Current coverage: 16 complete English numbered-section lecture reviews, 1 additi
 - [Current integration report](docs/ITERATION_2026-11-03_ORGAN_INTEGRATION.md) and [live resume checkpoint](docs/ORGAN_CONCORDANCE_RESUME.md).
 
 All attributed spiritual, therapeutic, biological and parental-causation claims are historical material, not established medical science or individualized treatment guidance.
+
+### Source-view identity (important for research accuracy)
+
+The [Source Guide](atlas/sources.html) now identifies **two confirmed groups of alternate views of one original lecture**. The [partial event registry](research/known-source-view-aliases-v1.json) identifies the shared **GA313 IX / GA315 VII** afternoon event and the shared **GA317 VIII RSP1972 / SOL** event. The 58 source-page records are *not* an independently verified count of distinct original lectures. The remaining pages have not all been checked for identity overlap; do not subtract two duplicates and call the result a complete event census. [The original source-event crosswalk](research/organ-source-event-aliases-v14.json) retains detailed section alignment for the first group.
