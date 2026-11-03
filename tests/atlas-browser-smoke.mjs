@@ -46,6 +46,14 @@ try {
   await page.getByRole('heading',{name:'Find the original work behind a concept.'}).waitFor();
   const totalSources=await page.locator('#source-cards article').count();
   assert(totalSources>=58,'source guide has fewer than 58 original source cards');
+  await page.locator('#filter-text').fill('GA 317');
+  const confirmed = await page.locator('#source-cards article').filter({hasText:'Lecture VIII'}).count();
+  assert(confirmed>=1,'source search for GA317 VIII not working');
+  await page.locator('#filter-text').fill('1924-07-03');
+  assert(await page.locator('#source-cards article').count()>=2,'alternate GA317 VIII source views not both visible');
+  assert(await page.locator('#source-cards article').filter({hasText:'Alternate view of one known lecture event:'}).count()>=2,
+    'shared source-event warning missing');
+  await page.locator('#reset').click();
   await page.locator('#filter-domain').selectOption('07');
   const limited=await page.locator('#source-cards article').count();
   assert(limited>0 && limited<totalSources,'source-guide domain filtering failed');
