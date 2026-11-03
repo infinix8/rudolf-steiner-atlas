@@ -2,10 +2,9 @@
 
 Generated from local, original Atlas records; no external documents accessed.
 
-- **202 passage-qualified relationships**; **52 original source pages**.
-- **100 direct cross-domain graph connections**.
-- **4 of 30 initial crosslinks** directly matched; **23** still have no matching exact-endpoint source evidence.
-- Source pages include alternate views of shared lecture events (GA313 IX / GA315 VII); page counts are not independent-event counts.
+- **209 passage-qualified relationships**; **53 original source pages**.
+- **105 direct cross-domain graph connections**.
+- **4 of 30 initial crosslinks** directly matched; **22** still have no matching exact-endpoint source evidence.
 - Source verification means **selected passages were checked**, not that full books were reviewed.
 
 ## Related nodes by domain
@@ -19,17 +18,17 @@ Generated from local, original Atlas records; no external documents accessed.
 | 05 | Spiritual Worlds, Hierarchies, and Beings | 16 |
 | 06 | Cosmic Genesis, Earth Evolution, and the Future | 19 |
 | 07 | Nature Kingdoms, Elemental Beings, and the Living Earth | 22 |
-| 08 | Karma, Reincarnation, Death, and Spiritual Destiny | 20 |
-| 09 | Human Constitution: Body, Soul, and Spirit | 36 |
-| 10 | Soul Life, Consciousness, Senses, and Psychology | 12 |
-| 11 | Life Course, Human Relations, and Embodied Biography | 10 |
+| 08 | Karma, Reincarnation, Death, and Spiritual Destiny | 21 |
+| 09 | Human Constitution: Body, Soul, and Spirit | 38 |
+| 10 | Soul Life, Consciousness, Senses, and Psychology | 13 |
+| 11 | Life Course, Human Relations, and Embodied Biography | 11 |
 | 12 | Human Evolution and the Future of Consciousness | 6 |
 | 13 | Christology, Jesus, and the Mystery of Golgotha | 6 |
 | 14 | Religions, Ancient Mysteries, Scriptures, and Mythology | 4 |
 | 15 | Human History, Cultural Epochs, Peoples, and Civilizations | 4 |
 | 16 | Michael, Lucifer, Ahriman, and Spiritual Opposition | 4 |
 | 17 | Natural Sciences, Mathematics, Astronomy, and Technology | 6 |
-| 18 | Medicine, Therapeutics, Health, and Remedial Care | 25 |
+| 18 | Medicine, Therapeutics, Health, and Remedial Care | 32 |
 | 19 | Education, Waldorf Pedagogy, and Child Development | 13 |
 | 20 | Agriculture, Food, Nutrition, and Ecological Life | 9 |
 | 21 | Social Threefolding, Economics, Law, and Political Life | 7 |
@@ -95,6 +94,7 @@ Generated from local, original Atlas records; no external documents accessed.
 | [SG-GA315-19210418](https://rsarchive.org/Lectures/GA315/English/SOL/19210418.html) | GA 315 — Therapeutic Eurythmy | 1 |
 | [SG-GA317-19240701](https://rsarchive.org/Lectures/GA317/English/SOL/19240701.html) | GA 317 — Remedial Education Course | 2 |
 | [SG-GA317-19240702](https://rsarchive.org/Lectures/GA317/English/SOL/19240702.html) | GA 317 — Remedial Education Course | 2 |
+| [SG-GA317-19240703](https://rsarchive.org/Lectures/GA317/English/RSP1972/19240703p01.html) | GA 317 — Curative Education | 7 |
 
 ## Audit boundaries
 
