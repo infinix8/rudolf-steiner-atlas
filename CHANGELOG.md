@@ -89,6 +89,12 @@
 
 # Changelog
 
+## 2026-11-03 — Confirmed duplicate-source-view navigation
+
+- Added explicit shared lecture-event registry for GA313 IX / GA315 VII and RSP1972 / SOL GA317 VIII.
+- Exposed source-view alias annotations in the original source guide, without falsely certifying a global independent-event count.
+- Added source-alias integrity checks, source-guide Chromium tests and translation-collation issue #15.
+
 ## 2026-11-03 — Integrate organ concordance, multilingual source criticism and phase 17 research
 
 - Added a fully linked [Organ Concordance Explorer](atlas/organs.html) with 29 organ dossiers, source-text outgoing links, filters, versioned claim annotations and historical-medical safeguards.
