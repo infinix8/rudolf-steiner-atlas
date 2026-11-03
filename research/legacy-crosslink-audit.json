@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "generated": "2026-11-02",
+  "generated": "2026-11-03",
   "purpose": "Status audit of the 30 old hypothesis-only crosslinks; never promote by similarity alone.",
   "counts": {
     "original": 30,
     "exact": 4,
-    "partial": 3,
-    "not_evidenced": 23
+    "partial": 4,
+    "not_evidenced": 22
   },
   "relations": [
     {
@@ -202,9 +202,12 @@
       "from": "RS-18.06",
       "to": "RS-19.06",
       "previous_description": "remedial education and pedagogy",
-      "review_status": "not_yet_evidenced",
-      "candidate_graph_edges": [],
-      "caveat": "The legacy relationship remains a provisional editorial navigation suggestion, not an established Steiner relation."
+      "review_status": "related_descendant_evidence_not_sufficient",
+      "candidate_graph_edges": [
+        "KG-191",
+        "KG-202"
+      ],
+      "caveat": "At least one related descendant link is supported by a checked passage, but the full broad crosslink has NOT been verified."
     },
     {
       "id": "LEG-022",
