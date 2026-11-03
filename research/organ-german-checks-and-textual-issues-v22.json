@@ -1,0 +1,136 @@
+{
+  "schema_version": "1.3",
+  "as_of": "2026-11-03",
+  "scope": "Selective German passage/terminology checks only; not full bilingual collation.",
+  "checks": [
+    {
+      "id": "GER-V22-01",
+      "entry": "GA316-01",
+      "section": "§5",
+      "url": "https://rsarchive.org/Lectures/GA316/Compare_01.php",
+      "terms": [
+        "direkt",
+        "Umwege über die Wärmeorganisation"
+      ],
+      "finding": "Direct I intervention in warmth distinguished from indirect effects throughout organism.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V22-02",
+      "entry": "GA316-01",
+      "section": "§15",
+      "url": "https://rsarchive.org/Lectures/GA316/Compare_01.php",
+      "terms": [
+        "Bienenvater",
+        "Bienenzüchter",
+        "Bienenkönigin"
+      ],
+      "finding": "Beekeeper is mistranslated drone king and later queen; queen is separately named as surviving member.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V22-03",
+      "entry": "GA316-05",
+      "section": "§§12–13",
+      "url": "https://rsarchive.org/Lectures/GA316/Compare_05.php",
+      "terms": [
+        "Saturnereignis",
+        "Wärmeorganismus",
+        "alte Saturnorganisation"
+      ],
+      "finding": "Old Saturn claim specifically isolates present head warmth from later components.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V22-04",
+      "entry": "GA316-05",
+      "section": "§§16–17",
+      "url": "https://rsarchive.org/Lectures/GA316/Compare_05.php",
+      "terms": [
+        "alte Sonnendasein",
+        "alte Mondenzeit"
+      ],
+      "finding": "Heart/stem-leaf and metabolic-limb/flower contemplation evokes distinct ancient stages.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V22-05",
+      "entry": "GA316-07",
+      "section": "§6",
+      "url": "https://rsarchive.org/Lectures/GA316/Compare_07.php",
+      "terms": [
+        "Heilung",
+        "Gesundung"
+      ],
+      "finding": "Astral origin of healing and etheric origin of recovery occur alongside distinct routes; do not collapse terminology.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V22-06",
+      "entry": "GA316-07",
+      "section": "§§8–9",
+      "url": "https://rsarchive.org/Lectures/GA316/Compare_07.php",
+      "terms": [
+        "Wahrnehmungsorgan",
+        "reflektiert",
+        "Sonne und Mond"
+      ],
+      "finding": "Heart ordinary circulation and uterus postfertilization circulation compared by direct/reflected perception.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V22-07",
+      "entry": "GA316-08",
+      "section": "§5",
+      "url": "https://rsarchive.org/Lectures/GA316/Compare_08.php",
+      "terms": [
+        "Saturnbewegung",
+        "Erde mit Mond"
+      ],
+      "finding": "Present planetary formative movement; not interchangeable with ancient Saturn stage of lecture V.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V22-08",
+      "entry": "GA316-08",
+      "section": "§26",
+      "url": "https://rsarchive.org/Lectures/GA316/Compare_08.php",
+      "terms": [
+        "konsonantische",
+        "Mondenkräften",
+        "vokalische",
+        "Saturnkräften"
+      ],
+      "finding": "Consonant–Moon and vowel–Saturn assignments confirmed.",
+      "status": "German_spot_checked"
+    }
+  ],
+  "unresolved": [
+    {
+      "id": "TXT-V22-01",
+      "status": "correction_recorded",
+      "topic": "Bee analogy mistranslation",
+      "finding": "GA316-01 §15 refers to beekeeper, not drone king; corrected editorial attribution only."
+    },
+    {
+      "id": "TXT-V22-02",
+      "status": "open",
+      "topic": "Renal I intervention versus liver insufficiency",
+      "sources": [
+        "GA316-01 §§7–8",
+        "GA314-14 §8"
+      ],
+      "finding": "Organ, locality and type of intervention differ; overengagement and insufficient engagement cannot be universalized."
+    },
+    {
+      "id": "TXT-V22-03",
+      "status": "distinction_recorded",
+      "topic": "Old Saturn versus present Saturn",
+      "sources": [
+        "GA316-05 §§12–17",
+        "GA316-08 §5"
+      ],
+      "finding": "Historical-stage continuation and present planetary formative movement retained separately."
+    }
+  ]
+}

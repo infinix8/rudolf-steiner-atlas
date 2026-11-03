@@ -1551,6 +1551,101 @@
         "entire_work_reviewed": false,
         "full_translation_collation": false
       }
+    },
+    {
+      "id": "SG-GA316-01-V22",
+      "ga": "316",
+      "work": "Meditative Reflections and Guidance for Deepening the Art of Healing",
+      "unit": "GA316-01",
+      "kind": "recorded_lecture",
+      "edition": "SOL English",
+      "lecture_date": "1924-01-02",
+      "url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240102.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Graph selected propositions; full available English source read in separate audit; no bilingual/exhaustive certification.",
+        "checked_on": "2026-11-03",
+        "archive_page_opened_on": "2026-11-03",
+        "archive_url_checked": true,
+        "entire_work_reviewed": false,
+        "full_translation_collation": false
+      }
+    },
+    {
+      "id": "SG-GA316-04-V22",
+      "ga": "316",
+      "work": "Meditative Reflections and Guidance for Deepening the Art of Healing",
+      "unit": "GA316-04",
+      "kind": "recorded_lecture",
+      "edition": "SOL English",
+      "lecture_date": "1924-01-05",
+      "url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240105.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Graph selected propositions; full available English source read in separate audit; no bilingual/exhaustive certification.",
+        "checked_on": "2026-11-03",
+        "archive_page_opened_on": "2026-11-03",
+        "archive_url_checked": true,
+        "entire_work_reviewed": false,
+        "full_translation_collation": false
+      }
+    },
+    {
+      "id": "SG-GA316-05-V22",
+      "ga": "316",
+      "work": "Meditative Reflections and Guidance for Deepening the Art of Healing",
+      "unit": "GA316-05",
+      "kind": "recorded_lecture",
+      "edition": "SOL English",
+      "lecture_date": "1924-01-06",
+      "url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240106.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Graph selected propositions; full available English source read in separate audit; no bilingual/exhaustive certification.",
+        "checked_on": "2026-11-03",
+        "archive_page_opened_on": "2026-11-03",
+        "archive_url_checked": true,
+        "entire_work_reviewed": false,
+        "full_translation_collation": false
+      }
+    },
+    {
+      "id": "SG-GA316-07-V22",
+      "ga": "316",
+      "work": "Meditative Reflections and Guidance for Deepening the Art of Healing",
+      "unit": "GA316-07",
+      "kind": "recorded_lecture",
+      "edition": "SOL English",
+      "lecture_date": "1924-01-08",
+      "url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240108.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Graph selected propositions; full available English source read in separate audit; no bilingual/exhaustive certification.",
+        "checked_on": "2026-11-03",
+        "archive_page_opened_on": "2026-11-03",
+        "archive_url_checked": true,
+        "entire_work_reviewed": false,
+        "full_translation_collation": false
+      }
+    },
+    {
+      "id": "SG-GA316-08-V22",
+      "ga": "316",
+      "work": "Meditative Reflections and Guidance for Deepening the Art of Healing",
+      "unit": "GA316-08",
+      "kind": "recorded_lecture",
+      "edition": "SOL English",
+      "lecture_date": "1924-01-09",
+      "url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240109.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Graph selected propositions; full available English source read in separate audit; no bilingual/exhaustive certification.",
+        "checked_on": "2026-11-03",
+        "archive_page_opened_on": "2026-11-03",
+        "archive_url_checked": true,
+        "entire_work_reviewed": false,
+        "full_translation_collation": false
+      }
     }
   ],
   "edges": [
@@ -5922,6 +6017,176 @@
       ],
       "claim": "Eye, ear and calf muscle receive different four-member affinity descriptions; the eye scheme is not universal.",
       "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-256",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA316-01-V22",
+          "passage_locator": "§5"
+        }
+      ],
+      "claim": "I activity is directly assigned to warmth, with indirect effects throughout other organizations.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-257",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA316-01-V22",
+          "passage_locator": "§§7–8"
+        }
+      ],
+      "claim": "An activity appropriate to the heart is called pathological in the kidney; Equisetum is proposed as substitute activity.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-258",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA316-04-V22",
+          "passage_locator": "§§4–5"
+        }
+      ],
+      "claim": "Prebirth etheric environmental forces are said to pass into astral organization especially with breathing at birth.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-259",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA316-04-V22",
+          "passage_locator": "§15"
+        }
+      ],
+      "claim": "Nail growth, second dentition and sweat illustrate outward formative activity.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-260",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA316-05-V22",
+          "passage_locator": "§§12–13"
+        }
+      ],
+      "claim": "The head’s warmth organization is explicitly connected with Old Saturn after later earthly, fluid and airy elements are mentally removed.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-261",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA316-05-V22",
+          "passage_locator": "§§16–17"
+        }
+      ],
+      "claim": "Heart–stem/leaf and metabolic-limb–flower correspondences evoke Old Sun and Old Moon respectively.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-262",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA316-07-V22",
+          "passage_locator": "§§8–9"
+        }
+      ],
+      "claim": "Heart and uterus are compared with direct and reflected circulation-perception in a Sun–Moon analogy.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-263",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA316-07-V22",
+          "passage_locator": "§§26–28"
+        }
+      ],
+      "claim": "Muscles, skeleton and lower organs have distinct roles in imagination, experienced thought and inspiration.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-264",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA316-08-V22",
+          "passage_locator": "§5"
+        }
+      ],
+      "claim": "Long bones/muscles and cranial vault receive opposed Earth–Moon constructive and Saturn dispersive accounts.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-265",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA316-08-V22",
+          "passage_locator": "§26"
+        }
+      ],
+      "claim": "Consonantal and vowel therapeutic movements are assigned Moon and Saturn forces respectively.",
+      "relation_family": "attributed_process_and_causation"
     }
   ],
   "version": "1.1",
@@ -5994,6 +6259,14 @@
     "unnumbered_blocks": 0,
     "selected_claim_records": 105,
     "German_spot_check_entries": 9,
+    "full_German_collations": 0
+  },
+  "organ_concordance_phase22": {
+    "complete_English_views": 5,
+    "numbered_units": 139,
+    "unnumbered_blocks": 0,
+    "selected_claim_records": 67,
+    "German_spot_check_entries": 8,
     "full_German_collations": 0
   }
 }

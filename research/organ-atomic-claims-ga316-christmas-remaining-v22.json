@@ -1,0 +1,2058 @@
+{
+  "schema_version": "1.4",
+  "as_of": "2026-11-03",
+  "scope": "Selected atomic propositions, not certified exhaustive or independent second review.",
+  "records": [
+    {
+      "id": "ORG-CLAIM-V22-001",
+      "catalogue_entry_id": "GA316-01",
+      "ga": 316,
+      "date": "1924-01-02",
+      "lecture": 1,
+      "section": 1,
+      "passage_cue": "English §1",
+      "source_url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240102.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "bones",
+        "muscles"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "describes_dynamic_form",
+      "temporal_framework": "present organization",
+      "paraphrase": "Steiner: replaces fixed organ outlines with ongoing formation and dissolution.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V22-002",
+      "catalogue_entry_id": "GA316-01",
+      "ga": 316,
+      "date": "1924-01-02",
+      "lecture": 1,
+      "section": 2,
+      "passage_cue": "English §2",
+      "source_url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240102.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "circulation"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "assigns_fluid_etheric",
+      "temporal_framework": "present organization",
+      "paraphrase": "Steiner: assigns fluid organization to etheric activity.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V22-003",
+      "catalogue_entry_id": "GA316-01",
+      "ga": 316,
+      "date": "1924-01-02",
+      "lecture": 1,
+      "section": 3,
+      "passage_cue": "English §3",
+      "source_url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240102.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "blood",
+        "intestines"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "assigns_planetary_direction",
+      "temporal_framework": "present organization",
+      "paraphrase": "Steiner: assigns circulating nutritional fluids primarily planetary direction.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V22-004",
+      "catalogue_entry_id": "GA316-01",
+      "ga": 316,
+      "date": "1924-01-02",
+      "lecture": 1,
+      "section": 4,
+      "passage_cue": "English §4",
+      "source_url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240102.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "lungs"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "assigns_gaseous_astral",
+      "temporal_framework": "present organization",
+      "paraphrase": "Steiner: assigns respiration and gaseous organization to direct astral activity.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V22-005",
+      "catalogue_entry_id": "GA316-01",
+      "ga": 316,
+      "date": "1924-01-02",
+      "lecture": 1,
+      "section": 5,
+      "passage_cue": "English §5",
+      "source_url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240102.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "liver"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "distinguishes_regional_warmth",
+      "temporal_framework": "present organization",
+      "paraphrase": "Steiner: describes the liver as a differentiated thermal organization.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V22-006",
+      "catalogue_entry_id": "GA316-01",
+      "ga": 316,
+      "date": "1924-01-02",
+      "lecture": 1,
+      "section": 5,
+      "passage_cue": "English §5",
+      "source_url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240102.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "limbs"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "mediates_I_through_warmth",
+      "temporal_framework": "present organization",
+      "paraphrase": "Steiner: makes warmth the direct medium of I activity in movement.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V22-007",
+      "catalogue_entry_id": "GA316-01",
+      "ga": 316,
+      "date": "1924-01-02",
+      "lecture": 1,
+      "section": 5,
+      "passage_cue": "English §5",
+      "source_url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240102.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "lungs"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "mediates_astral_through_air",
+      "temporal_framework": "present organization",
+      "paraphrase": "Steiner: distinguishes direct astral air activity from indirect effects elsewhere.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V22-008",
+      "catalogue_entry_id": "GA316-01",
+      "ga": 316,
+      "date": "1924-01-02",
+      "lecture": 1,
+      "section": 6,
+      "passage_cue": "English §6",
+      "source_url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240102.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "limbs",
+        "lungs"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "mediates_fear",
+      "temporal_framework": "present organization",
+      "paraphrase": "Steiner: routes fear-related bodily changes through warmth, breathing, fluids and solids.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V22-009",
+      "catalogue_entry_id": "GA316-01",
+      "ga": 316,
+      "date": "1924-01-02",
+      "lecture": 1,
+      "section": 7,
+      "passage_cue": "English §7",
+      "source_url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240102.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "heart",
+        "liver",
+        "kidneys"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "distinguishes_healthy_location",
+      "temporal_framework": "present organization",
+      "paraphrase": "Steiner: calls heart-appropriate I impulses pathological when misplaced in liver or kidney.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V22-010",
+      "catalogue_entry_id": "GA316-01",
+      "ga": 316,
+      "date": "1924-01-02",
+      "lecture": 1,
+      "section": 8,
+      "passage_cue": "English §8",
+      "source_url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240102.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "kidneys"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "proposes_substitution_and_release",
+      "temporal_framework": "present organization",
+      "paraphrase": "Steiner: proposes Equisetum as substitute activity freeing an overengaged I.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance.",
+        "Unvalidated therapeutic theory; no protocol retained."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V22-011",
+      "catalogue_entry_id": "GA316-01",
+      "ga": 316,
+      "date": "1924-01-02",
+      "lecture": 1,
+      "section": 10,
+      "passage_cue": "English §10",
+      "source_url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240102.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "glands and secretions"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "claims_oxalic_formic_conversion",
+      "temporal_framework": "present organization",
+      "paraphrase": "Steiner: claims organ-specific formic acid needs and oxalic-to-formic transformation.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance.",
+        "Historical biochemical claim; not a treatment recommendation."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V22-012",
+      "catalogue_entry_id": "GA316-01",
+      "ga": 316,
+      "date": "1924-01-02",
+      "lecture": 1,
+      "section": 15,
+      "passage_cue": "English §15",
+      "source_url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240102.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole organism"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "compares_continuity_despite_turnover",
+      "temporal_framework": "present organization",
+      "paraphrase": "Steiner: uses hive continuity despite turnover as a human-organism analogy.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance.",
+        "German Bienenvater means beekeeper, not drone king or queen; universal tissue-renewal assertion is inaccurate."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V22-013",
+      "catalogue_entry_id": "GA316-04",
+      "ga": 316,
+      "date": "1924-01-05",
+      "lecture": 4,
+      "section": 4,
+      "passage_cue": "English §4",
+      "source_url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240105.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole organism"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "forms_etheric_before_fertilization",
+      "temporal_framework": "prebirth development",
+      "paraphrase": "Steiner: describes a cosmic etheric body formed before union with the physical germ.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V22-014",
+      "catalogue_entry_id": "GA316-04",
+      "ga": 316,
+      "date": "1924-01-05",
+      "lecture": 4,
+      "section": 4,
+      "passage_cue": "English §4",
+      "source_url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240105.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole organism"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "distinguishes_metal_process_substance",
+      "temporal_framework": "prebirth development",
+      "paraphrase": "Steiner: places lead, tin and mercury processes in pre-incarnational etheric organization.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance.",
+        "Process forces are distinguished from literal toxic metal presence."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V22-015",
+      "catalogue_entry_id": "GA316-04",
+      "ga": 316,
+      "date": "1924-01-05",
+      "lecture": 4,
+      "section": 5,
+      "passage_cue": "English §5",
+      "source_url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240105.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "lungs"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "transfers_etheric_environmental_forces",
+      "temporal_framework": "birth metamorphosis",
+      "paraphrase": "Steiner: describes transfer of environmental etheric forces to astral organization with birth and breathing.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V22-016",
+      "catalogue_entry_id": "GA316-04",
+      "ga": 316,
+      "date": "1924-01-05",
+      "lecture": 4,
+      "section": 7,
+      "passage_cue": "English §7",
+      "source_url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240105.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole organism"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "describes_sleep_environmental_confirmation",
+      "temporal_framework": "sleep",
+      "paraphrase": "Steiner: describes the physician’s astral communion with environmental healing forces during sleep.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance.",
+        "Spiritual assertion, not independent confirmation of medical efficacy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V22-017",
+      "catalogue_entry_id": "GA316-04",
+      "ga": 316,
+      "date": "1924-01-05",
+      "lecture": 4,
+      "section": 10,
+      "passage_cue": "English §10",
+      "source_url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240105.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "spleen",
+        "blood"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "reports_regional_constitution",
+      "temporal_framework": "present organization",
+      "paraphrase": "Steiner: links regional geology, spleen activity and blood disorders in a Paracelsian account.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance.",
+        "Reported/endorsed historical analogy; demographic stereotypes and laburnum therapy are unvalidated."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V22-018",
+      "catalogue_entry_id": "GA316-04",
+      "ga": 316,
+      "date": "1924-01-05",
+      "lecture": 4,
+      "section": 14,
+      "passage_cue": "English §14",
+      "source_url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240105.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole organism"
+      ],
+      "agent": "elemental spirits",
+      "agent_scope": "Plant process only; no human-organ builder assigned.",
+      "predicate": "attributes_fragrance_elementals",
+      "temporal_framework": "plant-spiritual analogy",
+      "paraphrase": "Steiner: describes plant fragrance attracting elemental spirits.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V22-019",
+      "catalogue_entry_id": "GA316-04",
+      "ga": 316,
+      "date": "1924-01-05",
+      "lecture": 4,
+      "section": 15,
+      "passage_cue": "English §15",
+      "source_url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240105.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "nails"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "assigns_centrifugal_growth",
+      "temporal_framework": "present organization",
+      "paraphrase": "Steiner: uses nail regrowth as a centrifugal-force example.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V22-020",
+      "catalogue_entry_id": "GA316-04",
+      "ga": 316,
+      "date": "1924-01-05",
+      "lecture": 4,
+      "section": 15,
+      "passage_cue": "English §15",
+      "source_url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240105.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "teeth"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "culminates_first_seven_year_forces",
+      "temporal_framework": "childhood development",
+      "paraphrase": "Steiner: describes centrifugal childhood forces culminating in second dentition.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V22-021",
+      "catalogue_entry_id": "GA316-04",
+      "ga": 316,
+      "date": "1924-01-05",
+      "lecture": 4,
+      "section": 15,
+      "passage_cue": "English §15",
+      "source_url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240105.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "skin"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "relates_sweat_plant_fragrance",
+      "temporal_framework": "plant-human process correspondence",
+      "paraphrase": "Steiner: compares outward sweat processes with plant fragrance.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V22-022",
+      "catalogue_entry_id": "GA316-05",
+      "ga": 316,
+      "date": "1924-01-06",
+      "lecture": 5,
+      "section": 10,
+      "passage_cue": "English §10",
+      "source_url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240106.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "brain"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "relates_head_root_forces",
+      "temporal_framework": "plant-human correspondence",
+      "paraphrase": "Steiner: relates head forces to the cosmic forces surrounding roots.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V22-023",
+      "catalogue_entry_id": "GA316-05",
+      "ga": 316,
+      "date": "1924-01-06",
+      "lecture": 5,
+      "section": 12,
+      "passage_cue": "English §12",
+      "source_url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240106.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "brain"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "preserves_Saturn_warmth",
+      "temporal_framework": "Old Saturn continuation",
+      "paraphrase": "Steiner: identifies head warmth, abstracted from later elements, as a present Saturn event.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance.",
+        "Head warmth organization, not assertion that the completed modern anatomical head existed on Old Saturn."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V22-024",
+      "catalogue_entry_id": "GA316-05",
+      "ga": 316,
+      "date": "1924-01-06",
+      "lecture": 5,
+      "section": 13,
+      "passage_cue": "English §13",
+      "source_url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240106.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "brain"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "calls_present_head_cosmic_memory",
+      "temporal_framework": "Old Saturn continuation",
+      "paraphrase": "Steiner: calls present head warmth a continuation of ancient Saturn organization.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V22-025",
+      "catalogue_entry_id": "GA316-05",
+      "ga": 316,
+      "date": "1924-01-06",
+      "lecture": 5,
+      "section": 16,
+      "passage_cue": "English §16",
+      "source_url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240106.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "heart"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "relates_heart_leaf_OldSun",
+      "temporal_framework": "Old Sun meditative correspondence",
+      "paraphrase": "Steiner: relates heart and stem-leaf contemplation to ancient Sun existence.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance.",
+        "Does not specify a named spiritual builder or date completion of the modern heart."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V22-026",
+      "catalogue_entry_id": "GA316-05",
+      "ga": 316,
+      "date": "1924-01-06",
+      "lecture": 5,
+      "section": 17,
+      "passage_cue": "English §17",
+      "source_url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240106.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "limbs",
+        "intestines"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "relates_flower_metabolism_OldMoon",
+      "temporal_framework": "Old Moon meditative correspondence",
+      "paraphrase": "Steiner: relates flower and metabolic-limb contemplation to ancient Moon existence.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V22-027",
+      "catalogue_entry_id": "GA316-05",
+      "ga": 316,
+      "date": "1924-01-06",
+      "lecture": 5,
+      "section": 25,
+      "passage_cue": "English §25",
+      "source_url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240106.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole organism"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "identifies_fire_will",
+      "temporal_framework": "elemental spiritual correspondence",
+      "paraphrase": "Steiner: interprets fire as active will.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V22-028",
+      "catalogue_entry_id": "GA316-05",
+      "ga": 316,
+      "date": "1924-01-06",
+      "lecture": 5,
+      "section": 26,
+      "passage_cue": "English §26",
+      "source_url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240106.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "lungs"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "identifies_air_courage",
+      "temporal_framework": "elemental spiritual correspondence",
+      "paraphrase": "Steiner: interprets air through courage.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V22-029",
+      "catalogue_entry_id": "GA316-05",
+      "ga": 316,
+      "date": "1924-01-06",
+      "lecture": 5,
+      "section": 27,
+      "passage_cue": "English §27",
+      "source_url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240106.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "circulation"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "identifies_water_sensation",
+      "temporal_framework": "elemental spiritual correspondence",
+      "paraphrase": "Steiner: interprets water through sensation.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V22-030",
+      "catalogue_entry_id": "GA316-05",
+      "ga": 316,
+      "date": "1924-01-06",
+      "lecture": 5,
+      "section": 28,
+      "passage_cue": "English §28",
+      "source_url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240106.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "brain"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "identifies_solid_thought",
+      "temporal_framework": "elemental spiritual correspondence",
+      "paraphrase": "Steiner: interprets solid earth through thought.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V22-031",
+      "catalogue_entry_id": "GA316-05",
+      "ga": 316,
+      "date": "1924-01-06",
+      "lecture": 5,
+      "section": 29,
+      "passage_cue": "English §29",
+      "source_url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240106.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "brain"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "relates_thought_earth_formation",
+      "temporal_framework": "present organization",
+      "paraphrase": "Steiner: describes downward head processes as earth formation related to thought.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V22-032",
+      "catalogue_entry_id": "GA316-05",
+      "ga": 316,
+      "date": "1924-01-06",
+      "lecture": 5,
+      "section": 31,
+      "passage_cue": "English §31",
+      "source_url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240106.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "circulation"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "relates_sensation_fluid_balance",
+      "temporal_framework": "present organization",
+      "paraphrase": "Steiner: relates sensation to centripetal and centrifugal fluid balance.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V22-033",
+      "catalogue_entry_id": "GA316-05",
+      "ga": 316,
+      "date": "1924-01-06",
+      "lecture": 5,
+      "section": 33,
+      "passage_cue": "English §33",
+      "source_url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240106.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole organism"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "rejects_karmic_fatalism",
+      "temporal_framework": "medical ethics",
+      "paraphrase": "Steiner: rejects the conclusion that a sick person should remain sick because of karma.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "overlap",
+        "prior_claim_ids": [
+          "ORG-CLAIM-V21-048"
+        ],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V22-034",
+      "catalogue_entry_id": "GA316-07",
+      "ga": 316,
+      "date": "1924-01-08",
+      "lecture": 7,
+      "section": 4,
+      "passage_cue": "English §4",
+      "source_url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240108.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole organism"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "distinguishes_self_healing_magnetism",
+      "temporal_framework": "present organization",
+      "paraphrase": "Steiner: distinguishes stimulated patient self-healing from another person’s magnetism.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance.",
+        "Conditional unverified efficacy; not a practice instruction."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V22-035",
+      "catalogue_entry_id": "GA316-07",
+      "ga": 316,
+      "date": "1924-01-08",
+      "lecture": 7,
+      "section": 5,
+      "passage_cue": "English §5",
+      "source_url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240108.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole organism"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "limits_magnetic_profession",
+      "temporal_framework": "present organization",
+      "paraphrase": "Steiner: warns that alleged magnetic ability may fade and invite charlatanism.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V22-036",
+      "catalogue_entry_id": "GA316-07",
+      "ga": 316,
+      "date": "1924-01-08",
+      "lecture": 7,
+      "section": 6,
+      "passage_cue": "English §6",
+      "source_url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240108.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole organism"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "distinguishes_healing_recovery_routes",
+      "temporal_framework": "present organization",
+      "paraphrase": "Steiner: describes astral-to-etheric influence and medicinal physical-to-etheric recovery routes.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance.",
+        "German Heilung/Gesundung wording retained without forced contradiction."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V22-037",
+      "catalogue_entry_id": "GA316-07",
+      "ga": 316,
+      "date": "1924-01-08",
+      "lecture": 7,
+      "section": 8,
+      "passage_cue": "English §8",
+      "source_url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240108.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "heart",
+        "blood"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "assigns_circulation_perception",
+      "temporal_framework": "present organization",
+      "paraphrase": "Steiner: calls the heart a perceptual organ for ordinary circulation.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V22-038",
+      "catalogue_entry_id": "GA316-07",
+      "ga": 316,
+      "date": "1924-01-08",
+      "lecture": 7,
+      "section": 8,
+      "passage_cue": "English §8",
+      "source_url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240108.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "uterus",
+        "blood"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "assigns_postfertilization_perception",
+      "temporal_framework": "present organization",
+      "paraphrase": "Steiner: calls the uterus perceptual organ for circulation following fertilization.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V22-039",
+      "catalogue_entry_id": "GA316-07",
+      "ga": 316,
+      "date": "1924-01-08",
+      "lecture": 7,
+      "section": 8,
+      "passage_cue": "English §8",
+      "source_url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240108.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "heart",
+        "uterus"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "compares_direct_reflected_light",
+      "temporal_framework": "functional cosmic analogy",
+      "paraphrase": "Steiner: compares heart–uterus perception with direct and reflected Sun–Moon light.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance.",
+        "Not an assertion that modern heart or uterus was built on Old Sun or Old Moon."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V22-040",
+      "catalogue_entry_id": "GA316-07",
+      "ga": 316,
+      "date": "1924-01-08",
+      "lecture": 7,
+      "section": 9,
+      "passage_cue": "English §9",
+      "source_url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240108.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "heart",
+        "uterus"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "describes_imaginative_correspondence",
+      "temporal_framework": "spiritual perception",
+      "paraphrase": "Steiner: describes an imaginative Sun–Moon image of heart and uterus.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V22-041",
+      "catalogue_entry_id": "GA316-07",
+      "ga": 316,
+      "date": "1924-01-08",
+      "lecture": 7,
+      "section": 9,
+      "passage_cue": "English §9",
+      "source_url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240108.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "lungs"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "connects_psychic_to_etheric_physical",
+      "temporal_framework": "present organization",
+      "paraphrase": "Steiner: assigns lungs a connecting role toward etheric-physical organization.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V22-042",
+      "catalogue_entry_id": "GA316-07",
+      "ga": 316,
+      "date": "1924-01-08",
+      "lecture": 7,
+      "section": 16,
+      "passage_cue": "English §16",
+      "source_url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240108.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole organism"
+      ],
+      "agent": "unnamed spiritual beings",
+      "agent_scope": "Vehicles generally; no exclusive organ builder or named hierarchy.",
+      "predicate": "locates_beings_in_three_vehicles",
+      "temporal_framework": "ongoing spiritual activity",
+      "paraphrase": "Steiner: places unnamed spiritual beings in physical, etheric and astral vehicles.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V22-043",
+      "catalogue_entry_id": "GA316-07",
+      "ga": 316,
+      "date": "1924-01-08",
+      "lecture": 7,
+      "section": 16,
+      "passage_cue": "English §16",
+      "source_url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240108.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole organism"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "locates_I_freedom",
+      "temporal_framework": "I development",
+      "paraphrase": "Steiner: locates human freedom specifically in I organization.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V22-044",
+      "catalogue_entry_id": "GA316-07",
+      "ga": 316,
+      "date": "1924-01-08",
+      "lecture": 7,
+      "section": 18,
+      "passage_cue": "English §18",
+      "source_url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240108.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole organism"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "denies_autopsy_fate_effect",
+      "temporal_framework": "death",
+      "paraphrase": "Steiner: denies autopsy affects the deceased individual’s fate.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V22-045",
+      "catalogue_entry_id": "GA316-07",
+      "ga": 316,
+      "date": "1924-01-08",
+      "lecture": 7,
+      "section": 22,
+      "passage_cue": "English §22",
+      "source_url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240108.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "hair"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "attributes_black_iron_process",
+      "temporal_framework": "present organization",
+      "paraphrase": "Steiner: attributes black hair to an iron process.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance.",
+        "Spiritual-process interpretation, not established pigmentation chemistry."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V22-046",
+      "catalogue_entry_id": "GA316-07",
+      "ga": 316,
+      "date": "1924-01-08",
+      "lecture": 7,
+      "section": 22,
+      "passage_cue": "English §22",
+      "source_url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240108.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "hair"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "attributes_blond_red_sulfur_process",
+      "temporal_framework": "present organization",
+      "paraphrase": "Steiner: attributes blond and especially red hair to a sulfur process.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V22-047",
+      "catalogue_entry_id": "GA316-07",
+      "ga": 316,
+      "date": "1924-01-08",
+      "lecture": 7,
+      "section": 22,
+      "passage_cue": "English §22",
+      "source_url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240108.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "nails",
+        "eyes"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "qualifies_diagnostic_interpretation",
+      "temporal_framework": "present organization",
+      "paraphrase": "Steiner: claims whole-person interpretation from nails and iris but rejects crude diagnostic rules.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance.",
+        "No validation of iridology or nail-based comprehensive diagnosis."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V22-048",
+      "catalogue_entry_id": "GA316-07",
+      "ga": 316,
+      "date": "1924-01-08",
+      "lecture": 7,
+      "section": 24,
+      "passage_cue": "English §24",
+      "source_url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240108.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "limbs"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "distinguishes_palm_karma_competence",
+      "temporal_framework": "karmic symbolism",
+      "paraphrase": "Steiner: assigns left-hand lines karma and right-hand lines acquired competence.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance.",
+        "Unvalidated palmistry, not evidence of individual destiny."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V22-049",
+      "catalogue_entry_id": "GA316-07",
+      "ga": 316,
+      "date": "1924-01-08",
+      "lecture": 7,
+      "section": 26,
+      "passage_cue": "English §26",
+      "source_url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240108.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "muscles"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "relates_imagination_muscular_experience",
+      "temporal_framework": "spiritual cognition",
+      "paraphrase": "Steiner: relates imaginative cognition and therapeutic knowledge to muscular experience.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V22-050",
+      "catalogue_entry_id": "GA316-07",
+      "ga": 316,
+      "date": "1924-01-08",
+      "lecture": 7,
+      "section": 27,
+      "passage_cue": "English §27",
+      "source_url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240108.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "bones"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "relates_experienced_thought_skeleton",
+      "temporal_framework": "freedom and cognition",
+      "paraphrase": "Steiner: locates experienced freedom thoughts in whole-body skeletal experience.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V22-051",
+      "catalogue_entry_id": "GA316-07",
+      "ga": 316,
+      "date": "1924-01-08",
+      "lecture": 7,
+      "section": 27,
+      "passage_cue": "English §27",
+      "source_url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240108.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "bones",
+        "muscles"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "relates_freedom_to_bone_led_movement",
+      "temporal_framework": "freedom",
+      "paraphrase": "Steiner: describes free action as movement from bones toward muscles.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V22-052",
+      "catalogue_entry_id": "GA316-07",
+      "ga": 316,
+      "date": "1924-01-08",
+      "lecture": 7,
+      "section": 28,
+      "passage_cue": "English §28",
+      "source_url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240108.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "kidneys"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "relates_inspiration_visceral_experience",
+      "temporal_framework": "spiritual cognition",
+      "paraphrase": "Steiner: allows inspired cognition through kidneys and other lower organs.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V22-053",
+      "catalogue_entry_id": "GA316-07",
+      "ga": 316,
+      "date": "1924-01-08",
+      "lecture": 7,
+      "section": 29,
+      "passage_cue": "English §29",
+      "source_url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240108.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "skin"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "claims_knowledge_prophylaxis",
+      "temporal_framework": "present organization",
+      "paraphrase": "Steiner: claims true smallpox therapeutic knowledge protects more strongly than vaccination.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance.",
+        "False harmful protection claim; not infection-control guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V22-054",
+      "catalogue_entry_id": "GA316-07",
+      "ga": 316,
+      "date": "1924-01-08",
+      "lecture": 7,
+      "section": 32,
+      "passage_cue": "English §32",
+      "source_url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240108.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "skin"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "uses_hypothetical_spiritual_correlate",
+      "temporal_framework": "spiritual thought experiment",
+      "paraphrase": "Steiner: uses an explicitly hypothetical separation of smallpox from physical disease.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance.",
+        "Not an instruction to induce infection or a demonstrated disease extraction."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V22-055",
+      "catalogue_entry_id": "GA316-08",
+      "ga": 316,
+      "date": "1924-01-09",
+      "lecture": 8,
+      "section": 1,
+      "passage_cue": "English §1",
+      "source_url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240109.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole organism"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "describes_karma_as_becoming",
+      "temporal_framework": "future incarnations",
+      "paraphrase": "Steiner: describes present action adding to future karma rather than fixed fatalism.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V22-056",
+      "catalogue_entry_id": "GA316-08",
+      "ga": 316,
+      "date": "1924-01-09",
+      "lecture": 8,
+      "section": 2,
+      "passage_cue": "English §2",
+      "source_url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240109.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole organism"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "requires_undiminished_healing_will",
+      "temporal_framework": "medical ethics",
+      "paraphrase": "Steiner: requires continued healing effort even when the physician doubts curability.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance.",
+        "Historical ethos, not a recommendation for futile or unwanted treatment."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V22-057",
+      "catalogue_entry_id": "GA316-08",
+      "ga": 316,
+      "date": "1924-01-09",
+      "lecture": 8,
+      "section": 5,
+      "passage_cue": "English §5",
+      "source_url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240109.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "bones",
+        "muscles"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "assigns_Earth_Moon_formative_pole",
+      "temporal_framework": "present planetary formative correspondence",
+      "paraphrase": "Steiner: connects long bones and similarly oriented muscles with Earth–Moon constructive forces.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V22-058",
+      "catalogue_entry_id": "GA316-08",
+      "ga": 316,
+      "date": "1924-01-09",
+      "lecture": 8,
+      "section": 5,
+      "passage_cue": "English §5",
+      "source_url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240109.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "bones"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "assigns_skull_Saturn_pole",
+      "temporal_framework": "present planetary formative correspondence",
+      "paraphrase": "Steiner: connects cranial vault form with Saturn’s revolving and dispersive forces.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance.",
+        "Distinguish present planetary motion from Old Saturn evolutionary stage."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V22-059",
+      "catalogue_entry_id": "GA316-08",
+      "ga": 316,
+      "date": "1924-01-09",
+      "lecture": 8,
+      "section": 5,
+      "passage_cue": "English §5",
+      "source_url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240109.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "nails"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "assigns_cutting_Saturn_pole",
+      "temporal_framework": "present planetary process",
+      "paraphrase": "Steiner: places nail cutting within Saturn dispersive forces.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V22-060",
+      "catalogue_entry_id": "GA316-08",
+      "ga": 316,
+      "date": "1924-01-09",
+      "lecture": 8,
+      "section": 5,
+      "passage_cue": "English §5",
+      "source_url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240109.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole organism"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "locates_soul_between_poles",
+      "temporal_framework": "present planetary process",
+      "paraphrase": "Steiner: locates soul-spirit manifestation between construction and dispersal.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V22-061",
+      "catalogue_entry_id": "GA316-08",
+      "ga": 316,
+      "date": "1924-01-09",
+      "lecture": 8,
+      "section": 6,
+      "passage_cue": "English §6",
+      "source_url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240109.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "bones"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "pairs_silver_lead_processes",
+      "temporal_framework": "present organization",
+      "paraphrase": "Steiner: relates silver to construction and lead to correction of excessive formation.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance.",
+        "Lead is toxic; no therapeutic procedure recommended."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V22-062",
+      "catalogue_entry_id": "GA316-08",
+      "ga": 316,
+      "date": "1924-01-09",
+      "lecture": 8,
+      "section": 7,
+      "passage_cue": "English §7",
+      "source_url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240109.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole organism"
+      ],
+      "agent": "Guardian of the Threshold",
+      "agent_scope": "Disease analogy, not named organ builder.",
+      "predicate": "relates_illness_threshold_image",
+      "temporal_framework": "spiritual pathological analogy",
+      "paraphrase": "Steiner: describes illness through a demonic image of the Guardian of the Threshold.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V22-063",
+      "catalogue_entry_id": "GA316-08",
+      "ga": 316,
+      "date": "1924-01-09",
+      "lecture": 8,
+      "section": 21,
+      "passage_cue": "English §21",
+      "source_url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240109.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole organism"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "preserves_waking_inner_distinction",
+      "temporal_framework": "sleep and waking",
+      "paraphrase": "Steiner: maintains an inner light-gravity distinction during waking despite bodily immersion.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V22-064",
+      "catalogue_entry_id": "GA316-08",
+      "ga": 316,
+      "date": "1924-01-09",
+      "lecture": 8,
+      "section": 25,
+      "passage_cue": "English §25",
+      "source_url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240109.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole organism"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "distinguishes_pathological_directions",
+      "temporal_framework": "spiritual pathology",
+      "paraphrase": "Steiner: distinguishes bodily from psychic illness by opposite light-gravity penetration.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance.",
+        "Not accepted pathology or psychiatric causation."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V22-065",
+      "catalogue_entry_id": "GA316-08",
+      "ga": 316,
+      "date": "1924-01-09",
+      "lecture": 8,
+      "section": 26,
+      "passage_cue": "English §26",
+      "source_url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240109.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "larynx"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "assigns_consonants_Moon",
+      "temporal_framework": "therapeutic planetary correspondence",
+      "paraphrase": "Steiner: assigns consonantal therapeutic movement to Moon forces.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V22-066",
+      "catalogue_entry_id": "GA316-08",
+      "ga": 316,
+      "date": "1924-01-09",
+      "lecture": 8,
+      "section": 26,
+      "passage_cue": "English §26",
+      "source_url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240109.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "larynx"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "assigns_vowels_Saturn",
+      "temporal_framework": "therapeutic planetary correspondence",
+      "paraphrase": "Steiner: assigns vowel therapeutic movement to Saturn forces.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V22-067",
+      "catalogue_entry_id": "GA316-08",
+      "ga": 316,
+      "date": "1924-01-09",
+      "lecture": 8,
+      "section": 26,
+      "passage_cue": "English §26",
+      "source_url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240109.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "larynx"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "attributes_stuttering_overformation",
+      "temporal_framework": "present organization",
+      "paraphrase": "Steiner: interprets stuttering through excessive formative activity while allowing varied antecedents.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance.",
+        "Unvalidated causal and therapeutic theory."
+      ]
+    }
+  ],
+  "counts": {
+    "new_candidate": 66,
+    "overlap": 1
+  }
+}
