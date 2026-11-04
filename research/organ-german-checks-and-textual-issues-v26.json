@@ -1,0 +1,123 @@
+{
+  "schema_version": "1.3",
+  "as_of": "2026-11-04",
+  "scope": "Selective German passage/terminology checks only; not full bilingual collation.",
+  "checks": [
+    {
+      "id": "GER-V26-01",
+      "entry": "GA110-01",
+      "section": "§13",
+      "url": "https://rsarchive.org/Lectures/GA110/Compare_01.php",
+      "terms": [
+        "Gewalten",
+        "Mächten",
+        "Herrschaften",
+        "Throne"
+      ],
+      "finding": "Sphere assignments confirmed in German. Preserve Latin hierarchy names to disambiguate English Powers/Mights.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V26-02",
+      "entry": "GA110-02",
+      "section": "§15",
+      "url": "https://rsarchive.org/Lectures/GA110/Compare_02.php",
+      "terms": [
+        "gar nicht die Rede vom menschlichen Ich",
+        "Elementarwesen"
+      ],
+      "finding": "Gita fire/smoke interpretation expressly refers to elementals, not human I.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V26-03",
+      "entry": "GA110-03",
+      "section": "§12",
+      "url": "https://rsarchive.org/Lectures/GA110/Compare_03.php",
+      "terms": [
+        "Armungsprozeß",
+        "Atmungsprozeß"
+      ],
+      "finding": "German display itself has Armungsprozeß then repeated Atmungsprozeß; context supports breathing. SOL arming is a textual/translation anomaly, not evidence for weapon production.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V26-04",
+      "entry": "GA110-04",
+      "section": "§§8–11",
+      "url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090413p01.html",
+      "terms": [
+        "Geistselbst",
+        "Lebensgeist",
+        "Geistesmenschen",
+        "Throne"
+      ],
+      "finding": "German block and appended English distinguish future vehicle transformation, Thrones warmth donation and Archai formation. Selective comparison only.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V26-05",
+      "entry": "GA110-04",
+      "section": "§§12–13,18–19",
+      "url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090413p01.html",
+      "terms": [
+        "Exusiai",
+        "Dynamis",
+        "Kyriotetes",
+        "Tierreich"
+      ],
+      "finding": "German differentiates middle ranks obscured by repeated English Powers, and assigns solar animal foundation to Cherubim; not direct human organ assignment.",
+      "status": "German_spot_checked"
+    }
+  ],
+  "unresolved": [
+    {
+      "id": "TXT-V26-01",
+      "status": "open",
+      "topic": "Planet name bridge and hierarchy agency",
+      "sources": [
+        "GA110-01 §13",
+        "GA128-08 §§18–24"
+      ],
+      "finding": "Planet–sphere–hierarchy correspondence cannot prove an exclusive organ builder through transitive matching; later course qualifications still unread."
+    },
+    {
+      "id": "TXT-V26-02",
+      "status": "located_source_layout",
+      "topic": "GA110 IV English appended after German",
+      "sources": [
+        "GA110-04 SOL German §§1–24 and TRANSLATIONS English §§1–24"
+      ],
+      "finding": "Review English after TRANSLATIONS; count24 English units once, not48 from two languages. Compare SOL duplicates German rather than exposing the appended English in the same way."
+    },
+    {
+      "id": "TXT-V26-03",
+      "status": "open",
+      "topic": "Arming/breathing typo",
+      "sources": [
+        "GA110-03 §12 German and English"
+      ],
+      "finding": "German Armungsprozeß and SOL arming require printed edition verification; neighboring Atmungsprozeß and inhalation/exhalation establish intended subject as breathing."
+    },
+    {
+      "id": "TXT-V26-04",
+      "status": "open",
+      "topic": "Dionysius attribution",
+      "sources": [
+        "GA110-01 §§13–14",
+        "GA110-04 §8"
+      ],
+      "finding": "Steiner identifies hierarchy-teaching Dionysius with Paul’s pupil. This is his historical attribution, not a verified identity of the later corpus author."
+    },
+    {
+      "id": "TXT-V26-05",
+      "status": "open",
+      "topic": "Old Sun lungs inference",
+      "sources": [
+        "GA110-03 §§11–14",
+        "GA128-04 §13"
+      ],
+      "finding": "Archangel solar gas-breathing and lung/Mercury symbolism do not establish anatomical lung origin or exclusive builder. Distinguish planetary breathing imagery from human pulmonary organs."
+    }
+  ]
+}

@@ -1955,6 +1955,82 @@
         "entire_work_reviewed": false,
         "full_translation_collation": false
       }
+    },
+    {
+      "id": "SG-GA110-01-V26",
+      "ga": "110",
+      "work": "Spiritual Hierarchies and their Reflection in the Physical World",
+      "unit": "GA110-01",
+      "kind": "recorded_lecture",
+      "edition": "SOL English",
+      "lecture_date": "1909-04-12",
+      "url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090412a01.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Graph selected propositions; full available English source read in separate audit; no bilingual/exhaustive certification.",
+        "checked_on": "2026-11-03",
+        "archive_page_opened_on": "2026-11-03",
+        "archive_url_checked": true,
+        "entire_work_reviewed": false,
+        "full_translation_collation": false
+      }
+    },
+    {
+      "id": "SG-GA110-02-V26",
+      "ga": "110",
+      "work": "Spiritual Hierarchies and their Reflection in the Physical World",
+      "unit": "GA110-02",
+      "kind": "recorded_lecture",
+      "edition": "SOL English",
+      "lecture_date": "1909-04-12",
+      "url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090412p01.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Graph selected propositions; full available English source read in separate audit; no bilingual/exhaustive certification.",
+        "checked_on": "2026-11-03",
+        "archive_page_opened_on": "2026-11-03",
+        "archive_url_checked": true,
+        "entire_work_reviewed": false,
+        "full_translation_collation": false
+      }
+    },
+    {
+      "id": "SG-GA110-03-V26",
+      "ga": "110",
+      "work": "Spiritual Hierarchies and their Reflection in the Physical World",
+      "unit": "GA110-03",
+      "kind": "recorded_lecture",
+      "edition": "SOL English",
+      "lecture_date": "1909-04-13",
+      "url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090413a01.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Graph selected propositions; full available English source read in separate audit; no bilingual/exhaustive certification.",
+        "checked_on": "2026-11-03",
+        "archive_page_opened_on": "2026-11-03",
+        "archive_url_checked": true,
+        "entire_work_reviewed": false,
+        "full_translation_collation": false
+      }
+    },
+    {
+      "id": "SG-GA110-04-V26",
+      "ga": "110",
+      "work": "Spiritual Hierarchies and their Reflection in the Physical World",
+      "unit": "GA110-04",
+      "kind": "recorded_lecture",
+      "edition": "SOL English",
+      "lecture_date": "1909-04-13",
+      "url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090413p01.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Graph selected propositions; full available English source read in separate audit; no bilingual/exhaustive certification.",
+        "checked_on": "2026-11-03",
+        "archive_page_opened_on": "2026-11-03",
+        "archive_url_checked": true,
+        "entire_work_reviewed": false,
+        "full_translation_collation": false
+      }
     }
   ],
   "edges": [
@@ -7074,6 +7150,125 @@
       ],
       "claim": "Blood warmth culminates in an Earth-mission account of compassion and spiritual fruits surviving Earth; no named hierarchy-to-organ builder supplied.",
       "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-300",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA110-01-V26",
+          "passage_locator": "§§10–13"
+        }
+      ],
+      "claim": "Spiritual planetary realms, material bodies and evolving modes of sight must be indexed separately; no organ builder follows by transitive label matching.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-301",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA110-02-V26",
+          "passage_locator": "§§4–5,12–15"
+        }
+      ],
+      "claim": "Inner warmth and human spiritualization are linked to elemental liberation; the Gita explanation explicitly concerns elementals rather than a calendar rule for human rebirth.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-302",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA110-03-V26",
+          "passage_locator": "§§2–5"
+        }
+      ],
+      "claim": "Old planetary embodiments and hierarchical humanity stages are separate from present planets and anatomical organ histories.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-303",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA110-03-V26",
+          "passage_locator": "§§9–12"
+        }
+      ],
+      "claim": "Archai resistance, Thrones dissolution and Archangel gas/light activity have different agents and predicates; do not merge into one builder claim.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-304",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA110-04-V26",
+          "passage_locator": "§§7–13"
+        }
+      ],
+      "claim": "Thrones supply warmth substance; Archai form and individualize it; intermediate ranks assist. These predicates must not collapse into generic creation.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-305",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA110-04-V26",
+          "passage_locator": "§§8–9"
+        }
+      ],
+      "claim": "Future I mastery of astral, etheric and physical organizations leads toward cosmic giving; no exclusive anatomy for individual organs is supplied.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-306",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA110-04-V26",
+          "passage_locator": "§§16–22"
+        }
+      ],
+      "claim": "Cherubim aid Archangels and form animal prototypes in distinct solar circumstances, not an automatic list of human organ builders.",
+      "relation_family": "attributed_process_and_causation"
     }
   ],
   "version": "1.1",
@@ -7178,6 +7373,14 @@
     "unnumbered_blocks": 0,
     "selected_claim_records": 102,
     "German_spot_check_entries": 8,
+    "full_German_collations": 0
+  },
+  "organ_concordance_phase26": {
+    "complete_English_views": 4,
+    "numbered_units": 76,
+    "unnumbered_blocks": 0,
+    "selected_claim_records": 51,
+    "German_spot_check_entries": 5,
     "full_German_collations": 0
   }
 }

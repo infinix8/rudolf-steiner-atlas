@@ -1,0 +1,1554 @@
+{
+  "schema_version": "1.4",
+  "as_of": "2026-11-04",
+  "scope": "Selected atomic propositions, not certified exhaustive or independent second review.",
+  "records": [
+    {
+      "id": "ORG-CLAIM-V26-001",
+      "catalogue_entry_id": "GA110-01",
+      "ga": 110,
+      "date": "1909-04-12",
+      "lecture": 1,
+      "section": 10,
+      "passage_cue": "English §10",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090412a01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "eyes"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "contrasts_clairvoyant_and_physical_sight",
+      "temporal_framework": "claimed historical evolution of perception",
+      "paraphrase": "Steiner: contrasts alleged Atlantean perception of planetary spiritual beings with present physical planetary sight.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance.",
+        "Atlantis chronology and collective clairvoyance are esoteric assertions, not established history."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V26-002",
+      "catalogue_entry_id": "GA110-01",
+      "ga": 110,
+      "date": "1909-04-12",
+      "lecture": 1,
+      "section": 11,
+      "passage_cue": "English §11",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090412a01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "eyes"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "distinguishes_aura_and_body",
+      "temporal_framework": "claimed perception evolution",
+      "paraphrase": "Steiner: says planetary aura remains although increasingly physical human sight no longer perceives it.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V26-003",
+      "catalogue_entry_id": "GA110-01",
+      "ga": 110,
+      "date": "1909-04-12",
+      "lecture": 1,
+      "section": 12,
+      "passage_cue": "English §12",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090412a01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "distinguishes_planetary_referents",
+      "temporal_framework": "terminology",
+      "paraphrase": "Steiner: distinguishes spiritual realms designated by planet names from physical celestial bodies.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V26-004",
+      "catalogue_entry_id": "GA110-01",
+      "ga": 110,
+      "date": "1909-04-12",
+      "lecture": 1,
+      "section": 13,
+      "passage_cue": "English §13",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090412a01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "Angels",
+      "agent_scope": "Sphere correspondence, no organ-specific builder.",
+      "predicate": "maps_Moon_Angels",
+      "temporal_framework": "spiritual sphere correspondence",
+      "paraphrase": "Steiner: equates Moon spiritual realm with Angels in his comparative hierarchy scheme.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V26-005",
+      "catalogue_entry_id": "GA110-01",
+      "ga": 110,
+      "date": "1909-04-12",
+      "lecture": 1,
+      "section": 13,
+      "passage_cue": "English §13",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090412a01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "Archangels",
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "maps_Mercury_Archangels",
+      "temporal_framework": "spiritual sphere correspondence",
+      "paraphrase": "Steiner: equates Mercury spiritual realm with Archangels.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V26-006",
+      "catalogue_entry_id": "GA110-01",
+      "ga": 110,
+      "date": "1909-04-12",
+      "lecture": 1,
+      "section": 13,
+      "passage_cue": "English §13",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090412a01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "Archai",
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "maps_Venus_Archai",
+      "temporal_framework": "spiritual sphere correspondence",
+      "paraphrase": "Steiner: equates Venus spiritual realm with Archai.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V26-007",
+      "catalogue_entry_id": "GA110-01",
+      "ga": 110,
+      "date": "1909-04-12",
+      "lecture": 1,
+      "section": 13,
+      "passage_cue": "English §13",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090412a01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "Exusiai",
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "maps_Sun_Exusiai",
+      "temporal_framework": "spiritual sphere correspondence",
+      "paraphrase": "Steiner: equates Sun spiritual realm with Powers or Exusiai.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V26-008",
+      "catalogue_entry_id": "GA110-01",
+      "ga": 110,
+      "date": "1909-04-12",
+      "lecture": 1,
+      "section": 13,
+      "passage_cue": "English §13",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090412a01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "Dynamis",
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "maps_Mars_Dynamis",
+      "temporal_framework": "spiritual sphere correspondence",
+      "paraphrase": "Steiner: equates Mars spiritual realm with Mights or Dynamis.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V26-009",
+      "catalogue_entry_id": "GA110-01",
+      "ga": 110,
+      "date": "1909-04-12",
+      "lecture": 1,
+      "section": 13,
+      "passage_cue": "English §13",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090412a01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "Kyriotetes",
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "maps_Jupiter_Kyriotetes",
+      "temporal_framework": "spiritual sphere correspondence",
+      "paraphrase": "Steiner: equates Jupiter spiritual realm with Dominions or Kyriotetes.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V26-010",
+      "catalogue_entry_id": "GA110-01",
+      "ga": 110,
+      "date": "1909-04-12",
+      "lecture": 1,
+      "section": 13,
+      "passage_cue": "English §13",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090412a01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "Thrones",
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "maps_Saturn_Thrones",
+      "temporal_framework": "spiritual sphere correspondence",
+      "paraphrase": "Steiner: equates Saturn spiritual realm with Thrones.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V26-011",
+      "catalogue_entry_id": "GA110-02",
+      "ga": 110,
+      "date": "1909-04-12",
+      "lecture": 2,
+      "section": 4,
+      "passage_cue": "English §4",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090412p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "distinguishes_inner_outer_warmth",
+      "temporal_framework": "phenomenological and esoteric account",
+      "paraphrase": "Steiner: treats warmth as both outer percept and inner self-felt state.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V26-012",
+      "catalogue_entry_id": "GA110-02",
+      "ga": 110,
+      "date": "1909-04-12",
+      "lecture": 2,
+      "section": 5,
+      "passage_cue": "English §5",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090412p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "uses_heat_as_gateway",
+      "temporal_framework": "spiritual physiology comparison",
+      "paraphrase": "Steiner: treats heat as gateway where material and soul meet.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "different_context",
+        "prior_claim_ids": [
+          "ORG-CLAIM-V25-101"
+        ],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V26-013",
+      "catalogue_entry_id": "GA110-02",
+      "ga": 110,
+      "date": "1909-04-12",
+      "lecture": 2,
+      "section": 7,
+      "passage_cue": "English §7",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090412p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "eyes"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "denies_direct_light_perception",
+      "temporal_framework": "historical optical thesis",
+      "paraphrase": "Steiner: asserts physical eyes see illuminated matter rather than light itself.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance.",
+        "Not an adequate modern account of retinal photon detection or self-luminous sources."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V26-014",
+      "catalogue_entry_id": "GA110-02",
+      "ga": 110,
+      "date": "1909-04-12",
+      "lecture": 2,
+      "section": 11,
+      "passage_cue": "English §11",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090412p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "elemental beings",
+      "agent_scope": "Generic messenger agency; not exclusive builders of specified organs.",
+      "predicate": "assigns_elemental_messenger_role",
+      "temporal_framework": "cosmic and constitutional context",
+      "paraphrase": "Steiner: calls elemental beings messengers of higher formative spiritual beings.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V26-015",
+      "catalogue_entry_id": "GA110-02",
+      "ga": 110,
+      "date": "1909-04-12",
+      "lecture": 2,
+      "section": 12,
+      "passage_cue": "English §12",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090412p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "eyes"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "links_sensory_perception_to_elementals",
+      "temporal_framework": "spiritual perception",
+      "paraphrase": "Steiner: says sensory looking admits enchanted elemental beings into the human being.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V26-016",
+      "catalogue_entry_id": "GA110-02",
+      "ga": 110,
+      "date": "1909-04-12",
+      "lecture": 2,
+      "section": 12,
+      "passage_cue": "English §12",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090412p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "human knower",
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "liberates_by_spiritual_processing",
+      "temporal_framework": "human spiritual activity",
+      "paraphrase": "Steiner: says thinking, concepts and aesthetic feeling spiritually liberate admitted elemental beings.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V26-017",
+      "catalogue_entry_id": "GA110-02",
+      "ga": 110,
+      "date": "1909-04-12",
+      "lecture": 2,
+      "section": 13,
+      "passage_cue": "English §13",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090412p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "elemental beings",
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "distinguishes_death_destinies",
+      "temporal_framework": "death and rebirth",
+      "paraphrase": "Steiner: says liberated elementals return to their element at human death while unliberated ones accompany reincarnation.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V26-018",
+      "catalogue_entry_id": "GA110-02",
+      "ga": 110,
+      "date": "1909-04-12",
+      "lecture": 2,
+      "section": 15,
+      "passage_cue": "English §15",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090412p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "corrects_Gita_subject",
+      "temporal_framework": "textual interpretation",
+      "paraphrase": "Steiner: explicitly interprets cited Gita fire/smoke rebirth alternatives as referring to elemental beings, not the human I.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance.",
+        "Steiner’s interpretation of another text, not an independently verified reading of the Gita."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V26-019",
+      "catalogue_entry_id": "GA110-02",
+      "ga": 110,
+      "date": "1909-04-12",
+      "lecture": 2,
+      "section": 16,
+      "passage_cue": "English §16",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090412p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "links_diligence_to_day_beings",
+      "temporal_framework": "moral cosmic correspondence",
+      "paraphrase": "Steiner: assigns diligence versus inertia different liberating/binding relations to day/night elementals.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V26-020",
+      "catalogue_entry_id": "GA110-02",
+      "ga": 110,
+      "date": "1909-04-12",
+      "lecture": 2,
+      "section": 17,
+      "passage_cue": "English §17",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090412p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "links_mood_to_lunar_beings",
+      "temporal_framework": "moral cosmic correspondence",
+      "paraphrase": "Steiner: assigns harmonious versus discontented mood different relations to lunar elementals.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance.",
+        "Not an explanation of mental illness or justification for blame."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V26-021",
+      "catalogue_entry_id": "GA110-02",
+      "ga": 110,
+      "date": "1909-04-12",
+      "lecture": 2,
+      "section": 18,
+      "passage_cue": "English §18",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090412p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "links_spirituality_to_seasonal_beings",
+      "temporal_framework": "moral cosmic correspondence",
+      "paraphrase": "Steiner: assigns inward seasonal spirituality liberation of winter-bound elementals.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V26-022",
+      "catalogue_entry_id": "GA110-02",
+      "ga": 110,
+      "date": "1909-04-12",
+      "lecture": 2,
+      "section": 21,
+      "passage_cue": "English §21",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090412p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "extends_mood_effect_to_cosmos",
+      "temporal_framework": "ethical cosmic claim",
+      "paraphrase": "Steiner: treats human action and mood as cosmic responsibility.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V26-023",
+      "catalogue_entry_id": "GA110-03",
+      "ga": 110,
+      "date": "1909-04-13",
+      "lecture": 3,
+      "section": 2,
+      "passage_cue": "English §2",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090413a01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "distinguishes_old_states_from_bodies",
+      "temporal_framework": "planetary-stage terminology",
+      "paraphrase": "Steiner: distinguishes Old Moon/Sun/Saturn planetary embodiments from present celestial bodies.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V26-024",
+      "catalogue_entry_id": "GA110-03",
+      "ga": 110,
+      "date": "1909-04-13",
+      "lecture": 3,
+      "section": 3,
+      "passage_cue": "English §3",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090413a01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "assigns_Earth_I_task",
+      "temporal_framework": "Earth evolution",
+      "paraphrase": "Steiner: assigns Earth the task of enabling human I-existence.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V26-025",
+      "catalogue_entry_id": "GA110-03",
+      "ga": 110,
+      "date": "1909-04-13",
+      "lecture": 3,
+      "section": 3,
+      "passage_cue": "English §3",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090413a01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "qualifies_future_divinity",
+      "temporal_framework": "future spiritual development",
+      "paraphrase": "Steiner: allows future human divinity while rejecting premature claims already to possess that attainment.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V26-026",
+      "catalogue_entry_id": "GA110-03",
+      "ga": 110,
+      "date": "1909-04-13",
+      "lecture": 3,
+      "section": 4,
+      "passage_cue": "English §4",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090413a01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "Angels",
+      "agent_scope": "Stage of hierarchical beings themselves, not an organ-building statement.",
+      "predicate": "assigns_Angels_Moon_human_stage",
+      "temporal_framework": "Old Moon",
+      "paraphrase": "Steiner: places Angels’ humanity stage on Old Moon.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V26-027",
+      "catalogue_entry_id": "GA110-03",
+      "ga": 110,
+      "date": "1909-04-13",
+      "lecture": 3,
+      "section": 4,
+      "passage_cue": "English §4",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090413a01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "Archangels",
+      "agent_scope": "Their own humanity stage, not organ construction.",
+      "predicate": "assigns_Archangels_Sun_human_stage",
+      "temporal_framework": "Old Sun",
+      "paraphrase": "Steiner: places Archangels’ humanity stage on Old Sun.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V26-028",
+      "catalogue_entry_id": "GA110-03",
+      "ga": 110,
+      "date": "1909-04-13",
+      "lecture": 3,
+      "section": 4,
+      "passage_cue": "English §4",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090413a01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "Archai",
+      "agent_scope": "Their own humanity stage, not organ construction.",
+      "predicate": "assigns_Archai_Saturn_human_stage",
+      "temporal_framework": "Old Saturn",
+      "paraphrase": "Steiner: places Archai’s humanity stage on Old Saturn.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V26-029",
+      "catalogue_entry_id": "GA110-03",
+      "ga": 110,
+      "date": "1909-04-13",
+      "lecture": 3,
+      "section": 5,
+      "passage_cue": "English §5",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090413a01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "bones",
+        "blood"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "contrasts_present_composite_and_Saturn_heat",
+      "temporal_framework": "Old Saturn comparison",
+      "paraphrase": "Steiner: contrasts present bone/blood bodies containing several elements with Archai bodies made solely of Saturn warmth.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance.",
+        "Does not assign the present mineral skeleton or blood directly to a Saturn anatomical state."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V26-030",
+      "catalogue_entry_id": "GA110-03",
+      "ga": 110,
+      "date": "1909-04-13",
+      "lecture": 3,
+      "section": 6,
+      "passage_cue": "English §6",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090413a01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "Archai",
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "forms_heat_eggs",
+      "temporal_framework": "Old Saturn",
+      "paraphrase": "Steiner: describes Archai externalizing inner warmth into individualized warmth bodies.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V26-031",
+      "catalogue_entry_id": "GA110-03",
+      "ga": 110,
+      "date": "1909-04-13",
+      "lecture": 3,
+      "section": 7,
+      "passage_cue": "English §7",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090413a01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "describes_fire_breathing",
+      "temporal_framework": "Old Saturn",
+      "paraphrase": "Steiner: compares alternating externalization and return of Saturn heat with breathing.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance.",
+        "No air yet; not pulmonary respiration or a literal ancient lung."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V26-032",
+      "catalogue_entry_id": "GA110-03",
+      "ga": 110,
+      "date": "1909-04-13",
+      "lecture": 3,
+      "section": 9,
+      "passage_cue": "English §9",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090413a01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "requires_other_for_self",
+      "temporal_framework": "Old Saturn",
+      "paraphrase": "Steiner: makes external resistance a prerequisite of Archai self-consciousness.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "different_context",
+        "prior_claim_ids": [
+          "ORG-CLAIM-V25-012"
+        ],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V26-033",
+      "catalogue_entry_id": "GA110-03",
+      "ga": 110,
+      "date": "1909-04-13",
+      "lecture": 3,
+      "section": 10,
+      "passage_cue": "English §10",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090413a01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "Thrones",
+      "agent_scope": "Cosmic dissolution, not organ-specific builder.",
+      "predicate": "dissolves_Saturn_remainder",
+      "temporal_framework": "Old Saturn to pralaya",
+      "paraphrase": "Steiner: assigns Thrones dissolution of Archai’s external remainder into planetary night.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V26-034",
+      "catalogue_entry_id": "GA110-03",
+      "ga": 110,
+      "date": "1909-04-13",
+      "lecture": 3,
+      "section": 11,
+      "passage_cue": "English §11",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090413a01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "links_remainder_to_cosmic_karma",
+      "temporal_framework": "Old Saturn to Old Sun",
+      "paraphrase": "Steiner: describes return to the Old Sun embodiment as karma of the remaining Saturn formations.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V26-035",
+      "catalogue_entry_id": "GA110-03",
+      "ga": 110,
+      "date": "1909-04-13",
+      "lecture": 3,
+      "section": 12,
+      "passage_cue": "English §12",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090413a01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "Archangels",
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "describes_archangel_constitution",
+      "temporal_framework": "Old Sun",
+      "paraphrase": "Steiner: describes Archangel bodies in Old Sun through gas, fire and inward/outward light.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V26-036",
+      "catalogue_entry_id": "GA110-03",
+      "ga": 110,
+      "date": "1909-04-13",
+      "lecture": 3,
+      "section": 12,
+      "passage_cue": "English §12",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090413a01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "Archangels",
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "describes_solar_breathing",
+      "temporal_framework": "Old Sun",
+      "paraphrase": "Steiner: describes Old Sun gas breathing and light/dark alternation through Archangels.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance.",
+        "Not a description of present human lung anatomy or accepted stellar physics."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V26-037",
+      "catalogue_entry_id": "GA110-04",
+      "ga": 110,
+      "date": "1909-04-13",
+      "lecture": 4,
+      "section": 2,
+      "passage_cue": "English §2",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090413p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "Archai and present human thinkers",
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "limits_present_thought_to_astral_form",
+      "temporal_framework": "comparative spiritual agency",
+      "paraphrase": "Steiner: contrasts present human thought-form activity extending into astral with Archai’s physically formative Saturn thought.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V26-038",
+      "catalogue_entry_id": "GA110-04",
+      "ga": 110,
+      "date": "1909-04-13",
+      "lecture": 4,
+      "section": 7,
+      "passage_cue": "English §7",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090413p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "Archai",
+      "agent_scope": "Formative role expressly distinct from substance donation.",
+      "predicate": "distinguishes_form_from_substance_agency",
+      "temporal_framework": "Old Saturn",
+      "paraphrase": "Steiner: says Archai shape Saturn warmth but cannot supply its substance.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V26-039",
+      "catalogue_entry_id": "GA110-04",
+      "ga": 110,
+      "date": "1909-04-13",
+      "lecture": 4,
+      "section": 8,
+      "passage_cue": "English §8",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090413p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "transforms_astral_to_Manas",
+      "temporal_framework": "future human transformation",
+      "paraphrase": "Steiner: describes I mastery and transformation of astral body into Spirit Self or Manas.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V26-040",
+      "catalogue_entry_id": "GA110-04",
+      "ga": 110,
+      "date": "1909-04-13",
+      "lecture": 4,
+      "section": 8,
+      "passage_cue": "English §8",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090413p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "transforms_etheric_to_Budhi",
+      "temporal_framework": "future human transformation",
+      "paraphrase": "Steiner: describes further I transformation of etheric body into Life Spirit or Budhi.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V26-041",
+      "catalogue_entry_id": "GA110-04",
+      "ga": 110,
+      "date": "1909-04-13",
+      "lecture": 4,
+      "section": 8,
+      "passage_cue": "English §8",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090413p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "transforms_physical_to_Atma",
+      "temporal_framework": "future human transformation",
+      "paraphrase": "Steiner: describes I mastery of physical body as Spirit Man or Atma.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V26-042",
+      "catalogue_entry_id": "GA110-04",
+      "ga": 110,
+      "date": "1909-04-13",
+      "lecture": 4,
+      "section": 8,
+      "passage_cue": "English §8",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090413p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "retains_outer_physical_expression",
+      "temporal_framework": "future human transformation",
+      "paraphrase": "Steiner: says the transformed physical body still appears physical outwardly while inwardly I-permeated.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance.",
+        "Does not say physical anatomy is already abolished or specify an individual organ replacement."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V26-043",
+      "catalogue_entry_id": "GA110-04",
+      "ga": 110,
+      "date": "1909-04-13",
+      "lecture": 4,
+      "section": 9,
+      "passage_cue": "English §9",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090413p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "places_first_physical_seed_on_Saturn",
+      "temporal_framework": "Old Saturn to Earth",
+      "paraphrase": "Steiner: places first physical human seed on Old Saturn, before Earth I-reception.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V26-044",
+      "catalogue_entry_id": "GA110-04",
+      "ga": 110,
+      "date": "1909-04-13",
+      "lecture": 4,
+      "section": 9,
+      "passage_cue": "English §9",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090413p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "develops_cosmic_giving",
+      "temporal_framework": "future human creativity",
+      "paraphrase": "Steiner: describes human I transformation leading from receiving toward cosmic giving.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V26-045",
+      "catalogue_entry_id": "GA110-04",
+      "ga": 110,
+      "date": "1909-04-13",
+      "lecture": 4,
+      "section": 10,
+      "passage_cue": "English §10",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090413p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "Thrones",
+      "agent_scope": "Substance donation for physical-human foundation; no exclusive individual organ assignment.",
+      "predicate": "assigns_warmth_substance_donation",
+      "temporal_framework": "Old Saturn",
+      "paraphrase": "Steiner: assigns donation of Saturn warmth-fire substance from their own being to Thrones.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V26-046",
+      "catalogue_entry_id": "GA110-04",
+      "ga": 110,
+      "date": "1909-04-13",
+      "lecture": 4,
+      "section": 11,
+      "passage_cue": "English §11",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090413p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "Thrones and Archai",
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "differentiates_Thrones_Archai",
+      "temporal_framework": "Old Saturn",
+      "paraphrase": "Steiner: distinguishes Thrones’ sacrificial substance from Archai’s I-conscious personalization of warmth.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V26-047",
+      "catalogue_entry_id": "GA110-04",
+      "ga": 110,
+      "date": "1909-04-13",
+      "lecture": 4,
+      "section": 12,
+      "passage_cue": "English §12",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090413p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "Exusiai, Dynamis, Kyriotetes",
+      "agent_scope": "Cooperative cosmic functions, no separate organ allotment.",
+      "predicate": "assigns_intermediate_assistance",
+      "temporal_framework": "Old Saturn",
+      "paraphrase": "Steiner: assigns Exusiai, Dynamis and Kyriotetes assistance between Archai and Thrones.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V26-048",
+      "catalogue_entry_id": "GA110-04",
+      "ga": 110,
+      "date": "1909-04-13",
+      "lecture": 4,
+      "section": 16,
+      "passage_cue": "English §16",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090413p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "Cherubim",
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "assigns_Cherub_archangel_help",
+      "temporal_framework": "Old Sun",
+      "paraphrase": "Steiner: assigns Cherubim reception and support of outward-spreading Archangels.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V26-049",
+      "catalogue_entry_id": "GA110-04",
+      "ga": 110,
+      "date": "1909-04-13",
+      "lecture": 4,
+      "section": 18,
+      "passage_cue": "English §18",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090413p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "Cherubim",
+      "agent_scope": "Animal prototype foundation, not a direct human visceral builder claim.",
+      "predicate": "assigns_Cherub_animal_foundation",
+      "temporal_framework": "Old Sun",
+      "paraphrase": "Steiner: assigns reflected Cherub forms animal physical foundations in dark solar gas.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V26-050",
+      "catalogue_entry_id": "GA110-04",
+      "ga": 110,
+      "date": "1909-04-13",
+      "lecture": 4,
+      "section": 19,
+      "passage_cue": "English §19",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090413p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "distinguishes_human_animal_origins",
+      "temporal_framework": "Old Saturn and Old Sun",
+      "paraphrase": "Steiner: contrasts human physical foundation in Thrones’ Saturn sacrifice with animal foundation through Cherubim on Sun.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V26-051",
+      "catalogue_entry_id": "GA110-04",
+      "ga": 110,
+      "date": "1909-04-13",
+      "lecture": 4,
+      "section": 22,
+      "passage_cue": "English §22",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090413p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "agent_scope": "No exclusive organ builder inferred.",
+      "predicate": "pairs_elevation_with_descent",
+      "temporal_framework": "Old Sun cosmic polarity",
+      "paraphrase": "Steiner: makes Archangel elevation and animal-form descent complementary outcomes.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks separately indexed; full collation not certified.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Compared with inspected registers only; global novelty uncertified."
+      },
+      "caveats": [
+        "Historical attribution, not established physiology or medical guidance."
+      ]
+    }
+  ],
+  "counts": {
+    "new_candidate": 49,
+    "different_context": 2
+  }
+}

@@ -134,3 +134,17 @@ for audit in (ROOT/'research').glob('organ-paragraph-review-*-v*.json'):
    assert r['duplicate_of'] in claims
    assert r.get('independent_evidence') is False
    assert not any(c.get('catalogue_entry_id')==r['catalogue_entry_id'] and c.get('section')==r['paragraph'] and c.get('id','').startswith('ORG-CLAIM-V25') for c in claims.values())
+
+# GA110 denominator includes distinct Q&A genres and same-day lecture sessions.
+wider110=ROOT/f'research/organ-corpus-ledger-ga110-v{version}.json'
+if wider110.exists():
+ w=json.loads(wider110.read_text());assert len(w['entries'])==w['catalogued_entries']==12
+ assert sum(e['genre']=='recorded_lecture' for e in w['entries'])==10
+ assert sum(e['genre']=='questions_and_answers' for e in w['entries'])==2
+ done=[e for e in w['entries'] if e['audit_status']=='all_numbered_english_paragraphs_reviewed']
+ assert len(done)==w['complete_English_source_views']
+ assert sum(e['audit_status']=='unreviewed' for e in w['entries'])==w['unread']
+ assert sum(e['english_paragraphs_reviewed'] for e in done)==w['numbered_units_reviewed']
+ for e in done:
+  rows=[r for r in load(e['audit_record'])['records'] if r['catalogue_entry_id']==e['id']]
+  assert [r['paragraph'] for r in rows]==list(range(1,e['english_paragraphs_reviewed']+1))
