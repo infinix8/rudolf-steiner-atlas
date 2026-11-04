@@ -2,8 +2,8 @@
 
 Generated from local, original Atlas records; no external documents accessed.
 
-- **289 passage-qualified relationships**; **96 original source pages**.
-- **184 direct cross-domain graph connections**.
+- **299 passage-qualified relationships**; **100 original source pages**.
+- **194 direct cross-domain graph connections**.
 - **4 of 30 initial crosslinks** directly matched; **22** still have no matching exact-endpoint source evidence.
 - Source pages include alternate views of shared lecture events (GA313 IX / GA315 VII); page counts are not independent-event counts.
 - Source verification means **selected passages were checked**, not that full books were reviewed.
@@ -20,7 +20,7 @@ Generated from local, original Atlas records; no external documents accessed.
 | 06 | Cosmic Genesis, Earth Evolution, and the Future | 19 |
 | 07 | Nature Kingdoms, Elemental Beings, and the Living Earth | 22 |
 | 08 | Karma, Reincarnation, Death, and Spiritual Destiny | 21 |
-| 09 | Human Constitution: Body, Soul, and Spirit | 107 |
+| 09 | Human Constitution: Body, Soul, and Spirit | 117 |
 | 10 | Soul Life, Consciousness, Senses, and Psychology | 13 |
 | 11 | Life Course, Human Relations, and Embodied Biography | 18 |
 | 12 | Human Evolution and the Future of Consciousness | 10 |
@@ -29,7 +29,7 @@ Generated from local, original Atlas records; no external documents accessed.
 | 15 | Human History, Cultural Epochs, Peoples, and Civilizations | 4 |
 | 16 | Michael, Lucifer, Ahriman, and Spiritual Opposition | 4 |
 | 17 | Natural Sciences, Mathematics, Astronomy, and Technology | 6 |
-| 18 | Medicine, Therapeutics, Health, and Remedial Care | 111 |
+| 18 | Medicine, Therapeutics, Health, and Remedial Care | 121 |
 | 19 | Education, Waldorf Pedagogy, and Child Development | 13 |
 | 20 | Agriculture, Food, Nutrition, and Ecological Life | 9 |
 | 21 | Social Threefolding, Economics, Law, and Political Life | 7 |
@@ -139,6 +139,10 @@ Generated from local, original Atlas records; no external documents accessed.
 | [SG-GA128-02-V24](https://rsarchive.org/Lectures/GA128/English/SOL/19110321p01.html) | GA 128 — An Occult Physiology | 2 |
 | [SG-GA128-03-V24](https://rsarchive.org/Lectures/GA128/English/SOL/19110322p01.html) | GA 128 — An Occult Physiology | 2 |
 | [SG-GA128-04-V24](https://rsarchive.org/Lectures/GA128/English/SOL/19110323p01.html) | GA 128 — An Occult Physiology | 2 |
+| [SG-GA128-05-V25](https://rsarchive.org/Lectures/GA128/English/SOL/19110324p01.html) | GA 128 — An Occult Physiology | 2 |
+| [SG-GA128-06-V25](https://rsarchive.org/Lectures/GA128/English/SOL/19110326p01.html) | GA 128 — An Occult Physiology | 2 |
+| [SG-GA128-07-V25](https://rsarchive.org/Lectures/GA128/English/SOL/19110327p01.html) | GA 128 — An Occult Physiology | 2 |
+| [SG-GA128-08-V25](https://rsarchive.org/Lectures/GA128/English/SOL/19110328p01.html) | GA 128 — An Occult Physiology | 4 |
 
 ## Audit boundaries
 

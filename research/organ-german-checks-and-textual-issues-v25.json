@@ -1,0 +1,170 @@
+{
+  "schema_version": "1.3",
+  "as_of": "2026-11-04",
+  "scope": "Selective German passage/terminology checks only; not full bilingual collation.",
+  "checks": [
+    {
+      "id": "GER-V25-01",
+      "entry": "GA128-05",
+      "section": "§§1–2",
+      "url": "https://rsarchive.org/Lectures/GA128/Compare_05.php",
+      "terms": [
+        "nicht von jedem Organ",
+        "Kraftsysteme"
+      ],
+      "finding": "Organ-force meaning and explicit non-generalizability of persistence after removal confirmed.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V25-02",
+      "entry": "GA128-05",
+      "section": "§§8–9",
+      "url": "https://rsarchive.org/Lectures/GA128/Compare_05.php",
+      "terms": [
+        "Schilddrüse",
+        "eingefangen",
+        "Absonderungsorgane"
+      ],
+      "finding": "Physical secretory dependence distinguished from supersensible splenic predominance; liver/kidneys combine levels.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V25-03",
+      "entry": "GA128-05",
+      "section": "§25",
+      "url": "https://rsarchive.org/Lectures/GA128/Compare_05.php",
+      "terms": [
+        "Zirbeldrüse",
+        "Gehirnanhang"
+      ],
+      "finding": "German names pineal and pituitary; SOL substitutes epiphysis for pituitary.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V25-04",
+      "entry": "GA128-05",
+      "section": "§26",
+      "url": "https://rsarchive.org/Lectures/GA128/Compare_05.php",
+      "terms": [
+        "Hirnanhang",
+        "letzte Vorposten"
+      ],
+      "finding": "German assigns final outpost to pituitary; SOL repeats pineal at this point.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V25-05",
+      "entry": "GA128-06",
+      "section": "§§23,25–26",
+      "url": "https://rsarchive.org/Lectures/GA128/Compare_06.php",
+      "terms": [
+        "Unfug",
+        "vorherigen Inkarnation",
+        "zwischen Tod und neuer Geburt"
+      ],
+      "finding": "Generic phrenology rejected; individual skull prior-life formation asserted. These are not contradictory descriptions of one phrenological method.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V25-06",
+      "entry": "GA128-07",
+      "section": "German §28",
+      "url": "https://rsarchive.org/Lectures/GA128/Compare_07.php",
+      "terms": [
+        "Regsamkeit des Blutes",
+        "Willenstätigkeit",
+        "Salzbildung"
+      ],
+      "finding": "German §28 discusses excessive blood activity and counteracting salt formation; SOL repeats §27 instead. RSPC Compare version English §29 first part supplies corresponding passage; different section segmentation, not an independent lecture.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V25-07",
+      "entry": "GA128-08",
+      "section": "§§38–39",
+      "url": "https://rsarchive.org/Lectures/GA128/Compare_08.php",
+      "terms": [
+        "weibliche Keim [Entoderm]",
+        "männliche [Ektoderm]",
+        "Vererdigung"
+      ],
+      "finding": "Bracketed germ-layer labels occur in displayed German too; not solely SOL translation invention. Editorial provenance of brackets unresolved.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-V25-08",
+      "entry": "GA128-08",
+      "section": "§§41–44",
+      "url": "https://rsarchive.org/Lectures/GA128/Compare_08.php",
+      "terms": [
+        "Erwärmungsvorgängen",
+        "Mitgefühl",
+        "Erdenmission"
+      ],
+      "finding": "Earth mission connects physical blood warmth to I-mediated compassion; spiritual fruits outlast Earth. No literal future heart anatomy supplied.",
+      "status": "German_spot_checked"
+    }
+  ],
+  "unresolved": [
+    {
+      "id": "TXT-V25-01",
+      "status": "corrected_in_current_index",
+      "topic": "Pineal/pituitary substitutions",
+      "sources": [
+        "GA128-05 §§25–26 German and SOL"
+      ],
+      "finding": "Use pituitary for Gehirnanhang/Hirnanhang. Preserve original source URL and log correction rather than repeating English error."
+    },
+    {
+      "id": "TXT-V25-02",
+      "status": "source_defect_mapped",
+      "topic": "Repeated SOL §27 and absent §28",
+      "sources": [
+        "GA128-07 SOL two successive §27 blocks",
+        "Compare German §28",
+        "Compare RSPC English §29 first part"
+      ],
+      "finding": "Second repeated block receives audit ordinal28 with printed_label27; excluded as independent evidence. German §28 is selectively reviewed, not a missing English passage silently reconstructed."
+    },
+    {
+      "id": "TXT-V25-03",
+      "status": "open",
+      "topic": "Bracketed reproductive layer labels",
+      "sources": [
+        "GA128-08 §§38–39"
+      ],
+      "finding": "Bracket labels present in German display; need printed critical edition provenance. No gamete equals germ-layer anatomy accepted."
+    },
+    {
+      "id": "TXT-V25-04",
+      "status": "open",
+      "topic": "Gland physical versus etheric assignment",
+      "sources": [
+        "GA128-05 §8",
+        "GA128-06 §6"
+      ],
+      "finding": "Physical predominance for material secretion and etheric expression for life process may concern different relations; do not assert equivalence or contradiction resolved."
+    },
+    {
+      "id": "TXT-V25-05",
+      "status": "open",
+      "topic": "Prior-life skeletal formation and later childhood organ forces",
+      "sources": [
+        "GA128-06 §§25–26",
+        "GA316-12 §§11–12",
+        "GA317 earlier childhood karma register"
+      ],
+      "finding": "Specific skull configuration, prior-life visceral force transformation and timing of personal karma need separate mechanisms and subjects."
+    },
+    {
+      "id": "TXT-V25-06",
+      "status": "open",
+      "topic": "Sleep salt clearance versus earlier sleep accounts",
+      "sources": [
+        "GA128-07 §16",
+        "GA313–317 sleep and surface-activity register"
+      ],
+      "finding": "New salt-clearance assertion neither verifies nor reconciles redistribution, interruption and inertia accounts."
+    }
+  ]
+}

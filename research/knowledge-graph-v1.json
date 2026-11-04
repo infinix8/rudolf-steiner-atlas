@@ -1879,6 +1879,82 @@
         "entire_work_reviewed": false,
         "full_translation_collation": false
       }
+    },
+    {
+      "id": "SG-GA128-05-V25",
+      "ga": "128",
+      "work": "An Occult Physiology",
+      "unit": "GA128-05",
+      "kind": "recorded_lecture",
+      "edition": "SOL English",
+      "lecture_date": "1911-03-24",
+      "url": "https://rsarchive.org/Lectures/GA128/English/SOL/19110324p01.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Graph selected propositions; full available English source read in separate audit; no bilingual/exhaustive certification.",
+        "checked_on": "2026-11-03",
+        "archive_page_opened_on": "2026-11-03",
+        "archive_url_checked": true,
+        "entire_work_reviewed": false,
+        "full_translation_collation": false
+      }
+    },
+    {
+      "id": "SG-GA128-06-V25",
+      "ga": "128",
+      "work": "An Occult Physiology",
+      "unit": "GA128-06",
+      "kind": "recorded_lecture",
+      "edition": "SOL English",
+      "lecture_date": "1911-03-26",
+      "url": "https://rsarchive.org/Lectures/GA128/English/SOL/19110326p01.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Graph selected propositions; full available English source read in separate audit; no bilingual/exhaustive certification.",
+        "checked_on": "2026-11-03",
+        "archive_page_opened_on": "2026-11-03",
+        "archive_url_checked": true,
+        "entire_work_reviewed": false,
+        "full_translation_collation": false
+      }
+    },
+    {
+      "id": "SG-GA128-07-V25",
+      "ga": "128",
+      "work": "An Occult Physiology",
+      "unit": "GA128-07",
+      "kind": "recorded_lecture",
+      "edition": "SOL English",
+      "lecture_date": "1911-03-27",
+      "url": "https://rsarchive.org/Lectures/GA128/English/SOL/19110327p01.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Graph selected propositions; full available English source read in separate audit; no bilingual/exhaustive certification.",
+        "checked_on": "2026-11-03",
+        "archive_page_opened_on": "2026-11-03",
+        "archive_url_checked": true,
+        "entire_work_reviewed": false,
+        "full_translation_collation": false
+      }
+    },
+    {
+      "id": "SG-GA128-08-V25",
+      "ga": "128",
+      "work": "An Occult Physiology",
+      "unit": "GA128-08",
+      "kind": "recorded_lecture",
+      "edition": "SOL English",
+      "lecture_date": "1911-03-28",
+      "url": "https://rsarchive.org/Lectures/GA128/English/SOL/19110328p01.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Graph selected propositions; full available English source read in separate audit; no bilingual/exhaustive certification.",
+        "checked_on": "2026-11-03",
+        "archive_page_opened_on": "2026-11-03",
+        "archive_url_checked": true,
+        "entire_work_reviewed": false,
+        "full_translation_collation": false
+      }
     }
   ],
   "edges": [
@@ -6828,6 +6904,176 @@
       ],
       "claim": "Blood/heart and lymphatic etheric currents culminate in distinct pineal and pituitary expressions of memory formation.",
       "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-290",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA128-05-V25",
+          "passage_locator": "§§1–9"
+        }
+      ],
+      "claim": "Physical-organ removal cannot be generalized: supersensible splenic persistence is contrasted with physical secretory dependence in thyroid, liver and kidneys.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-291",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA128-05-V25",
+          "passage_locator": "§§25–27; German comparison"
+        }
+      ],
+      "claim": "Pineal/pituitary pair and pituitary outpost require correction of two SOL English gland substitutions.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-292",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA128-06-V25",
+          "passage_locator": "§§14–17"
+        }
+      ],
+      "claim": "Oldest skeletal force-history and newest blood instrument are poles of present I-malleability; bone immutability rhetoric is not accepted physiology.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-293",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA128-06-V25",
+          "passage_locator": "§§23–28"
+        }
+      ],
+      "claim": "Rejects generic phrenology but asserts individual skull formation from prior incarnation; these are distinct propositions.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-294",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA128-07-V25",
+          "passage_locator": "§§5–9,15–19"
+        }
+      ],
+      "claim": "Thinking/salt, feeling/coagulation and willing/warmth are asserted physiological correlates with separate unconscious skeletal/metabolic poles.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-295",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA128-07-V25",
+          "passage_locator": "§§21–27"
+        }
+      ],
+      "claim": "Isolation from food’s own laws coexists with blood’s outward physical-chemical interface; whole-system context prevents a blanket isolation claim.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-296",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA128-08-V25",
+          "passage_locator": "§§17–18"
+        }
+      ],
+      "claim": "Pulmonary and renal excretion sustain self-experience; lungs are expressly both descending-excretory and ascending-outward.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-297",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA128-08-V25",
+          "passage_locator": "§§21–26"
+        }
+      ],
+      "claim": "Six planetary-metal pairings and upper/lower correspondences are historical therapeutic assertions, with an explicit ordinary-copper qualification and hazardous vapor proposal.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-298",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA128-08-V25",
+          "passage_locator": "§§31–39"
+        }
+      ],
+      "claim": "Force-history, counterfactual lymphatic potential and gendered germ polarity require separation from present anatomy and accepted embryology.",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-299",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA128-08-V25",
+          "passage_locator": "§§41–44"
+        }
+      ],
+      "claim": "Blood warmth culminates in an Earth-mission account of compassion and spiritual fruits surviving Earth; no named hierarchy-to-organ builder supplied.",
+      "relation_family": "attributed_process_and_causation"
     }
   ],
   "version": "1.1",
@@ -6924,6 +7170,14 @@
     "unnumbered_blocks": 0,
     "selected_claim_records": 55,
     "German_spot_check_entries": 6,
+    "full_German_collations": 0
+  },
+  "organ_concordance_phase25": {
+    "complete_English_views": 4,
+    "numbered_units": 132,
+    "unnumbered_blocks": 0,
+    "selected_claim_records": 102,
+    "German_spot_check_entries": 8,
     "full_German_collations": 0
   }
 }

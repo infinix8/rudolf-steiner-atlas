@@ -126,3 +126,11 @@ for provenance in (ROOT/'research').glob('organ-manuscript-provenance-v*.json'):
  if 'nested_v15' in m:
   b=(ROOT/m['cumulative_path']).read_bytes();n=m['nested_v15'];piece=b[n['preserved_start_byte']:n['preserved_end_byte_exclusive']]
   assert len(piece)==n['source_bytes'] and hashlib.sha256(piece).hexdigest()==n['source_sha256']
+
+# Known edition defects retain original labels without creating new evidence.
+for audit in (ROOT/'research').glob('organ-paragraph-review-*-v*.json'):
+ for r in json.loads(audit.read_text()).get('records',[]):
+  if r.get('duplicate_of'):
+   assert r['duplicate_of'] in claims
+   assert r.get('independent_evidence') is False
+   assert not any(c.get('catalogue_entry_id')==r['catalogue_entry_id'] and c.get('section')==r['paragraph'] and c.get('id','').startswith('ORG-CLAIM-V25') for c in claims.values())
