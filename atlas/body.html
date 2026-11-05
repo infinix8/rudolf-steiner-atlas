@@ -55,12 +55,12 @@ main{padding:31px 0 54px}.layout{display:grid;grid-template-columns:minmax(0,1.2
 <path d="M180 157 L180 216 M180 204 L161 216 M180 204 L199 216" fill="none" stroke="#5f968d" stroke-width="3" stroke-linecap="round"/>
 </a>
 <!-- Heart, slightly viewer-right of center -->
-<a class="organ" data-organ-id="organ-heart" href="mobile-preview.html#heart/overview" aria-label="Heart: open guided organ page"><title>Heart</title>
+<a class="organ" data-organ-id="organ-heart" href="organ-detail.html?organ=organ-heart&amp;layer=overview" aria-label="Heart: open guided organ page"><title>Heart</title>
 <path d="M184 236 Q171 226 172 244 Q173 252 190 268 Q210 254 211 243 Q209 227 199 233 Q194 238 190 241 Q189 237 184 236Z" fill="#bb817b"/>
 <path d="M192 240 L195 222 Q205 216 209 226" fill="none" stroke="#946b66" stroke-width="2.2"/>
 </a>
 <!-- Liver (viewer left, human right) -->
-<a class="organ" data-organ-id="organ-liver" href="mobile-preview.html#liver/overview" aria-label="Liver: open guided organ page"><title>Liver</title>
+<a class="organ" data-organ-id="organ-liver" href="organ-detail.html?organ=organ-liver&amp;layer=overview" aria-label="Liver: open guided organ page"><title>Liver</title>
 <path d="M133 294 Q150 281 190 291 Q192 314 178 326 Q162 330 142 319 Q134 312 133 294Z" fill="#b7a57e"/>
 </a>
 <!-- Stomach (viewer right, human left) -->
@@ -87,7 +87,7 @@ main{padding:31px 0 54px}.layout{display:grid;grid-template-columns:minmax(0,1.2
 </section>
 <aside class="side">
 <section class="panel control" aria-label="Find an organ">
-<div class="label">Organ navigator</div><h2>Find your focus</h2><p>Two guided pages are ready; the other organs link to the existing research dossiers.</p>
+<div class="label">Organ navigator</div><h2>Find your focus</h2><p>Heart and Liver now have eight-layer visual guides; the other organs link to research dossiers.</p>
 <div class="filters">
 <label>Search <input id="organ-search" type="search" autocomplete="off" placeholder="Heart, liver…"></label>
 <label>System <select id="organ-system"><option value="">All systems</option><option value="Head and nervous">Head and nervous</option><option value="Breathing and rhythm">Breathing and rhythm</option><option value="Metabolic">Metabolic</option></select></label>
@@ -98,7 +98,7 @@ main{padding:31px 0 54px}.layout{display:grid;grid-template-columns:minmax(0,1.2
 <div class="kicker" id="preview-kicker">Guided organ page</div><h2 id="preview-heading">Heart</h2><p id="preview-summary">Choose an organ to explore its explanation and sources.</p>
 <div class="terms" id="preview-terms"></div>
 <p class="state" id="preview-status"></p>
-<div class="actions"><a class="cta" id="preview-open" href="mobile-preview.html#heart/overview">Open organ guide →</a><a class="cta secondary" id="preview-research" href="organs.html?organ=organ-heart">Full research dossier</a></div>
+<div class="actions"><a class="cta" id="preview-open" href="organ-detail.html?organ=organ-heart&amp;layer=overview">Open organ guide →</a><a class="cta secondary" id="preview-research" href="organs.html?organ=organ-heart">Full research dossier</a></div>
 </section>
 </aside>
 </div>
@@ -111,7 +111,7 @@ main{padding:31px 0 54px}.layout{display:grid;grid-template-columns:minmax(0,1.2
 </section>
 <div class="caution">The historical spiritual-scientific teachings attributed to Rudolf Steiner are not established anatomy, physiology, medical treatment or disability explanations. The diagram is illustrative. Exact source links, translation issues and research limits remain in the organ dossiers and guides.</div>
 </main>
-<footer><div class="wrap"><a href="../index.html">Atlas home</a> · <a href="sources.html">Original-source guide</a> · <a href="mobile-preview.html#heart/overview">Heart guide</a> · <a href="mobile-preview.html#liver/overview">Liver guide</a><p>Independent editorial project complementing RS Archive. Organ research phase 29, 5 November 2026.</p></div></footer>
+<footer><div class="wrap"><a href="../index.html">Atlas home</a> · <a href="sources.html">Original-source guide</a> · <a href="organ-detail.html?organ=organ-heart&amp;layer=overview">Heart guide</a> · <a href="organ-detail.html?organ=organ-liver&amp;layer=overview">Liver guide</a><p>Independent editorial project complementing RS Archive. Organ research phase 29, 5 November 2026.</p></div></footer>
 <script>
 "use strict";
 (()=> {
