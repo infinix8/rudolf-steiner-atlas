@@ -169,7 +169,7 @@ Every stage keeps provenance. A new GA lecture may add evidence without automati
 ## 9. Implementation sequence
 
 **Milestone A — presentation-quality pilot (start here)**
-- Build a **Heart** page with an excellent 2-minute overview, separate Old Saturn/Earth-recitation source cards, precise source references and a compact visual timeline.
+- Build a **Heart** page with an excellent 2-minute overview, separate Old Saturn/Earth-recapitulation source cards, precise source references and a compact visual timeline.
 - Add **Liver** as a deliberately different example: Jupiter *analogy* versus liver–gall/I, inward sense for nourishment, relation to childhood head and water element. Never fuse these distinct predicates.
 - Reuse existing dossiers. Include an explicit "insufficient evidence" state, unresolved comparisons, and deep links.
 - Test both as complete learner journeys on mobile and desktop.
