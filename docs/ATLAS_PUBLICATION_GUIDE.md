@@ -13,6 +13,8 @@ The unified homepage at `https://infinix8.github.io/rudolf-steiner-atlas/` offer
 | `/` | Unified guided homepage |
 | `/atlas/index.html` | Original thematic Atlas: concepts and taxonomy |
 | `/atlas/body.html` | Visual clickable eight-organ human-body map and discovery interface |
+| `/atlas/organ-detail.html?organ=organ-heart&layer=overview` | New eight-layer Heart guide |
+| `/atlas/organ-detail.html?organ=organ-liver&layer=overview` | New eight-layer Liver guide |
 | `/atlas/mobile-preview.html` | Curated Heart/Liver guided organ experience |
 | `/atlas/organs.html` | Full current 40-dossier organ concordance reader |
 | `/atlas/agency.html` | Spiritual beings, stages and roles |
@@ -22,6 +24,8 @@ The unified homepage at `https://infinix8.github.io/rudolf-steiner-atlas/` offer
 | `/atlas/timeline.html` | Dated lecture chronology |
 | `/atlas/dossiers.html` | Thematic study dossiers |
 | `/atlas/trajectories.html` | Context and trajectory comparisons |
+
+The new visual Heart/Liver pages load `research/organ-atlas-guides-v1.json` and require `atlas/organ-detail.js` and `atlas/organ-detail.css`. The manual deployment validates these guide links with `python3 tools/validate_visual_organ_atlas.py`.
 
 The visual body map loads `research/organ-body-map-v1.json`. The single manual publishing job checks that each mapped organ's target HTML file exists.
 
