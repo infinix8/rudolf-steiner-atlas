@@ -2,7 +2,7 @@
 // The organ browser loads original editorial records, not the original lecture texts.
 const $=q=>document.querySelector(q);
 const safe=v=>String(v??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
-const state={dossiers:null,ledger:null,phase16:null,selected:null};
+const state={manifest:null,dossiers:null,ledger:null,ga110:null,phase16:null,selected:null};
 function allowed(url){
   try{const u=new URL(url);return u.protocol==="https:"&&["rsarchive.org","www.rsarchive.org"].includes(u.hostname)}catch{return false}
 }
@@ -26,7 +26,8 @@ function showStats(){
   const withPhase=list.filter(d=>allRefinements(d).length).length;
   const noEvidence=list.filter(d=>!d.relations.length&&!allRefinements(d).length).length;
   const stats=[["Organ dossiers",list.length],["Original comparative relations",withLegacy],
-    ["With later claim annotations",withPhase],["No linked records yet",noEvidence]];
+    ["With later claim annotations",withPhase],["GA110 English source views",state.ga110.complete_English_source_views+" / "+state.ga110.catalogued_entries],
+    ["No linked records yet",noEvidence]];
   $("#organ-stats").innerHTML=stats.map(([label,num])=>'<div class="stat"><strong>'+num+
     '</strong><span>'+safe(label)+'</span></div>').join("");
 }
@@ -116,11 +117,18 @@ function cases(){
 }
 async function init(){
  try{
-  const [a,b,c]=await Promise.all([fetch("../research/organ-comparative-dossiers-v26.json"),
-    fetch("../research/organ-corpus-ledger-ga313-317-v24.json"),
-    fetch("../research/organ-selected-reading-ga317-viii-v16.json")]);
-  if([a,b,c].some(x=>!x.ok))throw Error("Cannot load local organ concordance data: serve from repository root.");
-  [state.dossiers,state.ledger,state.phase16]=await Promise.all([a.json(),b.json(),c.json()]);
+  const manifestResponse=await fetch("../research/organ-current.json");
+  if(!manifestResponse.ok)throw Error("Cannot load current organ research manifest.");
+  state.manifest=await manifestResponse.json();
+  const files=state.manifest.files;
+  const allowedPath=x=>typeof x==="string" && /^\.\.\/research\/[a-z0-9-]+\.json$/.test(x);
+  if(![files.dossiers,files.medical_corpus,files.case_supplement,files.ga110_corpus].every(allowedPath))
+    throw Error("Invalid local organ research manifest paths.");
+  const [a,b,c,d]=await Promise.all([fetch(files.dossiers),fetch(files.medical_corpus),fetch(files.case_supplement),fetch(files.ga110_corpus)]);
+  if([a,b,c,d].some(x=>!x.ok))throw Error("Cannot load local organ concordance data: serve from repository root.");
+  [state.dossiers,state.ledger,state.phase16,state.ga110]=await Promise.all([a.json(),b.json(),c.json(),d.json()]);
+  if(state.dossiers.dossiers.length!==state.manifest.verified_current_counts.organ_dossiers)
+    throw Error("Manifest and organ dossier counts differ.");
   if(state.dossiers.dossiers.length!==state.dossiers.dossier_count)throw Error("Organ dossier count mismatch.");
   showStats();cases();
   $("#organ-query").addEventListener("input",nav);
