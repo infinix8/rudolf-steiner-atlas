@@ -12,6 +12,7 @@ The unified homepage at `https://infinix8.github.io/rudolf-steiner-atlas/` offer
 | --- | --- |
 | `/` | Unified guided homepage |
 | `/atlas/index.html` | Original thematic Atlas: concepts and taxonomy |
+| `/atlas/body.html` | Visual clickable eight-organ human-body map and discovery interface |
 | `/atlas/mobile-preview.html` | Curated Heart/Liver guided organ experience |
 | `/atlas/organs.html` | Full current 40-dossier organ concordance reader |
 | `/atlas/agency.html` | Spiritual beings, stages and roles |
@@ -21,6 +22,8 @@ The unified homepage at `https://infinix8.github.io/rudolf-steiner-atlas/` offer
 | `/atlas/timeline.html` | Dated lecture chronology |
 | `/atlas/dossiers.html` | Thematic study dossiers |
 | `/atlas/trajectories.html` | Context and trajectory comparisons |
+
+The visual body map loads `research/organ-body-map-v1.json`. The single manual publishing job checks that each mapped organ's target HTML file exists.
 
 The site deploys the Atlas HTML, CSS and JavaScript; editorial research JSON; taxonomy and necessary supporting documents/assets. It keeps the original archive text at RSArchive and links outward.
 
