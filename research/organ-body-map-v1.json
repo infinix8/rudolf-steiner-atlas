@@ -45,7 +45,7 @@
         "Conscience"
       ],
       "status": "guided",
-      "route": "mobile-preview.html#heart/overview"
+      "route": "organ-detail.html?organ=organ-heart&layer=overview"
     },
     {
       "id": "organ-liver",
@@ -59,7 +59,7 @@
         "Will"
       ],
       "status": "guided",
-      "route": "mobile-preview.html#liver/overview"
+      "route": "organ-detail.html?organ=organ-liver&layer=overview"
     },
     {
       "id": "organ-stomach",
