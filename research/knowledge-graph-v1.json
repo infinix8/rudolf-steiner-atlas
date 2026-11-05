@@ -192,18 +192,18 @@
       "id": "SG-GA110-19090414",
       "ga": "110",
       "work": "The Spiritual Hierarchies",
-      "unit": "Lecture V",
+      "unit": "Fifth lecture (V)",
       "kind": "recorded_lecture",
       "edition": "English 1928 archive edition",
       "lecture_date": "1909-04-14",
-      "url": "https://rsarchive.org/Lectures/19090414p01.html",
+      "url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090414p01.html",
       "review": {
         "status": "selected_passages_checked",
-        "scope": "Lecture's early account of first and second hierarchies, Old Saturn to Old Moon, and roles of Thrones/Spirits of Wisdom/Motion/Form checked.",
+        "scope": "Complete numbered English source-view first pass, §§1–21; selected precise propositions; V §13 German checked for hierarchy title ambiguity; entire corpus context and full German collation pending.",
         "checked_on": "2026-11-02",
         "source_site": "Rudolf Steiner Archive",
         "entire_work_reviewed": false,
-        "archive_page_opened_on": "2026-11-02",
+        "archive_page_opened_on": "2026-11-05",
         "archive_url_checked": true,
         "full_translation_collation": false
       }
@@ -2029,6 +2029,66 @@
         "archive_page_opened_on": "2026-11-03",
         "archive_url_checked": true,
         "entire_work_reviewed": false,
+        "full_translation_collation": false
+      }
+    },
+    {
+      "id": "SG-GA110-06-V27",
+      "ga": "110",
+      "work": "Spiritual Hierarchies and Their Reflection in the Physical World",
+      "unit": "Sixth lecture (VI)",
+      "kind": "recorded_lecture",
+      "edition": "Steiner Online Library English translation; complete numbered source-view first pass",
+      "lecture_date": "1909-04-15",
+      "url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090415p01.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Every available numbered English section consulted for topical indexing; 23/25/17 sections respectively. Selected claims indexed; no full German or independent second review. Spiritual/racialized, anatomical and astronomical assertions are attributed.",
+        "checked_on": "2026-11-05",
+        "source_site": "Rudolf Steiner Archive",
+        "entire_work_reviewed": false,
+        "archive_page_opened_on": "2026-11-05",
+        "archive_url_checked": true,
+        "full_translation_collation": false
+      }
+    },
+    {
+      "id": "SG-GA110-07-V27",
+      "ga": "110",
+      "work": "Spiritual Hierarchies and Their Reflection in the Physical World",
+      "unit": "Seventh lecture (VII)",
+      "kind": "recorded_lecture",
+      "edition": "Steiner Online Library English translation; complete numbered source-view first pass",
+      "lecture_date": "1909-04-16",
+      "url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090416p01.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Every available numbered English section consulted for topical indexing; 23/25/17 sections respectively. Selected claims indexed; no full German or independent second review. Spiritual/racialized, anatomical and astronomical assertions are attributed.",
+        "checked_on": "2026-11-05",
+        "source_site": "Rudolf Steiner Archive",
+        "entire_work_reviewed": false,
+        "archive_page_opened_on": "2026-11-05",
+        "archive_url_checked": true,
+        "full_translation_collation": false
+      }
+    },
+    {
+      "id": "SG-GA110-08-V27",
+      "ga": "110",
+      "work": "Spiritual Hierarchies and Their Reflection in the Physical World",
+      "unit": "Eighth lecture (VIII)",
+      "kind": "recorded_lecture",
+      "edition": "Steiner Online Library English translation; complete numbered source-view first pass",
+      "lecture_date": "1909-04-17",
+      "url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090417p01.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Every available numbered English section consulted for topical indexing; 23/25/17 sections respectively. Selected claims indexed; no full German or independent second review. Spiritual/racialized, anatomical and astronomical assertions are attributed.",
+        "checked_on": "2026-11-05",
+        "source_site": "Rudolf Steiner Archive",
+        "entire_work_reviewed": false,
+        "archive_page_opened_on": "2026-11-05",
+        "archive_url_checked": true,
         "full_translation_collation": false
       }
     }
@@ -7269,10 +7329,658 @@
       ],
       "claim": "Cherubim aid Archangels and form animal prototypes in distinct solar circumstances, not an automatic list of human organ builders.",
       "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-307",
+      "from": "RS-05.02.09",
+      "to": "RS-05.05.01",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "relation_family": "attributed_process_and_causation",
+      "evidence": [
+        {
+          "source_id": "SG-GA110-19090414",
+          "passage_locator": "English §7; 1909 GA110 lecture 5"
+        }
+      ],
+      "claim": "Highest goals assigned to Seraphim as the reception, not the physical donation, of a divine plan.",
+      "note": "Primary Steiner historical/esoteric assertion only; not independent scientific, anatomical, astronomical or cultural-historical validation. Additional detailed assessment in GA110 v27 paragraph/claim records."
+    },
+    {
+      "id": "KG-308",
+      "from": "RS-05.02.08",
+      "to": "RS-05.05.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "relation_family": "attributed_process_and_causation",
+      "evidence": [
+        {
+          "source_id": "SG-GA110-19090414",
+          "passage_locator": "English §7; 1909 GA110 lecture 5"
+        }
+      ],
+      "claim": "Cherubim are assigned working out cosmic goals in wisdom; this is distinct from the Thrones giving warmth substance.",
+      "note": "Primary Steiner historical/esoteric assertion only; not independent scientific, anatomical, astronomical or cultural-historical validation. Additional detailed assessment in GA110 v27 paragraph/claim records."
+    },
+    {
+      "id": "KG-309",
+      "from": "RS-05.02.07",
+      "to": "RS-06.03.01",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "relation_family": "attributed_process_and_causation",
+      "evidence": [
+        {
+          "source_id": "SG-GA110-19090414",
+          "passage_locator": "English §8; 1909 GA110 lecture 5"
+        }
+      ],
+      "claim": "Thrones are said to contribute warmth substance as the foundation of the human physical organization on Old Saturn.",
+      "note": "Primary Steiner historical/esoteric assertion only; not independent scientific, anatomical, astronomical or cultural-historical validation. Additional detailed assessment in GA110 v27 paragraph/claim records."
+    },
+    {
+      "id": "KG-310",
+      "from": "RS-05.02",
+      "to": "RS-05.05.05",
+      "type": "described_as_cooperating",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "relation_family": "composition_and_structure",
+      "evidence": [
+        {
+          "source_id": "SG-GA110-19090414",
+          "passage_locator": "English §10; 1909 GA110 lecture 5"
+        }
+      ],
+      "claim": "The first hierarchy works at Old Saturn's periphery and second hierarchy differentiates it within; not all ranks have the same function.",
+      "note": "Primary Steiner historical/esoteric assertion only; not independent scientific, anatomical, astronomical or cultural-historical validation. Additional detailed assessment in GA110 v27 paragraph/claim records."
+    },
+    {
+      "id": "KG-311",
+      "from": "RS-05.02.04",
+      "to": "RS-05.05.05",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "relation_family": "attributed_process_and_causation",
+      "evidence": [
+        {
+          "source_id": "SG-GA110-19090414",
+          "passage_locator": "English §13; 1909 GA110 lecture 5"
+        }
+      ],
+      "claim": "German Gewalten are assigned maintenance of formed order, while Dynamis carry out earlier arrangements; English rank names can mislead.",
+      "note": "Primary Steiner historical/esoteric assertion only; not independent scientific, anatomical, astronomical or cultural-historical validation. Additional detailed assessment in GA110 v27 paragraph/claim records."
+    },
+    {
+      "id": "KG-312",
+      "from": "RS-05.02.06",
+      "to": "RS-06.05.02",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "relation_family": "attributed_process_and_causation",
+      "evidence": [
+        {
+          "source_id": "SG-GA110-19090414",
+          "passage_locator": "English §16; 1909 GA110 lecture 5"
+        }
+      ],
+      "claim": "Spirits of Wisdom are credited with the Old Saturn-to-Old Sun contraction and transition to air/gas.",
+      "note": "Primary Steiner historical/esoteric assertion only; not independent scientific, anatomical, astronomical or cultural-historical validation. Additional detailed assessment in GA110 v27 paragraph/claim records."
+    },
+    {
+      "id": "KG-313",
+      "from": "RS-05.02.05",
+      "to": "RS-06.03.03",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "relation_family": "attributed_process_and_causation",
+      "evidence": [
+        {
+          "source_id": "SG-GA110-19090414",
+          "passage_locator": "English §17; 1909 GA110 lecture 5"
+        }
+      ],
+      "claim": "The Dynamis are associated with transition toward the watery Old Moon phase, not a specific modern organ.",
+      "note": "Primary Steiner historical/esoteric assertion only; not independent scientific, anatomical, astronomical or cultural-historical validation. Additional detailed assessment in GA110 v27 paragraph/claim records."
+    },
+    {
+      "id": "KG-314",
+      "from": "RS-05.02.05",
+      "to": "RS-06.02.02",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "relation_family": "attributed_process_and_causation",
+      "evidence": [
+        {
+          "source_id": "SG-GA110-19090414",
+          "passage_locator": "English §19; 1909 GA110 lecture 5"
+        }
+      ],
+      "claim": "Differently matured Dynamis are said to separate the finer Sun from denser Old Moon in an esoteric evolutionary narrative.",
+      "note": "Primary Steiner historical/esoteric assertion only; not independent scientific, anatomical, astronomical or cultural-historical validation. Additional detailed assessment in GA110 v27 paragraph/claim records."
+    },
+    {
+      "id": "KG-315",
+      "from": "RS-16.05",
+      "to": "RS-17.02.01",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "relation_family": "attributed_process_and_causation",
+      "evidence": [
+        {
+          "source_id": "SG-GA110-19090414",
+          "passage_locator": "English §20; 1909 GA110 lecture 5"
+        }
+      ],
+      "claim": "The asteroid belt is interpreted as debris of a heavenly struggle; this is a historically attributed, scientifically unsupported claim.",
+      "note": "Primary Steiner historical/esoteric assertion only; not independent scientific, anatomical, astronomical or cultural-historical validation. Additional detailed assessment in GA110 v27 paragraph/claim records."
+    },
+    {
+      "id": "KG-316",
+      "from": "RS-05.02.01",
+      "to": "RS-08.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "relation_family": "attributed_process_and_causation",
+      "evidence": [
+        {
+          "source_id": "SG-GA110-06-V27",
+          "passage_locator": "English §5; 1909 GA110 lecture 6"
+        }
+      ],
+      "claim": "Angels are described as keeping continuity between claimed successive incarnations, explicitly not as governors of karma.",
+      "note": "Primary Steiner historical/esoteric assertion only; not independent scientific, anatomical, astronomical or cultural-historical validation. Additional detailed assessment in GA110 v27 paragraph/claim records."
+    },
+    {
+      "id": "KG-317",
+      "from": "RS-05.02.02",
+      "to": "RS-05.03.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "relation_family": "attributed_process_and_causation",
+      "evidence": [
+        {
+          "source_id": "SG-GA110-06-V27",
+          "passage_locator": "English §6; 1909 GA110 lecture 6"
+        }
+      ],
+      "claim": "Archangels are assigned group or folk-spirit coordination in an account containing historically racialized categories.",
+      "note": "Primary Steiner historical/esoteric assertion only; not independent scientific, anatomical, astronomical or cultural-historical validation. Additional detailed assessment in GA110 v27 paragraph/claim records."
+    },
+    {
+      "id": "KG-318",
+      "from": "RS-05.02.03",
+      "to": "RS-15.03",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "relation_family": "attributed_process_and_causation",
+      "evidence": [
+        {
+          "source_id": "SG-GA110-06-V27",
+          "passage_locator": "English §6; 1909 GA110 lecture 6"
+        }
+      ],
+      "claim": "Archai are presented as governing the character and timing of successive historical cultural epochs.",
+      "note": "Primary Steiner historical/esoteric assertion only; not independent scientific, anatomical, astronomical or cultural-historical validation. Additional detailed assessment in GA110 v27 paragraph/claim records."
+    },
+    {
+      "id": "KG-319",
+      "from": "RS-05.02.04",
+      "to": "RS-06.01.05",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "relation_family": "attributed_process_and_causation",
+      "evidence": [
+        {
+          "source_id": "SG-GA110-06-V27",
+          "passage_locator": "English §7; 1909 GA110 lecture 6"
+        }
+      ],
+      "claim": "Spirits of Form are described as guiding collective humanity from one planetary embodiment toward a future one.",
+      "note": "Primary Steiner historical/esoteric assertion only; not independent scientific, anatomical, astronomical or cultural-historical validation. Additional detailed assessment in GA110 v27 paragraph/claim records."
+    },
+    {
+      "id": "KG-320",
+      "from": "RS-05.04.01",
+      "to": "RS-17.02.01",
+      "type": "distinguished_from",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "relation_family": "distinction_and_comparison",
+      "evidence": [
+        {
+          "source_id": "SG-GA110-06-V27",
+          "passage_locator": "English §13; 1909 GA110 lecture 6"
+        }
+      ],
+      "claim": "Esoteric Mercury/Venus sphere terminology is described as historically reversed relative to modern planet labels.",
+      "note": "Primary Steiner historical/esoteric assertion only; not independent scientific, anatomical, astronomical or cultural-historical validation. Additional detailed assessment in GA110 v27 paragraph/claim records."
+    },
+    {
+      "id": "KG-321",
+      "from": "RS-05.04.01",
+      "to": "RS-17.02",
+      "type": "distinguished_from",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "relation_family": "distinction_and_comparison",
+      "evidence": [
+        {
+          "source_id": "SG-GA110-06-V27",
+          "passage_locator": "English §17; 1909 GA110 lecture 6"
+        }
+      ],
+      "claim": "Earth-centered hierarchy spheres are explicitly set apart from the physical heliocentric system; neither proves the asserted spiritual mapping.",
+      "note": "Primary Steiner historical/esoteric assertion only; not independent scientific, anatomical, astronomical or cultural-historical validation. Additional detailed assessment in GA110 v27 paragraph/claim records."
+    },
+    {
+      "id": "KG-322",
+      "from": "RS-05.02.01",
+      "to": "RS-05.04.02",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "relation_family": "attributed_process_and_causation",
+      "evidence": [
+        {
+          "source_id": "SG-GA110-06-V27",
+          "passage_locator": "English §18; 1909 GA110 lecture 6"
+        }
+      ],
+      "claim": "The Moon's sphere is treated as the region of angelic activity, rather than requiring each angel to reside on the lunar body.",
+      "note": "Primary Steiner historical/esoteric assertion only; not independent scientific, anatomical, astronomical or cultural-historical validation. Additional detailed assessment in GA110 v27 paragraph/claim records."
+    },
+    {
+      "id": "KG-323",
+      "from": "RS-05.03.06",
+      "to": "RS-15.01",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "relation_family": "attributed_process_and_causation",
+      "evidence": [
+        {
+          "source_id": "SG-GA110-06-V27",
+          "passage_locator": "English §21; 1909 GA110 lecture 6"
+        }
+      ],
+      "claim": "Teachers in claimed Lemurian and Atlantean times are assigned higher spiritual agencies; this is unverified esoteric prehistory.",
+      "note": "Primary Steiner historical/esoteric assertion only; not independent scientific, anatomical, astronomical or cultural-historical validation. Additional detailed assessment in GA110 v27 paragraph/claim records."
+    },
+    {
+      "id": "KG-324",
+      "from": "RS-09.01.04",
+      "to": "RS-09.05.01",
+      "type": "transforms",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "relation_family": "development_and_sequence",
+      "evidence": [
+        {
+          "source_id": "SG-GA110-07-V27",
+          "passage_locator": "English §6; 1909 GA110 lecture 7"
+        }
+      ],
+      "claim": "Steiner describes Spirit Self/Manas as transformation of existing astral organization by the human I, not creation of a new separate organ.",
+      "note": "Primary Steiner historical/esoteric assertion only; not independent scientific, anatomical, astronomical or cultural-historical validation. Additional detailed assessment in GA110 v27 paragraph/claim records."
+    },
+    {
+      "id": "KG-325",
+      "from": "RS-09.01.02",
+      "to": "RS-09.05.02",
+      "type": "transforms",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "relation_family": "development_and_sequence",
+      "evidence": [
+        {
+          "source_id": "SG-GA110-07-V27",
+          "passage_locator": "English §7; 1909 GA110 lecture 7"
+        }
+      ],
+      "claim": "Life Spirit/Buddhi is treated as the human I's transformation of the etheric body in the future-development account.",
+      "note": "Primary Steiner historical/esoteric assertion only; not independent scientific, anatomical, astronomical or cultural-historical validation. Additional detailed assessment in GA110 v27 paragraph/claim records."
+    },
+    {
+      "id": "KG-326",
+      "from": "RS-09.01.01",
+      "to": "RS-09.05.03",
+      "type": "transforms",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "relation_family": "development_and_sequence",
+      "evidence": [
+        {
+          "source_id": "SG-GA110-07-V27",
+          "passage_locator": "English §7; 1909 GA110 lecture 7"
+        }
+      ],
+      "claim": "Spirit Man/Atma is described as transformed physical organization at later stages, not a presently completed anatomical condition.",
+      "note": "Primary Steiner historical/esoteric assertion only; not independent scientific, anatomical, astronomical or cultural-historical validation. Additional detailed assessment in GA110 v27 paragraph/claim records."
+    },
+    {
+      "id": "KG-327",
+      "from": "RS-05.02.01",
+      "to": "RS-09.01",
+      "type": "distinguished_from",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "relation_family": "distinction_and_comparison",
+      "evidence": [
+        {
+          "source_id": "SG-GA110-07-V27",
+          "passage_locator": "English §8; 1909 GA110 lecture 7"
+        }
+      ],
+      "claim": "The structure of angelic lower and higher members is distinguished from the human constitution, whose members are described as interpenetrating.",
+      "note": "Primary Steiner historical/esoteric assertion only; not independent scientific, anatomical, astronomical or cultural-historical validation. Additional detailed assessment in GA110 v27 paragraph/claim records."
+    },
+    {
+      "id": "KG-328",
+      "from": "RS-05.02.02",
+      "to": "RS-07.04.05",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "relation_family": "attributed_process_and_causation",
+      "evidence": [
+        {
+          "source_id": "SG-GA110-07-V27",
+          "passage_locator": "English §10; 1909 GA110 lecture 7"
+        }
+      ],
+      "claim": "Archangelic lower manifestation is associated with air and fire, not literally identified as modern human tissue.",
+      "note": "Primary Steiner historical/esoteric assertion only; not independent scientific, anatomical, astronomical or cultural-historical validation. Additional detailed assessment in GA110 v27 paragraph/claim records."
+    },
+    {
+      "id": "KG-329",
+      "from": "RS-05.02.03",
+      "to": "RS-07.04.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "relation_family": "attributed_process_and_causation",
+      "evidence": [
+        {
+          "source_id": "SG-GA110-07-V27",
+          "passage_locator": "English §11; 1909 GA110 lecture 7"
+        }
+      ],
+      "claim": "Archai's supposed lower physical manifestation is associated with flame; this does not identify an ordinary fire-elemental entity as an Archai.",
+      "note": "Primary Steiner historical/esoteric assertion only; not independent scientific, anatomical, astronomical or cultural-historical validation. Additional detailed assessment in GA110 v27 paragraph/claim records."
+    },
+    {
+      "id": "KG-330",
+      "from": "RS-05.02.04",
+      "to": "RS-05.02.02",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "relation_family": "contextual_association",
+      "evidence": [
+        {
+          "source_id": "SG-GA110-07-V27",
+          "passage_locator": "English §12; 1909 GA110 lecture 7"
+        }
+      ],
+      "claim": "Archangelic and angelic agents are figuratively called the operative organs of Spirits of Form; the organs here are beings, not human anatomy.",
+      "note": "Primary Steiner historical/esoteric assertion only; not independent scientific, anatomical, astronomical or cultural-historical validation. Additional detailed assessment in GA110 v27 paragraph/claim records."
+    },
+    {
+      "id": "KG-331",
+      "from": "RS-05.05.05",
+      "to": "RS-15.02",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "relation_family": "attributed_process_and_causation",
+      "evidence": [
+        {
+          "source_id": "SG-GA110-07-V27",
+          "passage_locator": "English §20; 1909 GA110 lecture 7"
+        }
+      ],
+      "claim": "Hierarchy-related influences on claimed cultural epochs are said to overlap, ruling out a strict one-rank-per-epoch correspondence.",
+      "note": "Primary Steiner historical/esoteric assertion only; not independent scientific, anatomical, astronomical or cultural-historical validation. Additional detailed assessment in GA110 v27 paragraph/claim records."
+    },
+    {
+      "id": "KG-332",
+      "from": "RS-14.03.04",
+      "to": "RS-05.03.06",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "relation_family": "attributed_process_and_causation",
+      "evidence": [
+        {
+          "source_id": "SG-GA110-07-V27",
+          "passage_locator": "English §21; 1909 GA110 lecture 7"
+        }
+      ],
+      "claim": "Steiner applies Buddha/Bodhisattva titles to supposed angelic and archangelic inspiration; these are his esoteric readings, not general Buddhist doctrine.",
+      "note": "Primary Steiner historical/esoteric assertion only; not independent scientific, anatomical, astronomical or cultural-historical validation. Additional detailed assessment in GA110 v27 paragraph/claim records."
+    },
+    {
+      "id": "KG-333",
+      "from": "RS-06.06.04",
+      "to": "RS-05.05.05",
+      "type": "distinguished_from",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "relation_family": "distinction_and_comparison",
+      "evidence": [
+        {
+          "source_id": "SG-GA110-08-V27",
+          "passage_locator": "English §2; 1909 GA110 lecture 8"
+        }
+      ],
+      "claim": "Steiner warns that different interpretive viewpoints affect his source descriptions; the warning does not resolve contradictions automatically.",
+      "note": "Primary Steiner historical/esoteric assertion only; not independent scientific, anatomical, astronomical or cultural-historical validation. Additional detailed assessment in GA110 v27 paragraph/claim records."
+    },
+    {
+      "id": "KG-334",
+      "from": "RS-18.02.04",
+      "to": "RS-06.01.01",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "relation_family": "attributed_process_and_causation",
+      "evidence": [
+        {
+          "source_id": "SG-GA110-08-V27",
+          "passage_locator": "English §6; 1909 GA110 lecture 8"
+        }
+      ],
+      "claim": "The heart's first seed is associated with warmth formations coming to rest on Old Saturn; not the mature biological heart.",
+      "note": "Primary Steiner historical/esoteric assertion only; not independent scientific, anatomical, astronomical or cultural-historical validation. Additional detailed assessment in GA110 v27 paragraph/claim records."
+    },
+    {
+      "id": "KG-335",
+      "from": "RS-18.02.04",
+      "to": "RS-06.04.02",
+      "type": "symbolically_corresponds_to",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "relation_family": "symbolic_correspondence",
+      "evidence": [
+        {
+          "source_id": "SG-GA110-08-V27",
+          "passage_locator": "English §7; 1909 GA110 lecture 8"
+        }
+      ],
+      "claim": "The Leo region is interpreted as the direction of the primordial heart's formation, a zodiacal-esoteric attribution.",
+      "note": "Primary Steiner historical/esoteric assertion only; not independent scientific, anatomical, astronomical or cultural-historical validation. Additional detailed assessment in GA110 v27 paragraph/claim records."
+    },
+    {
+      "id": "KG-336",
+      "from": "RS-18.02.02",
+      "to": "RS-05.04.03",
+      "type": "symbolically_corresponds_to",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "relation_family": "symbolic_correspondence",
+      "evidence": [
+        {
+          "source_id": "SG-GA110-08-V27",
+          "passage_locator": "English §8; 1909 GA110 lecture 8"
+        }
+      ],
+      "claim": "The ribcage as protective breastplate is associated with Cancer in a zodiacal analogy, not empirically measured anatomical causation.",
+      "note": "Primary Steiner historical/esoteric assertion only; not independent scientific, anatomical, astronomical or cultural-historical validation. Additional detailed assessment in GA110 v27 paragraph/claim records."
+    },
+    {
+      "id": "KG-337",
+      "from": "RS-05.02.06",
+      "to": "RS-06.03.02",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "relation_family": "attributed_process_and_causation",
+      "evidence": [
+        {
+          "source_id": "SG-GA110-08-V27",
+          "passage_locator": "English §10; 1909 GA110 lecture 8"
+        }
+      ],
+      "claim": "Spirits of Wisdom are said to add etheric organization on Old Sun, distinct from the Thrones' Old Saturn warmth donation.",
+      "note": "Primary Steiner historical/esoteric assertion only; not independent scientific, anatomical, astronomical or cultural-historical validation. Additional detailed assessment in GA110 v27 paragraph/claim records."
+    },
+    {
+      "id": "KG-338",
+      "from": "RS-06.01.02",
+      "to": "RS-09.01.02",
+      "type": "begins_development_of",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "relation_family": "development_and_sequence",
+      "evidence": [
+        {
+          "source_id": "SG-GA110-08-V27",
+          "passage_locator": "English §11; 1909 GA110 lecture 8"
+        }
+      ],
+      "claim": "Old Sun is characterized as a living, ether-permeated air stage; not the literal emergence of a human lung.",
+      "note": "Primary Steiner historical/esoteric assertion only; not independent scientific, anatomical, astronomical or cultural-historical validation. Additional detailed assessment in GA110 v27 paragraph/claim records."
+    },
+    {
+      "id": "KG-339",
+      "from": "RS-06.04.02",
+      "to": "RS-06.05.01",
+      "type": "symbolically_corresponds_to",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "relation_family": "symbolic_correspondence",
+      "evidence": [
+        {
+          "source_id": "SG-GA110-08-V27",
+          "passage_locator": "English §12; 1909 GA110 lecture 8"
+        }
+      ],
+      "claim": "Eagle and Scorpion are used as zodiacal life/death regions of Old Sun, not accepted physiological mechanisms.",
+      "note": "Primary Steiner historical/esoteric assertion only; not independent scientific, anatomical, astronomical or cultural-historical validation. Additional detailed assessment in GA110 v27 paragraph/claim records."
+    },
+    {
+      "id": "KG-340",
+      "from": "RS-17.02.02",
+      "to": "RS-06.06.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "relation_family": "attributed_process_and_causation",
+      "evidence": [
+        {
+          "source_id": "SG-GA110-08-V27",
+          "passage_locator": "English §14; 1909 GA110 lecture 8"
+        }
+      ],
+      "claim": "Steiner's claim that today's Saturn is heat-only with optical rings is contrary to modern planetary science.",
+      "note": "Primary Steiner historical/esoteric assertion only; not independent scientific, anatomical, astronomical or cultural-historical validation. Additional detailed assessment in GA110 v27 paragraph/claim records."
+    },
+    {
+      "id": "KG-341",
+      "from": "RS-06.01.03",
+      "to": "RS-06.04.01",
+      "type": "symbolically_corresponds_to",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "relation_family": "symbolic_correspondence",
+      "evidence": [
+        {
+          "source_id": "SG-GA110-08-V27",
+          "passage_locator": "English §15; 1909 GA110 lecture 8"
+        }
+      ],
+      "claim": "Current Mars is described as a recapitulation of Old Moon, a different predicate from identifying the two bodies.",
+      "note": "Primary Steiner historical/esoteric assertion only; not independent scientific, anatomical, astronomical or cultural-historical validation. Additional detailed assessment in GA110 v27 paragraph/claim records."
+    },
+    {
+      "id": "KG-342",
+      "from": "RS-06.01.04",
+      "to": "RS-09.01.04",
+      "type": "begins_development_of",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "relation_family": "development_and_sequence",
+      "evidence": [
+        {
+          "source_id": "SG-GA110-08-V27",
+          "passage_locator": "English §16; 1909 GA110 lecture 8"
+        }
+      ],
+      "claim": "Steiner attributes emergence of the I to the Earth stage, contrasting Old Moon astral-consciousness formation.",
+      "note": "Primary Steiner historical/esoteric assertion only; not independent scientific, anatomical, astronomical or cultural-historical validation. Additional detailed assessment in GA110 v27 paragraph/claim records."
     }
   ],
   "version": "1.1",
-  "last_updated": "2026-11-03",
+  "last_updated": "2026-11-05",
   "sources_added_20261102": 10,
   "semantic_families": {
     "version": "1.0",
@@ -7382,5 +8090,53 @@
     "selected_claim_records": 51,
     "German_spot_check_entries": 5,
     "full_German_collations": 0
+  },
+  "organ_concordance_phase27": {
+    "complete_English_views": 8,
+    "numbered_units": 162,
+    "selected_atomic_records": 47,
+    "graph_new_edge_ids": [
+      "KG-307",
+      "KG-308",
+      "KG-309",
+      "KG-310",
+      "KG-311",
+      "KG-312",
+      "KG-313",
+      "KG-314",
+      "KG-315",
+      "KG-316",
+      "KG-317",
+      "KG-318",
+      "KG-319",
+      "KG-320",
+      "KG-321",
+      "KG-322",
+      "KG-323",
+      "KG-324",
+      "KG-325",
+      "KG-326",
+      "KG-327",
+      "KG-328",
+      "KG-329",
+      "KG-330",
+      "KG-331",
+      "KG-332",
+      "KG-333",
+      "KG-334",
+      "KG-335",
+      "KG-336",
+      "KG-337",
+      "KG-338",
+      "KG-339",
+      "KG-340",
+      "KG-341",
+      "KG-342"
+    ],
+    "english_source_pages_added": 3,
+    "reused_existing_source_record": "SG-GA110-19090414",
+    "source_reading": "research/organ-paragraph-review-ga110-v-viii-v27.json",
+    "German_full_collations": 0,
+    "caution": "V13 rank translation issue; metaphysical attribution is not organ builder identity. New edges are selected interpretations, not globally novel teachings."
   }
 }
