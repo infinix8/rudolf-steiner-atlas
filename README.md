@@ -1,3 +1,5 @@
+> **Current research status — Phase 27, 5 November 2026:** The canonical organ atlas now has a [cumulative Markdown v27 manuscript](docs/Steiner_Organ_Evolution_Research_Atlas_v27.md), [current source checkpoint](docs/ORGAN_CONCORDANCE_RESUME.md), [40 organ dossiers](research/organ-comparative-dossiers-v27.json), and a [source-grounded hierarchy/stage/action matrix](atlas/agency.html). GA313–317 **61/61** and GA128 **8/8** complete English source-view first passes; GA110 **8/12** (162 numbered English units). The full [knowledge graph](research/knowledge-graph-v1.json) has **342 qualified relations**, **107 source-page records**, and **225 cross-domain links**. **57 / 54 / 39** of 150 subdomains have direct / child-only / no source-linked evidence. This does not certify exhaustive extraction, unique events, full German collation, scientific validity or independent second review. **Next GA110 IX, 18 April 1909**.
+
 # Rudolf Steiner Atlas
 
 ## Latest organ research checkpoint 3 November 2026
@@ -129,3 +131,10 @@ Current coverage: 16 complete English numbered-section lecture reviews, 1 additi
 [Cumulative manuscript v15](docs/Steiner_Organ_Evolution_Research_Atlas_v15.md) · [Word edition](docs/Steiner_Organ_Evolution_Research_Atlas_v15.docx) · [Phase 15 findings](docs/ORGAN_CONCORDANCE_PHASE15_FINDINGS.md) · [Current coverage](research/organ-corpus-ledger-ga313-317-v15.json) · [25 dossiers](research/organ-comparative-dossiers-v15.json) · [Resume](docs/ORGAN_CONCORDANCE_RESUME.md).
 
 22 complete English catalogue source views, 1 thematic, 3 selected-only, 35 unread. The 546 completed source-view sections include the GA315 VII alias. Phases 14–15 add 151 section reads and 79 selected propositions across five events; globally unique teaching count remains unknown. Full German/exhaustive second-review certification remains zero. Earlier checkpoint counts above are historical.
+
+## New: compare spiritual hierarchy agencies without inventing exclusive organ builders
+
+- [Hierarchy–Stage–Function Explorer](atlas/agency.html): **23 source-linked rows** distinguishing reception of cosmic aims, planning, warmth-substance donation, formative/executive/preservative activities, symbolic zodiacal directions, named organ rudiments, and human I transformation. No row claims an exclusive builder of a modern anatomical organ.
+- [Research methodology and findings](docs/ORGAN_CONCORDANCE_PHASE27_FINDINGS.md), [86 GA110 V–VIII English section cards](research/organ-paragraph-review-ga110-v-viii-v27.json), [47 selected candidate propositions](research/organ-atomic-claims-ga110-v-viii-v27.json), [six translation/interpretation issues](research/organ-textual-issues-ga110-v-viii-v27.json).
+- [Current-version organ manifest](research/organ-current.json) drives the [Organ Concordance Explorer](atlas/organs.html), avoiding stale hardcoded dossier filenames. Latest cumulative Markdown [v27](docs/Steiner_Organ_Evolution_Research_Atlas_v27.md) preserves the full v24 manuscript text with phase25–27 research addenda. The DOCX version remains v24.
+- [Phase27 research checkpoint](docs/ORGAN_CONCORDANCE_RESUME.md): next GA110 IX and X, followed by the two Q&A source entries. The 342 Atlas relationships are claims grounded in selected original text, **not** scientific corroboration or a finished Steiner corpus.
