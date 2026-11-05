@@ -71,3 +71,17 @@ Do not silently remove stable IDs. Do not label passages verified without direct
 
 - [x] Integrate 32 phase18 organ dossiers and source-view ledger in Atlas browser and smoke tests.
 - [ ] Complete remaining GA314/316 English source views; 27 GA313–317 catalogued views still unread in phase18. Distinguish Steiner’s statements from other speakers and manuscript/editorial material.
+
+## Phase27 source-first research and navigation (5 November 2026)
+
+- [x] Repair graph/subdomain generated report mismatch in CI; preserve 342 typed relationships / 107 source-page records.
+- [x] Finish GA110 V–VIII English numbered source-view first pass: 86 added sections; 8/12 total, 162 numbered units.
+- [x] Integrate 47 selected candidate claims and six source-critical issue cards with explicit review limits.
+- [x] Add 23-role hierarchy/stage/action cross-reference matrix, without naming an exclusive organ builder where the lecture is silent.
+- [x] Preserve 40 organ dossiers while adding 22 phase27 annotations; surface current datasets through a single manifest.
+- [x] Publish append-only v27 cumulative Markdown manuscript, retaining v24 original text, and updated exact research resume.
+- [ ] Review GA110 lectures IX–X and 21–22 April Q&A source entries separately (4 GA110 catalogue views remain).
+- [ ] Collate German/English GA110 V §13 Herrschaften/Mächte/Gewalten and passages on Old Saturn heart/Leo/Cancer; then compare GA13 and GA107.
+- [ ] Audit the remaining 39 subdomains without graph-attached passage evidence and all 30 historical proposed crosslinks.
+- [ ] Expand original-German comparison and independent second review across the medical and wider organ corpora.
+- [ ] Regenerate the v27+ cumulative DOCX only when document tooling and full source text are available; **v24 remains the latest actual Word artifact**.
