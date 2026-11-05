@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-11-05",
+  "scope": "Selective original-language checking of GA110 V–VIII. This document contains precise limited contextual comparisons and unresolved editorial issues, not full German collation.",
+  "issues": [
+    {
+      "id": "GA110-V13-RANK-LEXICON",
+      "lecture": 5,
+      "section": 13,
+      "kind": "translation_ambiguity",
+      "status": "German and online SOL English compared; printed critical edition not yet checked",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090414p01.html",
+      "original_german_terms": [
+        "Herrschaften / Kyriotetes",
+        "Mächte / Dynamis",
+        "Gewalten / Exusiai"
+      ],
+      "semantic_roles": [
+        "ordering or directing",
+        "carrying out arrangements",
+        "preserving already formed structures"
+      ],
+      "online_english_problem": "English paragraph alternates Powers, Virtues and related English titles in a way that can swap or obscure Mächte and Gewalten. German presents three distinct roles.",
+      "editorial_action": "Always store Latin/German normalized rank names and precise role as distinct fields; do not derive an English 'Powers' index entry alone.",
+      "resolution_needed": "Collate critical German GA110 edition, SOL and at least one older English translation; retain ambiguity in all graph summaries."
+    },
+    {
+      "id": "GA110-V-VI-VII-MERCURY-VENUS",
+      "lecture": 6,
+      "section": 13,
+      "kind": "named_sphere_vs_physical_planet",
+      "status": "English source qualification inspected; original German full collation pending",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090415p01.html",
+      "editorial_action": "Keep modern astronomical Mercury/Venus names separate from claimed esoteric Mercury/Venus titles. Record whether predicate is sphere boundary, being rank, former evolution stage or actual physical planet.",
+      "resolution_needed": "Verify exact German nomenclature and the stated equivalence in adjacent lecture VII §2; avoid turning a historical statement into contemporary planetary astronomy."
+    },
+    {
+      "id": "GA110-VII12-EXECUTIVE-ORGANS",
+      "lecture": 7,
+      "section": 12,
+      "kind": "organ_word_non_anatomical",
+      "status": "English source wording inspected; German still to be collated",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090416p01.html",
+      "editorial_action": "'Executive organs' are lower spiritual agencies acting for Exusiai in the sentence; this is NOT a list of organs of the human body. Index as hierarchy agency analogy, never a heart/liver/lung origin assignment.",
+      "resolution_needed": "Inspect German operative-organ term and the same image in nearby lectures."
+    },
+    {
+      "id": "GA110-VIII6-8-HEART-LEO-CANCER",
+      "lecture": 8,
+      "section": 6,
+      "kind": "developmental_origin_vs_symbolic_correspondence",
+      "status": "English §§6–8 source reviewed; German critical collation pending",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090417p01.html",
+      "editorial_action": "Separate (i) warmth-motion stopping as the claimed first heart-seed process, (ii) Leo as the zodiacal region associated with it, and (iii) Cancer as protective breastplate analogy. None is a claim that the complete modern heart/ribcage already existed on Saturn.",
+      "resolution_needed": "Collate original German wording for Keim, Herz, Brustpanzer/Krebs and temporal stage; compare GA13 and relevant GA110 earlier sections."
+    },
+    {
+      "id": "GA110-VIII14-SATURN-OPTICS",
+      "lecture": 8,
+      "section": 14,
+      "kind": "historical_scientific_claim",
+      "status": "English §14 inspected; contradicts contemporary established astronomy",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090417p01.html",
+      "editorial_action": "Present the claim that Saturn consists only of heat and ring appearance is optical as a historically false scientific assertion, not validated observational planetary physics.",
+      "resolution_needed": "Compare terminology in original German; do not imply scientific equivalence or diagnostic relevance."
+    },
+    {
+      "id": "GA110-VI6-18-HISTORICAL-RACE-LANGUAGE",
+      "lecture": 6,
+      "section": 6,
+      "kind": "historical_discriminatory_framework",
+      "status": "Source context inspected; ethical review required",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090415p01.html",
+      "editorial_action": "Preserve source location for studying Steiner's collective-spirit theory, but avoid treating racial types, cosmic control of groups or migrations as verified history or biological categories.",
+      "resolution_needed": "Additional contextual scholarly review to separate Steiner's historical terminology from contemporary anthropology."
+    }
+  ],
+  "certification": {
+    "number_of_source_issue_cards": 6,
+    "full_German_collation": 0,
+    "independent_second_review": 0,
+    "scope": "Some original German §13 displayed next to English; other entries require German and translation audit."
+  }
+}
