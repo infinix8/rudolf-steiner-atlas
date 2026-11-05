@@ -1,0 +1,158 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#123c46">
+<meta name="description" content="Explore human organs through a clickable body map, guided explanations and original Rudolf Steiner sources.">
+<title>Explore the Human Being · Rudolf Steiner Atlas</title>
+<style>
+:root{font:16px/1.55 system-ui,-apple-system,"Segoe UI",sans-serif;--navy:#123c46;--deep:#0d2c35;--paper:#f7f6ef;--card:#fffefa;--ink:#1d3b44;--muted:#667b7f;--edge:#dfe6df;--gold:#e8d1a1;--teal:#2f756f;color:var(--ink);background:var(--paper)}
+*{box-sizing:border-box}body{margin:0}a{color:#17666b;text-underline-offset:3px}a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible,svg a:focus-visible{outline:3px solid #c4943a;outline-offset:3px}button,input,select{font:inherit}.wrap{max-width:1140px;padding:0 22px;margin:0 auto}.skip{position:absolute;left:-10000px}.skip:focus{left:8px;top:8px;z-index:10;background:white;padding:10px}
+header{background:radial-gradient(ellipse at 94% 60%,#235a62,transparent 55%),linear-gradient(130deg,var(--navy),var(--deep));color:white}.mast{display:flex;align-items:center;justify-content:space-between;padding-top:18px;padding-bottom:18px;border-bottom:1px solid #ffffff25;gap:12px}.brand{color:white;text-decoration:none;display:flex;align-items:center;gap:11px}.brandmark{height:36px;width:36px;display:grid;place-items:center;border:1px solid #d5be8b;border-radius:50%;font-size:21px;color:var(--gold)}.brand strong{font-size:12px;letter-spacing:.13em;text-transform:uppercase}.brand small{font-size:11px;color:#b9d2d1;display:block}.mast nav{display:flex;gap:12px;flex-wrap:wrap}.mast nav a{color:#dceae6;font-size:12px;text-decoration:none}.mast nav a:hover{text-decoration:underline}
+.hero{padding:45px 0 49px}.eyebrow{font-size:11px;letter-spacing:.2em;color:#a7d6d0;text-transform:uppercase;font-weight:800}.hero h1{font:normal clamp(42px,5.6vw,64px)/1.1 Georgia,serif;letter-spacing:-.035em;margin:14px 0}.hero p{max-width:720px;font-size:16px;color:#d6e4e1;margin:0}
+main{padding:31px 0 54px}.layout{display:grid;grid-template-columns:minmax(0,1.2fr) minmax(0,.8fr);gap:23px;align-items:start}.panel{border:1px solid var(--edge);background:var(--card);border-radius:20px;box-shadow:0 12px 34px #243f3d08}.map-head{padding:18px 22px 12px}.map-head h2{font:normal 28px Georgia,serif;margin:0 0 5px}.map-head p{margin:0;color:var(--muted);font-size:13px}.figure{display:grid;place-items:center;padding:0 12px 11px;min-height:480px}.figure svg{width:min(100%,350px);max-height:548px;height:auto;overflow:visible}.figure .body{fill:#e9e6dd;stroke:#a8b6b3;stroke-width:1.9}.figure .seam{fill:none;stroke:#bec8c3;stroke-width:1.2;stroke-linecap:round}.figure .organ path,.figure .organ ellipse,.figure .organ rect{stroke:#54756d;stroke-width:1.8;vector-effect:non-scaling-stroke;transition:stroke-width .12s,filter .12s,opacity .12s}.figure .organ{outline:none;cursor:pointer}.figure .organ:hover path,.figure .organ:hover ellipse,.figure .organ:hover rect,.figure .organ:focus-visible path,.figure .organ:focus-visible ellipse,.figure .organ.is-active path,.figure .organ.is-active ellipse{stroke:#173f4a;stroke-width:3.6;filter:drop-shadow(0 3px 5px #1d535052)}.figure .organ:focus-visible{outline:none}.figure .tap-circle{fill:#ffffff;stroke:#326e67;stroke-width:2;opacity:.91;pointer-events:none}.figure .tap-dot{fill:#326e67;pointer-events:none}.map-note{background:#f1f4ee;border-top:1px solid var(--edge);padding:13px 19px;color:#5e7678;font-size:12px;border-radius:0 0 20px 20px}.map-note strong{color:#3a5d60}
+.side{display:grid;gap:15px}.control{padding:19px 20px}.label{font-size:11px;text-transform:uppercase;font-weight:800;color:#578078;letter-spacing:.13em}.control h2{font:normal 28px Georgia,serif;margin:7px 0 8px}.control p{color:var(--muted);font-size:13px;margin:0 0 14px}.filters{display:grid;grid-template-columns:1fr 1fr;gap:8px}.filters label{font-weight:650;font-size:12px;color:#45636a}.filters input,.filters select{margin-top:5px;width:100%;border:1px solid #c9d5d0;border-radius:10px;padding:10px;background:#fff;min-height:43px;color:var(--ink)}
+.organs{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px;margin-top:13px}.organ-button{display:flex;align-items:center;justify-content:space-between;gap:6px;padding:9px 11px;min-height:42px;background:#fff;border:1px solid #dbe3dc;border-radius:9px;text-align:left;color:var(--ink);font-size:13px}.organ-button small{font-size:10px;color:#66837a}.organ-button[aria-pressed=true]{border-color:#508c80;background:#e8f3ee;box-shadow:inset 0 0 0 1px #508c80}.organ-button:hover{background:#f1f5ee}.organ-button:disabled{opacity:.45;cursor:not-allowed}
+.selection{padding:22px}.selection .kicker{font-size:11px;color:#608377;letter-spacing:.14em;font-weight:800;text-transform:uppercase}.selection h2{font:normal 33px Georgia,serif;margin:8px 0}.selection p{font-size:14px;color:#49636a;margin:0 0 13px}.selection .terms{display:flex;flex-wrap:wrap;gap:7px;margin:12px 0 16px}.selection .terms span{border:1px solid #c9dbd3;border-radius:24px;padding:5px 9px;font-size:11px;color:#47766c}.state{font-size:12px;font-weight:750;color:#54766c}.actions{display:flex;flex-wrap:wrap;gap:8px}.cta{background:var(--navy);color:#fff;text-decoration:none;padding:11px 15px;border-radius:10px;min-height:44px;display:inline-flex;align-items:center;justify-content:center;font-size:13px;font-weight:750}.cta:hover{background:#1c5760}.secondary{border:1px solid #b0c8bd;color:var(--navy);background:#fff}
+.below{margin-top:33px}.below h2{font:normal 29px Georgia,serif;margin:0 0 9px}.below>p{color:var(--muted);font-size:14px;margin:0 0 17px}.routes{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}.route{background:#fff;border:1px solid var(--edge);border-radius:14px;text-decoration:none;color:var(--ink);padding:19px;min-height:128px}.route strong{display:block;font:normal 20px Georgia,serif;margin-bottom:8px}.route span{display:block;font-size:12px;color:var(--muted)}.route:hover{border-color:#80afa3;background:#f6faf5}.caution{padding:14px 19px;border-left:3px solid #b6975c;background:#f4f0e6;border-radius:0 11px 11px 0;margin-top:25px;font-size:12px;color:#576b6d}footer{border-top:1px solid var(--edge);padding:28px 0 40px;color:#65797b;font-size:12px}
+@media(max-width:790px){.layout{grid-template-columns:1fr}.figure{min-height:0;padding-bottom:10px}.figure svg{width:min(100%,315px);max-height:480px}.side{grid-template-columns:1fr 1fr}.control{grid-column:1/-1}.selection{grid-column:1/-1}.routes{grid-template-columns:1fr 1fr}.hero{padding:35px 0 39px}}
+@media(max-width:520px){.wrap{padding:0 16px}.mast nav{gap:9px}.mast nav a{font-size:11px}.hero h1{font-size:43px}.hero p{font-size:14px}.map-head{padding:15px 18px 4px}.map-head h2{font-size:25px}.figure svg{width:min(100%,290px)}.side{display:block}.side>*+*{margin-top:14px}.routes{grid-template-columns:1fr}.selection h2{font-size:29px}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.figure .organ path,.figure .organ ellipse{transition:none}}
+</style>
+</head>
+<body>
+<a class="skip" href="#map">Skip to organ map</a>
+<header>
+<div class="wrap mast"><a class="brand" href="../index.html"><span class="brandmark" aria-hidden="true">✳</span><span><strong>Rudolf Steiner Atlas</strong><small>Human organization explorer</small></span></a><nav aria-label="Atlas"><a href="../index.html">Home</a><a href="index.html">Thematic Atlas</a><a href="organs.html">40 dossiers</a></nav></div>
+<div class="wrap hero"><div class="eyebrow">Visual organ atlas · first edition</div><h1>Explore the human being</h1><p>Choose an organ directly on the human figure. Start with a visual guided explanation, or follow the underlying source-linked research as deeply as you wish.</p></div>
+</header>
+<main class="wrap">
+<div class="layout">
+<section class="panel" id="map" aria-labelledby="mapheading">
+<div class="map-head"><h2 id="mapheading">Tap an organ</h2><p>Front-view schematic. Select the organ or use the searchable list.</p></div>
+<div class="figure">
+<svg viewBox="0 0 360 640" xmlns="http://www.w3.org/2000/svg" role="group" aria-label="Stylized front view of a human being with eight selectable organs; use the organ list as an alternative">
+<defs><linearGradient id="skin" x1="0" x2="0.5" y1="0" y2="1"><stop stop-color="#f3f0e8"/><stop offset="1" stop-color="#e2e3d9"/></linearGradient></defs>
+<!-- Human silhouette: editorial, approximate, not a clinical anatomical diagram -->
+<ellipse class="body" cx="180" cy="76" rx="40" ry="49" style="fill:url(#skin)"/>
+<path class="body" d="M165 116 L162 141 198 141 195 116 Z" style="fill:url(#skin)"/>
+<path class="body" d="M141 140 Q161 132 180 143 Q199 132 219 140 Q247 141 255 162 L242 285 Q237 336 228 425 L132 425 Q124 337 118 285 L105 162 Q116 143 141 140Z" style="fill:url(#skin)"/>
+<path class="body" d="M111 156 Q92 149 84 180 L57 339 Q55 357 68 361 Q80 360 82 345 L116 241 Z" style="fill:url(#skin)"/>
+<path class="body" d="M249 156 Q268 149 276 180 L303 339 Q305 357 292 361 Q280 360 278 345 L244 241 Z" style="fill:url(#skin)"/>
+<path class="body" d="M132 416 L180 419 173 538 166 592 Q164 607 155 616 L132 617 Q120 614 129 601 L132 540 Z" style="fill:url(#skin)"/>
+<path class="body" d="M228 416 L180 419 187 538 194 592 Q196 607 205 616 L228 617 Q240 614 231 601 L228 540 Z" style="fill:url(#skin)"/>
+<path class="seam" d="M180 146 Q175 184 180 201 M148 417 Q180 436 212 417 M166 592 L143 599 M194 592 L217 599"/>
+<!-- Brain -->
+<a class="organ" data-organ-id="organ-brain" href="organs.html?organ=organ-brain" aria-label="Brain: view research dossier"><title>Brain</title>
+<path d="M154 76 Q147 69 154 57 Q154 48 164 49 Q172 40 181 48 Q193 43 200 52 Q210 52 209 64 Q216 72 207 83 Q196 88 186 83 Q174 92 164 85 Q154 88 154 76Z" fill="#b7c7bf"/>
+<path d="M180 49 Q174 58 182 65 Q176 73 184 84 M164 56 Q170 59 168 70 M196 57 Q191 63 198 69" fill="none" stroke="#6b9288" stroke-width="1.5"/>
+</a>
+<!-- Lungs -->
+<a class="organ" data-organ-id="organ-lungs" href="organs.html?organ=organ-lungs" aria-label="Lungs: view research dossier"><title>Lungs</title>
+<path d="M173 183 Q155 171 145 189 Q130 216 132 249 Q135 271 154 267 Q175 261 173 234Z" fill="#a7c5c0"/>
+<path d="M187 183 Q205 171 215 189 Q230 216 228 249 Q225 271 206 267 Q185 261 187 234Z" fill="#a7c5c0"/>
+<path d="M180 157 L180 216 M180 204 L161 216 M180 204 L199 216" fill="none" stroke="#5f968d" stroke-width="3" stroke-linecap="round"/>
+</a>
+<!-- Heart, slightly viewer-right of center -->
+<a class="organ" data-organ-id="organ-heart" href="mobile-preview.html#heart/overview" aria-label="Heart: open guided organ page"><title>Heart</title>
+<path d="M184 236 Q171 226 172 244 Q173 252 190 268 Q210 254 211 243 Q209 227 199 233 Q194 238 190 241 Q189 237 184 236Z" fill="#bb817b"/>
+<path d="M192 240 L195 222 Q205 216 209 226" fill="none" stroke="#946b66" stroke-width="2.2"/>
+</a>
+<!-- Liver (viewer left, human right) -->
+<a class="organ" data-organ-id="organ-liver" href="mobile-preview.html#liver/overview" aria-label="Liver: open guided organ page"><title>Liver</title>
+<path d="M133 294 Q150 281 190 291 Q192 314 178 326 Q162 330 142 319 Q134 312 133 294Z" fill="#b7a57e"/>
+</a>
+<!-- Stomach (viewer right, human left) -->
+<a class="organ" data-organ-id="organ-stomach" href="organs.html?organ=organ-stomach" aria-label="Stomach: view indexed research"><title>Stomach</title>
+<path d="M213 294 Q220 305 215 318 Q207 334 225 342 Q244 347 242 326 Q238 316 230 315 Q224 306 226 297Z" fill="#b4c0a5"/>
+</a>
+<!-- Spleen (viewer right, human left) -->
+<a class="organ" data-organ-id="organ-spleen" href="organs.html?organ=organ-spleen" aria-label="Spleen: view indexed research"><title>Spleen</title>
+<ellipse cx="253" cy="314" rx="11" ry="22" transform="rotate(18 253 314)" fill="#cdb6b2"/>
+</a>
+<!-- Kidneys, positioned schematically to be visible in front view -->
+<a class="organ" data-organ-id="organ-kidneys" href="organs.html?organ=organ-kidneys" aria-label="Kidneys: view research dossier"><title>Kidneys</title>
+<path d="M152 338 Q136 338 138 360 Q141 386 155 384 Q166 381 157 369 Q149 363 157 353 Q162 340 152 338Z" fill="#bdaab6"/>
+<path d="M208 338 Q224 338 222 360 Q219 386 205 384 Q194 381 203 369 Q211 363 203 353 Q198 340 208 338Z" fill="#bdaab6"/>
+</a>
+<!-- Intestines; schematic rather than precise abdominal anatomy -->
+<a class="organ" data-organ-id="organ-intestines" href="organs.html?organ=organ-intestines" aria-label="Intestines: view research dossier"><title>Intestines</title>
+<path d="M164 385 Q149 386 149 401 L149 418 Q150 432 166 433 L194 433 Q211 434 211 419 L211 398 Q209 385 195 386" fill="none" stroke="#90a49a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M166 390 Q195 392 194 400 Q191 409 169 408 Q162 408 165 416 Q168 423 197 421" fill="none" stroke="#97ada3" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+</a>
+</svg>
+</div>
+<div class="map-note"><strong>Diagram note:</strong> Organ shapes and placements are simplified and approximate. Kidney visibility and overlapping organs are schematic rather than anatomical. This is a navigation map, not medical instruction.</div>
+</section>
+<aside class="side">
+<section class="panel control" aria-label="Find an organ">
+<div class="label">Organ navigator</div><h2>Find your focus</h2><p>Two guided pages are ready; the other organs link to the existing research dossiers.</p>
+<div class="filters">
+<label>Search <input id="organ-search" type="search" autocomplete="off" placeholder="Heart, liver…"></label>
+<label>System <select id="organ-system"><option value="">All systems</option><option value="Head and nervous">Head and nervous</option><option value="Breathing and rhythm">Breathing and rhythm</option><option value="Metabolic">Metabolic</option></select></label>
+</div>
+<div class="organs" id="organ-list" aria-label="All illustrated organs"><span>Loading organs…</span></div>
+</section>
+<section class="panel selection" id="preview" aria-live="polite">
+<div class="kicker" id="preview-kicker">Guided organ page</div><h2 id="preview-heading">Heart</h2><p id="preview-summary">Choose an organ to explore its explanation and sources.</p>
+<div class="terms" id="preview-terms"></div>
+<p class="state" id="preview-status"></p>
+<div class="actions"><a class="cta" id="preview-open" href="mobile-preview.html#heart/overview">Open organ guide →</a><a class="cta secondary" id="preview-research" href="organs.html?organ=organ-heart">Full research dossier</a></div>
+</section>
+</aside>
+</div>
+<section class="below" aria-label="Explore further"><h2>Other ways to explore</h2><p>The body is one starting point. Connect organs to cosmic stages, spiritual hierarchies and the wider teaching taxonomy.</p>
+<div class="routes">
+<a class="route" href="organs.html"><strong>All 40 dossiers</strong><span>Explore the original source-linked organ concordance, including organs not drawn on this map.</span></a>
+<a class="route" href="agency.html"><strong>Spiritual hierarchies</strong><span>Distinguish agents, activities, evolutionary stages and original passages.</span></a>
+<a class="route" href="index.html"><strong>Thematic Atlas</strong><span>Trace concepts from the body to the cosmos, consciousness, culture and spiritual development.</span></a>
+</div>
+</section>
+<div class="caution">The historical spiritual-scientific teachings attributed to Rudolf Steiner are not established anatomy, physiology, medical treatment or disability explanations. The diagram is illustrative. Exact source links, translation issues and research limits remain in the organ dossiers and guides.</div>
+</main>
+<footer><div class="wrap"><a href="../index.html">Atlas home</a> · <a href="sources.html">Original-source guide</a> · <a href="mobile-preview.html#heart/overview">Heart guide</a> · <a href="mobile-preview.html#liver/overview">Liver guide</a><p>Independent editorial project complementing RS Archive. Organ research phase 29, 5 November 2026.</p></div></footer>
+<script>
+"use strict";
+(()=> {
+  const state={organs:[],selected:"organ-heart"};
+  const $=s=>document.querySelector(s);
+  const html=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+  const figure=[...document.querySelectorAll(".figure [data-organ-id]")];
+  const statusLabel={guided:"Guided visual page available",research_dossier:"Passage-linked research dossier available",index_only:"Topic indexed; polished explanation pending"};
+  function render(){
+    const q=$("#organ-search").value.trim().toLowerCase();
+    const system=$("#organ-system").value;
+    const filtered=state.organs.filter(o=>(!q||(o.label+" "+o.summary+" "+o.related.join(" ")).toLowerCase().includes(q))&&(!system||o.system===system));
+    $("#organ-list").innerHTML=filtered.length?filtered.map(o=>'<button type="button" class="organ-button" data-list-organ="'+html(o.id)+'" aria-pressed="'+(o.id===state.selected)+'">'+html(o.label)+(o.status==="guided"?'<small>GUIDE</small>':'')+'</button>').join(""):'<p>No matching organs. Try another search.</p>';
+    figure.forEach(a=>{a.classList.toggle("is-active",a.dataset.organId===state.selected);a.style.opacity=filtered.some(o=>o.id===a.dataset.organId)?"1":".24"});
+    const o=state.organs.find(o=>o.id===state.selected);
+    if(!o)return;
+    $("#preview-heading").textContent=o.label;
+    $("#preview-kicker").textContent=o.system+" · "+(o.status==="guided"?"Guided page":"Research index");
+    $("#preview-summary").textContent=o.summary;
+    $("#preview-status").textContent=statusLabel[o.status]||"Research status to be verified";
+    $("#preview-terms").innerHTML=o.related.map(t=>'<span>'+html(t)+'</span>').join("");
+    const link=$("#preview-open");
+    link.href=o.route;
+    link.textContent=o.status==="guided"?"Open guided organ page →":"Open research dossier →";
+    $("#preview-research").href="organs.html?organ="+encodeURIComponent(o.id);
+  }
+  function select(id,scroll=false){
+    if(!state.organs.some(o=>o.id===id))return;
+    state.selected=id;
+    render();
+    if(scroll&&window.matchMedia("(max-width:790px)").matches)$("#preview").scrollIntoView({block:"nearest",behavior:"smooth"});
+  }
+  $(".figure").addEventListener("click",ev=>{const a=ev.target.closest("[data-organ-id]");if(a){ev.preventDefault();select(a.dataset.organId,true)}});
+  $("#organ-list").addEventListener("click",ev=>{const b=ev.target.closest("[data-list-organ]");if(b)select(b.dataset.listOrgan,false)});
+  $("#organ-search").addEventListener("input",render);
+  $("#organ-system").addEventListener("change",render);
+  fetch("../research/organ-body-map-v1.json").then(r=>{if(!r.ok)throw Error("Cannot load organ map data");return r.json()}).then(d=>{
+    if(!Array.isArray(d.organs)||d.organs.length!==d.organ_count||d.organs.some(o=>!o.id||!o.route||!o.status))throw Error("Invalid organ map data");
+    state.organs=d.organs;render();
+  }).catch(err=>{$("#organ-list").textContent="Organ data unavailable: "+err.message;$("#preview-status").textContent="Use the direct Heart and Liver guide links below."});
+})();
+</script>
+</body>
+</html>
