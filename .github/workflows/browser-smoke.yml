@@ -1,13 +1,5 @@
 name: Atlas browser smoke tests
 on:
-  push:
-    paths:
-      - 'atlas/**'
-      - 'tests/**'
-      - 'research/knowledge-graph-v1.json'
-      - 'research/organ-*.json'
-      - 'taxonomy/taxonomy-v1.json'
-      - '.github/workflows/browser-smoke.yml'
   workflow_dispatch:
 jobs:
   browser:
