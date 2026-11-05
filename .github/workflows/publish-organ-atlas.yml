@@ -1,11 +1,8 @@
-name: Publish public Organ Atlas preview
+name: Publish Rudolf Steiner Atlas (manual release)
 
+# Publishing is intentionally manual to conserve GitHub Actions minutes.
+# Research commits and ordinary source edits must NOT automatically deploy.
 on:
-  push:
-    branches: [main]
-    paths:
-      - "atlas/mobile-preview.html"
-      - ".github/workflows/publish-organ-atlas.yml"
   workflow_dispatch:
 
 permissions:
@@ -15,31 +12,57 @@ permissions:
   id-token: write
 
 concurrency:
-  group: organ-atlas-pages
+  group: rudolf-steiner-atlas-pages
   cancel-in-progress: true
 
 jobs:
   publish:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - name: Check out source repository
+      - name: Checkout Atlas
         uses: actions/checkout@v4
 
-      - name: Prepare public files only
+      - name: Assemble thematic, organ, and evidence views
+        shell: bash
         run: |
-          mkdir -p dist
-          cp atlas/mobile-preview.html dist/index.html
+          set -euo pipefail
+          mkdir -p dist/atlas dist/research dist/taxonomy dist/docs dist/assets
+          cp site/index.html dist/index.html
+          cp -R atlas/. dist/atlas/
+          cp research/*.json dist/research/
+          cp -R taxonomy/. dist/taxonomy/
+          cp docs/*.md dist/docs/
+          cp -R assets/. dist/assets/
           touch dist/.nojekyll
           test -s dist/index.html
-          test "$(find dist -maxdepth 1 -type f | wc -l)" -eq 2
+          test -s dist/atlas/index.html
+          test -s dist/atlas/mobile-preview.html
+          test -s dist/atlas/organs.html
+          test -s dist/atlas/graph.html
+          test -s dist/research/organ-current.json
+          test -s dist/taxonomy/taxonomy-v1.json
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+          manifest = json.loads(Path('dist/research/organ-current.json').read_text())
+          base = Path('dist/research')
+          for name, location in manifest['files'].items():
+              target = (base / location).resolve()
+              assert target.is_file(), f'Missing organ manifest dependency: {name} {location}'
+          for rel in ['atlas/app.js', 'atlas/graph.js', 'atlas/organs.js', 'atlas/style.css', 'atlas/study-paths.json']:
+              assert Path('dist', rel).is_file(), f'Missing Atlas asset: {rel}'
+          print('All thematic and organ data dependencies present')
+          PY
+          du -sh dist
 
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
 
-      - name: Upload curated public site only
+      - name: Upload single combined website
         uses: actions/upload-pages-artifact@v4
         with:
           name: github-pages
