@@ -1,0 +1,780 @@
+{
+  "schema_version": "1.0",
+  "as_of": "2026-11-05",
+  "research_phase": 29,
+  "status": "curated_v1_visual_guides_not_exhaustive_bilingual_concordance",
+  "description": "Original editorial summaries of Steiner's historically attributed teachings. No copied lecture bodies. All nontrivial doctrinal cards resolve to exact dated primary-source links in their guide. Scientific anatomical facts are visually distinguished from esoteric assertions.",
+  "layers": [
+    {
+      "id": "overview",
+      "label": "At a glance",
+      "short": "2-minute picture",
+      "icon": "◉"
+    },
+    {
+      "id": "body",
+      "label": "In the body",
+      "short": "Location & organism",
+      "icon": "♙"
+    },
+    {
+      "id": "interpretation",
+      "label": "Steiner's account",
+      "short": "Members & functions",
+      "icon": "◈"
+    },
+    {
+      "id": "evolution",
+      "label": "Evolution",
+      "short": "Stages & changes",
+      "icon": "◷"
+    },
+    {
+      "id": "agencies",
+      "label": "Beings & roles",
+      "short": "Who does what",
+      "icon": "✳"
+    },
+    {
+      "id": "connections",
+      "label": "Connections",
+      "short": "Related ideas",
+      "icon": "⌁"
+    },
+    {
+      "id": "sources",
+      "label": "Original sources",
+      "short": "Evidence & context",
+      "icon": "☷"
+    },
+    {
+      "id": "questions",
+      "label": "Open questions",
+      "short": "Research boundaries",
+      "icon": "?"
+    }
+  ],
+  "guides": [
+    {
+      "id": "organ-heart",
+      "slug": "heart",
+      "title": "The heart",
+      "subtitle": "Warmth · rhythm · inward experience",
+      "one_liner": "In Steiner's teachings the heart is discussed as a developing disposition, a rhythmic organization and an image of spiritual inwardness.",
+      "intro": "Explore the heart through several distinct settings: early planetary evolution, the rhythm of present bodily life, a claimed inward sense, and images of conscience. They should not be merged into one physical explanation.",
+      "quick_takeaways": [
+        {
+          "title": "Its beginnings are not modern anatomy",
+          "body": "Steiner's Old Saturn account concerns the first disposition of a heart, not a muscular organ as it exists today.",
+          "sources": [
+            "h-ga110-ix"
+          ],
+          "type": "source_explanation"
+        },
+        {
+          "title": "The living organism is relational",
+          "body": "A medical lecture interprets rhythm through the contrasting influences of head and metabolism.",
+          "sources": [
+            "h-ga313"
+          ],
+          "type": "source_explanation"
+        },
+        {
+          "title": "Spiritually interpreted, not clinically established",
+          "body": "Steiner also gives the heart inward-sense and conscience meanings, which are historical esoteric claims.",
+          "sources": [
+            "h-ga316",
+            "h-ga205"
+          ],
+          "type": "source_explanation"
+        }
+      ],
+      "keywords": [
+        "Heart rudiment",
+        "Rhythmic system",
+        "Warmth",
+        "Conscience",
+        "Inner sense",
+        "Blood"
+      ],
+      "body": {
+        "note": "The heart is located in the chest between the lungs, somewhat left of the midline. Anatomically it pumps blood through the circulatory system. The spiritual claims discussed in the remaining layers are not established physiological explanations.",
+        "cards": [
+          {
+            "title": "Location and circulation",
+            "body": "The heart lies in the thorax and pumps blood through the body. This is general anatomical orientation, distinct from Steiner's esoteric explanations.",
+            "sources": [],
+            "type": "modern_anatomy"
+          },
+          {
+            "title": "Rhythm as a whole-body theme",
+            "body": "Steiner describes rhythmic balancing in relation to head and metabolic processes, not simply as a local chest matter.",
+            "sources": [
+              "h-ga313"
+            ],
+            "type": "source_explanation"
+          },
+          {
+            "title": "Heart and lungs",
+            "body": "A 1922 medical lecture discusses heart–lung activity in connection with the etheric organization. Treat this as Steiner's interpretation, not modern mechanism.",
+            "sources": [
+              "h-ga314"
+            ],
+            "type": "source_explanation"
+          }
+        ]
+      },
+      "interpretation": {
+        "intro": "The following diagrams are categories of explanation, not four literal anatomical layers. Some describe the human members; others are organ analogies.",
+        "cards": [
+          {
+            "title": "Rhythmic organization",
+            "body": "The rhythmic organization is described as arising amid head and metabolic influences.",
+            "sources": [
+              "h-ga313"
+            ],
+            "type": "source_explanation"
+          },
+          {
+            "title": "Etheric relation",
+            "body": "The heart–lung discussion places activity in relation to etheric organization; the source does not license an exclusive spiritual organ-builder.",
+            "sources": [
+              "h-ga314"
+            ],
+            "type": "source_explanation"
+          },
+          {
+            "title": "Astral and I interpretation",
+            "body": "Steiner characterizes the heart as a purported inward organ sensing astral and I-related activity.",
+            "sources": [
+              "h-ga316"
+            ],
+            "type": "source_explanation"
+          },
+          {
+            "title": "Conscience and future life",
+            "body": "Steiner links the heart's surface and interior to images of conscience and karmic dispositions. These are historical spiritual assertions.",
+            "sources": [
+              "h-ga205"
+            ],
+            "type": "source_explanation"
+          }
+        ]
+      },
+      "evolution": {
+        "lead": "A context map, not a physically validated evolutionary timeline. Earth's recapitulation is not the same as the original Old Saturn embodiment.",
+        "timeline": [
+          {
+            "stage": "Old Saturn",
+            "kind": "earlier_embodiment",
+            "title": "First heart disposition",
+            "body": "A rudimentary heart organization is attributed to the earliest cosmic conditions; this is not a present-day anatomical heart.",
+            "sources": [
+              "h-ga110-ix"
+            ]
+          },
+          {
+            "stage": "Earth recapitulation",
+            "kind": "recapitulation",
+            "title": "A warmth-centered structure",
+            "body": "Steiner describes branching warmth and a heart disposition while Earth repeats earlier conditions, distinguishing it from the mature organ.",
+            "sources": [
+              "h-ga102-v"
+            ]
+          },
+          {
+            "stage": "Present organism",
+            "kind": "current_organization",
+            "title": "Rhythm and inward significance",
+            "body": "Later lectures treat rhythm, purported inner sensing and conscience through separate organ interpretive frameworks.",
+            "sources": [
+              "h-ga313",
+              "h-ga316",
+              "h-ga205"
+            ]
+          },
+          {
+            "stage": "Future stages",
+            "kind": "research_gap",
+            "title": "Detailed heart sequence still open",
+            "body": "The present dossier does not establish a fully sourced organ-specific account for every future planetary condition.",
+            "sources": []
+          }
+        ],
+        "compare": {
+          "left": {
+            "label": "Original embodiment",
+            "detail": "Old Saturn first disposition",
+            "sources": [
+              "h-ga110-ix"
+            ]
+          },
+          "right": {
+            "label": "Later recapitulation",
+            "detail": "Earth repeats earlier conditions",
+            "sources": [
+              "h-ga102-v"
+            ]
+          },
+          "conclusion": "These have different temporal references. Neither dates the modern physical heart to a warmth-only state."
+        }
+      },
+      "agencies": {
+        "intro": "A named being's stage, donation, ordering or preservation activity is not necessarily an exclusive claim that it built the present organ.",
+        "rows": [
+          {
+            "agent": "Higher hierarchies discussed in GA 110",
+            "role": "Cosmic formative context",
+            "target": "Heart rudiment and developmental setting",
+            "stage": "Old Saturn",
+            "sources": [
+              "h-ga110-viii",
+              "h-ga110-ix"
+            ],
+            "caveat": "Do not collapse Thrones, Cherubim and Seraphim into a single builder."
+          },
+          {
+            "agent": "Not specified as one exclusive rank",
+            "role": "Rhythmic organization",
+            "target": "Present chest and bodily polarities",
+            "stage": "Present organization",
+            "sources": [
+              "h-ga313",
+              "h-ga314"
+            ],
+            "caveat": "No unique hierarchy assigned to every rhythmic activity."
+          },
+          {
+            "agent": "Human astral and I organization",
+            "role": "Purported inward sensing",
+            "target": "Heart as spiritual sense image",
+            "stage": "Present interpretation",
+            "sources": [
+              "h-ga316"
+            ],
+            "caveat": "Not a claim of clinical detection by the heart."
+          }
+        ]
+      },
+      "connections": {
+        "intro": "Tap a relationship for its explanation and original source. Different kinds of connections should not be interpreted as identical causal mechanisms.",
+        "nodes": [
+          {
+            "label": "Blood",
+            "detail": "The heart belongs to the circulation; Steiner interprets rhythm and life activity in other registers.",
+            "sources": [
+              "h-ga313"
+            ],
+            "relation": "system"
+          },
+          {
+            "label": "Warmth",
+            "detail": "GA 205 links the heart with a warmth element in Steiner's esoteric account.",
+            "sources": [
+              "h-ga205"
+            ],
+            "relation": "elemental"
+          },
+          {
+            "label": "Rhythm",
+            "detail": "Rhythmic organization is described in relation to opposing bodily poles.",
+            "sources": [
+              "h-ga313"
+            ],
+            "relation": "organization"
+          },
+          {
+            "label": "Conscience",
+            "detail": "The heart is used to express feelings of conscience and their purported spiritual reflection.",
+            "sources": [
+              "h-ga205"
+            ],
+            "relation": "claimed_experience"
+          },
+          {
+            "label": "Inner sense",
+            "detail": "A 1924 lecture describes an inner sense of astral and I-related processes.",
+            "sources": [
+              "h-ga316"
+            ],
+            "relation": "claimed_inner_sense"
+          }
+        ]
+      },
+      "questions": [
+        {
+          "title": "Who acts at each evolutionary stage?",
+          "body": "The hierarchy comparisons need to distinguish named actors, kind of action and stage. No exclusive modern-heart builder is established.",
+          "sources": [
+            "h-ga110-viii",
+            "h-ga110-ix"
+          ],
+          "type": "research_question"
+        },
+        {
+          "title": "How should Sun symbolism be compared?",
+          "body": "Present solar correspondence and primordial genesis must remain separate until directly reconciled with passages in their full context.",
+          "sources": [
+            "h-ga110-ix"
+          ],
+          "type": "research_question"
+        },
+        {
+          "title": "What is incomplete?",
+          "body": "The first-pass English readings and selected German comparisons do not yet constitute exhaustive bilingual, independent verification.",
+          "sources": [],
+          "type": "research_gap"
+        },
+        {
+          "title": "Historical medical error",
+          "body": "Steiner's denial that the heart pumps blood is contrary to established cardiovascular physiology. This is a historical source claim, not advice.",
+          "sources": [
+            "h-ga205"
+          ],
+          "type": "clinical_caution"
+        }
+      ],
+      "sources": [
+        {
+          "id": "h-ga110-ix",
+          "ga": "110",
+          "title": "Spiritual Hierarchies, Lecture IX",
+          "cue": "18 April 1909, §8",
+          "url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090418a01.html",
+          "context": "Old Saturn heart disposition",
+          "review_status": "selected_English_passage_checked",
+          "german_status": "complete_German_collation_not_certified"
+        },
+        {
+          "id": "h-ga110-viii",
+          "ga": "110",
+          "title": "Spiritual Hierarchies, Lecture VIII",
+          "cue": "17 April 1909, §§6–10",
+          "url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090417p01.html",
+          "context": "Named hierarchy roles, Old Saturn; requires role distinction",
+          "review_status": "selected_English_passage_checked",
+          "german_status": "complete_German_collation_not_certified"
+        },
+        {
+          "id": "h-ga102-v",
+          "ga": "102",
+          "title": "Spiritual Beings and Their Work, Lecture V",
+          "cue": "16 March 1908, §§9, 21–24",
+          "url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080316p01.html",
+          "context": "Earth's recapitulation of earlier conditions",
+          "review_status": "selected_English_passage_checked",
+          "german_status": "complete_German_collation_not_certified"
+        },
+        {
+          "id": "h-ga313",
+          "ga": "313",
+          "title": "Medical lecture",
+          "cue": "13 April 1921, §3",
+          "url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210413.html",
+          "context": "Rhythmic head–metabolic relation",
+          "review_status": "selected_English_passage_checked",
+          "german_status": "complete_German_collation_not_certified"
+        },
+        {
+          "id": "h-ga314",
+          "ga": "314",
+          "title": "Medical lecture, morning",
+          "cue": "27 October 1922; heart–lung discussion",
+          "url": "https://rsarchive.org/Lectures/FundAnthro/19221027a01.html",
+          "context": "Heart–lung and etheric organization",
+          "review_status": "selected_English_passage_checked",
+          "german_status": "complete_German_collation_not_certified"
+        },
+        {
+          "id": "h-ga316",
+          "ga": "316",
+          "title": "Young Doctors lecture",
+          "cue": "3 January 1924, §§15–16",
+          "url": "https://rsarchive.org/Medicine/YoungDoctors/19240103p01.html",
+          "context": "Historical inner sense account",
+          "review_status": "selected_English_passage_checked",
+          "german_status": "complete_German_collation_not_certified"
+        },
+        {
+          "id": "h-ga205",
+          "ga": "205",
+          "title": "Lecture on inner organs",
+          "cue": "2 July 1921, §§13–16, 21",
+          "url": "https://rsarchive.org/Lectures/GA205/English/SOL/19210702p01.html",
+          "context": "Conscience, warmth, karma; scientifically false cardiac pump denial",
+          "review_status": "selected_English_passage_checked",
+          "german_status": "complete_German_collation_not_certified"
+        }
+      ],
+      "dossier_url": "organs.html?organ=organ-heart"
+    },
+    {
+      "id": "organ-liver",
+      "slug": "liver",
+      "title": "The liver",
+      "subtitle": "Nourishment · will · planetary analogy",
+      "one_liner": "Steiner associates the liver with food processes, a Jupiter analogy, the developing head and forms of willing.",
+      "intro": "Liver teachings in different lectures belong to different explanatory contexts. A planetary metaphor, an inward-sense idea, childhood development and an elemental correspondence are not interchangeable facts.",
+      "quick_takeaways": [
+        {
+          "title": "Jupiter is a correspondence",
+          "body": "In GA 128 Steiner provisionally invokes an inner Jupiter relationship; this does not date the organ's physical creation.",
+          "sources": [
+            "l-ga128-ii"
+          ],
+          "type": "source_explanation"
+        },
+        {
+          "title": "Nourishment is central",
+          "body": "A 1924 lecture describes a purported inward sense for the value of food, distinct from the modern biochemical role of the liver.",
+          "sources": [
+            "l-ga316"
+          ],
+          "type": "source_explanation"
+        },
+        {
+          "title": "Head and will are separate themes",
+          "body": "Medical and curative-education lectures discuss liver–gall/head relations and the child's intentions becoming movement.",
+          "sources": [
+            "l-ga314-p",
+            "l-ga317"
+          ],
+          "type": "source_explanation"
+        }
+      ],
+      "keywords": [
+        "Nourishment",
+        "Jupiter analogy",
+        "Will",
+        "Liver–gall",
+        "Head reflection",
+        "Water"
+      ],
+      "body": {
+        "note": "The liver is in the upper right abdomen beneath the diaphragm. Modern anatomy describes it as performing metabolic, synthetic, detoxification and bile-producing functions. This general orientation is different from Steiner's attributed claims.",
+        "cards": [
+          {
+            "title": "Position and physiology",
+            "body": "The liver lies mainly under the right rib cage; it processes nutrients, synthesizes proteins and makes bile. This is ordinary anatomy.",
+            "sources": [],
+            "type": "modern_anatomy"
+          },
+          {
+            "title": "Liver versus liver–gall system",
+            "body": "Some of Steiner's statements refer to the combined liver–gall organization. The Atlas keeps that scope distinct from liver-only claims.",
+            "sources": [
+              "l-ga314-a",
+              "l-ga314-p"
+            ],
+            "type": "source_explanation"
+          },
+          {
+            "title": "Nourishment in Steiner's account",
+            "body": "GA 128 connects liver, bile and spleen to ascending nutritional processes; GA 316 supplies another inner-sense image.",
+            "sources": [
+              "l-ga128-viii",
+              "l-ga316"
+            ],
+            "type": "source_explanation"
+          }
+        ]
+      },
+      "interpretation": {
+        "intro": "These are different spiritual-scientific interpretations of liver activity; no claim is presented as modern clinical diagnosis.",
+        "cards": [
+          {
+            "title": "The nourishment account",
+            "body": "Steiner portrays the liver as a purported inward sense of the value of food.",
+            "sources": [
+              "l-ga316"
+            ],
+            "type": "source_explanation"
+          },
+          {
+            "title": "I and liver–gall",
+            "body": "A 1922 medical discussion links liver–gall, warmth and I organization; do not treat every such statement as liver-alone.",
+            "sources": [
+              "l-ga314-a"
+            ],
+            "type": "source_explanation"
+          },
+          {
+            "title": "Head relationship",
+            "body": "GA 314 describes childhood head reflection of liver–gall-related influences.",
+            "sources": [
+              "l-ga314-p"
+            ],
+            "type": "source_explanation"
+          },
+          {
+            "title": "Will and movement",
+            "body": "Steiner proposes an association of the liver with translating intention into movement in a curative-education context.",
+            "sources": [
+              "l-ga317"
+            ],
+            "type": "source_explanation"
+          }
+        ]
+      },
+      "evolution": {
+        "lead": "These are explanatory settings, not a linear sequence of the liver being formed on Jupiter and then Earth.",
+        "timeline": [
+          {
+            "stage": "Planetary correspondence",
+            "kind": "symbolic_correspondence",
+            "title": "Inner Jupiter analogy",
+            "body": "GA 128 uses a provisional analogy involving inner Jupiter. It is not an astronomical claim that liver tissue formed on the planet Jupiter.",
+            "sources": [
+              "l-ga128-ii"
+            ]
+          },
+          {
+            "stage": "Present organism",
+            "kind": "current_organization",
+            "title": "Nourishment and inner sensing",
+            "body": "Steiner discusses nutritive processes and a claimed inward awareness of food value.",
+            "sources": [
+              "l-ga128-viii",
+              "l-ga316"
+            ]
+          },
+          {
+            "stage": "Childhood organization",
+            "kind": "life_stage",
+            "title": "Head, will and liver–gall",
+            "body": "Distinct lectures treat liver–gall/head reflections and intention becoming movement.",
+            "sources": [
+              "l-ga314-p",
+              "l-ga317"
+            ]
+          },
+          {
+            "stage": "Future and between lives",
+            "kind": "claimed_future_relation",
+            "title": "Future brain dispositions",
+            "body": "GA 205 links inner organ activity to a claimed future disposition, without proving a complete cosmic liver evolution sequence.",
+            "sources": [
+              "l-ga205"
+            ]
+          }
+        ],
+        "compare": {
+          "left": {
+            "label": "Jupiter",
+            "detail": "Planetary/functional analogy in GA 128",
+            "sources": [
+              "l-ga128-ii"
+            ]
+          },
+          "right": {
+            "label": "Water",
+            "detail": "Elemental affiliation in GA 205",
+            "sources": [
+              "l-ga205"
+            ]
+          },
+          "conclusion": "Two different relationship types: neither justifies saying Jupiter physically made the liver out of water."
+        }
+      },
+      "agencies": {
+        "intro": "The sources in this guide do not establish a unique hierarchy whose sole work is to build the finished liver.",
+        "rows": [
+          {
+            "agent": "Spiritual agents not uniquely identified here",
+            "role": "Organ's alleged inner/planetary relationship",
+            "target": "Liver and Jupiter comparison",
+            "stage": "Present correspondence",
+            "sources": [
+              "l-ga128-ii"
+            ],
+            "caveat": "Correspondence is not a named builder."
+          },
+          {
+            "agent": "I organization (human member)",
+            "role": "Warmth and liver–gall relationship",
+            "target": "Broader liver–gall system",
+            "stage": "Present and childhood context",
+            "sources": [
+              "l-ga314-a",
+              "l-ga314-p"
+            ],
+            "caveat": "The I is a member of the human constitution, not a separate named hierarchy."
+          },
+          {
+            "agent": "Human intention / etheric processes in the lecture",
+            "role": "Purported mediation of will",
+            "target": "Childhood liver and movement",
+            "stage": "Child development",
+            "sources": [
+              "l-ga317"
+            ],
+            "caveat": "This remains a historical interpretation, not a cause of movement disorders."
+          }
+        ]
+      },
+      "connections": {
+        "intro": "These relationships involve nourishment, symbolism, childhood formation and spiritual interpretations; they cannot be fused into a single diagram of physical causation.",
+        "nodes": [
+          {
+            "label": "Nourishment",
+            "detail": "An inward-sense account and the nutritional activities discussed with bile and spleen.",
+            "sources": [
+              "l-ga316",
+              "l-ga128-viii"
+            ],
+            "relation": "organ_process"
+          },
+          {
+            "label": "Jupiter",
+            "detail": "The provisional inner Jupiter analogy in GA 128.",
+            "sources": [
+              "l-ga128-ii"
+            ],
+            "relation": "symbolic_correspondence"
+          },
+          {
+            "label": "Head",
+            "detail": "Childhood head reflection and the relation of organs to differentiation.",
+            "sources": [
+              "l-ga314-p",
+              "l-ga313"
+            ],
+            "relation": "developmental_relation"
+          },
+          {
+            "label": "Will",
+            "detail": "A historical association of the liver with intention becoming movement.",
+            "sources": [
+              "l-ga317"
+            ],
+            "relation": "claimed_will_relation"
+          },
+          {
+            "label": "Water",
+            "detail": "GA 205 gives an elemental water affiliation, distinct from Jupiter.",
+            "sources": [
+              "l-ga205"
+            ],
+            "relation": "elemental"
+          }
+        ]
+      },
+      "questions": [
+        {
+          "title": "Was the liver formed by particular Saturn beings?",
+          "body": "Steiner's planetary/cosmic agency descriptions require further original-context comparison. Do not substitute the Jupiter analogy for such a claim.",
+          "sources": [
+            "l-ga128-ii"
+          ],
+          "type": "research_question"
+        },
+        {
+          "title": "Where does liver–gall differ from liver alone?",
+          "body": "Several sources describe the broader organ system. The dossier should retain the actual target named in each lecture.",
+          "sources": [
+            "l-ga314-a",
+            "l-ga314-p"
+          ],
+          "type": "research_question"
+        },
+        {
+          "title": "Are the medical implications established?",
+          "body": "No. The liver–will and illness accounts are historical esoteric teachings, not validated explanations of neurological or developmental conditions.",
+          "sources": [
+            "l-ga317"
+          ],
+          "type": "clinical_caution"
+        },
+        {
+          "title": "What is still pending?",
+          "body": "Whole-original-German collation, comprehensive cross-volume reconciliation and independent second review remain unfinished.",
+          "sources": [],
+          "type": "research_gap"
+        }
+      ],
+      "sources": [
+        {
+          "id": "l-ga128-ii",
+          "ga": "128",
+          "title": "An Occult Physiology, Lecture II",
+          "cue": "21 March 1911, §11",
+          "url": "https://rsarchive.org/Lectures/GA128/English/SOL/19110321p01.html",
+          "context": "Provisional inner Jupiter analogy",
+          "review_status": "selected_English_passage_checked",
+          "german_status": "complete_German_collation_not_certified"
+        },
+        {
+          "id": "l-ga128-viii",
+          "ga": "128",
+          "title": "An Occult Physiology, Lecture VIII",
+          "cue": "28 March 1911, §§15, 18, 21",
+          "url": "https://rsarchive.org/Lectures/GA128/English/SOL/19110328p01.html",
+          "context": "Nutritive processes and planetary analogy",
+          "review_status": "selected_English_passage_checked",
+          "german_status": "complete_German_collation_not_certified"
+        },
+        {
+          "id": "l-ga316",
+          "ga": "316",
+          "title": "Young Doctors lecture",
+          "cue": "3 January 1924, §§13–16",
+          "url": "https://rsarchive.org/Medicine/YoungDoctors/19240103p01.html",
+          "context": "Historical inward nutritional sense",
+          "review_status": "selected_English_passage_checked",
+          "german_status": "complete_German_collation_not_certified"
+        },
+        {
+          "id": "l-ga314-a",
+          "ga": "314",
+          "title": "Medical lecture, morning",
+          "cue": "27 October 1922, liver–gall and I discussion",
+          "url": "https://rsarchive.org/Lectures/FundAnthro/19221027a01.html",
+          "context": "Liver–gall system, warmth and I",
+          "review_status": "selected_English_passage_checked",
+          "german_status": "complete_German_collation_not_certified"
+        },
+        {
+          "id": "l-ga314-p",
+          "ga": "314",
+          "title": "Medical lecture, afternoon",
+          "cue": "27 October 1922, §10",
+          "url": "https://rsarchive.org/Lectures/GA314/English/MP1986/19221027p01.html",
+          "context": "Childhood head reflection",
+          "review_status": "selected_English_passage_checked",
+          "german_status": "complete_German_collation_not_certified"
+        },
+        {
+          "id": "l-ga317",
+          "ga": "317",
+          "title": "Curative Education lecture",
+          "cue": "25 June 1924, §§7, 21",
+          "url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240625.html",
+          "context": "Will and head–organ process images",
+          "review_status": "selected_English_passage_checked",
+          "german_status": "complete_German_collation_not_certified"
+        },
+        {
+          "id": "l-ga205",
+          "ga": "205",
+          "title": "Lecture on inner organs",
+          "cue": "2 July 1921, §§5, 10, 21",
+          "url": "https://rsarchive.org/Lectures/GA205/English/SOL/19210702p01.html",
+          "context": "Feeling-colored memory, future brain disposition, water",
+          "review_status": "selected_English_passage_checked",
+          "german_status": "complete_German_collation_not_certified"
+        },
+        {
+          "id": "l-ga313",
+          "ga": "313",
+          "title": "Medical lectures",
+          "cue": "11–12 April 1921, selected sections",
+          "url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210411.html",
+          "context": "Head and organ differentiation",
+          "review_status": "selected_English_passage_checked",
+          "german_status": "complete_German_collation_not_certified"
+        }
+      ],
+      "dossier_url": "organs.html?organ=organ-liver"
+    }
+  ]
+}
