@@ -48,22 +48,35 @@ for p in (ROOT/'research').glob('organ-atomic-claims-*-v*.json'):
   for prior in c['reconciliation']['prior_claim_ids']: assert prior in claims,prior
   section_files=list((ROOT/'research').glob('organ-paragraph-review-*-v*.json')) + list((ROOT/'research').glob('organ-selected-reading-*-v*.json'))
   if c['id'].startswith('ORG-CLAIM-V') and int(c['id'].split('-')[2][1:])>=12:
-   sections=[r for f in section_files for r in json.loads(f.read_text())['records']]
-   assert any(r['source_url']==c['source_url'] and r['paragraph']==c['section'] for r in sections),c['id']
+   sections=[r for f in section_files for r in (lambda d:d.get('records',d.get('sections',[])))(json.loads(f.read_text()))]
+   assert any(r['source_url']==c['source_url'] and r.get('paragraph',r.get('section'))==c['section'] for r in sections),c['id']
 for d in new['dossiers']:
  for key,value in d.items():
   if key.startswith('phase') and key.endswith('_refinements') and int(key[5:].split('_')[0])>=12:
    for r in value: assert r['claim_ref_id'] in claims,r
 for provenance in (ROOT/'research').glob('organ-manuscript-provenance-v*.json'):
- meta=json.loads(provenance.read_text());body=(ROOT/meta['cumulative_path']).read_bytes()
- preserved=body[meta['preserved_start_byte']:meta['preserved_end_byte_exclusive']]
- assert len(preserved)==meta['source_bytes']
- assert hashlib.sha256(preserved).hexdigest()==meta['source_sha256']
- assert hashlib.sha256(body).hexdigest()==meta['cumulative_sha256']
- if 'nested_v11' in meta:
-  inner=meta['nested_v11'];v11=body[inner['preserved_start_byte']:inner['preserved_end_byte_exclusive']]
-  assert len(v11)==inner['source_bytes']==185831
-  assert hashlib.sha256(v11).hexdigest()==inner['source_sha256']
+ meta=json.loads(provenance.read_text())
+ if 'cumulative_path' in meta:
+  body=(ROOT/meta['cumulative_path']).read_bytes()
+  preserved=body[meta['preserved_start_byte']:meta['preserved_end_byte_exclusive']]
+  assert len(preserved)==meta['source_bytes']
+  assert hashlib.sha256(preserved).hexdigest()==meta['source_sha256']
+  assert hashlib.sha256(body).hexdigest()==meta['cumulative_sha256']
+  if 'nested_v11' in meta:
+   inner=meta['nested_v11'];v11=body[inner['preserved_start_byte']:inner['preserved_end_byte_exclusive']]
+   assert len(v11)==inner['source_bytes']==185831
+   assert hashlib.sha256(v11).hexdigest()==inner['source_sha256']
+ elif meta.get('version')==27 and 'output' in meta and 'preservation' in meta:
+  # The newer manifest records an immutable Git blob of the previous manuscript.
+  # Verify local byte-for-byte prefix preservation and stated Unicode codepoint size.
+  body=(ROOT/meta['output']).read_text(encoding='utf-8')
+  prior=(ROOT/meta['preservation']['prior_version']).read_text(encoding='utf-8')
+  assert body.startswith(prior), 'Phase27 cumulative manuscript does not preserve previous text'
+  assert len(prior)==meta['preservation']['prior_codepoints']
+  assert len(body)==meta['outcomes']['total_markdown_characters']
+  assert len(body)>len(prior)
+ else:
+  raise AssertionError(f"Unknown organ manuscript provenance schema: {provenance}")
 for e in ledger['entries']:
  if e['audit_status']=='all_numbered_english_paragraphs_reviewed' and e.get('audit_record'):
   # Prior audit files are canonical GitHub dependencies; validate locally when loaded.
