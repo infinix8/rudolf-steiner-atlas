@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated": "2026-11-03",
+  "generated": "2026-11-05",
   "purpose": "Status audit of the 30 old hypothesis-only crosslinks; never promote by similarity alone.",
   "counts": {
     "original": 30,
