@@ -1,0 +1,117 @@
+{
+  "schema_version": "1.0",
+  "as_of": "2026-11-05",
+  "view": "front_schematic",
+  "scope": "Original editorial navigation artwork. Organ positions are approximate, illustrative, not to anatomical scale and not evidence of Steiner's claims.",
+  "organ_count": 8,
+  "organs": [
+    {
+      "id": "organ-brain",
+      "label": "Brain",
+      "system": "Head and nervous",
+      "figure_key": "brain",
+      "summary": "Head organization, thought and bodily formative activity across Steiner's contexts.",
+      "related": [
+        "Head",
+        "Nerves",
+        "Cognition"
+      ],
+      "status": "research_dossier",
+      "route": "organs.html?organ=organ-brain"
+    },
+    {
+      "id": "organ-lungs",
+      "label": "Lungs",
+      "system": "Breathing and rhythm",
+      "figure_key": "lungs",
+      "summary": "Breathing, rhythmic organization and the relationship between chest processes and human development.",
+      "related": [
+        "Breath",
+        "Rhythm",
+        "Heart"
+      ],
+      "status": "research_dossier",
+      "route": "organs.html?organ=organ-lungs"
+    },
+    {
+      "id": "organ-heart",
+      "label": "Heart",
+      "system": "Breathing and rhythm",
+      "figure_key": "heart",
+      "summary": "A guided exploration of heart rudiments, warmth, rhythm and esoteric inward-sense accounts.",
+      "related": [
+        "Warmth",
+        "Rhythm",
+        "Conscience"
+      ],
+      "status": "guided",
+      "route": "mobile-preview.html#heart/overview"
+    },
+    {
+      "id": "organ-liver",
+      "label": "Liver",
+      "system": "Metabolic",
+      "figure_key": "liver",
+      "summary": "A guided comparison of nourishment, Jupiter analogy, head relations and will.",
+      "related": [
+        "Nourishment",
+        "Jupiter analogy",
+        "Will"
+      ],
+      "status": "guided",
+      "route": "mobile-preview.html#liver/overview"
+    },
+    {
+      "id": "organ-stomach",
+      "label": "Stomach",
+      "system": "Metabolic",
+      "figure_key": "stomach",
+      "summary": "A topic indexed for further source-linked development; not yet a polished organ guide.",
+      "related": [
+        "Digestion",
+        "Nutrition"
+      ],
+      "status": "index_only",
+      "route": "organs.html?organ=organ-stomach"
+    },
+    {
+      "id": "organ-spleen",
+      "label": "Spleen",
+      "system": "Metabolic",
+      "figure_key": "spleen",
+      "summary": "A topic indexed for review, including connections with nutritive rhythms and GA 128.",
+      "related": [
+        "Nutrition",
+        "Rhythm"
+      ],
+      "status": "index_only",
+      "route": "organs.html?organ=organ-spleen"
+    },
+    {
+      "id": "organ-kidneys",
+      "label": "Kidneys",
+      "system": "Metabolic",
+      "figure_key": "kidneys",
+      "summary": "A research dossier with distinct claims about kidney activity, associations and interventions.",
+      "related": [
+        "Kidney activity",
+        "Organism"
+      ],
+      "status": "research_dossier",
+      "route": "organs.html?organ=organ-kidneys"
+    },
+    {
+      "id": "organ-intestines",
+      "label": "Intestines",
+      "system": "Metabolic",
+      "figure_key": "intestines",
+      "summary": "A research dossier concerning the metabolic organization and intestinal processes.",
+      "related": [
+        "Metabolism",
+        "Digestion"
+      ],
+      "status": "research_dossier",
+      "route": "organs.html?organ=organ-intestines"
+    }
+  ]
+}
