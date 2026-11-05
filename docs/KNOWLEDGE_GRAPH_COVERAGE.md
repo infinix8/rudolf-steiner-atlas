@@ -2,8 +2,8 @@
 
 Generated from local, original Atlas records; no external documents accessed.
 
-- **306 passage-qualified relationships**; **104 original source pages**.
-- **201 direct cross-domain graph connections**.
+- **342 passage-qualified relationships**; **107 original source pages**.
+- **225 direct cross-domain graph connections**.
 - **4 of 30 initial crosslinks** directly matched; **22** still have no matching exact-endpoint source evidence.
 - Source pages include alternate views of shared lecture events (GA313 IX / GA315 VII); page counts are not independent-event counts.
 - Source verification means **selected passages were checked**, not that full books were reviewed.
@@ -16,20 +16,20 @@ Generated from local, original Atlas records; no external documents accessed.
 | 02 | Goethean Science and the Foundations of Research | 17 |
 | 03 | Esoteric Training, Initiation, and Spiritual Research | 13 |
 | 04 | Worldviews, Philosophy of Spirit, and Conceptual Structures | 6 |
-| 05 | Spiritual Worlds, Hierarchies, and Beings | 16 |
-| 06 | Cosmic Genesis, Earth Evolution, and the Future | 19 |
-| 07 | Nature Kingdoms, Elemental Beings, and the Living Earth | 22 |
-| 08 | Karma, Reincarnation, Death, and Spiritual Destiny | 21 |
-| 09 | Human Constitution: Body, Soul, and Spirit | 124 |
+| 05 | Spiritual Worlds, Hierarchies, and Beings | 41 |
+| 06 | Cosmic Genesis, Earth Evolution, and the Future | 33 |
+| 07 | Nature Kingdoms, Elemental Beings, and the Living Earth | 24 |
+| 08 | Karma, Reincarnation, Death, and Spiritual Destiny | 22 |
+| 09 | Human Constitution: Body, Soul, and Spirit | 130 |
 | 10 | Soul Life, Consciousness, Senses, and Psychology | 13 |
 | 11 | Life Course, Human Relations, and Embodied Biography | 18 |
 | 12 | Human Evolution and the Future of Consciousness | 10 |
 | 13 | Christology, Jesus, and the Mystery of Golgotha | 6 |
-| 14 | Religions, Ancient Mysteries, Scriptures, and Mythology | 4 |
-| 15 | Human History, Cultural Epochs, Peoples, and Civilizations | 4 |
-| 16 | Michael, Lucifer, Ahriman, and Spiritual Opposition | 4 |
-| 17 | Natural Sciences, Mathematics, Astronomy, and Technology | 6 |
-| 18 | Medicine, Therapeutics, Health, and Remedial Care | 128 |
+| 14 | Religions, Ancient Mysteries, Scriptures, and Mythology | 5 |
+| 15 | Human History, Cultural Epochs, Peoples, and Civilizations | 7 |
+| 16 | Michael, Lucifer, Ahriman, and Spiritual Opposition | 5 |
+| 17 | Natural Sciences, Mathematics, Astronomy, and Technology | 10 |
+| 18 | Medicine, Therapeutics, Health, and Remedial Care | 131 |
 | 19 | Education, Waldorf Pedagogy, and Child Development | 13 |
 | 20 | Agriculture, Food, Nutrition, and Ecological Life | 9 |
 | 21 | Social Threefolding, Economics, Law, and Political Life | 7 |
@@ -52,7 +52,7 @@ Generated from local, original Atlas records; no external documents accessed.
 | [SG-GA010-C01](https://rsarchive.org/Books/GA010/English/RSPC1947/GA010_c01.html) | GA 10 — Knowledge of Higher Worlds and its Attainment | 6 |
 | [SG-GA327-19240612](https://rsarchive.org/Lectures/GA327/English/BDA1958/19240612p01.html) | GA 327 — Agriculture | 3 |
 | [SG-GA004-C01](https://rsarchive.org/Books/GA004/English/RSP1964/GA004_c01.html) | GA 4 — The Philosophy of Freedom | 1 |
-| [SG-GA110-19090414](https://rsarchive.org/Lectures/19090414p01.html) | GA 110 — The Spiritual Hierarchies | 10 |
+| [SG-GA110-19090414](https://rsarchive.org/Lectures/GA110/English/SOL/19090414p01.html) | GA 110 — The Spiritual Hierarchies | 19 |
 | [SG-GA023-C02](https://rsarchive.org/Books/GA023/English/AP1972/GA023_c02.html) | GA 23 — The Threefold Social Order | 7 |
 | [SG-GA223-19230331](https://rsarchive.org/Lectures/GA223/English/AP1984/19230331p01.html) | GA 223 — The Cycle of the Year | 6 |
 | [SG-GA312-19200321](https://rsarchive.org/Lectures/SpiSciMed/19200321p01.html) | GA 312 — Spiritual Science and Medicine | 2 |
@@ -147,6 +147,9 @@ Generated from local, original Atlas records; no external documents accessed.
 | [SG-GA110-02-V26](https://rsarchive.org/Lectures/GA110/English/SOL/19090412p01.html) | GA 110 — Spiritual Hierarchies and their Reflection in the Physical World | 1 |
 | [SG-GA110-03-V26](https://rsarchive.org/Lectures/GA110/English/SOL/19090413a01.html) | GA 110 — Spiritual Hierarchies and their Reflection in the Physical World | 2 |
 | [SG-GA110-04-V26](https://rsarchive.org/Lectures/GA110/English/SOL/19090413p01.html) | GA 110 — Spiritual Hierarchies and their Reflection in the Physical World | 3 |
+| [SG-GA110-06-V27](https://rsarchive.org/Lectures/GA110/English/SOL/19090415p01.html) | GA 110 — Spiritual Hierarchies and Their Reflection in the Physical World | 8 |
+| [SG-GA110-07-V27](https://rsarchive.org/Lectures/GA110/English/SOL/19090416p01.html) | GA 110 — Spiritual Hierarchies and Their Reflection in the Physical World | 9 |
+| [SG-GA110-08-V27](https://rsarchive.org/Lectures/GA110/English/SOL/19090417p01.html) | GA 110 — Spiritual Hierarchies and Their Reflection in the Physical World | 10 |
 
 ## Audit boundaries
 
