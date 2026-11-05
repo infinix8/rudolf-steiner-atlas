@@ -156,10 +156,10 @@
       b.setAttribute("aria-selected",String(on));
       b.tabIndex=on?0:-1;
     });
+    if(next==="connections") state.connection=0;
     const body=$("#layer-panel");
     body.innerHTML=renderLayer[next]();
     body.setAttribute("aria-label",state.data.layers.find(x=>x.id===next)?.label||"Organ explanation");
-    if(next==="connections") state.connection=0;
     updateUrl(push);
     if(focusPanel)body.focus();
   }
