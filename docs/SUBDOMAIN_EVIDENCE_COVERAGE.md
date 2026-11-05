@@ -2,7 +2,7 @@
 
 Generated only from the repository's own taxonomy IDs and source-linked graph.
 
-**150 subdomains:** 53 with an edge directly on the subdomain, 51 with an edge only on a nested child, 46 with no graph-attached edge.
+**150 subdomains:** 57 with an edge directly on the subdomain, 54 with an edge only on a nested child, 39 with no graph-attached edge.
 
 **This is an editorial workflow metric, not a measurement of Steiner's corpus coverage.** A source-linked edge records selected passages, not a fully audited concept or lecture. An empty status does not mean the original works omit the subject.
 
@@ -14,8 +14,8 @@ Generated only from the repository's own taxonomy IDs and source-linked graph.
 | 02 | 3 | 2 | 0 | 5 |
 | 03 | 4 | 2 | 0 | 6 |
 | 04 | 3 | 1 | 3 | 7 |
-| 05 | 1 | 1 | 3 | 5 |
-| 06 | 3 | 2 | 1 | 6 |
+| 05 | 1 | 4 | 0 | 5 |
+| 06 | 3 | 3 | 0 | 6 |
 | 07 | 3 | 2 | 1 | 6 |
 | 08 | 2 | 2 | 2 | 6 |
 | 09 | 3 | 3 | 0 | 6 |
@@ -24,9 +24,9 @@ Generated only from the repository's own taxonomy IDs and source-linked graph.
 | 12 | 1 | 3 | 1 | 5 |
 | 13 | 1 | 4 | 1 | 6 |
 | 14 | 0 | 3 | 2 | 5 |
-| 15 | 1 | 1 | 4 | 6 |
-| 16 | 1 | 1 | 4 | 6 |
-| 17 | 1 | 1 | 4 | 6 |
+| 15 | 3 | 0 | 3 | 6 |
+| 16 | 2 | 1 | 3 | 6 |
+| 17 | 2 | 1 | 3 | 6 |
 | 18 | 5 | 1 | 1 | 7 |
 | 19 | 2 | 3 | 1 | 6 |
 | 20 | 3 | 3 | 0 | 6 |
@@ -65,33 +65,33 @@ Generated only from the repository's own taxonomy IDs and source-linked graph.
 | [RS-04.06 Worldview relationships](../atlas/index.html#node=RS-04.06) | descendant | 3 | 1 |
 | [RS-04.07 Boundaries of concepts](../atlas/index.html#node=RS-04.07) | none | 0 | 0 |
 | [RS-05.01 Three worlds and planes](../atlas/index.html#node=RS-05.01) | descendant | 5 | 1 |
-| [RS-05.02 Spiritual hierarchies](../atlas/index.html#node=RS-05.02) | direct | 11 | 3 |
-| [RS-05.03 Beings and functions](../atlas/index.html#node=RS-05.03) | none | 0 | 0 |
-| [RS-05.04 Spiritual geography](../atlas/index.html#node=RS-05.04) | none | 0 | 0 |
-| [RS-05.05 Modes of action](../atlas/index.html#node=RS-05.05) | none | 0 | 0 |
-| [RS-06.01 Great planetary embodiments](../atlas/index.html#node=RS-06.01) | direct | 14 | 2 |
-| [RS-06.02 Earth evolution phases](../atlas/index.html#node=RS-06.02) | descendant | 1 | 1 |
-| [RS-06.03 Creation of the human being](../atlas/index.html#node=RS-06.03) | direct | 7 | 1 |
-| [RS-06.04 Cosmic forces and time](../atlas/index.html#node=RS-06.04) | descendant | 1 | 1 |
-| [RS-06.05 Evolutionary transformation](../atlas/index.html#node=RS-06.05) | direct | 1 | 1 |
-| [RS-06.06 Sources and narratives](../atlas/index.html#node=RS-06.06) | none | 0 | 0 |
+| [RS-05.02 Spiritual hierarchies](../atlas/index.html#node=RS-05.02) | direct | 29 | 6 |
+| [RS-05.03 Beings and functions](../atlas/index.html#node=RS-05.03) | descendant | 3 | 2 |
+| [RS-05.04 Spiritual geography](../atlas/index.html#node=RS-05.04) | descendant | 4 | 2 |
+| [RS-05.05 Modes of action](../atlas/index.html#node=RS-05.05) | descendant | 6 | 3 |
+| [RS-06.01 Great planetary embodiments](../atlas/index.html#node=RS-06.01) | direct | 19 | 4 |
+| [RS-06.02 Earth evolution phases](../atlas/index.html#node=RS-06.02) | descendant | 2 | 2 |
+| [RS-06.03 Creation of the human being](../atlas/index.html#node=RS-06.03) | direct | 10 | 3 |
+| [RS-06.04 Cosmic forces and time](../atlas/index.html#node=RS-06.04) | descendant | 4 | 2 |
+| [RS-06.05 Evolutionary transformation](../atlas/index.html#node=RS-06.05) | direct | 3 | 3 |
+| [RS-06.06 Sources and narratives](../atlas/index.html#node=RS-06.06) | descendant | 2 | 1 |
 | [RS-07.01 Nature kingdoms](../atlas/index.html#node=RS-07.01) | descendant | 5 | 2 |
 | [RS-07.02 Plant life](../atlas/index.html#node=RS-07.02) | direct | 8 | 4 |
 | [RS-07.03 Animals and form](../atlas/index.html#node=RS-07.03) | none | 0 | 0 |
-| [RS-07.04 Elemental world](../atlas/index.html#node=RS-07.04) | direct | 7 | 1 |
+| [RS-07.04 Elemental world](../atlas/index.html#node=RS-07.04) | direct | 9 | 2 |
 | [RS-07.05 Earth as organism](../atlas/index.html#node=RS-07.05) | direct | 4 | 2 |
 | [RS-07.06 Ecology of relationships](../atlas/index.html#node=RS-07.06) | descendant | 3 | 1 |
-| [RS-08.01 Repeated earthly lives](../atlas/index.html#node=RS-08.01) | direct | 8 | 5 |
+| [RS-08.01 Repeated earthly lives](../atlas/index.html#node=RS-08.01) | direct | 9 | 6 |
 | [RS-08.02 Karma and causality](../atlas/index.html#node=RS-08.02) | direct | 11 | 6 |
 | [RS-08.03 Life between death and rebirth](../atlas/index.html#node=RS-08.03) | descendant | 5 | 2 |
 | [RS-08.04 Spiritual companions](../atlas/index.html#node=RS-08.04) | none | 0 | 0 |
 | [RS-08.05 Karmic investigation](../atlas/index.html#node=RS-08.05) | none | 0 | 0 |
 | [RS-08.06 Time and life rhythm](../atlas/index.html#node=RS-08.06) | descendant | 1 | 1 |
-| [RS-09.01 Fourfold constitution](../atlas/index.html#node=RS-09.01) | direct | 106 | 58 |
+| [RS-09.01 Fourfold constitution](../atlas/index.html#node=RS-09.01) | direct | 112 | 60 |
 | [RS-09.02 Threefold human being](../atlas/index.html#node=RS-09.02) | direct | 12 | 10 |
 | [RS-09.03 Physical–etheric–astral grouping (not physiological threefolding)](../atlas/index.html#node=RS-09.03) | direct | 3 | 4 |
 | [RS-09.04 Threefold soul](../atlas/index.html#node=RS-09.04) | descendant | 4 | 1 |
-| [RS-09.05 Threefold spirit](../atlas/index.html#node=RS-09.05) | descendant | 4 | 1 |
+| [RS-09.05 Threefold spirit](../atlas/index.html#node=RS-09.05) | descendant | 7 | 2 |
 | [RS-09.06 Ninefold and sevenfold schemas](../atlas/index.html#node=RS-09.06) | descendant | 1 | 1 |
 | [RS-10.01 Soul faculties](../atlas/index.html#node=RS-10.01) | direct | 8 | 5 |
 | [RS-10.02 States of consciousness](../atlas/index.html#node=RS-10.02) | descendant | 5 | 3 |
@@ -117,12 +117,12 @@ Generated only from the repository's own taxonomy IDs and source-linked graph.
 | [RS-13.06 Christian esotericism](../atlas/index.html#node=RS-13.06) | descendant | 1 | 1 |
 | [RS-14.01 Ancient mystery centers](../atlas/index.html#node=RS-14.01) | descendant | 2 | 2 |
 | [RS-14.02 Scriptures and narratives](../atlas/index.html#node=RS-14.02) | descendant | 1 | 1 |
-| [RS-14.03 Comparative religion](../atlas/index.html#node=RS-14.03) | descendant | 1 | 1 |
+| [RS-14.03 Comparative religion](../atlas/index.html#node=RS-14.03) | descendant | 2 | 2 |
 | [RS-14.04 Mythic personages](../atlas/index.html#node=RS-14.04) | none | 0 | 0 |
 | [RS-14.05 Religious development](../atlas/index.html#node=RS-14.05) | none | 0 | 0 |
-| [RS-15.01 Prehistory in Steiner's account](../atlas/index.html#node=RS-15.01) | direct | 2 | 1 |
-| [RS-15.02 Post-Atlantean cultural epochs](../atlas/index.html#node=RS-15.02) | descendant | 2 | 1 |
-| [RS-15.03 Historical transitions](../atlas/index.html#node=RS-15.03) | none | 0 | 0 |
+| [RS-15.01 Prehistory in Steiner's account](../atlas/index.html#node=RS-15.01) | direct | 3 | 2 |
+| [RS-15.02 Post-Atlantean cultural epochs](../atlas/index.html#node=RS-15.02) | direct | 3 | 2 |
+| [RS-15.03 Historical transitions](../atlas/index.html#node=RS-15.03) | direct | 1 | 1 |
 | [RS-15.04 Peoples and languages](../atlas/index.html#node=RS-15.04) | none | 0 | 0 |
 | [RS-15.05 Civilizational comparisons](../atlas/index.html#node=RS-15.05) | none | 0 | 0 |
 | [RS-15.06 Historical claims needing careful context](../atlas/index.html#node=RS-15.06) | none | 0 | 0 |
@@ -130,16 +130,16 @@ Generated only from the repository's own taxonomy IDs and source-linked graph.
 | [RS-16.02 Luciferic influences](../atlas/index.html#node=RS-16.02) | none | 0 | 0 |
 | [RS-16.03 Ahrimanic influences](../atlas/index.html#node=RS-16.03) | descendant | 1 | 1 |
 | [RS-16.04 Christic balance](../atlas/index.html#node=RS-16.04) | none | 0 | 0 |
-| [RS-16.05 Adversarial and apocalyptic themes](../atlas/index.html#node=RS-16.05) | none | 0 | 0 |
+| [RS-16.05 Adversarial and apocalyptic themes](../atlas/index.html#node=RS-16.05) | direct | 1 | 1 |
 | [RS-16.06 Historical context](../atlas/index.html#node=RS-16.06) | none | 0 | 0 |
 | [RS-17.01 Physics and phenomena](../atlas/index.html#node=RS-17.01) | descendant | 4 | 2 |
-| [RS-17.02 Astronomy and mathematics](../atlas/index.html#node=RS-17.02) | none | 0 | 0 |
+| [RS-17.02 Astronomy and mathematics](../atlas/index.html#node=RS-17.02) | direct | 4 | 3 |
 | [RS-17.03 Chemistry and substance](../atlas/index.html#node=RS-17.03) | none | 0 | 0 |
 | [RS-17.04 Biology and physiology](../atlas/index.html#node=RS-17.04) | none | 0 | 0 |
 | [RS-17.05 Science and knowledge](../atlas/index.html#node=RS-17.05) | direct | 4 | 3 |
 | [RS-17.06 Technology and modernity](../atlas/index.html#node=RS-17.06) | none | 0 | 0 |
 | [RS-18.01 Medical anthropology](../atlas/index.html#node=RS-18.01) | direct | 2 | 1 |
-| [RS-18.02 Organ systems](../atlas/index.html#node=RS-18.02) | direct | 116 | 64 |
+| [RS-18.02 Organ systems](../atlas/index.html#node=RS-18.02) | direct | 119 | 65 |
 | [RS-18.03 Disease and diagnosis in Steiner's account](../atlas/index.html#node=RS-18.03) | direct | 1 | 1 |
 | [RS-18.04 Therapeutic methods](../atlas/index.html#node=RS-18.04) | direct | 2 | 2 |
 | [RS-18.05 Life stages and medical concerns](../atlas/index.html#node=RS-18.05) | descendant | 1 | 1 |
