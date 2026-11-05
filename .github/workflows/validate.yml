@@ -31,7 +31,8 @@ jobs:
         run: python tools/validate_trajectories.py
       - name: Validate cumulative organ evidence and phase 16 safeguards
         run: |
-          python tools/validate_organ_concordance.py 18
+          python tools/validate_organ_concordance.py 24
+          python tools/validate_organ_v27.py
           python tools/validate_organ_phase16.py
       - name: Check confirmed shared lecture source views
         run: python tools/validate_source_view_aliases.py
@@ -45,3 +46,4 @@ jobs:
           node --check atlas/dossiers.js
           node --check atlas/trajectories.js
           node --check atlas/organs.js
+          node --check atlas/agency.js
