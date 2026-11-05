@@ -1,0 +1,3307 @@
+{
+  "date": "2026-11-05",
+  "scope": "Historical propositions attributed to Steiner, not clinical guidance. Selected extraction; source locators index full English units.",
+  "records": [
+    {
+      "id": "ORG-CLAIM-V28-001",
+      "catalogue_entry_id": "GA110-09",
+      "ga": 110,
+      "lecture": 9,
+      "date": "1909-04-18",
+      "section": 2,
+      "passage_cue": "English §2",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090418a01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "Leo",
+      "predicate": "recapitulation",
+      "temporal_framework": "Earth recapitulation",
+      "paraphrase": "Present Saturn emerges during a repetition at the beginning of Earth development.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "different_context",
+        "prior_claim_ids": [
+          "ORG-CLAIM-V27-040"
+        ],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-002",
+      "catalogue_entry_id": "GA110-09",
+      "ga": 110,
+      "lecture": 9,
+      "date": "1909-04-18",
+      "section": 6,
+      "passage_cue": "English §6",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090418a01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "predicate": "remnant",
+      "temporal_framework": "Earth recapitulation",
+      "paraphrase": "Jupiter is the residue of the repeated Sun stage.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "overlap",
+        "prior_claim_ids": [
+          "ORG-CLAIM-V27-046"
+        ],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-003",
+      "catalogue_entry_id": "GA110-09",
+      "ga": 110,
+      "lecture": 9,
+      "date": "1909-04-18",
+      "section": 6,
+      "passage_cue": "English §6",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090418a01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "predicate": "remnant",
+      "temporal_framework": "Earth recapitulation",
+      "paraphrase": "Mars is the residue of the repeated Moon stage.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "overlap",
+        "prior_claim_ids": [
+          "ORG-CLAIM-V27-046"
+        ],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-004",
+      "catalogue_entry_id": "GA110-09",
+      "ga": 110,
+      "lecture": 9,
+      "date": "1909-04-18",
+      "section": 8,
+      "passage_cue": "English §8",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090418a01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "predicate": "rudiment",
+      "temporal_framework": "Old Saturn",
+      "paraphrase": "The physical body's first disposition precedes both etheric and astral permeation.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-005",
+      "catalogue_entry_id": "GA110-09",
+      "ga": 110,
+      "lecture": 9,
+      "date": "1909-04-18",
+      "section": 8,
+      "passage_cue": "English §8",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090418a01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "heart"
+      ],
+      "agent": "zodiacal region of Leo",
+      "predicate": "rudiment",
+      "temporal_framework": "Old Saturn",
+      "paraphrase": "Leo marks the setting for the heart's first disposition.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "same_claim",
+        "prior_claim_ids": [
+          "ORG-CLAIM-V27-040"
+        ],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-006",
+      "catalogue_entry_id": "GA110-09",
+      "ga": 110,
+      "lecture": 9,
+      "date": "1909-04-18",
+      "section": 8,
+      "passage_cue": "English §8",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090418a01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "chest wall"
+      ],
+      "agent": "zodiacal region of Cancer",
+      "predicate": "rudiment",
+      "temporal_framework": "Old Saturn",
+      "paraphrase": "Cancer marks the disposition of the protective chest structure.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "same_claim",
+        "prior_claim_ids": [
+          "ORG-CLAIM-V27-041"
+        ],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-007",
+      "catalogue_entry_id": "GA110-09",
+      "ga": 110,
+      "lecture": 9,
+      "date": "1909-04-18",
+      "section": 8,
+      "passage_cue": "English §8",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090418a01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "bilateral symmetry"
+      ],
+      "agent": "zodiacal region of Gemini",
+      "predicate": "rudiment",
+      "temporal_framework": "Old Saturn",
+      "paraphrase": "Gemini marks the disposition toward bilateral form.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-008",
+      "catalogue_entry_id": "GA110-09",
+      "ga": 110,
+      "lecture": 9,
+      "date": "1909-04-18",
+      "section": 8,
+      "passage_cue": "English §8",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090418a01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "head"
+      ],
+      "agent": "zodiacal region of Aries",
+      "predicate": "rudiment",
+      "temporal_framework": "Old Saturn",
+      "paraphrase": "Aries marks the first disposition of the upper head.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-009",
+      "catalogue_entry_id": "GA110-09",
+      "ga": 110,
+      "lecture": 9,
+      "date": "1909-04-18",
+      "section": 8,
+      "passage_cue": "English §8",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090418a01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "speech organ"
+      ],
+      "agent": "zodiacal region of Taurus",
+      "predicate": "rudiment",
+      "temporal_framework": "Old Saturn",
+      "paraphrase": "Taurus marks the disposition for the organ of speech.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "different_context",
+        "prior_claim_ids": [
+          "ORG-CLAIM-V27-047"
+        ],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-010",
+      "catalogue_entry_id": "GA110-09",
+      "ga": 110,
+      "lecture": 9,
+      "date": "1909-04-18",
+      "section": 9,
+      "passage_cue": "English §9",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090418a01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "larynx"
+      ],
+      "agent": null,
+      "predicate": "depiction",
+      "temporal_framework": "mystery image",
+      "paraphrase": "The Taurus figure is illustrated with the laryngeal region.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-011",
+      "catalogue_entry_id": "GA110-09",
+      "ga": 110,
+      "lecture": 9,
+      "date": "1909-04-18",
+      "section": 9,
+      "passage_cue": "English §9",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090418a01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "arms"
+      ],
+      "agent": null,
+      "predicate": "depiction",
+      "temporal_framework": "mystery image",
+      "paraphrase": "The two arms illustrate Gemini and bilateral symmetry.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-012",
+      "catalogue_entry_id": "GA110-09",
+      "ga": 110,
+      "lecture": 9,
+      "date": "1909-04-18",
+      "section": 9,
+      "passage_cue": "English §9",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090418a01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "legs"
+      ],
+      "agent": null,
+      "predicate": "depiction",
+      "temporal_framework": "mystery image",
+      "paraphrase": "The lower legs illustrate Aquarius.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-013",
+      "catalogue_entry_id": "GA110-09",
+      "ga": 110,
+      "lecture": 9,
+      "date": "1909-04-18",
+      "section": 9,
+      "passage_cue": "English §9",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090418a01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "feet"
+      ],
+      "agent": null,
+      "predicate": "depiction",
+      "temporal_framework": "mystery image",
+      "paraphrase": "The feet illustrate Pisces.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-014",
+      "catalogue_entry_id": "GA110-09",
+      "ga": 110,
+      "lecture": 9,
+      "date": "1909-04-18",
+      "section": 9,
+      "passage_cue": "English §9",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090418a01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "Thrones, Seraphim and Cherubim",
+      "predicate": "collective formative agency",
+      "temporal_framework": "primordial physical organization",
+      "paraphrase": "The three ranks together supply forces for the primordial bodily dispositions.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "overlap",
+        "prior_claim_ids": [
+          "ORG-CLAIM-V27-037"
+        ],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-015",
+      "catalogue_entry_id": "GA110-09",
+      "ga": 110,
+      "lecture": 9,
+      "date": "1909-04-18",
+      "section": 9,
+      "passage_cue": "English §9",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090418a01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "predicate": "interpretation",
+      "temporal_framework": "comparative esoteric imagery",
+      "paraphrase": "Steiner identifies the zodiacal cosmic human with the Adam Kadmon of Kabbalah.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-016",
+      "catalogue_entry_id": "GA110-09",
+      "ga": 110,
+      "lecture": 9,
+      "date": "1909-04-18",
+      "section": 10,
+      "passage_cue": "English §10",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090418a01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "reproductive organization"
+      ],
+      "agent": null,
+      "predicate": "interpretive model",
+      "temporal_framework": "fertilization",
+      "paraphrase": "Steiner applies his macrocosmic human image to the fertilized cell.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-017",
+      "catalogue_entry_id": "GA110-09",
+      "ga": 110,
+      "lecture": 9,
+      "date": "1909-04-18",
+      "section": 13,
+      "passage_cue": "English §13",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090418a01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "human I",
+      "predicate": "transformation",
+      "temporal_framework": "human development",
+      "paraphrase": "The astral body's transformation by the I is called Manas.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "same_claim",
+        "prior_claim_ids": [
+          "ORG-CLAIM-V27-024"
+        ],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-018",
+      "catalogue_entry_id": "GA110-09",
+      "ga": 110,
+      "lecture": 9,
+      "date": "1909-04-18",
+      "section": 13,
+      "passage_cue": "English §13",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090418a01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "human I",
+      "predicate": "transformation",
+      "temporal_framework": "human development",
+      "paraphrase": "The etheric body's transformation by the I is called Budhi.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "same_claim",
+        "prior_claim_ids": [
+          "ORG-CLAIM-V27-025"
+        ],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-019",
+      "catalogue_entry_id": "GA110-09",
+      "ga": 110,
+      "lecture": 9,
+      "date": "1909-04-18",
+      "section": 13,
+      "passage_cue": "English §13",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090418a01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "human I",
+      "predicate": "transformation",
+      "temporal_framework": "human development",
+      "paraphrase": "The physical body's transformation by the I is called Atma.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "same_claim",
+        "prior_claim_ids": [
+          "ORG-CLAIM-V27-026"
+        ],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-020",
+      "catalogue_entry_id": "GA110-09",
+      "ga": 110,
+      "lecture": 9,
+      "date": "1909-04-18",
+      "section": 14,
+      "passage_cue": "English §14",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090418a01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "predicate": "imprint",
+      "temporal_framework": "advanced development",
+      "paraphrase": "Transformed astrality can imprint on an etheric body before that etheric body is fully transformed.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-021",
+      "catalogue_entry_id": "GA110-09",
+      "ga": 110,
+      "lecture": 9,
+      "date": "1909-04-18",
+      "section": 14,
+      "passage_cue": "English §14",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090418a01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "predicate": "retention",
+      "temporal_framework": "after death",
+      "paraphrase": "The transformed portion is carried forward through the I; the unworked astral remainder is shed.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-022",
+      "catalogue_entry_id": "GA110-09",
+      "ga": 110,
+      "lecture": 9,
+      "date": "1909-04-18",
+      "section": 15,
+      "passage_cue": "English §15",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090418a01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "predicate": "imprint",
+      "temporal_framework": "advanced development",
+      "paraphrase": "Life spirit formed in the etheric body can in turn imprint on the physical body.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-023",
+      "catalogue_entry_id": "GA110-09",
+      "ga": 110,
+      "lecture": 9,
+      "date": "1909-04-18",
+      "section": 16,
+      "passage_cue": "English §16",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090418a01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "advanced individuality",
+      "predicate": "rebuilding",
+      "temporal_framework": "later incarnation",
+      "paraphrase": "Mastery is said to permit forming a new etheric and astral organization.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-024",
+      "catalogue_entry_id": "GA110-09",
+      "ga": 110,
+      "lecture": 9,
+      "date": "1909-04-18",
+      "section": 16,
+      "passage_cue": "English §16",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090418a01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "advanced individuality",
+      "predicate": "giving",
+      "temporal_framework": "across incarnations",
+      "paraphrase": "An individuality capable of rebuilding those vehicles can give previously developed vehicles to another person.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-025",
+      "catalogue_entry_id": "GA110-09",
+      "ga": 110,
+      "lecture": 9,
+      "date": "1909-04-18",
+      "section": 16,
+      "passage_cue": "English §16",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090418a01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "Thrones",
+      "predicate": "analogy",
+      "temporal_framework": "human versus prehuman stages",
+      "paraphrase": "The capacity to give is compared across levels; the Thrones' sacrifice is the higher instance.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "different_context",
+        "prior_claim_ids": [
+          "ORG-CLAIM-V27-006"
+        ],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-026",
+      "catalogue_entry_id": "GA110-10",
+      "ga": 110,
+      "lecture": 10,
+      "date": "1909-04-18",
+      "section": 1,
+      "passage_cue": "English §1",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090418p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "brain"
+      ],
+      "agent": null,
+      "predicate": "condition of thought",
+      "temporal_framework": "earthly existence",
+      "paraphrase": "Present brain-mediated thought has its significance in Earth existence.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-027",
+      "catalogue_entry_id": "GA110-10",
+      "ga": 110,
+      "lecture": 10,
+      "date": "1909-04-18",
+      "section": 13,
+      "passage_cue": "English §13",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090418p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "Luciferic beings",
+      "predicate": "field of influence",
+      "temporal_framework": "Lemurian stage",
+      "paraphrase": "Luciferic beings reach the astral body directly; the consequences reach the I indirectly.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-028",
+      "catalogue_entry_id": "GA110-10",
+      "ga": 110,
+      "lecture": 10,
+      "date": "1909-04-18",
+      "section": 16,
+      "passage_cue": "English §16",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090418p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "Luciferic beings",
+      "predicate": "freedom",
+      "temporal_framework": "Earth development",
+      "paraphrase": "Astral influence is presented as making moral error and free development possible.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-029",
+      "catalogue_entry_id": "GA110-10",
+      "ga": 110,
+      "lecture": 10,
+      "date": "1909-04-18",
+      "section": 17,
+      "passage_cue": "English §17",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090418p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "solar being",
+      "predicate": "inspiration",
+      "temporal_framework": "Christ event",
+      "paraphrase": "The solar being's inspiring action extends into the I itself.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-030",
+      "catalogue_entry_id": "GA110-10",
+      "ga": 110,
+      "lecture": 10,
+      "date": "1909-04-18",
+      "section": 18,
+      "passage_cue": "English §18",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090418p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "blood"
+      ],
+      "agent": "human I",
+      "predicate": "material expression",
+      "temporal_framework": "earthly human",
+      "paraphrase": "Blood is the material expression of the I.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-031",
+      "catalogue_entry_id": "GA110-10",
+      "ga": 110,
+      "lecture": 10,
+      "date": "1909-04-18",
+      "section": 18,
+      "passage_cue": "English §18",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090418p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "blood"
+      ],
+      "agent": "human I",
+      "predicate": "elemental expression",
+      "temporal_framework": "earthly human",
+      "paraphrase": "The warmth of the blood expresses the I on the elemental level.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "different_context",
+        "prior_claim_ids": [
+          "ORG-CLAIM-V25-045"
+        ],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-032",
+      "catalogue_entry_id": "GA110-10",
+      "ga": 110,
+      "lecture": 10,
+      "date": "1909-04-18",
+      "section": 18,
+      "passage_cue": "English §18",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090418p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "blood"
+      ],
+      "agent": null,
+      "predicate": "remnant",
+      "temporal_framework": "Old Saturn to Earth",
+      "paraphrase": "Steiner traces the fire of the blood back to Old Saturn.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-033",
+      "catalogue_entry_id": "GA110-10",
+      "ga": 110,
+      "lecture": 10,
+      "date": "1909-04-18",
+      "section": 18,
+      "passage_cue": "English §18",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090418p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "blood"
+      ],
+      "agent": "solar being",
+      "predicate": "embodiment",
+      "temporal_framework": "Moses to Jesus",
+      "paraphrase": "The being revealed in fire to Moses later appears in the blood-bearing body of Jesus.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-034",
+      "catalogue_entry_id": "GA110-10",
+      "ga": 110,
+      "lecture": 10,
+      "date": "1909-04-18",
+      "section": 19,
+      "passage_cue": "English §19",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090418p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "Christ",
+      "predicate": "event",
+      "temporal_framework": "death of Christ",
+      "paraphrase": "Steiner places the decisive deed in Christ's death.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-035",
+      "catalogue_entry_id": "GA110-10",
+      "ga": 110,
+      "lecture": 10,
+      "date": "1909-04-18",
+      "section": 20,
+      "passage_cue": "English §20",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090418p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "human I",
+      "predicate": "voluntary reception",
+      "temporal_framework": "Earth development",
+      "paraphrase": "Receiving Christ is an act the I must freely undertake.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-036",
+      "catalogue_entry_id": "GA110-10",
+      "ga": 110,
+      "lecture": 10,
+      "date": "1909-04-18",
+      "section": 22,
+      "passage_cue": "English §22",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090418p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "Christ acting through the human I",
+      "predicate": "direction of action",
+      "temporal_framework": "future development",
+      "paraphrase": "Christ's influence is described as radiating from the I into the astral body.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-037",
+      "catalogue_entry_id": "GA110-10",
+      "ga": 110,
+      "lecture": 10,
+      "date": "1909-04-18",
+      "section": 22,
+      "passage_cue": "English §22",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090418p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "human beings",
+      "predicate": "redemption",
+      "temporal_framework": "future development",
+      "paraphrase": "Steiner suggests this human transformation can ultimately redeem Luciferic beings.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-038",
+      "catalogue_entry_id": "GA110-10",
+      "ga": 110,
+      "lecture": 10,
+      "date": "1909-04-18",
+      "section": 25,
+      "passage_cue": "English §25",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090418p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "predicate": "ethical condition",
+      "temporal_framework": "Earth and future embodiments",
+      "paraphrase": "The capacity to act otherwise is a necessary condition of love.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-039",
+      "catalogue_entry_id": "GA110-10",
+      "ga": 110,
+      "lecture": 10,
+      "date": "1909-04-18",
+      "section": 26,
+      "passage_cue": "English §26",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090418p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "predicate": "developmental rank",
+      "temporal_framework": "future maturity",
+      "paraphrase": "Humanity is described as a developing tenth hierarchy of freedom or love.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-040",
+      "catalogue_entry_id": "GA110-11",
+      "ga": 110,
+      "lecture": 11,
+      "date": "1909-04-21",
+      "section": 10,
+      "passage_cue": "English §10",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090421p01.html",
+      "source_kind": "questions_and_answers",
+      "speaker": "report of reply attributed to Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "higher beings, unspecified",
+      "predicate": "comparison",
+      "temporal_framework": "elemental beings",
+      "paraphrase": "Some elemental beings are explained through higher beings leaving physical development incomplete; the subject here is nonhuman.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-041",
+      "catalogue_entry_id": "GA110-11",
+      "ga": 110,
+      "lecture": 11,
+      "date": "1909-04-21",
+      "section": 14,
+      "passage_cue": "English §14",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090421p01.html",
+      "source_kind": "questions_and_answers",
+      "speaker": "report of reply attributed to Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "Elohim",
+      "predicate": "agency distinction",
+      "temporal_framework": "solar separation",
+      "paraphrase": "The answer distinguishes the Sun as dwelling from the reach of the Elohim's activity.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "different_context",
+        "prior_claim_ids": [
+          "ORG-CLAIM-V27-021"
+        ],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-042",
+      "catalogue_entry_id": "GA110-11",
+      "ga": 110,
+      "lecture": 11,
+      "date": "1909-04-21",
+      "section": 28,
+      "passage_cue": "English §28",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090421p01.html",
+      "source_kind": "questions_and_answers",
+      "speaker": "report of reply attributed to Steiner",
+      "organs": [
+        "reproductive organization"
+      ],
+      "agent": "gods, unspecified",
+      "predicate": "guardianship",
+      "temporal_framework": "prenatal period",
+      "paraphrase": "The reply attributes guardianship in the first ten lunar months to gods in general.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-043",
+      "catalogue_entry_id": "GA110-11",
+      "ga": 110,
+      "lecture": 11,
+      "date": "1909-04-21",
+      "section": 34,
+      "passage_cue": "English §34",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090421p01.html",
+      "source_kind": "questions_and_answers",
+      "speaker": "report of reply attributed to Steiner",
+      "organs": [
+        "kinship"
+      ],
+      "agent": null,
+      "predicate": "kinship",
+      "temporal_framework": "across incarnations",
+      "paraphrase": "Family descent can express prior karma while new relationships can also arise; blood here means kinship.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-044",
+      "catalogue_entry_id": "GA110-12",
+      "ga": 110,
+      "lecture": 12,
+      "date": "1909-04-22",
+      "section": 7,
+      "passage_cue": "English §7",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090422a01.html",
+      "source_kind": "questions_and_answers",
+      "speaker": "report of reply attributed to Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "predicate": "level of consciousness",
+      "temporal_framework": "incarnation",
+      "paraphrase": "The answer interprets one sense of dying as a descent in consciousness at incarnation.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-045",
+      "catalogue_entry_id": "GA110-12",
+      "ga": 110,
+      "lecture": 12,
+      "date": "1909-04-22",
+      "section": 10,
+      "passage_cue": "English §10",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090422a01.html",
+      "source_kind": "questions_and_answers",
+      "speaker": "report of reply attributed to Steiner",
+      "organs": [
+        "eye"
+      ],
+      "agent": "light",
+      "predicate": "formative relation",
+      "temporal_framework": "unspecified formative past",
+      "paraphrase": "The notes represent light as formative of the eye.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-046",
+      "catalogue_entry_id": "GA110-12",
+      "ga": 110,
+      "lecture": 12,
+      "date": "1909-04-22",
+      "section": 10,
+      "passage_cue": "English §10",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090422a01.html",
+      "source_kind": "questions_and_answers",
+      "speaker": "report of reply attributed to Steiner",
+      "organs": [
+        "eye"
+      ],
+      "agent": null,
+      "predicate": "correspondence",
+      "temporal_framework": "macrocosm and microcosm",
+      "paraphrase": "The Sun corresponds to the eye.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-047",
+      "catalogue_entry_id": "GA110-12",
+      "ga": 110,
+      "lecture": 12,
+      "date": "1909-04-22",
+      "section": 10,
+      "passage_cue": "English §10",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090422a01.html",
+      "source_kind": "questions_and_answers",
+      "speaker": "report of reply attributed to Steiner",
+      "organs": [
+        "voice"
+      ],
+      "agent": null,
+      "predicate": "correspondence",
+      "temporal_framework": "macrocosm and microcosm",
+      "paraphrase": "The voice corresponds to cosmic fire.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-048",
+      "catalogue_entry_id": "GA110-12",
+      "ga": 110,
+      "lecture": 12,
+      "date": "1909-04-22",
+      "section": 10,
+      "passage_cue": "English §10",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090422a01.html",
+      "source_kind": "questions_and_answers",
+      "speaker": "report of reply attributed to Steiner",
+      "organs": [
+        "blood"
+      ],
+      "agent": null,
+      "predicate": "correspondence",
+      "temporal_framework": "microcosm",
+      "paraphrase": "Blood warmth is the human expression of fire.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "overlap",
+        "prior_claim_ids": [
+          "ORG-CLAIM-V28-031"
+        ],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-049",
+      "catalogue_entry_id": "GA110-12",
+      "ga": 110,
+      "lecture": 12,
+      "date": "1909-04-22",
+      "section": 11,
+      "passage_cue": "English §11",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090422a01.html",
+      "source_kind": "questions_and_answers",
+      "speaker": "report of reply attributed to Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "predicate": "task",
+      "temporal_framework": "Old Moon to Jupiter",
+      "paraphrase": "Wisdom is assigned to Old Moon and the cultivation of love to Earth.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-050",
+      "catalogue_entry_id": "GA110-12",
+      "ga": 110,
+      "lecture": 12,
+      "date": "1909-04-22",
+      "section": 27,
+      "passage_cue": "English §27",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090422a01.html",
+      "source_kind": "questions_and_answers",
+      "speaker": "report of reply attributed to Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "angels",
+      "predicate": "support",
+      "temporal_framework": "human development",
+      "paraphrase": "The notes associate angels with developing Manas.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-051",
+      "catalogue_entry_id": "GA110-12",
+      "ga": 110,
+      "lecture": 12,
+      "date": "1909-04-22",
+      "section": 27,
+      "passage_cue": "English §27",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090422a01.html",
+      "source_kind": "questions_and_answers",
+      "speaker": "report of reply attributed to Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "archangels",
+      "predicate": "support",
+      "temporal_framework": "human development",
+      "paraphrase": "The notes associate archangels with developing Budhi.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-052",
+      "catalogue_entry_id": "GA102-01",
+      "ga": 102,
+      "lecture": 1,
+      "date": "1908-01-06",
+      "section": 11,
+      "passage_cue": "English §11",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080106p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "blood"
+      ],
+      "agent": "human I",
+      "predicate": "individual expression",
+      "temporal_framework": "present and future",
+      "paraphrase": "Blood is described as the bodily component most directly becoming the I's own.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "overlap",
+        "prior_claim_ids": [
+          "ORG-CLAIM-V28-030"
+        ],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-053",
+      "catalogue_entry_id": "GA102-01",
+      "ga": 102,
+      "lecture": 1,
+      "date": "1908-01-06",
+      "section": 12,
+      "passage_cue": "English §12",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080106p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "human I",
+      "predicate": "gradual mastery",
+      "temporal_framework": "human development",
+      "paraphrase": "Steiner places the I's dominion over other bodily constituents later than its relation to blood.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-054",
+      "catalogue_entry_id": "GA102-01",
+      "ga": 102,
+      "lecture": 1,
+      "date": "1908-01-06",
+      "section": 13,
+      "passage_cue": "English §13",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080106p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "intestines"
+      ],
+      "agent": null,
+      "predicate": "nutrition",
+      "temporal_framework": "present human",
+      "paraphrase": "The lecture locates transfer of nutritive material at the intestinal villi.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-055",
+      "catalogue_entry_id": "GA102-01",
+      "ga": 102,
+      "lecture": 1,
+      "date": "1908-01-06",
+      "section": 14,
+      "passage_cue": "English §14",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080106p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "lymphatic system"
+      ],
+      "agent": null,
+      "predicate": "drainage",
+      "temporal_framework": "present human",
+      "paraphrase": "Steiner describes unequal drainage territories on the two sides of the upper body.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-056",
+      "catalogue_entry_id": "GA102-01",
+      "ga": 102,
+      "lecture": 1,
+      "date": "1908-01-06",
+      "section": 15,
+      "passage_cue": "English §15",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080106p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "lymphatic system"
+      ],
+      "agent": null,
+      "predicate": "soul relation",
+      "temporal_framework": "present human",
+      "paraphrase": "The lecture associates lymph more closely with soul activity than digestive fluid.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-057",
+      "catalogue_entry_id": "GA102-01",
+      "ga": 102,
+      "lecture": 1,
+      "date": "1908-01-06",
+      "section": 16,
+      "passage_cue": "English §16",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080106p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "nervous system"
+      ],
+      "agent": "astral body",
+      "predicate": "formative agency",
+      "temporal_framework": "present human",
+      "paraphrase": "The astral body is said to build the nervous system.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-058",
+      "catalogue_entry_id": "GA102-01",
+      "ga": 102,
+      "lecture": 1,
+      "date": "1908-01-06",
+      "section": 16,
+      "passage_cue": "English §16",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080106p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "lymphatic system"
+      ],
+      "agent": "astral body",
+      "predicate": "formative agency",
+      "temporal_framework": "present human",
+      "paraphrase": "The astral body is also said to shape lymph.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-059",
+      "catalogue_entry_id": "GA102-01",
+      "ga": 102,
+      "lecture": 1,
+      "date": "1908-01-06",
+      "section": 16,
+      "passage_cue": "English §16",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080106p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "glandular system"
+      ],
+      "agent": "etheric body",
+      "predicate": "formative agency",
+      "temporal_framework": "present human",
+      "paraphrase": "The etheric body is said to shape the glandular system.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-060",
+      "catalogue_entry_id": "GA102-01",
+      "ga": 102,
+      "lecture": 1,
+      "date": "1908-01-06",
+      "section": 16,
+      "passage_cue": "English §16",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080106p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "digestive tract"
+      ],
+      "agent": "etheric body",
+      "predicate": "regulation",
+      "temporal_framework": "present human",
+      "paraphrase": "The etheric body is said to regulate the circulation of what Steiner calls chyle.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-061",
+      "catalogue_entry_id": "GA102-01",
+      "ga": 102,
+      "lecture": 1,
+      "date": "1908-01-06",
+      "section": 17,
+      "passage_cue": "English §17",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080106p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "human I",
+      "predicate": "transformation",
+      "temporal_framework": "human development",
+      "paraphrase": "The account of other beings' continuing activity is conditioned by the degree of mastery of the I.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "different_context",
+        "prior_claim_ids": [
+          "ORG-CLAIM-V27-024"
+        ],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-062",
+      "catalogue_entry_id": "GA102-01",
+      "ga": 102,
+      "lecture": 1,
+      "date": "1908-01-06",
+      "section": 18,
+      "passage_cue": "English §18",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080106p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "lymphatic system"
+      ],
+      "agent": "Moon and Mars beings",
+      "predicate": "manifestation",
+      "temporal_framework": "present activity",
+      "paraphrase": "Human lymph is described as a bodily manifestation of beings associated with Moon and Mars.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-063",
+      "catalogue_entry_id": "GA102-01",
+      "ga": 102,
+      "lecture": 1,
+      "date": "1908-01-06",
+      "section": 19,
+      "passage_cue": "English §19",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080106p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "lymphatic system"
+      ],
+      "agent": "Moon and Mars beings",
+      "predicate": "temperament attribution",
+      "temporal_framework": "present activity",
+      "paraphrase": "The relative predominance of those beings is invoked to explain temperament. This is a historical moral classification.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-064",
+      "catalogue_entry_id": "GA102-01",
+      "ga": 102,
+      "lecture": 1,
+      "date": "1908-01-06",
+      "section": 20,
+      "passage_cue": "English §20",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080106p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "digestive tract"
+      ],
+      "agent": "Venus beings",
+      "predicate": "manifestation",
+      "temporal_framework": "present activity",
+      "paraphrase": "Beings associated with Venus are said to manifest in the nutritive fluid called chyle.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-065",
+      "catalogue_entry_id": "GA102-01",
+      "ga": 102,
+      "lecture": 1,
+      "date": "1908-01-06",
+      "section": 24,
+      "passage_cue": "English §24",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080106p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "eye",
+        "ear",
+        "skin",
+        "nose"
+      ],
+      "agent": "Saturn beings",
+      "predicate": "sensory entry",
+      "temporal_framework": "present activity",
+      "paraphrase": "Saturn beings are said to enter during sensing through eyes, ears and skin, with smell as an example.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-066",
+      "catalogue_entry_id": "GA102-01",
+      "ga": 102,
+      "lecture": 1,
+      "date": "1908-01-06",
+      "section": 27,
+      "passage_cue": "English §27",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080106p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "liver"
+      ],
+      "agent": "Saturn beings",
+      "predicate": "manifestation",
+      "temporal_framework": "present activity",
+      "paraphrase": "Steiner locates one expression of Saturnian beings in the human liver.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-067",
+      "catalogue_entry_id": "GA102-01",
+      "ga": 102,
+      "lecture": 1,
+      "date": "1908-01-06",
+      "section": 28,
+      "passage_cue": "English §28",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080106p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "sense organs"
+      ],
+      "agent": "Saturn forces",
+      "predicate": "rudiment",
+      "temporal_framework": "Saturn stage",
+      "paraphrase": "Steiner assigns the earliest sensory dispositions to the Saturn stage.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-068",
+      "catalogue_entry_id": "GA102-01",
+      "ga": 102,
+      "lecture": 1,
+      "date": "1908-01-06",
+      "section": 28,
+      "passage_cue": "English §28",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080106p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "liver"
+      ],
+      "agent": "Saturn forces",
+      "predicate": "ongoing influence",
+      "temporal_framework": "present activity",
+      "paraphrase": "Steiner singles out the liver for a continuing Saturn influence.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-069",
+      "catalogue_entry_id": "GA102-01",
+      "ga": 102,
+      "lecture": 1,
+      "date": "1908-01-06",
+      "section": 28,
+      "passage_cue": "English §28",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080106p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "liver"
+      ],
+      "agent": null,
+      "predicate": "growth comparison",
+      "temporal_framework": "birth to later life",
+      "paraphrase": "Steiner uses a change in liver-to-body proportions as an image of outgrowing formative forces.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-070",
+      "catalogue_entry_id": "GA102-01",
+      "ga": 102,
+      "lecture": 1,
+      "date": "1908-01-06",
+      "section": 29,
+      "passage_cue": "English §29",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080106p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "lungs",
+        "liver"
+      ],
+      "agent": null,
+      "predicate": "functional polarity",
+      "temporal_framework": "present breathing",
+      "paraphrase": "Steiner opposes the lung's exchange with the outer world to inward-binding liver forces.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-071",
+      "catalogue_entry_id": "GA102-01",
+      "ga": 102,
+      "lecture": 1,
+      "date": "1908-01-06",
+      "section": 30,
+      "passage_cue": "English §30",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080106p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "liver",
+        "lungs"
+      ],
+      "agent": null,
+      "predicate": "mythic interpretation",
+      "temporal_framework": "Prometheus narrative",
+      "paraphrase": "The bird at Prometheus's liver figures the action of breathing in Steiner's reading.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-072",
+      "catalogue_entry_id": "GA102-02",
+      "ga": 102,
+      "lecture": 2,
+      "date": "1908-01-27",
+      "section": 7,
+      "passage_cue": "English §7",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080127p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "predicate": "sleep and waking",
+      "temporal_framework": "Earth-Sun separation",
+      "paraphrase": "Alternating sleep and waking are connected to Earth having separated from the Sun.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-073",
+      "catalogue_entry_id": "GA102-02",
+      "ga": 102,
+      "lecture": 2,
+      "date": "1908-01-27",
+      "section": 10,
+      "passage_cue": "English §10",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080127p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "predicate": "rudiment",
+      "temporal_framework": "Old Saturn",
+      "paraphrase": "The physical human disposition is placed in primordial warmth.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "overlap",
+        "prior_claim_ids": [
+          "ORG-CLAIM-V28-004"
+        ],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-074",
+      "catalogue_entry_id": "GA102-02",
+      "ga": 102,
+      "lecture": 2,
+      "date": "1908-01-27",
+      "section": 13,
+      "passage_cue": "English §13",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080127p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "zodiacal forces",
+      "predicate": "creative sacrifice",
+      "temporal_framework": "Old Saturn",
+      "paraphrase": "Zodiacal sacrifice is described as forming the first human bodily disposition.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "different_context",
+        "prior_claim_ids": [
+          "ORG-CLAIM-V28-014"
+        ],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-075",
+      "catalogue_entry_id": "GA102-02",
+      "ga": 102,
+      "lecture": 2,
+      "date": "1908-01-27",
+      "section": 15,
+      "passage_cue": "English §15",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080127p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "predicate": "ascending and descending",
+      "temporal_framework": "after Atlantean midpoint",
+      "paraphrase": "Seven zodiacal regions are counted as ascending and five as descending.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-076",
+      "catalogue_entry_id": "GA102-02",
+      "ga": 102,
+      "lecture": 2,
+      "date": "1908-01-27",
+      "section": 16,
+      "passage_cue": "English §16",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080127p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "predicate": "direction of forces",
+      "temporal_framework": "human development",
+      "paraphrase": "Forces received from the zodiac are said to gain the ability to ascend within the human being.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-077",
+      "catalogue_entry_id": "GA102-02",
+      "ga": 102,
+      "lecture": 2,
+      "date": "1908-01-27",
+      "section": 17,
+      "passage_cue": "English §17",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080127p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "predicate": "change of grouping",
+      "temporal_framework": "before Atlantean midpoint",
+      "paraphrase": "Libra belonged to the descending side in the earlier six-and-six scheme.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-078",
+      "catalogue_entry_id": "GA102-02",
+      "ga": 102,
+      "lecture": 2,
+      "date": "1908-01-27",
+      "section": 20,
+      "passage_cue": "English §20",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080127p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "human I",
+      "predicate": "transformation",
+      "temporal_framework": "human development",
+      "paraphrase": "Budhi is described as transformed etheric organization.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "same_claim",
+        "prior_claim_ids": [
+          "ORG-CLAIM-V27-025"
+        ],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-079",
+      "catalogue_entry_id": "GA102-02",
+      "ga": 102,
+      "lecture": 2,
+      "date": "1908-01-27",
+      "section": 22,
+      "passage_cue": "English §22",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080127p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "other beings, unspecified",
+      "predicate": "preparation",
+      "temporal_framework": "Saturn, Sun and Moon",
+      "paraphrase": "Earlier beings prepared the bodily sheaths that could receive the I.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-080",
+      "catalogue_entry_id": "GA102-02",
+      "ga": 102,
+      "lecture": 2,
+      "date": "1908-01-27",
+      "section": 22,
+      "passage_cue": "English §22",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080127p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "human I",
+      "predicate": "inward action",
+      "temporal_framework": "Earth stage",
+      "paraphrase": "Once established in those sheaths, the I begins to work on them from within.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-081",
+      "catalogue_entry_id": "GA102-02",
+      "ga": 102,
+      "lecture": 2,
+      "date": "1908-01-27",
+      "section": 23,
+      "passage_cue": "English §23",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080127p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "human I",
+      "predicate": "cosmic effect",
+      "temporal_framework": "development toward Atma",
+      "paraphrase": "Steiner says inner activity of the developing I has consequences extending into the zodiac.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-082",
+      "catalogue_entry_id": "GA102-02",
+      "ga": 102,
+      "lecture": 2,
+      "date": "1908-01-27",
+      "section": 25,
+      "passage_cue": "English §25",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080127p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "Christ",
+      "predicate": "Christological correspondence",
+      "temporal_framework": "cosmic sacrifice",
+      "paraphrase": "Aries as the sacrificial Lamb denotes Christ's giving of life in this argument.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-083",
+      "catalogue_entry_id": "GA205-06",
+      "ga": 205,
+      "lecture": 6,
+      "date": "1921-07-02",
+      "section": 1,
+      "passage_cue": "English §1",
+      "source_url": "https://rsarchive.org/Lectures/GA205/English/SOL/19210702p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "head",
+        "limbs"
+      ],
+      "agent": null,
+      "predicate": "metamorphosis",
+      "temporal_framework": "successive lives",
+      "paraphrase": "Limb-metabolic formative forces of one life are said to shape the head of the next.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "same_claim",
+        "prior_claim_ids": [
+          "ORG-V7-001"
+        ],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-084",
+      "catalogue_entry_id": "GA205-06",
+      "ga": 205,
+      "lecture": 6,
+      "date": "1921-07-02",
+      "section": 3,
+      "passage_cue": "English §3",
+      "source_url": "https://rsarchive.org/Lectures/GA205/English/SOL/19210702p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "liver",
+        "lungs"
+      ],
+      "agent": null,
+      "predicate": "organ perception",
+      "temporal_framework": "spiritual training",
+      "paraphrase": "Inwardly directed cognition is said to yield differentiated perception of one's organs.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-085",
+      "catalogue_entry_id": "GA205-06",
+      "ga": 205,
+      "lecture": 6,
+      "date": "1921-07-02",
+      "section": 5,
+      "passage_cue": "English §5",
+      "source_url": "https://rsarchive.org/Lectures/GA205/English/SOL/19210702p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "lungs"
+      ],
+      "agent": null,
+      "predicate": "reflection",
+      "temporal_framework": "present memory",
+      "paraphrase": "The lung surface is linked especially to memory for abstract thoughts.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "same_claim",
+        "prior_claim_ids": [
+          "ORG-V7-002"
+        ],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-086",
+      "catalogue_entry_id": "GA205-06",
+      "ga": 205,
+      "lecture": 6,
+      "date": "1921-07-02",
+      "section": 5,
+      "passage_cue": "English §5",
+      "source_url": "https://rsarchive.org/Lectures/GA205/English/SOL/19210702p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "liver"
+      ],
+      "agent": null,
+      "predicate": "reflection",
+      "temporal_framework": "present memory",
+      "paraphrase": "The liver surface is linked especially to memory for thoughts coloured by feeling.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "same_claim",
+        "prior_claim_ids": [
+          "ORG-V7-003"
+        ],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-087",
+      "catalogue_entry_id": "GA205-06",
+      "ga": 205,
+      "lecture": 6,
+      "date": "1921-07-02",
+      "section": 7,
+      "passage_cue": "English §7",
+      "source_url": "https://rsarchive.org/Lectures/GA205/English/SOL/19210702p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "lungs",
+        "head"
+      ],
+      "agent": null,
+      "predicate": "latent formation",
+      "temporal_framework": "successive lives",
+      "paraphrase": "The interior of the lung is associated with future external head form.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "overlap",
+        "prior_claim_ids": [
+          "ORG-V7-004"
+        ],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-088",
+      "catalogue_entry_id": "GA205-06",
+      "ga": 205,
+      "lecture": 6,
+      "date": "1921-07-02",
+      "section": 10,
+      "passage_cue": "English §10",
+      "source_url": "https://rsarchive.org/Lectures/GA205/English/SOL/19210702p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "liver",
+        "brain"
+      ],
+      "agent": null,
+      "predicate": "latent formation",
+      "temporal_framework": "successive lives",
+      "paraphrase": "The interior of the liver is associated with future inner brain disposition.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "same_claim",
+        "prior_claim_ids": [
+          "ORG-V7-005"
+        ],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-089",
+      "catalogue_entry_id": "GA205-06",
+      "ga": 205,
+      "lecture": 6,
+      "date": "1921-07-02",
+      "section": 12,
+      "passage_cue": "English §12",
+      "source_url": "https://rsarchive.org/Lectures/GA205/English/SOL/19210702p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "kidneys"
+      ],
+      "agent": null,
+      "predicate": "reflection",
+      "temporal_framework": "present life",
+      "paraphrase": "Renal reflection is connected with durable emotional habits.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-090",
+      "catalogue_entry_id": "GA205-06",
+      "ga": 205,
+      "lecture": 6,
+      "date": "1921-07-02",
+      "section": 12,
+      "passage_cue": "English §12",
+      "source_url": "https://rsarchive.org/Lectures/GA205/English/SOL/19210702p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "kidneys",
+        "head"
+      ],
+      "agent": null,
+      "predicate": "latent formation",
+      "temporal_framework": "successive lives",
+      "paraphrase": "Kidney forces are said to prepare future temperament through the head.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "overlap",
+        "prior_claim_ids": [
+          "ORG-V7-006"
+        ],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-091",
+      "catalogue_entry_id": "GA205-06",
+      "ga": 205,
+      "lecture": 6,
+      "date": "1921-07-02",
+      "section": 13,
+      "passage_cue": "English §13",
+      "source_url": "https://rsarchive.org/Lectures/GA205/English/SOL/19210702p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "heart",
+        "blood"
+      ],
+      "agent": "astral body and I",
+      "predicate": "circulation",
+      "temporal_framework": "present life",
+      "paraphrase": "Steiner assigns movement of blood to astral body and I and denies the heart pumps. The denial is physiologically incorrect.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "same_claim",
+        "prior_claim_ids": [
+          "ORG-V7-007"
+        ],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-092",
+      "catalogue_entry_id": "GA205-06",
+      "ga": 205,
+      "lecture": 6,
+      "date": "1921-07-02",
+      "section": 14,
+      "passage_cue": "English §14",
+      "source_url": "https://rsarchive.org/Lectures/GA205/English/SOL/19210702p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "heart"
+      ],
+      "agent": null,
+      "predicate": "reflection",
+      "temporal_framework": "present conscience",
+      "paraphrase": "The outer wall of the heart is said to reflect pangs of conscience.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "same_claim",
+        "prior_claim_ids": [
+          "ORG-V7-008"
+        ],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-093",
+      "catalogue_entry_id": "GA205-06",
+      "ga": 205,
+      "lecture": 6,
+      "date": "1921-07-02",
+      "section": 14,
+      "passage_cue": "English §14",
+      "source_url": "https://rsarchive.org/Lectures/GA205/English/SOL/19210702p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "heart"
+      ],
+      "agent": null,
+      "predicate": "latent formation",
+      "temporal_framework": "successive lives",
+      "paraphrase": "Steiner locates dispositions for future karma in the heart's interior, mediated by limb-metabolic activity.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "same_claim",
+        "prior_claim_ids": [
+          "ORG-V7-009"
+        ],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-094",
+      "catalogue_entry_id": "GA205-06",
+      "ga": 205,
+      "lecture": 6,
+      "date": "1921-07-02",
+      "section": 18,
+      "passage_cue": "English §18",
+      "source_url": "https://rsarchive.org/Lectures/GA205/English/SOL/19210702p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "heart"
+      ],
+      "agent": "Luciferic forces",
+      "predicate": "premature expression",
+      "temporal_framework": "present versus later incarnation",
+      "paraphrase": "The German associates premature karmic expression with frenzy. SOL also gives epilepsy and rabies; these diagnostic labels are spurious here.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-095",
+      "catalogue_entry_id": "GA205-06",
+      "ga": 205,
+      "lecture": 6,
+      "date": "1921-07-02",
+      "section": 21,
+      "passage_cue": "English §21",
+      "source_url": "https://rsarchive.org/Lectures/GA205/English/SOL/19210702p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "lungs"
+      ],
+      "agent": null,
+      "predicate": "elemental affiliation",
+      "temporal_framework": "present organization",
+      "paraphrase": "The lung is linked especially to the earth element; the lecture explicitly limits exclusivity.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "overlap",
+        "prior_claim_ids": [
+          "ORG-V7-011"
+        ],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-096",
+      "catalogue_entry_id": "GA205-06",
+      "ga": 205,
+      "lecture": 6,
+      "date": "1921-07-02",
+      "section": 21,
+      "passage_cue": "English §21",
+      "source_url": "https://rsarchive.org/Lectures/GA205/English/SOL/19210702p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "liver"
+      ],
+      "agent": null,
+      "predicate": "elemental affiliation",
+      "temporal_framework": "present organization",
+      "paraphrase": "The liver is linked to the water element.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "overlap",
+        "prior_claim_ids": [
+          "ORG-V7-012"
+        ],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-097",
+      "catalogue_entry_id": "GA205-06",
+      "ga": 205,
+      "lecture": 6,
+      "date": "1921-07-02",
+      "section": 21,
+      "passage_cue": "English §21",
+      "source_url": "https://rsarchive.org/Lectures/GA205/English/SOL/19210702p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "kidneys"
+      ],
+      "agent": null,
+      "predicate": "elemental affiliation",
+      "temporal_framework": "present organization",
+      "paraphrase": "The kidney system is linked to the air element.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "overlap",
+        "prior_claim_ids": [
+          "ORG-V7-013"
+        ],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-098",
+      "catalogue_entry_id": "GA205-06",
+      "ga": 205,
+      "lecture": 6,
+      "date": "1921-07-02",
+      "section": 21,
+      "passage_cue": "English §21",
+      "source_url": "https://rsarchive.org/Lectures/GA205/English/SOL/19210702p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "heart"
+      ],
+      "agent": null,
+      "predicate": "elemental formation",
+      "temporal_framework": "present organization",
+      "paraphrase": "The heart is described as formed from the warmth element.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "overlap",
+        "prior_claim_ids": [
+          "ORG-V7-014"
+        ],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-099",
+      "catalogue_entry_id": "GA205-06",
+      "ga": 205,
+      "lecture": 6,
+      "date": "1921-07-02",
+      "section": 23,
+      "passage_cue": "English §23",
+      "source_url": "https://rsarchive.org/Lectures/GA205/English/SOL/19210702p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "predicate": "direction of cognition",
+      "temporal_framework": "spiritual training",
+      "paraphrase": "The passage directs attention outward through sensory phenomena to apprehend hierarchies, distinguishing this route from inward organ observation.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-100",
+      "catalogue_entry_id": "GA218-16",
+      "ga": 218,
+      "lecture": 16,
+      "date": "1922-12-09",
+      "section": 2,
+      "passage_cue": "English §2",
+      "source_url": "https://rsarchive.org/Lectures/GA218/English/SOL/19221209p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "eyes",
+        "ears"
+      ],
+      "agent": "human being and unnamed higher hierarchies",
+      "predicate": "collaborative formation",
+      "temporal_framework": "between death and new birth",
+      "paraphrase": "The human being and higher beings are said to shape the inner form of eye and ear before birth.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-101",
+      "catalogue_entry_id": "GA218-16",
+      "ga": 218,
+      "lecture": 16,
+      "date": "1922-12-09",
+      "section": 2,
+      "passage_cue": "English §2",
+      "source_url": "https://rsarchive.org/Lectures/GA218/English/SOL/19221209p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "predicate": "incorporation",
+      "temporal_framework": "approach to birth",
+      "paraphrase": "A spiritual germ is described as entering a physical line of heredity.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-102",
+      "catalogue_entry_id": "GA218-16",
+      "ga": 218,
+      "lecture": 16,
+      "date": "1922-12-09",
+      "section": 3,
+      "passage_cue": "English §3",
+      "source_url": "https://rsarchive.org/Lectures/GA218/English/SOL/19221209p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "ears",
+        "limbs"
+      ],
+      "agent": null,
+      "predicate": "metamorphic comparison",
+      "temporal_framework": "embodied form",
+      "paraphrase": "The stapes is compared with a thigh attached at the hip.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-103",
+      "catalogue_entry_id": "GA218-16",
+      "ga": 218,
+      "lecture": 16,
+      "date": "1922-12-09",
+      "section": 3,
+      "passage_cue": "English §3",
+      "source_url": "https://rsarchive.org/Lectures/GA218/English/SOL/19221209p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "ears",
+        "limbs"
+      ],
+      "agent": null,
+      "predicate": "metamorphic comparison",
+      "temporal_framework": "embodied form",
+      "paraphrase": "The incus is compared with a kneecap.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-104",
+      "catalogue_entry_id": "GA218-16",
+      "ga": 218,
+      "lecture": 16,
+      "date": "1922-12-09",
+      "section": 3,
+      "passage_cue": "English §3",
+      "source_url": "https://rsarchive.org/Lectures/GA218/English/SOL/19221209p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "ears",
+        "limbs"
+      ],
+      "agent": null,
+      "predicate": "metamorphic comparison",
+      "temporal_framework": "embodied form",
+      "paraphrase": "The segment reaching the eardrum is compared with lower leg and foot; §12 explicitly names the hammer.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-105",
+      "catalogue_entry_id": "GA218-16",
+      "ga": 218,
+      "lecture": 16,
+      "date": "1922-12-09",
+      "section": 4,
+      "passage_cue": "English §4",
+      "source_url": "https://rsarchive.org/Lectures/GA218/English/SOL/19221209p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "ears"
+      ],
+      "agent": null,
+      "predicate": "formative relation",
+      "temporal_framework": "pre-earthly life",
+      "paraphrase": "The lecture treats the harmony of the spheres as formative of the ear.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-106",
+      "catalogue_entry_id": "GA218-16",
+      "ga": 218,
+      "lecture": 16,
+      "date": "1922-12-09",
+      "section": 7,
+      "passage_cue": "English §7",
+      "source_url": "https://rsarchive.org/Lectures/GA218/English/SOL/19221209p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "head",
+        "limbs"
+      ],
+      "agent": null,
+      "predicate": "metamorphosis",
+      "temporal_framework": "successive lives",
+      "paraphrase": "The organization outside the head is said to become head organization in the next life.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "overlap",
+        "prior_claim_ids": [
+          "ORG-CLAIM-V28-083"
+        ],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-107",
+      "catalogue_entry_id": "GA218-16",
+      "ga": 218,
+      "lecture": 16,
+      "date": "1922-12-09",
+      "section": 8,
+      "passage_cue": "English §8",
+      "source_url": "https://rsarchive.org/Lectures/GA218/English/SOL/19221209p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "predicate": "moral capacity",
+      "temporal_framework": "between lives to Earth",
+      "paraphrase": "Love is described as an echo of communion with higher hierarchies.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-108",
+      "catalogue_entry_id": "GA218-16",
+      "ga": 218,
+      "lecture": 16,
+      "date": "1922-12-09",
+      "section": 8,
+      "passage_cue": "English §8",
+      "source_url": "https://rsarchive.org/Lectures/GA218/English/SOL/19221209p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "predicate": "memory capacity",
+      "temporal_framework": "between lives to Earth",
+      "paraphrase": "Memory is described as an echo of withdrawing from that communion.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-109",
+      "catalogue_entry_id": "GA218-16",
+      "ga": 218,
+      "lecture": 16,
+      "date": "1922-12-09",
+      "section": 9,
+      "passage_cue": "English §9",
+      "source_url": "https://rsarchive.org/Lectures/GA218/English/SOL/19221209p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "larynx"
+      ],
+      "agent": "World Logos",
+      "predicate": "formative relation",
+      "temporal_framework": "between lives",
+      "paraphrase": "The World Word is said to shape the apparatus for speech and singing.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "different_context",
+        "prior_claim_ids": [
+          "ORG-CLAIM-V28-009"
+        ],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-110",
+      "catalogue_entry_id": "GA218-16",
+      "ga": 218,
+      "lecture": 16,
+      "date": "1922-12-09",
+      "section": 14,
+      "passage_cue": "English §14",
+      "source_url": "https://rsarchive.org/Lectures/GA218/English/SOL/19221209p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "eyes"
+      ],
+      "agent": "spiritual aspect of light",
+      "predicate": "formative relation",
+      "temporal_framework": "pre-earthly life",
+      "paraphrase": "The formative light is explicitly distinguished from the physical light seen by the finished eye.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "overlap",
+        "prior_claim_ids": [
+          "ORG-CLAIM-V28-045"
+        ],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-111",
+      "catalogue_entry_id": "GA218-16",
+      "ga": 218,
+      "lecture": 16,
+      "date": "1922-12-09",
+      "section": 16,
+      "passage_cue": "English §16",
+      "source_url": "https://rsarchive.org/Lectures/GA218/English/SOL/19221209p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "ears",
+        "larynx"
+      ],
+      "agent": "etheric body",
+      "predicate": "comprehension",
+      "temporal_framework": "present listening",
+      "paraphrase": "Understanding a spoken word is attributed to meeting an etherically repeated word through the auditory tube.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-112",
+      "catalogue_entry_id": "GA218-16",
+      "ga": 218,
+      "lecture": 16,
+      "date": "1922-12-09",
+      "section": 24,
+      "passage_cue": "English §24",
+      "source_url": "https://rsarchive.org/Lectures/GA218/English/SOL/19221209p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "eyes"
+      ],
+      "agent": null,
+      "predicate": "analogy of spiritual sight",
+      "temporal_framework": "Earth to after death",
+      "paraphrase": "Thoughtful understanding of spiritual research is said to form a spiritual eye for after death; personal clairvoyance is not required.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-113",
+      "catalogue_entry_id": "GA107-19",
+      "ga": 107,
+      "lecture": 19,
+      "date": "1909-06-17",
+      "section": 4,
+      "passage_cue": "English §4",
+      "source_url": "https://rsarchive.org/Lectures/GA107/English/SOL/19090617p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "predicate": "developmental release",
+      "temporal_framework": "puberty and early adulthood",
+      "paraphrase": "Steiner distinguishes release of the astral body at puberty from the emergence of the I around twenty-one or twenty-two.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-114",
+      "catalogue_entry_id": "GA107-19",
+      "ga": 107,
+      "lecture": 19,
+      "date": "1909-06-17",
+      "section": 5,
+      "passage_cue": "English §5",
+      "source_url": "https://rsarchive.org/Lectures/GA107/English/SOL/19090617p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "brain"
+      ],
+      "agent": "etheric and astral currents",
+      "predicate": "formative agency",
+      "temporal_framework": "early months",
+      "paraphrase": "Currents around the infant head are said to become inward activity shaping links between sensory experiences.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-115",
+      "catalogue_entry_id": "GA107-19",
+      "ga": 107,
+      "lecture": 19,
+      "date": "1909-06-17",
+      "section": 6,
+      "passage_cue": "English §6",
+      "source_url": "https://rsarchive.org/Lectures/GA107/English/SOL/19090617p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "human I",
+      "predicate": "activity before release",
+      "temporal_framework": "conception and childhood",
+      "paraphrase": "The I is said to act from conception before becoming independently active.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-116",
+      "catalogue_entry_id": "GA107-19",
+      "ga": 107,
+      "lecture": 19,
+      "date": "1909-06-17",
+      "section": 11,
+      "passage_cue": "English §11",
+      "source_url": "https://rsarchive.org/Lectures/GA107/English/SOL/19090617p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "human I",
+      "predicate": "creation through relations",
+      "temporal_framework": "earthly experience",
+      "paraphrase": "A person creates something new by forming a relationship between experienced facts.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-117",
+      "catalogue_entry_id": "GA107-19",
+      "ga": 107,
+      "lecture": 19,
+      "date": "1909-06-17",
+      "section": 15,
+      "passage_cue": "English §15",
+      "source_url": "https://rsarchive.org/Lectures/GA107/English/SOL/19090617p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "human I",
+      "predicate": "remaking inherited vehicles",
+      "temporal_framework": "future planetary stages",
+      "paraphrase": "Gradual replacement of what was given by the gods is illustrated by renewing a vehicle part by part.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "different_context",
+        "prior_claim_ids": [
+          "ORG-CLAIM-V28-023"
+        ],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-118",
+      "catalogue_entry_id": "GA107-19",
+      "ga": 107,
+      "lecture": 19,
+      "date": "1909-06-17",
+      "section": 16,
+      "passage_cue": "English §16",
+      "source_url": "https://rsarchive.org/Lectures/GA107/English/SOL/19090617p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "Spirits of Personality",
+      "predicate": "receiving human contribution",
+      "temporal_framework": "Earth development",
+      "paraphrase": "What individuals create through the I becomes a medium for the Spirits of Personality.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-119",
+      "catalogue_entry_id": "GA107-19",
+      "ga": 107,
+      "lecture": 19,
+      "date": "1909-06-17",
+      "section": 19,
+      "passage_cue": "English §19",
+      "source_url": "https://rsarchive.org/Lectures/GA107/English/SOL/19090617p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "human I",
+      "predicate": "ethical creation",
+      "temporal_framework": "Earth development",
+      "paraphrase": "A moral response can add something to a karmically given situation.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-120",
+      "catalogue_entry_id": "GA107-19",
+      "ga": 107,
+      "lecture": 19,
+      "date": "1909-06-17",
+      "section": 20,
+      "passage_cue": "English §20",
+      "source_url": "https://rsarchive.org/Lectures/GA107/English/SOL/19090617p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "Spirits of Personality",
+      "predicate": "offering",
+      "temporal_framework": "Earth development",
+      "paraphrase": "Logical thought, aesthetic judgment and duty are described as nourishment for spirits of the age.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-121",
+      "catalogue_entry_id": "GA107-19",
+      "ga": 107,
+      "lecture": 19,
+      "date": "1909-06-17",
+      "section": 23,
+      "passage_cue": "English §23",
+      "source_url": "https://rsarchive.org/Lectures/GA107/English/SOL/19090617p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "Christ",
+      "predicate": "condition of creativity",
+      "temporal_framework": "Christ event",
+      "paraphrase": "Steiner makes the Christ event the condition for creating the true, beautiful and good in the Holy Spirit.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-122",
+      "catalogue_entry_id": "GA208-01",
+      "ga": 208,
+      "lecture": 1,
+      "date": "1921-10-21",
+      "section": 1,
+      "passage_cue": "English §1",
+      "source_url": "https://rsarchive.org/Lectures/GA208/English/SOL/19211021p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "predicate": "formation",
+      "temporal_framework": "before earthly life",
+      "paraphrase": "Experiences in the cosmos before birth are said to appear later in bodily organs.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-123",
+      "catalogue_entry_id": "GA208-01",
+      "ga": 208,
+      "lecture": 1,
+      "date": "1921-10-21",
+      "section": 8,
+      "passage_cue": "English §8",
+      "source_url": "https://rsarchive.org/Lectures/GA208/English/SOL/19211021p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "eyes",
+        "ears"
+      ],
+      "agent": null,
+      "predicate": "perception",
+      "temporal_framework": "earthly waking",
+      "paraphrase": "The senses give a person access to observable expressions of their own will.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-124",
+      "catalogue_entry_id": "GA208-01",
+      "ga": 208,
+      "lecture": 1,
+      "date": "1921-10-21",
+      "section": 21,
+      "passage_cue": "English §21",
+      "source_url": "https://rsarchive.org/Lectures/GA208/English/SOL/19211021p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "heart",
+        "stomach"
+      ],
+      "agent": null,
+      "predicate": "analogy",
+      "temporal_framework": "after death",
+      "paraphrase": "Carrying heart and stomach during life illustrates carrying relationships inwardly after death.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-125",
+      "catalogue_entry_id": "GA208-01",
+      "ga": 208,
+      "lecture": 1,
+      "date": "1921-10-21",
+      "section": 25,
+      "passage_cue": "English §25",
+      "source_url": "https://rsarchive.org/Lectures/GA208/English/SOL/19211021p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "predicate": "continuity",
+      "temporal_framework": "death and after",
+      "paraphrase": "Memory of perceived deeds is said to enable the I to continue through death.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-126",
+      "catalogue_entry_id": "GA208-01",
+      "ga": 208,
+      "lecture": 1,
+      "date": "1921-10-21",
+      "section": 27,
+      "passage_cue": "English §27",
+      "source_url": "https://rsarchive.org/Lectures/GA208/English/SOL/19211021p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "predicate": "creative contribution",
+      "temporal_framework": "Earth to future Jupiter",
+      "paraphrase": "Human feelings are said to contribute to the substance of the future Jupiter stage.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "different_context",
+        "prior_claim_ids": [
+          "ORG-CLAIM-V28-118"
+        ],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-127",
+      "catalogue_entry_id": "GA208-01",
+      "ga": 208,
+      "lecture": 1,
+      "date": "1921-10-21",
+      "section": 39,
+      "passage_cue": "English §39",
+      "source_url": "https://rsarchive.org/Lectures/GA208/English/SOL/19211021p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "predicate": "constitutional position",
+      "temporal_framework": "postmortem solar existence",
+      "paraphrase": "The I is described as the lowest member in postmortem solar existence.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    },
+    {
+      "id": "ORG-CLAIM-V28-128",
+      "catalogue_entry_id": "GA208-01",
+      "ga": 208,
+      "lecture": 1,
+      "date": "1921-10-21",
+      "section": 40,
+      "passage_cue": "English §40",
+      "source_url": "https://rsarchive.org/Lectures/GA208/English/SOL/19211021p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "predicate": "reception",
+      "temporal_framework": "after death",
+      "paraphrase": "Life spirit and spirit human are described as received from the cosmos in this context.",
+      "evidence_state": "complete_English_section_review",
+      "reconciliation": {
+        "decision": "different_context",
+        "prior_claim_ids": [
+          "ORG-CLAIM-V27-025"
+        ],
+        "scope": "Inspected registers and linked passages. Candidate status is provisional."
+      }
+    }
+  ],
+  "counts": {
+    "different_context": 11,
+    "overlap": 14,
+    "new_candidate": 90,
+    "same_claim": 13
+  }
+}

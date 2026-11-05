@@ -1,0 +1,19 @@
+{
+  "source_path": "Version 27 manuscript of 4 November 2026, embedded below the new chapter",
+  "source_bytes": 340511,
+  "preserved_start_byte": 11518,
+  "preserved_end_byte_exclusive": 352029,
+  "source_sha256": "897c835941b61311421587c723c69144c9fa23e99182fbc13b02f11b1efac427",
+  "cumulative_path": "docs/Steiner_Organ_Evolution_Research_Atlas_v28.md",
+  "cumulative_sha256": "21b80c07094da722210781baeb345401c9f99391b523a91f9ede9110e56cdf04",
+  "cumulative_bytes": 385603,
+  "scope": "Earlier manuscript is verbatim. Current claim records build from the separately published GitHub v27 IDs.",
+  "github_v27": {
+    "source_path": "docs/Steiner_Organ_Evolution_Research_Atlas_v27.md",
+    "sha256": "044bf0a2cd194688e03fa6966aeeaceb561d49e3884286d1de4b2537b15758eb",
+    "shared_prefix_start": 23906,
+    "shared_prefix_bytes": 304462,
+    "addenda_start": 352299,
+    "addenda_bytes": 33304
+  }
+}

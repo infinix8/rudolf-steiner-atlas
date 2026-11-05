@@ -1,0 +1,1003 @@
+{
+  "scope": "Original catalogue groupings, including displaced dates and alternate editions. Status describes this pass only. Earlier selected readings may exist.",
+  "catalogue_urls": {
+    "102": "https://rsarchive.org/Lectures/GA102/",
+    "107": "https://rsarchive.org/Lectures/GA107/",
+    "205": "https://rsarchive.org/Lectures/GA205/",
+    "208": "https://rsarchive.org/Lectures/GA208/",
+    "218": "https://rsarchive.org/Lectures/GA218/"
+  },
+  "volumes": {
+    "102": [
+      {
+        "views": [
+          {
+            "title": "Lecture One",
+            "url": "https://rsarchive.org/Lectures/GA102/English/AP1961/19080106p01.html"
+          },
+          {
+            "title": "First Lecture",
+            "url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080106p01.html"
+          }
+        ],
+        "catalogue_position": 1,
+        "status_in_this_pass": "complete_English_section_review",
+        "reviewed_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080106p01.html",
+        "audit_record": "research/organ-paragraph-review-cross-corpus-v28.json"
+      },
+      {
+        "views": [
+          {
+            "title": "Lecture Two",
+            "url": "https://rsarchive.org/Lectures/GA102/English/AP1961/19080127p01.html"
+          },
+          {
+            "title": "Second Lecture",
+            "url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080127p01.html"
+          }
+        ],
+        "catalogue_position": 2,
+        "status_in_this_pass": "complete_English_section_review",
+        "reviewed_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080127p01.html",
+        "audit_record": "research/organ-paragraph-review-cross-corpus-v28.json"
+      },
+      {
+        "views": [
+          {
+            "title": "Lecture Three",
+            "url": "https://rsarchive.org/Lectures/GA102/English/AP1961/19080215p01.html"
+          },
+          {
+            "title": "Third Lecture",
+            "url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080215p01.html"
+          }
+        ],
+        "catalogue_position": 3,
+        "status_in_this_pass": "catalogue_only"
+      },
+      {
+        "views": [
+          {
+            "title": "Lecture Four",
+            "url": "https://rsarchive.org/Lectures/GA102/English/AP1961/19080229p01.html"
+          },
+          {
+            "title": "Fourth Lecture",
+            "url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080229p01.html"
+          }
+        ],
+        "catalogue_position": 4,
+        "status_in_this_pass": "catalogue_only"
+      },
+      {
+        "views": [
+          {
+            "title": "Lecture Five",
+            "url": "https://rsarchive.org/Lectures/GA102/English/AP1961/19080316p01.html"
+          },
+          {
+            "title": "Fifth Lecture",
+            "url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080316p01.html"
+          }
+        ],
+        "catalogue_position": 5,
+        "status_in_this_pass": "catalogue_only"
+      },
+      {
+        "views": [
+          {
+            "title": "Lecture Six",
+            "url": "https://rsarchive.org/Lectures/GA102/English/AP1961/19080324p01.html"
+          },
+          {
+            "title": "Sixth Lecture",
+            "url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080324p01.html"
+          }
+        ],
+        "catalogue_position": 6,
+        "status_in_this_pass": "catalogue_only"
+      },
+      {
+        "views": [
+          {
+            "title": "Easter: the Mystery of the Future",
+            "url": "https://rsarchive.org/Lectures/Easter/19080413p01.html"
+          },
+          {
+            "title": "Seventh Lecture",
+            "url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080413p01.html"
+          }
+        ],
+        "catalogue_position": 7,
+        "status_in_this_pass": "catalogue_only"
+      },
+      {
+        "views": [
+          {
+            "title": "Lecture Seven",
+            "url": "https://rsarchive.org/Lectures/GA102/English/AP1961/19080420p01.html"
+          },
+          {
+            "title": "Eighth Lecture",
+            "url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080420p01.html"
+          }
+        ],
+        "catalogue_position": 8,
+        "status_in_this_pass": "catalogue_only"
+      },
+      {
+        "views": [
+          {
+            "title": "Ninth Lecture",
+            "url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080513p01.html"
+          }
+        ],
+        "catalogue_position": 9,
+        "status_in_this_pass": "catalogue_only"
+      },
+      {
+        "views": [
+          {
+            "title": "Lecture Eight",
+            "url": "https://rsarchive.org/Lectures/GA102/English/AP1961/19080516p01.html"
+          },
+          {
+            "title": "Tenth Lecture",
+            "url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080516p01.html"
+          }
+        ],
+        "catalogue_position": 10,
+        "status_in_this_pass": "catalogue_only"
+      },
+      {
+        "views": [
+          {
+            "title": "Lecture Nine",
+            "url": "https://rsarchive.org/Lectures/GA102/English/AP1961/19080601p01.html"
+          },
+          {
+            "title": "Eleventh Lecture",
+            "url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080601p01.html"
+          }
+        ],
+        "catalogue_position": 11,
+        "status_in_this_pass": "catalogue_only"
+      },
+      {
+        "views": [
+          {
+            "title": "Lecture Ten",
+            "url": "https://rsarchive.org/Lectures/GA102/English/AP1961/19080604p01.html"
+          },
+          {
+            "title": "Twelfth Lecture",
+            "url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080604p01.html"
+          }
+        ],
+        "catalogue_position": 12,
+        "status_in_this_pass": "catalogue_only"
+      },
+      {
+        "views": [
+          {
+            "title": "Lecture Eleven",
+            "url": "https://rsarchive.org/Lectures/GA102/English/AP1961/19080611p01.html"
+          },
+          {
+            "title": "Thirteenth Lecture",
+            "url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080611p01.html"
+          }
+        ],
+        "catalogue_position": 13,
+        "status_in_this_pass": "catalogue_only"
+      }
+    ],
+    "107": [
+      {
+        "views": [
+          {
+            "title": "The Astral World",
+            "url": "https://rsarchive.org/Lectures/GA107/English/UNK1984/19081019p01.html"
+          },
+          {
+            "title": "First Lecture",
+            "url": "https://rsarchive.org/Lectures/GA107/English/SOL/19081019p01.html"
+          }
+        ],
+        "catalogue_position": 1,
+        "status_in_this_pass": "catalogue_only"
+      },
+      {
+        "views": [
+          {
+            "title": "Some Characteristics of the Astral World",
+            "url": "https://rsarchive.org/Lectures/GA107/English/UNK1984/19081021p01.html"
+          },
+          {
+            "title": "Second Lecture",
+            "url": "https://rsarchive.org/Lectures/GA107/English/SOL/19081021p01.html"
+          }
+        ],
+        "catalogue_position": 2,
+        "status_in_this_pass": "catalogue_only"
+      },
+      {
+        "views": [
+          {
+            "title": "History of the Physical Plane and Occult History",
+            "url": "https://rsarchive.org/Lectures/GA107/English/Singles/19081023p01.html"
+          },
+          {
+            "title": "Third Lecture",
+            "url": "https://rsarchive.org/Lectures/GA107/English/SOL/19081023p01.html"
+          }
+        ],
+        "catalogue_position": 3,
+        "status_in_this_pass": "catalogue_only"
+      },
+      {
+        "views": [
+          {
+            "title": "The Law of the Astral Plane: Renunciation; The Law of the Devachanic Plane: Sacrifice",
+            "url": "https://rsarchive.org/Lectures/GA107/English/UNK1984/19081026p01.html"
+          },
+          {
+            "title": "Fourth Lecture",
+            "url": "https://rsarchive.org/Lectures/GA107/English/SOL/19081026p01.html"
+          }
+        ],
+        "catalogue_position": 4,
+        "status_in_this_pass": "catalogue_only"
+      },
+      {
+        "views": [
+          {
+            "title": "Concerning the Nature of Pain, Suffering, Joy, and Bliss",
+            "url": "https://rsarchive.org/Lectures/GA107/English/Singles/19081027v01.html"
+          },
+          {
+            "title": "Fifth Lecture",
+            "url": "https://rsarchive.org/Lectures/GA107/English/SOL/19081027p01.html"
+          }
+        ],
+        "catalogue_position": 5,
+        "status_in_this_pass": "catalogue_only"
+      },
+      {
+        "views": [
+          {
+            "title": "Four Human Soul Groups",
+            "url": "https://rsarchive.org/Lectures/GA107/English/Singles/19081029p01.html"
+          },
+          {
+            "title": "Sixth Lecture",
+            "url": "https://rsarchive.org/Lectures/GA107/English/SOL/19081029p01.html"
+          }
+        ],
+        "catalogue_position": 6,
+        "status_in_this_pass": "catalogue_only"
+      },
+      {
+        "views": [
+          {
+            "title": "Forgetting",
+            "url": "https://rsarchive.org/Lectures/GA107/English/RSP1981/19081102p01.html"
+          },
+          {
+            "title": "Seventh Lecture",
+            "url": "https://rsarchive.org/Lectures/GA107/English/SOL/19081102p01.html"
+          }
+        ],
+        "catalogue_position": 7,
+        "status_in_this_pass": "catalogue_only"
+      },
+      {
+        "views": [
+          {
+            "title": "Different Types of Illness",
+            "url": "https://rsarchive.org/Lectures/GA107/English/RSP1981/19081110p01.html"
+          },
+          {
+            "title": "Eighth Lecture",
+            "url": "https://rsarchive.org/Lectures/GA107/English/SOL/19081110p01.html"
+          }
+        ],
+        "catalogue_position": 8,
+        "status_in_this_pass": "catalogue_only"
+      },
+      {
+        "views": [
+          {
+            "title": "The Ten Commandments",
+            "url": "https://rsarchive.org/Lectures/TenComSer/19081116p01.html"
+          },
+          {
+            "title": "Ninth Lecture",
+            "url": "https://rsarchive.org/Lectures/GA107/English/SOL/19081116p01.html"
+          }
+        ],
+        "catalogue_position": 9,
+        "status_in_this_pass": "catalogue_only"
+      },
+      {
+        "views": [
+          {
+            "title": "Original Sin",
+            "url": "https://rsarchive.org/Lectures/GA107/English/RSP1981/19081208p01.html"
+          },
+          {
+            "title": "Tenth Lecture",
+            "url": "https://rsarchive.org/Lectures/GA107/English/SOL/19081208p01.html"
+          }
+        ],
+        "catalogue_position": 10,
+        "status_in_this_pass": "catalogue_only"
+      },
+      {
+        "views": [
+          {
+            "title": "Rhythm in the Bodies of Man",
+            "url": "https://rsarchive.org/Lectures/GA107/English/RSP1981/19081221p01.html"
+          },
+          {
+            "title": "Eleventh Lecture",
+            "url": "https://rsarchive.org/Lectures/GA107/English/SOL/19081221p01.html"
+          }
+        ],
+        "catalogue_position": 11,
+        "status_in_this_pass": "catalogue_only"
+      },
+      {
+        "views": [
+          {
+            "title": "Mephistopheles and Earthquakes",
+            "url": "https://rsarchive.org/Lectures/GA107/English/AP1954/19090101p01.html"
+          },
+          {
+            "title": "Twelfth Lecture",
+            "url": "https://rsarchive.org/Lectures/GA107/English/SOL/19090101p01.html"
+          }
+        ],
+        "catalogue_position": 12,
+        "status_in_this_pass": "catalogue_only"
+      },
+      {
+        "views": [
+          {
+            "title": "Rhythms in the Being of Man",
+            "url": "https://rsarchive.org/Lectures/GA107/English/RSP1981/19090112p01.html"
+          },
+          {
+            "title": "Thirteenth Lecture",
+            "url": "https://rsarchive.org/Lectures/GA107/English/SOL/19090112p01.html"
+          }
+        ],
+        "catalogue_position": 13,
+        "status_in_this_pass": "catalogue_only"
+      },
+      {
+        "views": [
+          {
+            "title": "Illness and Karma",
+            "url": "https://rsarchive.org/Lectures/GA107/English/RSP1981/19090126p01.html"
+          },
+          {
+            "title": "Fourteenth Lecture",
+            "url": "https://rsarchive.org/Lectures/GA107/English/SOL/19090126p01.html"
+          }
+        ],
+        "catalogue_position": 14,
+        "status_in_this_pass": "catalogue_only"
+      },
+      {
+        "views": [
+          {
+            "title": "The Development of Christianity in Present Humanity",
+            "url": "https://rsarchive.org/Lectures/GA107/English/Singles/19090215p01.html"
+          },
+          {
+            "title": "Fifteenth Lecture",
+            "url": "https://rsarchive.org/Lectures/GA107/English/SOL/19090215p01.html"
+          }
+        ],
+        "catalogue_position": 15,
+        "status_in_this_pass": "catalogue_only"
+      },
+      {
+        "views": [
+          {
+            "title": "The Deed of Christ and the Opposing Spiritual Powers",
+            "url": "https://rsarchive.org/Lectures/GA107/English/AP1954/19090322p01.html"
+          },
+          {
+            "title": "Sixteenth Lecture",
+            "url": "https://rsarchive.org/Lectures/GA107/English/SOL/19090322p01.html"
+          }
+        ],
+        "catalogue_position": 16,
+        "status_in_this_pass": "catalogue_only"
+      },
+      {
+        "views": [
+          {
+            "title": "Laughing and Weeping",
+            "url": "https://rsarchive.org/Lectures/GA107/English/RSP1981/19090427p01.html"
+          },
+          {
+            "title": "Seventeenth Lecture",
+            "url": "https://rsarchive.org/Lectures/GA107/English/SOL/19090427p01.html"
+          }
+        ],
+        "catalogue_position": 17,
+        "status_in_this_pass": "catalogue_only"
+      },
+      {
+        "views": [
+          {
+            "title": "The Manifestation of the Ego in the Different Races of Men",
+            "url": "https://rsarchive.org/Lectures/GA107/English/RSP1981/19090503p01.html"
+          },
+          {
+            "title": "Eighteenth Lecture",
+            "url": "https://rsarchive.org/Lectures/GA107/English/SOL/19090503p01.html"
+          }
+        ],
+        "catalogue_position": 18,
+        "status_in_this_pass": "catalogue_only"
+      },
+      {
+        "views": [
+          {
+            "title": "Evolution, Involution and Creation out of Nothingness",
+            "url": "https://rsarchive.org/Lectures/GA107/English/RSP1981/19090617p01.html"
+          },
+          {
+            "title": "Nineteenth Lecture",
+            "url": "https://rsarchive.org/Lectures/GA107/English/SOL/19090617p01.html"
+          }
+        ],
+        "catalogue_position": 19,
+        "status_in_this_pass": "complete_English_section_review",
+        "reviewed_url": "https://rsarchive.org/Lectures/GA107/English/SOL/19090617p01.html",
+        "audit_record": "research/organ-paragraph-review-cross-corpus-v28.json"
+      }
+    ],
+    "205": [
+      {
+        "views": [
+          {
+            "title": "First Lecture",
+            "url": "https://rsarchive.org/Lectures/GA205/English/SOL/19210616p01.html"
+          }
+        ],
+        "catalogue_position": 1,
+        "status_in_this_pass": "catalogue_only"
+      },
+      {
+        "views": [
+          {
+            "title": "Second Lecture",
+            "url": "https://rsarchive.org/Lectures/GA205/English/SOL/19210628p01.html"
+          }
+        ],
+        "catalogue_position": 2,
+        "status_in_this_pass": "catalogue_only",
+        "note": "English/German date links require separate verification; do not align by row alone."
+      },
+      {
+        "views": [
+          {
+            "title": "Lecture I",
+            "url": "https://rsarchive.org/Lectures/GA205/English/MP1984/19210624p01.html"
+          },
+          {
+            "title": "Third Lecture",
+            "url": "https://rsarchive.org/Lectures/GA205/English/SOL/19210624p01.html"
+          }
+        ],
+        "catalogue_position": 3,
+        "status_in_this_pass": "catalogue_only",
+        "note": "English/German date links require separate verification; do not align by row alone."
+      },
+      {
+        "views": [
+          {
+            "title": "Lecture II",
+            "url": "https://rsarchive.org/Lectures/GA205/English/MP1984/19210626p01.html"
+          },
+          {
+            "title": "Fourth Lecture",
+            "url": "https://rsarchive.org/Lectures/GA205/English/SOL/19210626p01.html"
+          }
+        ],
+        "catalogue_position": 4,
+        "status_in_this_pass": "catalogue_only",
+        "note": "English/German date links require separate verification; do not align by row alone."
+      },
+      {
+        "views": [
+          {
+            "title": "Lecture III",
+            "url": "https://rsarchive.org/Lectures/GA205/English/MP1984/19210701p01.html"
+          },
+          {
+            "title": "Fifth Lecture",
+            "url": "https://rsarchive.org/Lectures/GA205/English/SOL/19210701p01.html"
+          }
+        ],
+        "catalogue_position": 5,
+        "status_in_this_pass": "catalogue_only"
+      },
+      {
+        "views": [
+          {
+            "title": "Lecture IV",
+            "url": "https://rsarchive.org/Lectures/GA205/English/MP1984/19210702p01.html"
+          },
+          {
+            "title": "Connections Between Organic Processes and the Mental Life of Man",
+            "url": "https://rsarchive.org/Lectures/Psych/English/AP1946/19210702p02.html"
+          },
+          {
+            "title": "Sixth Lecture",
+            "url": "https://rsarchive.org/Lectures/GA205/English/SOL/19210702p01.html"
+          }
+        ],
+        "catalogue_position": 6,
+        "status_in_this_pass": "complete_English_section_review",
+        "reviewed_url": "https://rsarchive.org/Lectures/GA205/English/SOL/19210702p01.html",
+        "audit_record": "research/organ-paragraph-review-cross-corpus-v28.json"
+      },
+      {
+        "views": [
+          {
+            "title": "Lecture V",
+            "url": "https://rsarchive.org/Lectures/GA205/English/MP1984/19210703p01.html"
+          },
+          {
+            "title": "Seventh Lecture",
+            "url": "https://rsarchive.org/Lectures/GA205/English/SOL/19210703p01.html"
+          }
+        ],
+        "catalogue_position": 7,
+        "status_in_this_pass": "catalogue_only"
+      },
+      {
+        "views": [
+          {
+            "title": "Eighth Lecture",
+            "url": "https://rsarchive.org/Lectures/GA205/English/SOL/19210708p01.html"
+          }
+        ],
+        "catalogue_position": 8,
+        "status_in_this_pass": "catalogue_only"
+      },
+      {
+        "views": [
+          {
+            "title": "Ninth Lecture",
+            "url": "https://rsarchive.org/Lectures/GA205/English/SOL/19210709p01.html"
+          }
+        ],
+        "catalogue_position": 9,
+        "status_in_this_pass": "catalogue_only"
+      },
+      {
+        "views": [
+          {
+            "title": "Tenth Lecture",
+            "url": "https://rsarchive.org/Lectures/GA205/English/SOL/19210710p01.html"
+          }
+        ],
+        "catalogue_position": 10,
+        "status_in_this_pass": "catalogue_only"
+      },
+      {
+        "views": [
+          {
+            "title": "Eleventh Lecture",
+            "url": "https://rsarchive.org/Lectures/GA205/English/SOL/19210715p01.html"
+          }
+        ],
+        "catalogue_position": 11,
+        "status_in_this_pass": "catalogue_only"
+      },
+      {
+        "views": [
+          {
+            "title": "Twelfth Lecture",
+            "url": "https://rsarchive.org/Lectures/GA205/English/SOL/19210716p01.html"
+          }
+        ],
+        "catalogue_position": 12,
+        "status_in_this_pass": "catalogue_only"
+      },
+      {
+        "views": [
+          {
+            "title": "Thirteenth Lecture",
+            "url": "https://rsarchive.org/Lectures/GA205/English/SOL/19210717p01.html"
+          }
+        ],
+        "catalogue_position": 13,
+        "status_in_this_pass": "catalogue_only"
+      }
+    ],
+    "208": [
+      {
+        "views": [
+          {
+            "title": "Lecture I",
+            "url": "https://rsarchive.org/Lectures/GA208/English/CMP1997/19211021p02.html"
+          },
+          {
+            "title": "First Lecture",
+            "url": "https://rsarchive.org/Lectures/GA208/English/SOL/19211021p01.html"
+          }
+        ],
+        "catalogue_position": 1,
+        "status_in_this_pass": "complete_English_section_review",
+        "reviewed_url": "https://rsarchive.org/Lectures/GA208/English/SOL/19211021p01.html",
+        "audit_record": "research/organ-paragraph-review-cross-corpus-v28.json"
+      },
+      {
+        "views": [
+          {
+            "title": "Lecture II",
+            "url": "https://rsarchive.org/Lectures/GA208/English/CMP1997/19211022p02.html"
+          },
+          {
+            "title": "Second Lecture",
+            "url": "https://rsarchive.org/Lectures/GA208/English/SOL/19211022p01.html"
+          }
+        ],
+        "catalogue_position": 2,
+        "status_in_this_pass": "catalogue_only"
+      },
+      {
+        "views": [
+          {
+            "title": "Lecture III",
+            "url": "https://rsarchive.org/Lectures/GA208/English/CMP1997/19211023p02.html"
+          },
+          {
+            "title": "Third Lecture",
+            "url": "https://rsarchive.org/Lectures/GA208/English/SOL/19211023p01.html"
+          }
+        ],
+        "catalogue_position": 3,
+        "status_in_this_pass": "catalogue_only"
+      },
+      {
+        "views": [
+          {
+            "title": "Lecture IV",
+            "url": "https://rsarchive.org/Lectures/GA208/English/CMP1997/19211028p02.html"
+          },
+          {
+            "title": "Fourth Lecture",
+            "url": "https://rsarchive.org/Lectures/GA208/English/SOL/19211028p01.html"
+          }
+        ],
+        "catalogue_position": 4,
+        "status_in_this_pass": "catalogue_only"
+      },
+      {
+        "views": [
+          {
+            "title": "Lecture V",
+            "url": "https://rsarchive.org/Lectures/GA208/English/CMP1997/19211029p02.html"
+          },
+          {
+            "title": "Fifth Lecture",
+            "url": "https://rsarchive.org/Lectures/GA208/English/SOL/19211029p01.html"
+          }
+        ],
+        "catalogue_position": 5,
+        "status_in_this_pass": "catalogue_only"
+      },
+      {
+        "views": [
+          {
+            "title": "Lecture VI",
+            "url": "https://rsarchive.org/Lectures/GA208/English/CMP1997/19211030p02.html"
+          },
+          {
+            "title": "Sixth Lecture",
+            "url": "https://rsarchive.org/Lectures/GA208/English/SOL/19211030p01.html"
+          }
+        ],
+        "catalogue_position": 6,
+        "status_in_this_pass": "catalogue_only"
+      },
+      {
+        "views": [
+          {
+            "title": "Lecture VII",
+            "url": "https://rsarchive.org/Lectures/GA208/English/CMP1997/19211104p02.html"
+          },
+          {
+            "title": "Seventh Lecture",
+            "url": "https://rsarchive.org/Lectures/GA208/English/SOL/19211104p01.html"
+          }
+        ],
+        "catalogue_position": 7,
+        "status_in_this_pass": "catalogue_only"
+      },
+      {
+        "views": [
+          {
+            "title": "Lecture VIII",
+            "url": "https://rsarchive.org/Lectures/GA208/English/CMP1997/19211105p02.html"
+          },
+          {
+            "title": "Eighth Lecture",
+            "url": "https://rsarchive.org/Lectures/GA208/English/SOL/19211105p01.html"
+          }
+        ],
+        "catalogue_position": 8,
+        "status_in_this_pass": "catalogue_only"
+      },
+      {
+        "views": [
+          {
+            "title": "Lecture IX",
+            "url": "https://rsarchive.org/Lectures/GA208/English/CMP1997/19211106p02.html"
+          },
+          {
+            "title": "Ninth Lecture",
+            "url": "https://rsarchive.org/Lectures/GA208/English/SOL/19211106p01.html"
+          }
+        ],
+        "catalogue_position": 9,
+        "status_in_this_pass": "catalogue_only"
+      },
+      {
+        "views": [
+          {
+            "title": "Lecture X",
+            "url": "https://rsarchive.org/Lectures/GA208/English/CMP1997/19211112p02.html"
+          },
+          {
+            "title": "Tenth Lecture",
+            "url": "https://rsarchive.org/Lectures/GA208/English/SOL/19211112p01.html"
+          }
+        ],
+        "catalogue_position": 10,
+        "status_in_this_pass": "catalogue_only"
+      },
+      {
+        "views": [
+          {
+            "title": "Lecture XI",
+            "url": "https://rsarchive.org/Lectures/GA208/English/CMP1997/19211113p02.html"
+          },
+          {
+            "title": "Eleventh Lecture",
+            "url": "https://rsarchive.org/Lectures/GA208/English/SOL/19211113p01.html"
+          }
+        ],
+        "catalogue_position": 11,
+        "status_in_this_pass": "catalogue_only"
+      }
+    ],
+    "218": [
+      {
+        "views": [
+          {
+            "title": "Human Sleep Experiences",
+            "url": "https://rsarchive.org/Lectures/GA218/English/SOL/19221009p01.html"
+          }
+        ],
+        "catalogue_position": 1,
+        "status_in_this_pass": "catalogue_only"
+      },
+      {
+        "views": [
+          {
+            "title": "Spiritual and Emotional Aspects of Human Beings Between Death and Rebirth",
+            "url": "https://rsarchive.org/Lectures/GA218/English/SOL/19221014p01.html"
+          },
+          {
+            "title": "Concerning the Spiritual Soul of Man Between Death and a New Birth",
+            "url": "https://rsarchive.org/Lectures/GA218/English/Singles/19221014p01.html"
+          }
+        ],
+        "catalogue_position": 2,
+        "status_in_this_pass": "catalogue_only"
+      },
+      {
+        "views": [
+          {
+            "title": "Lecture I",
+            "url": "https://rsarchive.org/Lectures/GA218/English/MSV1975/19221020p01.html"
+          },
+          {
+            "title": "Spiritual Connections in the Structure of the Human Organism I",
+            "url": "https://rsarchive.org/Lectures/GA218/English/SOL/19221020p01.html"
+          }
+        ],
+        "catalogue_position": 3,
+        "status_in_this_pass": "catalogue_only"
+      },
+      {
+        "views": [
+          {
+            "title": "Lecture II",
+            "url": "https://rsarchive.org/Lectures/GA218/English/MSV1975/19221022p01.html"
+          },
+          {
+            "title": "Spiritual Connections in the Structure of the Human Organism II",
+            "url": "https://rsarchive.org/Lectures/GA218/English/SOL/19221022p01.html"
+          }
+        ],
+        "catalogue_position": 4,
+        "status_in_this_pass": "catalogue_only"
+      },
+      {
+        "views": [
+          {
+            "title": "The Concealed Aspects of Human Existence and the Christ Impulse",
+            "url": "https://rsarchive.org/Lectures/GA218/English/Singles/19221105p01.html"
+          },
+          {
+            "title": "Lecture III",
+            "url": "https://rsarchive.org/Lectures/GA218/English/MSV1975/19221023p01.html"
+          },
+          {
+            "title": "Spiritual Connections in the Structure of the Human Organism III",
+            "url": "https://rsarchive.org/Lectures/GA218/English/SOL/19221023p01.html"
+          }
+        ],
+        "catalogue_position": 5,
+        "status_in_this_pass": "catalogue_only",
+        "note": "Archive groups a November 5 view with October 23 material. These are catalogue rows, not verified aliases."
+      },
+      {
+        "views": [
+          {
+            "title": "Hidden Aspects of Human Existence and the Christ Impulse",
+            "url": "https://rsarchive.org/Lectures/GA218/English/SOL/19221105p01.html"
+          }
+        ],
+        "catalogue_position": 6,
+        "status_in_this_pass": "catalogue_only",
+        "note": "Archive groups a November 5 view with October 23 material. These are catalogue rows, not verified aliases."
+      },
+      {
+        "views": [
+          {
+            "title": "Life in the Spiritual Spheres and the Return to Earth",
+            "url": "https://rsarchive.org/Lectures/PlanSphere/19221112p02.html"
+          },
+          {
+            "title": "Experiences of the Human Soul During Sleep and After Death in the Spiritual World I",
+            "url": "https://rsarchive.org/Lectures/GA218/English/SOL/19221112p01.html"
+          }
+        ],
+        "catalogue_position": 7,
+        "status_in_this_pass": "catalogue_only"
+      },
+      {
+        "views": [
+          {
+            "title": "Luciferic and Ahrimanic Powers Wrestling for Man",
+            "url": "https://rsarchive.org/Lectures/PlanSphere/19221116p02.html"
+          },
+          {
+            "title": "Experiences of the Human Soul During Sleep and After Death in the Spiritual World II",
+            "url": "https://rsarchive.org/Lectures/GA218/English/SOL/19221116p01.html"
+          }
+        ],
+        "catalogue_position": 8,
+        "status_in_this_pass": "catalogue_only"
+      },
+      {
+        "views": [
+          {
+            "title": "Christ and the Metamorphoses of Karma",
+            "url": "https://rsarchive.org/Lectures/PlanSphere/19221119p02.html"
+          },
+          {
+            "title": "Experiences of the Human Soul During Sleep and After Death in the Spiritual World III",
+            "url": "https://rsarchive.org/Lectures/GA218/English/SOL/19221119p01.html"
+          }
+        ],
+        "catalogue_position": 9,
+        "status_in_this_pass": "catalogue_only"
+      },
+      {
+        "views": [
+          {
+            "title": "First Steps in Supersensible Perception",
+            "url": "https://rsarchive.org/Lectures/GA218/English/APL1949/19221117p02.html"
+          },
+          {
+            "title": "Accurate Knowledge of the Supernatural Worlds in the Spirit of Anthroposophical Spiritual Science",
+            "url": "https://rsarchive.org/Lectures/GA218/English/SOL/19221117p01.html"
+          }
+        ],
+        "catalogue_position": 10,
+        "status_in_this_pass": "catalogue_only"
+      },
+      {
+        "views": [
+          {
+            "title": "The Relation of Anthroposophy to Christianity",
+            "url": "https://rsarchive.org/Lectures/GA218/English/APL1949/19221118p01.html"
+          },
+          {
+            "title": "Christ from the Perspective of Anthroposophy",
+            "url": "https://rsarchive.org/Lectures/GA218/English/SOL/19221118p01.html"
+          }
+        ],
+        "catalogue_position": 11,
+        "status_in_this_pass": "catalogue_only"
+      },
+      {
+        "views": [
+          {
+            "title": "Education and Teaching",
+            "url": "https://rsarchive.org/Lectures/GA304a/English/AP1996/19221119d01.html"
+          },
+          {
+            "title": "Moral Education from the Perspective of Anthroposophy",
+            "url": "https://rsarchive.org/Lectures/GA218/English/SOL/19221119p02.html"
+          }
+        ],
+        "catalogue_position": 12,
+        "status_in_this_pass": "catalogue_only"
+      },
+      {
+        "views": [
+          {
+            "title": "The Art of Teaching from an Understanding of the Human Being",
+            "url": "https://rsarchive.org/Lectures/GA304a/English/AP1996/19221120d01.html"
+          },
+          {
+            "title": "The Art of Education Through an Understanding of Human Nature",
+            "url": "https://rsarchive.org/Lectures/GA218/English/SOL/19221120p01.html"
+          }
+        ],
+        "catalogue_position": 13,
+        "status_in_this_pass": "catalogue_only"
+      },
+      {
+        "views": [
+          {
+            "title": "The Relationship Between Human Life on Earth and Life Between Death and Rebirth",
+            "url": "https://rsarchive.org/Lectures/GA218/English/SOL/19221204p01.html"
+          }
+        ],
+        "catalogue_position": 14,
+        "status_in_this_pass": "catalogue_only"
+      },
+      {
+        "views": [
+          {
+            "title": "Human Experiences in the Ethereal Cosmos",
+            "url": "https://rsarchive.org/Lectures/GA218/English/SOL/19221207p01.html"
+          }
+        ],
+        "catalogue_position": 15,
+        "status_in_this_pass": "catalogue_only"
+      },
+      {
+        "views": [
+          {
+            "title": "The Ear",
+            "url": "https://rsarchive.org/Lectures/GA218/English/Singles/19221209p01.html"
+          },
+          {
+            "title": "Man and the Supernatural Worlds: Hearing, Speaking, Singing, Walking, Thinking",
+            "url": "https://rsarchive.org/Lectures/GA218/English/SOL/19221209p01.html"
+          }
+        ],
+        "catalogue_position": 16,
+        "status_in_this_pass": "complete_English_section_review",
+        "reviewed_url": "https://rsarchive.org/Lectures/GA218/English/SOL/19221209p01.html",
+        "audit_record": "research/organ-paragraph-review-cross-corpus-v28.json"
+      }
+    ]
+  }
+}

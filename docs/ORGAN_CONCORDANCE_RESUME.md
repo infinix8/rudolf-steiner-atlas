@@ -1,3 +1,21 @@
+# Organ concordance continuation checkpoint · Version 28
+
+**Next consecutive source:** [GA 102 III, 15 February 1908, §1](https://rsarchive.org/Lectures/GA102/English/SOL/19080215p01.html). Read through the whole lecture and then GA 102 IV–XIII. The catalogue includes differences between SOL and AP1961 lecture numbering. Match by date, title and body.
+
+**Completed English first passes:** GA 313–317, 61 catalogue views. GA 128, 8/8. GA 110, 12/12 (281 numbered positions and one continuation). In the wider corpus this phase read GA 102 I–II, GA 107 XIX, GA 205 VI (full recheck of v7), GA 208 I and GA 218 catalogue entry 16. Ten complete English readings in this phase, 301 numbered positions and five unnumbered supplements. Full German collation and independent exhaustive review remain open.
+
+- [Research findings and source comparisons](ORGAN_CONCORDANCE_SESSION_V28.md)
+- [Cumulative manuscript](Steiner_Organ_Evolution_Research_Atlas_v28.md) · [Word edition](Steiner_Organ_Evolution_Research_Atlas_v28.docx)
+- [306 source-unit records](../research/organ-paragraph-review-cross-corpus-v28.json) · [128 selected records](../research/organ-atomic-claims-cross-corpus-v28.json) · [17 selective German checks](../research/organ-german-checks-and-textual-issues-v28.json)
+- [GA 110 ledger](../research/organ-corpus-ledger-ga110-v28.json) · [five-volume catalogue inventory](../research/organ-priority-corpus-inventory-v28.json) · [organ dossiers](../research/organ-comparative-dossiers-v28.json)
+- [Provenance and prior manuscript hash](../research/organ-manuscript-provenance-v28.json)
+
+Keep GA 205 VI §18 German *Tobsucht* distinct from spurious SOL diagnostic renderings. GA 110 IX §§17–18 has Moon/Mars variation in German too. GA 110 Q&A II §10 uses ambiguous *Ton*. GA 218 December 9 §14 qualifies what kind of light is said to form the eye. Historical v27 GitHub and manuscript runs used overlapping ID sequences. Resolve a v27 claim with its file and URL; current v28 comparisons use the GitHub register.
+
+The remainder of the priority corpus, wider GA corpus, bilingual collation, exhaustive claim extraction and independent second review are still pending. Build on earlier selected dossiers. Historical corrections and questions in the prior checkpoint follow.
+
+---
+
 # Current organ evolution research continuation — Phase 27
 
 **Updated:** 5 November 2026. **Repository:** `infinix8/rudolf-steiner-atlas`. This is the canonical current checkpoint; the older Version 24 checkpoint is preserved in full below for provenance.

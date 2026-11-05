@@ -34,9 +34,9 @@ for src in data.get("sources", []):
     u = urlparse(src.get("url", ""))
     if u.scheme != "https" or u.hostname not in ("rsarchive.org", "www.rsarchive.org"):
         errors.append("unapproved archive URL for " + str(sid))
-    if src.get("kind") not in ("authored_book", "recorded_lecture", "authored_essay", "coauthored_circular_letter", "personal_meditation"):
+    if src.get("kind") not in ("authored_book", "recorded_lecture", "authored_essay", "coauthored_circular_letter", "personal_meditation", "questions_and_answers"):
         errors.append("missing / invalid original-source kind: " + str(sid))
-    if src.get("kind") == "recorded_lecture" and not src.get("lecture_date"):
+    if src.get("kind") in ("recorded_lecture", "questions_and_answers") and not src.get("lecture_date"):
         errors.append("undated lecture: " + str(sid))
     if not src.get("edition") or not src.get("unit") or not src.get("ga"):
         errors.append("incomplete bibliographic fields: " + str(sid))

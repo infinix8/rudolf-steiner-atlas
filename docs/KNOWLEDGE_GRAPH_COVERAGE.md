@@ -2,8 +2,8 @@
 
 Generated from local, original Atlas records; no external documents accessed.
 
-- **342 passage-qualified relationships**; **107 original source pages**.
-- **225 direct cross-domain graph connections**.
+- **352 passage-qualified relationships**; **117 original source pages**.
+- **232 direct cross-domain graph connections**.
 - **4 of 30 initial crosslinks** directly matched; **22** still have no matching exact-endpoint source evidence.
 - Source pages include alternate views of shared lecture events (GA313 IX / GA315 VII); page counts are not independent-event counts.
 - Source verification means **selected passages were checked**, not that full books were reviewed.
@@ -17,10 +17,10 @@ Generated from local, original Atlas records; no external documents accessed.
 | 03 | Esoteric Training, Initiation, and Spiritual Research | 13 |
 | 04 | Worldviews, Philosophy of Spirit, and Conceptual Structures | 6 |
 | 05 | Spiritual Worlds, Hierarchies, and Beings | 41 |
-| 06 | Cosmic Genesis, Earth Evolution, and the Future | 33 |
+| 06 | Cosmic Genesis, Earth Evolution, and the Future | 37 |
 | 07 | Nature Kingdoms, Elemental Beings, and the Living Earth | 24 |
-| 08 | Karma, Reincarnation, Death, and Spiritual Destiny | 22 |
-| 09 | Human Constitution: Body, Soul, and Spirit | 130 |
+| 08 | Karma, Reincarnation, Death, and Spiritual Destiny | 25 |
+| 09 | Human Constitution: Body, Soul, and Spirit | 134 |
 | 10 | Soul Life, Consciousness, Senses, and Psychology | 13 |
 | 11 | Life Course, Human Relations, and Embodied Biography | 18 |
 | 12 | Human Evolution and the Future of Consciousness | 10 |
@@ -29,7 +29,7 @@ Generated from local, original Atlas records; no external documents accessed.
 | 15 | Human History, Cultural Epochs, Peoples, and Civilizations | 7 |
 | 16 | Michael, Lucifer, Ahriman, and Spiritual Opposition | 5 |
 | 17 | Natural Sciences, Mathematics, Astronomy, and Technology | 10 |
-| 18 | Medicine, Therapeutics, Health, and Remedial Care | 131 |
+| 18 | Medicine, Therapeutics, Health, and Remedial Care | 137 |
 | 19 | Education, Waldorf Pedagogy, and Child Development | 13 |
 | 20 | Agriculture, Food, Nutrition, and Ecological Life | 9 |
 | 21 | Social Threefolding, Economics, Law, and Political Life | 7 |
@@ -150,6 +150,16 @@ Generated from local, original Atlas records; no external documents accessed.
 | [SG-GA110-06-V27](https://rsarchive.org/Lectures/GA110/English/SOL/19090415p01.html) | GA 110 — Spiritual Hierarchies and Their Reflection in the Physical World | 8 |
 | [SG-GA110-07-V27](https://rsarchive.org/Lectures/GA110/English/SOL/19090416p01.html) | GA 110 — Spiritual Hierarchies and Their Reflection in the Physical World | 9 |
 | [SG-GA110-08-V27](https://rsarchive.org/Lectures/GA110/English/SOL/19090417p01.html) | GA 110 — Spiritual Hierarchies and Their Reflection in the Physical World | 10 |
+| [SG-GA110-09-V28](https://rsarchive.org/Lectures/GA110/English/SOL/19090418a01.html) | GA 110 — Spiritual Hierarchies | 1 |
+| [SG-GA110-10-V28](https://rsarchive.org/Lectures/GA110/English/SOL/19090418p01.html) | GA 110 — Spiritual Hierarchies | 1 |
+| [SG-GA110-11-V28](https://rsarchive.org/Lectures/GA110/English/SOL/19090421p01.html) | GA 110 — Spiritual Hierarchies | 1 |
+| [SG-GA110-12-V28](https://rsarchive.org/Lectures/GA110/English/SOL/19090422a01.html) | GA 110 — Spiritual Hierarchies | 1 |
+| [SG-GA102-01-V28](https://rsarchive.org/Lectures/GA102/English/SOL/19080106p01.html) | GA 102 — The Influence of Spiritual Beings upon Man | 1 |
+| [SG-GA102-02-V28](https://rsarchive.org/Lectures/GA102/English/SOL/19080127p01.html) | GA 102 — The Influence of Spiritual Beings upon Man | 1 |
+| [SG-GA107-19-V28](https://rsarchive.org/Lectures/GA107/English/SOL/19090617p01.html) | GA 107 — Spiritual-Scientific Anthropology | 1 |
+| [SG-GA205-06-V28](https://rsarchive.org/Lectures/GA205/English/SOL/19210702p01.html) | GA 205 — Human-Becoming, World-Soul and World-Spirit I | 1 |
+| [SG-GA208-01-V28](https://rsarchive.org/Lectures/GA208/English/SOL/19211021p01.html) | GA 208 — Anthroposophy as Cosmosophy II | 1 |
+| [SG-GA218-16-V28](https://rsarchive.org/Lectures/GA218/English/SOL/19221209p01.html) | GA 218 — Spiritual Connections in the Structure of the Human Organism | 1 |
 
 ## Audit boundaries
 

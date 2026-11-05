@@ -1,3 +1,7 @@
+## 5 November 2026 · Organ concordance v28
+
+Completed the GA 110 English first pass and extended full-view reading into five additional volumes, including a recheck of GA 205 VI. Published the cumulative manuscript, 306 reader-reviewed unit records, 128 selected propositions and 17 German spot checks. [Findings](docs/ORGAN_CONCORDANCE_SESSION_V28.md).
+
 ## 2026-11-05 — Phase27 GA110 V–VIII depth and hierarchy matrix
 
 - **Repaired previously failing Atlas integrity CI** by regenerating stale graph and subdomain coverage reports; current source graph has **342 typed links**, **107 source-page records**, **225 cross-domain relations**, with 57 direct/54 descendant-only/39 absent subdomains.

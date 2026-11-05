@@ -1,0 +1,175 @@
+{
+  "scope": "Selective online German comparison only. Printed provenance and whole-lecture collation remain open.",
+  "checks": [
+    {
+      "id": "GER-28-01",
+      "entry": "GA110-09",
+      "section": 8,
+      "english_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090418a01.html",
+      "german_url": "https://rsarchive.org/Lectures/GA110/German/19090418a.html",
+      "terms": "Anlage, Brustpanzer, Oberkopfteil, Sprachorgan",
+      "note": "Read these as dispositions. The chest protection, upper head and speech organ are the subjects named.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-28-02",
+      "entry": "GA110-09",
+      "section": 9,
+      "english_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090418a01.html",
+      "german_url": "https://rsarchive.org/Lectures/GA110/German/19090418a.html",
+      "terms": "Kehlkopf, Arme, Füße",
+      "note": "This paragraph switches to depiction. The named ranks act collectively in the account of bodily dispositions.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-28-03",
+      "entry": "GA110-09",
+      "section": 13,
+      "english_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090418a01.html",
+      "german_url": "https://rsarchive.org/Lectures/GA110/German/19090418a.html",
+      "terms": "Zurückarbeiten, Umgestaltung",
+      "note": "The I is the agent working back into the received members.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-28-04",
+      "entry": "GA110-09",
+      "section": 14,
+      "english_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090418a01.html",
+      "german_url": "https://rsarchive.org/Lectures/GA110/German/19090418a.html",
+      "terms": "Abdruck",
+      "note": "An imprint in the etheric body is distinguished from completing its own transformation.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-28-05",
+      "entry": "GA110-09",
+      "section": 16,
+      "english_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090418a01.html",
+      "german_url": "https://rsarchive.org/Lectures/GA110/German/19090418a.html",
+      "terms": "hinzuopfern, übertragen",
+      "note": "Sacrifice and transfer of supersensible bodies are explicit; the human example is qualified by degree.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-28-06",
+      "entry": "GA110-09",
+      "section": "17–18",
+      "english_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090418a01.html",
+      "german_url": "https://rsarchive.org/Lectures/GA110/German/19090418a.html",
+      "terms": "Mond, Mars",
+      "note": "The German also moves from Moon to Mars when discussing the angels. Preserve the fluctuation; printed edition still to check.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-28-07",
+      "entry": "GA110-10",
+      "section": 18,
+      "english_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090418p01.html",
+      "german_url": "https://rsarchive.org/Lectures/GA110/German/19090418p.html",
+      "terms": "Blutwärme, Blutfeuer",
+      "note": "The same paragraph distinguishes material blood and elemental warmth before tracing the solar being from Moses to Jesus.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-28-08",
+      "entry": "GA110-10",
+      "section": "25–26",
+      "english_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090418p01.html",
+      "german_url": "https://rsarchive.org/Lectures/GA110/German/19090418p.html",
+      "terms": "Freiheit, Liebe",
+      "note": "Freedom is the condition for love, and humanity is a hierarchy in development.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-28-09",
+      "entry": "GA110-11",
+      "section": "29–30",
+      "english_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090421p01.html",
+      "german_url": "https://rsarchive.org/Lectures/GA110/German/19090421p.html",
+      "terms": "Vulkanentwickelung",
+      "note": "The question concerns development on Vulcan. SOL volcanic points readers toward the wrong subject.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-28-10",
+      "entry": "GA110-11",
+      "section": "34–35",
+      "english_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090421p01.html",
+      "german_url": "https://rsarchive.org/Lectures/GA110/German/19090421p.html",
+      "terms": "Blutsverwandtschaft, Blutsbande",
+      "note": "The separately numbered fragment finishes the previous sentence. The topic is kinship.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-28-11",
+      "entry": "GA110-12",
+      "section": 10,
+      "english_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090422a01.html",
+      "german_url": "https://rsarchive.org/Lectures/GA110/German/19090422a.html",
+      "terms": "Ton, Tonfiguren",
+      "note": "The passage moves from sound figures to solid form. Ton can mean sound or clay; SOL switches to clay. Preserve the acoustic context and lexical ambiguity.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-28-12",
+      "entry": "GA110-12",
+      "section": 27,
+      "english_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090422a01.html",
+      "german_url": "https://rsarchive.org/Lectures/GA110/German/19090422a.html",
+      "terms": "Manas, Budhi",
+      "note": "Angels and archangels appear as sources of strength in a discussion of freedom. No individual organ assignments occur.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-28-13",
+      "entry": "GA102-01",
+      "section": 16,
+      "english_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080106p01.html",
+      "german_url": "https://rsarchive.org/Lectures/GA102/German/19080106.html",
+      "terms": "Drüsensystem, Chylus",
+      "note": "Formation of glands and regulation of nutritive fluid are distinct actions of the etheric body in this lecture.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-28-14",
+      "entry": "GA102-01",
+      "section": "27–29",
+      "english_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080106p01.html",
+      "german_url": "https://rsarchive.org/Lectures/GA102/German/19080106.html",
+      "terms": "Ausdruck, Saturnkräfte, Größenverhältnis",
+      "note": "Expression and ongoing influence on the liver are distinct from claims about the first senses. The two liver figures are proportions to the rest of the body.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-28-15",
+      "entry": "GA102-02",
+      "section": 22,
+      "english_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080127p01.html",
+      "german_url": "https://rsarchive.org/Lectures/GA102/German/19080127.html",
+      "terms": "Hüllen, Waage",
+      "note": "German says sheaths to receive the I. Libra and balance share a word. SOL physical bodies narrows the first term.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-28-16",
+      "entry": "GA205-06",
+      "section": 18,
+      "english_url": "https://rsarchive.org/Lectures/GA205/English/SOL/19210702p01.html",
+      "german_url": "https://rsarchive.org/Lectures/GA205/German/19210702.html",
+      "terms": "Tobsucht",
+      "note": "The German repeatedly names a single condition, roughly frenzy or raving. SOL alternates rage, rabies and epilepsy. Index the historical term without retrodiagnosis.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-28-17",
+      "entry": "GA218-16",
+      "section": 14,
+      "english_url": "https://rsarchive.org/Lectures/GA218/English/SOL/19221209p01.html",
+      "german_url": "https://rsarchive.org/Lectures/GA218/German/19221209.html",
+      "terms": "Geist des Lichtes",
+      "note": "Formative light is explicitly its spiritual aspect. Ordinary visible light is what the formed eye subsequently sees.",
+      "status": "German_spot_checked"
+    }
+  ]
+}

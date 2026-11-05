@@ -2091,6 +2091,196 @@
         "archive_url_checked": true,
         "full_translation_collation": false
       }
+    },
+    {
+      "id": "SG-GA110-09-V28",
+      "ga": "110",
+      "work": "Spiritual Hierarchies",
+      "unit": "Ninth lecture",
+      "kind": "recorded_lecture",
+      "edition": "Steiner Online Library English",
+      "lecture_date": "1909-04-18",
+      "url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090418a01.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Selected graph claim from a complete English view review.",
+        "checked_on": "2026-11-05",
+        "archive_page_opened_on": "2026-11-05",
+        "archive_url_checked": true,
+        "entire_work_reviewed": false,
+        "full_translation_collation": false
+      }
+    },
+    {
+      "id": "SG-GA110-10-V28",
+      "ga": "110",
+      "work": "Spiritual Hierarchies",
+      "unit": "Tenth lecture",
+      "kind": "recorded_lecture",
+      "edition": "Steiner Online Library English",
+      "lecture_date": "1909-04-18",
+      "url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090418p01.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Selected graph claim from a complete English view review.",
+        "checked_on": "2026-11-05",
+        "archive_page_opened_on": "2026-11-05",
+        "archive_url_checked": true,
+        "entire_work_reviewed": false,
+        "full_translation_collation": false
+      }
+    },
+    {
+      "id": "SG-GA110-11-V28",
+      "ga": "110",
+      "work": "Spiritual Hierarchies",
+      "unit": "Questions and Answers I",
+      "kind": "questions_and_answers",
+      "edition": "Steiner Online Library English",
+      "lecture_date": "1909-04-21",
+      "url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090421p01.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Selected graph claim from a complete English view review.",
+        "checked_on": "2026-11-05",
+        "archive_page_opened_on": "2026-11-05",
+        "archive_url_checked": true,
+        "entire_work_reviewed": false,
+        "full_translation_collation": false
+      }
+    },
+    {
+      "id": "SG-GA110-12-V28",
+      "ga": "110",
+      "work": "Spiritual Hierarchies",
+      "unit": "Questions and Answers II",
+      "kind": "questions_and_answers",
+      "edition": "Steiner Online Library English",
+      "lecture_date": "1909-04-22",
+      "url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090422a01.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Selected graph claim from a complete English view review.",
+        "checked_on": "2026-11-05",
+        "archive_page_opened_on": "2026-11-05",
+        "archive_url_checked": true,
+        "entire_work_reviewed": false,
+        "full_translation_collation": false
+      }
+    },
+    {
+      "id": "SG-GA102-01-V28",
+      "ga": "102",
+      "work": "The Influence of Spiritual Beings upon Man",
+      "unit": "First Lecture",
+      "kind": "recorded_lecture",
+      "edition": "Steiner Online Library English",
+      "lecture_date": "1908-01-06",
+      "url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080106p01.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Selected graph claim from a complete English view review.",
+        "checked_on": "2026-11-05",
+        "archive_page_opened_on": "2026-11-05",
+        "archive_url_checked": true,
+        "entire_work_reviewed": false,
+        "full_translation_collation": false
+      }
+    },
+    {
+      "id": "SG-GA102-02-V28",
+      "ga": "102",
+      "work": "The Influence of Spiritual Beings upon Man",
+      "unit": "Second Lecture",
+      "kind": "recorded_lecture",
+      "edition": "Steiner Online Library English",
+      "lecture_date": "1908-01-27",
+      "url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080127p01.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Selected graph claim from a complete English view review.",
+        "checked_on": "2026-11-05",
+        "archive_page_opened_on": "2026-11-05",
+        "archive_url_checked": true,
+        "entire_work_reviewed": false,
+        "full_translation_collation": false
+      }
+    },
+    {
+      "id": "SG-GA107-19-V28",
+      "ga": "107",
+      "work": "Spiritual-Scientific Anthropology",
+      "unit": "Nineteenth Lecture",
+      "kind": "recorded_lecture",
+      "edition": "Steiner Online Library English",
+      "lecture_date": "1909-06-17",
+      "url": "https://rsarchive.org/Lectures/GA107/English/SOL/19090617p01.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Selected graph claim from a complete English view review.",
+        "checked_on": "2026-11-05",
+        "archive_page_opened_on": "2026-11-05",
+        "archive_url_checked": true,
+        "entire_work_reviewed": false,
+        "full_translation_collation": false
+      }
+    },
+    {
+      "id": "SG-GA205-06-V28",
+      "ga": "205",
+      "work": "Human-Becoming, World-Soul and World-Spirit I",
+      "unit": "Sixth Lecture",
+      "kind": "recorded_lecture",
+      "edition": "Steiner Online Library English",
+      "lecture_date": "1921-07-02",
+      "url": "https://rsarchive.org/Lectures/GA205/English/SOL/19210702p01.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Selected graph claim from a complete English view review.",
+        "checked_on": "2026-11-05",
+        "archive_page_opened_on": "2026-11-05",
+        "archive_url_checked": true,
+        "entire_work_reviewed": false,
+        "full_translation_collation": false
+      }
+    },
+    {
+      "id": "SG-GA208-01-V28",
+      "ga": "208",
+      "work": "Anthroposophy as Cosmosophy II",
+      "unit": "First Lecture",
+      "kind": "recorded_lecture",
+      "edition": "Steiner Online Library English",
+      "lecture_date": "1921-10-21",
+      "url": "https://rsarchive.org/Lectures/GA208/English/SOL/19211021p01.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Selected graph claim from a complete English view review.",
+        "checked_on": "2026-11-05",
+        "archive_page_opened_on": "2026-11-05",
+        "archive_url_checked": true,
+        "entire_work_reviewed": false,
+        "full_translation_collation": false
+      }
+    },
+    {
+      "id": "SG-GA218-16-V28",
+      "ga": "218",
+      "work": "Spiritual Connections in the Structure of the Human Organism",
+      "unit": "Man and the Supernatural Worlds: Hearing, Speaking, Singing, Walking, Thinking",
+      "kind": "recorded_lecture",
+      "edition": "Steiner Online Library English",
+      "lecture_date": "1922-12-09",
+      "url": "https://rsarchive.org/Lectures/GA218/English/SOL/19221209p01.html",
+      "review": {
+        "status": "selected_passages_checked",
+        "scope": "Selected graph claim from a complete English view review.",
+        "checked_on": "2026-11-05",
+        "archive_page_opened_on": "2026-11-05",
+        "archive_url_checked": true,
+        "entire_work_reviewed": false,
+        "full_translation_collation": false
+      }
     }
   ],
   "edges": [
@@ -7977,6 +8167,186 @@
       ],
       "claim": "Steiner attributes emergence of the I to the Earth stage, contrasting Old Moon astral-consciousness formation.",
       "note": "Primary Steiner historical/esoteric assertion only; not independent scientific, anatomical, astronomical or cultural-historical validation. Additional detailed assessment in GA110 v27 paragraph/claim records."
+    },
+    {
+      "id": "KG-343",
+      "from": "RS-06.03.01",
+      "to": "RS-06.01.01",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA110-09-V28",
+          "passage_locator": "English §8"
+        }
+      ],
+      "claim": "The physical body's first disposition precedes both etheric and astral permeation.",
+      "note": "Historical attribution. ORG-CLAIM-V28-004",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-344",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA110-10-V28",
+          "passage_locator": "English §18"
+        }
+      ],
+      "claim": "Blood is the material expression of the I.",
+      "note": "Historical attribution. ORG-CLAIM-V28-030",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-345",
+      "from": "RS-08.02.03",
+      "to": "RS-08.01.02",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA110-11-V28",
+          "passage_locator": "English §34"
+        }
+      ],
+      "claim": "Family descent can express prior karma while new relationships can also arise; blood here means kinship.",
+      "note": "Historical attribution. ORG-CLAIM-V28-043",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-346",
+      "from": "RS-18.02.01",
+      "to": "RS-06.03.01",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA110-12-V28",
+          "passage_locator": "English §10"
+        }
+      ],
+      "claim": "The notes represent light as formative of the eye.",
+      "note": "Historical attribution. ORG-CLAIM-V28-045",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-347",
+      "from": "RS-18.02.01",
+      "to": "RS-09.01.03",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA102-01-V28",
+          "passage_locator": "English §16"
+        }
+      ],
+      "claim": "The astral body is said to build the nervous system.",
+      "note": "Historical attribution. ORG-CLAIM-V28-057",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-348",
+      "from": "RS-06.03.05",
+      "to": "RS-06.03.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA102-02-V28",
+          "passage_locator": "English §22"
+        }
+      ],
+      "claim": "Earlier beings prepared the bodily sheaths that could receive the I.",
+      "note": "Historical attribution. ORG-CLAIM-V28-079",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-349",
+      "from": "RS-09.01.04",
+      "to": "RS-06.05.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA107-19-V28",
+          "passage_locator": "English §16"
+        }
+      ],
+      "claim": "What individuals create through the I becomes a medium for the Spirits of Personality.",
+      "note": "Historical attribution. ORG-CLAIM-V28-118",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-350",
+      "from": "RS-18.02.04",
+      "to": "RS-08.02.02",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA205-06-V28",
+          "passage_locator": "English §14"
+        }
+      ],
+      "claim": "Steiner locates dispositions for future karma in the heart's interior, mediated by limb-metabolic activity.",
+      "note": "Historical attribution. ORG-CLAIM-V28-093",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-351",
+      "from": "RS-18.02",
+      "to": "RS-09.01.04",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA208-01-V28",
+          "passage_locator": "English §8"
+        }
+      ],
+      "claim": "The senses give a person access to observable expressions of their own will.",
+      "note": "Historical attribution. ORG-CLAIM-V28-123",
+      "relation_family": "attributed_process_and_causation"
+    },
+    {
+      "id": "KG-352",
+      "from": "RS-18.02.01",
+      "to": "RS-08.03.06",
+      "type": "historically_asserted_relation",
+      "direction": "from_to",
+      "evidence_basis": "direct",
+      "status": "selected_passage_checked",
+      "evidence": [
+        {
+          "source_id": "SG-GA218-16-V28",
+          "passage_locator": "English §2"
+        }
+      ],
+      "claim": "The human being and higher beings are said to shape the inner form of eye and ear before birth.",
+      "note": "Historical attribution. ORG-CLAIM-V28-100",
+      "relation_family": "attributed_process_and_causation"
     }
   ],
   "version": "1.1",

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Validate the live organ Atlas manifest, GA110 v27 progression and provenance.
+"""Validate the preserved phase 27 Atlas manifest, GA110 v27 progression and provenance.
 
 Structural checks only; this does not certify Steiner's metaphysical claims,
 modern medicine, exhaustive translation comparison or independent scholarship.
@@ -13,7 +13,7 @@ ROOT=Path(__file__).resolve().parents[1]
 def load(path):
     return json.loads((ROOT/path).read_text(encoding="utf-8"))
 
-manifest=load("research/organ-current.json")
+manifest=load("research/organ-current-v27.json")
 assert manifest["research_phase"]==27
 paths=manifest["files"]
 for key,value in paths.items():
@@ -96,7 +96,7 @@ for x in rows:
     c=claim_index[x["source_claim_id"]]
     assert x["source_url"]==c["source_url"]
     assert x["source_id"]==c["catalogue_entry_id"]
-    assert x["passage_locator"]==c["passage_cue"]
+    assert x["passage_locator"].removeprefix("SOL ")==c["passage_cue"].removeprefix("SOL ")
     assert x["relation_kind"] in matrix["allowed_relation_kinds"]
     assert x["exclusive_organ_builder"] is False
     assert len(x["caution"])>=20
