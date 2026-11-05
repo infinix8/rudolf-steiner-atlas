@@ -42,6 +42,10 @@ jobs:
           test -s dist/atlas/index.html
           test -s dist/atlas/mobile-preview.html
           test -s dist/atlas/body.html
+          test -s dist/atlas/organ-detail.html
+          test -s dist/atlas/organ-detail.js
+          test -s dist/atlas/organ-detail.css
+          test -s dist/research/organ-atlas-guides-v1.json
           test -s dist/research/organ-body-map-v1.json
           test -s dist/atlas/organs.html
           test -s dist/atlas/graph.html
@@ -64,6 +68,7 @@ jobs:
               assert Path('dist', rel).is_file(), f'Missing Atlas asset: {rel}'
           print('All thematic and organ data dependencies present')
           PY
+          python3 tools/validate_visual_organ_atlas.py
           du -sh dist
 
       - name: Configure GitHub Pages
