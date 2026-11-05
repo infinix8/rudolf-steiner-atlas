@@ -1,0 +1,1481 @@
+{
+  "schema_version": "1.0",
+  "as_of": "2026-11-05",
+  "scope": "Selected 47 narrow original-editorial claims extracted after English source-view reading. Excludes claims of global novelty. Exact source and paragraph cues retained; contextual esoteric assertions require careful distinction.",
+  "records": [
+    {
+      "id": "ORG-CLAIM-V27-001",
+      "catalogue_entry_id": "GA110-05",
+      "ga": 110,
+      "date": "1909-04-14",
+      "lecture": 5,
+      "section": 3,
+      "passage_cue": "SOL English §3",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090414p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole physical body"
+      ],
+      "agent": null,
+      "agent_scope": "The cited passage does not assign an exclusive spiritual builder of a single modern anatomical organ.",
+      "predicate": "higher_beings_present_around_old_saturn",
+      "temporal_framework": "Old Saturn",
+      "paraphrase": "In GA110, Cherubim and Seraphim were present outside Old Saturn, while Thrones supplied warmth-substance into it.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Full German translation collation not performed.",
+      "reconciliation": {
+        "decision": "candidate_unpaired",
+        "prior_claim_ids": [],
+        "scope": "Cited textual relation; overlap with earlier v26 and other GA volumes not exhaustively checked. Does not assert global novelty."
+      },
+      "caveats": [
+        "higher hierarchy cooperative roles",
+        "Historical Steiner metaphysical account; not independently established medicine, historical archaeology or astronomy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V27-002",
+      "catalogue_entry_id": "GA110-05",
+      "ga": 110,
+      "date": "1909-04-14",
+      "lecture": 5,
+      "section": 4,
+      "passage_cue": "SOL English §4",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090414p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "agent_scope": "The cited passage does not assign an exclusive spiritual builder of a single modern anatomical organ.",
+      "predicate": "seven_planetary_embodiments",
+      "temporal_framework": "seven planetary embodiments",
+      "paraphrase": "In GA110, Steiner gives Saturn–Sun–Moon–Earth–Jupiter–Venus–Vulcan as the succession of planetary embodiments, distinct from current planets.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Full German translation collation not performed.",
+      "reconciliation": {
+        "decision": "candidate_unpaired",
+        "prior_claim_ids": [],
+        "scope": "Cited textual relation; overlap with earlier v26 and other GA volumes not exhaustively checked. Does not assert global novelty."
+      },
+      "caveats": [
+        "stage-order definition",
+        "Historical Steiner metaphysical account; not independently established medicine, historical archaeology or astronomy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V27-003",
+      "catalogue_entry_id": "GA110-05",
+      "ga": 110,
+      "date": "1909-04-14",
+      "lecture": 5,
+      "section": 6,
+      "passage_cue": "SOL English §6",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090414p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole physical body"
+      ],
+      "agent": null,
+      "agent_scope": "The cited passage does not assign an exclusive spiritual builder of a single modern anatomical organ.",
+      "predicate": "past_system_for_first_hierarchy",
+      "temporal_framework": "pre-Old-Saturn cosmic prehistory",
+      "paraphrase": "In GA110, Thrones, Cherubim and Seraphim are portrayed as having completed an earlier whole cosmic system before creative work on Old Saturn.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Full German translation collation not performed.",
+      "reconciliation": {
+        "decision": "candidate_unpaired",
+        "prior_claim_ids": [],
+        "scope": "Cited textual relation; overlap with earlier v26 and other GA volumes not exhaustively checked. Does not assert global novelty."
+      },
+      "caveats": [
+        "historical cosmic conjecture",
+        "Historical Steiner metaphysical account; not independently established medicine, historical archaeology or astronomy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V27-004",
+      "catalogue_entry_id": "GA110-05",
+      "ga": 110,
+      "date": "1909-04-14",
+      "lecture": 5,
+      "section": 7,
+      "passage_cue": "SOL English §7",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090414p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole physical body"
+      ],
+      "agent": null,
+      "agent_scope": "The cited passage does not assign an exclusive spiritual builder of a single modern anatomical organ.",
+      "predicate": "seraphim_receive_cosmic_goals",
+      "temporal_framework": "cosmic origins",
+      "paraphrase": "In GA110, Seraphim receive the aims of a new world system in Steiner's explicitly figurative description.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Full German translation collation not performed.",
+      "reconciliation": {
+        "decision": "candidate_unpaired",
+        "prior_claim_ids": [],
+        "scope": "Cited textual relation; overlap with earlier v26 and other GA volumes not exhaustively checked. Does not assert global novelty."
+      },
+      "caveats": [
+        "goal reception not substance donation",
+        "Historical Steiner metaphysical account; not independently established medicine, historical archaeology or astronomy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V27-005",
+      "catalogue_entry_id": "GA110-05",
+      "ga": 110,
+      "date": "1909-04-14",
+      "lecture": 5,
+      "section": 7,
+      "passage_cue": "SOL English §7",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090414p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole physical body"
+      ],
+      "agent": null,
+      "agent_scope": "The cited passage does not assign an exclusive spiritual builder of a single modern anatomical organ.",
+      "predicate": "cherubim_elaborate_cosmic_goals",
+      "temporal_framework": "cosmic origins",
+      "paraphrase": "In GA110, Cherubim are said to develop in wisdom the aims received by Seraphim, distinct from the Thrones' substantializing role.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Full German translation collation not performed.",
+      "reconciliation": {
+        "decision": "candidate_unpaired",
+        "prior_claim_ids": [],
+        "scope": "Cited textual relation; overlap with earlier v26 and other GA volumes not exhaustively checked. Does not assert global novelty."
+      },
+      "caveats": [
+        "plan interpretation not organ building",
+        "Historical Steiner metaphysical account; not independently established medicine, historical archaeology or astronomy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V27-006",
+      "catalogue_entry_id": "GA110-05",
+      "ga": 110,
+      "date": "1909-04-14",
+      "lecture": 5,
+      "section": 8,
+      "passage_cue": "SOL English §8",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090414p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "physical body"
+      ],
+      "agent": null,
+      "agent_scope": "The cited passage does not assign an exclusive spiritual builder of a single modern anatomical organ.",
+      "predicate": "thrones_donate_original_warmth",
+      "temporal_framework": "Old Saturn warmth",
+      "paraphrase": "In GA110, Thrones are said to give their own being as initial warmth, distinct from the planning roles of higher ranks.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Full German translation collation not performed.",
+      "reconciliation": {
+        "decision": "candidate_unpaired",
+        "prior_claim_ids": [],
+        "scope": "Cited textual relation; overlap with earlier v26 and other GA volumes not exhaustively checked. Does not assert global novelty."
+      },
+      "caveats": [
+        "substance donor not sole creator",
+        "Historical Steiner metaphysical account; not independently established medicine, historical archaeology or astronomy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V27-007",
+      "catalogue_entry_id": "GA110-05",
+      "ga": 110,
+      "date": "1909-04-14",
+      "lecture": 5,
+      "section": 10,
+      "passage_cue": "SOL English §10",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090414p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "agent_scope": "The cited passage does not assign an exclusive spiritual builder of a single modern anatomical organ.",
+      "predicate": "inside_outside_hierarchy_distinguished",
+      "temporal_framework": "Old Saturn hierarchy topology",
+      "paraphrase": "In GA110, First hierarchy activity is depicted around the Saturn sphere, while Kyriotetes, Dynamis and Exusiai act inside.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Full German translation collation not performed.",
+      "reconciliation": {
+        "decision": "candidate_unpaired",
+        "prior_claim_ids": [],
+        "scope": "Cited textual relation; overlap with earlier v26 and other GA volumes not exhaustively checked. Does not assert global novelty."
+      },
+      "caveats": [
+        "spatial esoteric analogy",
+        "Historical Steiner metaphysical account; not independently established medicine, historical archaeology or astronomy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V27-008",
+      "catalogue_entry_id": "GA110-05",
+      "ga": 110,
+      "date": "1909-04-14",
+      "lecture": 5,
+      "section": 12,
+      "passage_cue": "SOL English §12",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090414p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole physical body"
+      ],
+      "agent": null,
+      "agent_scope": "The cited passage does not assign an exclusive spiritual builder of a single modern anatomical organ.",
+      "predicate": "kyriotetes_order_saturn_impulses",
+      "temporal_framework": "Old Saturn",
+      "paraphrase": "In GA110, Kyriotetes order incoming activity to establish concordance between Saturn and its wider cosmic environment.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Full German translation collation not performed.",
+      "reconciliation": {
+        "decision": "candidate_unpaired",
+        "prior_claim_ids": [],
+        "scope": "Cited textual relation; overlap with earlier v26 and other GA volumes not exhaustively checked. Does not assert global novelty."
+      },
+      "caveats": [
+        "coordination predicate",
+        "Historical Steiner metaphysical account; not independently established medicine, historical archaeology or astronomy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V27-009",
+      "catalogue_entry_id": "GA110-05",
+      "ga": 110,
+      "date": "1909-04-14",
+      "lecture": 5,
+      "section": 13,
+      "passage_cue": "SOL English §13",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090414p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole physical body"
+      ],
+      "agent": null,
+      "agent_scope": "The cited passage does not assign an exclusive spiritual builder of a single modern anatomical organ.",
+      "predicate": "dynamis_execute_higher_arrangements",
+      "temporal_framework": "Old Saturn",
+      "paraphrase": "In GA110, Dynamis or Mächte are described as executing arrangements given by Kyriotetes, rather than originating them.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selected German §13 consulted for rank differentiation; printed edition collation pending.",
+      "reconciliation": {
+        "decision": "candidate_unpaired",
+        "prior_claim_ids": [],
+        "scope": "Cited textual relation; overlap with earlier v26 and other GA volumes not exhaustively checked. Does not assert global novelty."
+      },
+      "caveats": [
+        "executor predicate",
+        "Historical Steiner metaphysical account; not independently established medicine, historical archaeology or astronomy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V27-010",
+      "catalogue_entry_id": "GA110-05",
+      "ga": 110,
+      "date": "1909-04-14",
+      "lecture": 5,
+      "section": 13,
+      "passage_cue": "SOL English §13",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090414p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole physical body"
+      ],
+      "agent": null,
+      "agent_scope": "The cited passage does not assign an exclusive spiritual builder of a single modern anatomical organ.",
+      "predicate": "exusiai_preserve_cosmic_structures",
+      "temporal_framework": "Old Saturn",
+      "paraphrase": "In GA110, Gewalten (Exusiai or Spirits of Form) are assigned an enduring or preserving role in the original German; English hierarchy names here are unstable.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selected German §13 consulted for rank differentiation; printed edition collation pending.",
+      "reconciliation": {
+        "decision": "candidate_unpaired",
+        "prior_claim_ids": [],
+        "scope": "Cited textual relation; overlap with earlier v26 and other GA volumes not exhaustively checked. Does not assert global novelty."
+      },
+      "caveats": [
+        "preservation predicate; German checked",
+        "Historical Steiner metaphysical account; not independently established medicine, historical archaeology or astronomy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V27-011",
+      "catalogue_entry_id": "GA110-05",
+      "ga": 110,
+      "date": "1909-04-14",
+      "lecture": 5,
+      "section": 16,
+      "passage_cue": "SOL English §16",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090414p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole physical body"
+      ],
+      "agent": null,
+      "agent_scope": "The cited passage does not assign an exclusive spiritual builder of a single modern anatomical organ.",
+      "predicate": "kyriotetes_condense_warmth_to_air",
+      "temporal_framework": "Old Saturn to Old Sun",
+      "paraphrase": "In GA110, Steiner attributes the contraction from Old Saturn warmth to Old Sun air/gas to the Spirits of Wisdom.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Full German translation collation not performed.",
+      "reconciliation": {
+        "decision": "candidate_unpaired",
+        "prior_claim_ids": [],
+        "scope": "Cited textual relation; overlap with earlier v26 and other GA volumes not exhaustively checked. Does not assert global novelty."
+      },
+      "caveats": [
+        "cosmic condensation, not anatomy",
+        "Historical Steiner metaphysical account; not independently established medicine, historical archaeology or astronomy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V27-012",
+      "catalogue_entry_id": "GA110-05",
+      "ga": 110,
+      "date": "1909-04-14",
+      "lecture": 5,
+      "section": 17,
+      "passage_cue": "SOL English §17",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090414p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "agent_scope": "The cited passage does not assign an exclusive spiritual builder of a single modern anatomical organ.",
+      "predicate": "dynamis_condense_old_sun_to_water",
+      "temporal_framework": "Old Sun to Old Moon",
+      "paraphrase": "In GA110, Old Moon's watery condition is attributed to the Dynamis or Spirits of Motion, as a different event than Old Sun air.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Full German translation collation not performed.",
+      "reconciliation": {
+        "decision": "candidate_unpaired",
+        "prior_claim_ids": [],
+        "scope": "Cited textual relation; overlap with earlier v26 and other GA volumes not exhaustively checked. Does not assert global novelty."
+      },
+      "caveats": [
+        "stage-specific cosmic process",
+        "Historical Steiner metaphysical account; not independently established medicine, historical archaeology or astronomy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V27-013",
+      "catalogue_entry_id": "GA110-05",
+      "ga": 110,
+      "date": "1909-04-14",
+      "lecture": 5,
+      "section": 19,
+      "passage_cue": "SOL English §19",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090414p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "agent_scope": "The cited passage does not assign an exclusive spiritual builder of a single modern anatomical organ.",
+      "predicate": "advanced_lagging_dynamis_separate_sun_moon",
+      "temporal_framework": "Old Moon",
+      "paraphrase": "In GA110, Separation of the Old Moon's Sun and Moon portions is attributed to differing maturity among Dynamis.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Full German translation collation not performed.",
+      "reconciliation": {
+        "decision": "candidate_unpaired",
+        "prior_claim_ids": [],
+        "scope": "Cited textual relation; overlap with earlier v26 and other GA volumes not exhaustively checked. Does not assert global novelty."
+      },
+      "caveats": [
+        "cosmic conflict; distinct from current celestial bodies",
+        "Historical Steiner metaphysical account; not independently established medicine, historical archaeology or astronomy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V27-014",
+      "catalogue_entry_id": "GA110-06",
+      "ga": 110,
+      "date": "1909-04-15",
+      "lecture": 6,
+      "section": 3,
+      "passage_cue": "SOL English §3",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090415p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "agent_scope": "The cited passage does not assign an exclusive spiritual builder of a single modern anatomical organ.",
+      "predicate": "angel_humanity_on_old_moon",
+      "temporal_framework": "Old Moon",
+      "paraphrase": "In GA110, Angels are said to have passed their human stage on Old Moon, an evolutionary stage rather than a present lunar residence.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Full German translation collation not performed.",
+      "reconciliation": {
+        "decision": "candidate_unpaired",
+        "prior_claim_ids": [],
+        "scope": "Cited textual relation; overlap with earlier v26 and other GA volumes not exhaustively checked. Does not assert global novelty."
+      },
+      "caveats": [
+        "rank prior-development predicate",
+        "Historical Steiner metaphysical account; not independently established medicine, historical archaeology or astronomy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V27-015",
+      "catalogue_entry_id": "GA110-06",
+      "ga": 110,
+      "date": "1909-04-15",
+      "lecture": 6,
+      "section": 5,
+      "passage_cue": "SOL English §5",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090415p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "I organization"
+      ],
+      "agent": null,
+      "agent_scope": "The cited passage does not assign an exclusive spiritual builder of a single modern anatomical organ.",
+      "predicate": "angels_guard_across_lives_not_karma",
+      "temporal_framework": "reincarnational continuity",
+      "paraphrase": "In GA110, Angels are described as preserving a person's individuality across claimed incarnations; Steiner expressly distinguishes them from karma-governing beings.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Full German translation collation not performed.",
+      "reconciliation": {
+        "decision": "candidate_unpaired",
+        "prior_claim_ids": [],
+        "scope": "Cited textual relation; overlap with earlier v26 and other GA volumes not exhaustively checked. Does not assert global novelty."
+      },
+      "caveats": [
+        "guardianship not karma causation",
+        "Historical Steiner metaphysical account; not independently established medicine, historical archaeology or astronomy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V27-016",
+      "catalogue_entry_id": "GA110-06",
+      "ga": 110,
+      "date": "1909-04-15",
+      "lecture": 6,
+      "section": 6,
+      "passage_cue": "SOL English §6",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090415p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "I organization"
+      ],
+      "agent": null,
+      "agent_scope": "The cited passage does not assign an exclusive spiritual builder of a single modern anatomical organ.",
+      "predicate": "archangels_group_organization",
+      "temporal_framework": "Earth historical groups",
+      "paraphrase": "In GA110, Archangels are portrayed as connecting individuals with collectives, using racialized concepts needing explicit historical qualification.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Full German translation collation not performed.",
+      "reconciliation": {
+        "decision": "candidate_unpaired",
+        "prior_claim_ids": [],
+        "scope": "Cited textual relation; overlap with earlier v26 and other GA volumes not exhaustively checked. Does not assert global novelty."
+      },
+      "caveats": [
+        "historical esoteric and racialized framework",
+        "Historical Steiner metaphysical account; not independently established medicine, historical archaeology or astronomy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V27-017",
+      "catalogue_entry_id": "GA110-06",
+      "ga": 110,
+      "date": "1909-04-15",
+      "lecture": 6,
+      "section": 6,
+      "passage_cue": "SOL English §6",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090415p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "agent_scope": "The cited passage does not assign an exclusive spiritual builder of a single modern anatomical organ.",
+      "predicate": "archai_govern_historical_epochs",
+      "temporal_framework": "Earth cultural epochs",
+      "paraphrase": "In GA110, Archai or Spirits of Personality are assigned guidance of entire cultural epochs, distinct from archangelic group roles.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Full German translation collation not performed.",
+      "reconciliation": {
+        "decision": "candidate_unpaired",
+        "prior_claim_ids": [],
+        "scope": "Cited textual relation; overlap with earlier v26 and other GA volumes not exhaustively checked. Does not assert global novelty."
+      },
+      "caveats": [
+        "time-spirit framing",
+        "Historical Steiner metaphysical account; not independently established medicine, historical archaeology or astronomy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V27-018",
+      "catalogue_entry_id": "GA110-06",
+      "ga": 110,
+      "date": "1909-04-15",
+      "lecture": 6,
+      "section": 7,
+      "passage_cue": "SOL English §7",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090415p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "agent_scope": "The cited passage does not assign an exclusive spiritual builder of a single modern anatomical organ.",
+      "predicate": "exusiai_guide_between_planetary_stages",
+      "temporal_framework": "Earth to Jupiter and other embodiments",
+      "paraphrase": "In GA110, Spirits of Form are assigned the transfer or direction of human evolution between planetary embodiments.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Full German translation collation not performed.",
+      "reconciliation": {
+        "decision": "candidate_unpaired",
+        "prior_claim_ids": [],
+        "scope": "Cited textual relation; overlap with earlier v26 and other GA volumes not exhaustively checked. Does not assert global novelty."
+      },
+      "caveats": [
+        "future transition predicate",
+        "Historical Steiner metaphysical account; not independently established medicine, historical archaeology or astronomy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V27-019",
+      "catalogue_entry_id": "GA110-06",
+      "ga": 110,
+      "date": "1909-04-15",
+      "lecture": 6,
+      "section": 13,
+      "passage_cue": "SOL English §13",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090415p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "agent_scope": "The cited passage does not assign an exclusive spiritual builder of a single modern anatomical organ.",
+      "predicate": "mercury_venus_historical_names_switch",
+      "temporal_framework": "planetary sphere terminology",
+      "paraphrase": "In GA110, Steiner says esoteric Mercury/Venus names correspond oppositely to modern planetary names; this requires source-specific nomenclature, not physical astronomy.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Full German translation collation not performed.",
+      "reconciliation": {
+        "decision": "candidate_unpaired",
+        "prior_claim_ids": [],
+        "scope": "Cited textual relation; overlap with earlier v26 and other GA volumes not exhaustively checked. Does not assert global novelty."
+      },
+      "caveats": [
+        "translation and naming qualification",
+        "Historical Steiner metaphysical account; not independently established medicine, historical archaeology or astronomy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V27-020",
+      "catalogue_entry_id": "GA110-06",
+      "ga": 110,
+      "date": "1909-04-15",
+      "lecture": 6,
+      "section": 17,
+      "passage_cue": "SOL English §17",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090415p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "senses"
+      ],
+      "agent": null,
+      "agent_scope": "The cited passage does not assign an exclusive spiritual builder of a single modern anatomical organ.",
+      "predicate": "geocentric_spiritual_not_physical_heliocentric",
+      "temporal_framework": "perspective distinction",
+      "paraphrase": "In GA110, The Earth-centered hierarchy-sphere system is distinguished from heliocentric physical observations rather than offered as the same physical calculation.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Full German translation collation not performed.",
+      "reconciliation": {
+        "decision": "candidate_unpaired",
+        "prior_claim_ids": [],
+        "scope": "Cited textual relation; overlap with earlier v26 and other GA volumes not exhaustively checked. Does not assert global novelty."
+      },
+      "caveats": [
+        "not empirically established hierarchy spheres",
+        "Historical Steiner metaphysical account; not independently established medicine, historical archaeology or astronomy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V27-021",
+      "catalogue_entry_id": "GA110-06",
+      "ga": 110,
+      "date": "1909-04-15",
+      "lecture": 6,
+      "section": 18,
+      "passage_cue": "SOL English §18",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090415p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "agent_scope": "The cited passage does not assign an exclusive spiritual builder of a single modern anatomical organ.",
+      "predicate": "angels_moon_archangels_mercury_sphere",
+      "temporal_framework": "Earth-centered hierarchy spheres",
+      "paraphrase": "In GA110, Angels and Archangels are placed within influence regions bounded by Moon and esoteric Mercury, not simply located on those planets.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Full German translation collation not performed.",
+      "reconciliation": {
+        "decision": "candidate_unpaired",
+        "prior_claim_ids": [],
+        "scope": "Cited textual relation; overlap with earlier v26 and other GA volumes not exhaustively checked. Does not assert global novelty."
+      },
+      "caveats": [
+        "spatial sphere predicate",
+        "Historical Steiner metaphysical account; not independently established medicine, historical archaeology or astronomy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V27-022",
+      "catalogue_entry_id": "GA110-06",
+      "ga": 110,
+      "date": "1909-04-15",
+      "lecture": 6,
+      "section": 21,
+      "passage_cue": "SOL English §21",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090415p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "physical body"
+      ],
+      "agent": null,
+      "agent_scope": "The cited passage does not assign an exclusive spiritual builder of a single modern anatomical organ.",
+      "predicate": "higher_beings_appear_as_early_teachers",
+      "temporal_framework": "Lemurian/Atlantean past",
+      "paraphrase": "In GA110, Steiner says spiritual beings became visible early human guides; the account is mythic prehistory, not corroborated archaeology.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Full German translation collation not performed.",
+      "reconciliation": {
+        "decision": "candidate_unpaired",
+        "prior_claim_ids": [],
+        "scope": "Cited textual relation; overlap with earlier v26 and other GA volumes not exhaustively checked. Does not assert global novelty."
+      },
+      "caveats": [
+        "claimed incarnating spiritual guidance",
+        "Historical Steiner metaphysical account; not independently established medicine, historical archaeology or astronomy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V27-023",
+      "catalogue_entry_id": "GA110-06",
+      "ga": 110,
+      "date": "1909-04-15",
+      "lecture": 6,
+      "section": 23,
+      "passage_cue": "SOL English §23",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090415p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "agent_scope": "The cited passage does not assign an exclusive spiritual builder of a single modern anatomical organ.",
+      "predicate": "bodhisattva_explanation_deferred",
+      "temporal_framework": "lecture argument sequence",
+      "paraphrase": "In GA110, The nature of the Bodhisattva and beings of Mercury/Venus is explicitly left for the following lecture.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Full German translation collation not performed.",
+      "reconciliation": {
+        "decision": "candidate_unpaired",
+        "prior_claim_ids": [],
+        "scope": "Cited textual relation; overlap with earlier v26 and other GA volumes not exhaustively checked. Does not assert global novelty."
+      },
+      "caveats": [
+        "no assertion supplied at this section",
+        "Historical Steiner metaphysical account; not independently established medicine, historical archaeology or astronomy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V27-024",
+      "catalogue_entry_id": "GA110-07",
+      "ga": 110,
+      "date": "1909-04-16",
+      "lecture": 7,
+      "section": 6,
+      "passage_cue": "SOL English §6",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090416p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "astral body"
+      ],
+      "agent": null,
+      "agent_scope": "The cited passage does not assign an exclusive spiritual builder of a single modern anatomical organ.",
+      "predicate": "I_transforms_astral_into_manas",
+      "temporal_framework": "Earth I-led development",
+      "paraphrase": "In GA110, For the human being, the I is said to transform existing astral organization into Spirit Self/Manas, not construct a new external body.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Full German translation collation not performed.",
+      "reconciliation": {
+        "decision": "candidate_unpaired",
+        "prior_claim_ids": [],
+        "scope": "Cited textual relation; overlap with earlier v26 and other GA volumes not exhaustively checked. Does not assert global novelty."
+      },
+      "caveats": [
+        "human-specific vehicle transformation",
+        "Historical Steiner metaphysical account; not independently established medicine, historical archaeology or astronomy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V27-025",
+      "catalogue_entry_id": "GA110-07",
+      "ga": 110,
+      "date": "1909-04-16",
+      "lecture": 7,
+      "section": 7,
+      "passage_cue": "SOL English §7",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090416p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "etheric body"
+      ],
+      "agent": null,
+      "agent_scope": "The cited passage does not assign an exclusive spiritual builder of a single modern anatomical organ.",
+      "predicate": "I_transforms_etheric_into_buddhi",
+      "temporal_framework": "future human evolution",
+      "paraphrase": "In GA110, For human development, Life Spirit/Budhi is a transformed part of the etheric body.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Full German translation collation not performed.",
+      "reconciliation": {
+        "decision": "candidate_unpaired",
+        "prior_claim_ids": [],
+        "scope": "Cited textual relation; overlap with earlier v26 and other GA volumes not exhaustively checked. Does not assert global novelty."
+      },
+      "caveats": [
+        "human-specific vehicle transformation",
+        "Historical Steiner metaphysical account; not independently established medicine, historical archaeology or astronomy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V27-026",
+      "catalogue_entry_id": "GA110-07",
+      "ga": 110,
+      "date": "1909-04-16",
+      "lecture": 7,
+      "section": 7,
+      "passage_cue": "SOL English §7",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090416p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "physical body"
+      ],
+      "agent": null,
+      "agent_scope": "The cited passage does not assign an exclusive spiritual builder of a single modern anatomical organ.",
+      "predicate": "I_transforms_physical_into_atma",
+      "temporal_framework": "Jupiter–Venus–Vulcan future",
+      "paraphrase": "In GA110, Steiner depicts Spirit Man/Atma as the transformed physical body at a later developmental completion.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Full German translation collation not performed.",
+      "reconciliation": {
+        "decision": "candidate_unpaired",
+        "prior_claim_ids": [],
+        "scope": "Cited textual relation; overlap with earlier v26 and other GA volumes not exhaustively checked. Does not assert global novelty."
+      },
+      "caveats": [
+        "not present physical anatomical replacement",
+        "Historical Steiner metaphysical account; not independently established medicine, historical archaeology or astronomy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V27-027",
+      "catalogue_entry_id": "GA110-07",
+      "ga": 110,
+      "date": "1909-04-16",
+      "lecture": 7,
+      "section": 8,
+      "passage_cue": "SOL English §8",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090416p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "agent_scope": "The cited passage does not assign an exclusive spiritual builder of a single modern anatomical organ.",
+      "predicate": "angel_I_separate_from_lower_members",
+      "temporal_framework": "current hierarchy structure",
+      "paraphrase": "In GA110, The angel's I and higher principles are portrayed as apart from lower manifested members, unlike the integrated human picture.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Full German translation collation not performed.",
+      "reconciliation": {
+        "decision": "candidate_unpaired",
+        "prior_claim_ids": [],
+        "scope": "Cited textual relation; overlap with earlier v26 and other GA volumes not exhaustively checked. Does not assert global novelty."
+      },
+      "caveats": [
+        "angel-versus-human structure",
+        "Historical Steiner metaphysical account; not independently established medicine, historical archaeology or astronomy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V27-028",
+      "catalogue_entry_id": "GA110-07",
+      "ga": 110,
+      "date": "1909-04-16",
+      "lecture": 7,
+      "section": 9,
+      "passage_cue": "SOL English §9",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090416p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "agent_scope": "The cited passage does not assign an exclusive spiritual builder of a single modern anatomical organ.",
+      "predicate": "angel_lower_members_water_air_warmth",
+      "temporal_framework": "present elemental world",
+      "paraphrase": "In GA110, Steiner claims angelic physical/etheric/astral manifestations occur through water, air and fire, not compact human anatomy.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Full German translation collation not performed.",
+      "reconciliation": {
+        "decision": "candidate_unpaired",
+        "prior_claim_ids": [],
+        "scope": "Cited textual relation; overlap with earlier v26 and other GA volumes not exhaustively checked. Does not assert global novelty."
+      },
+      "caveats": [
+        "esoteric not physical body identification",
+        "Historical Steiner metaphysical account; not independently established medicine, historical archaeology or astronomy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V27-029",
+      "catalogue_entry_id": "GA110-07",
+      "ga": 110,
+      "date": "1909-04-16",
+      "lecture": 7,
+      "section": 10,
+      "passage_cue": "SOL English §10",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090416p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "agent_scope": "The cited passage does not assign an exclusive spiritual builder of a single modern anatomical organ.",
+      "predicate": "archangel_physical_etheric_in_air_fire",
+      "temporal_framework": "present hierarchy structure",
+      "paraphrase": "In GA110, Archangels are said to possess lower physical/etheric components reflected in wind and fire, with other members separate.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Full German translation collation not performed.",
+      "reconciliation": {
+        "decision": "candidate_unpaired",
+        "prior_claim_ids": [],
+        "scope": "Cited textual relation; overlap with earlier v26 and other GA volumes not exhaustively checked. Does not assert global novelty."
+      },
+      "caveats": [
+        "rank-specific manifestation",
+        "Historical Steiner metaphysical account; not independently established medicine, historical archaeology or astronomy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V27-030",
+      "catalogue_entry_id": "GA110-07",
+      "ga": 110,
+      "date": "1909-04-16",
+      "lecture": 7,
+      "section": 11,
+      "passage_cue": "SOL English §11",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090416p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "agent_scope": "The cited passage does not assign an exclusive spiritual builder of a single modern anatomical organ.",
+      "predicate": "archai_manifest_physical_only_in_fire",
+      "temporal_framework": "present hierarchy structure",
+      "paraphrase": "In GA110, Archai are portrayed as having their physical manifestation in fire, unlike the lower components of angels or archangels.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Full German translation collation not performed.",
+      "reconciliation": {
+        "decision": "candidate_unpaired",
+        "prior_claim_ids": [],
+        "scope": "Cited textual relation; overlap with earlier v26 and other GA volumes not exhaustively checked. Does not assert global novelty."
+      },
+      "caveats": [
+        "rank-specific manifestation",
+        "Historical Steiner metaphysical account; not independently established medicine, historical archaeology or astronomy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V27-031",
+      "catalogue_entry_id": "GA110-07",
+      "ga": 110,
+      "date": "1909-04-16",
+      "lecture": 7,
+      "section": 12,
+      "passage_cue": "SOL English §12",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090416p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "agent_scope": "The cited passage does not assign an exclusive spiritual builder of a single modern anatomical organ.",
+      "predicate": "angels_archangels_are_exusiai_executive_organs",
+      "temporal_framework": "present cosmic governance",
+      "paraphrase": "In GA110, The phrase about higher spirits employing angelic and archangelic agents as executive organs is functional analogy, not a literal assertion about a person's organs.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Full German translation collation not performed.",
+      "reconciliation": {
+        "decision": "candidate_unpaired",
+        "prior_claim_ids": [],
+        "scope": "Cited textual relation; overlap with earlier v26 and other GA volumes not exhaustively checked. Does not assert global novelty."
+      },
+      "caveats": [
+        "executive agents not anatomical organs",
+        "Historical Steiner metaphysical account; not independently established medicine, historical archaeology or astronomy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V27-032",
+      "catalogue_entry_id": "GA110-07",
+      "ga": 110,
+      "date": "1909-04-16",
+      "lecture": 7,
+      "section": 13,
+      "passage_cue": "SOL English §13",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090416p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "I organization"
+      ],
+      "agent": null,
+      "agent_scope": "The cited passage does not assign an exclusive spiritual builder of a single modern anatomical organ.",
+      "predicate": "earthly_I_integrates_human_members",
+      "temporal_framework": "Earth embodiment",
+      "paraphrase": "In GA110, Human bodily members are represented as united through the earthly I, unlike the dispersed forms attributed to hierarchies.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Full German translation collation not performed.",
+      "reconciliation": {
+        "decision": "candidate_unpaired",
+        "prior_claim_ids": [],
+        "scope": "Cited textual relation; overlap with earlier v26 and other GA volumes not exhaustively checked. Does not assert global novelty."
+      },
+      "caveats": [
+        "relational comparison not equal anatomy",
+        "Historical Steiner metaphysical account; not independently established medicine, historical archaeology or astronomy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V27-033",
+      "catalogue_entry_id": "GA110-07",
+      "ga": 110,
+      "date": "1909-04-16",
+      "lecture": 7,
+      "section": 19,
+      "passage_cue": "SOL English §19",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090416p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "physical body",
+        "etheric body",
+        "astral body"
+      ],
+      "agent": null,
+      "agent_scope": "The cited passage does not assign an exclusive spiritual builder of a single modern anatomical organ.",
+      "predicate": "angelic_inspiration_early_postatlantean",
+      "temporal_framework": "post-Atlantean history",
+      "paraphrase": "In GA110, Steiner claims a particular hierarchy inspired early post-Atlantean religious leaders through all three lower human members.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Full German translation collation not performed.",
+      "reconciliation": {
+        "decision": "candidate_unpaired",
+        "prior_claim_ids": [],
+        "scope": "Cited textual relation; overlap with earlier v26 and other GA volumes not exhaustively checked. Does not assert global novelty."
+      },
+      "caveats": [
+        "unverified religious and cultural attribution",
+        "Historical Steiner metaphysical account; not independently established medicine, historical archaeology or astronomy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V27-034",
+      "catalogue_entry_id": "GA110-07",
+      "ga": 110,
+      "date": "1909-04-16",
+      "lecture": 7,
+      "section": 20,
+      "passage_cue": "SOL English §20",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090416p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "agent_scope": "The cited passage does not assign an exclusive spiritual builder of a single modern anatomical organ.",
+      "predicate": "historical_hierarchy_roles_overlap",
+      "temporal_framework": "Lemurian–Atlantean–post-Atlantean",
+      "paraphrase": "In GA110, The lecture explicitly says epochs overlap and hierarchy influences cannot be assigned rigidly one rank per human epoch.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Full German translation collation not performed.",
+      "reconciliation": {
+        "decision": "candidate_unpaired",
+        "prior_claim_ids": [],
+        "scope": "Cited textual relation; overlap with earlier v26 and other GA volumes not exhaustively checked. Does not assert global novelty."
+      },
+      "caveats": [
+        "non-exclusive historical association",
+        "Historical Steiner metaphysical account; not independently established medicine, historical archaeology or astronomy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V27-035",
+      "catalogue_entry_id": "GA110-07",
+      "ga": 110,
+      "date": "1909-04-16",
+      "lecture": 7,
+      "section": 21,
+      "passage_cue": "SOL English §21",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090416p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "agent_scope": "The cited passage does not assign an exclusive spiritual builder of a single modern anatomical organ.",
+      "predicate": "buddha_labels_distinguished_by_inspiration",
+      "temporal_framework": "cultural interpretation",
+      "paraphrase": "In GA110, Steiner uses three Buddhist designations for different inspiratory relationships; these are his esoteric interpretations, not objective Buddhist doctrinal taxonomy.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Full German translation collation not performed.",
+      "reconciliation": {
+        "decision": "candidate_unpaired",
+        "prior_claim_ids": [],
+        "scope": "Cited textual relation; overlap with earlier v26 and other GA volumes not exhaustively checked. Does not assert global novelty."
+      },
+      "caveats": [
+        "comparative religion caution",
+        "Historical Steiner metaphysical account; not independently established medicine, historical archaeology or astronomy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V27-036",
+      "catalogue_entry_id": "GA110-08",
+      "ga": 110,
+      "date": "1909-04-17",
+      "lecture": 8,
+      "section": 2,
+      "passage_cue": "SOL English §2",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090417p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "agent_scope": "The cited passage does not assign an exclusive spiritual builder of a single modern anatomical organ.",
+      "predicate": "different_perspectives_not_automatic_harmony",
+      "temporal_framework": "source comparison method",
+      "paraphrase": "In GA110, Steiner argues that different descriptions of a claimed spiritual fact may arise from different vantage points; this does not demonstrate resolution of every apparent contradiction.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Full German translation collation not performed.",
+      "reconciliation": {
+        "decision": "candidate_unpaired",
+        "prior_claim_ids": [],
+        "scope": "Cited textual relation; overlap with earlier v26 and other GA volumes not exhaustively checked. Does not assert global novelty."
+      },
+      "caveats": [
+        "interpretation caution",
+        "Historical Steiner metaphysical account; not independently established medicine, historical archaeology or astronomy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V27-037",
+      "catalogue_entry_id": "GA110-08",
+      "ga": 110,
+      "date": "1909-04-17",
+      "lecture": 8,
+      "section": 3,
+      "passage_cue": "SOL English §3",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090417p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "physical body"
+      ],
+      "agent": null,
+      "agent_scope": "The cited passage does not assign an exclusive spiritual builder of a single modern anatomical organ.",
+      "predicate": "thrones_zodiac_old_saturn",
+      "temporal_framework": "Old Saturn",
+      "paraphrase": "In GA110, Thrones, Cherubim and Seraphim are said to act around Old Saturn as differentiated zodiacal spheres, not individual anatomical organ constructors.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Full German translation collation not performed.",
+      "reconciliation": {
+        "decision": "candidate_unpaired",
+        "prior_claim_ids": [],
+        "scope": "Cited textual relation; overlap with earlier v26 and other GA volumes not exhaustively checked. Does not assert global novelty."
+      },
+      "caveats": [
+        "spatial symbolic orientation",
+        "Historical Steiner metaphysical account; not independently established medicine, historical archaeology or astronomy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V27-038",
+      "catalogue_entry_id": "GA110-08",
+      "ga": 110,
+      "date": "1909-04-17",
+      "lecture": 8,
+      "section": 4,
+      "passage_cue": "SOL English §4",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090417p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "physical body"
+      ],
+      "agent": null,
+      "agent_scope": "The cited passage does not assign an exclusive spiritual builder of a single modern anatomical organ.",
+      "predicate": "inner_and_outer_hierarchies_cooperate",
+      "temporal_framework": "Old Saturn",
+      "paraphrase": "In GA110, The first hierarchy donating warmth is described as cooperating with distinct interior ranks; the original agency is plural and differentiated.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Full German translation collation not performed.",
+      "reconciliation": {
+        "decision": "candidate_unpaired",
+        "prior_claim_ids": [],
+        "scope": "Cited textual relation; overlap with earlier v26 and other GA volumes not exhaustively checked. Does not assert global novelty."
+      },
+      "caveats": [
+        "cooperative action not unique hierarchy builder",
+        "Historical Steiner metaphysical account; not independently established medicine, historical archaeology or astronomy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V27-039",
+      "catalogue_entry_id": "GA110-08",
+      "ga": 110,
+      "date": "1909-04-17",
+      "lecture": 8,
+      "section": 6,
+      "passage_cue": "SOL English §6",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090417p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "heart"
+      ],
+      "agent": null,
+      "agent_scope": "The cited passage does not assign an exclusive spiritual builder of a single modern anatomical organ.",
+      "predicate": "heart_seed_old_saturn_rest_of_motion",
+      "temporal_framework": "Old Saturn",
+      "paraphrase": "In GA110, The initial heart rudiment is attributed to the point where moving primordial warmth-formations come to rest.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Full German translation collation not performed.",
+      "reconciliation": {
+        "decision": "candidate_unpaired",
+        "prior_claim_ids": [],
+        "scope": "Cited textual relation; overlap with earlier v26 and other GA volumes not exhaustively checked. Does not assert global novelty."
+      },
+      "caveats": [
+        "first germ not mature myocardium",
+        "Historical Steiner metaphysical account; not independently established medicine, historical archaeology or astronomy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V27-040",
+      "catalogue_entry_id": "GA110-08",
+      "ga": 110,
+      "date": "1909-04-17",
+      "lecture": 8,
+      "section": 7,
+      "passage_cue": "SOL English §7",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090417p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "heart"
+      ],
+      "agent": null,
+      "agent_scope": "The cited passage does not assign an exclusive spiritual builder of a single modern anatomical organ.",
+      "predicate": "heart_leo_zodiac_correspondence",
+      "temporal_framework": "Old Saturn zodiacal direction",
+      "paraphrase": "In GA110, Leo is called the directional region associated with the first heart germ; this is an attributed cosmic-symbolic relation.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Full German translation collation not performed.",
+      "reconciliation": {
+        "decision": "candidate_unpaired",
+        "prior_claim_ids": [],
+        "scope": "Cited textual relation; overlap with earlier v26 and other GA volumes not exhaustively checked. Does not assert global novelty."
+      },
+      "caveats": [
+        "symbolic/cosmic not astronomical medical causality",
+        "Historical Steiner metaphysical account; not independently established medicine, historical archaeology or astronomy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V27-041",
+      "catalogue_entry_id": "GA110-08",
+      "ga": 110,
+      "date": "1909-04-17",
+      "lecture": 8,
+      "section": 8,
+      "passage_cue": "SOL English §8",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090417p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "ribs",
+        "thorax"
+      ],
+      "agent": null,
+      "agent_scope": "The cited passage does not assign an exclusive spiritual builder of a single modern anatomical organ.",
+      "predicate": "ribcage_cancer_protective_correspondence",
+      "temporal_framework": "Old Saturn zodiacal image",
+      "paraphrase": "In GA110, The protective breastplate or ribcage is linked to the zodiac region Cancer in a symbolic organ-form narrative.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Full German translation collation not performed.",
+      "reconciliation": {
+        "decision": "candidate_unpaired",
+        "prior_claim_ids": [],
+        "scope": "Cited textual relation; overlap with earlier v26 and other GA volumes not exhaustively checked. Does not assert global novelty."
+      },
+      "caveats": [
+        "symbolic not physical astrology",
+        "Historical Steiner metaphysical account; not independently established medicine, historical archaeology or astronomy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V27-042",
+      "catalogue_entry_id": "GA110-08",
+      "ga": 110,
+      "date": "1909-04-17",
+      "lecture": 8,
+      "section": 10,
+      "passage_cue": "SOL English §10",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090417p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "etheric body",
+        "physical body"
+      ],
+      "agent": null,
+      "agent_scope": "The cited passage does not assign an exclusive spiritual builder of a single modern anatomical organ.",
+      "predicate": "kyriotetes_donate_etheric_on_old_sun",
+      "temporal_framework": "Old Sun",
+      "paraphrase": "In GA110, Unlike Thrones' donation of primordial warmth on Old Saturn, Spirits of Wisdom are said to give etheric substance on Old Sun.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Full German translation collation not performed.",
+      "reconciliation": {
+        "decision": "candidate_unpaired",
+        "prior_claim_ids": [],
+        "scope": "Cited textual relation; overlap with earlier v26 and other GA volumes not exhaustively checked. Does not assert global novelty."
+      },
+      "caveats": [
+        "stage-specific donor/vehicle relation",
+        "Historical Steiner metaphysical account; not independently established medicine, historical archaeology or astronomy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V27-043",
+      "catalogue_entry_id": "GA110-08",
+      "ga": 110,
+      "date": "1909-04-17",
+      "lecture": 8,
+      "section": 11,
+      "passage_cue": "SOL English §11",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090417p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "etheric body"
+      ],
+      "agent": null,
+      "agent_scope": "The cited passage does not assign an exclusive spiritual builder of a single modern anatomical organ.",
+      "predicate": "old_sun_living_ether_air",
+      "temporal_framework": "Old Sun",
+      "paraphrase": "In GA110, Old Sun's air/gas condition is associated with an etheric life principle distinct from Old Saturn warmth activity.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Full German translation collation not performed.",
+      "reconciliation": {
+        "decision": "candidate_unpaired",
+        "prior_claim_ids": [],
+        "scope": "Cited textual relation; overlap with earlier v26 and other GA volumes not exhaustively checked. Does not assert global novelty."
+      },
+      "caveats": [
+        "cosmic stage no literal lung",
+        "Historical Steiner metaphysical account; not independently established medicine, historical archaeology or astronomy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V27-044",
+      "catalogue_entry_id": "GA110-08",
+      "ga": 110,
+      "date": "1909-04-17",
+      "lecture": 8,
+      "section": 12,
+      "passage_cue": "SOL English §12",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090417p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "etheric body"
+      ],
+      "agent": null,
+      "agent_scope": "The cited passage does not assign an exclusive spiritual builder of a single modern anatomical organ.",
+      "predicate": "eagle_scorpion_life_death_cycle",
+      "temporal_framework": "Old Sun zodiacal cycle",
+      "paraphrase": "In GA110, Eagle and Scorpion are used as regions representing initiation and termination of life in the Old Sun narrative.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Full German translation collation not performed.",
+      "reconciliation": {
+        "decision": "candidate_unpaired",
+        "prior_claim_ids": [],
+        "scope": "Cited textual relation; overlap with earlier v26 and other GA volumes not exhaustively checked. Does not assert global novelty."
+      },
+      "caveats": [
+        "symbolic, not physiological death mechanism",
+        "Historical Steiner metaphysical account; not independently established medicine, historical archaeology or astronomy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V27-045",
+      "catalogue_entry_id": "GA110-08",
+      "ga": 110,
+      "date": "1909-04-17",
+      "lecture": 8,
+      "section": 14,
+      "passage_cue": "SOL English §14",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090417p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "eyes"
+      ],
+      "agent": null,
+      "agent_scope": "The cited passage does not assign an exclusive spiritual builder of a single modern anatomical organ.",
+      "predicate": "saturn_optics_assertion_not_validated",
+      "temporal_framework": "present-day Saturn",
+      "paraphrase": "In GA110, Steiner asserts that today's Saturn consists only of warmth and its rings are optical appearance, a claim inconsistent with modern planetary science.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Full German translation collation not performed.",
+      "reconciliation": {
+        "decision": "candidate_unpaired",
+        "prior_claim_ids": [],
+        "scope": "Cited textual relation; overlap with earlier v26 and other GA volumes not exhaustively checked. Does not assert global novelty."
+      },
+      "caveats": [
+        "false as empirical modern astronomy",
+        "Historical Steiner metaphysical account; not independently established medicine, historical archaeology or astronomy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V27-046",
+      "catalogue_entry_id": "GA110-08",
+      "ga": 110,
+      "date": "1909-04-17",
+      "lecture": 8,
+      "section": 15,
+      "passage_cue": "SOL English §15",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090417p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "astral body"
+      ],
+      "agent": null,
+      "agent_scope": "The cited passage does not assign an exclusive spiritual builder of a single modern anatomical organ.",
+      "predicate": "present_jupiter_mars_stage_repetitions",
+      "temporal_framework": "planetary analogy",
+      "paraphrase": "In GA110, Modern Jupiter and Mars are characterized as repeats of Old Sun and Old Moon; this is a different relation from the seven future planetary embodiments.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Full German translation collation not performed.",
+      "reconciliation": {
+        "decision": "candidate_unpaired",
+        "prior_claim_ids": [],
+        "scope": "Cited textual relation; overlap with earlier v26 and other GA volumes not exhaustively checked. Does not assert global novelty."
+      },
+      "caveats": [
+        "not literal identity of cosmic epochs",
+        "Historical Steiner metaphysical account; not independently established medicine, historical archaeology or astronomy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V27-047",
+      "catalogue_entry_id": "GA110-08",
+      "ga": 110,
+      "date": "1909-04-17",
+      "lecture": 8,
+      "section": 16,
+      "passage_cue": "SOL English §16",
+      "source_url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090417p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "astral body",
+        "I organization"
+      ],
+      "agent": null,
+      "agent_scope": "The cited passage does not assign an exclusive spiritual builder of a single modern anatomical organ.",
+      "predicate": "old_moon_astral_earth_I_stage",
+      "temporal_framework": "Old Moon to Earth",
+      "paraphrase": "In GA110, Old Moon is associated with acquisition of astral consciousness, and Earth with the I; Taurus/voice material is an esoteric symbolic addition.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Full German translation collation not performed.",
+      "reconciliation": {
+        "decision": "candidate_unpaired",
+        "prior_claim_ids": [],
+        "scope": "Cited textual relation; overlap with earlier v26 and other GA volumes not exhaustively checked. Does not assert global novelty."
+      },
+      "caveats": [
+        "stage-specific claim",
+        "Historical Steiner metaphysical account; not independently established medicine, historical archaeology or astronomy."
+      ]
+    }
+  ],
+  "counts": {
+    "selected_claim_records": 47,
+    "candidate_unpaired": 47,
+    "globally_verified_new_claims": 0,
+    "duplicate_claims_not_exhaustively_checked": true,
+    "by_lecture": {
+      "5": 13,
+      "6": 10,
+      "7": 12,
+      "8": 12
+    }
+  }
+}
