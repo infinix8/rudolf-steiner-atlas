@@ -1,4 +1,49 @@
-# Organ concordance continuation checkpoint Version 24
+# Current organ evolution research continuation — Phase 27
+
+**Updated:** 5 November 2026. **Repository:** `infinix8/rudolf-steiner-atlas`. This is the canonical current checkpoint; the older Version 24 checkpoint is preserved in full below for provenance.
+
+## Exact next source and what is already complete
+
+**Next GA 110 source:** **Lecture IX, 18 April 1909**. Locate the correct original source page from the [GA 110 lecture catalogue](https://rsarchive.org/Lectures/GA110/) before beginning; the ninth and tenth lectures share 18 April but are distinct events. Then review **GA 110 X (18 April)** and the **two Q&A entries (21 and 22 April)**. Use exact dated URL and correct source genre. Do **not** restart GA 110 V–VIII.
+
+- **GA 313–317:** all **61 of 61** catalogue source views have complete available English first-pass coverage (1,607 numbered English units, 44 editorial blocks and one separate table). This is an edition/source-view count; known GA 313 IX / GA 315 VII aliases are not distinct lecture events.
+- **GA 128:** all **8 of 8** original English lecture source views reviewed (219 SOL positions, **218 nonduplicated units** owing to one repeated paragraph).
+- **GA 110:** **8 of 12** catalogue source views reviewed: lectures I–VIII English-complete, **162 numbered English sections**; 4 views unread (IX, X and two Q&As).
+- **Current broad Atlas:** **342 source-linked graph relations, 107 source-page records, 225 cross-domain links**. Source-page records are not guaranteed unique lecture events.
+- **Current organ research:** **40 cumulative dossiers**, including 22 added phase-27 claim annotations and **23 hierarchy/stage/function comparison rows**.
+- **Subdomain evidence:** **57 directly linked, 54 via nested concepts only, 39 currently without graph edge** across 150 subdomains. These are editorial coverage metrics, not source-corpus completeness.
+
+## Authoritative current files
+
+- [Phase27 GA 110 findings](ORGAN_CONCORDANCE_PHASE27_FINDINGS.md) — passages, hierarchy roles, heart/Leo/Cancer distinctions, astronomical and historical limitations.
+- `research/organ-corpus-ledger-ga110-v27.json` — all 12 catalogue views with status and correct next four remaining records.
+- `research/organ-paragraph-review-ga110-v-viii-v27.json` — 86 numbered English source cards for V–VIII.
+- `research/organ-atomic-claims-ga110-v-viii-v27.json` — 47 selected **candidate** propositions; global novelty unverified.
+- `research/organ-textual-issues-ga110-v-viii-v27.json` — six editorial/source-language issues, especially V §13 Herrschaften/Mächte/Gewalten.
+- `research/organ-comparative-dossiers-v27.json` — versioned 40-organ dataset, all v26 fields preserved.
+- `research/organ-hierarchy-agency-matrix-v27.json` — 23 specific roles; no passage establishes an exclusive named builder of a finished modern organ.
+- `research/organ-current.json` — canonical manifest consumed by the current Organ Concordance Explorer, linking v27, GA128 v25 and medical v24.
+- `docs/Steiner_Organ_Evolution_Research_Atlas_v27.md` — **cumulative Markdown** with source-research addenda v25–v27; original v24 manuscript text preserved as leading source material. **DOCX remains v24 until separately updated.**
+
+## What remains uncertified
+
+**Complete English source-view reading ≠ exhaustive claim extraction ≠ original German collation ≠ independent second review.** No full bilingual and exhaustive certification is made. Historical claims about spiritual hierarchies, physical conditions of planets, organ formation, disability, karma, group/race categories and therapy are attributed to Steiner, not scientific or medical findings. Alternate translations must not be counted as independent corroborating events.
+
+Do not conflate (a) a hierarchy's planetary sphere, (b) its historical evolutionary stage, (c) its donation/ordering/preservation activity, (d) a modern organ's asserted first germ, (e) a symbolic zodiacal direction, or (f) a human I's future self-transformation. Check exact source paragraphs before drawing connections. Notably the GA110 V §13 hierarchy-rank translation is unresolved.
+
+## Next research execution
+
+1. Open GA110 IX (18 April 1909), read *every available English section*; log reported section count, no-claim passages, translation source, and limited German comparisons.
+2. Continue IX–X and Q&A I–II, preserving original date and source genres. Align with 47 v27 candidate claims, but do not report matched context as new discoveries.
+3. Update GA110 v28 ledger, paragraph cards, candidate claims, selected German issues, 40 organ dossiers and knowledge graph **only where directly supported**. Preserve prior IDs and avoid fabricating an organ-builder list.
+4. Refresh graph/subdomain reports, `organ-current.json`, the 23-row agency matrix and UI filters, run integrity and browser tests, and commit the checkpoint.
+5. Expand to GA102, GA107, GA205, GA208 and GA218 with explicit genus/date/agency distinctions, while continuing original German studies and independent second review.
+
+**Validation:** `python tools/validate_organ_concordance.py 24`, `python tools/validate_organ_v27.py`, `python tools/report_knowledge_graph.py --check`, `python tools/report_subdomain_coverage.py --check`, plus the GitHub Actions desktop/mobile Chromium workflow.
+
+---
+
+# Historical continuation checkpoint — Version 24 (superseded)
 
 Updated 3 November 2026. Current cumulative manuscript is Version24, 42,089 words, 77 Word pages. Read this checkpoint and the current ledgers before selecting new work. Historical checkpoints remain in Git history and in the preserved cumulative manuscript.
 
