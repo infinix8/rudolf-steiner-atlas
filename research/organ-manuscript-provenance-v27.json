@@ -1,0 +1,36 @@
+{
+  "version": 27,
+  "as_of": "2026-11-05",
+  "output": "docs/Steiner_Organ_Evolution_Research_Atlas_v27.md",
+  "preservation": {
+    "prior_version": "docs/Steiner_Organ_Evolution_Research_Atlas_v24.md",
+    "prior_git_blob_sha": "99e50dea9ace7a0e0458061d1d48f50bdafc0cc0",
+    "method": "Exact prior version Markdown is preserved as an initial byte-identical prefix, followed by clearly separated addenda. No previous lines revised.",
+    "prior_codepoints": 301802
+  },
+  "addenda_sources": [
+    "docs/ORGAN_CONCORDANCE_PHASE25_FINDINGS.md",
+    "docs/ORGAN_CONCORDANCE_PHASE26_FINDINGS.md",
+    "docs/ORGAN_CONCORDANCE_PHASE27_FINDINGS.md"
+  ],
+  "addenda_source_blobs": [
+    "068c84f6ca04e3bdba0583f9dfcd901d2aae863d",
+    "fdb744e597dfd5134b358c0f10fbb2411bbaf433",
+    "1a2bd69729bf37e019f51216c22ceed6e5c9d941"
+  ],
+  "outcomes": {
+    "total_markdown_characters": 334909,
+    "approx_words": 46394,
+    "ga110_English_views_complete": 8,
+    "ga110_numbered_units": 162,
+    "ga110_selected_claims_v27": 47,
+    "comparative_organ_dossiers": 40
+  },
+  "limitations": [
+    "This is the latest cumulative Markdown, not an updated Word DOCX.",
+    "Original archive texts not mirrored.",
+    "Entire English numbered source-view read is not exhaustive claim extraction.",
+    "No complete original German translation collation or independent second review.",
+    "Organ–hierarchy esoteric associations are historical attributions, not medically established mechanisms."
+  ]
+}
