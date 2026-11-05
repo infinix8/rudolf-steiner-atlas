@@ -1,0 +1,48 @@
+name: Publish public Organ Atlas preview
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "atlas/mobile-preview.html"
+      - ".github/workflows/publish-organ-atlas.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: organ-atlas-pages
+  cancel-in-progress: true
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Check out private source repository
+        uses: actions/checkout@v4
+
+      - name: Prepare public files only
+        run: |
+          mkdir -p dist
+          cp atlas/mobile-preview.html dist/index.html
+          touch dist/.nojekyll
+          test -s dist/index.html
+          test "$(find dist -maxdepth 1 -type f | wc -l)" -eq 2
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload curated public site only
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
