@@ -1,3 +1,14 @@
+## 2026-11-05 — Phase27 GA110 V–VIII depth and hierarchy matrix
+
+- **Repaired previously failing Atlas integrity CI** by regenerating stale graph and subdomain coverage reports; current source graph has **342 typed links**, **107 source-page records**, **225 cross-domain relations**, with 57 direct/54 descendant-only/39 absent subdomains.
+- Reviewed **GA110 V–VIII**, 14–17 April 1909, in all available **86 numbered SOL English sections**; the separate GA110 catalogue now has **8/12 English-complete source views, 162 reviewed units**. Lectures IX–X and two Q&A remain unread.
+- Added **47 selected candidate statements**, 86 section cards, **six source-critical interpretation issues** (particularly translated hierarchy ranks), and 22 qualified annotations to the preserved **40 cumulative organ dossiers**.
+- Expanded main graph by 36 GA110 sourced relations. Distinguished Old Saturn heart rudiment, Leo directional attribution, Cancer protective thorax image, hierarchy donation/execution/preservation, and human I transformation; **no exclusive organ-builder mapping** invented.
+- Published [23-row hierarchy/stage/function research matrix](research/organ-hierarchy-agency-matrix-v27.json) and [interactive Atlas filter page](atlas/agency.html) with direct original-source linkouts.
+- Introduced [versioned current organ manifest](research/organ-current.json), strengthened validators, and added desktop/mobile browser tests for the matrix and 40-dossier organ view.
+- Published [cumulative Markdown manuscript v27](docs/Steiner_Organ_Evolution_Research_Atlas_v27.md), preserving v24 as exact prefix and adding v25–27 research. **The Word DOCX remains v24.** Updated the canonical checkpoint and long Work task to resume at GA110 IX.
+- Original works remain at RS Archive; empirical biological, medical, cultural-history and planetary assertions are not endorsed as science.
+
 # Phase 20 source identity and four GA314 views
 
 ## 3 November 2026 Organ concordance phases 20 through 24
