@@ -1,6 +1,6 @@
 # ChatGPT Work task: Rudolf Steiner Organ Evolution — complete source-linked concordance
 
-**Latest checkpoint, phase 28:** [Current research checkpoint](ORGAN_CONCORDANCE_RESUME.md) and [new source comparisons](ORGAN_CONCORDANCE_SESSION_V28.md). GA 110 is English-complete. Resume the wider consecutive audit at GA 102 III §1, Berlin, 15 February 1908. Historical milestones below retain their original context.
+**Latest checkpoint, phase 29:** [Resume here](ORGAN_CONCORDANCE_RESUME.md). GA110 and GA102 are now English-first-pass complete. Begin GA107 I §1, 19 October 1908, and retain the completed XIX audit. Whole-corpus, exhaustive German and independent-review work remains open.
 
 **Task status:** Ready for a long-running ChatGPT Work handoff. This file is an executable research brief, not an assertion that a Work run has started.
 

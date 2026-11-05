@@ -1,3 +1,38 @@
+# Organ concordance continuation checkpoint Version 29
+
+Updated 5 November 2026. **Next consecutive priority source is GA 107 I, 19 October 1908, §1.** [SOL English](https://rsarchive.org/Lectures/GA107/English/SOL/19081019p01.html). Continue I–XVIII, retaining the already completed XIX (17 June 1909) from v28.
+
+## Current evidence
+
+- GA313–317 English first pass complete across 61 catalogue views. GA128 complete across 8 SOL English views, with known defects retained.
+- GA110 English complete across 12 entries, 281 numbered positions and one unnumbered continuation.
+- GA102 English complete across 13 entries, 336 numbered positions and four additional prose or quoted blocks. Phase29 reads III–XIII, 278 numbered positions and two Goethe quotations. The blank paragraph in X is excluded. VI contains a marked gap. This is the complete available SOL view, not proof of an intact transcript or completed alternate-edition collation.
+- Across v28–29, 21 complete English readings (GA205 VI is a full recheck), 579 numbered positions, seven other blocks, 215 selected proposition records, 35 German spot comparisons.
+- [Session findings](ORGAN_CONCORDANCE_SESSION_V29.md), [English audit](../research/organ-paragraph-review-ga102-iii-xiii-v29.json), [selected claims](../research/organ-atomic-claims-ga102-iii-xiii-v29.json), [German checks](../research/organ-german-checks-and-textual-issues-v29.json), [GA102 ledger](../research/organ-corpus-ledger-ga102-v29.json).
+- [Cumulative Markdown](Steiner_Organ_Evolution_Research_Atlas_v29.md) and [Word edition](Steiner_Organ_Evolution_Research_Atlas_v29.docx). Every v28 byte preserved. V28 itself retains both historical v27 editions through a shared-prefix/addenda reconstruction.
+- Current main graph has 365 selected edges and 128 source pages. There are 40 organ/organization dossiers. No global unique-teaching count or independent event count is inferred.
+- [Priority inventory](../research/organ-priority-corpus-inventory-v29.json) is a catalogue index with review status. Older selected work is not erased by a catalogue-only label in this pass.
+
+## Open comparisons to carry forward
+
+GA102 IV7/14 attributes Old Sun etheric donation to Spirits of Form; GA110 VIII10 names Spirits of Wisdom. German confirms the names. Keep as an apparent conflict pending evidence.
+
+GA102 VIII4 denies angelic physical embodiment; GA110 VII gives dispersed physical manifestations. GA102 X4 qualifies coarse physicality but does not erase VIII4. Compare these claims without treating an interpretation as an established reconciliation.
+
+GA102 V–VI Earth recapitulation is distinct from the initial planetary embodiments. VI3 gives blood–glands–nerves, while surrounding paragraphs reverse the middle pair. German retains the internal order problem. VI4 makes reversal partial and describes changing functions.
+
+GA102 XIII8 retains part of the soul-body with the sleeping etheric body. XII6–7 distinguishes other beings' care of nerves/blood from outward work by the person's own members. Keep actors and activities explicit.
+
+GA102 X16–20 has racist hierarchies and an antisemitic Ahasver account. VII32 and IX18 have unverified mental-health causation claims. Preserve this context in reuse.
+
+## Remaining work
+
+Complete wider priority corpus review in GA107,205,208,218, then the wider organ-related corpus. Whole-German collation, exhaustive atomization, cross-volume reconciliation and independent second review remain pending. The task is still open at corpus level.
+
+Historical v28 checkpoint and its prior corrections follow.
+
+---
+
 # Organ concordance continuation checkpoint · Version 28
 
 **Next consecutive source:** [GA 102 III, 15 February 1908, §1](https://rsarchive.org/Lectures/GA102/English/SOL/19080215p01.html). Read through the whole lecture and then GA 102 IV–XIII. The catalogue includes differences between SOL and AP1961 lecture numbering. Match by date, title and body.

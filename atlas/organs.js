@@ -27,7 +27,7 @@ function showStats(){
   const noEvidence=list.filter(d=>!d.relations.length&&!allRefinements(d).length).length;
   const stats=[["Organ dossiers",list.length],["Original comparative relations",withLegacy],
     ["With later claim annotations",withPhase],["GA110 English source views",state.ga110.complete_English_source_views+" / "+state.ga110.catalogued_entries],
-    ["No linked records yet",noEvidence]];
+    ["GA102 English source views",state.manifest.verified_current_counts.ga102_complete+" / "+state.manifest.verified_current_counts.ga102_catalogue_entries],["No linked records yet",noEvidence]];
   $("#organ-stats").innerHTML=stats.map(([label,num])=>'<div class="stat"><strong>'+num+
     '</strong><span>'+safe(label)+'</span></div>').join("");
 }

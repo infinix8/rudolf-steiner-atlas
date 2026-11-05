@@ -1,3 +1,7 @@
+## 5 November 2026 · Organ concordance v29
+
+Completed the GA102 English first pass, adding III–XIII, 278 numbered positions, two quotations, 87 selected records and 18 German comparisons. Preserved v28 in the cumulative manuscript. Open agency conflicts and source-order problems remain indexed. [Findings](docs/ORGAN_CONCORDANCE_SESSION_V29.md).
+
 ## 5 November 2026 · Organ concordance v28
 
 Completed the GA 110 English first pass and extended full-view reading into five additional volumes, including a recheck of GA 205 VI. Published the cumulative manuscript, 306 reader-reviewed unit records, 128 selected propositions and 17 German spot checks. [Findings](docs/ORGAN_CONCORDANCE_SESSION_V28.md).

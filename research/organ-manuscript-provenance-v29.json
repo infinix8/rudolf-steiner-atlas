@@ -1,0 +1,12 @@
+{
+  "as_of": "2026-11-05",
+  "source_path": "docs/Steiner_Organ_Evolution_Research_Atlas_v28.md",
+  "source_bytes": 385603,
+  "source_sha256": "21b80c07094da722210781baeb345401c9f99391b523a91f9ede9110e56cdf04",
+  "preserved_start_byte": 12040,
+  "preserved_end_byte_exclusive": 397643,
+  "cumulative_path": "docs/Steiner_Organ_Evolution_Research_Atlas_v29.md",
+  "cumulative_bytes": 397643,
+  "cumulative_sha256": "d9af1b676d65fc8a8801059e2c57044e2bb99a687dee8928f4407e07a0fc6ac2",
+  "scope": "Every v28 byte retained, including its preservation of both historical v27 editions."
+}

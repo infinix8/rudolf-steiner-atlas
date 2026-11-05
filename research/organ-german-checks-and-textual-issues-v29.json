@@ -1,0 +1,185 @@
+{
+  "scope": "18 selective comparisons with online German, including unresolved intra-source and inter-source tensions. Full printed and bilingual certification remains pending.",
+  "checks": [
+    {
+      "id": "GER-29-01",
+      "entry": "GA102-03",
+      "section": 17,
+      "english_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080215p01.html",
+      "german_url": "https://rsarchive.org/Lectures/GA102/German/19080215.html",
+      "terms": "Marsdurchgang, Eisen, Chlorophyll",
+      "note": "The online German also contains the difficult sequence about blood, iron and chlorophyll. Preserve the tension.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-29-02",
+      "entry": "GA102-03",
+      "section": 25,
+      "english_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080215p01.html",
+      "german_url": "https://rsarchive.org/Lectures/GA102/German/19080215.html",
+      "terms": "nicht schematisch",
+      "note": "Jupiter beings are explicitly assigned different tasks at different developmental times.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-29-03",
+      "entry": "GA102-04",
+      "section": 7,
+      "english_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080229p01.html",
+      "german_url": "https://rsarchive.org/Lectures/GA102/German/19080229.html",
+      "terms": "Geister der Form",
+      "note": "The etheric-donation agent is expressly Spirits of Form. It remains an apparent conflict with GA110 VIII Spirits of Wisdom.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-29-04",
+      "entry": "GA102-04",
+      "section": 12,
+      "english_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080229p01.html",
+      "german_url": "https://rsarchive.org/Lectures/GA102/German/19080229.html",
+      "terms": "astralischen Leib ablegen",
+      "note": "Astral donation and change of lowest member are distinct actions in the account.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-29-05",
+      "entry": "GA102-04",
+      "section": 16,
+      "english_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080229p01.html",
+      "german_url": "https://rsarchive.org/Lectures/GA102/German/19080229.html",
+      "terms": "Ich opfern",
+      "note": "The present I donation is not the same temporal act as the earlier etheric or astral donations.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-29-06",
+      "entry": "GA102-04",
+      "section": 26,
+      "english_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080229p01.html",
+      "german_url": "https://rsarchive.org/Lectures/GA102/German/19080229.html",
+      "terms": "Oberschenkelknochens, Weisheit",
+      "note": "The femur example concerns displayed wisdom as lowest member of Form spirits.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-29-07",
+      "entry": "GA102-04",
+      "section": 28,
+      "english_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080229p01.html",
+      "german_url": "https://rsarchive.org/Lectures/GA102/German/19080229.html",
+      "terms": "Tat von Golgatha, Buddhi",
+      "note": "Golgotha is explicitly connected to the eventual development of Life Spirit or Buddhi.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-29-08",
+      "entry": "GA102-05",
+      "section": 9,
+      "english_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080316p01.html",
+      "german_url": "https://rsarchive.org/Lectures/GA102/German/19080316.html",
+      "terms": "kein Auge, Wärmeorgan",
+      "note": "The upper heat organ is explicitly distinguished from a true eye.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-29-09",
+      "entry": "GA102-05",
+      "section": 21,
+      "english_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080316p01.html",
+      "german_url": "https://rsarchive.org/Lectures/GA102/German/19080316.html",
+      "terms": "Herz, Anlage",
+      "note": "The passage expressly excludes a mature anatomical heart at the first warmth stage.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-29-10",
+      "entry": "GA102-06",
+      "section": 3,
+      "english_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080324p01.html",
+      "german_url": "https://rsarchive.org/Lectures/GA102/German/19080324.html",
+      "terms": "Blutsystem, Drüsensystem, Nervensystem",
+      "note": "The online German gives blood–glands–nerves in this sentence, while the surrounding account puts nerves before glands. Preserve the internal order problem.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-29-11",
+      "entry": "GA102-06",
+      "section": 4,
+      "english_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080324p01.html",
+      "german_url": "https://rsarchive.org/Lectures/GA102/German/19080324.html",
+      "terms": "nur eine teilweise",
+      "note": "Reversal is only partial; early warmth organization is also sensory.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-29-12",
+      "entry": "GA102-06",
+      "section": 13,
+      "english_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080324p01.html",
+      "german_url": "https://rsarchive.org/Lectures/GA102/German/19080324.html",
+      "terms": "mittelbar, unmittelbar",
+      "note": "Wisdom and love cooperate across lives and individual personality. The text rejects an exclusive allocation.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-29-13",
+      "entry": "GA102-08",
+      "section": 4,
+      "english_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080420p01.html",
+      "german_url": "https://rsarchive.org/Lectures/GA102/German/19080420.html",
+      "terms": "keinen physischen Leib",
+      "note": "The denial of an angelic physical body is in German too; it is not introduced by SOL translation.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-29-14",
+      "entry": "GA102-10",
+      "section": 10,
+      "english_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080516p01.html",
+      "german_url": "https://rsarchive.org/Lectures/GA102/German/19080516.html",
+      "terms": "Vorderhirn, Arbeitsorganen",
+      "note": "The forebrain and working front limbs are both attributed to I work on astrality.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-29-15",
+      "entry": "GA102-12",
+      "section": 6,
+      "english_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080604p01.html",
+      "german_url": "https://rsarchive.org/Lectures/GA102/German/19080604.html",
+      "terms": "Schutzgeister, Erhalter",
+      "note": "The other beings sustaining nerves and blood are explicitly called preservers or guardian spirits in this context.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-29-16",
+      "entry": "GA102-13",
+      "section": 8,
+      "english_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080611p01.html",
+      "german_url": "https://rsarchive.org/Lectures/GA102/German/19080611.html",
+      "terms": "ein Teil des Seelenleibes",
+      "note": "The retained part of the soul-body is explicit, qualifying a blanket description of all astrality leaving.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-29-17",
+      "entry": "GA102-13",
+      "section": 20,
+      "english_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080611p01.html",
+      "german_url": "https://rsarchive.org/Lectures/GA102/German/19080611.html",
+      "terms": "Verstandes- oder Gemütsseele",
+      "note": "Music is related to this soul member and nocturnal harmonies.",
+      "status": "German_spot_checked"
+    },
+    {
+      "id": "GER-29-18",
+      "entry": "GA102-13",
+      "section": 21,
+      "english_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080611p01.html",
+      "german_url": "https://rsarchive.org/Lectures/GA102/German/19080611.html",
+      "terms": "Bewußtseinsseele",
+      "note": "The consciousness soul and spiritual words are related to poetry.",
+      "status": "German_spot_checked"
+    }
+  ]
+}

@@ -1,19 +1,20 @@
 {
   "schema_version": "1.0",
   "as_of": "2026-11-05",
-  "research_phase": 28,
+  "research_phase": 29,
   "purpose": "Single explicitly versioned dataset pointer for the Organ Concordance Explorer; update here when organ-ledger or dossier versions advance.",
   "files": {
-    "dossiers": "../research/organ-comparative-dossiers-v28.json",
+    "dossiers": "../research/organ-comparative-dossiers-v29.json",
     "medical_corpus": "../research/organ-corpus-ledger-ga313-317-v24.json",
     "ga128_corpus": "../research/organ-corpus-ledger-ga128-v25.json",
     "ga110_corpus": "../research/organ-corpus-ledger-ga110-v28.json",
     "case_supplement": "../research/organ-selected-reading-ga317-viii-v16.json",
     "stage_agency": "../research/organ-hierarchy-agency-matrix-v27.json",
-    "section_review": "../research/organ-paragraph-review-cross-corpus-v28.json",
-    "candidate_claims": "../research/organ-atomic-claims-cross-corpus-v28.json",
-    "textual_issues": "../research/organ-german-checks-and-textual-issues-v28.json",
-    "priority_inventory": "../research/organ-priority-corpus-inventory-v28.json"
+    "section_review": "../research/organ-paragraph-review-ga102-iii-xiii-v29.json",
+    "candidate_claims": "../research/organ-atomic-claims-ga102-iii-xiii-v29.json",
+    "textual_issues": "../research/organ-german-checks-and-textual-issues-v29.json",
+    "priority_inventory": "../research/organ-priority-corpus-inventory-v29.json",
+    "ga102_corpus": "../research/organ-corpus-ledger-ga102-v29.json"
   },
   "verified_current_counts": {
     "organ_dossiers": 40,
@@ -28,9 +29,17 @@
     "v28_numbered_sections": 301,
     "v28_unnumbered_blocks": 5,
     "v28_selected_records": 128,
-    "v28_german_spot_checks": 17
+    "v28_german_spot_checks": 17,
+    "ga102_complete": 13,
+    "ga102_catalogue_entries": 13,
+    "ga102_unread": 0,
+    "ga102_English_numbered_sections": 336,
+    "v29_numbered_sections": 278,
+    "v29_unnumbered_blocks": 2,
+    "v29_selected_records": 87,
+    "v29_german_spot_checks": 18
   },
   "certification": "Completed English source-view reading does not equal exhaustive atomic extraction, complete original German collation, independent second review, scientific fact or medical validation.",
-  "manuscript_latest_published": "docs/Steiner_Organ_Evolution_Research_Atlas_v28.md",
+  "manuscript_latest_published": "docs/Steiner_Organ_Evolution_Research_Atlas_v29.md",
   "notes": "Medical GA313–317 has its fixed 61-entry denominator; GA128 and GA110 denominators are separate. The alternative GA317 VIII English translation is a source-critical supplement, not another lecture event."
 }

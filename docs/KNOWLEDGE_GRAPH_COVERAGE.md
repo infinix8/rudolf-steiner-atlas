@@ -2,8 +2,8 @@
 
 Generated from local, original Atlas records; no external documents accessed.
 
-- **352 passage-qualified relationships**; **117 original source pages**.
-- **232 direct cross-domain graph connections**.
+- **365 passage-qualified relationships**; **128 original source pages**.
+- **243 direct cross-domain graph connections**.
 - **4 of 30 initial crosslinks** directly matched; **22** still have no matching exact-endpoint source evidence.
 - Source pages include alternate views of shared lecture events (GA313 IX / GA315 VII); page counts are not independent-event counts.
 - Source verification means **selected passages were checked**, not that full books were reviewed.
@@ -17,10 +17,10 @@ Generated from local, original Atlas records; no external documents accessed.
 | 03 | Esoteric Training, Initiation, and Spiritual Research | 13 |
 | 04 | Worldviews, Philosophy of Spirit, and Conceptual Structures | 6 |
 | 05 | Spiritual Worlds, Hierarchies, and Beings | 41 |
-| 06 | Cosmic Genesis, Earth Evolution, and the Future | 37 |
+| 06 | Cosmic Genesis, Earth Evolution, and the Future | 43 |
 | 07 | Nature Kingdoms, Elemental Beings, and the Living Earth | 24 |
-| 08 | Karma, Reincarnation, Death, and Spiritual Destiny | 25 |
-| 09 | Human Constitution: Body, Soul, and Spirit | 134 |
+| 08 | Karma, Reincarnation, Death, and Spiritual Destiny | 28 |
+| 09 | Human Constitution: Body, Soul, and Spirit | 143 |
 | 10 | Soul Life, Consciousness, Senses, and Psychology | 13 |
 | 11 | Life Course, Human Relations, and Embodied Biography | 18 |
 | 12 | Human Evolution and the Future of Consciousness | 10 |
@@ -29,7 +29,7 @@ Generated from local, original Atlas records; no external documents accessed.
 | 15 | Human History, Cultural Epochs, Peoples, and Civilizations | 7 |
 | 16 | Michael, Lucifer, Ahriman, and Spiritual Opposition | 5 |
 | 17 | Natural Sciences, Mathematics, Astronomy, and Technology | 10 |
-| 18 | Medicine, Therapeutics, Health, and Remedial Care | 137 |
+| 18 | Medicine, Therapeutics, Health, and Remedial Care | 143 |
 | 19 | Education, Waldorf Pedagogy, and Child Development | 13 |
 | 20 | Agriculture, Food, Nutrition, and Ecological Life | 9 |
 | 21 | Social Threefolding, Economics, Law, and Political Life | 7 |
@@ -160,6 +160,17 @@ Generated from local, original Atlas records; no external documents accessed.
 | [SG-GA205-06-V28](https://rsarchive.org/Lectures/GA205/English/SOL/19210702p01.html) | GA 205 — Human-Becoming, World-Soul and World-Spirit I | 1 |
 | [SG-GA208-01-V28](https://rsarchive.org/Lectures/GA208/English/SOL/19211021p01.html) | GA 208 — Anthroposophy as Cosmosophy II | 1 |
 | [SG-GA218-16-V28](https://rsarchive.org/Lectures/GA218/English/SOL/19221209p01.html) | GA 218 — Spiritual Connections in the Structure of the Human Organism | 1 |
+| [SG-GA102-03-V29](https://rsarchive.org/Lectures/GA102/English/SOL/19080215p01.html) | GA 102 — The Influence of Spiritual Beings upon Man | 1 |
+| [SG-GA102-04-V29](https://rsarchive.org/Lectures/GA102/English/SOL/19080229p01.html) | GA 102 — The Influence of Spiritual Beings upon Man | 2 |
+| [SG-GA102-05-V29](https://rsarchive.org/Lectures/GA102/English/SOL/19080316p01.html) | GA 102 — The Influence of Spiritual Beings upon Man | 1 |
+| [SG-GA102-06-V29](https://rsarchive.org/Lectures/GA102/English/SOL/19080324p01.html) | GA 102 — The Influence of Spiritual Beings upon Man | 1 |
+| [SG-GA102-07-V29](https://rsarchive.org/Lectures/GA102/English/SOL/19080413p01.html) | GA 102 — The Influence of Spiritual Beings upon Man | 1 |
+| [SG-GA102-08-V29](https://rsarchive.org/Lectures/GA102/English/SOL/19080420p01.html) | GA 102 — The Influence of Spiritual Beings upon Man | 1 |
+| [SG-GA102-09-V29](https://rsarchive.org/Lectures/GA102/English/SOL/19080513p01.html) | GA 102 — The Influence of Spiritual Beings upon Man | 1 |
+| [SG-GA102-10-V29](https://rsarchive.org/Lectures/GA102/English/SOL/19080516p01.html) | GA 102 — The Influence of Spiritual Beings upon Man | 1 |
+| [SG-GA102-11-V29](https://rsarchive.org/Lectures/GA102/English/SOL/19080601p01.html) | GA 102 — The Influence of Spiritual Beings upon Man | 1 |
+| [SG-GA102-12-V29](https://rsarchive.org/Lectures/GA102/English/SOL/19080604p01.html) | GA 102 — The Influence of Spiritual Beings upon Man | 1 |
+| [SG-GA102-13-V29](https://rsarchive.org/Lectures/GA102/English/SOL/19080611p01.html) | GA 102 — The Influence of Spiritual Beings upon Man | 2 |
 
 ## Audit boundaries
 

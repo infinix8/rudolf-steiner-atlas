@@ -1,0 +1,32 @@
+{
+  "date": "2026-11-05",
+  "scope": "Structural, provenance and document checks only; reading accuracy is documented by source-unit review and comparisons.",
+  "passed": [
+    "taxonomy",
+    "taxonomy export parity",
+    "atlas local integrity",
+    "knowledge graph references and bibliographic fields",
+    "knowledge graph report freshness",
+    "subdomain report freshness",
+    "original editorial dossiers",
+    "source trajectories",
+    "shared source aliases",
+    "phase16 safeguards",
+    "medical corpus v24 invariants including current claim crosslinks",
+    "historical v27 invariants",
+    "v28 cross-corpus invariants",
+    "v29 GA102 coverage, reconciliation, dossier and manuscript invariants",
+    "changed JavaScript syntax"
+  ],
+  "document": {
+    "pages": 101,
+    "previous_pages": 97,
+    "previous_page_texts_identical": true,
+    "new_pages_visually_checked": 4,
+    "markdown_previous_bytes_preserved": true
+  },
+  "browser": {
+    "local_status": "blocked",
+    "reason": "Chromium process singleton socket is prohibited in this environment. Desktop/mobile regression will be checked through the existing GitHub workflow."
+  }
+}

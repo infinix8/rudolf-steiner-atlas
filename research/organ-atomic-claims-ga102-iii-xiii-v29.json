@@ -1,0 +1,2684 @@
+{
+  "schema_version": "1.5",
+  "date": "2026-11-05",
+  "scope": "Selected propositions; candidate status is provisional. Apparent conflicts require further research.",
+  "records": [
+    {
+      "id": "ORG-CLAIM-V29-001",
+      "catalogue_entry_id": "GA102-03",
+      "ga": 102,
+      "date": "1908-02-15",
+      "lecture": 3,
+      "section": 3,
+      "passage_cue": "SOL English §3",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080215p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "astral body",
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "restoration",
+      "temporal_framework": "nightly sleep",
+      "paraphrase": "Steiner assigns removal of daytime fatigue and rebuilding to astral activity.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison.",
+        "Esoteric cosmogony; not established astronomy, biology or anatomy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-002",
+      "catalogue_entry_id": "GA102-03",
+      "ga": 102,
+      "date": "1908-02-15",
+      "lecture": 3,
+      "section": 9,
+      "passage_cue": "SOL English §9",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080215p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "stage versus anatomy",
+      "temporal_framework": "earlier embodiments",
+      "paraphrase": "Human stage designates a rank of development that can occur in gaseous or watery forms.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison.",
+        "Esoteric cosmogony; not established astronomy, biology or anatomy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-003",
+      "catalogue_entry_id": "GA102-03",
+      "ga": 102,
+      "date": "1908-02-15",
+      "lecture": 3,
+      "section": 17,
+      "passage_cue": "SOL English §17",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080215p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "blood"
+      ],
+      "agent": "Mars",
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "iron source",
+      "temporal_framework": "Earth separation",
+      "paraphrase": "The Mars passage is said to leave iron, including the iron in human blood.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison.",
+        "Esoteric cosmogony; not established astronomy, biology or anatomy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-004",
+      "catalogue_entry_id": "GA102-03",
+      "ga": 102,
+      "date": "1908-02-15",
+      "lecture": 3,
+      "section": 20,
+      "passage_cue": "SOL English §20",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080215p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "Jehovah",
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "formative agency",
+      "temporal_framework": "Earth development",
+      "paraphrase": "Jehovah is said to prepare a bodily form capable of bearing the I.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison.",
+        "Esoteric cosmogony; not established astronomy, biology or anatomy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-005",
+      "catalogue_entry_id": "GA102-03",
+      "ga": 102,
+      "date": "1908-02-15",
+      "lecture": 3,
+      "section": 22,
+      "passage_cue": "SOL English §22",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080215p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "Venus beings",
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "teaching",
+      "temporal_framework": "early human development",
+      "paraphrase": "Venus beings are said to impart intellectual capacities unconsciously.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison.",
+        "Esoteric cosmogony; not established astronomy, biology or anatomy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-006",
+      "catalogue_entry_id": "GA102-03",
+      "ga": 102,
+      "date": "1908-02-15",
+      "lecture": 3,
+      "section": 22,
+      "passage_cue": "SOL English §22",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080215p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "Mercury beings",
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "teaching",
+      "temporal_framework": "early mystery initiation",
+      "paraphrase": "Mercury beings are said to teach early initiates consciously.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison.",
+        "Esoteric cosmogony; not established astronomy, biology or anatomy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-007",
+      "catalogue_entry_id": "GA102-03",
+      "ga": 102,
+      "date": "1908-02-15",
+      "lecture": 3,
+      "section": 23,
+      "passage_cue": "SOL English §23",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080215p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "Mars beings",
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "soul-member influence",
+      "temporal_framework": "Earth development",
+      "paraphrase": "Mars is linked to development of the sentient soul.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison.",
+        "Esoteric cosmogony; not established astronomy, biology or anatomy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-008",
+      "catalogue_entry_id": "GA102-03",
+      "ga": 102,
+      "date": "1908-02-15",
+      "lecture": 3,
+      "section": 23,
+      "passage_cue": "SOL English §23",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080215p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "Mercury beings",
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "soul-member influence",
+      "temporal_framework": "Earth development",
+      "paraphrase": "Mercury is linked to development of the intellectual soul.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison.",
+        "Esoteric cosmogony; not established astronomy, biology or anatomy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-009",
+      "catalogue_entry_id": "GA102-03",
+      "ga": 102,
+      "date": "1908-02-15",
+      "lecture": 3,
+      "section": 23,
+      "passage_cue": "SOL English §23",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080215p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "Jupiter beings",
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "soul-member influence",
+      "temporal_framework": "Earth development",
+      "paraphrase": "Jupiter is linked to development of the consciousness soul.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison.",
+        "Esoteric cosmogony; not established astronomy, biology or anatomy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-010",
+      "catalogue_entry_id": "GA102-03",
+      "ga": 102,
+      "date": "1908-02-15",
+      "lecture": 3,
+      "section": 24,
+      "passage_cue": "SOL English §24",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080215p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "Venus beings",
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "spirit-member influence",
+      "temporal_framework": "Earth development",
+      "paraphrase": "Venus activity is connected with Spirit Self entering the consciousness soul.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison.",
+        "Esoteric cosmogony; not established astronomy, biology or anatomy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-011",
+      "catalogue_entry_id": "GA102-03",
+      "ga": 102,
+      "date": "1908-02-15",
+      "lecture": 3,
+      "section": 25,
+      "passage_cue": "SOL English §25",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080215p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "Jupiter beings",
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "multiple roles",
+      "temporal_framework": "different developmental periods",
+      "paraphrase": "The same beings can participate in etheric formation at one period and consciousness-soul development at another.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison.",
+        "Esoteric cosmogony; not established astronomy, biology or anatomy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-012",
+      "catalogue_entry_id": "GA102-04",
+      "ga": 102,
+      "date": "1908-02-29",
+      "lecture": 4,
+      "section": 6,
+      "passage_cue": "SOL English §6",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080229p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "Spirits of Form",
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "reflection",
+      "temporal_framework": "Old Saturn",
+      "paraphrase": "An etheric influence from form spirits is reflected by Saturn warmth as the primordial physical disposition.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-013",
+      "catalogue_entry_id": "GA102-04",
+      "ga": 102,
+      "date": "1908-02-29",
+      "lecture": 4,
+      "section": 7,
+      "passage_cue": "SOL English §7",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080229p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "Spirits of Form",
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "donation",
+      "temporal_framework": "Old Sun",
+      "paraphrase": "Form spirits are expressly said to relinquish etheric bodies, portions of which become human etheric organization.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "apparent_conflict",
+        "prior_claim_ids": [
+          "ORG-CLAIM-V27-042"
+        ],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-014",
+      "catalogue_entry_id": "GA102-04",
+      "ga": 102,
+      "date": "1908-02-29",
+      "lecture": 4,
+      "section": 12,
+      "passage_cue": "SOL English §12",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080229p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "Spirits of Form",
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "donation",
+      "temporal_framework": "Old Moon",
+      "paraphrase": "Form spirits are said to relinquish astral bodies while their own lowest member becomes I.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-015",
+      "catalogue_entry_id": "GA102-04",
+      "ga": 102,
+      "date": "1908-02-29",
+      "lecture": 4,
+      "section": 16,
+      "passage_cue": "SOL English §16",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080229p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "Spirits of Form",
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "donation",
+      "temporal_framework": "Earth",
+      "paraphrase": "Form spirits are said to give the I while their own lowest member becomes Manas.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-016",
+      "catalogue_entry_id": "GA102-04",
+      "ga": 102,
+      "date": "1908-02-29",
+      "lecture": 4,
+      "section": 18,
+      "passage_cue": "SOL English §18",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080229p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "human I",
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "perceptual opening",
+      "temporal_framework": "Lemurian stage",
+      "paraphrase": "The first opening attributed to the I reaches the astral body and permits dim image perception.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-017",
+      "catalogue_entry_id": "GA102-04",
+      "ga": 102,
+      "date": "1908-02-29",
+      "lecture": 4,
+      "section": 19,
+      "passage_cue": "SOL English §19",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080229p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "human I",
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "soul formation",
+      "temporal_framework": "Lemurian stage",
+      "paraphrase": "I activity permeating astrality forms the sentient soul.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-018",
+      "catalogue_entry_id": "GA102-04",
+      "ga": 102,
+      "date": "1908-02-29",
+      "lecture": 4,
+      "section": 21,
+      "passage_cue": "SOL English §21",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080229p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "human I",
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "perceptual opening",
+      "temporal_framework": "Atlantean stage",
+      "paraphrase": "I activity subsequently reaches etheric organization.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-019",
+      "catalogue_entry_id": "GA102-04",
+      "ga": 102,
+      "date": "1908-02-29",
+      "lecture": 4,
+      "section": 23,
+      "passage_cue": "SOL English §23",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080229p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "eyes",
+        "ears"
+      ],
+      "agent": "human I",
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "perceptual opening",
+      "temporal_framework": "late Atlantis",
+      "paraphrase": "I activity reaching physical organization is connected with opening the physical senses.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-020",
+      "catalogue_entry_id": "GA102-04",
+      "ga": 102,
+      "date": "1908-02-29",
+      "lecture": 4,
+      "section": 24,
+      "passage_cue": "SOL English §24",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080229p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "soul formation",
+      "temporal_framework": "Atlantean stage",
+      "paraphrase": "The transformed etheric body is called intellectual soul in this account.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-021",
+      "catalogue_entry_id": "GA102-04",
+      "ga": 102,
+      "date": "1908-02-29",
+      "lecture": 4,
+      "section": 24,
+      "passage_cue": "SOL English §24",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080229p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "soul formation",
+      "temporal_framework": "late Atlantis",
+      "paraphrase": "The transformed physical body is called consciousness soul in this account.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-022",
+      "catalogue_entry_id": "GA102-04",
+      "ga": 102,
+      "date": "1908-02-29",
+      "lecture": 4,
+      "section": 25,
+      "passage_cue": "SOL English §25",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080229p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "human I",
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "conscious transformation",
+      "temporal_framework": "present Earth development",
+      "paraphrase": "Earlier transformations are distinguished from later conscious astral work.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-023",
+      "catalogue_entry_id": "GA102-04",
+      "ga": 102,
+      "date": "1908-02-29",
+      "lecture": 4,
+      "section": 26,
+      "passage_cue": "SOL English §26",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080229p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "bones"
+      ],
+      "agent": "Spirits of Form",
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "wisdom example",
+      "temporal_framework": "present bodily architecture",
+      "paraphrase": "The arrangement of femoral struts illustrates wisdom that Steiner identifies as the lowest member of form spirits.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-024",
+      "catalogue_entry_id": "GA102-04",
+      "ga": 102,
+      "date": "1908-02-29",
+      "lecture": 4,
+      "section": 28,
+      "passage_cue": "SOL English §28",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080229p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "Christ",
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "condition of transformation",
+      "temporal_framework": "Golgotha and future humanity",
+      "paraphrase": "The deed of Golgotha is said to enable development of Life Spirit or Buddhi.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-025",
+      "catalogue_entry_id": "GA102-05",
+      "ga": 102,
+      "date": "1908-03-16",
+      "lecture": 5,
+      "section": 7,
+      "passage_cue": "SOL English §7",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080316p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "recapitulation",
+      "temporal_framework": "early Earth",
+      "paraphrase": "The repeated Saturn condition already contains the effects of the intervening Sun and Moon developments.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison.",
+        "Esoteric cosmogony; not established astronomy, biology or anatomy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-026",
+      "catalogue_entry_id": "GA102-05",
+      "ga": 102,
+      "date": "1908-03-16",
+      "lecture": 5,
+      "section": 9,
+      "passage_cue": "SOL English §9",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080316p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "heart",
+        "circulation"
+      ],
+      "agent": null,
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "rudiment",
+      "temporal_framework": "Earth recapitulation",
+      "paraphrase": "A warmth stream with a heart-centered branching structure is described before material blood and vessels.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "different_context",
+        "prior_claim_ids": [
+          "ORG-CLAIM-V27-039"
+        ],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison.",
+        "Esoteric cosmogony; not established astronomy, biology or anatomy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-027",
+      "catalogue_entry_id": "GA102-05",
+      "ga": 102,
+      "date": "1908-03-16",
+      "lecture": 5,
+      "section": 9,
+      "passage_cue": "SOL English §9",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080316p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "head"
+      ],
+      "agent": null,
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "temperature perception",
+      "temporal_framework": "Lemurian stage",
+      "paraphrase": "A lantern-like organ above the head is assigned temperature perception and explicitly distinguished from an eye.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison.",
+        "Esoteric cosmogony; not established astronomy, biology or anatomy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-028",
+      "catalogue_entry_id": "GA102-05",
+      "ga": 102,
+      "date": "1908-03-16",
+      "lecture": 5,
+      "section": 12,
+      "passage_cue": "SOL English §12",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080316p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "lungs"
+      ],
+      "agent": null,
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "rudiment",
+      "temporal_framework": "Earth recapitulation",
+      "paraphrase": "The initial respiratory process is associated with air added to the warmth organization.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison.",
+        "Esoteric cosmogony; not established astronomy, biology or anatomy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-029",
+      "catalogue_entry_id": "GA102-05",
+      "ga": 102,
+      "date": "1908-03-16",
+      "lecture": 5,
+      "section": 12,
+      "passage_cue": "SOL English §12",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080316p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "nervous system"
+      ],
+      "agent": "light",
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "rudiment",
+      "temporal_framework": "Earth recapitulation",
+      "paraphrase": "Nervous organization begins as force lines, rather than developed anatomical nerve tissue.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison.",
+        "Esoteric cosmogony; not established astronomy, biology or anatomy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-030",
+      "catalogue_entry_id": "GA102-05",
+      "ga": 102,
+      "date": "1908-03-16",
+      "lecture": 5,
+      "section": 17,
+      "passage_cue": "SOL English §17",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080316p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "blood",
+        "nervous system"
+      ],
+      "agent": "cosmic sound",
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "material incorporation",
+      "temporal_framework": "Earth recapitulation",
+      "paraphrase": "Protein is said to enter the previously indicated force paths under the influence of cosmic sound.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison.",
+        "Esoteric cosmogony; not established astronomy, biology or anatomy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-031",
+      "catalogue_entry_id": "GA102-05",
+      "ga": 102,
+      "date": "1908-03-16",
+      "lecture": 5,
+      "section": 18,
+      "passage_cue": "SOL English §18",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080316p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "whole before cells",
+      "temporal_framework": "primordial organization",
+      "paraphrase": "Steiner says cells arise from a previously organized whole.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison.",
+        "Esoteric cosmogony; not established astronomy, biology or anatomy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-032",
+      "catalogue_entry_id": "GA102-05",
+      "ga": 102,
+      "date": "1908-03-16",
+      "lecture": 5,
+      "section": 19,
+      "passage_cue": "SOL English §19",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080316p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "sense organs"
+      ],
+      "agent": null,
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "opening",
+      "temporal_framework": "Moon separation",
+      "paraphrase": "Previously formed senses are said to open only after the Moon leaves the Earth.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison.",
+        "Esoteric cosmogony; not established astronomy, biology or anatomy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-033",
+      "catalogue_entry_id": "GA102-05",
+      "ga": 102,
+      "date": "1908-03-16",
+      "lecture": 5,
+      "section": 21,
+      "passage_cue": "SOL English §21",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080316p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "heart"
+      ],
+      "agent": null,
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "rudiment limitation",
+      "temporal_framework": "Earth recapitulation",
+      "paraphrase": "The retrospective account explicitly distinguishes the heart disposition from the mature organ.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison.",
+        "Esoteric cosmogony; not established astronomy, biology or anatomy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-034",
+      "catalogue_entry_id": "GA102-05",
+      "ga": 102,
+      "date": "1908-03-16",
+      "lecture": 5,
+      "section": 22,
+      "passage_cue": "SOL English §22",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080316p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "bones",
+        "blood"
+      ],
+      "agent": null,
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "mineral incorporation",
+      "temporal_framework": "later Earth condensation",
+      "paraphrase": "Mineral ash is said to enter the previously gelatinous organization.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison.",
+        "Esoteric cosmogony; not established astronomy, biology or anatomy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-035",
+      "catalogue_entry_id": "GA102-05",
+      "ga": 102,
+      "date": "1908-03-16",
+      "lecture": 5,
+      "section": 24,
+      "passage_cue": "SOL English §24",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080316p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "bones"
+      ],
+      "agent": "word and thought",
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "formative agency",
+      "temporal_framework": "late Atlantean condensation",
+      "paraphrase": "Meaning or thought is said to drive mineral into bodily organization and accompany denser skeletal formation.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison.",
+        "Esoteric cosmogony; not established astronomy, biology or anatomy."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-036",
+      "catalogue_entry_id": "GA102-06",
+      "ga": 102,
+      "date": "1908-03-24",
+      "lecture": 6,
+      "section": 3,
+      "passage_cue": "SOL English §3",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080324p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "sense organs",
+        "glands and secretions",
+        "nervous system",
+        "blood"
+      ],
+      "agent": null,
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "sequence",
+      "temporal_framework": "Saturn, Sun, Moon, Earth",
+      "paraphrase": "The four systems are listed as senses, glands, nerves and blood over successive embodiments.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-037",
+      "catalogue_entry_id": "GA102-06",
+      "ga": 102,
+      "date": "1908-03-24",
+      "lecture": 6,
+      "section": 4,
+      "passage_cue": "SOL English §4",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080324p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "blood",
+        "sense organs"
+      ],
+      "agent": null,
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "functional metamorphosis",
+      "temporal_framework": "Earth recapitulation",
+      "paraphrase": "The first warmth or blood disposition also functions as a sensory system.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-038",
+      "catalogue_entry_id": "GA102-06",
+      "ga": 102,
+      "date": "1908-03-24",
+      "lecture": 6,
+      "section": 4,
+      "passage_cue": "SOL English §4",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080324p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "blood",
+        "nervous system"
+      ],
+      "agent": null,
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "functional metamorphosis",
+      "temporal_framework": "Earth recapitulation",
+      "paraphrase": "Earlier systems are repeatedly transformed while portions remain to support later organization.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-039",
+      "catalogue_entry_id": "GA102-06",
+      "ga": 102,
+      "date": "1908-03-24",
+      "lecture": 6,
+      "section": 8,
+      "passage_cue": "SOL English §8",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080324p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "bones",
+        "heart",
+        "brain"
+      ],
+      "agent": "lunar group souls",
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "wisdom imprint",
+      "temporal_framework": "Old Moon",
+      "paraphrase": "Wisdom visible in bones, heart and brain is attributed to lunar group souls.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-040",
+      "catalogue_entry_id": "GA102-06",
+      "ga": 102,
+      "date": "1908-03-24",
+      "lecture": 6,
+      "section": 13,
+      "passage_cue": "SOL English §13",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080324p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "spirits of wisdom and spirits of love",
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "cooperation",
+      "temporal_framework": "Earth lives",
+      "paraphrase": "Wisdom and love are related to individuality and personality but explicitly work through one another.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-041",
+      "catalogue_entry_id": "GA102-06",
+      "ga": 102,
+      "date": "1908-03-24",
+      "lecture": 6,
+      "section": 14,
+      "passage_cue": "SOL English §14",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080324p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "Christ",
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "spiritualization",
+      "temporal_framework": "Earth and future",
+      "paraphrase": "The Christ principle is described as redeeming bodies through successive earthly lives.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-042",
+      "catalogue_entry_id": "GA102-06",
+      "ga": 102,
+      "date": "1908-03-24",
+      "lecture": 6,
+      "section": 17,
+      "passage_cue": "SOL English §17",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080324p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "Luciferic spirits and Christ",
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "freedom and love",
+      "temporal_framework": "Earth development",
+      "paraphrase": "Luciferic spirits are assigned the possibility of free choice and Christ the principle of love.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-043",
+      "catalogue_entry_id": "GA102-06",
+      "ga": 102,
+      "date": "1908-03-24",
+      "lecture": 6,
+      "section": 18,
+      "passage_cue": "SOL English §18",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080324p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "kinship"
+      ],
+      "agent": null,
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "universal relation",
+      "temporal_framework": "Earth to Jupiter",
+      "paraphrase": "Christian love is described as extending beyond descent to the welfare of every individual.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-044",
+      "catalogue_entry_id": "GA102-07",
+      "ga": 102,
+      "date": "1908-04-13",
+      "lecture": 7,
+      "section": 9,
+      "passage_cue": "SOL English §9",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080413p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "eyes",
+        "ears",
+        "brain",
+        "nervous system"
+      ],
+      "agent": "I and astral body",
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "waking use",
+      "temporal_framework": "present waking",
+      "paraphrase": "Reentry into physical and etheric bodies enables use of sensory organs and processing of impressions.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-045",
+      "catalogue_entry_id": "GA102-07",
+      "ga": 102,
+      "date": "1908-04-13",
+      "lecture": 7,
+      "section": 13,
+      "passage_cue": "SOL English §13",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080413p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "head"
+      ],
+      "agent": null,
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "constitutional relation",
+      "temporal_framework": "late Atlantis",
+      "paraphrase": "Etheric and physical head regions are said to coincide more closely, changing perception.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-046",
+      "catalogue_entry_id": "GA102-07",
+      "ga": 102,
+      "date": "1908-04-13",
+      "lecture": 7,
+      "section": 14,
+      "passage_cue": "SOL English §14",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080413p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "initiating priest",
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "initiation",
+      "temporal_framework": "ancient mysteries",
+      "paraphrase": "Ancient initiation is described through partial etheric withdrawal and a three-and-a-half-day bodily sleep.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-047",
+      "catalogue_entry_id": "GA102-07",
+      "ga": 102,
+      "date": "1908-04-13",
+      "lecture": 7,
+      "section": 22,
+      "passage_cue": "SOL English §22",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080413p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "future loosening",
+      "temporal_framework": "post-Atlantean development",
+      "paraphrase": "Steiner forecasts increasing independence of etheric from physical organization.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-048",
+      "catalogue_entry_id": "GA102-07",
+      "ga": 102,
+      "date": "1908-04-13",
+      "lecture": 7,
+      "section": 32,
+      "passage_cue": "SOL English §32",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080413p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "historical pathology attribution",
+      "temporal_framework": "modern culture",
+      "paraphrase": "Steiner attributes nervousness and illness fears to failed recognition of a spiritual world; this is an unverified historical explanation.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-049",
+      "catalogue_entry_id": "GA102-08",
+      "ga": 102,
+      "date": "1908-04-20",
+      "lecture": 8,
+      "section": 4,
+      "passage_cue": "SOL English §4",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080420p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "eyes",
+        "ears"
+      ],
+      "agent": "angels",
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "absent anatomy",
+      "temporal_framework": "present angels",
+      "paraphrase": "Angels are explicitly said to lack a physical body and physical sense organs in this lecture.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "apparent_conflict",
+        "prior_claim_ids": [
+          "ORG-CLAIM-V27-028"
+        ],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-050",
+      "catalogue_entry_id": "GA102-08",
+      "ga": 102,
+      "date": "1908-04-20",
+      "lecture": 8,
+      "section": 5,
+      "passage_cue": "SOL English §5",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080420p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "angels",
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "guidance",
+      "temporal_framework": "Earth development",
+      "paraphrase": "Angels guide the human transformation of astral organization into Spirit Self.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-051",
+      "catalogue_entry_id": "GA102-08",
+      "ga": 102,
+      "date": "1908-04-20",
+      "lecture": 8,
+      "section": 6,
+      "passage_cue": "SOL English §6",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080420p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "retained extract",
+      "temporal_framework": "death to rebirth",
+      "paraphrase": "An extract of etheric life is carried forward as a basis for a later physical body.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-052",
+      "catalogue_entry_id": "GA102-08",
+      "ga": 102,
+      "date": "1908-04-20",
+      "lecture": 8,
+      "section": 7,
+      "passage_cue": "SOL English §7",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080420p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "human beings guided by angels",
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "creative cooperation",
+      "temporal_framework": "between incarnations",
+      "paraphrase": "Humans are said to help reshape Earth's living surface between incarnations.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-053",
+      "catalogue_entry_id": "GA102-08",
+      "ga": 102,
+      "date": "1908-04-20",
+      "lecture": 8,
+      "section": 9,
+      "passage_cue": "SOL English §9",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080420p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "archangels",
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "guidance",
+      "temporal_framework": "collective human development",
+      "paraphrase": "Archangels guide collectives from an achieved Buddhi level.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-054",
+      "catalogue_entry_id": "GA102-08",
+      "ga": 102,
+      "date": "1908-04-20",
+      "lecture": 8,
+      "section": 18,
+      "passage_cue": "SOL English §18",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080420p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "Exusiai",
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "planetary conditions",
+      "temporal_framework": "Earth development",
+      "paraphrase": "The Powers guide conditions of the planet that make human evolution possible.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-055",
+      "catalogue_entry_id": "GA102-09",
+      "ga": 102,
+      "date": "1908-05-13",
+      "lecture": 9,
+      "section": 12,
+      "passage_cue": "SOL English §12",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080513p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "head"
+      ],
+      "agent": null,
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "constitutional relation",
+      "temporal_framework": "late Atlantis",
+      "paraphrase": "Closer physical and etheric head correspondence is invoked to explain outward orientation.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "overlap",
+        "prior_claim_ids": [
+          "ORG-CLAIM-V29-045"
+        ],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-056",
+      "catalogue_entry_id": "GA102-09",
+      "ga": 102,
+      "date": "1908-05-13",
+      "lecture": 9,
+      "section": 17,
+      "passage_cue": "SOL English §17",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080513p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "future loosening",
+      "temporal_framework": "post-Atlantean development",
+      "paraphrase": "The returning independence of etheric organization should carry fruits acquired in bodily existence.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "overlap",
+        "prior_claim_ids": [
+          "ORG-CLAIM-V29-047"
+        ],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-057",
+      "catalogue_entry_id": "GA102-10",
+      "ga": 102,
+      "date": "1908-05-16",
+      "lecture": 10,
+      "section": 9,
+      "passage_cue": "SOL English §9",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080516p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "blood"
+      ],
+      "agent": "human I",
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "bodily expression",
+      "temporal_framework": "present human",
+      "paraphrase": "The circulatory system is the bodily instrument of the I.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison.",
+        "The surrounding lecture contains racist hierarchies and an antisemitic Ahasver legend. These are documented critically in the audit."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-058",
+      "catalogue_entry_id": "GA102-10",
+      "ga": 102,
+      "date": "1908-05-16",
+      "lecture": 10,
+      "section": 9,
+      "passage_cue": "SOL English §9",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080516p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "nervous system"
+      ],
+      "agent": "astral body",
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "bodily expression",
+      "temporal_framework": "present human",
+      "paraphrase": "The nervous system is the bodily instrument of the astral body.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison.",
+        "The surrounding lecture contains racist hierarchies and an antisemitic Ahasver legend. These are documented critically in the audit."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-059",
+      "catalogue_entry_id": "GA102-10",
+      "ga": 102,
+      "date": "1908-05-16",
+      "lecture": 10,
+      "section": 9,
+      "passage_cue": "SOL English §9",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080516p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "glands and secretions"
+      ],
+      "agent": "etheric body",
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "bodily expression",
+      "temporal_framework": "present human",
+      "paraphrase": "The glandular system is the bodily instrument of the etheric body.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison.",
+        "The surrounding lecture contains racist hierarchies and an antisemitic Ahasver legend. These are documented critically in the audit."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-060",
+      "catalogue_entry_id": "GA102-10",
+      "ga": 102,
+      "date": "1908-05-16",
+      "lecture": 10,
+      "section": 10,
+      "passage_cue": "SOL English §10",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080516p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "brain"
+      ],
+      "agent": "human I",
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "I-mediated formation",
+      "temporal_framework": "successive incarnations",
+      "paraphrase": "The forebrain is interpreted as the expression of I activity on astral organization.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison.",
+        "The surrounding lecture contains racist hierarchies and an antisemitic Ahasver legend. These are documented critically in the audit."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-061",
+      "catalogue_entry_id": "GA102-10",
+      "ga": 102,
+      "date": "1908-05-16",
+      "lecture": 10,
+      "section": 10,
+      "passage_cue": "SOL English §10",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080516p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "limbs"
+      ],
+      "agent": "human I",
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "I-mediated formation",
+      "temporal_framework": "human development",
+      "paraphrase": "Transformation of the front limbs into working organs is attributed to the same inner activity.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison.",
+        "The surrounding lecture contains racist hierarchies and an antisemitic Ahasver legend. These are documented critically in the audit."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-062",
+      "catalogue_entry_id": "GA102-10",
+      "ga": 102,
+      "date": "1908-05-16",
+      "lecture": 10,
+      "section": 14,
+      "passage_cue": "SOL English §14",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080516p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "human individual",
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "co-creation",
+      "temporal_framework": "successive incarnations",
+      "paraphrase": "Experiences of sight and hearing are said to contribute to subsequent form and capacities.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison.",
+        "The surrounding lecture contains racist hierarchies and an antisemitic Ahasver legend. These are documented critically in the audit."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-063",
+      "catalogue_entry_id": "GA102-10",
+      "ga": 102,
+      "date": "1908-05-16",
+      "lecture": 10,
+      "section": 19,
+      "passage_cue": "SOL English §19",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080516p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "bones"
+      ],
+      "agent": null,
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "wisdom example",
+      "temporal_framework": "Old Moon to Earth",
+      "paraphrase": "Femoral architecture is cited again as an example of wisdom established during Old Moon.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "different_context",
+        "prior_claim_ids": [
+          "ORG-CLAIM-V29-023"
+        ],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison.",
+        "The surrounding lecture contains racist hierarchies and an antisemitic Ahasver legend. These are documented critically in the audit."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-064",
+      "catalogue_entry_id": "GA102-11",
+      "ga": 102,
+      "date": "1908-06-01",
+      "lecture": 11,
+      "section": 10,
+      "passage_cue": "SOL English §10",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080601p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "sense organs"
+      ],
+      "agent": "I and astral body",
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "daily use",
+      "temporal_framework": "present waking",
+      "paraphrase": "Waking entails renewed use of physical organs after sleep.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "same_claim",
+        "prior_claim_ids": [
+          "ORG-CLAIM-V29-044"
+        ],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-065",
+      "catalogue_entry_id": "GA102-11",
+      "ga": 102,
+      "date": "1908-06-01",
+      "lecture": 11,
+      "section": 24,
+      "passage_cue": "SOL English §24",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080601p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "freely associating human individuals",
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "invitation by association",
+      "temporal_framework": "future human community",
+      "paraphrase": "Voluntary association is said to invite higher group beings while preserving individual freedom.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-066",
+      "catalogue_entry_id": "GA102-11",
+      "ga": 102,
+      "date": "1908-06-01",
+      "lecture": 11,
+      "section": 28,
+      "passage_cue": "SOL English §28",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080601p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "Zeus and Wotan",
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "partial manifestation",
+      "temporal_framework": "mythic prehistory",
+      "paraphrase": "Bird images are interpreted as limited bodily points of contact for higher beings, rather than human organ builders.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-067",
+      "catalogue_entry_id": "GA102-12",
+      "ga": 102,
+      "date": "1908-06-04",
+      "lecture": 12,
+      "section": 4,
+      "passage_cue": "SOL English §4",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080604p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "sense organs"
+      ],
+      "agent": null,
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "rudiment",
+      "temporal_framework": "Old Saturn",
+      "paraphrase": "The initial sensory disposition is subsequently transformed at each embodiment.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-068",
+      "catalogue_entry_id": "GA102-12",
+      "ga": 102,
+      "date": "1908-06-04",
+      "lecture": 12,
+      "section": 4,
+      "passage_cue": "SOL English §4",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080604p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "glands and secretions"
+      ],
+      "agent": null,
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "rudiment",
+      "temporal_framework": "Old Sun",
+      "paraphrase": "The glandular disposition is added when etheric organization joins.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-069",
+      "catalogue_entry_id": "GA102-12",
+      "ga": 102,
+      "date": "1908-06-04",
+      "lecture": 12,
+      "section": 4,
+      "passage_cue": "SOL English §4",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080604p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "nervous system"
+      ],
+      "agent": null,
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "rudiment",
+      "temporal_framework": "Old Moon",
+      "paraphrase": "Nervous organs are added with astral organization.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-070",
+      "catalogue_entry_id": "GA102-12",
+      "ga": 102,
+      "date": "1908-06-04",
+      "lecture": 12,
+      "section": 4,
+      "passage_cue": "SOL English §4",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080604p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "blood"
+      ],
+      "agent": null,
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "rudiment",
+      "temporal_framework": "Earth",
+      "paraphrase": "The blood system in its present form develops as expression of the I.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-071",
+      "catalogue_entry_id": "GA102-12",
+      "ga": 102,
+      "date": "1908-06-04",
+      "lecture": 12,
+      "section": 5,
+      "passage_cue": "SOL English §5",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080604p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "eyes",
+        "ears"
+      ],
+      "agent": null,
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "physical versus mineral",
+      "temporal_framework": "across embodiments",
+      "paraphrase": "Organ law and form are distinguished from the mineral substances later occupying that form.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-072",
+      "catalogue_entry_id": "GA102-12",
+      "ga": 102,
+      "date": "1908-06-04",
+      "lecture": 12,
+      "section": 6,
+      "passage_cue": "SOL English §6",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080604p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "nervous system",
+        "blood"
+      ],
+      "agent": "other astral and I beings",
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "nocturnal maintenance",
+      "temporal_framework": "nightly sleep",
+      "paraphrase": "Other astral and I beings are said to sustain nerves and blood while the person's own members are outside.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-073",
+      "catalogue_entry_id": "GA102-12",
+      "ga": 102,
+      "date": "1908-06-04",
+      "lecture": 12,
+      "section": 7,
+      "passage_cue": "SOL English §7",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080604p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "human I and astral body guided by higher beings",
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "restoration under guidance",
+      "temporal_framework": "nightly sleep",
+      "paraphrase": "The human I and astral body work on the resting bodies from outside under higher guidance.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-074",
+      "catalogue_entry_id": "GA102-12",
+      "ga": 102,
+      "date": "1908-06-04",
+      "lecture": 12,
+      "section": 11,
+      "passage_cue": "SOL English §11",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080604p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "higher Self",
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "higher influence",
+      "temporal_framework": "nightly sleep",
+      "paraphrase": "Influence from the higher Self on sleeping astrality is described as a normal possibility.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-075",
+      "catalogue_entry_id": "GA102-12",
+      "ga": 102,
+      "date": "1908-06-04",
+      "lecture": 12,
+      "section": 12,
+      "passage_cue": "SOL English §12",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080604p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "coercive influence",
+      "temporal_framework": "soul relations",
+      "paraphrase": "Violation of another person's mental freedom is interpreted as creating harmful astral residues.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-076",
+      "catalogue_entry_id": "GA102-12",
+      "ga": 102,
+      "date": "1908-06-04",
+      "lecture": 12,
+      "section": 15,
+      "passage_cue": "SOL English §15",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080604p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "human artistic and reflective activity",
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "etheric preparation",
+      "temporal_framework": "future development",
+      "paraphrase": "Art, wisdom and religious experience are said to support future etheric independence.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-077",
+      "catalogue_entry_id": "GA102-13",
+      "ga": 102,
+      "date": "1908-06-11",
+      "lecture": 13,
+      "section": 5,
+      "passage_cue": "SOL English §5",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080611p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "beings with etheric lowest member",
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "artistic bridge",
+      "temporal_framework": "human culture",
+      "paraphrase": "Architectural and sculptural forms are said to provide earthly points of contact for etheric beings.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-078",
+      "catalogue_entry_id": "GA102-13",
+      "ga": 102,
+      "date": "1908-06-11",
+      "lecture": 13,
+      "section": 6,
+      "passage_cue": "SOL English §6",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080611p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "beings with astral lowest member",
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "artistic bridge",
+      "temporal_framework": "human culture",
+      "paraphrase": "Musical and sound arts provide a different point of contact for astral beings.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-079",
+      "catalogue_entry_id": "GA102-13",
+      "ga": 102,
+      "date": "1908-06-11",
+      "lecture": 13,
+      "section": 8,
+      "passage_cue": "SOL English §8",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080611p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "partial retention",
+      "temporal_framework": "nightly sleep",
+      "paraphrase": "A part of the soul-body remains with the etheric body while the three soul members depart.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-080",
+      "catalogue_entry_id": "GA102-13",
+      "ga": 102,
+      "date": "1908-06-11",
+      "lecture": 13,
+      "section": 9,
+      "passage_cue": "SOL English §9",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080611p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "restoration",
+      "temporal_framework": "waking from sleep",
+      "paraphrase": "The returning soul brings renewing forces for the bodily members.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-081",
+      "catalogue_entry_id": "GA102-13",
+      "ga": 102,
+      "date": "1908-06-11",
+      "lecture": 13,
+      "section": 10,
+      "passage_cue": "SOL English §10",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080611p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "artistic capacity",
+      "temporal_framework": "soul and physical organization",
+      "paraphrase": "Spatial sensitivity is associated with interaction of the inner soul and physical bodily forces.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-082",
+      "catalogue_entry_id": "GA102-13",
+      "ga": 102,
+      "date": "1908-06-11",
+      "lecture": 13,
+      "section": 16,
+      "passage_cue": "SOL English §16",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080611p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "artistic capacity",
+      "temporal_framework": "soul and etheric organization",
+      "paraphrase": "Sculptural sensitivity is associated with the returning soul's relationship to the etheric body.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-083",
+      "catalogue_entry_id": "GA102-13",
+      "ga": 102,
+      "date": "1908-06-11",
+      "lecture": 13,
+      "section": 17,
+      "passage_cue": "SOL English §17",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080611p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "artistic capacity",
+      "temporal_framework": "soul and soul-body",
+      "paraphrase": "Line and elementary painting are associated with interaction with the soul-body.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-084",
+      "catalogue_entry_id": "GA102-13",
+      "ga": 102,
+      "date": "1908-06-11",
+      "lecture": 13,
+      "section": 17,
+      "passage_cue": "SOL English §17",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080611p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "artistic capacity",
+      "temporal_framework": "sentient soul and soul-body",
+      "paraphrase": "Color harmony is associated with the sentient soul permeating the soul-body.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-085",
+      "catalogue_entry_id": "GA102-13",
+      "ga": 102,
+      "date": "1908-06-11",
+      "lecture": 13,
+      "section": 20,
+      "passage_cue": "SOL English §20",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080611p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "artistic capacity",
+      "temporal_framework": "intellectual or feeling soul",
+      "paraphrase": "Music is interpreted as a recollection of nocturnal sphere harmonies.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-086",
+      "catalogue_entry_id": "GA102-13",
+      "ga": 102,
+      "date": "1908-06-11",
+      "lecture": 13,
+      "section": 21,
+      "passage_cue": "SOL English §21",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080611p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": null,
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "artistic capacity",
+      "temporal_framework": "consciousness soul",
+      "paraphrase": "Poetry is interpreted as bringing spiritual words from night into daytime expression.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison."
+      ]
+    },
+    {
+      "id": "ORG-CLAIM-V29-087",
+      "catalogue_entry_id": "GA102-13",
+      "ga": 102,
+      "date": "1908-06-11",
+      "lecture": 13,
+      "section": 27,
+      "passage_cue": "SOL English §27",
+      "source_url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080611p01.html",
+      "source_kind": "recorded_lecture",
+      "speaker": "Steiner",
+      "organs": [
+        "whole human organization"
+      ],
+      "agent": "human artistic activity",
+      "agent_scope": "Only explicit agency in the cited source is assigned.",
+      "predicate": "creative contribution",
+      "temporal_framework": "human culture",
+      "paraphrase": "Art creates earthly forms through which higher beings can be present.",
+      "evidence_state": "complete_English_section_review",
+      "german_status": "Selective checks in phase29 log; no complete collation.",
+      "reconciliation": {
+        "decision": "new_candidate",
+        "prior_claim_ids": [],
+        "scope": "Inspected registers and cited comparisons; global novelty uncertified."
+      },
+      "caveats": [
+        "Attributed historical teaching. Selected extraction and comparison."
+      ]
+    }
+  ],
+  "counts": {
+    "new_candidate": 80,
+    "apparent_conflict": 2,
+    "different_context": 2,
+    "overlap": 2,
+    "same_claim": 1
+  }
+}

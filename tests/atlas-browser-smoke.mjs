@@ -128,6 +128,7 @@ try {
   const organCount=await page.locator('#organ-nav [data-organ]').count();
   assert(organCount===40,'expected 40 comparative organ dossiers, found '+organCount);
   assert(await page.locator('#organ-stats').getByText('12 / 12').count()>0,'current GA110 progress not loaded from organ manifest');
+  assert(await page.locator('#organ-stats').getByText('13 / 13').count()>0,'current GA102 progress not loaded');
   assert(await page.locator('#organ-detail h2').textContent()==='heart','default heart organ dossier not rendered');
   await page.locator('#organ-query').fill('pituitary');
   assert(await page.locator('#organ-nav [data-organ]').count()>=1,'organ search does not find pituitary');
