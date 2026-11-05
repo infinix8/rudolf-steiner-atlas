@@ -260,7 +260,7 @@ function homePage() {
   return '<p class="eyebrow">Explore · Connect · Return to Steiner</p>' +
     "<h1>Find the teaching, then read the original.</h1>" +
     '<p class="intro">This atlas complements the existing archives: it classifies concepts at finer depth and reveals relationships between subjects. It does not reproduce their full books, lectures, or independent bibliographic work.</p>' +
-    '<p><a href="graph.html" class="btn">Explore evidence-linked knowledge graph →</a> · <a href="sources.html" class="btn">Browse the original-source guide →</a> · <a href="organs.html" class="btn">Explore organ evolution concordance →</a></p>' +
+    '<p><a href="graph.html" class="btn">Explore evidence-linked knowledge graph →</a> · <a href="sources.html" class="btn">Browse the original-source guide →</a> · <a href="organs.html" class="btn">Explore organ evolution concordance →</a> · <a href="agency.html" class="btn">Compare spiritual hierarchies, stages and roles →</a></p>' +
     '<div class="stats"><div class="stat"><strong>6</strong><span>Knowledge regions</span></div>' +
     '<div class="stat"><strong>' + domains.length + '</strong><span>Thematic domains</span></div>' +
     '<div class="stat"><strong>' + nodes.length.toLocaleString() + '</strong><span>Indexed nodes</span></div>' +
