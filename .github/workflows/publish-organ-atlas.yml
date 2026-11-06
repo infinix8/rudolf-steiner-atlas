@@ -1,8 +1,20 @@
-name: Publish Rudolf Steiner Atlas (manual release)
+name: Publish Rudolf Steiner Atlas (selective automatic release)
 
-# Publishing is intentionally manual to conserve GitHub Actions minutes.
-# Research commits and ordinary source edits must NOT automatically deploy.
+# Publish only changed website assets and the research data bundled into Pages.
+# Docs-only, test-only and research manuscript commits do not deploy.
+# The manual Run workflow button remains available for exceptional releases.
+# Important: commits containing [skip ci] also skip push-triggered publication.
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'site/**'
+      - 'atlas/**'
+      - 'research/*.json'
+      - 'taxonomy/**'
+      - 'assets/**'
+      - '.github/workflows/publish-organ-atlas.yml'
   workflow_dispatch:
 
 permissions:
@@ -46,6 +58,13 @@ jobs:
           test -s dist/atlas/compare-organs.html
           test -s dist/atlas/organ-detail.js
           test -s dist/atlas/organ-detail.css
+          # Human evolution and cosmic evolution are now first-class published views.
+          test -s dist/atlas/evolution-story.html
+          test -s dist/atlas/human-evolution.html
+          test -s dist/atlas/cosmic-evolution.html
+          test -s dist/research/human-evolution-concordance-v1.json
+          test -s dist/research/human-constitution-stage-profiles-v1.json
+          test -s dist/research/cosmic-conditions-v1.json
           test -s dist/research/organ-atlas-guides-v1.json
           test -s dist/research/organ-atlas-guides-v2-expansion.json
           test -s dist/research/organ-visual-comparisons-v1.json
@@ -69,7 +88,33 @@ jobs:
               assert (Path('dist/atlas') / item['route'].split('?')[0].split('#')[0]).is_file(), f"Missing organ page: {item['route']}"
           for rel in ['atlas/app.js', 'atlas/graph.js', 'atlas/organs.js', 'atlas/style.css', 'atlas/study-paths.json']:
               assert Path('dist', rel).is_file(), f'Missing Atlas asset: {rel}'
-          print('All thematic and organ data dependencies present')
+          # The published HTML embeds a snapshot of canonical research JSON for
+          # direct file:// use. Fail the release when those copies drift apart.
+          import re
+          snapshots = [
+              ('atlas/human-evolution.html', 'evolution-data', 'human-evolution-concordance-v1.json'),
+              ('atlas/evolution-story.html', 'evolution-data', 'human-evolution-concordance-v1.json'),
+              ('atlas/evolution-story.html', 'constitution-data', 'human-constitution-stage-profiles-v1.json'),
+              ('atlas/cosmic-evolution.html', 'cosmic-data', 'cosmic-conditions-v1.json'),
+          ]
+          for html_path, script_id, json_file in snapshots:
+              html = Path('dist', html_path).read_text(encoding='utf-8')
+              match = re.search(
+                  r'<script\s+id="' + re.escape(script_id) +
+                  r'"\s+type="application/json">([\s\S]*?)</script>',
+                  html,
+              )
+              assert match, f'Missing embedded {script_id} in {html_path}'
+              embedded = json.loads(match.group(1))
+              canonical = json.loads(Path('dist/research', json_file).read_text(encoding='utf-8'))
+              assert embedded == canonical, f'Embedded data drift: {html_path} vs {json_file}'
+          stages = json.loads(Path('dist/research/human-evolution-concordance-v1.json').read_text())
+          constitution = json.loads(Path('dist/research/human-constitution-stage-profiles-v1.json').read_text())
+          cosmic = json.loads(Path('dist/research/cosmic-conditions-v1.json').read_text())
+          assert len(stages['stages']) == 21 and len(stages['oracles']) == 7
+          assert len(constitution['profiles']) == 21 and len(cosmic['conditions']) == 7
+          assert {s['id'] for s in stages['stages']} == {p['id'] for p in constitution['profiles']}
+          print('Published Atlas dependencies and human/cosmic snapshots validated')
           PY
           python3 tools/validate_visual_organ_atlas.py
           # Anatomy art is non-critical to a site release: the HTML has a live

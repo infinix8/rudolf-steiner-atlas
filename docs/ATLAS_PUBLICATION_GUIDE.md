@@ -1,81 +1,64 @@
-> **Six organ guides milestone:** [Implementation and source boundary checkpoint](VISUAL_ATLAS_SIX_ORGAN_GUIDES_2026-11-06.md). There are six fully structured **editorial guides** (Heart, Liver, Lungs, Brain, Kidneys, Spleen), not six exhaustively German-audited or scientifically validated organ origin accounts. The remaining body-map routes include one source-linked Intestines dossier and three index-only topics (thyroid, stomach and bladder). No automatic deployment or browser testing is enabled.
+# Rudolf Steiner Atlas — publishing guide
 
-> **Current anatomy release (6 November 2026):** The body map has 10 navigation targets: 8 anatomical callouts (including thyroid and urinary bladder) plus kidney/spleen links explicitly identified as not depicted. The default view focuses on the torso; visitors may switch to the full-body view. `tools/validate_visual_organ_atlas.py` checks all targets and comparison sources without adding another Actions workflow.
+**Current release mode (6 November 2026): selective automatic GitHub Pages publication from the `main` branch.** Manual publication remains available.
 
-> **Open medical SVG (6 November 2026):** The manual Pages workflow now retrieves and parses [DBCLS's CC BY 4.0 adult anatomy illustration](ANATOMY_ARTWORK_ATTRIBUTION.md) as a local page asset shared by the eight-organ body map and both detailed guided pages. It falls back to the Wikimedia Commons mirror if necessary. This occurs within the **same single manual publish job**, not an additional Actions run. No workflow is triggered by a research/design commit.
+- [Live Atlas](https://infinix8.github.io/rudolf-steiner-atlas/)
+- [Publishing workflow](https://github.com/infinix8/rudolf-steiner-atlas/actions/workflows/publish-organ-atlas.yml)
+- [Workflow source](../.github/workflows/publish-organ-atlas.yml)
+- [Browser smoke tests](https://github.com/infinix8/rudolf-steiner-atlas/actions/workflows/browser-smoke.yml) (still manual-only)
 
-# Combined Rudolf Steiner Atlas — public publishing guide
+## What triggers publication
 
-**Release mode:** GitHub Pages, **manual-only**, from `main`.
-**Release workflow:** [Publish Rudolf Steiner Atlas (manual release)](../.github/workflows/publish-organ-atlas.yml).
-**Browser QA workflow:** [Atlas browser smoke tests](../.github/workflows/browser-smoke.yml), also **manual-only**.
+When a commit is pushed or merged into `main`, a single Pages release starts if it changes files in any of these paths:
 
-## One published website, multiple entry points
-
-The unified homepage at `https://infinix8.github.io/rudolf-steiner-atlas/` offers two main paths:
-
-| Published path | Purpose |
+| Path | Why it triggers publication |
 | --- | --- |
-| `/` | Unified guided homepage |
-| `/atlas/index.html` | Original thematic Atlas: concepts and taxonomy |
-| `/atlas/body.html` | Visual clickable eight-organ human-body map and discovery interface |
-| `/atlas/organ-detail.html?organ=organ-heart&layer=overview` | New eight-layer Heart guide |
-| `/atlas/organ-detail.html?organ=organ-liver&layer=overview` | New eight-layer Liver guide |
-| `/atlas/organ-detail.html?organ=organ-lungs&layer=overview` | Eight-layer Lung guide |
-| `/atlas/organ-detail.html?organ=organ-brain&layer=overview` | Eight-layer Brain guide |
-| `/atlas/organ-detail.html?organ=organ-kidneys&layer=overview` | Eight-layer Kidney guide, explicitly not pictured in current anatomy view |
-| `/atlas/organ-detail.html?organ=organ-spleen&layer=overview` | Eight-layer Spleen guide, explicitly not pictured in current anatomy view |
-| `/atlas/compare-organs.html` | Five source-linked, interactive visual Heart/Liver comparisons |
-| `/atlas/mobile-preview.html` | Curated Heart/Liver guided organ experience |
-| `/atlas/organs.html` | Full current 40-dossier organ concordance reader |
-| `/atlas/agency.html` | Spiritual beings, stages and roles |
-| `/atlas/graph.html` | Passage-qualified evidence graph |
-| `/atlas/sources.html` | Primary-source index |
-| `/atlas/coverage.html` | Research evidence coverage |
-| `/atlas/timeline.html` | Dated lecture chronology |
-| `/atlas/dossiers.html` | Thematic study dossiers |
-| `/atlas/trajectories.html` | Context and trajectory comparisons |
+| `site/**` | Combined website homepage |
+| `atlas/**` | Thematic, organ, human evolution, and cosmic HTML/CSS/JS |
+| `research/*.json` | Published JSON research datasets consumed by the site |
+| `taxonomy/**` | Published taxonomy navigation/data |
+| `assets/**` | Published images, mind maps, and other assets |
+| `.github/workflows/publish-organ-atlas.yml` | Changes to the publishing configuration itself |
 
-The visual comparison page reads `research/organ-visual-comparisons-v1.json` and resolves each card to a source record in the curated guide JSON. Its five lenses and exact source IDs are checked in the same manual release.
+Only pushes to `main` publish. Pushes to feature branches and pull requests do not publish. Changes confined to `docs/`, `tests/`, `tools/`, or Markdown research notes do **not** trigger a Pages release. Note that `docs/*.md` files are still bundled into the website when a qualifying publication subsequently happens. For a documentation-only update that must be live immediately, use the manual **Run workflow** option.
 
-The six guided organ pages load the intact original `research/organ-atlas-guides-v1.json` and the additive `research/organ-atlas-guides-v2-expansion.json`; both are bundled as part of the single manual publish job. The pages require `atlas/organ-detail.js` and `atlas/organ-detail.css`. The manual deployment validates these guide links with `python3 tools/validate_visual_organ_atlas.py`.
+**Avoid `[skip ci]`, `[ci skip]`, `[no ci]`, `[skip actions]`, and `[actions skip]` in website/data commits**: GitHub will skip their push-triggered publication. A manual run can still publish those changes. Historical commits used `[skip ci]` to conserve runs, but it must not be used for an automatically published site change.
 
-The visual body map loads `research/organ-body-map-v1.json`. The single manual publishing job checks that each mapped organ's target HTML file exists.
+## Reliability and resource controls
 
-The site deploys the Atlas HTML, CSS and JavaScript; editorial research JSON; taxonomy and necessary supporting documents/assets. It keeps the original archive text at RSArchive and links outward.
+The existing publication is one Ubuntu job with a ten-minute timeout. `concurrency.cancel-in-progress: true` prevents multiple queued releases from deploying stale site versions. Each release runs pre-upload checks for required website files, organ-map dependencies, visual organ provenance and synchronized embedded JSON snapshots for the human/cosmic explorer. A failed check stops publication before an artifact is deployed.
 
-The repository is currently **public**, so the same content and other repository files are browsable in GitHub. Public GitHub Pages access does not mean any of Steiner's esoteric or medical claims have been medically or scientifically verified.
+The repository already has a separate `validate.yml` integrity workflow for pushes and pull requests. It is **not** a prerequisite job for Pages: the publishing workflow applies its own checks before deployment. The much heavier Chromium browser smoke test remains **manual only**, so routine publication does not need browser installation. No release is scheduled on a timer.
 
-## Publish changes on Android — only when needed
+On public repositories, standard GitHub-hosted Actions runner usage generally does not draw from the private-repository free minutes allocation, but Actions concurrency, storage, Pages limits, policies, and transient failures still apply. Automatic publication is selective, not unlimited.
 
-1. Make any desired research, taxonomy or presentation commits to `main`. **No publishing or Chromium test Actions start automatically from those commits under the two workflows listed above.**
-2. When ready for a new public release, open [the workflow page](https://github.com/infinix8/rudolf-steiner-atlas/actions/workflows/publish-organ-atlas.yml) in the mobile browser, signed in to GitHub.
-3. Tap **Run workflow**, choose **main**, then **Run workflow** again. If the button isn't visible in the mobile UI, enable Chrome's **Desktop site**.
-4. Wait for that one run to show **Success**. Open the [Atlas homepage](https://infinix8.github.io/rudolf-steiner-atlas/) and test the guided organ and thematic links. If a run fails, inspect its job log before rerunning.
-5. Optional: run [Atlas browser smoke tests](https://github.com/infinix8/rudolf-steiner-atlas/actions/workflows/browser-smoke.yml) **manually**, only for important UI changes. It installs Chromium and uses more Actions time than the lightweight publish job.
+## What the site publishes
 
-**The release workflow is deliberately separate from research commits.** You might accumulate a week's worth of edits and then trigger a *single* publication when ready. It has one Ubuntu job, 10-minute timeout, no scheduled event, no push event and no pull-request event. The browser test has one manual-only job, 15-minute timeout. The repository might contain other workflows not covered by these two; check the Actions list if usage rises unexpectedly.
+The unified homepage at `https://infinix8.github.io/rudolf-steiner-atlas/` links to the following key sections:
 
-## Build notes / source dependency model
+| Public path | Purpose |
+| --- | --- |
+| `/` | Combined Atlas homepage |
+| `/atlas/index.html` | Thematic Atlas |
+| `/atlas/body.html` | Illustrated, clickable human body |
+| `/atlas/organ-detail.html?organ=organ-heart&layer=overview` | Source-linked Heart guide (five other guides also available) |
+| `/atlas/organs.html` | Organ concordance |
+| `/atlas/agency.html` | Hierarchies, cosmic stages, and agencies |
+| `/atlas/evolution-story.html` | Animated human evolutionary history |
+| `/atlas/human-evolution.html` | 21-stage comparative matrix |
+| `/atlas/cosmic-evolution.html` | Old Saturn, Old Sun, Old Moon, Earth and future conditions |
+| `/atlas/graph.html` | Evidence graph |
+| `/atlas/sources.html` | Source index |
+| `/atlas/coverage.html` | Research coverage |
 
-The release workflow assembles the site from:
-- `site/index.html` → `dist/index.html`
-- `atlas/.` → `dist/atlas/`
-- `research/*.json` → `dist/research/`
-- `taxonomy/.` → `dist/taxonomy/`
-- `docs/*.md` → `dist/docs/`
-- `assets/.` → `dist/assets/`
+The workflow assembles `site/index.html` as the deployed `index.html`, copies `atlas/`, published `research/*.json`, `taxonomy/`, `docs/*.md`, and `assets/`, verifies local dependencies, and uploads one Pages artifact.
 
-The packaging step checks the main entry points, app scripts, taxonomy and all file paths listed in `research/organ-current.json` before it uploads a single `github-pages` artifact.
+## Check publication status or publish manually
 
-The whole static site can also be run locally from the repository root with `python -m http.server 8000` and opening `http://localhost:8000/site/` (standalone landing) or `http://localhost:8000/atlas/` (thematic Atlas). The published `/` route is supplied by the workflow's `dist/index.html`.
+1. Open [GitHub Actions → Publish Rudolf Steiner Atlas](https://github.com/infinix8/rudolf-steiner-atlas/actions/workflows/publish-organ-atlas.yml).
+2. For normal `main` website/data changes, confirm that the automatic `push` run completes successfully. You do **not** need to tap anything.
+3. If it fails, read the job log; avoid repeatedly launching redundant releases.
+4. To republish manually, choose **Run workflow**, select `main`, and run it once.
+5. Check the [live website](https://infinix8.github.io/rudolf-steiner-atlas/). GitHub Pages may take some time to serve the newer release.
 
-## Actions budget and maintenance policy
-
-- **Never re-enable `push` triggers for deploy or browser smoke tests without intentional review.**
-- Run a single manual publish for a deliberate release, not each changed file.
-- Keep browser smoke tests manual or run them locally when practical.
-- More GitHub commits do not cost Actions minutes on their own.
-- A failed deployment can consume minutes; review logs before retrying repeatedly.
-- GitHub Pages might report delays in making a successful new deployment visible, but do not start multiple runs unnecessarily.
-- The expected URL is the standard project Pages route; confirm the actual URL and successful deployment in GitHub Pages settings.
+The original Rudolf Steiner works remain at their respective archives. The site is an independent editorial research atlas, not a source of established medical or prehistoric claims.
