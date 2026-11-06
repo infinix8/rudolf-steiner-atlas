@@ -30,6 +30,18 @@ main{padding-top:49px;padding-bottom:60px}h2{font:normal 33px/1.2 Georgia,serif;
 .region-go{font-size:11px;color:#326d65;font-weight:780;margin-top:auto;padding-top:6px}
 @media(max-width:730px){.region-grid{grid-template-columns:1fr 1fr}.region-card{min-height:158px;padding:16px}.region-card strong{font-size:20px}}
 @media(max-width:375px){.region-grid{gap:8px}.region-card{padding:12px;min-height:166px}.region-card strong{font-size:18px}.region-card small{font-size:11px}.region-symbol{font-size:33px}}
+
+/* Six direct illustrated study doors; cards link into the same evidence-backed layers. */
+.guided-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}
+.guided-grid a{min-height:166px;padding:18px 20px;background:linear-gradient(145deg,#fffefb,#f0f5ec);border:1px solid #d9e5db;border-radius:14px;display:flex;flex-direction:column;color:#23515a;text-decoration:none}
+.guided-grid a:nth-child(2),.guided-grid a:nth-child(5){background:linear-gradient(145deg,#fffefa,#f5f1e8)}
+.guided-grid a:hover,.guided-grid a:focus-visible{border-color:#78aa9b;box-shadow:0 8px 18px #1f4f3c0d}
+.guided-icon{font:normal 27px/1.1 Georgia,serif;color:#649989;margin-bottom:12px}
+.guided-grid strong{font:normal 24px/1.15 Georgia,serif;margin-bottom:5px}
+.guided-grid small{font-size:12px;color:#627976}
+.guided-arrow{font-size:11px;font-weight:780;color:#3c796b;margin-top:auto;padding-top:9px}
+@media(max-width:730px){.guided-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.guided-grid a{min-height:145px;padding:15px}.guided-grid strong{font-size:22px}}
+@media(max-width:385px){.guided-grid{gap:8px}.guided-grid a{min-height:133px;padding:12px}.guided-grid strong{font-size:20px}.guided-icon{margin-bottom:8px}}
 </style>
 </head>
 <body>
@@ -41,8 +53,20 @@ main{padding-top:49px;padding-bottom:60px}h2{font:normal 33px/1.2 Georgia,serif;
 <section aria-labelledby="start"><h2 id="start">Where would you like to begin?</h2><p class="intro">Two interconnected paths through the same growing Atlas: thematic exploration across Steiner's teachings, and a guided exploration of the human organism.</p>
 <div class="portals">
 <article class="portal"><div class="symbol" aria-hidden="true">✳</div><div class="kicker">Thematic atlas</div><h3>Explore Steiner's teachings</h3><p>Browse the organized taxonomy of spiritual development, cosmos, the human being, Christ, science, education, and art. Follow source-linked concepts and relationships across domains.</p><a class="cta" href="atlas/index.html">Open thematic Atlas →</a></article>
-<article class="portal"><div class="symbol" aria-hidden="true">♡</div><div class="kicker">Guided organ encyclopedia</div><h3>Human organs and evolution</h3><p>Select organs on a clickable human figure, then explore the new eight-layer Heart/Liver guides or the wider source-linked research dossiers. Explore origins, present organization and spiritual correspondences without conflating them.</p><a class="cta" href="atlas/body.html">Explore the Human Being →</a></article>
+<article class="portal"><div class="symbol" aria-hidden="true">♡</div><div class="kicker">Guided organ encyclopedia</div><h3>Human organs and evolution</h3><p>Select organs on the anatomical body map, then enter six eight-layer, source-linked visual guides or the wider 40-dossier research archive. Explore origins, present organization and spiritual correspondences without conflating them.</p><a class="cta" href="atlas/body.html">Explore the Human Being →</a></article>
 </div></section>
+<section class="section" aria-labelledby="guided-organ-heading">
+<h2 id="guided-organ-heading">Explore an organ</h2>
+<p class="intro">Six concise guided pathways, all leading to original lectures. Each goes from a two-minute overview to research evidence and open questions.</p>
+<div class="guided-grid">
+<a href="atlas/organ-detail.html?organ=organ-heart&amp;layer=overview"><span class="guided-icon" aria-hidden="true">♡</span><strong>Heart</strong><small>Warmth and rhythm</small><span class="guided-arrow">Explore ↗</span></a>
+<a href="atlas/organ-detail.html?organ=organ-liver&amp;layer=overview"><span class="guided-icon" aria-hidden="true">◈</span><strong>Liver</strong><small>Nourishment and will</small><span class="guided-arrow">Explore ↗</span></a>
+<a href="atlas/organ-detail.html?organ=organ-lungs&amp;layer=overview"><span class="guided-icon" aria-hidden="true">≋</span><strong>Lungs</strong><small>Breath and rhythm</small><span class="guided-arrow">Explore ↗</span></a>
+<a href="atlas/organ-detail.html?organ=organ-brain&amp;layer=overview"><span class="guided-icon" aria-hidden="true">✳</span><strong>Brain</strong><small>Head and thought</small><span class="guided-arrow">Explore ↗</span></a>
+<a href="atlas/organ-detail.html?organ=organ-kidneys&amp;layer=overview"><span class="guided-icon" aria-hidden="true">◇</span><strong>Kidneys</strong><small>Astral and balance</small><span class="guided-arrow">Explore ↗</span></a>
+<a href="atlas/organ-detail.html?organ=organ-spleen&amp;layer=overview"><span class="guided-icon" aria-hidden="true">◎</span><strong>Spleen</strong><small>Rhythm and meals</small><span class="guided-arrow">Explore ↗</span></a>
+</div>
+</section>
 <section class="section" aria-labelledby="regions-heading">
   <h2 id="regions-heading">The six regions of knowledge</h2>
   <p class="intro">A visual starting map for the full taxonomy. Select a region to explore its original source-linked concepts and related research.</p>
@@ -57,7 +81,7 @@ main{padding-top:49px;padding-bottom:60px}h2{font:normal 33px/1.2 Georgia,serif;
 </section>
 <section class="section" aria-labelledby="research"><h2 id="research">Go deeper into the research</h2><p class="intro">The original Atlas's research tools remain available alongside the new reader-friendly presentation.</p>
 <div class="tools">
-<a class="tool" href="atlas/organ-detail.html?organ=organ-heart&amp;layer=overview"><strong>Heart &amp; Liver Guides</strong><span>Eight-layer visual explanations spanning the organism, spiritual interpretations, evolution, agencies, connections and sources.</span></a>
+<a class="tool" href="atlas/body.html"><strong>Six Guided Organs</strong><span>Explore Heart, Liver, Lungs, Brain, Kidneys and Spleen through eight focused explanation layers.</span></a>
 <a class="tool" href="atlas/compare-organs.html"><strong>Compare Heart &amp; Liver</strong><span>Five visual comparisons: cosmic stages, bodily organization, inward life, agency and open questions.</span></a>
 <a class="tool" href="atlas/organs.html"><strong>Organ Concordance</strong><span>Browse 40 source-linked organ and organization dossiers.</span></a>
 <a class="tool" href="atlas/agency.html"><strong>Spiritual Hierarchies</strong><span>Compare beings, cosmic stages, activities and targets.</span></a>
