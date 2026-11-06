@@ -19,7 +19,13 @@ def check(cond: bool, message: str) -> None:
         errors.append(message)
 
 body = load("research/organ-body-map-v1.json")
-guides = load("research/organ-atlas-guides-v1.json")
+original_guides = load("research/organ-atlas-guides-v1.json")
+expanded_guides = load("research/organ-atlas-guides-v2-expansion.json")
+guides = dict(original_guides)
+guides["guides"] = original_guides["guides"] + expanded_guides["guides"]
+check(expanded_guides.get("base_dataset") == "research/organ-atlas-guides-v1.json" and
+      expanded_guides.get("research_phase") == original_guides.get("research_phase"),
+      "Expansion must declare the original guide dataset and the same research phase.")
 dossiers = load("research/organ-comparative-dossiers-v29.json")
 canonical = {item["id"] for item in dossiers["dossiers"]}
 
@@ -73,12 +79,20 @@ for item in body["organs"]:
           f"{item['id']}: broken local route {route}")
 
 guide_ids = [g["id"] for g in guides["guides"]]
-check(set(guide_ids) == {"organ-heart", "organ-liver"} and len(guide_ids) == 2,
-      "Expected complete Heart and Liver visual guides.")
+expected_guide_ids = {"organ-heart", "organ-liver", "organ-lungs", "organ-brain",
+                      "organ-kidneys", "organ-spleen"}
+check(set(guide_ids) == expected_guide_ids and len(guide_ids) == 6,
+      "Expected precisely six unique completed visual guide records.")
 for item in body["organs"]:
     if item["status"] == "guided":
         check(item["id"] in guide_ids and item["route"].startswith("organ-detail.html?"),
               f"{item['id']}: guided map route should point to visual detail page")
+check({item["id"] for item in body["organs"] if item["status"] == "guided"} == expected_guide_ids,
+      "All six guided organs should be offered through body map navigation.")
+check({item["id"] for item in body["organs"] if item["status"] == "index_only"}
+      == {"organ-thyroid", "organ-stomach", "organ-intestines", "organ-bladder"},
+      "Uncurated organ topics must remain clearly indexed rather than presented as completed guides.")
+
 
 for g in guides["guides"]:
     check(g["id"] in canonical, f"Unknown guide dossier ID {g['id']}")
@@ -113,7 +127,7 @@ for g in guides["guides"]:
             if not refs:
                 check(section == "questions" or
                       (section == "body" and rec.get("type") == "modern_anatomy") or
-                      (section == "evolution" and rec.get("kind") == "research_gap"),
+                      (section in {"evolution", "comparison"} and rec.get("kind") == "research_gap"),
                       f"{g['id']}/{section}/{i}: missing source")
             check(all(r in source_set for r in refs),
                   f"{g['id']}/{section}/{i}: unresolved source ID {refs}")
@@ -130,6 +144,8 @@ visual_map=(ROOT / "atlas/body.html").read_text(encoding="utf-8")
 check("organ-detail.js" in html and "organ-detail.css" in html,
       "Detail page missing scripts/styles")
 check("organ-atlas-guides-v1.json" in js, "Guide JS must load canonical curated JSON")
+check("organ-atlas-guides-v2-expansion.json" in js,
+      "Guide JS must load four expanded guide records without discarding Heart/Liver.")
 check("data-organ-id=" in visual_map and visual_map.count("data-organ-id=") == 8,
       "Interactive diagram must expose 8 hotspots")
 check('href="atlas/body.html"' in landing,
