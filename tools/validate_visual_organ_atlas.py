@@ -28,6 +28,22 @@ check(expanded_guides.get("base_dataset") == "research/organ-atlas-guides-v1.jso
       "Expansion must declare the original guide dataset and the same research phase.")
 dossiers = load("research/organ-comparative-dossiers-v29.json")
 canonical = {item["id"] for item in dossiers["dossiers"]}
+dossiers_by_id = {item["id"]: item for item in dossiers["dossiers"]}
+# Source provenance: every newly curated original-source URL must already be
+# indexed in the corresponding canonical organ dossier (relations or phased claims).
+for new_guide in expanded_guides["guides"]:
+    base = dossiers_by_id.get(new_guide["id"])
+    if base is None:
+        check(False, f"Expanded visual guide is not a canonical organ dossier: {new_guide['id']}")
+        continue
+    indexed = list(base.get("relations", []))
+    for key, value in base.items():
+        if key.startswith("phase") and key.endswith("_refinements") and isinstance(value, list):
+            indexed.extend(value)
+    indexed_urls = {row.get("source_url") for row in indexed if isinstance(row, dict)}
+    for source in new_guide["sources"]:
+        check(source["url"] in indexed_urls,
+              f"{new_guide['id']}: guide source {source['id']} lacks provenance in canonical dossier.")
 
 expected_layers = {
     "overview", "body", "interpretation", "evolution",
@@ -136,6 +152,12 @@ for g in guides["guides"]:
                   f"{g['id']}/{section}/{i}: unresolved source ID {refs}")
     check(len(g["connections"]["nodes"]) <= 5,
           f"{g['id']}: orbit renderer supports up to five nodes")
+    for node in g["connections"]["nodes"]:
+        if node.get("related_guide_id"):
+            check(node["related_guide_id"] in expected_guide_ids,
+                  f"{g['id']}: related organ {node['related_guide_id']} is not a curated guide.")
+            check(bool(node.get("sources")),
+                  f"{g['id']}: an inter-organ navigation edge must retain a source reference.")
     check(len(g["quick_takeaways"]) <= 5,
           f"{g['id']}: introductory content should remain concise")
 
