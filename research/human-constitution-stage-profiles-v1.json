@@ -1,0 +1,346 @@
+{
+  "version": "1.0",
+  "notice": "Qualitative study focus, not degree of strength; all four constitutional members remain relevant through Earth human stages. Lemurian stages are overlapping analytical milestones.",
+  "origins": [
+    {
+      "id": "physical",
+      "name": "Physical organization",
+      "cosmic": "Old Saturn",
+      "quality": "Warmth",
+      "agency": "Spirits of Will (Thrones)",
+      "detail": "First germ of physical organization, not the present mineral body."
+    },
+    {
+      "id": "etheric",
+      "name": "Etheric organization",
+      "cosmic": "Old Sun",
+      "quality": "Air and warmth",
+      "agency": "Spirits of Wisdom (Dominions)",
+      "detail": "Life-body joins and transforms the earlier Saturn physical germ."
+    },
+    {
+      "id": "astral",
+      "name": "Astral organization",
+      "cosmic": "Old Moon",
+      "quality": "Water, air and warmth",
+      "agency": "Spirits of Movement (Mights)",
+      "detail": "Astral organization joins and further modifies earlier human members."
+    },
+    {
+      "id": "i",
+      "name": "Human I",
+      "cosmic": "Earth",
+      "quality": "Earthly solidification",
+      "agency": "Spirits of Form (Exusiai)",
+      "detail": "I is incorporated into an inherited physical, etheric and astral organization."
+    }
+  ],
+  "profiles": [
+    {
+      "id": "L1",
+      "focus": [
+        "physical",
+        "etheric"
+      ],
+      "interpretation": "The human form is described as unusually plastic, shaped by formative will.",
+      "agencies": "Higher guides and creative hierarchies (not yet stage-assigned)",
+      "inheritance": "Earlier solar-lunar formative forces; pre-existing physical, etheric, astral organization",
+      "sourceIds": [
+        "G11-S",
+        "G11-L",
+        "G13"
+      ]
+    },
+    {
+      "id": "L2",
+      "focus": [
+        "physical",
+        "etheric"
+      ],
+      "interpretation": "Moon separation marks a turning point in bodily stabilization.",
+      "agencies": "Sun and Moon spiritual powers / higher guiding beings",
+      "inheritance": "Plastic human form and evolving etheric/physical structures",
+      "sourceIds": [
+        "G13",
+        "G11-S"
+      ]
+    },
+    {
+      "id": "L3",
+      "focus": [
+        "physical",
+        "i"
+      ],
+      "interpretation": "Sex differentiation and redirected formative powers prepare later cognition.",
+      "agencies": "Higher beings of Love; advanced spiritual guides",
+      "inheritance": "Earlier bisexual/undifferentiated reproductive organization; plastically formed bodies",
+      "sourceIds": [
+        "G11-S",
+        "G13"
+      ]
+    },
+    {
+      "id": "L4",
+      "focus": [
+        "astral",
+        "i"
+      ],
+      "interpretation": "Luciferic involvement changes soul desire and the conditions of individual freedom.",
+      "agencies": "Luciferic beings; higher Beings of Love; human guides",
+      "inheritance": "Earlier divinely guided soul life and newly differentiated bodies",
+      "sourceIds": [
+        "G11-S",
+        "G13",
+        "G111"
+      ]
+    },
+    {
+      "id": "L5",
+      "focus": [
+        "etheric",
+        "astral"
+      ],
+      "interpretation": "Will-training and initiatory work highlight formative and soul capacities.",
+      "agencies": "Initiates and spiritual world-powers in places of worship",
+      "inheritance": "Strong will and immediate perception of growth/natural forces",
+      "sourceIds": [
+        "G11-L"
+      ]
+    },
+    {
+      "id": "L6",
+      "focus": [
+        "astral",
+        "i"
+      ],
+      "interpretation": "First durable inner pictures and moral contrasts bring memory and inwardness into focus.",
+      "agencies": "Priestesses; higher leaders; guiding spiritual beings",
+      "inheritance": "Will culture; sense of forces in nature; songlike expression",
+      "sourceIds": [
+        "G11-L"
+      ]
+    },
+    {
+      "id": "L7",
+      "focus": [
+        "etheric",
+        "i"
+      ],
+      "interpretation": "Early memory and rhythm are carried toward Atlantis amid the Lemurian catastrophes.",
+      "agencies": "Advanced guiding beings and priestesses",
+      "inheritance": "Formative will; early memory and imagination; hierarchical guidance",
+      "sourceIds": [
+        "G11-L",
+        "G13",
+        "G90"
+      ]
+    },
+    {
+      "id": "A1",
+      "focus": [
+        "etheric",
+        "astral"
+      ],
+      "interpretation": "Nature-effective speech and picture-memory become characteristic expressions.",
+      "agencies": "Nature-spirits; broader Atlantean hierarchies",
+      "inheritance": "Lemurian will, nature-bond, first memory germs",
+      "sourceIds": [
+        "G11-A",
+        "G13"
+      ]
+    },
+    {
+      "id": "A2",
+      "focus": [
+        "astral",
+        "i"
+      ],
+      "interpretation": "Memory of deeds and personal ambition deepen an emerging sense of self.",
+      "agencies": "Luciferic desire continues; guiding powers not mapped stagewise",
+      "inheritance": "Rmoahal memory and speech; natural life-force awareness",
+      "sourceIds": [
+        "G11-A"
+      ]
+    },
+    {
+      "id": "A3",
+      "focus": [
+        "i",
+        "etheric"
+      ],
+      "interpretation": "Political authority and spiritual initiation raise the question of guided agency.",
+      "agencies": "King-initiates; Atlantean oracle wisdom",
+      "inheritance": "Shared memory; leaders; verbal and life-force power",
+      "sourceIds": [
+        "G11-A",
+        "G13"
+      ]
+    },
+    {
+      "id": "A4",
+      "focus": [
+        "etheric",
+        "astral"
+      ],
+      "interpretation": "Life-force manipulation under personal desire becomes a distinctive danger.",
+      "agencies": "Luciferic influences persist; Ahriman around middle (epoch-wide)",
+      "inheritance": "Life-force mastery, memory-based polities, personal ambition",
+      "sourceIds": [
+        "G11-A",
+        "G13",
+        "G111",
+        "G107"
+      ]
+    },
+    {
+      "id": "A5",
+      "focus": [
+        "i",
+        "astral"
+      ],
+      "interpretation": "Comparison, reflective judgment and self-restraint become central.",
+      "agencies": "Sun/Christ oracle guidance, Luciferic/Ahrimanic background",
+      "inheritance": "Power of memory; spiritual initiation; consequences of life-force misuse",
+      "sourceIds": [
+        "G11-A",
+        "G13"
+      ]
+    },
+    {
+      "id": "A6",
+      "focus": [
+        "i",
+        "physical"
+      ],
+      "interpretation": "Thought develops practical forms through law, calculation and social organization.",
+      "agencies": "Same continuing opposing and guiding currents",
+      "inheritance": "Original-Semitic reflective thinking, memory and social organization",
+      "sourceIds": [
+        "G11-A"
+      ]
+    },
+    {
+      "id": "A7",
+      "focus": [
+        "astral",
+        "i"
+      ],
+      "interpretation": "Memory and inherited traditions coexist with developing individual thought.",
+      "agencies": "Continuing oracle and spiritual currents; stage-specific assignment absent",
+      "inheritance": "Thought, memory, ancestral tradition, diminished life-force magic",
+      "sourceIds": [
+        "G11-A",
+        "G13"
+      ]
+    },
+    {
+      "id": "P1",
+      "focus": [
+        "astral",
+        "i"
+      ],
+      "interpretation": "Spiritual memory accompanies early post-Atlantean cultural formation.",
+      "agencies": "Manu; seven Rishis; spiritual teachers; Christ oracle background",
+      "inheritance": "Last Atlantean memory, spiritual longings, beginnings of thought",
+      "sourceIds": [
+        "G13",
+        "G108",
+        "G152"
+      ]
+    },
+    {
+      "id": "P2",
+      "focus": [
+        "physical",
+        "i"
+      ],
+      "interpretation": "Transformation of earthly conditions becomes a prominent cultural task.",
+      "agencies": "Zarathustra; Ahura Mazda/Ormuzd; Ahriman",
+      "inheritance": "Ancient Indian spiritual inheritance; growing thought and earthly embodiment",
+      "sourceIds": [
+        "G13",
+        "G152"
+      ]
+    },
+    {
+      "id": "P3",
+      "focus": [
+        "etheric",
+        "astral"
+      ],
+      "interpretation": "Cosmic order and the interpretation of nature are emphasized.",
+      "agencies": "Hermes-linked mystery teachers; hierarchies; inherited opposing influences",
+      "inheritance": "Persian earthly engagement, sacred wisdom and cosmic orientation",
+      "sourceIds": [
+        "G13",
+        "G152"
+      ]
+    },
+    {
+      "id": "P4",
+      "focus": [
+        "i",
+        "astral"
+      ],
+      "interpretation": "The Greco-Roman period contains the Mystery of Golgotha and the Christ impulse.",
+      "agencies": "Christ; mystery initiates; spiritual hierarchies; persistent Lucifer/Ahriman",
+      "inheritance": "Egypto-Chaldean sentient soul and symbolic science",
+      "sourceIds": [
+        "G13",
+        "G152",
+        "G130"
+      ]
+    },
+    {
+      "id": "P5",
+      "focus": [
+        "i",
+        "astral"
+      ],
+      "interpretation": "The present consciousness-soul task emphasizes individual thinking and responsibility.",
+      "agencies": "Christ impulse; Lucifer and Ahriman; spiritual beings remain active",
+      "inheritance": "Greco–Roman personal judgment, Christ impulse and inherited thought",
+      "sourceIds": [
+        "G152",
+        "G186",
+        "G130"
+      ]
+    },
+    {
+      "id": "P6",
+      "focus": [
+        "i",
+        "astral"
+      ],
+      "interpretation": "A future cultural development in Steiner's prospective account, not recorded history.",
+      "agencies": "Christ / Spirit-Self; ongoing adversarial powers in Steiner’s narrative",
+      "inheritance": "Consciousness-soul autonomy and living Christ impulse",
+      "sourceIds": [
+        "G186",
+        "G130",
+        "G121"
+      ]
+    },
+    {
+      "id": "P7",
+      "focus": [
+        "i",
+        "etheric"
+      ],
+      "interpretation": "A further projected cultural period; exact developments require further source audit.",
+      "agencies": "Christ impulse and continuing hierarchies; no exclusive stage catalogue",
+      "inheritance": "Sixth period social-spiritual capacities; increasing Spirit-Self orientation",
+      "sourceIds": [
+        "G186",
+        "G130"
+      ]
+    }
+  ],
+  "sources": {
+    "GA13": "https://rsarchive.org/Books/GA013/English/RSP1969/GA013_c04.html",
+    "GA113": "https://rsarchive.org/Lectures/GA113/English/RSPC1940/19090825p01.html",
+    "GA109": "https://rsarchive.org/Lectures/RosiEsoter/19090609p01.html",
+    "GA134": "https://rsarchive.org/Lectures/GA134/English/RSPC1947/19111230p01.html",
+    "GA93a": "https://rsarchive.org/Lectures/GA093a/English/RSP1982/19051009p01.html"
+  }
+}

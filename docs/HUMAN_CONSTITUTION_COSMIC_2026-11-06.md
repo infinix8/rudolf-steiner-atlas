@@ -1,0 +1,9 @@
+# Human constitution and cosmic stages | Build checkpoint (6 November 2026)
+
+Implemented a stage-synchronized, conceptual fourfold human-constitution map within [the animated story](../atlas/evolution-story.html). It changes explanatory focus with all **21 existing Earth stages**, highlights one member at a time, and shows its earlier planetary origin, associated initiating hierarchies, the stage's agencies, and a short thematic explanation. This is not a claim about quantitative spiritual strength. All four constitutional members remain relevant throughout the Earth stages.
+
+Added [the Cosmic Evolution explorer](../atlas/cosmic-evolution.html), covering Old Saturn, Old Sun, Old Moon, Earth, and three clearly prospective conditions (Future Jupiter, Venus and Vulcan). Seven selectable condition cards include inherited work, emerging member, spiritual agency, main event or transition, and direct Steiner source links. The first four descriptions draw on GA 13 ch. IV, GA 113 lecture III, GA 109, and GA 134. Future condition correspondences draw on GA 93a and remain intentionally limited pending a thorough source audit.
+
+Canonical editorial data: [human constitution stage profiles](../research/human-constitution-stage-profiles-v1.json) and [cosmic conditions](../research/cosmic-conditions-v1.json). Both website pages embed these same JSON data for direct local opening. The main homepage and thematic navigation now provide access. No GitHub workflow was changed, and no Pages deployment was triggered.
+
+Important: These are Steiner's esoteric descriptions, not empirically established cosmology or human prehistory. The seven Lemurian milestones remain overlapping analytical units. The human figure is explanatory, not anatomical or supersensible evidence. Future planetary stages are projected, not present astronomical planets.

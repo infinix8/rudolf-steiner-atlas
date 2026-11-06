@@ -1,0 +1,119 @@
+{
+  "version": "1.0",
+  "notice": "Steiner's planetary conditions, not present astronomical Saturn, Sun or Moon. No quantitative scales or invented substages.",
+  "conditions": [
+    {
+      "id": "saturn",
+      "name": "Old Saturn",
+      "element": "Warmth",
+      "root": "Physical-body germ",
+      "agency": "Spirits of Will / Thrones",
+      "inherited": "The first rudiment of humanity's physical organization.",
+      "developed": "First bodily germ, not mineral flesh.",
+      "transition": "A spiritual rest precedes the Old Sun condition.",
+      "sourceIds": [
+        "GA13",
+        "GA109",
+        "GA113"
+      ],
+      "status": "Past/present condition"
+    },
+    {
+      "id": "sun",
+      "name": "Old Sun",
+      "element": "Warmth and air",
+      "root": "Etheric-body germ",
+      "agency": "Spirits of Wisdom / Dominions",
+      "inherited": "The inherited physical germ is transformed.",
+      "developed": "A life-body is added; the physical organization is developed further.",
+      "transition": "A later spiritual interval precedes Old Moon.",
+      "sourceIds": [
+        "GA13",
+        "GA109",
+        "GA113"
+      ],
+      "status": "Past/present condition"
+    },
+    {
+      "id": "moon",
+      "name": "Old Moon",
+      "element": "Warmth, air and water",
+      "root": "Astral-body germ",
+      "agency": "Spirits of Movement / Mights",
+      "inherited": "The physical and etheric organizations continue.",
+      "developed": "The astral body is added and changes the earlier inheritances.",
+      "transition": "Old Moon prepares conditions for Earth evolution.",
+      "sourceIds": [
+        "GA13",
+        "GA109",
+        "GA113"
+      ],
+      "status": "Past/present condition"
+    },
+    {
+      "id": "earth",
+      "name": "Earth",
+      "element": "Earthly solidification",
+      "root": "Human I",
+      "agency": "Spirits of Form / Exusiai",
+      "inherited": "The physical, etheric and astral members are inherited.",
+      "developed": "The human I enters and begins a long process of self-conscious development.",
+      "transition": "Earth's inner epochs include Lemuria, Atlantis and Post-Atlantis.",
+      "sourceIds": [
+        "GA13",
+        "GA109",
+        "GA113"
+      ],
+      "status": "Past/present condition"
+    },
+    {
+      "id": "jupiter",
+      "name": "Future Jupiter",
+      "element": "Projected",
+      "root": "Spirit-Self / Manas",
+      "agency": "No exclusive hierarchy assigned here",
+      "inherited": "Earth's developments are inherited in Steiner's future scheme.",
+      "developed": "Steiner associates this future condition with Spirit-Self.",
+      "transition": "Prospective; stage-by-stage detail is not verified here.",
+      "sourceIds": [
+        "GA93a"
+      ],
+      "status": "Future teaching"
+    },
+    {
+      "id": "venus",
+      "name": "Future Venus",
+      "element": "Projected",
+      "root": "Life-Spirit / Buddhi",
+      "agency": "No exclusive hierarchy assigned here",
+      "inherited": "A projected continuation after Jupiter.",
+      "developed": "Steiner associates this future condition with Life-Spirit.",
+      "transition": "Prospective; not an observed celestial body.",
+      "sourceIds": [
+        "GA93a"
+      ],
+      "status": "Future teaching"
+    },
+    {
+      "id": "vulcan",
+      "name": "Future Vulcan",
+      "element": "Projected",
+      "root": "Spirit-Man / Atma",
+      "agency": "No exclusive hierarchy assigned here",
+      "inherited": "A projected continuation after Venus.",
+      "developed": "Steiner associates this future condition with Spirit-Man.",
+      "transition": "Prospective; detailed substages require further audit.",
+      "sourceIds": [
+        "GA93a"
+      ],
+      "status": "Future teaching"
+    }
+  ],
+  "sources": {
+    "GA13": "https://rsarchive.org/Books/GA013/English/RSP1969/GA013_c04.html",
+    "GA113": "https://rsarchive.org/Lectures/GA113/English/RSPC1940/19090825p01.html",
+    "GA109": "https://rsarchive.org/Lectures/RosiEsoter/19090609p01.html",
+    "GA134": "https://rsarchive.org/Lectures/GA134/English/RSPC1947/19111230p01.html",
+    "GA93a": "https://rsarchive.org/Lectures/GA093a/English/RSP1982/19051009p01.html"
+  }
+}
