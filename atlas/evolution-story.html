@@ -20,6 +20,51 @@
 .rivers{margin-top:39px}.sectiontop{display:flex;align-items:end;justify-content:space-between;gap:16px}.sectiontop p{max-width:690px;color:#5d746f;font-size:13px;margin:10px 0 0}.mini-legend{font-size:11px;color:#60817a}.river-shell{margin-top:17px;overflow:hidden;background:#0e303d;border-radius:18px;box-shadow:0 22px 46px #0b313c21;color:white;border:1px solid #29515c}.river-top{padding:17px 21px 13px;display:flex;align-items:center;justify-content:space-between;gap:10px;border-bottom:1px solid #ffffff26}.river-top strong{font-size:12px;letter-spacing:.11em;text-transform:uppercase;color:#c7ded7}.river-top small{font-size:11px;color:#a6c2b9}.river-chart{display:grid;grid-template-columns:195px minmax(0,1fr)}.river-labels{padding-top:34px;border-right:1px solid #ffffff28;background:#103744}.river-label{height:54px;display:flex;gap:8px;align-items:center;padding:0 12px 0 16px;border-bottom:1px solid #ffffff0e;font-size:12px;line-height:1.25}.swatch{width:9px;height:9px;border-radius:50%;flex:none;box-shadow:0 0 9px currentColor}.river-canvas{overflow-x:auto;overflow-y:hidden;scrollbar-color:#648f96 #163b46;scrollbar-width:thin}#river-svg{display:block;width:1160px;height:602px}.river-bottom{padding:14px 19px;border-top:1px solid #ffffff22;display:flex;align-items:center;justify-content:space-between;gap:13px;flex-wrap:wrap}.river-bottom p{font-size:11px;color:#bdd4cb;margin:0;max-width:750px}.river-bottom button{background:#d9e6de;color:#193f42;border:0;border-radius:8px;padding:9px 12px;font-size:11px;font-weight:800}.flow-strand{fill:none;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;opacity:.72}.flow-glimmer{fill:none;stroke-width:2;stroke-linecap:round;stroke-dasharray:5 18;opacity:.9;animation:current 3.5s linear infinite}.marker{stroke:#ffffffee;stroke-width:1.5;filter:drop-shadow(0 0 5px #ffffff70)}.river-hotspot{fill:transparent;cursor:pointer}.river-hotspot:focus{outline:none;stroke:#e2ce9b;stroke-width:2}
 .story-bottom{margin-top:30px}.reading{display:grid;grid-template-columns:1.18fr .82fr;gap:18px}.reading article{background:#fffefa;border:1px solid #dbe6dc;border-radius:19px;padding:26px;box-shadow:0 11px 33px #153b3c0b}.reading h2{margin-bottom:8px}.reading p{font-size:13px;color:#526e67;margin:0 0 12px}.factgrid{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:17px}.fact{background:#f1f6ef;border:1px solid #e0e9dc;border-radius:11px;padding:15px}.fact.full{grid-column:1/-1}.fact b{display:block;color:#43766b;font-size:10px;text-transform:uppercase;letter-spacing:.1em;margin-bottom:7px}.fact p{margin:0;font-size:13px;color:#314c4a}.readingsources{display:flex;flex-wrap:wrap;gap:7px;margin-top:16px}.readingsources a{border:1px solid #cbded5;background:#fff;border-radius:8px;padding:7px 10px;font-size:11px;color:#245f63;text-decoration:none}.keyline{display:block;border-top:1px solid #e6ede5;margin:18px 0}.transition{padding:17px;background:#edf2e9;border-radius:12px;margin:15px 0}.transition strong{font-size:11px;text-transform:uppercase;letter-spacing:.1em;color:#497268}.transition p{margin:7px 0 0}.openfull{display:inline-flex;margin-top:10px;background:#17454d;color:white;text-decoration:none;padding:11px 15px;border-radius:9px;font-size:12px;font-weight:850;min-height:43px;align-items:center}.method{margin:27px 0 58px;background:#e9eee7;border-left:3px solid #89a89e;padding:17px 21px;font-size:12px;color:#4b625d;border-radius:0 11px 11px 0}.method strong{display:block;margin-bottom:6px}
 .footer{border-top:1px solid #d9e3d9;padding:25px 0 35px;color:#627c75;font-size:12px}.footer a{margin-right:16px;color:#376b6a}
+
+/* Storytelling edition v2: a concise visual summary stays beside the moving timeline. */
+.momentbar{display:grid;grid-template-columns:1.12fr 1fr;gap:18px;margin:0 21px 22px;padding:19px 20px;border-radius:16px;background:linear-gradient(122deg,#f3f7f1,#f8f3e9);border:1px solid #e1e9dd;min-height:149px}
+.moment-kicker{display:block;color:#678578;font-size:10px;letter-spacing:.13em;text-transform:uppercase;font-weight:850;margin-bottom:7px}
+.momentbar h3{font:normal 27px/1.17 Georgia,serif;margin:0 0 7px;color:#254d52}
+.momentbar p{margin:0;color:#506b64;font-size:12px}
+.moment-delta{display:grid;grid-template-columns:1fr 1fr;gap:9px}
+.moment-cell{padding:13px;background:#fffdf8;border:1px solid #e3e8df;border-radius:11px}
+.moment-cell strong{font-size:10px;letter-spacing:.095em;text-transform:uppercase;color:#507d73;display:block;margin-bottom:6px}
+.moment-cell:last-child strong{color:#a27861}
+.moment-cell p{font-size:12px}
+.stage-animate{animation:stage-enter .48s cubic-bezier(.2,.7,.2,1) both}
+@keyframes stage-enter{from{opacity:.3;transform:translateY(5px)}to{opacity:1;transform:translateY(0)}}
+#pace{min-width:95px;font-size:11px}
+.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+.beacon{position:absolute;top:-2px;right:0;color:#996c47;font-size:10px;background:#f5e2b8;border-radius:50%;height:13px;width:13px;display:grid;place-items:center;box-shadow:0 0 0 2px #fffdfa}
+.rail button.active .beacon{background:#f2c184}
+.river-tools{padding:12px 17px;border-bottom:1px solid #ffffff1b;display:flex;align-items:center;justify-content:space-between;gap:8px;flex-wrap:wrap}
+.river-tools p{margin:0;color:#b4d3cb;font-size:11px}
+.river-tools button,.river-bottom .secondary-btn{border:1px solid #7daba68a;border-radius:8px;background:#285460;color:#e9f6f0;padding:8px 11px;font-size:11px;font-weight:750}
+.river-tools button[aria-pressed="true"]{color:#173d41;background:#c6ddd0}
+.river-label{padding:0 3px 0 8px}
+.river-label button{text-align:left;display:flex;align-items:center;gap:8px;width:100%;height:100%;background:transparent;border:0;border-radius:8px;color:#d2e5de;padding:5px 7px;font-size:11px;line-height:1.22}
+.river-label button:hover{background:#ffffff19}
+.river-label button[aria-pressed="true"]{color:#fff;background:#ffffff23;font-weight:850}
+.flow-strand,.flow-glimmer{transition:opacity .28s ease,stroke-width .28s ease}
+.flow-strand.lane-dim,.flow-glimmer.lane-dim,.flow-tail.lane-dim{opacity:.1}
+.flow-strand.lane-focus{stroke-width:11;opacity:1}
+.flow-glimmer.lane-focus{stroke-width:3;opacity:1}
+.marker.lane-dim{opacity:.16}
+.river-info{display:grid;grid-template-columns:auto 1fr;align-items:start;gap:10px;margin-top:7px;width:100%;padding:11px 12px;background:#ffffff12;border-radius:9px}
+.river-info .info-dot{width:11px;height:11px;border-radius:50%;margin-top:5px}
+.river-info strong{font-size:12px;display:block}
+.river-info p{margin:4px 0 0;font-size:11px;color:#cee2d8}
+.chapter-guide{margin:26px 0 0;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}
+.chapter-guide button{padding:16px 17px;border-radius:12px;text-align:left;border:1px solid #dae5db;background:#fffefa;box-shadow:0 8px 22px #173d3e09;color:#294c4c;min-height:117px}
+.chapter-guide button:hover{border-color:#77a59a;transform:translateY(-1px)}
+.chapter-guide button:focus-visible{transform:none}
+.chapter-guide .chapter-num{font-size:10px;font-weight:800;letter-spacing:.14em;color:#7a998c;text-transform:uppercase}
+.chapter-guide strong{display:block;font:normal 23px Georgia,serif;margin:7px 0 5px}
+.chapter-guide small{font-size:12px;color:#647e75;display:block}
+@media(max-width:800px){.momentbar{grid-template-columns:1fr}.chapter-guide{grid-template-columns:1fr 1fr}.player-note{display:none}}
+@media(max-width:610px){.momentbar{margin:0 12px 14px;padding:15px;gap:12px}.momentbar h3{font-size:23px}.moment-delta{grid-template-columns:1fr}.chapter-guide{grid-template-columns:1fr}.chapter-guide button{min-height:0}.river-tools{align-items:flex-start}.river-label button{padding:4px 0;font-size:10px}.river-info{grid-template-columns:1fr}.player-buttons{flex-wrap:wrap}.river-bottom{align-items:stretch}}
+@media print{.scene,.player,#stage-rail,.river-tools,.chapter-guide,.mast{display:none!important}.playboard,.river-shell,.reading article{box-shadow:none;break-inside:avoid}.hero{min-height:0;padding:12px 0}.river-canvas{overflow:visible}#river-svg{max-width:100%;height:auto}}
+
 @keyframes current{to{stroke-dashoffset:-92}}@keyframes haze{to{transform:translateX(55px);opacity:.6}}
 @media(max-width:950px){.hero-grid{grid-template-columns:1fr}.chapter-info{justify-self:start;align-self:auto;max-width:480px}.hero{min-height:500px}.scene{width:72vw}.player{grid-template-columns:1fr}.player-note{text-align:left;max-width:none}.reading{grid-template-columns:1fr}.board-head{align-items:start;flex-direction:column}}
 @media(max-width:610px){.wrap{width:calc(100% - 28px)}.mast .wrap{padding:10px 0;align-items:start;flex-direction:column}.navlinks{gap:14px}.hero-grid{padding:42px 0 38px}.hero{min-height:0}.hero h1{font-size:43px}.hero p{font-size:13px}.scene{width:100%;right:-38%;opacity:.47}.chapter-info{padding:14px 16px}.introstrip{grid-template-columns:1fr}.board-head{padding:19px 15px 10px}.board-head h2,.rivers h2,.reading h2{font-size:27px}.rail-outer{margin:8px 12px 0}.player{padding:17px 15px;gap:13px}.river-chart{grid-template-columns:126px minmax(0,1fr)}.river-label{padding:0 7px;font-size:10px}.swatch{width:7px;height:7px}.river-top{padding:13px}.river-top small{font-size:10px}.reading article{padding:19px 16px}.factgrid{grid-template-columns:1fr}.sectiontop{display:block}.mini-legend{margin-top:11px}.player-note{display:none}}
@@ -32,8 +77,9 @@
 <section class="hero" id="hero" data-epoch="Atlantean" aria-labelledby="hero-title"><div class="scene" aria-hidden="true"><div class="orb"></div><div class="horizon"></div><div class="horizon two"></div><div class="haze"></div></div><div class="wrap hero-grid"><div><div class="kicker">The evolution of human consciousness · An interactive visual study</div><h1 id="hero-title">A journey from ancient will <span>to conscious freedom.</span></h1><p id="hero-description">Explore the continuous transformations of inherited forces, spiritual influences, developing capacities and human self-consciousness in Steiner's account.</p><div class="chapter"><i></i><span id="hero-chapter">CHAPTER 02 · ATLANTIS</span></div></div><aside class="chapter-info"><small id="scene-caption">Stage A4 · Atlantean</small><p id="scene-insight">Memory, life forces and emerging judgment.</p><span class="counter" id="scene-count">Stage 11 of 21 · Illustrative sequence</span></aside></div></section>
 <main class="wrap">
 <div class="introstrip"><p><strong>Follow the transformation, not just the dates.</strong> Step through seven Lemurian analytical milestones, seven named Atlantean stages and seven post-Atlantean cultural periods. Every stage is connected to Steiner source references.</p><a href="human-evolution.html">Browse all 21 rows in the master matrix ↗</a></div>
-<section id="timeline" class="playboard" aria-labelledby="timeline-title"><div class="board-head"><div><span class="section-kicker">01 / Journey through the stages</span><h2 id="timeline-title">Move through the epochs</h2><p>Tap any milestone, drag the scrubber, or play the guided sequence.</p></div><div class="epoch-buttons" aria-label="Jump to an epoch"><button type="button" data-epoch="Lemurian" aria-pressed="false">Lemuria</button><button type="button" data-epoch="Atlantean" aria-pressed="true">Atlantis</button><button type="button" data-epoch="Post-Atlantean" aria-pressed="false">Post-Atlantis</button></div></div><div class="rail-outer" id="rail-scroll"><div id="stage-rail" class="rail" role="group" aria-label="21 stage milestones"></div></div><div class="player"><div class="player-buttons"><button type="button" class="control" id="prev" aria-label="Previous stage">←</button><button type="button" class="control primary" id="play" aria-label="Play the timeline">▶ Play</button><button type="button" class="control" id="next" aria-label="Next stage">→</button></div><div class="range-wrap"><input type="range" id="scrub" min="0" max="20" step="1" value="10" aria-label="Move through the 21 stages"><span id="position">11 / 21</span></div><div class="player-note">Story sequence, not a calendar-time scale</div></div></section>
-<section class="rivers" aria-labelledby="rivers-title"><div class="sectiontop"><div><span class="section-kicker">02 / Inheritance and transformation</span><h2 id="rivers-title">The rivers of influence</h2><p>Follow the major forces and faculties across the same sequence. Each line represents a <em>qualitative narrative thread</em>—where Steiner introduces, emphasizes, or describes it as changing. Lines are not measurements of strength.</p></div><div class="mini-legend">◉ Selected milestone · Colored strands = tracked themes</div></div><div class="river-shell"><div class="river-top"><strong>Across 21 milestones</strong><small>Drag horizontally on mobile · Tap a column to explore</small></div><div class="river-chart"><div class="river-labels" id="river-labels" aria-hidden="true"></div><div class="river-canvas" id="river-canvas"><svg id="river-svg" viewBox="0 0 1160 602" role="img" aria-label="Qualitative timeline of nine overlapping evolutionary forces and capacities"></svg></div></div><div class="river-bottom"><p id="river-explanation">A selected stage highlights the strands present in Steiner's narrative; other strands remain visible as context.</p><button id="reset-streams" type="button">Back to Atlantis</button></div></div></section>
+<section id="timeline" class="playboard" aria-labelledby="timeline-title"><div class="board-head"><div><span class="section-kicker">01 / Journey through the stages</span><h2 id="timeline-title">Move through the epochs</h2><p>Tap any milestone, drag the scrubber, or play the guided sequence.</p></div><div class="epoch-buttons" aria-label="Jump to an epoch"><button type="button" data-epoch="Lemurian" aria-pressed="false">Lemuria</button><button type="button" data-epoch="Atlantean" aria-pressed="true">Atlantis</button><button type="button" data-epoch="Post-Atlantean" aria-pressed="false">Post-Atlantis</button></div></div><div class="rail-outer" id="rail-scroll"><div id="stage-rail" class="rail" role="group" aria-label="21 stage milestones"></div></div><div class="player"><div class="player-buttons"><button type="button" class="control" id="prev" aria-label="Previous stage">←</button><button type="button" class="control primary" id="play" aria-label="Play the timeline">▶ Play</button><button type="button" class="control" id="next" aria-label="Next stage">→</button><button type="button" class="control" id="pace" aria-label="Playback pace, currently seven seconds per stage" title="Change playback pace">7s / stage</button></div><div class="range-wrap"><input type="range" id="scrub" min="0" max="20" step="1" value="10" aria-label="Move through the 21 stages"><span id="position">11 / 21</span></div><div class="player-note">Illustrative order, not calendar time</div></div><div id="momentbar" class="momentbar" aria-label="Current stage in brief"><div><span class="moment-kicker" id="moment-kind">Turning point</span><h3 id="moment-heading">Human development</h3><p id="moment-event">Select a milestone to explore the change.</p></div><div class="moment-delta"><div class="moment-cell"><strong>Developing</strong><p id="moment-gain"></p></div><div class="moment-cell"><strong>Receding / changing</strong><p id="moment-loss"></p></div></div></div><div class="sr-only" id="journey-status" role="status" aria-live="polite"></div></section>
+<section class="rivers" aria-labelledby="rivers-title"><div class="sectiontop"><div><span class="section-kicker">02 / Inheritance and transformation</span><h2 id="rivers-title">The rivers of influence</h2><p>Follow the major forces and faculties across the same sequence. Each line represents a <em>qualitative narrative thread</em>—where Steiner introduces, emphasizes, or describes it as changing. Lines are not measurements of strength.</p></div><div class="mini-legend">◉ Selected milestone · Colored strands = tracked themes</div></div><div class="river-shell"><div class="river-top"><strong>Across 21 milestones</strong><small>Drag horizontally on mobile · Tap a column to explore</small></div><div class="river-tools"><p><strong>Study one thread:</strong> select a river name to isolate its path and read how it changes.</p><button type="button" id="clear-focus" aria-pressed="true">All influences</button></div><div class="river-chart"><div class="river-labels" id="river-labels" role="group" aria-label="Choose an evolutionary force or faculty"></div><div class="river-canvas" id="river-canvas"><svg id="river-svg" viewBox="0 0 1160 602" role="img" aria-label="Qualitative timeline of nine overlapping evolutionary forces and capacities"></svg></div></div><div class="river-bottom"><p id="river-explanation">A selected stage highlights qualitative narrative themes; strands are not measured values.</p><button id="reset-streams" type="button">Back to Atlantis</button><div class="river-info" id="river-info"><span class="info-dot" id="river-info-dot"></span><div><strong id="river-info-title">All nine threads</strong><p id="river-info-text">Select a named strand to understand its place in Steiner’s account and see which other narratives overlap it.</p></div></div></div></div></section>
+<div class="chapter-guide" aria-label="Epoch guide"><button type="button" data-guide="Lemurian"><span class="chapter-num">Chapter I / Formative life</span><strong>Lemurian milestones</strong><small>Body, formative will, selfhood and first memory</small></button><button type="button" data-guide="Atlantean"><span class="chapter-num">Chapter II / Memory &amp; power</span><strong>Atlantean stages</strong><small>Speech, initiates, desire, life forces and thought</small></button><button type="button" data-guide="Post-Atlantean"><span class="chapter-num">Chapter III / Conscious freedom</span><strong>Post-Atlantean cultures</strong><small>Thinking, the Christ impulse and consciousness soul</small></button></div>
 <section class="reading story-bottom" aria-labelledby="reading-title"><article><span class="section-kicker">03 / Selected stage · Full explanation</span><h2 id="reading-title">What changes here?</h2><p id="stage-type"></p><div id="stage-facts" class="factgrid"></div><div class="readingsources" id="stage-sources"></div></article><article><span class="section-kicker">The evolutionary passage</span><h2 id="passage-title">Why does this stage matter?</h2><p id="passage-summary"></p><div class="transition"><strong>From the preceding stage</strong><p id="previous-stage"></p></div><div class="transition"><strong>What can go wrong?</strong><p id="passage-risk"></p></div><span class="keyline"></span><p id="passage-method"></p><a class="openfull" id="open-stage" href="human-evolution.html#stage=A4">Open full research entry ↗</a><p style="margin-top:18px;font-size:12px">The complete explorer also includes the comparison table, side-by-side stage analysis, and seven Atlantean Oracles.</p></article></section>
 <div class="method"><strong>Reading note · Source and chronology boundaries</strong>Steiner’s narrative is presented as an attributed spiritual-scientific teaching, not established prehistoric history. The seven Lemurian entries are editorial developmental milestones rather than seven formally named sequential subdivisions; some overlap. Atlantean stage names preserve historical esoteric terminology and do not describe modern ethnic groups. Post-Atlantean sixth and seventh stages are future teachings. The positions and widths of streams indicate sequence and thematic coverage only—not measurable intensity, precise dates, or the disappearance of spiritual beings. The Atlantean Oracles operate across stages, not as a one-to-one counterpart to the seven peoples.</div>
 </main><footer class="footer"><div class="wrap"><a href="../index.html">Atlas home</a><a href="human-evolution.html">Complete research matrix</a><a href="https://github.com/infinix8/rudolf-steiner-atlas">Source repository</a><span>© Independent editorial Atlas · Original works remain at RSArchive</span></div></footer>
@@ -54,14 +100,22 @@ const track=[
  {name:"Christ impulse",color:"#f1db9e",start:17,end:20,meaning:"The Mystery of Golgotha within the Greco-Roman period; its influence continues afterward."},
  {name:"Consciousness soul",color:"#a6d7c8",start:18,end:20,meaning:"Distinctive post-Atlantean present-period task, with future developments represented as Steiner's projections."}
 ];
-const state={index:10,timer:null,wasStarted:false};
+const state={index:10,timer:null,wasStarted:false,lane:null,paceIndex:1};
+const paceChoices=[4500,7000,10000];
+const moments=[
+ ["The formative life of early humanity","Formation"],["The Moon's departure","Cosmic turning point"],["Differentiation and inward organs","Embodiment"],["The challenge of independent desire","Spiritual influence"],["Cultivating the will","Training and initiation"],["Memory begins to take shape","Developing consciousness"],["From Lemuria toward Atlantis","Epoch transition"],
+ ["Speech and remembered images","New epoch"],["The importance of personal deeds","Community"],["Spiritual leadership and social power","Institutions"],["When living forces serve desire","Ethical crisis"],["Judgment begins to emerge","Cognitive change"],["Law, enterprise and calculation","Social development"],["Tradition meets emerging thought","Epoch transition"],
+ ["Remembering spiritual origins","Cultural period"],["The human task turns earthward","Cultural period"],["Reading cosmic order in nature","Cultural period"],["The human I and the Mystery of Golgotha","Christ impulse"],["Consciousness-soul responsibility","Present period"],["Prospective: Spirit-Self","Future teaching"],["Prospective: final cultural transition","Future teaching"]
+];
+const turningPoints=new Set(["L2","L4","L7","A1","A4","A5","P4","P5"]);
+if(moments.length!==stages.length)throw Error("Stage narrative labels are out of sync");
 const labels=["Inherited forces","Most active / increasing","Inherited capabilities","Newly developed","Growing capacities","Receding capacities","Spiritual beings & agencies","New influences","Major events","Human characteristics"];
 const keys=["inheritedForces","activeForces","inheritedAbilities","newAbilities","increasing","decreasing","beings","newInfluences","events","people"];
 const epochs=["Lemurian","Atlantean","Post-Atlantean"];
 function tag(x){return x==="Lemurian"?"LEMURIA":x==="Atlantean"?"ATLANTIS":"POST-ATLANTIS";}
 function current(){return stages[state.index];}
 function buildRail(){
- $('stage-rail').innerHTML=stages.map((s,i)=>'<button type="button" data-i="'+i+'" data-era="'+safe(s.epoch)+'" aria-label="'+safe(s.id+" · "+s.name)+'"><span class="node"></span><small>'+safe(s.id)+'</small></button>').join("");
+ $('stage-rail').innerHTML=stages.map((s,i)=>'<button type="button" data-i="'+i+'" data-era="'+safe(s.epoch)+'" aria-label="'+safe(s.id+" · "+s.name)+'"><span class="node"></span>'+(turningPoints.has(s.id)?'<span class="beacon" aria-hidden="true">✦</span>':'')+'<small>'+safe(s.id)+'</small></button>').join("");
  $('stage-rail').addEventListener("click",e=>{const b=e.target.closest("[data-i]");if(b){pause();select(+b.dataset.i);}});
  $('stage-rail').addEventListener("keydown",e=>{if(!["ArrowRight","ArrowLeft","Home","End"].includes(e.key))return;const b=e.target.closest("[data-i]");if(!b)return;e.preventDefault();pause();const next=e.key==="Home"?0:e.key==="End"?20:+b.dataset.i+(e.key==="ArrowRight"?1:-1);select(next);$('stage-rail').querySelector('[data-i="'+state.index+'"]').focus();});
 }
@@ -69,7 +123,7 @@ function chartX(i){return 38+i*53.2}
 function chartY(i){return 67+i*54}
 function curve(x1,x2,y){const d=x2-x1;return "M "+x1+" "+y+" C "+(x1+d*.28)+" "+(y-6)+" "+(x1+d*.68)+" "+(y+6)+" "+x2+" "+y;}
 function buildRivers(){
- $('river-labels').innerHTML=track.map(t=>'<div class="river-label"><span class="swatch" style="color:'+t.color+';background:'+t.color+'"></span><span>'+safe(t.name)+'</span></div>').join("");
+ $('river-labels').innerHTML=track.map((t,i)=>'<div class="river-label"><button type="button" data-river-focus="'+i+'" aria-pressed="false" title="'+safe(t.meaning)+'"><span class="swatch" style="color:'+t.color+';background:'+t.color+'"></span><span>'+safe(t.name)+'</span></button></div>').join("");
  let svg='<defs><pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".7" fill="#a1d7d2" opacity=".13"/></pattern></defs>';
  svg+='<rect width="1160" height="602" fill="url(#dots)"/>';
  const bands=[["Lemuria",0,7,"#bc8b74"],["Atlantis",7,14,"#75b3b9"],["Post-Atlantis",14,21,"#97bca9"]];
@@ -78,7 +132,9 @@ function buildRivers(){
  for(let i=0;i<track.length;i++){const t=track[i],y=chartY(i),x1=chartX(t.start),x2=chartX(t.end);
  svg+='<path d="M 12 '+y+' H 1145" stroke="#b4d7c3" stroke-opacity=".10" stroke-width="1.2"/>';
  const path=curve(x1,x2,y);
- svg+='<path class="flow-strand" d="'+path+'" stroke="'+t.color+'"/><path class="flow-glimmer" d="'+path+'" stroke="'+t.color+'"/><circle cx="'+x1+'" cy="'+y+'" r="6" fill="'+t.color+'" opacity=".91"/>';
+ svg+='<path class="flow-strand" data-track="'+i+'" d="'+path+'" stroke="'+t.color+'"/><path class="flow-glimmer" data-track="'+i+'" d="'+path+'" stroke="'+t.color+'"/><circle cx="'+x1+'" cy="'+y+'" r="6" fill="'+t.color+'" opacity=".91"/>';
+ if(t.end<20)svg+='<path class="flow-tail" data-track="'+i+'" d="M '+x2+' '+y+' H '+chartX(20)+'" stroke="'+t.color+'" fill="none" stroke-width="1.5" stroke-dasharray="3 11" opacity=".20"/>';
+ svg+='<circle class="marker" id="river-dot-'+i+'" cx="'+chartX(state.index)+'" cy="'+y+'" r="6.5" fill="'+t.color+'" opacity=".9"/>';
  if(t.end<20)svg+='<circle cx="'+x2+'" cy="'+y+'" r="3" fill="'+t.color+'" opacity=".5"/>';
  }
  svg+='<line id="chart-cursor" x1="'+chartX(state.index)+'" x2="'+chartX(state.index)+'" y1="33" y2="585" stroke="#fcf3d2" stroke-width="1.7" stroke-dasharray="5 5" opacity=".85"/><circle id="chart-halo" cx="'+chartX(state.index)+'" cy="592" r="6" fill="#f9e8c9"/>';
@@ -89,6 +145,45 @@ function buildRivers(){
 }
 function facts(s){return keys.map((k,i)=>'<div class="fact'+([6,7,8,9].includes(i)?" full":"")+'"><b>'+labels[i]+'</b><p>'+safe(s[k])+'</p></div>').join("");}
 function sourceLinks(s){return s.sourceIds.map(id=>data.sources[id]?'<a target="_blank" rel="noopener noreferrer" href="'+safe(data.sources[id].url)+'" title="'+safe(data.sources[id].title)+'">'+safe(id)+' · Primary source ↗</a>':"").join("");}
+
+function renderMoment(s){
+ const m=moments[state.index];
+ $('moment-kind').textContent=s.id+" · "+m[1]+(turningPoints.has(s.id)?" · Featured milestone":"");
+ $('moment-heading').textContent=m[0];
+ $('moment-event').textContent=s.events;
+ $('moment-gain').textContent=s.increasing;
+ $('moment-loss').textContent=s.decreasing;
+ $('momentbar').classList.remove("stage-animate");
+ if(!(window.matchMedia&&window.matchMedia("(prefers-reduced-motion: reduce)").matches)){void $('momentbar').offsetWidth;$('momentbar').classList.add("stage-animate");}
+ $('journey-status').textContent="Selected "+s.id+", "+s.name;
+}
+function renderTrackFocus(){
+ $('clear-focus').setAttribute("aria-pressed",state.lane===null?"true":"false");
+ document.querySelectorAll("[data-river-focus]").forEach(b=>b.setAttribute("aria-pressed",+b.dataset.riverFocus===state.lane?"true":"false"));
+ $('river-svg').querySelectorAll("[data-track]").forEach(el=>{
+   const dim=state.lane!==null&&+el.dataset.track!==state.lane;
+   el.classList.toggle("lane-dim",dim);
+   el.classList.toggle("lane-focus",!dim&&state.lane!==null&&el.classList.contains("flow-strand"));
+ });
+ track.forEach((t,i)=>{
+   const dot=$('river-dot-'+i);if(!dot)return;
+   const applies=state.index>=t.start&&state.index<=t.end;
+   dot.setAttribute("cx",chartX(state.index));dot.style.display=applies?"":"none";
+   dot.classList.toggle("lane-dim",state.lane!==null&&state.lane!==i);
+ });
+ const t=state.lane===null?null:track[state.lane];
+ $('river-info-title').textContent=t?t.name:"All nine overlapping themes";
+ $('river-info-dot').style.background=t?t.color:"#a9d4c7";
+ $('river-info-text').textContent=t?t.meaning:"Select any named river to focus its storyline. Dotted continuations show thematic transformation or uncertainty, not a literal disappearance of beings or forces.";
+ $('river-explanation').textContent=t
+ ?(current().id+" · "+(state.index>=t.start&&state.index<=t.end?"Inside the highlighted editorial narrative window. ":"Outside this thread's highlighted window; it may persist in other forms. ")+t.meaning)
+ :(current().id+" · "+track.filter(v=>state.index>=v.start&&state.index<=v.end).map(v=>v.name).join(" · ")+". Not a chart of exact force magnitude.");
+}
+function scrollChartToSelection(){
+ const el=$('river-canvas');if(!el)return;
+ const target=Math.max(0,chartX(state.index)-el.clientWidth*.5);
+ if(Math.abs(el.scrollLeft-target)>80)el.scrollTo({left:target,behavior:window.matchMedia&&window.matchMedia("(prefers-reduced-motion: reduce)").matches?"auto":"smooth"});
+}
 function select(i,opt){state.index=Math.min(20,Math.max(0,i));const s=current(),prev=stages[state.index-1];
  $('hero').dataset.epoch=s.epoch;$('hero-title').innerHTML='The story of <span>'+safe(s.name)+'.</span>';
  $('hero-description').textContent=s.contribution;
@@ -99,6 +194,7 @@ function select(i,opt){state.index=Math.min(20,Math.max(0,i));const s=current(),
  $('position').textContent=(state.index+1)+" / 21";$('scrub').value=state.index;
  $('prev').disabled=state.index===0;$('next').disabled=state.index===20;
  document.querySelectorAll("[data-epoch]").forEach(b=>{if(b.tagName==="BUTTON")b.setAttribute("aria-pressed",b.dataset.epoch===s.epoch?"true":"false");});
+ renderMoment(s);
  $('stage-type').textContent=s.id+" · "+s.evidence+" — "+s.note;
  $('stage-facts').innerHTML=facts(s);$('stage-sources').innerHTML=sourceLinks(s);
  $('passage-title').textContent=s.name;$('passage-summary').textContent=s.contribution;
@@ -108,15 +204,22 @@ function select(i,opt){state.index=Math.min(20,Math.max(0,i));const s=current(),
  $('open-stage').href="human-evolution.html#stage="+s.id;
  $('chart-cursor').setAttribute("x1",chartX(state.index));$('chart-cursor').setAttribute("x2",chartX(state.index));
  $('chart-halo').setAttribute("cx",chartX(state.index));
+ renderTrackFocus();
+ if(!opt||!opt.noScroll)scrollChartToSelection();
  const active=track.filter(t=>state.index>=t.start&&state.index<=t.end);
- $('river-explanation').textContent=s.id+" · "+active.map(x=>x.name).join(" · ")+". Streams indicate editorial thematic coverage, not exact force magnitude.";
+ // The single focus renderer owns both the marker and the interpretive explanation.
  const hash="#stage="+s.id;if(location.hash!==hash)history.replaceState(null,"",hash);
  if(!opt||!opt.noScroll){const b=$('stage-rail').querySelector('[data-i="'+state.index+'"]');if(b)b.scrollIntoView({block:"nearest",inline:"center",behavior:"smooth"});}
 }
 function pause(){if(state.timer!==null){clearInterval(state.timer);state.timer=null;}$('play').textContent="▶ Play";$('play').setAttribute("aria-label","Play the timeline");}
-function play(){if(state.timer!==null){pause();return;}if(state.index===20)select(0);$('play').textContent="Ⅱ Pause";$('play').setAttribute("aria-label","Pause the timeline");state.timer=setInterval(()=>{if(state.index===20){pause();return;}select(state.index+1,{noScroll:true});$('stage-rail').querySelector('[data-i="'+state.index+'"]').scrollIntoView({block:"nearest",inline:"center",behavior:"smooth"});},3300);}
+function play(){if(state.timer!==null){pause();return;}if(state.index===20)select(0);$('play').textContent="Ⅱ Pause";$('play').setAttribute("aria-label","Pause the timeline");state.timer=setInterval(()=>{if(state.index===20){pause();return;}select(state.index+1,{noScroll:true});$('stage-rail').querySelector('[data-i="'+state.index+'"]').scrollIntoView({block:"nearest",inline:"center",behavior:"smooth"});scrollChartToSelection();},paceChoices[state.paceIndex]);}
 buildRail();buildRivers();
 $('play').addEventListener("click",play);
+$('pace').addEventListener("click",()=>{const wasPlaying=state.timer!==null;pause();state.paceIndex=(state.paceIndex+1)%paceChoices.length;const seconds=paceChoices[state.paceIndex]/1000;$('pace').textContent=seconds+"s / stage";$('pace').setAttribute("aria-label","Playback pace, currently "+seconds+" seconds per stage");if(wasPlaying)play();});
+$('river-labels').addEventListener("click",e=>{const b=e.target.closest("[data-river-focus]");if(b){state.lane=state.lane===+b.dataset.riverFocus?null:+b.dataset.riverFocus;renderTrackFocus();}});
+$('clear-focus').addEventListener("click",()=>{state.lane=null;renderTrackFocus();});
+document.querySelectorAll("[data-guide]").forEach(b=>b.addEventListener("click",()=>{pause();select(epochs.indexOf(b.dataset.guide)*7);$('timeline').scrollIntoView({behavior:"smooth",block:"start"});}));
+
 $('prev').addEventListener("click",()=>{pause();select(state.index-1);});
 $('next').addEventListener("click",()=>{pause();select(state.index+1);});
 $('scrub').addEventListener("input",e=>{pause();select(+e.target.value);});

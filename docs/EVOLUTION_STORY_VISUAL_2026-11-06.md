@@ -18,3 +18,9 @@ These strands are **qualitative editorial windows**, not measured spiritual inte
 ## Deployment
 
 Publishing remains **manual-only** via the already-existing combined Pages workflow, which copies all files under `atlas/`. No workflow edits, scheduled jobs, added dependencies, or deployments were performed in this milestone. The one consolidated commit message uses `[skip ci]` to suppress push validation runs on this commit. For later revisions, keep the embedded JSON consistent with the canonical research JSON and test the animations on phone and desktop.
+
+## Visual iteration 2 (6 November 2026)
+
+The story now has a **live current-moment narrative capsule** directly below the timeline: milestone headline, significant event, emerging trait, and receding trait. Eight selected turning-point beacons mark prominent developments without pretending the Lemurian entries have exact chronology. Playback defaults to a readable seven seconds per stage and offers 4.5/7/10 second speeds. The nine river labels are interactive focus controls (keyboard-accessible buttons), with explanatory descriptions, visual emphasis, optional highlight dots, and a dotted transition tail when a theme recedes from the highlighted narrative. The river canvas follows selected milestones on smaller screens, while reduced-motion preferences disable transition animations. A chapter doorway allows jumping between the three epochs.
+
+No quantitative spiritual scores, invented dates, or entirely new factual claims were added to the research dataset. Track windows remain explicitly editorial, with overlapping forces and the persistence of spiritual beings acknowledged. The new content lives within one self-contained HTML page, keeps all existing links, and is compatible with the existing manual-only Pages publication.
