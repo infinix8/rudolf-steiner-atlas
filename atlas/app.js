@@ -251,7 +251,8 @@ function nodePage(id) {
     (parentId(id) ? '<button class="btn" data-node="' + html(parentId(id)) + '">↑ Parent topic</button>' : "") +
     '<button class="btn" data-copy>Copy topic link</button></div>' + modelBlock(id) + trajectoryLinks(id) + hierarchy +
     (siblings.length ? '<section><h2>Nearby concepts</h2><div class="grid">' + siblings.map((s) => card(s.id)).join("") + "</div></section>" : "") + "</div>";
-  return heading + '<div class="two-col">' + inside + aside + "</div>";
+  const gateway = '<div class="visual-gateway"><span>Exploring ' + html(region?.title || "the Atlas") + '</span><a href="explore.html?region=' + html(region?.id || 'I') + (domain ? '&amp;domain=' + html(domain.id) : '') + '">← Visual theme guide</a></div>';
+  return gateway + heading + '<div class="two-col">' + inside + aside + "</div>";
 }
 function homePage() {
   const nodes = [...state.nodes.values()];
@@ -260,20 +261,20 @@ function homePage() {
   return '<p class="eyebrow">Explore · Connect · Return to Steiner</p>' +
     "<h1>Find the teaching, then read the original.</h1>" +
     '<p class="intro">This atlas complements the existing archives: it classifies concepts at finer depth and reveals relationships between subjects. It does not reproduce their full books, lectures, or independent bibliographic work.</p>' +
-    '<p><a href="graph.html" class="btn">Explore evidence-linked knowledge graph →</a> · <a href="sources.html" class="btn">Browse the original-source guide →</a> · <a href="organs.html" class="btn">Explore organ evolution concordance →</a> · <a href="agency.html" class="btn">Compare spiritual hierarchies, stages and roles →</a></p>' +
+    '<details class="library-disclosure"><summary>Open research shortcuts and classification statistics</summary><p><a href="graph.html" class="btn">Explore evidence-linked knowledge graph →</a> · <a href="sources.html" class="btn">Browse the original-source guide →</a> · <a href="organs.html" class="btn">Explore organ evolution concordance →</a> · <a href="agency.html" class="btn">Compare spiritual hierarchies, stages and roles →</a></p>' +
     '<div class="stats"><div class="stat"><strong>6</strong><span>Knowledge regions</span></div>' +
     '<div class="stat"><strong>' + domains.length + '</strong><span>Thematic domains</span></div>' +
     '<div class="stat"><strong>' + nodes.length.toLocaleString() + '</strong><span>Indexed nodes</span></div>' +
     '<div class="stat"><strong>' + (state.data.crosslinks || []).length + '</strong><span>Initial crosslinks</span></div></div>' +
     '<div class="caution"><strong>Research status:</strong> This is a breadth-first, editor-created classification. Volume references are research leads; not all links or proposed relationships have been checked at passage level.</div>' +
-    '<section><div class="section-heading"><h2>Six knowledge regions</h2><span class="badge">Browse the hierarchy</span></div>' +
+    '</details><div class="visual-start"><h2>Prefer a visual starting point?</h2><p>Explore six worlds of thought, with focused branches and topics in each.</p><a href="../index.html#worlds">Choose a world →</a></div><section><div class="section-heading"><h2>Six knowledge regions</h2><span class="badge">Browse the hierarchy</span></div>' +
     '<div class="grid">' + state.data.tree.map((n) => card(n.id)).join("") + "</div></section>" +
     '<section><div class="section-heading"><h2>Guided connections</h2><span class="badge warn">Editorial routes</span></div>' +
     '<p class="muted">These pathways help you discover connections across domains; they are not presented as Steiner-authored sequences.</p>' +
     '<div class="grid">' + paths.map((p) => '<button type="button" class="tile" data-path="' + html(p.id) + '">' +
     '<span class="id">STUDY PATH</span><strong>' + html(p.title) + '</strong><small>' +
     html(p.description) + "</small></button>").join("") + "</div></section>" +
-    '<section><h2>Bridge to the archive’s own topic lists</h2>' +
+    '<details class="library-disclosure"><summary>Archive bibliographies and original-source websites</summary><section><h2>Bridge to the archive’s own topic lists</h2>' +
     '<p class="muted">The original archive already maintains these bibliographies. The atlas adds finer categories and cross-domain relationships, not substitute reading lists.</p>' +
     '<div class="grid">' + (state.crosswalk?.topics || []).map((topic) =>
       '<div class="panel"><strong>' + link(topic.url, topic.title) + '</strong>' +
@@ -283,7 +284,7 @@ function homePage() {
     '<div class="panel"><h3>Rudolf Steiner Archive</h3><p>Read texts, browse existing topics, search works, GA numbers and lecture dates.</p>' +
     "<p>" + link(sourceGAIndex, "Browse source volumes") + "</p></div>" +
     '<div class="panel"><h3>Rudolf Steiner Archiv (Dornach)</h3><p>Consult editorial, bibliographic and Complete Works context; distinguish primary manuscripts and recorded lectures.</p>' +
-    "<p>" + link(officialCatalog, "Open Complete Works catalogue") + "</p></div></div></section>";
+    "<p>" + link(officialCatalog, "Open Complete Works catalogue") + "</p></div></div></section></details>";
 }
 function pathPage(id) {
   const path = (state.paths?.paths || []).find((p) => p.id === id);

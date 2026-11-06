@@ -2,101 +2,153 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="theme-color" content="#123943">
-<meta name="description" content="Explore Rudolf Steiner's teachings in a source-linked thematic and organ evolution atlas.">
-<title>Rudolf Steiner Atlas — Explore the connections</title>
-<style>
-:root{font:16px/1.56 system-ui,-apple-system,"Segoe UI",sans-serif;color:#203d45;background:#faf8f2;--ink:#203d45;--sub:#566d73;--navy:#103a44;--gold:#e5c991;--line:#e5e5dc;--paper:#fffefa}
-*{box-sizing:border-box}body{margin:0}a{color:#17636b;text-underline-offset:3px}a:focus-visible{outline:3px solid #c7a75d;outline-offset:4px}.wrap{max-width:1110px;margin:auto;padding:0 24px}
-header{background:radial-gradient(ellipse at 96% 50%,#235e67 0,transparent 47%),linear-gradient(135deg,#123f48,#0b2c36);color:white}
-.top{display:flex;align-items:center;justify-content:space-between;gap:16px;padding:19px 0;border-bottom:1px solid #ffffff30}.identity{text-decoration:none;color:white;display:flex;gap:12px;align-items:center}.star{border:1px solid var(--gold);width:38px;height:38px;display:grid;place-items:center;border-radius:50%;font-size:22px;color:var(--gold)}.identity strong{display:block;letter-spacing:.14em;text-transform:uppercase;font-size:12px}.identity small{display:block;color:#bfd7d3;font-size:11px}.toplink{text-decoration:none;border:1px solid #ffffff75;border-radius:100px;padding:7px 12px;color:white;font-size:12px;white-space:nowrap}
-.hero{padding:70px 0 80px}.eyebrow{font-weight:800;color:#a9dbd3;letter-spacing:.19em;text-transform:uppercase;font-size:11px}.hero h1{font:normal clamp(46px,7vw,79px)/1.05 Georgia,serif;letter-spacing:-.05em;margin:17px 0 23px;max-width:800px}.hero p{max-width:670px;color:#d7e6e3;font-size:17px;margin:0}.micro{margin-top:27px;display:flex;gap:8px;flex-wrap:wrap}.micro span{border:1px solid #ffffff52;border-radius:30px;color:#e2eae8;font-size:12px;padding:6px 11px}
-main{padding-top:49px;padding-bottom:60px}h2{font:normal 33px/1.2 Georgia,serif;margin:0 0 13px}.intro{font-size:15px;color:var(--sub);max-width:850px;margin:0 0 23px}.portals{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:20px}.portal{border:1px solid var(--line);background:var(--paper);border-radius:20px;padding:30px;box-shadow:0 12px 34px #153f4508;display:flex;flex-direction:column;min-height:307px}.portal .symbol{color:#39796f;font:29px Georgia,serif}.portal .kicker{font-size:11px;color:#62897c;text-transform:uppercase;letter-spacing:.13em;font-weight:800;margin:15px 0 7px}.portal h3{font:normal 31px/1.2 Georgia,serif;margin:0 0 11px}.portal p{color:var(--sub);font-size:14px;flex:1;margin:0 0 23px}.cta{display:inline-flex;align-items:center;justify-content:center;align-self:flex-start;background:var(--navy);color:white;text-decoration:none;padding:11px 16px;border-radius:10px;font-size:13px;font-weight:750;min-height:44px}.cta:hover{background:#1e5760}
-.section{margin-top:49px}.tools{display:grid;grid-template-columns:repeat(3,1fr);gap:13px}.tool{background:#fff;border:1px solid var(--line);border-radius:13px;padding:18px 20px;text-decoration:none;color:var(--ink);min-height:119px}.tool strong{font-size:15px;display:block;margin-bottom:7px}.tool span{display:block;color:var(--sub);font-size:12px}.tool:hover{border-color:#81b2a6;background:#f5f9f5}.notice{background:#edf3ef;border-left:3px solid #789c8e;padding:17px 21px;border-radius:0 11px 11px 0;margin-top:32px;color:#3c5c62;font-size:13px}.notice strong{display:block;margin-bottom:5px}footer{border-top:1px solid var(--line);font-size:12px;color:#6a7b7c;padding:29px 0 47px}footer p{max-width:800px;margin:0 0 9px}
-@media(max-width:730px){.wrap{padding:0 18px}.hero{padding:45px 0 56px}.hero h1{font-size:52px}.hero p{font-size:15px}.portals{grid-template-columns:1fr;gap:13px}.portal{min-height:0;padding:25px}.portal p{margin-bottom:19px}.tools{grid-template-columns:1fr 1fr}.section{margin-top:38px}h2{font-size:29px}}
-@media(max-width:420px){.hero h1{font-size:44px}.tools{grid-template-columns:1fr}.tool{min-height:0}.toplink{font-size:11px}.identity strong{font-size:10px}}
-
-/* Source-linked regional doors: visually browsable six-region taxonomy */
-.region-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}
-.region-card{position:relative;min-height:168px;display:flex;flex-direction:column;gap:8px;background:linear-gradient(142deg,#fffefb,#f0f5ed);border:1px solid #d9e3dc;padding:19px 21px;border-radius:14px;color:#24505a;text-decoration:none;overflow:hidden;transition:transform .14s,border-color .14s}
-.region-card:nth-child(2),.region-card:nth-child(5){background:linear-gradient(142deg,#fffefa,#f4f2e8)}
-.region-card:nth-child(4),.region-card:nth-child(6){background:linear-gradient(142deg,#fffefa,#eaf0ef)}
-.region-card:hover,.region-card:focus-visible{border-color:#78aa9b;transform:translateY(-2px)}
-.region-num{font-size:10px;color:#58837a;font-weight:800;text-transform:uppercase;letter-spacing:.16em}
-.region-symbol{position:absolute;right:15px;top:11px;font:normal 45px Georgia,serif;color:#76a99a;opacity:.27;pointer-events:none}
-.region-card strong{font:normal 23px/1.19 Georgia,serif;max-width:220px;position:relative;z-index:1}
-.region-card small{font-size:12px;color:#647d79;max-width:260px;position:relative;z-index:1}
-.region-go{font-size:11px;color:#326d65;font-weight:780;margin-top:auto;padding-top:6px}
-@media(max-width:730px){.region-grid{grid-template-columns:1fr 1fr}.region-card{min-height:158px;padding:16px}.region-card strong{font-size:20px}}
-@media(max-width:375px){.region-grid{gap:8px}.region-card{padding:12px;min-height:166px}.region-card strong{font-size:18px}.region-card small{font-size:11px}.region-symbol{font-size:33px}}
-
-/* Six direct illustrated study doors; cards link into the same evidence-backed layers. */
-.guided-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}
-.guided-grid a{min-height:166px;padding:18px 20px;background:linear-gradient(145deg,#fffefb,#f0f5ec);border:1px solid #d9e5db;border-radius:14px;display:flex;flex-direction:column;color:#23515a;text-decoration:none}
-.guided-grid a:nth-child(2),.guided-grid a:nth-child(5){background:linear-gradient(145deg,#fffefa,#f5f1e8)}
-.guided-grid a:hover,.guided-grid a:focus-visible{border-color:#78aa9b;box-shadow:0 8px 18px #1f4f3c0d}
-.guided-icon{font:normal 27px/1.1 Georgia,serif;color:#649989;margin-bottom:12px}
-.guided-grid strong{font:normal 24px/1.15 Georgia,serif;margin-bottom:5px}
-.guided-grid small{font-size:12px;color:#627976}
-.guided-arrow{font-size:11px;font-weight:780;color:#3c796b;margin-top:auto;padding-top:9px}
-@media(max-width:730px){.guided-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.guided-grid a{min-height:145px;padding:15px}.guided-grid strong{font-size:22px}}
-@media(max-width:385px){.guided-grid{gap:8px}.guided-grid a{min-height:133px;padding:12px}.guided-grid strong{font-size:20px}.guided-icon{margin-bottom:8px}}
-</style>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#f5f3ec">
+<meta name="description" content="A visual, source-linked guide to Rudolf Steiner: discover six interconnected worlds of thought, interactive body maps and animated cosmic journeys.">
+<title>Rudolf Steiner Atlas — A world of connections</title>
+<link rel="stylesheet" href="atlas/explore.css">
+<script defer src="atlas/explore.js">
+</script>
 </head>
-<body>
-<header>
-<div class="wrap top"><a class="identity" href="./"><span class="star" aria-hidden="true">✳</span><span><strong>Rudolf Steiner Atlas</strong><small>A guide to the original sources</small></span></a><a class="toplink" href="https://rsarchive.org/" target="_blank" rel="noopener noreferrer">Original source archive ↗</a></div>
-<div class="wrap hero"><div class="eyebrow">A source-linked map of spiritual science</div><h1>Explore the ideas.<br>Discover the connections.</h1><p>A structured, accessible companion to Rudolf Steiner's books and lectures. Begin with a broad concept—or follow a focused account of human organ evolution. Every substantial teaching should lead you toward its original source.</p><div class="micro"><span>26 thematic domains</span><span>Organ evolution research</span><span>Human evolution timeline</span><span>Source-first explanations</span></div></div>
+<body data-view="home">
+<a class="skip" href="#content">Skip to content</a>
+<header class="mast">
+<div class="shell mast-inner">
+<a class="brand" href="./">
+<span class="seal" aria-hidden="true">✳︎</span>
+<span>
+<strong>Rudolf Steiner Atlas</strong>
+<small>An interconnected world of ideas</small>
+</span>
+</a>
+<nav class="nav" aria-label="Main navigation">
+<a href="./#worlds">Explore themes</a>
+<a href="./#journeys">Visual journeys</a>
+<details>
+<summary>Research tools</summary>
+<div class="menu">
+<a href="atlas/index.html">Full thematic index</a>
+<a href="atlas/sources.html">Original sources</a>
+<a href="atlas/graph.html">Knowledge graph</a>
+<a href="atlas/organs.html">Organ concordance</a>
+<a href="atlas/compare-organs.html">Compare heart &amp; liver</a>
+<a href="atlas/agency.html">Spiritual hierarchies</a>
+<a href="atlas/timeline.html">Lecture chronology</a>
+<a href="atlas/dossiers.html">Study dossiers</a>
+<a href="atlas/coverage.html">Research coverage</a>
+</div>
+</details>
+</nav>
+</div>
 </header>
-<main class="wrap">
-<section aria-labelledby="start"><h2 id="start">Where would you like to begin?</h2><p class="intro">Three interconnected paths through the same growing Atlas: thematic exploration across Steiner's teachings, and a guided exploration of the human organism.</p>
-<div class="portals">
-<article class="portal"><div class="symbol" aria-hidden="true">✳</div><div class="kicker">Thematic atlas</div><h3>Explore Steiner's teachings</h3><p>Browse the organized taxonomy of spiritual development, cosmos, the human being, Christ, science, education, and art. Follow source-linked concepts and relationships across domains.</p><a class="cta" href="atlas/index.html">Open thematic Atlas →</a></article>
-<article class="portal"><div class="symbol" aria-hidden="true">♡</div><div class="kicker">Guided organ encyclopedia</div><h3>Human organs and evolution</h3><p>Select organs on the anatomical body map, then enter six eight-layer, source-linked visual guides or the wider 40-dossier research archive. Explore origins, present organization and spiritual correspondences without conflating them.</p><a class="cta" href="atlas/body.html">Explore the Human Being →</a></article>
-<article class="portal"><div class="symbol" aria-hidden="true">◉</div><div class="kicker">Evolutionary history explorer</div><h3>Lemuria to the present</h3><p>Move through 21 comparative stages; compare inherited and emerging forces, capacities, spiritual agencies, historic transitions and seven Atlantean Oracles. Each stage links back to Steiner’s original texts.</p><a class="cta" href="atlas/evolution-story.html">Enter Animated Journey →</a></article></div></section>
-<section class="section" aria-labelledby="guided-organ-heading">
-<h2 id="guided-organ-heading">Explore an organ</h2>
-<p class="intro">Six concise guided pathways, all leading to original lectures. Each goes from a two-minute overview to research evidence and open questions.</p>
-<div class="guided-grid">
-<a href="atlas/organ-detail.html?organ=organ-heart&amp;layer=overview"><span class="guided-icon" aria-hidden="true">♡</span><strong>Heart</strong><small>Warmth and rhythm</small><span class="guided-arrow">Explore ↗</span></a>
-<a href="atlas/organ-detail.html?organ=organ-liver&amp;layer=overview"><span class="guided-icon" aria-hidden="true">◈</span><strong>Liver</strong><small>Nourishment and will</small><span class="guided-arrow">Explore ↗</span></a>
-<a href="atlas/organ-detail.html?organ=organ-lungs&amp;layer=overview"><span class="guided-icon" aria-hidden="true">≋</span><strong>Lungs</strong><small>Breath and rhythm</small><span class="guided-arrow">Explore ↗</span></a>
-<a href="atlas/organ-detail.html?organ=organ-brain&amp;layer=overview"><span class="guided-icon" aria-hidden="true">✳</span><strong>Brain</strong><small>Head and thought</small><span class="guided-arrow">Explore ↗</span></a>
-<a href="atlas/organ-detail.html?organ=organ-kidneys&amp;layer=overview"><span class="guided-icon" aria-hidden="true">◇</span><strong>Kidneys</strong><small>Astral and balance</small><span class="guided-arrow">Explore ↗</span></a>
-<a href="atlas/organ-detail.html?organ=organ-spleen&amp;layer=overview"><span class="guided-icon" aria-hidden="true">◎</span><strong>Spleen</strong><small>Rhythm and meals</small><span class="guided-arrow">Explore ↗</span></a>
+<main id="content" class="shell">
+<section class="hero">
+<div>
+<p class="eyebrow">An invitation to explore · Rudolf Steiner</p>
+<h1>A world of ideas.<br>
+<em>Connected.</em>
+</h1>
+<p class="lede">From the life of the cosmos to the life within us. Find your own path through Steiner’s thought, one connection at a time.</p>
+<div class="actions">
+<a class="primary" href="#worlds">Find your starting point <span aria-hidden="true">↓</span>
+</a>
+<a class="text-link" href="#journeys">Take a visual journey →</a>
+</div>
+</div>
+<div class="universe">
+<svg aria-hidden="true" viewBox="0 0 480 480" fill="none">
+<circle cx="240" cy="240" r="202" stroke="#aab8a0" stroke-width=".7" stroke-dasharray="2 8"/>
+<circle cx="240" cy="240" r="157" stroke="#93a48e" stroke-width=".7"/>
+<circle cx="240" cy="240" r="105" stroke="#93a48e" stroke-width=".7"/>
+<g class="orbit">
+<ellipse cx="240" cy="240" rx="202" ry="72" transform="rotate(-35 240 240)" stroke="#839b85" stroke-width=".8"/>
+<circle cx="75" cy="355" r="7" fill="#647f68"/>
+<circle cx="385" cy="99" r="5" fill="#bb966b"/>
+</g>
+<g class="orbit reverse">
+<ellipse cx="240" cy="240" rx="202" ry="107" transform="rotate(48 240 240)" stroke="#b49d76" stroke-width=".8"/>
+<circle cx="369" cy="394" r="7" fill="#b49d76"/>
+<circle cx="100" cy="97" r="4" fill="#8b9d80"/>
+</g>
+<circle cx="240" cy="240" r="75" fill="#f5f3ec" stroke="#b4bfa8" stroke-width=".7"/>
+</svg>
+<div class="universe-label">Everything<br>connects.<small>Explore the atlas</small>
+</div>
+<button class="motion-toggle" type="button" aria-pressed="false">Pause motion</button>
 </div>
 </section>
-<section class="section" aria-labelledby="regions-heading">
-  <h2 id="regions-heading">The six regions of knowledge</h2>
-  <p class="intro">A visual starting map for the full taxonomy. Select a region to explore its original source-linked concepts and related research.</p>
-  <div class="region-grid">
-    <a class="region-card" href="atlas/index.html#node=I"><span class="region-num">Region I</span><span class="region-symbol" aria-hidden="true">✧</span><strong>Knowledge &amp; Inner Development</strong><small>Thinking, freedom, Goethean science and spiritual practice</small><span class="region-go">Explore this region ↗</span></a>
-    <a class="region-card" href="atlas/index.html#node=II"><span class="region-num">Region II</span><span class="region-symbol" aria-hidden="true">◎</span><strong>Cosmos &amp; Destiny</strong><small>Spiritual hierarchies, cosmic evolution and karma</small><span class="region-go">Explore this region ↗</span></a>
-    <a class="region-card" href="atlas/index.html#node=III"><span class="region-num">Region III</span><span class="region-symbol" aria-hidden="true">◇</span><strong>The Human Being</strong><small>Body, soul, spirit, consciousness and biography</small><span class="region-go">Explore this region ↗</span></a>
-    <a class="region-card" href="atlas/index.html#node=IV"><span class="region-num">Region IV</span><span class="region-symbol" aria-hidden="true">✦</span><strong>Christ &amp; Civilizations</strong><small>Mystery of Golgotha, spiritual opposition and history</small><span class="region-go">Explore this region ↗</span></a>
-    <a class="region-card" href="atlas/index.html#node=V"><span class="region-num">Region V</span><span class="region-symbol" aria-hidden="true">❋</span><strong>Science &amp; Practical Life</strong><small>Medicine, education, agriculture and society</small><span class="region-go">Explore this region ↗</span></a>
-    <a class="region-card" href="atlas/index.html#node=VI"><span class="region-num">Region VI</span><span class="region-symbol" aria-hidden="true">✳</span><strong>Art &amp; Anthroposophical Life</strong><small>Art, architecture, eurythmy, festivals and ritual</small><span class="region-go">Explore this region ↗</span></a>
-  </div>
-</section>
-<section class="section" aria-labelledby="research"><h2 id="research">Go deeper into the research</h2><p class="intro">The original Atlas's research tools remain available alongside the new reader-friendly presentation.</p>
-<div class="tools">
-<a class="tool" href="atlas/cosmic-evolution.html"><strong>Cosmic Evolution</strong><span>Explore Old Saturn, Old Sun, Old Moon, Earth and the projected future planetary conditions.</span></a>
-<a class="tool" href="atlas/human-evolution.html"><strong>Human Evolution Research Matrix</strong><span>21 stages, layered forces, changing capacities and the seven Atlantean Oracles.</span></a>
-<a class="tool" href="atlas/body.html"><strong>Six Guided Organs</strong><span>Explore Heart, Liver, Lungs, Brain, Kidneys and Spleen through eight focused explanation layers.</span></a>
-<a class="tool" href="atlas/compare-organs.html"><strong>Compare Heart &amp; Liver</strong><span>Five visual comparisons: cosmic stages, bodily organization, inward life, agency and open questions.</span></a>
-<a class="tool" href="atlas/organs.html"><strong>Organ Concordance</strong><span>Browse 40 source-linked organ and organization dossiers.</span></a>
-<a class="tool" href="atlas/agency.html"><strong>Spiritual Hierarchies</strong><span>Compare beings, cosmic stages, activities and targets.</span></a>
-<a class="tool" href="atlas/graph.html"><strong>Knowledge Graph</strong><span>Follow typed, passage-linked conceptual relationships.</span></a>
-<a class="tool" href="atlas/sources.html"><strong>Source Library</strong><span>Locate original books and lectures by GA, date or topic.</span></a>
-<a class="tool" href="atlas/timeline.html"><strong>Lecture Chronology</strong><span>Explore dated source material and connections.</span></a>
-<a class="tool" href="atlas/dossiers.html"><strong>Study Dossiers</strong><span>Follow carefully curated thematic inquiries.</span></a>
-<a class="tool" href="atlas/coverage.html"><strong>Research Coverage</strong><span>See where direct evidence exists and gaps remain.</span></a>
-<a class="tool" href="atlas/trajectories.html"><strong>Compare Contexts</strong><span>Distinguish corresponding teachings and different settings.</span></a>
+<section class="section" id="worlds" aria-labelledby="worlds-title">
+<div class="section-top">
+<div>
+<p class="eyebrow">Six worlds · Many ways in</p>
+<h2 id="worlds-title">What draws your curiosity?</h2>
+</div>
+<p>Choose a theme. Explore its branches.<br>Let the connections guide you deeper.</p>
+</div>
+<div class="worlds" id="world-cards">
+</div>
+<noscript>
+<p>
+<a href="atlas/index.html">Open the full thematic atlas</a> or explore the <a href="atlas/body.html">human body map</a>.</p>
+</noscript>
+<div class="find">
+<label for="concept-search">Or follow a question of your own.</label>
+<div class="search-row">
+<span aria-hidden="true">⌕</span>
+<input type="search" id="concept-search" placeholder="Try karma, colour, freedom, etheric body…" autocomplete="off" aria-controls="concept-results" aria-describedby="search-hint">
+</div>
+<p id="search-hint" class="search-hint">Search the Atlas’s concepts and classifications.</p>
+<p id="result-count" class="result-count" role="status">
+</p>
+<div id="concept-results" class="results">
+</div>
 </div>
 </section>
-<div class="notice"><strong>Historical teaching and evidence boundaries</strong>Descriptions of spiritual beings, organ evolution and physiology are attributed to Steiner, not established scientific or medical findings. First-pass reading is not exhaustive verification. Source links take you to the original archives; this Atlas does not reproduce lecture bodies.</div>
+<section class="section" id="journeys" aria-labelledby="journeys-title">
+<div class="section-top">
+<div>
+<p class="eyebrow">See the ideas unfold</p>
+<h2 id="journeys-title">Explore through movement.</h2>
+</div>
+<p>Visual pathways into the human being, the Earth’s history and the evolving cosmos.</p>
+</div>
+<div class="journeys">
+<a class="journey" href="atlas/body.html">
+<span class="eyebrow">01 / The human being</span>
+<h3>A living constellation.</h3>
+<p>Select an organ on the body map. Discover its place in Steiner’s picture of body, soul and spirit.</p>
+<span class="enter">Explore the body map &nbsp; →</span>
+</a>
+<a class="journey" href="atlas/evolution-story.html">
+<span class="eyebrow">02 / Human evolution</span>
+<h3>Through the ages.</h3>
+<p>Move through 21 stages and explore the changing human capacities described by Steiner.</p>
+<span class="enter">Enter the animated journey &nbsp; →</span>
+</a>
+<a class="journey" href="atlas/cosmic-evolution.html">
+<span class="eyebrow">03 / Cosmic evolution</span>
+<h3>Worlds in becoming.</h3>
+<p>Old Saturn, Old Sun, Old Moon and beyond. Explore Steiner’s seven planetary conditions.</p>
+<span class="enter">Explore cosmic stages &nbsp; →</span>
+</a>
+</div>
+</section>
+<section class="section method">
+<h2>A map to the sources.</h2>
+<div>
+<p>This Atlas connects and organises Steiner’s teachings. Our themes and pathways are editorial guides; follow each concept into the research to find original texts, evidence and open questions.</p>
+<p>Spiritual and physiological accounts describe Steiner’s teachings. They are not established scientific or medical findings.</p>
+<a class="text-link" href="atlas/sources.html">Find an original work →</a>
+</div>
+</section>
 </main>
-<footer><div class="wrap"><p>Independent editorial Atlas; not affiliated with or endorsed by the Rudolf Steiner Archive. Original texts remain at their source websites.</p><p><a href="https://github.com/infinix8/rudolf-steiner-atlas">GitHub repository</a> · <a href="docs/SOURCE_METHOD.md">Research method</a> · Organ research checkpoint: version 29 (5 November 2026)</p></div></footer>
+<footer>
+<div class="shell">
+<span>Independent editorial guide · Original texts remain with their archives.</span>
+<span>
+<a href="https://rsarchive.org/" target="_blank" rel="noopener noreferrer">RS Archive →</a> &nbsp; <a href="https://github.com/infinix8/rudolf-steiner-atlas">Project &amp; research</a>
+</span>
+</div>
+</footer>
 </body>
 </html>

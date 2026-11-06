@@ -11,6 +11,25 @@ async function ready(page){
 try {
   const page=await browser.newPage({viewport:{width:1366,height:900}});
   await ready(page);
+  await page.goto(root+'/',{waitUntil:'networkidle'});
+  assert(await page.locator('.world').count()===6,'visual homepage must expose six themes');
+  await page.getByRole('button',{name:'Pause motion',exact:true}).click();
+  assert(await page.locator('.universe.paused').count()===1,'decorative motion cannot be paused');
+  await page.locator('#concept-search').fill('Manas');
+  await page.locator('#concept-results a[href$="RS-09.05.01"]').waitFor();
+  await page.locator('#concept-search').fill('zzzznomatchingconcept');
+  assert(await page.locator('#concept-results a').count()===0,'empty search retains stale results');
+  for(const region of ['I','II','III','IV','V','VI']){
+    await page.goto(root+'/atlas/explore.html?region='+region,{waitUntil:'networkidle'});
+    await page.locator('.domain-button').first().waitFor();
+    const branches=await page.locator('.domain-button').count();
+    for(let i=0;i<branches;i++){
+      await page.locator('.domain-button').nth(i).click();
+      assert(await page.locator('.domain-button[aria-pressed="true"]').count()===1,'theme needs one selected branch');
+      assert(await page.locator('.topic').count()>0,'branch must provide concept routes');
+      assert(await page.locator('#topic-panel .topics a[href*="#node="]').count()>0,'branch lacks taxonomy deep links');
+    }
+  }
   await page.goto(root+'/atlas/',{waitUntil:'networkidle'});
   await page.getByRole('heading',{name:'Find the teaching, then read the original.'}).waitFor();
   assert(await page.getByRole('button',{name:/knowledge, method, and spiritual development/i}).count()>0,'six-region navigation missing');
@@ -144,6 +163,13 @@ try {
   await page.close();
   const mobile=await browser.newPage({viewport:{width:390,height:844},isMobile:true,deviceScaleFactor:2});
   await ready(mobile);
+  await mobile.goto(root+'/',{waitUntil:'networkidle'});
+  assert(await mobile.locator('.world').count()===6,'mobile visual themes missing');
+  assert(await mobile.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),'mobile home overflows horizontally');
+  await mobile.goto(root+'/atlas/explore.html?region=V',{waitUntil:'networkidle'});
+  await mobile.locator('.domain-button').last().click();
+  assert(await mobile.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),'mobile theme overflows horizontally');
+  assert(await mobile.locator('#topic-panel .topic').count()>0,'mobile branch selector failed');
   await mobile.goto(root+'/atlas/',{waitUntil:'networkidle'});
   await mobile.getByRole('heading',{name:'Find the teaching, then read the original.'}).waitFor();
   await mobile.goto(root+'/atlas/graph.html',{waitUntil:'networkidle'});

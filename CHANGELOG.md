@@ -1,3 +1,11 @@
+## 2026-11-06 — Visual theme gateways
+
+- Replaced the crowded public entry page with six illustrated, colour-coded worlds and three visual journeys.
+- Added focused theme pages for all six taxonomy regions and 26 branches, with shareable selection URLs and direct concept/source routes.
+- Added concept search with existing vocabulary, a motion pause control and responsive layouts.
+- Simplified thematic research navigation and added contextual return links to the visual themes.
+- Validated all branch selectors interactively, checked narrow layouts and retained selective publishing in a single website release.
+
 ## 5 November 2026 · Organ concordance v29
 
 Completed the GA102 English first pass, adding III–XIII, 278 numbered positions, two quotations, 87 selected records and 18 German comparisons. Preserved v28 in the cumulative manuscript. Open agency conflicts and source-order problems remain indexed. [Findings](docs/ORGAN_CONCORDANCE_SESSION_V29.md).
