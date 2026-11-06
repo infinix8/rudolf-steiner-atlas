@@ -16,6 +16,20 @@ main{padding-top:49px;padding-bottom:60px}h2{font:normal 33px/1.2 Georgia,serif;
 .section{margin-top:49px}.tools{display:grid;grid-template-columns:repeat(3,1fr);gap:13px}.tool{background:#fff;border:1px solid var(--line);border-radius:13px;padding:18px 20px;text-decoration:none;color:var(--ink);min-height:119px}.tool strong{font-size:15px;display:block;margin-bottom:7px}.tool span{display:block;color:var(--sub);font-size:12px}.tool:hover{border-color:#81b2a6;background:#f5f9f5}.notice{background:#edf3ef;border-left:3px solid #789c8e;padding:17px 21px;border-radius:0 11px 11px 0;margin-top:32px;color:#3c5c62;font-size:13px}.notice strong{display:block;margin-bottom:5px}footer{border-top:1px solid var(--line);font-size:12px;color:#6a7b7c;padding:29px 0 47px}footer p{max-width:800px;margin:0 0 9px}
 @media(max-width:730px){.wrap{padding:0 18px}.hero{padding:45px 0 56px}.hero h1{font-size:52px}.hero p{font-size:15px}.portals{grid-template-columns:1fr;gap:13px}.portal{min-height:0;padding:25px}.portal p{margin-bottom:19px}.tools{grid-template-columns:1fr 1fr}.section{margin-top:38px}h2{font-size:29px}}
 @media(max-width:420px){.hero h1{font-size:44px}.tools{grid-template-columns:1fr}.tool{min-height:0}.toplink{font-size:11px}.identity strong{font-size:10px}}
+
+/* Source-linked regional doors: visually browsable six-region taxonomy */
+.region-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}
+.region-card{position:relative;min-height:168px;display:flex;flex-direction:column;gap:8px;background:linear-gradient(142deg,#fffefb,#f0f5ed);border:1px solid #d9e3dc;padding:19px 21px;border-radius:14px;color:#24505a;text-decoration:none;overflow:hidden;transition:transform .14s,border-color .14s}
+.region-card:nth-child(2),.region-card:nth-child(5){background:linear-gradient(142deg,#fffefa,#f4f2e8)}
+.region-card:nth-child(4),.region-card:nth-child(6){background:linear-gradient(142deg,#fffefa,#eaf0ef)}
+.region-card:hover,.region-card:focus-visible{border-color:#78aa9b;transform:translateY(-2px)}
+.region-num{font-size:10px;color:#58837a;font-weight:800;text-transform:uppercase;letter-spacing:.16em}
+.region-symbol{position:absolute;right:15px;top:11px;font:normal 45px Georgia,serif;color:#76a99a;opacity:.27;pointer-events:none}
+.region-card strong{font:normal 23px/1.19 Georgia,serif;max-width:220px;position:relative;z-index:1}
+.region-card small{font-size:12px;color:#647d79;max-width:260px;position:relative;z-index:1}
+.region-go{font-size:11px;color:#326d65;font-weight:780;margin-top:auto;padding-top:6px}
+@media(max-width:730px){.region-grid{grid-template-columns:1fr 1fr}.region-card{min-height:158px;padding:16px}.region-card strong{font-size:20px}}
+@media(max-width:375px){.region-grid{gap:8px}.region-card{padding:12px;min-height:166px}.region-card strong{font-size:18px}.region-card small{font-size:11px}.region-symbol{font-size:33px}}
 </style>
 </head>
 <body>
@@ -29,6 +43,18 @@ main{padding-top:49px;padding-bottom:60px}h2{font:normal 33px/1.2 Georgia,serif;
 <article class="portal"><div class="symbol" aria-hidden="true">✳</div><div class="kicker">Thematic atlas</div><h3>Explore Steiner's teachings</h3><p>Browse the organized taxonomy of spiritual development, cosmos, the human being, Christ, science, education, and art. Follow source-linked concepts and relationships across domains.</p><a class="cta" href="atlas/index.html">Open thematic Atlas →</a></article>
 <article class="portal"><div class="symbol" aria-hidden="true">♡</div><div class="kicker">Guided organ encyclopedia</div><h3>Human organs and evolution</h3><p>Select organs on a clickable human figure, then explore the new eight-layer Heart/Liver guides or the wider source-linked research dossiers. Explore origins, present organization and spiritual correspondences without conflating them.</p><a class="cta" href="atlas/body.html">Explore the Human Being →</a></article>
 </div></section>
+<section class="section" aria-labelledby="regions-heading">
+  <h2 id="regions-heading">The six regions of knowledge</h2>
+  <p class="intro">A visual starting map for the full taxonomy. Select a region to explore its original source-linked concepts and related research.</p>
+  <div class="region-grid">
+    <a class="region-card" href="atlas/index.html#node=I"><span class="region-num">Region I</span><span class="region-symbol" aria-hidden="true">✧</span><strong>Knowledge &amp; Inner Development</strong><small>Thinking, freedom, Goethean science and spiritual practice</small><span class="region-go">Explore this region ↗</span></a>
+    <a class="region-card" href="atlas/index.html#node=II"><span class="region-num">Region II</span><span class="region-symbol" aria-hidden="true">◎</span><strong>Cosmos &amp; Destiny</strong><small>Spiritual hierarchies, cosmic evolution and karma</small><span class="region-go">Explore this region ↗</span></a>
+    <a class="region-card" href="atlas/index.html#node=III"><span class="region-num">Region III</span><span class="region-symbol" aria-hidden="true">◇</span><strong>The Human Being</strong><small>Body, soul, spirit, consciousness and biography</small><span class="region-go">Explore this region ↗</span></a>
+    <a class="region-card" href="atlas/index.html#node=IV"><span class="region-num">Region IV</span><span class="region-symbol" aria-hidden="true">✦</span><strong>Christ &amp; Civilizations</strong><small>Mystery of Golgotha, spiritual opposition and history</small><span class="region-go">Explore this region ↗</span></a>
+    <a class="region-card" href="atlas/index.html#node=V"><span class="region-num">Region V</span><span class="region-symbol" aria-hidden="true">❋</span><strong>Science &amp; Practical Life</strong><small>Medicine, education, agriculture and society</small><span class="region-go">Explore this region ↗</span></a>
+    <a class="region-card" href="atlas/index.html#node=VI"><span class="region-num">Region VI</span><span class="region-symbol" aria-hidden="true">✳</span><strong>Art &amp; Anthroposophical Life</strong><small>Art, architecture, eurythmy, festivals and ritual</small><span class="region-go">Explore this region ↗</span></a>
+  </div>
+</section>
 <section class="section" aria-labelledby="research"><h2 id="research">Go deeper into the research</h2><p class="intro">The original Atlas's research tools remain available alongside the new reader-friendly presentation.</p>
 <div class="tools">
 <a class="tool" href="atlas/organ-detail.html?organ=organ-heart&amp;layer=overview"><strong>Heart &amp; Liver Guides</strong><span>Eight-layer visual explanations spanning the organism, spiritual interpretations, evolution, agencies, connections and sources.</span></a>
