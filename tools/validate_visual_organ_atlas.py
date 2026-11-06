@@ -48,10 +48,24 @@ for item in body["organs"]:
     check(item["status"] in {"guided", "research_dossier", "index_only"},
           f"{item['id']}: invalid status")
     marker = item.get("marker", {})
-    check(isinstance(marker.get("cx"), (int, float)) and
-          isinstance(marker.get("cy"), (int, float)) and
-          0 <= marker.get("cx", -1) <= 600 and 0 <= marker.get("cy", -1) <= 1000,
-          f"{item['id']}: missing or out-of-bounds anatomy marker")
+    check(isinstance(marker.get("visible"), bool),
+          f"{item['id']}: missing artwork visibility classification")
+    if marker.get("visible"):
+        anchor = marker.get("anchor", {})
+        callout = marker.get("callout", {})
+        check(all(isinstance(anchor.get(k), (int, float)) for k in ("x", "y")) and
+              0 <= anchor.get("x", -1) <= 600 and 0 <= anchor.get("y", -1) <= 1000,
+              f"{item['id']}: invalid visible-organ anchor coordinates")
+        check(all(isinstance(callout.get(k), (int, float)) for k in ("x", "y")) and
+              0 <= callout.get("x", -1) <= 600 and
+              0 <= callout.get("y", -1) <= 1000 and
+              callout.get("side") in {"left", "right"},
+              f"{item['id']}: invalid organ callout geometry")
+    else:
+        check(marker.get("confidence") == "not_depicted" and
+              not marker.get("anchor") and
+              marker.get("visibility_note"),
+              f"{item['id']}: unpictured organs must not be assigned invented physical positions")
     route = item["route"]
     target = route.split("?", 1)[0].split("#", 1)[0]
     check("/" not in target and not target.startswith(".") and
@@ -122,6 +136,17 @@ check('href="atlas/body.html"' in landing,
       "Homepage must include visual human body map")
 check("organ-detail.html" in visual_map,
       "Body map must lead to new guided pages")
+check(sum(1 for item in body["organs"] if item["marker"].get("visible")) == 6,
+      "The licensed frontal artwork depicts only six of the current eight linked organ targets.")
+check(set(item["id"] for item in body["organs"] if not item["marker"].get("visible"))
+      == {"organ-kidneys", "organ-spleen"},
+      "Kidneys and spleen must remain distinctly labeled as not depicted.")
+check(visual_map.count('class="organ hotspot callout-link"') == 6 and
+      visual_map.count('class="unpictured-chip organ"') == 2,
+      "Six labelled illustration callouts and two non-depicted organ links are expected.")
+for item in body["organs"]:
+    check('data-organ-id="' + item["id"] + '"' in visual_map,
+          f"Missing interactive organ control for {item['id']}")
 check("dbcls-human-anatomy-organs.svg" in visual_map and
       "dbcls-human-anatomy-organs.svg" in html and
       "medical-locator" in html and
@@ -135,11 +160,40 @@ check("@media(max-width:680px)" in css,
 check("historical" in html.lower() and "medical" in html.lower(),
       "Historical and medical-claims scope must remain visible")
 
+comparison = load("research/organ-visual-comparisons-v1.json")
+compare_page = (ROOT / "atlas/compare-organs.html").read_text(encoding="utf-8")
+check(len(comparison.get("lenses", [])) == 5 and
+      len({lens["id"] for lens in comparison["lenses"]}) == 5,
+      "Five distinct visual comparison lenses required.")
+guide_sources = {
+    "heart": {s["id"] for g in guides["guides"] if g["id"] == "organ-heart" for s in g["sources"]},
+    "liver": {s["id"] for g in guides["guides"] if g["id"] == "organ-liver" for s in g["sources"]},
+}
+for lens in comparison["lenses"]:
+    check(bool(lens.get("title") and lens.get("distinction")),
+          f"{lens['id']}: missing comparison explanation")
+    for organ in ("heart", "liver"):
+        cards = lens[organ]["cards"]
+        check(len(cards) == 2, f"{lens['id']}/{organ}: exactly two concise comparison cards required")
+        for card in cards:
+            check(bool(card.get("label") and card.get("description") and card.get("kind")),
+                  f"{lens['id']}/{organ}: incomplete comparison card")
+            check(bool(card.get("sources")) and all(x in guide_sources[organ]
+                  for x in card.get("sources", [])),
+                  f"{lens['id']}/{organ}: source is missing from curated organ guide")
+check("organ-visual-comparisons-v1.json" in compare_page and
+      "organ-atlas-guides-v1.json" in compare_page,
+      "Visual comparison must load both canonical source-linked datasets.")
+check("compare-organs.html" in visual_map and
+      "compare-organs.html" in html and
+      "atlas/compare-organs.html" in landing,
+      "Comparison must be reachable from body, guided page and unified homepage.")
+
 if errors:
     print("Visual Organ Atlas validation FAILED:")
     for error in errors:
         print(" - " + error)
     raise SystemExit(1)
-print(f"Visual Organ Atlas validated: {len(map_ids)} hotspots, {len(guide_ids)} curated guides, "
+print(f"Visual Organ Atlas validated: {len(map_ids)} organ access points, {len(guide_ids)} curated guides, "
       f"{len(layer_ids)} layers, {sum(len(x['sources']) for x in guides['guides'])} "
       "attributed source anchors. Source review remains editorial, not scientific validation.")
