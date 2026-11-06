@@ -1,3 +1,5 @@
+> **Current anatomy release (6 November 2026):** The body map has 10 navigation targets: 8 anatomical callouts (including thyroid and urinary bladder) plus kidney/spleen links explicitly identified as not depicted. The default view focuses on the torso; visitors may switch to the full-body view. `tools/validate_visual_organ_atlas.py` checks all targets and comparison sources without adding another Actions workflow.
+
 > **Open medical SVG (6 November 2026):** The manual Pages workflow now retrieves and parses [DBCLS's CC BY 4.0 adult anatomy illustration](ANATOMY_ARTWORK_ATTRIBUTION.md) as a local page asset shared by the eight-organ body map and both detailed guided pages. It falls back to the Wikimedia Commons mirror if necessary. This occurs within the **same single manual publish job**, not an additional Actions run. No workflow is triggered by a research/design commit.
 
 # Combined Rudolf Steiner Atlas — public publishing guide
