@@ -93,6 +93,9 @@
     return '<p class="section-kicker">' + escapeHtml(x.relation.replaceAll("_"," ")) + '</p>' +
       '<h3>' + escapeHtml(x.label) + '</h3><p>' + escapeHtml(x.detail) + '</p>' +
       sourceLinks(x.sources) +
+      (x.related_guide_id && state.data.guides.some(g=>g.id===x.related_guide_id)
+       ? '<p class="related-organ-link"><a class="button secondary" href="organ-detail.html?organ='+encodeURIComponent(x.related_guide_id)+'&layer=overview">Explore the related organ guide →</a></p>'
+       : '') +
       '<p class="small-aside">Explore the original passage to distinguish this relationship from other sorts of association.</p>';
   }
   function connections() {
