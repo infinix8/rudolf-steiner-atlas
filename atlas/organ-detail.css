@@ -63,3 +63,15 @@
 .organ-switcher .organ-compare-link{border-color:#b9a674;background:#f4efdf;color:#695f41;margin-left:auto}
 .reader-actions{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
 @media(max-width:680px){.organ-switcher{margin:0 0 14px}.organ-switcher .organ-compare-link{margin-left:0}.reader-actions{align-items:stretch;flex-direction:column}.reader-actions .button{white-space:normal;text-align:center}}
+
+/* Focus on the organs rather than empty leg space in the shared licensed image. */
+.medical-locator{aspect-ratio:600/590;overflow:hidden}
+.medical-locator img{position:absolute;top:0;left:0;width:100%;height:auto;object-fit:unset}
+.organ-heart .locator-focus{left:51%;top:48%}
+.organ-liver .locator-focus{left:44.5%;top:54.1%}
+.organ-heart .locator-leader{left:67%;top:43%}
+.organ-liver .locator-leader{left:56%;top:62%}
+@media(max-width:680px){
+ .organ-heart .locator-leader{left:66%;top:41%}
+ .organ-liver .locator-leader{left:55%;top:62%}
+}
