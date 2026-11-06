@@ -84,7 +84,7 @@ Primary links are to [RS Archive](https://rsarchive.org/) with GA and cue. No bu
 - `research/organ-atlas-guides-v2-expansion.json` — four versioned new curated guides.
 - `atlas/organ-detail.js` — joins v1+v2 without replacing v1, dynamic 6-organ switcher, exact link resolution and sourced related-organ navigation.
 - `atlas/organ-detail.html`, `atlas/organ-detail.css` — six-organ UI, ethical anatomical locator states.
-- `research/organ-body-map-v1.json`, `atlas/body.html` — six guided routes, four index-only routes and eleven functional entry paths including comparison.
+- `research/organ-body-map-v1.json`, `atlas/body.html` — six guided routes, one existing dossier-only Intestines route, and three index-only routes (thyroid, stomach, bladder), plus the separate Heart/Liver comparison.
 - `site/index.html` — six mobile-friendly study cards.
 - `tools/validate_visual_organ_atlas.py` — six unique IDs, source existence, claim gaps, visual hotspots and comparison-source validation.
 - `.github/workflows/publish-organ-atlas.yml` — single **manual-only** release checks for the new JSON; no auto-commit Action.
@@ -104,7 +104,7 @@ The expected URLs are not proof that this unreleased code is already live.
 
 1. Visually test six guides and ten anatomical navigation links at Android widths; tune labels, contrast and keyboard behavior based on actual screenshots.
 2. Audit GA128/GA313–317 claims organ-by-organ in the original German, preserving speaker, source cue, epoch and context.
-3. Expand curated guides for stomach, intestines, circulation/blood, pancreas, larynx and other better-evidenced organs; do not promote index-only items until content and sources are adequate.
+3. Expand curated guides for stomach, intestines, circulation/blood, pancreas, larynx and other better-evidenced organs; do not promote index-only items until content and sources are adequate; Intestines already has source-linked dossier records but not a curated visual guide.
 4. Build reusable views for **system-level** organization (nerve-sense, rhythmic, metabolic-limb) separately from the organ anatomy overlay.
 5. Improve graph-to-page evidence crosslinks; don't turn symbolic similarities into scientifically validated anatomical or historical causation.
 
