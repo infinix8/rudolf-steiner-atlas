@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
   "as_of": "2026-11-05",
-  "view": "front_schematic",
-  "scope": "Original editorial navigation artwork. Organ positions are approximate, illustrative, not to anatomical scale and not evidence of Steiner's claims.",
+  "view": "front_anatomical_illustration_with_clickable_markers",
+  "scope": "Adult human anatomy SVG illustration by DBCLS (CC BY 4.0), with separate original Atlas markers for eight approximate organ regions. Not a medical diagnostic map or proof of Steiner's teachings.",
   "organ_count": 8,
   "organs": [
     {
@@ -17,7 +17,12 @@
         "Cognition"
       ],
       "status": "research_dossier",
-      "route": "organs.html?organ=organ-brain"
+      "route": "organs.html?organ=organ-brain",
+      "marker": {
+        "cx": 300,
+        "cy": 94,
+        "kind": "approximate_overlay"
+      }
     },
     {
       "id": "organ-lungs",
@@ -31,7 +36,12 @@
         "Heart"
       ],
       "status": "research_dossier",
-      "route": "organs.html?organ=organ-lungs"
+      "route": "organs.html?organ=organ-lungs",
+      "marker": {
+        "cx": 358,
+        "cy": 259,
+        "kind": "approximate_overlay"
+      }
     },
     {
       "id": "organ-heart",
@@ -45,7 +55,12 @@
         "Conscience"
       ],
       "status": "guided",
-      "route": "organ-detail.html?organ=organ-heart&layer=overview"
+      "route": "organ-detail.html?organ=organ-heart&layer=overview",
+      "marker": {
+        "cx": 302,
+        "cy": 326,
+        "kind": "approximate_overlay"
+      }
     },
     {
       "id": "organ-liver",
@@ -59,7 +74,12 @@
         "Will"
       ],
       "status": "guided",
-      "route": "organ-detail.html?organ=organ-liver&layer=overview"
+      "route": "organ-detail.html?organ=organ-liver&layer=overview",
+      "marker": {
+        "cx": 249,
+        "cy": 366,
+        "kind": "approximate_overlay"
+      }
     },
     {
       "id": "organ-stomach",
@@ -72,7 +92,12 @@
         "Nutrition"
       ],
       "status": "index_only",
-      "route": "organs.html?organ=organ-stomach"
+      "route": "organs.html?organ=organ-stomach",
+      "marker": {
+        "cx": 352,
+        "cy": 388,
+        "kind": "approximate_overlay"
+      }
     },
     {
       "id": "organ-spleen",
@@ -85,7 +110,13 @@
         "Rhythm"
       ],
       "status": "index_only",
-      "route": "organs.html?organ=organ-spleen"
+      "route": "organs.html?organ=organ-spleen",
+      "marker": {
+        "cx": 414,
+        "cy": 355,
+        "kind": "approximate_overlay",
+        "visibility_note": "Organ not clearly isolated in the front illustration; select from the list for the most reliable navigation."
+      }
     },
     {
       "id": "organ-kidneys",
@@ -98,7 +129,13 @@
         "Organism"
       ],
       "status": "research_dossier",
-      "route": "organs.html?organ=organ-kidneys"
+      "route": "organs.html?organ=organ-kidneys",
+      "marker": {
+        "cx": 250,
+        "cy": 440,
+        "kind": "approximate_overlay",
+        "visibility_note": "Organ not clearly isolated in the front illustration; select from the list for the most reliable navigation."
+      }
     },
     {
       "id": "organ-intestines",
@@ -111,7 +148,29 @@
         "Digestion"
       ],
       "status": "research_dossier",
-      "route": "organs.html?organ=organ-intestines"
+      "route": "organs.html?organ=organ-intestines",
+      "marker": {
+        "cx": 318,
+        "cy": 473,
+        "kind": "approximate_overlay"
+      }
     }
-  ]
+  ],
+  "artwork": {
+    "creator": "DataBase Center for Life Science (DBCLS), Togo Picture Gallery",
+    "title": "202403 human anatomy organs",
+    "source": "https://dbarchive.biosciencedbc.jp/data/togo-pic/image/202403_human_anatomy_organs.svg",
+    "record": "https://commons.wikimedia.org/wiki/File:202403_human_anatomy_organs.svg",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "© 2016 DBCLS TogoTV / CC-BY-4.0",
+    "deployment_path": "atlas/media/dbcls-human-anatomy-organs.svg",
+    "overlay_viewBox": [
+      0,
+      0,
+      600,
+      1000
+    ],
+    "adaptation": "Original Atlas selectable markers, opacity/contrast tuning, and highlighted mini locators"
+  }
 }
