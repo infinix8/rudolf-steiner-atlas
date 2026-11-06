@@ -36,6 +36,10 @@ main{padding:31px 0 54px}.layout{display:grid;grid-template-columns:minmax(0,1.2
 .anatomy-credit a{font-weight:650}
 @media(max-width:790px){.anatomy-stage{width:min(100%,350px)}.figure svg.anatomy-hotspots{width:100%;height:100%;max-height:none}}
 @media(max-width:520px){.anatomy-stage{width:min(100%,310px)}}
+
+.organ-list-label{display:flex;align-items:center;gap:8px}
+.list-number{display:inline-grid;place-items:center;background:#eef4ef;color:#3a776d;border:1px solid #d0e3da;border-radius:7px;width:23px;height:23px;font-size:10px;font-weight:850;flex:none}
+.organ-button[aria-pressed=true] .list-number{background:#17484a;color:white;border-color:#17484a}
 </style>
 </head>
 <body>
@@ -105,7 +109,7 @@ main{padding:31px 0 54px}.layout{display:grid;grid-template-columns:minmax(0,1.2
     const q=$("#organ-search").value.trim().toLowerCase();
     const system=$("#organ-system").value;
     const filtered=state.organs.filter(o=>(!q||(o.label+" "+o.summary+" "+o.related.join(" ")).toLowerCase().includes(q))&&(!system||o.system===system));
-    $("#organ-list").innerHTML=filtered.length?filtered.map(o=>'<button type="button" class="organ-button" data-list-organ="'+html(o.id)+'" aria-pressed="'+(o.id===state.selected)+'">'+html(o.label)+(o.status==="guided"?'<small>GUIDE</small>':'')+'</button>').join(""):'<p>No matching organs. Try another search.</p>';
+    $("#organ-list").innerHTML=filtered.length?filtered.map(o=>'<button type="button" class="organ-button" data-list-organ="'+html(o.id)+'" aria-pressed="'+(o.id===state.selected)+'">'+'<span class="organ-list-label"><span class="list-number">'+String(state.organs.indexOf(o)+1).padStart(2,"0")+'</span>'+html(o.label)+'</span>'+(o.status==="guided"?'<small>GUIDE</small>':'')+'</button>').join(""):'<p>No matching organs. Try another search.</p>';
     figure.forEach(a=>{a.classList.toggle("is-active",a.dataset.organId===state.selected);a.style.opacity=filtered.some(o=>o.id===a.dataset.organId)?"1":".24"});
     const o=state.organs.find(o=>o.id===state.selected);
     if(!o)return;
