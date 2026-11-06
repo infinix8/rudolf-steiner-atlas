@@ -37,26 +37,6 @@ jobs:
           cp -R taxonomy/. dist/taxonomy/
           cp docs/*.md dist/docs/
           cp -R assets/. dist/assets/
-          # Download exactly one credited, openly licensed medical SVG for both views.
-          # Kept in the single manual Pages job; ordinary commits trigger no Actions.
-          mkdir -p dist/atlas/media
-          if ! curl --fail --location --retry 2 --max-time 45 --silent --show-error \
-            'https://dbarchive.biosciencedbc.jp/data/togo-pic/image/202403_human_anatomy_organs.svg' \
-            -o dist/atlas/media/dbcls-human-anatomy-organs.svg; then
-            curl --fail --location --retry 2 --max-time 45 --silent --show-error \
-              'https://upload.wikimedia.org/wikipedia/commons/0/00/202403_human_anatomy_organs.svg' \
-              -o dist/atlas/media/dbcls-human-anatomy-organs.svg
-          fi
-          python3 - <<'PY'
-          from pathlib import Path
-          from xml.etree import ElementTree as ET
-          artwork = Path('dist/atlas/media/dbcls-human-anatomy-organs.svg')
-          assert artwork.stat().st_size > 15000, 'Anatomy SVG was too small'
-          root = ET.parse(artwork).getroot()
-          assert root.tag.endswith('svg'), 'Anatomy download is not an SVG'
-          assert not any(el.tag.endswith('script') for el in root.iter()), 'Unexpected embedded script'
-          print('Licensed DBCLS anatomy SVG downloaded and verified:', artwork.stat().st_size, 'bytes')
-          PY
           touch dist/.nojekyll
           test -s dist/index.html
           test -s dist/atlas/index.html
@@ -92,6 +72,28 @@ jobs:
           print('All thematic and organ data dependencies present')
           PY
           python3 tools/validate_visual_organ_atlas.py
+          # Anatomy art is non-critical to a site release: the HTML has a live
+          # Wikimedia fallback if downloading the CC BY 4.0 illustration fails.
+          # The original DBCLS archive URL from earlier versions did not host
+          # the 2024 artwork; prefer the verified Wikimedia Commons file URL.
+          mkdir -p dist/atlas/media
+          art='dist/atlas/media/dbcls-human-anatomy-organs.svg'
+          if curl --fail --location --retry 1 --connect-timeout 8 --max-time 25 --silent --show-error \
+              'https://upload.wikimedia.org/wikipedia/commons/0/00/202403_human_anatomy_organs.svg' \
+              -o "$art" || \
+             curl --fail --location --retry 1 --connect-timeout 8 --max-time 25 --silent --show-error \
+              'https://commons.wikimedia.org/wiki/Special:Redirect/file/202403_human_anatomy_organs.svg' \
+              -o "$art"; then
+            if python3 -c 'import pathlib,xml.etree.ElementTree as E,sys; p=pathlib.Path(sys.argv[1]); r=E.parse(p).getroot(); assert p.stat().st_size > 15000 and r.tag.endswith("svg") and not any(el.tag.endswith("script") for el in r.iter())' "$art"; then
+              echo 'Licensed anatomy illustration packaged locally.'
+            else
+              rm -f "$art"
+              echo '::warning::Anatomy illustration invalid; browser will load the verified Wikimedia original.'
+            fi
+          else
+            rm -f "$art"
+            echo '::warning::Could not cache optional anatomy SVG; browser will load the verified Wikimedia original.'
+          fi
           du -sh dist
 
       - name: Configure GitHub Pages
