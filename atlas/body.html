@@ -19,6 +19,23 @@ main{padding:31px 0 54px}.layout{display:grid;grid-template-columns:minmax(0,1.2
 @media(max-width:790px){.layout{grid-template-columns:1fr}.figure{min-height:0;padding-bottom:10px}.figure svg{width:min(100%,315px);max-height:480px}.side{grid-template-columns:1fr 1fr}.control{grid-column:1/-1}.selection{grid-column:1/-1}.routes{grid-template-columns:1fr 1fr}.hero{padding:35px 0 39px}}
 @media(max-width:520px){.wrap{padding:0 16px}.mast nav{gap:9px}.mast nav a{font-size:11px}.hero h1{font-size:43px}.hero p{font-size:14px}.map-head{padding:15px 18px 4px}.map-head h2{font-size:25px}.figure svg{width:min(100%,290px)}.side{display:block}.side>*+*{margin-top:14px}.routes{grid-template-columns:1fr}.selection h2{font-size:29px}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.figure .organ path,.figure .organ ellipse{transition:none}}
+
+/* Professional DBCLS anatomical plate and keyboard/touch-accessible organ pins */
+.figure{min-height:0;padding:0 15px 13px;display:flex;justify-content:center}
+.anatomy-stage{width:min(100%,390px);position:relative;aspect-ratio:3/5;isolation:isolate;margin:0 auto}
+.anatomy-plate{width:100%;height:100%;object-fit:contain;display:block;filter:saturate(.82) contrast(1.03);background:transparent}
+.figure svg.anatomy-hotspots{position:absolute;inset:0;width:100%;height:100%;max-height:none;overflow:visible;z-index:2}
+.figure .hotspot{cursor:pointer;text-decoration:none;opacity:1;pointer-events:all;outline:none}
+.figure .hotspot-tap{fill:#ffffff01;stroke:none;pointer-events:all}
+.figure .hotspot-disc{fill:#ffffffe9;stroke:#286c68;stroke-width:3;vector-effect:non-scaling-stroke;pointer-events:none;filter:drop-shadow(0 2px 5px #26463e36)}
+.figure .hotspot-number{font:bold 18px system-ui,sans-serif;fill:#245e5b;pointer-events:none}
+.figure .hotspot:hover .hotspot-disc,.figure .hotspot:focus-visible .hotspot-disc,.figure .hotspot.is-active .hotspot-disc{fill:#12424b;stroke:#e5cb96;stroke-width:4}
+.figure .hotspot:hover .hotspot-number,.figure .hotspot:focus-visible .hotspot-number,.figure .hotspot.is-active .hotspot-number{fill:#fff}
+.figure .hotspot:focus-visible .hotspot-tap{stroke:#c5963e;stroke-width:5;fill:#ffffff15}
+.anatomy-credit{margin:5px 14px 2px;font-size:11px;color:#657b7d;text-align:center}
+.anatomy-credit a{font-weight:650}
+@media(max-width:790px){.anatomy-stage{width:min(100%,350px)}.figure svg.anatomy-hotspots{width:100%;height:100%;max-height:none}}
+@media(max-width:520px){.anatomy-stage{width:min(100%,310px)}}
 </style>
 </head>
 <body>
@@ -30,60 +47,24 @@ main{padding:31px 0 54px}.layout{display:grid;grid-template-columns:minmax(0,1.2
 <main class="wrap">
 <div class="layout">
 <section class="panel" id="map" aria-labelledby="mapheading">
-<div class="map-head"><h2 id="mapheading">Tap an organ</h2><p>Front-view schematic. Select the organ or use the searchable list.</p></div>
+<div class="map-head"><h2 id="mapheading">Tap an organ</h2><p>Professionally illustrated front view. Tap the numbered organ markers or use the searchable list.</p></div>
 <div class="figure">
-<svg viewBox="0 0 360 640" xmlns="http://www.w3.org/2000/svg" role="group" aria-label="Stylized front view of a human being with eight selectable organs; use the organ list as an alternative">
-<defs><linearGradient id="skin" x1="0" x2="0.5" y1="0" y2="1"><stop stop-color="#f3f0e8"/><stop offset="1" stop-color="#e2e3d9"/></linearGradient></defs>
-<!-- Human silhouette: editorial, approximate, not a clinical anatomical diagram -->
-<ellipse class="body" cx="180" cy="76" rx="40" ry="49" style="fill:url(#skin)"/>
-<path class="body" d="M165 116 L162 141 198 141 195 116 Z" style="fill:url(#skin)"/>
-<path class="body" d="M141 140 Q161 132 180 143 Q199 132 219 140 Q247 141 255 162 L242 285 Q237 336 228 425 L132 425 Q124 337 118 285 L105 162 Q116 143 141 140Z" style="fill:url(#skin)"/>
-<path class="body" d="M111 156 Q92 149 84 180 L57 339 Q55 357 68 361 Q80 360 82 345 L116 241 Z" style="fill:url(#skin)"/>
-<path class="body" d="M249 156 Q268 149 276 180 L303 339 Q305 357 292 361 Q280 360 278 345 L244 241 Z" style="fill:url(#skin)"/>
-<path class="body" d="M132 416 L180 419 173 538 166 592 Q164 607 155 616 L132 617 Q120 614 129 601 L132 540 Z" style="fill:url(#skin)"/>
-<path class="body" d="M228 416 L180 419 187 538 194 592 Q196 607 205 616 L228 617 Q240 614 231 601 L228 540 Z" style="fill:url(#skin)"/>
-<path class="seam" d="M180 146 Q175 184 180 201 M148 417 Q180 436 212 417 M166 592 L143 599 M194 592 L217 599"/>
-<!-- Brain -->
-<a class="organ" data-organ-id="organ-brain" href="organs.html?organ=organ-brain" aria-label="Brain: view research dossier"><title>Brain</title>
-<path d="M154 76 Q147 69 154 57 Q154 48 164 49 Q172 40 181 48 Q193 43 200 52 Q210 52 209 64 Q216 72 207 83 Q196 88 186 83 Q174 92 164 85 Q154 88 154 76Z" fill="#b7c7bf"/>
-<path d="M180 49 Q174 58 182 65 Q176 73 184 84 M164 56 Q170 59 168 70 M196 57 Q191 63 198 69" fill="none" stroke="#6b9288" stroke-width="1.5"/>
-</a>
-<!-- Lungs -->
-<a class="organ" data-organ-id="organ-lungs" href="organs.html?organ=organ-lungs" aria-label="Lungs: view research dossier"><title>Lungs</title>
-<path d="M173 183 Q155 171 145 189 Q130 216 132 249 Q135 271 154 267 Q175 261 173 234Z" fill="#a7c5c0"/>
-<path d="M187 183 Q205 171 215 189 Q230 216 228 249 Q225 271 206 267 Q185 261 187 234Z" fill="#a7c5c0"/>
-<path d="M180 157 L180 216 M180 204 L161 216 M180 204 L199 216" fill="none" stroke="#5f968d" stroke-width="3" stroke-linecap="round"/>
-</a>
-<!-- Heart, slightly viewer-right of center -->
-<a class="organ" data-organ-id="organ-heart" href="organ-detail.html?organ=organ-heart&amp;layer=overview" aria-label="Heart: open guided organ page"><title>Heart</title>
-<path d="M184 236 Q171 226 172 244 Q173 252 190 268 Q210 254 211 243 Q209 227 199 233 Q194 238 190 241 Q189 237 184 236Z" fill="#bb817b"/>
-<path d="M192 240 L195 222 Q205 216 209 226" fill="none" stroke="#946b66" stroke-width="2.2"/>
-</a>
-<!-- Liver (viewer left, human right) -->
-<a class="organ" data-organ-id="organ-liver" href="organ-detail.html?organ=organ-liver&amp;layer=overview" aria-label="Liver: open guided organ page"><title>Liver</title>
-<path d="M133 294 Q150 281 190 291 Q192 314 178 326 Q162 330 142 319 Q134 312 133 294Z" fill="#b7a57e"/>
-</a>
-<!-- Stomach (viewer right, human left) -->
-<a class="organ" data-organ-id="organ-stomach" href="organs.html?organ=organ-stomach" aria-label="Stomach: view indexed research"><title>Stomach</title>
-<path d="M213 294 Q220 305 215 318 Q207 334 225 342 Q244 347 242 326 Q238 316 230 315 Q224 306 226 297Z" fill="#b4c0a5"/>
-</a>
-<!-- Spleen (viewer right, human left) -->
-<a class="organ" data-organ-id="organ-spleen" href="organs.html?organ=organ-spleen" aria-label="Spleen: view indexed research"><title>Spleen</title>
-<ellipse cx="253" cy="314" rx="11" ry="22" transform="rotate(18 253 314)" fill="#cdb6b2"/>
-</a>
-<!-- Kidneys, positioned schematically to be visible in front view -->
-<a class="organ" data-organ-id="organ-kidneys" href="organs.html?organ=organ-kidneys" aria-label="Kidneys: view research dossier"><title>Kidneys</title>
-<path d="M152 338 Q136 338 138 360 Q141 386 155 384 Q166 381 157 369 Q149 363 157 353 Q162 340 152 338Z" fill="#bdaab6"/>
-<path d="M208 338 Q224 338 222 360 Q219 386 205 384 Q194 381 203 369 Q211 363 203 353 Q198 340 208 338Z" fill="#bdaab6"/>
-</a>
-<!-- Intestines; schematic rather than precise abdominal anatomy -->
-<a class="organ" data-organ-id="organ-intestines" href="organs.html?organ=organ-intestines" aria-label="Intestines: view research dossier"><title>Intestines</title>
-<path d="M164 385 Q149 386 149 401 L149 418 Q150 432 166 433 L194 433 Q211 434 211 419 L211 398 Q209 385 195 386" fill="none" stroke="#90a49a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M166 390 Q195 392 194 400 Q191 409 169 408 Q162 408 165 416 Q168 423 197 421" fill="none" stroke="#97ada3" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
-</a>
+<div class="anatomy-stage" aria-label="Professional anatomy illustration showing the human organs with eight interactive selection markers">
+<img class="anatomy-plate" src="media/dbcls-human-anatomy-organs.svg" onerror="this.onerror=null;this.src='https://dbarchive.biosciencedbc.jp/data/togo-pic/image/202403_human_anatomy_organs.svg'" alt="Adult human anatomy illustration by DBCLS showing brain, chest organs and digestive organs; hotspots and the organ list provide navigation." decoding="async" fetchpriority="high">
+<svg class="anatomy-hotspots" viewBox="0 0 600 1000" xmlns="http://www.w3.org/2000/svg" role="group" aria-label="Eight numbered organ selection markers positioned over the anatomical illustration">
+<a class="organ hotspot" data-organ-id="organ-brain" href="organs.html?organ=organ-brain" aria-label="Select Brain" tabindex="0"><title>Brain</title><circle class="hotspot-tap" cx="300" cy="94" r="29"/><circle class="hotspot-disc" cx="300" cy="94" r="20"/><text class="hotspot-number" x="300" y="95" text-anchor="middle" dominant-baseline="central">1</text></a>
+<a class="organ hotspot" data-organ-id="organ-lungs" href="organs.html?organ=organ-lungs" aria-label="Select Lungs" tabindex="0"><title>Lungs</title><circle class="hotspot-tap" cx="358" cy="259" r="29"/><circle class="hotspot-disc" cx="358" cy="259" r="20"/><text class="hotspot-number" x="358" y="260" text-anchor="middle" dominant-baseline="central">2</text></a>
+<a class="organ hotspot" data-organ-id="organ-heart" href="organs.html?organ=organ-heart" aria-label="Select Heart" tabindex="0"><title>Heart</title><circle class="hotspot-tap" cx="302" cy="326" r="29"/><circle class="hotspot-disc" cx="302" cy="326" r="20"/><text class="hotspot-number" x="302" y="327" text-anchor="middle" dominant-baseline="central">3</text></a>
+<a class="organ hotspot" data-organ-id="organ-liver" href="organs.html?organ=organ-liver" aria-label="Select Liver" tabindex="0"><title>Liver</title><circle class="hotspot-tap" cx="249" cy="366" r="29"/><circle class="hotspot-disc" cx="249" cy="366" r="20"/><text class="hotspot-number" x="249" y="367" text-anchor="middle" dominant-baseline="central">4</text></a>
+<a class="organ hotspot" data-organ-id="organ-stomach" href="organs.html?organ=organ-stomach" aria-label="Select Stomach" tabindex="0"><title>Stomach</title><circle class="hotspot-tap" cx="352" cy="388" r="29"/><circle class="hotspot-disc" cx="352" cy="388" r="20"/><text class="hotspot-number" x="352" y="389" text-anchor="middle" dominant-baseline="central">5</text></a>
+<a class="organ hotspot" data-organ-id="organ-spleen" href="organs.html?organ=organ-spleen" aria-label="Select Spleen" tabindex="0"><title>Spleen</title><circle class="hotspot-tap" cx="414" cy="355" r="29"/><circle class="hotspot-disc" cx="414" cy="355" r="20"/><text class="hotspot-number" x="414" y="356" text-anchor="middle" dominant-baseline="central">6</text></a>
+<a class="organ hotspot" data-organ-id="organ-kidneys" href="organs.html?organ=organ-kidneys" aria-label="Select Kidneys" tabindex="0"><title>Kidneys</title><circle class="hotspot-tap" cx="250" cy="440" r="29"/><circle class="hotspot-disc" cx="250" cy="440" r="20"/><text class="hotspot-number" x="250" y="441" text-anchor="middle" dominant-baseline="central">7</text></a>
+<a class="organ hotspot" data-organ-id="organ-intestines" href="organs.html?organ=organ-intestines" aria-label="Select Intestines" tabindex="0"><title>Intestines</title><circle class="hotspot-tap" cx="318" cy="473" r="29"/><circle class="hotspot-disc" cx="318" cy="473" r="20"/><text class="hotspot-number" x="318" y="474" text-anchor="middle" dominant-baseline="central">8</text></a>
 </svg>
 </div>
-<div class="map-note"><strong>Diagram note:</strong> Organ shapes and placements are simplified and approximate. Kidney visibility and overlapping organs are schematic rather than anatomical. This is a navigation map, not medical instruction.</div>
+</div>
+<p class="anatomy-credit">Base illustration: <a href="https://commons.wikimedia.org/wiki/File:202403_human_anatomy_organs.svg" target="_blank" rel="noopener noreferrer">DBCLS / Togo Picture Gallery</a>, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener noreferrer">CC BY 4.0</a>. Adaptation: selectable markers and visual presentation.</p>
+<div class="map-note"><strong>How to use:</strong> Tap a numbered marker or an organ name. The source figure is anatomical art; marker placement is approximate. Kidneys and spleen are not clearly isolated in this front illustration, so the list is the more reliable way to select them. This is not medical guidance.</div>
 </section>
 <aside class="side">
 <section class="panel control" aria-label="Find an organ">
@@ -102,7 +83,7 @@ main{padding:31px 0 54px}.layout{display:grid;grid-template-columns:minmax(0,1.2
 </section>
 </aside>
 </div>
-<section class="below" aria-label="Explore further"><h2>Other ways to explore</h2><p>The body is one starting point. Connect organs to cosmic stages, spiritual hierarchies and the wider teaching taxonomy.</p>
+<section class="below" aria-label="Explore further"><h2>Other ways to explore</h2><p>The illustrated body is one starting point. Connect organs to cosmic stages, spiritual hierarchies and the wider teaching taxonomy.</p>
 <div class="routes">
 <a class="route" href="organs.html"><strong>All 40 dossiers</strong><span>Explore the original source-linked organ concordance, including organs not drawn on this map.</span></a>
 <a class="route" href="agency.html"><strong>Spiritual hierarchies</strong><span>Distinguish agents, activities, evolutionary stages and original passages.</span></a>
