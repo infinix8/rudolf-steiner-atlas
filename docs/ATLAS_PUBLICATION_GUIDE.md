@@ -1,3 +1,5 @@
+> **Open medical SVG (6 November 2026):** The manual Pages workflow now retrieves and parses [DBCLS's CC BY 4.0 adult anatomy illustration](ANATOMY_ARTWORK_ATTRIBUTION.md) as a local page asset shared by the eight-organ body map and both detailed guided pages. It falls back to the Wikimedia Commons mirror if necessary. This occurs within the **same single manual publish job**, not an additional Actions run. No workflow is triggered by a research/design commit.
+
 # Combined Rudolf Steiner Atlas — public publishing guide
 
 **Release mode:** GitHub Pages, **manual-only**, from `main`.
