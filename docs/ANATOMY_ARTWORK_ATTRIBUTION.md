@@ -11,7 +11,7 @@
 
 ## Adaptation and use
 
-The base anatomy SVG is preserved as a distinct static graphic rather than pretending the whole SVG's shapes have individually audited organ annotations. The Rudolf Steiner Atlas places its **own** clickable numbered position markers, selection rings, preview controls, text labels and accessibility alternatives **over** the medical drawing. Color saturation is subtly softened for the Atlas palette, without changing organ geometry. The mini locators on Heart and Liver pages reuse the same illustration with a separate highlighted ring.
+The default presentation crops to the torso to enlarge the organ details; the user can toggle to the full-body view. Thyroid and urinary bladder are illustrated on this plate and included as source-indexed click targets. The kidneys and spleen are not shown as anatomical pins. The base anatomy SVG is preserved as a distinct static graphic rather than pretending the whole SVG's shapes have individually audited organ annotations. The Rudolf Steiner Atlas places its **own** clickable numbered position markers, selection rings, preview controls, text labels and accessibility alternatives **over** the medical drawing. Color saturation is subtly softened for the Atlas palette, without changing organ geometry. The mini locators on Heart and Liver pages reuse the same illustration with a separate highlighted ring.
 
 The illustrator depicts front-facing adult human anatomy. Kidney and spleen positioning on our eight-item navigation is approximate because the chosen artwork does not clearly isolate those structures. The research explorer's textual organ list is the fully accessible fallback. This is an anatomical illustration for navigation, not a diagnostic image or source validating Steiner's spiritual/medical teachings.
 
@@ -26,7 +26,7 @@ The original SVG is an open **CC BY 4.0** asset, not a file authored by the Atla
 
 ## Files
 
-- `atlas/body.html`: large professional body illustration and six overlaid labeled callouts plus two explicitly non-depicted list links.
+- `atlas/body.html`: large professional body illustration and eight overlaid labeled callouts plus two explicitly non-depicted list links.
 - `atlas/organ-detail.html` and `atlas/organ-detail.css`: common detailed-plate mini locators for Heart and Liver.
 - `research/organ-body-map-v1.json`: canonical organ routes and status.
 - `.github/workflows/publish-organ-atlas.yml`: one manual, static site artifact with the credited anatomy SVG.
