@@ -179,13 +179,24 @@
   }
   function readRoute() {
     const p = new URLSearchParams(location.search);
-    return {organ:p.get("organ")==="organ-liver"?"organ-liver":"organ-heart",layer:layersSet.has(p.get("layer"))?p.get("layer"):"overview"};
+    return {organ:/^organ-[a-z-]+$/.test(p.get("organ")||"") ? p.get("organ") : "organ-heart",layer:layersSet.has(p.get("layer"))?p.get("layer"):"overview"};
   }
   function applyGuide(organ,layer,push=false){
     const g=state.data.guides.find(x=>x.id===organ) || state.data.guides[0];
     state.guide=g;state.organ=g.id;state.connection=0;
-    document.body.classList.toggle("organ-heart",g.id==="organ-heart");
-    document.body.classList.toggle("organ-liver",g.id==="organ-liver");
+    ["organ-heart","organ-liver","organ-lungs","organ-brain","organ-kidneys","organ-spleen"].forEach(id=>document.body.classList.remove(id));
+    document.body.classList.add(g.id);
+    const notPictured=new Set(["organ-kidneys","organ-spleen"]).has(g.id);
+    const anatomy=$(".medical-locator");
+    anatomy.setAttribute("aria-label",notPictured
+      ? "This organ is not separately depicted in the front-view anatomy plate; read the location description in the In the Body layer"
+      : "Adult anatomical illustration with the "+g.title.toLowerCase()+" highlighted approximately");
+    $("#art-caption").textContent=notPictured
+      ? "Not depicted in this front view · use In the body for its location"
+      : "Approximate "+g.title.toLowerCase()+" locator · not to scale";
+    $("#organ-switch-links").innerHTML=state.data.guides.map(item=>
+      '<a data-organ-switch="'+escapeHtml(item.id)+'" href="organ-detail.html?organ='+encodeURIComponent(item.id)+'&amp;layer='+encodeURIComponent(layer)+'">'+escapeHtml(item.title.replace(/^The /,""))+'</a>'
+    ).join("");
     $("#organ-title").textContent=g.title;
     $("#crumb-organ").textContent=g.title;
     $("#organ-subtitle").textContent=g.subtitle;
@@ -199,9 +210,17 @@
   }
   function init(){
     const requested=readRoute();
-    fetch("../research/organ-atlas-guides-v1.json").then(r=>{if(!r.ok)throw Error("Cannot load organ guide data. Open the published site or serve the repository root.");return r.json();})
-      .then(data=>{
-        if(!Array.isArray(data.guides)||data.guides.length!==2||!Array.isArray(data.layers)||data.layers.length!==8)throw Error("Invalid organ-guide schema.");
+    Promise.all([
+      fetch("../research/organ-atlas-guides-v1.json").then(r=>{if(!r.ok)throw Error("Original Heart and Liver guide data unavailable");return r.json();}),
+      fetch("../research/organ-atlas-guides-v2-expansion.json").then(r=>{if(!r.ok)throw Error("Expanded Lungs, Brain, Kidneys and Spleen guide data unavailable");return r.json();})
+    ]).then(([base,addition])=>{
+        if(!Array.isArray(base.guides)||base.guides.length!==2||
+           !Array.isArray(addition.guides)||addition.guides.length!==4||
+           !Array.isArray(base.layers)||base.layers.length!==8)throw Error("Invalid organ-guide schemas.");
+        const data={...base,guides:[...base.guides,...addition.guides]};
+        const expected=new Set(["organ-heart","organ-liver","organ-lungs","organ-brain","organ-kidneys","organ-spleen"]);
+        const ids=new Set(data.guides.map(g=>g.id));
+        if(ids.size!==6||[...expected].some(id=>!ids.has(id)))throw Error("Guide records are incomplete or duplicated.");
         for(const g of data.guides){
           const keys=new Set(g.sources.map(s=>s.id));
           const arrays=[g.quick_takeaways,g.body.cards,g.interpretation.cards,g.evolution.timeline,g.agencies.rows,g.connections.nodes,g.questions];
