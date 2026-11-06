@@ -75,3 +75,27 @@
  .organ-heart .locator-leader{left:66%;top:41%}
  .organ-liver .locator-leader{left:55%;top:62%}
 }
+
+
+/* Visual Organ Atlas v2: six guided organs, with honest no-location state for posterior/unpictured organs. */
+.organ-switch-links{display:flex;flex-wrap:wrap;gap:7px;align-items:center}
+.organ-switcher{gap:8px 10px}
+.organ-switcher .organ-compare-link{white-space:normal}
+.organ-brain .locator-focus{left:50%;top:14.5%}
+.organ-brain .locator-leader{top:12%;left:68%}
+.organ-brain .locator-leader:after{content:"BRAIN"}
+.organ-lungs .locator-focus{left:58.5%;top:41.7%}
+.organ-lungs .locator-leader{top:39%;left:69%}
+.organ-lungs .locator-leader:after{content:"LUNGS"}
+.organ-kidneys .locator-focus,.organ-kidneys .locator-leader,
+.organ-spleen .locator-focus,.organ-spleen .locator-leader{display:none}
+.organ-kidneys .medical-locator,.organ-spleen .medical-locator{filter:saturate(.8);border:1px dashed #a8c1b6}
+.organ-kidneys .art-caption,.organ-spleen .art-caption{font-weight:780;color:#3f6c63}
+@media(max-width:680px){
+ .organ-brain .locator-leader{top:12%;left:68%}
+ .organ-lungs .locator-leader{top:38%;left:68%}
+ .medical-locator{width:130px;max-width:130px}
+ .organ-switch-links{gap:6px}
+ .organ-switcher a{min-height:44px}
+ .art-caption{display:block;max-width:240px;font-size:11px}
+}
