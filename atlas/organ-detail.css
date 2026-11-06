@@ -54,3 +54,12 @@
  .organ-heart .locator-leader{top:25%;left:70%}
  .organ-liver .locator-leader{top:35%;left:57%}
 }
+
+/* Accessible jump between curated organs and thematic visual comparison */
+.organ-switcher{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin:-3px 0 18px}
+.organ-switcher span{font-size:11px;font-weight:780;color:#71847e;margin-right:7px}
+.organ-switcher a{display:inline-flex;align-items:center;min-height:39px;padding:6px 13px;border:1px solid #c2d5cc;background:#fffdf8;border-radius:22px;color:#46695f;text-decoration:none;font-weight:750;font-size:12px}
+.organ-switcher a[aria-current="page"]{background:#16454b;color:#fff;border-color:#16454b}
+.organ-switcher .organ-compare-link{border-color:#b9a674;background:#f4efdf;color:#695f41;margin-left:auto}
+.reader-actions{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+@media(max-width:680px){.organ-switcher{margin:0 0 14px}.organ-switcher .organ-compare-link{margin-left:0}.reader-actions{align-items:stretch;flex-direction:column}.reader-actions .button{white-space:normal;text-align:center}}
