@@ -171,8 +171,8 @@ check("organ-detail.js" in html and "organ-detail.css" in html,
 check("organ-atlas-guides-v1.json" in js, "Guide JS must load canonical curated JSON")
 check("organ-atlas-guides-v2-expansion.json" in js,
       "Guide JS must load four expanded guide records without discarding Heart/Liver.")
-check("data-organ-id=" in visual_map and visual_map.count("data-organ-id=") == 8,
-      "Interactive diagram must expose 8 hotspots")
+check("data-organ-id=" in visual_map and visual_map.count("data-organ-id=") == 10,
+      "Body map must expose 10 interactive organ controls: 8 illustrated callouts plus 2 not-depicted links.")
 check('href="atlas/body.html"' in landing,
       "Homepage must include visual human body map")
 check("organ-detail.html" in visual_map,
