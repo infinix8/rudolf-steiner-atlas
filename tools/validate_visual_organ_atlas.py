@@ -35,10 +35,23 @@ check(body["organ_count"] == len(body["organs"]) == 8,
 map_ids = [item["id"] for item in body["organs"]]
 check(len(set(map_ids)) == len(map_ids), "Duplicated organ map ID.")
 check(set(map_ids) <= canonical, "Body map refers to nonexistent canonical dossiers.")
+artwork = body.get("artwork", {})
+check(artwork.get("creator", "").startswith("DataBase Center for Life Science") and
+      artwork.get("license") == "CC BY 4.0" and
+      "creativecommons.org/licenses/by/4.0" in artwork.get("license_url", "") and
+      artwork.get("source", "").endswith("202403_human_anatomy_organs.svg"),
+      "Anatomy art must preserve DBCLS source and CC BY 4.0 attribution.")
+check(artwork.get("overlay_viewBox") == [0, 0, 600, 1000],
+      "Anatomy marker coordinate system must match the 600x1000 source illustration.")
 
 for item in body["organs"]:
     check(item["status"] in {"guided", "research_dossier", "index_only"},
           f"{item['id']}: invalid status")
+    marker = item.get("marker", {})
+    check(isinstance(marker.get("cx"), (int, float)) and
+          isinstance(marker.get("cy"), (int, float)) and
+          0 <= marker.get("cx", -1) <= 600 and 0 <= marker.get("cy", -1) <= 1000,
+          f"{item['id']}: missing or out-of-bounds anatomy marker")
     route = item["route"]
     target = route.split("?", 1)[0].split("#", 1)[0]
     check("/" not in target and not target.startswith(".") and
@@ -109,6 +122,14 @@ check('href="atlas/body.html"' in landing,
       "Homepage must include visual human body map")
 check("organ-detail.html" in visual_map,
       "Body map must lead to new guided pages")
+check("dbcls-human-anatomy-organs.svg" in visual_map and
+      "dbcls-human-anatomy-organs.svg" in html and
+      "medical-locator" in html and
+      "anatomy-hotspots" in visual_map,
+      "Body and detail pages must render the same professional DBCLS artwork.")
+check("creativecommons.org/licenses/by/4.0/" in visual_map and
+      "creativecommons.org/licenses/by/4.0/" in html,
+      "CC BY 4.0 artwork attribution is required on both rendered pages.")
 check("@media(max-width:680px)" in css,
       "Guide needs explicit mobile style")
 check("historical" in html.lower() and "medical" in html.lower(),
