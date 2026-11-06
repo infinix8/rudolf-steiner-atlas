@@ -17,6 +17,7 @@ The unified homepage at `https://infinix8.github.io/rudolf-steiner-atlas/` offer
 | `/atlas/body.html` | Visual clickable eight-organ human-body map and discovery interface |
 | `/atlas/organ-detail.html?organ=organ-heart&layer=overview` | New eight-layer Heart guide |
 | `/atlas/organ-detail.html?organ=organ-liver&layer=overview` | New eight-layer Liver guide |
+| `/atlas/compare-organs.html` | Five source-linked, interactive visual Heart/Liver comparisons |
 | `/atlas/mobile-preview.html` | Curated Heart/Liver guided organ experience |
 | `/atlas/organs.html` | Full current 40-dossier organ concordance reader |
 | `/atlas/agency.html` | Spiritual beings, stages and roles |
@@ -26,6 +27,8 @@ The unified homepage at `https://infinix8.github.io/rudolf-steiner-atlas/` offer
 | `/atlas/timeline.html` | Dated lecture chronology |
 | `/atlas/dossiers.html` | Thematic study dossiers |
 | `/atlas/trajectories.html` | Context and trajectory comparisons |
+
+The visual comparison page reads `research/organ-visual-comparisons-v1.json` and resolves each card to a source record in the curated guide JSON. Its five lenses and exact source IDs are checked in the same manual release.
 
 The new visual Heart/Liver pages load `research/organ-atlas-guides-v1.json` and require `atlas/organ-detail.js` and `atlas/organ-detail.css`. The manual deployment validates these guide links with `python3 tools/validate_visual_organ_atlas.py`.
 
