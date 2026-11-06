@@ -28,8 +28,8 @@
 .medical-locator{width:min(100%,190px);aspect-ratio:3/5;position:relative;margin:0 auto;flex:none;filter:drop-shadow(0 5px 12px #304b3c12)}
 .medical-locator img{width:100%;height:100%;display:block;object-fit:contain;filter:saturate(.83) contrast(1.04)}
 .locator-focus{position:absolute;width:31px;height:31px;border:3px solid #214b4a;background:#e8cf9c5e;border-radius:50%;box-shadow:0 0 0 5px #ffffffc7,0 3px 10px #24464547;transform:translate(-50%,-50%);z-index:2}
-.organ-heart .locator-focus{left:50.3%;top:32.6%}
-.organ-liver .locator-focus{left:41.5%;top:36.6%}
+.organ-heart .locator-focus{left:51%;top:28.3%}
+.organ-liver .locator-focus{left:44.5%;top:31.9%}
 .locator-leader{position:absolute;left:68%;top:31%;background:#123f48e9;color:#fff;padding:4px 7px;font-size:10px;font-weight:800;letter-spacing:.1em;border-radius:6px}
 .organ-heart .locator-leader:after{content:"HEART"}
 .organ-liver .locator-leader{top:40%;left:53%}
@@ -43,4 +43,14 @@
   .organ-liver .locator-leader{left:52%;top:40%}
   .hero-art{flex-wrap:wrap}
   .art-credit{font-size:9px;max-width:150px;order:3}
+}
+
+/* Shared artwork source coordinates: heart (306,283), liver (267,319) in 600×1000. */
+.medical-locator{background:#ffffff55;border-radius:10px}
+.medical-locator img{filter:saturate(.92) contrast(1.03)}
+.organ-heart .locator-leader{top:25%;left:69%}
+.organ-liver .locator-leader{top:35%;left:57%}
+@media(max-width:680px){
+ .organ-heart .locator-leader{top:25%;left:70%}
+ .organ-liver .locator-leader{top:35%;left:57%}
 }
