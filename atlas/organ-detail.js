@@ -160,6 +160,12 @@
     const body=$("#layer-panel");
     body.innerHTML=renderLayer[next]();
     body.setAttribute("aria-label",state.data.layers.find(x=>x.id===next)?.label||"Organ explanation");
+    $("[data-organ-switch]").forEach(a=>{
+      const org=a.dataset.organSwitch;
+      a.href="organ-detail.html?organ="+encodeURIComponent(org)+"&layer="+encodeURIComponent(state.layer);
+      if(org===state.organ)a.setAttribute("aria-current","page");
+      else a.removeAttribute("aria-current");
+    });
     updateUrl(push);
     if(focusPanel)body.focus();
   }
