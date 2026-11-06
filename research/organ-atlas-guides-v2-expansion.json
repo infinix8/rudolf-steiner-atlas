@@ -1,0 +1,1454 @@
+{
+  "schema_version": "1.0",
+  "as_of": "2026-11-06",
+  "research_phase": 29,
+  "source_baseline": "research/organ-comparative-dossiers-v29.json",
+  "base_dataset": "research/organ-atlas-guides-v1.json",
+  "status": "curated_new_organ_guides_not_exhaustive_bilingual_source_corpus",
+  "description": "Four original, source-linked organ guide additions. Distinguishes modern anatomy, historical esoteric attribution, planetary symbolism, unverified historical therapeutics, research gaps. Supersensible origins not inserted where source evidence is lacking.",
+  "guides": [
+    {
+      "id": "organ-lungs",
+      "slug": "lungs",
+      "title": "The lungs",
+      "subtitle": "Breath · rhythm · outer world",
+      "one_liner": "Steiner discusses the lungs through breath, heart–lung rhythm, air/sound formation, inner-Mercury imagery and claims about memory and future form.",
+      "intro": "Breathing is the anchor, but Steiner's different contexts must stay separate: the actual lungs exchange gases, while his air/sound, planetary and future-organ descriptions are historical esoteric interpretations.",
+      "keywords": [
+        "Breathing",
+        "Rhythm",
+        "Air and sound",
+        "Mercury analogy",
+        "Head polarity",
+        "Lung surfaces"
+      ],
+      "quick_takeaways": [
+        {
+          "title": "The chest works as a system",
+          "body": "Steiner's medical lectures place lungs alongside the heart in a wider rhythmic, etheric organization.",
+          "sources": [
+            "lung-314-am",
+            "lung-313"
+          ],
+          "type": "source_explanation"
+        },
+        {
+          "title": "Formative air is not the same as elemental earth",
+          "body": "A 1924 discussion emphasizes air/sound organ formation, while GA 205 assigns the lung an earth-element affinity in another kind of map.",
+          "sources": [
+            "lung-316",
+            "lung-205"
+          ],
+          "type": "source_explanation"
+        },
+        {
+          "title": "Mercury is an analogy",
+          "body": "GA 128 provisionally refers to the lung system as inner Mercury; that does not establish its physical origin or an exclusive spiritual builder.",
+          "sources": [
+            "lung-128"
+          ],
+          "type": "source_explanation"
+        }
+      ],
+      "body": {
+        "note": "Lungs lie in the thorax around the heart and allow oxygen and carbon dioxide exchange. Modern respiratory physiology is distinct from Steiner's proposed spiritual explanation of breathing, organ shape or epilepsy.",
+        "cards": [
+          {
+            "title": "Where and what they do",
+            "body": "The two lungs expand during breathing and exchange respiratory gases with blood. This is general modern anatomical orientation.",
+            "sources": [],
+            "type": "modern_anatomy"
+          },
+          {
+            "title": "Breath and rhythm",
+            "body": "The medical lectures interpret lung/heart activity within a chest-wide rhythmic and etheric interplay, rather than as isolated organs.",
+            "sources": [
+              "lung-314-am",
+              "lung-313"
+            ],
+            "type": "source_explanation"
+          },
+          {
+            "title": "Formative interplay",
+            "body": "In GA 314, Steiner attributes lung form to an interplay of imagined kidney–liver radial activity and head-rounded forces.",
+            "sources": [
+              "lung-314-pm"
+            ],
+            "type": "source_explanation"
+          }
+        ]
+      },
+      "interpretation": {
+        "intro": "Steiner uses different explanatory languages for the lungs—etheric organization, formative sound/air, spiritual memory and outer-world polarity. These are not experimentally established lung functions.",
+        "cards": [
+          {
+            "title": "Heart–lung etheric account",
+            "body": "The paired organs are discussed as a rhythmic process involving the etheric organization.",
+            "sources": [
+              "lung-314-am"
+            ],
+            "type": "source_explanation"
+          },
+          {
+            "title": "Air and sound forces",
+            "body": "A 1924 medical lecture proposes organ-forming activity involving air and sound, with the lungs comparatively close to those processes.",
+            "sources": [
+              "lung-316"
+            ],
+            "type": "source_explanation"
+          },
+          {
+            "title": "Surface and interior images",
+            "body": "GA 205 associates lung surfaces with abstract-thought memory and the interior with the future outer head, as spiritual-life imagery.",
+            "sources": [
+              "lung-205"
+            ],
+            "type": "source_explanation"
+          },
+          {
+            "title": "Mercury, not literal astronomy",
+            "body": "GA 128 names a supposed inner-Mercury correspondence for the lung system.",
+            "sources": [
+              "lung-128"
+            ],
+            "type": "source_explanation"
+          }
+        ]
+      },
+      "evolution": {
+        "lead": "The evidence does not supply a complete, sourced lung-by-lung chronology through every cosmic embodiment. Below are different temporal or relationship contexts, not a continuous clinical timeline.",
+        "timeline": [
+          {
+            "stage": "Earth recapitulation",
+            "kind": "recapitulation",
+            "title": "Air enters an early respiratory process",
+            "body": "GA 102 associates the arrival of air during Earth's recapitulation with early respiratory conditions; it does not describe a fully developed present lung.",
+            "sources": [
+              "lung-102-recap"
+            ]
+          },
+          {
+            "stage": "Organ formation metaphor",
+            "kind": "formative_interpretation",
+            "title": "Air and sound organization",
+            "body": "GA 316 gives the lungs a comparatively close relation to air/sound-forming forces; the passage is not a dated planetary genesis claim.",
+            "sources": [
+              "lung-316"
+            ]
+          },
+          {
+            "stage": "Present organism",
+            "kind": "current_organization",
+            "title": "Rhythm, breath and head–metabolic polarity",
+            "body": "GA 313/314 discuss the chest's present interlocking rhythmic activity.",
+            "sources": [
+              "lung-313",
+              "lung-314-am"
+            ]
+          },
+          {
+            "stage": "Future-life image",
+            "kind": "claimed_future_relation",
+            "title": "Lung interior and later head form",
+            "body": "GA 205 connects inner lung forces with the appearance of a future head in a karmic interpretation.",
+            "sources": [
+              "lung-205"
+            ]
+          }
+        ],
+        "compare": {
+          "left": {
+            "label": "Formative medium",
+            "detail": "Air and sound processes (GA 316)",
+            "sources": [
+              "lung-316"
+            ]
+          },
+          "right": {
+            "label": "Elemental affinity",
+            "detail": "Earth element (GA 205)",
+            "sources": [
+              "lung-205"
+            ]
+          },
+          "conclusion": "Air as a formative medium and earth as a symbolic elemental correspondence are different categories, not a source contradiction about physical gas exchange."
+        }
+      },
+      "agencies": {
+        "intro": "The indexed passages do not identify a single hierarchy as the exclusive creator or maintainer of the lungs. The human etheric, astral and I members are not names of independent angelic ranks.",
+        "rows": [
+          {
+            "agent": "No unique named lung-builder in this selection",
+            "role": "Formative air/sound interpretation",
+            "target": "Lung formation in an organ-process account",
+            "stage": "Present / non-chronological",
+            "sources": [
+              "lung-316"
+            ],
+            "caveat": "A claim about forces is not proof of an exclusive being responsible for the organ."
+          },
+          {
+            "agent": "Etheric organization (human member)",
+            "role": "Rhythmic chest relationship",
+            "target": "Lungs together with heart",
+            "stage": "Present organism",
+            "sources": [
+              "lung-314-am",
+              "lung-313"
+            ],
+            "caveat": "The member is a category of organization, not a named hierarchy."
+          },
+          {
+            "agent": "Astral and I (human members)",
+            "role": "Historically alleged entrapment",
+            "target": "Lung in a disputed curative-education theory",
+            "stage": "1924 clinical context",
+            "sources": [
+              "lung-317"
+            ],
+            "caveat": "The associated explanation of seizures/consciousness is medically unsupported and must not be used for diagnosis."
+          }
+        ]
+      },
+      "connections": {
+        "intro": "Each node is a separate documented kind of relationship. Select it to open the original lecture context.",
+        "nodes": [
+          {
+            "label": "Heart",
+            "detail": "Lung and heart are discussed together within rhythmic/etheric chest organization.",
+            "sources": [
+              "lung-314-am"
+            ],
+            "relation": "organ_relation"
+          },
+          {
+            "label": "Head",
+            "detail": "A lecture interprets lung shape through forces tied to the head, kidneys and liver.",
+            "sources": [
+              "lung-314-pm"
+            ],
+            "relation": "formative_analogy"
+          },
+          {
+            "label": "Mercury",
+            "detail": "The lung system is provisionally associated with inner Mercury in GA 128.",
+            "sources": [
+              "lung-128"
+            ],
+            "relation": "symbolic_correspondence"
+          },
+          {
+            "label": "Memory",
+            "detail": "GA 205 attributes abstract thought memory to a lung-surface image.",
+            "sources": [
+              "lung-205"
+            ],
+            "relation": "claimed_memory_relation"
+          },
+          {
+            "label": "Earth element",
+            "detail": "The elemental earth affinity is distinct from the air/sound formation account.",
+            "sources": [
+              "lung-205",
+              "lung-316"
+            ],
+            "relation": "elemental_correspondence"
+          }
+        ]
+      },
+      "questions": [
+        {
+          "title": "Which hierarchies actually act upon the lungs?",
+          "body": "The selected first-pass passages name formative processes, but do not justify a unique builder or a completed agency timeline.",
+          "sources": [
+            "lung-316",
+            "lung-314-am"
+          ],
+          "type": "research_question"
+        },
+        {
+          "title": "Why air in one lecture and earth in another?",
+          "body": "The lectures use air/sound as attributed formative forces and earth as an elemental correspondence. The scope and genre must be annotated separately.",
+          "sources": [
+            "lung-316",
+            "lung-205"
+          ],
+          "type": "research_question"
+        },
+        {
+          "title": "What about Steiner's epilepsy account?",
+          "body": "GA 317 links seizures and altered consciousness to organ-bound astral/I processes. This explanation is not supported by modern neurology, and medical decisions should not use it.",
+          "sources": [
+            "lung-317"
+          ],
+          "type": "clinical_caution"
+        },
+        {
+          "title": "What remains to be checked?",
+          "body": "A complete bilingual audit of organ genesis, German wording of major source cues, and comparison across other lectures remain pending.",
+          "sources": [],
+          "type": "research_gap"
+        }
+      ],
+      "sources": [
+        {
+          "id": "lung-314-am",
+          "ga": "314",
+          "title": "Medical lecture, morning",
+          "cue": "27 October 1922, heart–lung oxygen and etheric discussion",
+          "url": "https://rsarchive.org/Lectures/FundAnthro/19221027a01.html",
+          "context": "Lung and heart in the etheric/rhythmic organization",
+          "review_status": "indexed_selected_English_passage",
+          "german_status": "full_German_collation_pending"
+        },
+        {
+          "id": "lung-314-pm",
+          "ga": "314",
+          "title": "Medical lecture, afternoon",
+          "cue": "27 October 1922, §7",
+          "url": "https://rsarchive.org/Lectures/GA314/English/MP1986/19221027p01.html",
+          "context": "Lung shaping through kidney-liver and head polarities",
+          "review_status": "indexed_selected_English_passage",
+          "german_status": "full_German_collation_pending"
+        },
+        {
+          "id": "lung-316",
+          "ga": "316",
+          "title": "Young Doctors lecture",
+          "cue": "7 January 1924, §7",
+          "url": "https://rsarchive.org/Lectures/YoungDoctors/19240107p01.html",
+          "context": "Air and sound processes in attributed lung formation",
+          "review_status": "indexed_selected_English_passage",
+          "german_status": "full_German_collation_pending"
+        },
+        {
+          "id": "lung-313",
+          "ga": "313",
+          "title": "Medical lecture",
+          "cue": "13 April 1921, §§2–3",
+          "url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210413.html",
+          "context": "Physical/etheric interplay and head/metabolic rhythmic polarity",
+          "review_status": "indexed_selected_English_passage",
+          "german_status": "full_German_collation_pending"
+        },
+        {
+          "id": "lung-205",
+          "ga": "205",
+          "title": "Lecture on inner organs",
+          "cue": "2 July 1921, §§5, 7, 21",
+          "url": "https://rsarchive.org/Lectures/GA205/English/SOL/19210702p01.html",
+          "context": "Abstract memory, future head imagery and earth-element affinity",
+          "review_status": "indexed_selected_English_passage",
+          "german_status": "full_German_collation_pending"
+        },
+        {
+          "id": "lung-128",
+          "ga": "128",
+          "title": "An Occult Physiology, Lecture IV",
+          "cue": "23 March 1911, §§8, 13, 15",
+          "url": "https://rsarchive.org/Lectures/GA128/English/SOL/19110323p01.html",
+          "context": "Breathing/digestion polarity and provisional inner-Mercury analogy",
+          "review_status": "indexed_selected_English_passage",
+          "german_status": "full_German_collation_pending"
+        },
+        {
+          "id": "lung-102",
+          "ga": "102",
+          "title": "Lecture on the Prometheus myth",
+          "cue": "6 January 1908, §§29–30",
+          "url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080106p01.html",
+          "context": "Outer-exchange lung and inward-binding liver interpretation",
+          "review_status": "indexed_selected_English_passage",
+          "german_status": "full_German_collation_pending"
+        },
+        {
+          "id": "lung-102-recap",
+          "ga": "102",
+          "title": "Earth recapitulation account",
+          "cue": "16 March 1908, §12",
+          "url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080316p01.html",
+          "context": "Early respiratory process as air enters Earth recapitulation, not the modern lung",
+          "review_status": "indexed_selected_English_passage",
+          "german_status": "full_German_collation_pending"
+        },
+        {
+          "id": "lung-317",
+          "ga": "317",
+          "title": "Curative Education lecture",
+          "cue": "27 June 1924, §§12–13",
+          "url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240627.html",
+          "context": "Historically proposed organ entrapment and epilepsy account; clinically unsupported",
+          "review_status": "indexed_selected_English_passage",
+          "german_status": "full_German_collation_pending"
+        }
+      ],
+      "dossier_url": "organs.html?organ=organ-lungs"
+    },
+    {
+      "id": "organ-brain",
+      "slug": "brain",
+      "title": "The brain",
+      "subtitle": "Head · thinking · organismic polarity",
+      "one_liner": "Steiner relates the brain and head to sensory life, thinking, the human I and several distinct cosmic or developmental interpretations.",
+      "intro": "His account alternates between the physical brain, the head as a broader organization, a spiritual theory of thought, and symbolic correspondences. The Atlas keeps those targets distinct.",
+      "keywords": [
+        "Head",
+        "Thinking",
+        "Nerve-sense",
+        "I organization",
+        "World ether",
+        "Formative forces"
+      ],
+      "quick_takeaways": [
+        {
+          "title": "Head is not the whole nerve-sense system",
+          "body": "GA 313 places nerve-sense activity especially in the head, while saying the wider activity extends throughout the body.",
+          "sources": [
+            "brain-313-1"
+          ],
+          "type": "source_explanation"
+        },
+        {
+          "title": "The brain as a thought mirror is Steiner's claim",
+          "body": "GA 317 proposes that the brain reflects preexisting world-ether thoughts into ordinary mental images. This is not an established neuroscience theory.",
+          "sources": [
+            "brain-317-2"
+          ],
+          "type": "source_explanation"
+        },
+        {
+          "title": "Formative contexts are multiple",
+          "body": "GA 128 proposes older brain/spinal-cord force history; GA 102 associates the forebrain with I-related development. Neither alone yields a complete cosmic chronology.",
+          "sources": [
+            "brain-128-1",
+            "brain-102-i"
+          ],
+          "type": "source_explanation"
+        }
+      ],
+      "body": {
+        "note": "The brain lies in the skull and is the central organ for neural information processing, perception, movement, cognition and bodily regulation. The anatomical brain is not identical to Steiner's whole-head or etheric-astral conceptual categories.",
+        "cards": [
+          {
+            "title": "A protected physical organ",
+            "body": "Brain and spinal cord form the central nervous system and are protected by skull and vertebral structures.",
+            "sources": [],
+            "type": "modern_anatomy"
+          },
+          {
+            "title": "Head and sensory organization",
+            "body": "Steiner's threefold account centers nerve-sense organization in the head, yet does not restrict it solely to the skull.",
+            "sources": [
+              "brain-313-1"
+            ],
+            "type": "source_explanation"
+          },
+          {
+            "title": "Brain and spinal cord imagery",
+            "body": "GA 128 describes the brain as a transformed spinal-cord-like formation within his evolutionary force account; this is not a modern anatomical phylogeny.",
+            "sources": [
+              "brain-128-1"
+            ],
+            "type": "source_explanation"
+          }
+        ]
+      },
+      "interpretation": {
+        "intro": "The primary texts distinguish the human I, astral and etheric organization from the physical brain. These are spiritual-scientific assertions, not independently demonstrated neural mechanisms.",
+        "cards": [
+          {
+            "title": "Head as an imprint",
+            "body": "GA 313 presents the head as bearing an imprint of I, astral and etheric organization while physical forces are emphasized.",
+            "sources": [
+              "brain-313-1"
+            ],
+            "type": "source_explanation"
+          },
+          {
+            "title": "Warmth and light ether",
+            "body": "A subsequent lecture claims that the head is relatively open to warmth and light ether compared with chemical and life ether.",
+            "sources": [
+              "brain-313-2"
+            ],
+            "type": "source_explanation"
+          },
+          {
+            "title": "The brain as a reflecting instrument",
+            "body": "GA 317 says the brain and nerves reflect world-ether thoughts; it also offers an unvalidated breakdown theory of neural tissue.",
+            "sources": [
+              "brain-317-2"
+            ],
+            "type": "source_explanation"
+          },
+          {
+            "title": "Forebrain and I activity",
+            "body": "GA 102 describes the forebrain as an expression of the I's work upon the astral organization across incarnational development.",
+            "sources": [
+              "brain-102-i"
+            ],
+            "type": "source_explanation"
+          }
+        ]
+      },
+      "evolution": {
+        "lead": "These stages concern whole cosmic evolution, individual incarnations and present cognition. No claim is made that a modern brain existed in its current form on Old Moon.",
+        "timeline": [
+          {
+            "stage": "Old Moon interpretation",
+            "kind": "earlier_embodiment",
+            "title": "Wisdom imprint, not modern cortex",
+            "body": "GA 102 attributes traces of wisdom in bone, heart and brain to Old Moon group-soul activity; it is not an isolated anatomical brain-origin statement.",
+            "sources": [
+              "brain-102-moon"
+            ]
+          },
+          {
+            "stage": "Successive incarnations",
+            "kind": "human_development",
+            "title": "I activity and the forebrain",
+            "body": "Steiner describes the forebrain in terms of the I acting on astral organization across life development.",
+            "sources": [
+              "brain-102-i"
+            ]
+          },
+          {
+            "stage": "Present Earth thinking",
+            "kind": "current_organization",
+            "title": "Nerve-sense and the thought mirror",
+            "body": "GA 110/317 give present brain-mediated consciousness a distinct role, with GA 317's world-ether theory remaining spiritual speculation.",
+            "sources": [
+              "brain-110",
+              "brain-317-2"
+            ]
+          },
+          {
+            "stage": "Future images",
+            "kind": "claimed_future_relation",
+            "title": "Connections from organs to later brain qualities",
+            "body": "GA 205 links liver interiors to a supposed future inner brain disposition, rather than to a verified organ-growth mechanism.",
+            "sources": [
+              "brain-205"
+            ]
+          }
+        ],
+        "compare": {
+          "left": {
+            "label": "Old Moon setting",
+            "detail": "Attributed wisdom imprint on multiple organs",
+            "sources": [
+              "brain-102-moon"
+            ]
+          },
+          "right": {
+            "label": "Incarnation process",
+            "detail": "I-related forebrain development",
+            "sources": [
+              "brain-102-i"
+            ]
+          },
+          "conclusion": "An Old Moon wisdom-imprint claim and a successive-incarnation I-account refer to different temporal and causal contexts."
+        }
+      },
+      "agencies": {
+        "intro": "Named group souls, human constitutional members and ordinary bodily organization must not be represented as one homogeneous list of organ-building spiritual hierarchies.",
+        "rows": [
+          {
+            "agent": "Old Moon group souls (Steiner's account)",
+            "role": "Attributed wisdom imprint",
+            "target": "Brain, bones and heart collectively",
+            "stage": "Old Moon",
+            "sources": [
+              "brain-102-moon"
+            ],
+            "caveat": "This does not establish an exclusive named builder for the modern brain."
+          },
+          {
+            "agent": "Human I and astral organization",
+            "role": "Purported formative activity",
+            "target": "Forebrain across successive incarnations",
+            "stage": "Human development",
+            "sources": [
+              "brain-102-i"
+            ],
+            "caveat": "The human I is not a named separate hierarchy."
+          },
+          {
+            "agent": "No exclusive present-brain builder established",
+            "role": "Head/nerve-sense interplay",
+            "target": "Present sensory and bodily organization",
+            "stage": "Present Earth",
+            "sources": [
+              "brain-313-1"
+            ],
+            "caveat": "Head organization is not identical to the physical brain alone."
+          }
+        ]
+      },
+      "connections": {
+        "intro": "An individual edge may link the brain, the wider head, or another system. Read its scoped text and source before inferring a causal equivalence.",
+        "nodes": [
+          {
+            "label": "The I",
+            "detail": "GA 102 presents the forebrain as related to the I acting on astral organization.",
+            "sources": [
+              "brain-102-i"
+            ],
+            "relation": "human_member_relation"
+          },
+          {
+            "label": "Nerve-sense",
+            "detail": "GA 313 locates nerve-sense processes especially in the head but also throughout the body.",
+            "sources": [
+              "brain-313-1"
+            ],
+            "relation": "system_relation"
+          },
+          {
+            "label": "Spinal cord",
+            "detail": "GA 128 imagines an older brain-forming history through a transformed spinal cord.",
+            "sources": [
+              "brain-128-1"
+            ],
+            "relation": "evolutionary_analogy"
+          },
+          {
+            "label": "Liver",
+            "detail": "GA 128 connects a forebrain region and liver through an inner tin/Jupiter correspondence; GA 205 also offers a future-life image.",
+            "sources": [
+              "brain-128-8",
+              "brain-205"
+            ],
+            "relation": "symbolic_correspondence"
+          },
+          {
+            "label": "Spleen",
+            "detail": "GA 128 links posterior head and spleen via lead/Saturn correspondences.",
+            "sources": [
+              "brain-128-8"
+            ],
+            "relation": "symbolic_correspondence"
+          }
+        ]
+      },
+      "questions": [
+        {
+          "title": "Brain or whole head?",
+          "body": "Many passages concern the head/nerve-sense system, not a discrete anatomical brain function. Each source must preserve its actual target.",
+          "sources": [
+            "brain-313-1",
+            "brain-128-1"
+          ],
+          "type": "research_question"
+        },
+        {
+          "title": "How literal is the thought-mirror account?",
+          "body": "GA 317 attributes thought to a world-ether process and nerves to breakdown; these are historically significant but unvalidated by neuroscience.",
+          "sources": [
+            "brain-317-2"
+          ],
+          "type": "clinical_caution"
+        },
+        {
+          "title": "Who did what in Old Moon evolution?",
+          "body": "The GA 102 group-soul image requires staged, cross-lecture German examination; it does not identify one exclusive modern-brain maker.",
+          "sources": [
+            "brain-102-moon"
+          ],
+          "type": "research_question"
+        },
+        {
+          "title": "What is still incomplete?",
+          "body": "Additional lectures, exact organ-versus-system targeting, independent review and comprehensive original-German collation remain outstanding.",
+          "sources": [],
+          "type": "research_gap"
+        }
+      ],
+      "sources": [
+        {
+          "id": "brain-128-1",
+          "ga": "128",
+          "title": "An Occult Physiology, Lecture I",
+          "cue": "20 March 1911, §§6–12",
+          "url": "https://rsarchive.org/Lectures/GA128/English/SOL/19110320p01.html",
+          "context": "Brain/spinal-cord morphology and older formative history in Steiner's account",
+          "review_status": "indexed_selected_English_passage",
+          "german_status": "full_German_collation_pending"
+        },
+        {
+          "id": "brain-313-1",
+          "ga": "313",
+          "title": "Medical lecture",
+          "cue": "11 April 1921, §§4–6, 17",
+          "url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210411.html",
+          "context": "Nerve-sense/head organization, alleged supersensible imprints and head-mediated differentiation",
+          "review_status": "indexed_selected_English_passage",
+          "german_status": "full_German_collation_pending"
+        },
+        {
+          "id": "brain-313-2",
+          "ga": "313",
+          "title": "Medical lecture",
+          "cue": "12 April 1921, §§2, 7–9",
+          "url": "https://rsarchive.org/Lectures/GA313/English/SOL/19210412.html",
+          "context": "Warmth/light ether and head organization in Steiner's medical theory",
+          "review_status": "indexed_selected_English_passage",
+          "german_status": "full_German_collation_pending"
+        },
+        {
+          "id": "brain-317-2",
+          "ga": "317",
+          "title": "Curative Education lecture",
+          "cue": "26 June 1924, §§11, 13–15",
+          "url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240626.html",
+          "context": "Theory of world-ether thoughts and brain as reflector; unvalidated physiology",
+          "review_status": "indexed_selected_English_passage",
+          "german_status": "full_German_collation_pending"
+        },
+        {
+          "id": "brain-128-8",
+          "ga": "128",
+          "title": "An Occult Physiology, Lecture VIII",
+          "cue": "28 March 1911, §§23–24",
+          "url": "https://rsarchive.org/Lectures/GA128/English/SOL/19110328p01.html",
+          "context": "Parallel head/inner-organ development and symbolic head–organ correspondence",
+          "review_status": "indexed_selected_English_passage",
+          "german_status": "full_German_collation_pending"
+        },
+        {
+          "id": "brain-102-moon",
+          "ga": "102",
+          "title": "Lecture on Old Moon and wisdom",
+          "cue": "24 March 1908, §8",
+          "url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080324p01.html",
+          "context": "Spiritual wisdom imprint associated with bones, heart and brain; Old Moon context",
+          "review_status": "indexed_selected_English_passage",
+          "german_status": "full_German_collation_pending"
+        },
+        {
+          "id": "brain-102-i",
+          "ga": "102",
+          "title": "Lecture on successive incarnations",
+          "cue": "16 May 1908, §10",
+          "url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080516p01.html",
+          "context": "Forebrain as an expression of I-related activity on astral organization",
+          "review_status": "indexed_selected_English_passage",
+          "german_status": "full_German_collation_pending"
+        },
+        {
+          "id": "brain-205",
+          "ga": "205",
+          "title": "Lecture on inner organs",
+          "cue": "2 July 1921, §10",
+          "url": "https://rsarchive.org/Lectures/GA205/English/SOL/19210702p01.html",
+          "context": "Image of future inner brain disposition linked to liver interior",
+          "review_status": "indexed_selected_English_passage",
+          "german_status": "full_German_collation_pending"
+        },
+        {
+          "id": "brain-110",
+          "ga": "110",
+          "title": "Spiritual Hierarchies, Lecture IX",
+          "cue": "18 April 1909, §1",
+          "url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090418p01.html",
+          "context": "Earth-period significance of present brain-mediated thinking",
+          "review_status": "indexed_selected_English_passage",
+          "german_status": "full_German_collation_pending"
+        }
+      ],
+      "dossier_url": "organs.html?organ=organ-brain"
+    },
+    {
+      "id": "organ-kidneys",
+      "slug": "kidneys",
+      "title": "The kidneys",
+      "subtitle": "Filtration · astral interpretation · inner Venus",
+      "one_liner": "Steiner associates kidney activity with respiratory–digestive balance, astral organization, a Venus analogy and future temperament images.",
+      "intro": "This guide separates actual renal excretion from Steiner's spiritual correspondences, claims about childhood head processes and historical treatments.",
+      "keywords": [
+        "Renal function",
+        "Astral organization",
+        "Inner Venus",
+        "Head relation",
+        "Elemental air",
+        "Self-experience"
+      ],
+      "quick_takeaways": [
+        {
+          "title": "A balancing theory",
+          "body": "GA 128 assigns kidneys an unconscious harmonization of respiration and digestion as well as removal of excess products.",
+          "sources": [
+            "kidney-128-4"
+          ],
+          "type": "source_explanation"
+        },
+        {
+          "title": "Venus is a label of correspondence",
+          "body": "In GA 128 the kidney force-system is provisionally termed inner Venus; that is not an account of anatomical origin on the present planet.",
+          "sources": [
+            "kidney-128-4"
+          ],
+          "type": "source_explanation"
+        },
+        {
+          "title": "Astral and head relations differ",
+          "body": "GA 314 associates the kidney system with astral processes and with childhood head reflections; the passage does not certify an organ-specific hierarchy builder.",
+          "sources": [
+            "kidney-314-am",
+            "kidney-314-pm"
+          ],
+          "type": "source_explanation"
+        }
+      ],
+      "body": {
+        "note": "The kidneys are paired organs high in the posterior abdomen, not directly illustrated in the Atlas's current frontal medical plate. They filter blood, regulate fluid/electrolyte balance and produce urine. These are modern physiological functions, unlike the historical spiritual theories below.",
+        "cards": [
+          {
+            "title": "Not pictured on this front view",
+            "body": "The kidneys lie toward the back of the upper abdomen, one on either side of the spine. Their functions include filtration and regulation of fluid, electrolytes and blood pressure.",
+            "sources": [],
+            "type": "modern_anatomy"
+          },
+          {
+            "title": "Renal activity and bodily poles",
+            "body": "Steiner assigns kidneys a harmonizing role between digestive and respiratory processes in GA 128.",
+            "sources": [
+              "kidney-128-4"
+            ],
+            "type": "source_explanation"
+          },
+          {
+            "title": "Physical organ and force system",
+            "body": "Steiner distinguishes the physically secretory kidney from attributed etheric and astral force-processes in GA 128.",
+            "sources": [
+              "kidney-128-5"
+            ],
+            "type": "source_explanation"
+          }
+        ]
+      },
+      "interpretation": {
+        "intro": "Steiner's claims about astral kidney forces, psychological dispositions and treatments must be read as historical spiritual-scientific interpretations, not proven nephrology or psychiatry.",
+        "cards": [
+          {
+            "title": "Astral organization",
+            "body": "GA 314 places the kidney system into relation with the astral organization.",
+            "sources": [
+              "kidney-314-am"
+            ],
+            "type": "source_explanation"
+          },
+          {
+            "title": "Venus correspondence",
+            "body": "GA 128 provisionally calls the kidney system an inner Venus and later places it in a Venus/copper analogy.",
+            "sources": [
+              "kidney-128-4",
+              "kidney-128-8"
+            ],
+            "type": "source_explanation"
+          },
+          {
+            "title": "Children and the head",
+            "body": "GA 314 describes kidney–astral activity being reflected through the developing head.",
+            "sources": [
+              "kidney-314-pm"
+            ],
+            "type": "source_explanation"
+          },
+          {
+            "title": "Temperament image",
+            "body": "GA 205 links renal processes to allegedly lasting emotional habits and future head disposition.",
+            "sources": [
+              "kidney-205"
+            ],
+            "type": "source_explanation"
+          }
+        ]
+      },
+      "evolution": {
+        "lead": "Kidney-specific first origins on Old Saturn, Old Sun or Old Moon have not been established by the selected citations; Venus is a correspondence, not a planetary-building stage.",
+        "timeline": [
+          {
+            "stage": "Early cosmic origin",
+            "kind": "research_gap",
+            "title": "Specific organ rudiment unestablished",
+            "body": "The current selected passages do not give a verified claim of the kidneys' first creation by a named hierarchy on a particular cosmic embodiment.",
+            "sources": []
+          },
+          {
+            "stage": "Present planetary analogy",
+            "kind": "symbolic_correspondence",
+            "title": "Inner Venus",
+            "body": "GA 128 uses Venus terminology as a present organ-force correspondence, not the chronological birth of the kidneys.",
+            "sources": [
+              "kidney-128-4"
+            ]
+          },
+          {
+            "stage": "Childhood development",
+            "kind": "life_stage",
+            "title": "Astral–head reflection",
+            "body": "GA 314 gives an interpretation connecting the kidney/astral organization to childhood head development.",
+            "sources": [
+              "kidney-314-pm"
+            ]
+          },
+          {
+            "stage": "Future-life image",
+            "kind": "claimed_future_relation",
+            "title": "Emotional temperament",
+            "body": "GA 205 links the inner kidney system with the disposition of future temperament.",
+            "sources": [
+              "kidney-205"
+            ]
+          }
+        ],
+        "compare": {
+          "left": {
+            "label": "Venus in GA 128",
+            "detail": "Planetary-force analogy",
+            "sources": [
+              "kidney-128-4"
+            ]
+          },
+          "right": {
+            "label": "Air in GA 205",
+            "detail": "Separate elemental correspondence",
+            "sources": [
+              "kidney-205"
+            ]
+          },
+          "conclusion": "Inner Venus and an air-element association do not identify one literal cosmic origin or a proven physical process."
+        }
+      },
+      "agencies": {
+        "intro": "An astral organization, an esoteric planetary analogy and a named hierarchy are distinct kinds of reference. No unique kidney-building angelic rank is established here.",
+        "rows": [
+          {
+            "agent": "Astral organization (human member)",
+            "role": "Attributed kidney relationship",
+            "target": "Kidney system and the developing head",
+            "stage": "Present / childhood",
+            "sources": [
+              "kidney-314-am",
+              "kidney-314-pm"
+            ],
+            "caveat": "A human constituent member is not an exclusive named hierarchy."
+          },
+          {
+            "agent": "No uniquely identified external hierarchy",
+            "role": "Unconscious organismic balancing",
+            "target": "Digestive and respiratory polarities",
+            "stage": "Present organization",
+            "sources": [
+              "kidney-128-4"
+            ],
+            "caveat": "Do not turn inner Venus into the name of a spiritual builder."
+          },
+          {
+            "agent": "Therapeutic eurythmy claims (Steiner)",
+            "role": "Historically proposed gesture effect",
+            "target": "Urination or kidney activity",
+            "stage": "1921 historical therapy",
+            "sources": [
+              "kidney-315"
+            ],
+            "caveat": "Not demonstrated as effective treatment; not a recommended medical intervention."
+          }
+        ]
+      },
+      "connections": {
+        "intro": "These are different relational categories; clicking a node reveals the exact source rather than an unqualified one-to-one equivalence.",
+        "nodes": [
+          {
+            "label": "Breath",
+            "detail": "Kidneys are said to harmonize respiratory and digestive activity.",
+            "sources": [
+              "kidney-128-4"
+            ],
+            "relation": "organismic_polarity"
+          },
+          {
+            "label": "Venus",
+            "detail": "The supposed inner-Venus force correspondence is part of GA 128's planetary language.",
+            "sources": [
+              "kidney-128-4"
+            ],
+            "relation": "symbolic_correspondence"
+          },
+          {
+            "label": "Astral",
+            "detail": "GA 314 associates kidney system activity with the astral organization.",
+            "sources": [
+              "kidney-314-am"
+            ],
+            "relation": "human_member_relation"
+          },
+          {
+            "label": "Head",
+            "detail": "Kidney–astral activity is attributed a childhood head reflection.",
+            "sources": [
+              "kidney-314-pm"
+            ],
+            "relation": "developmental_relation"
+          },
+          {
+            "label": "Temperament",
+            "detail": "GA 205 describes a karmic future-temperament image related to kidney activity.",
+            "sources": [
+              "kidney-205"
+            ],
+            "relation": "claimed_future_relation"
+          }
+        ]
+      },
+      "questions": [
+        {
+          "title": "What is the actual cosmic origin?",
+          "body": "No complete first-rudiment history or exclusive named hierarchy builder has been established in the selected ledger; do not fill this gap from the Venus analogy.",
+          "sources": [
+            "kidney-128-4"
+          ],
+          "type": "research_question"
+        },
+        {
+          "title": "How do Venus and air relate?",
+          "body": "The planetary Venus label in GA 128 and the air-element relation in GA 205 come from different symbolic frameworks.",
+          "sources": [
+            "kidney-128-4",
+            "kidney-205"
+          ],
+          "type": "research_question"
+        },
+        {
+          "title": "Are the medical interventions effective?",
+          "body": "GA 315 proposes vowel/consonant movement effects on kidney function and urination; such claims are not established treatments. GA 128 also contains unsafe historical metal-vapor ideas.",
+          "sources": [
+            "kidney-315",
+            "kidney-128-8"
+          ],
+          "type": "clinical_caution"
+        },
+        {
+          "title": "What remains to be verified?",
+          "body": "Full German text and broader cross-corpus comparison, plus claim-by-claim actor identification, remain pending.",
+          "sources": [],
+          "type": "research_gap"
+        }
+      ],
+      "sources": [
+        {
+          "id": "kidney-128-4",
+          "ga": "128",
+          "title": "An Occult Physiology, Lecture IV",
+          "cue": "23 March 1911, §§10–13",
+          "url": "https://rsarchive.org/Lectures/GA128/English/SOL/19110323p01.html",
+          "context": "Renal balancing of respiratory/digestive processes; inner-Venus analogy",
+          "review_status": "indexed_selected_English_passage",
+          "german_status": "full_German_collation_pending"
+        },
+        {
+          "id": "kidney-128-5",
+          "ga": "128",
+          "title": "An Occult Physiology, Lecture V",
+          "cue": "24 March 1911, §§2, 9",
+          "url": "https://rsarchive.org/Lectures/GA128/English/SOL/19110324p01.html",
+          "context": "Supersensible force system and physical renal expression in Steiner's terminology",
+          "review_status": "indexed_selected_English_passage",
+          "german_status": "full_German_collation_pending"
+        },
+        {
+          "id": "kidney-314-am",
+          "ga": "314",
+          "title": "Medical lecture, morning",
+          "cue": "27 October 1922, kidney/nitrogen and astral discussion",
+          "url": "https://rsarchive.org/Lectures/FundAnthro/19221027a01.html",
+          "context": "Attributed kidney-astral organization",
+          "review_status": "indexed_selected_English_passage",
+          "german_status": "full_German_collation_pending"
+        },
+        {
+          "id": "kidney-314-pm",
+          "ga": "314",
+          "title": "Medical lecture, afternoon",
+          "cue": "27 October 1922, §10",
+          "url": "https://rsarchive.org/Lectures/GA314/English/MP1986/19221027p01.html",
+          "context": "Childhood head reflection of kidney/astral activity",
+          "review_status": "indexed_selected_English_passage",
+          "german_status": "full_German_collation_pending"
+        },
+        {
+          "id": "kidney-205",
+          "ga": "205",
+          "title": "Lecture on inner organs",
+          "cue": "2 July 1921, §§12, 21",
+          "url": "https://rsarchive.org/Lectures/GA205/English/SOL/19210702p01.html",
+          "context": "Renal reflection/emotional habits, future temperament and air-element analogy",
+          "review_status": "indexed_selected_English_passage",
+          "german_status": "full_German_collation_pending"
+        },
+        {
+          "id": "kidney-317",
+          "ga": "317",
+          "title": "Curative Education lecture",
+          "cue": "25 June 1924, §8",
+          "url": "https://rsarchive.org/Lectures/GA317/English/SOL/19240625.html",
+          "context": "Kidney/intestine interplay in the head within a historical account",
+          "review_status": "indexed_selected_English_passage",
+          "german_status": "full_German_collation_pending"
+        },
+        {
+          "id": "kidney-315",
+          "ga": "315",
+          "title": "Curative eurythmy medical lecture",
+          "cue": "15 April 1921, §§2, 6",
+          "url": "https://rsarchive.org/Lectures/GA315/English/SOL/19210415.html",
+          "context": "Unproven B/P and F/V movement therapies asserted to regulate kidney/urination",
+          "review_status": "indexed_selected_English_passage",
+          "german_status": "full_German_collation_pending"
+        },
+        {
+          "id": "kidney-128-8",
+          "ga": "128",
+          "title": "An Occult Physiology, Lecture VIII",
+          "cue": "28 March 1911, §§17, 21, 26",
+          "url": "https://rsarchive.org/Lectures/GA128/English/SOL/19110328p01.html",
+          "context": "Excretion/self-experience, Venus/copper symbolism and hazardous historical metal-vapor idea",
+          "review_status": "indexed_selected_English_passage",
+          "german_status": "full_German_collation_pending"
+        }
+      ],
+      "dossier_url": "organs.html?organ=organ-kidneys"
+    },
+    {
+      "id": "organ-spleen",
+      "slug": "spleen",
+      "title": "The spleen",
+      "subtitle": "Rhythm · nourishment · inner Saturn",
+      "one_liner": "In GA 128 Steiner assigns the spleen a mediating role between irregular meals and blood rhythms and treats its physical and supersensible aspects as distinct.",
+      "intro": "The existing dossier is less developed than the Heart, Liver, Brain or Lungs. This is a deliberately bounded GA 128 guide with five closely related passages—not a complete account of spleen origins or spiritual builders.",
+      "keywords": [
+        "Meal rhythms",
+        "Blood",
+        "Inner Saturn",
+        "Force system",
+        "Spleen removal",
+        "Nourishment"
+      ],
+      "quick_takeaways": [
+        {
+          "title": "Meals and rhythm",
+          "body": "GA 128 III portrays a supposed splenic rhythm as mediating between irregular dietary timing and blood activity.",
+          "sources": [
+            "spleen-128-3"
+          ],
+          "type": "source_explanation"
+        },
+        {
+          "title": "Saturn is a qualified analogy",
+          "body": "GA 128 II provisionally calls the spleen an inner Saturn; that is not a claim that it first formed on Old Saturn.",
+          "sources": [
+            "spleen-128-2"
+          ],
+          "type": "source_explanation"
+        },
+        {
+          "title": "Physical vs. supersensible spleen",
+          "body": "GA 128 IV–V explicitly separates the anatomical spleen from what Steiner calls a persistent supersensible force system.",
+          "sources": [
+            "spleen-128-4",
+            "spleen-128-5"
+          ],
+          "type": "source_explanation"
+        }
+      ],
+      "body": {
+        "note": "The spleen is normally located in the upper left abdomen near the stomach, mostly beneath the ribs. It filters blood and performs important immune functions. It is not separately visible in the current frontal illustration, so no misleading hotspot is placed over another structure.",
+        "cards": [
+          {
+            "title": "Position and modern role",
+            "body": "The spleen is in the left upper abdomen and participates in immune surveillance, blood filtering and red-cell recycling. This is modern anatomical orientation.",
+            "sources": [],
+            "type": "modern_anatomy"
+          },
+          {
+            "title": "Food rhythm in Steiner's account",
+            "body": "GA 128 III gives the spleen an alleged mediation between food intake and circulating blood rhythm.",
+            "sources": [
+              "spleen-128-3"
+            ],
+            "type": "source_explanation"
+          },
+          {
+            "title": "Physical tissue versus force image",
+            "body": "GA 128 V argues for a supersensible pattern expressed through the physical spleen, a claim not validated by physiology.",
+            "sources": [
+              "spleen-128-5"
+            ],
+            "type": "source_explanation"
+          }
+        ]
+      },
+      "interpretation": {
+        "intro": "The splenic teachings indexed here are concentrated in GA 128. They describe a spiritual-force system, a Saturn analogy and alleged dietary and blood-rhythm relationships.",
+        "cards": [
+          {
+            "title": "Rhythmic light image",
+            "body": "Steiner portrays the inwardly perceived spleen as a luminous rhythm whose expansion and contraction relate to meals.",
+            "sources": [
+              "spleen-128-3"
+            ],
+            "type": "source_explanation"
+          },
+          {
+            "title": "Inner Saturn",
+            "body": "The splenic force process is provisionally linked to Saturn-like self-regulation. It is a correspondence, not organ creation on the celestial planet.",
+            "sources": [
+              "spleen-128-2",
+              "spleen-128-3"
+            ],
+            "type": "source_explanation"
+          },
+          {
+            "title": "Persistence after removal",
+            "body": "Steiner claims the supposed splenic supersensible activity might remain after splenectomy, while explicitly warning against transferring this assertion to every organ.",
+            "sources": [
+              "spleen-128-4",
+              "spleen-128-5"
+            ],
+            "type": "source_explanation"
+          },
+          {
+            "title": "Spleen and head analogy",
+            "body": "GA 128 VIII connects posterior head/occiput with spleen through lead–Saturn symbolism.",
+            "sources": [
+              "spleen-128-8"
+            ],
+            "type": "source_explanation"
+          }
+        ]
+      },
+      "evolution": {
+        "lead": "This dossier's selected material does not establish an organ-specific Old Saturn-to-Earth creation sequence. 'Inner Saturn' is symbolic terminology, not evidence of physical splenic genesis.",
+        "timeline": [
+          {
+            "stage": "Cosmic first beginning",
+            "kind": "research_gap",
+            "title": "No unique first-rudiment claim certified",
+            "body": "The GA 128 material selected here does not identify the precise first evolutionary condition or a named group of beings that exclusively built the spleen.",
+            "sources": []
+          },
+          {
+            "stage": "Planetary imagery",
+            "kind": "symbolic_correspondence",
+            "title": "Provisional inner Saturn",
+            "body": "GA 128 II uses Saturn as a label for the spleen's alleged inner-world force relation, not a developmental date.",
+            "sources": [
+              "spleen-128-2"
+            ]
+          },
+          {
+            "stage": "Present organism",
+            "kind": "current_organization",
+            "title": "Meal and blood rhythms",
+            "body": "GA 128 III attributes a moderating role to the splenic force system in the discrepancy between eating and blood processes.",
+            "sources": [
+              "spleen-128-3"
+            ]
+          },
+          {
+            "stage": "Material and force-pattern contrast",
+            "kind": "formative_interpretation",
+            "title": "Physical spleen versus enduring process",
+            "body": "GA 128 IV–V describes a hypothetical splenic force organization that does not necessarily end when the organ is removed.",
+            "sources": [
+              "spleen-128-4",
+              "spleen-128-5"
+            ]
+          }
+        ],
+        "compare": {
+          "left": {
+            "label": "Inner Saturn label",
+            "detail": "Present spiritual correspondence (GA 128 II)",
+            "sources": [
+              "spleen-128-2"
+            ]
+          },
+          "right": {
+            "label": "Old Saturn embodiment",
+            "detail": "No first-rudiment claim established in this selected dossier",
+            "sources": []
+          },
+          "conclusion": "The same planetary word must not be mistaken for proof that a modern organ originated in the corresponding cosmic embodiment."
+        }
+      },
+      "agencies": {
+        "intro": "The passages distinguish an alleged formative force system, the physical organ and dietary rhythms. They do not establish a single named builder of the spleen.",
+        "rows": [
+          {
+            "agent": "No exclusively named external hierarchy",
+            "role": "Provisional inner Saturn relation",
+            "target": "Attributed spleen-force system",
+            "stage": "Present correspondence",
+            "sources": [
+              "spleen-128-2"
+            ],
+            "caveat": "Saturn is a conceptual analogy here, not a hierarchy."
+          },
+          {
+            "agent": "Etheric/astral organization (human members)",
+            "role": "Supposed physical organ expression",
+            "target": "Spleen and force-activity",
+            "stage": "Present organ theory",
+            "sources": [
+              "spleen-128-4",
+              "spleen-128-5"
+            ],
+            "caveat": "Supersensible bodies are theoretical anthroposophical members, not established anatomic components."
+          },
+          {
+            "agent": "Human food-intake irregularity",
+            "role": "Attributed rhythms and moderation",
+            "target": "Spleen and blood rhythms",
+            "stage": "Present organism",
+            "sources": [
+              "spleen-128-3"
+            ],
+            "caveat": "A dietary behavior is not itself a spiritual being."
+          }
+        ]
+      },
+      "connections": {
+        "intro": "These five links use concepts already indexed in GA 128 and should be read as separate metaphysical or functional assertions.",
+        "nodes": [
+          {
+            "label": "Meals",
+            "detail": "An alleged splenic rhythm is said to compensate for irregular meal times.",
+            "sources": [
+              "spleen-128-3"
+            ],
+            "relation": "claimed_meal_rhythm"
+          },
+          {
+            "label": "Blood",
+            "detail": "Steiner relates the splenic rhythmic light-image to the rhythmic activity of blood.",
+            "sources": [
+              "spleen-128-3"
+            ],
+            "relation": "claimed_blood_relation"
+          },
+          {
+            "label": "Saturn",
+            "detail": "The splenic system is called inner Saturn as a provisional analogy.",
+            "sources": [
+              "spleen-128-2"
+            ],
+            "relation": "symbolic_correspondence"
+          },
+          {
+            "label": "Liver–gall",
+            "detail": "Steiner discusses spleen with liver and gall in ascending nutritive processes.",
+            "sources": [
+              "spleen-128-8"
+            ],
+            "relation": "organ_process_relation"
+          },
+          {
+            "label": "Occiput",
+            "detail": "An esoteric lead/Saturn mapping links posterior head and spleen.",
+            "sources": [
+              "spleen-128-8"
+            ],
+            "relation": "symbolic_correspondence"
+          }
+        ]
+      },
+      "questions": [
+        {
+          "title": "Is inner Saturn the Old Saturn origin?",
+          "body": "No such inference is supported: a provisional correspondence in GA 128 is not the same predicate as a cosmic first-rudiment narrative.",
+          "sources": [
+            "spleen-128-2"
+          ],
+          "type": "research_question"
+        },
+        {
+          "title": "Does a force system survive surgical removal?",
+          "body": "Steiner makes that spiritual claim in GA 128, but it is not demonstrated physiology, and the passage does not provide medical advice about splenectomy.",
+          "sources": [
+            "spleen-128-4",
+            "spleen-128-5"
+          ],
+          "type": "clinical_caution"
+        },
+        {
+          "title": "Which beings shaped the spleen?",
+          "body": "The current dossier has no exclusive named hierarchy assignment; stronger claims would require independent primary-source audit.",
+          "sources": [
+            "spleen-128-5"
+          ],
+          "type": "research_question"
+        },
+        {
+          "title": "What is missing?",
+          "body": "A broader GA 313–317 cross-audit for spleen-specific claims, stage-by-stage evolution, German comparison and organ-specific medical context remain unfinished.",
+          "sources": [],
+          "type": "research_gap"
+        }
+      ],
+      "sources": [
+        {
+          "id": "spleen-128-2",
+          "ga": "128",
+          "title": "An Occult Physiology, Lecture II",
+          "cue": "21 March 1911, §11",
+          "url": "https://rsarchive.org/Lectures/GA128/English/SOL/19110321p01.html",
+          "context": "Provisional inner-Saturn correspondence; not primordial Old Saturn",
+          "review_status": "indexed_selected_English_passage",
+          "german_status": "full_German_collation_pending"
+        },
+        {
+          "id": "spleen-128-3",
+          "ga": "128",
+          "title": "An Occult Physiology, Lecture III",
+          "cue": "22 March 1911, §§10–15",
+          "url": "https://rsarchive.org/Lectures/GA128/English/SOL/19110322p01.html",
+          "context": "Rhythmic light-image of spleen and alleged mediation of irregular meals and blood",
+          "review_status": "indexed_selected_English_passage",
+          "german_status": "full_German_collation_pending"
+        },
+        {
+          "id": "spleen-128-4",
+          "ga": "128",
+          "title": "An Occult Physiology, Lecture IV",
+          "cue": "23 March 1911, §§3–6",
+          "url": "https://rsarchive.org/Lectures/GA128/English/SOL/19110323p01.html",
+          "context": "Physical spleen vs attributed supersensible force after removal",
+          "review_status": "indexed_selected_English_passage",
+          "german_status": "full_German_collation_pending"
+        },
+        {
+          "id": "spleen-128-5",
+          "ga": "128",
+          "title": "An Occult Physiology, Lecture V",
+          "cue": "24 March 1911, §§1–4, 8",
+          "url": "https://rsarchive.org/Lectures/GA128/English/SOL/19110324p01.html",
+          "context": "Organ force-pattern imagery and narrow splenectomy qualification",
+          "review_status": "indexed_selected_English_passage",
+          "german_status": "full_German_collation_pending"
+        },
+        {
+          "id": "spleen-128-8",
+          "ga": "128",
+          "title": "An Occult Physiology, Lecture VIII",
+          "cue": "28 March 1911, §§15, 18, 21, 24",
+          "url": "https://rsarchive.org/Lectures/GA128/English/SOL/19110328p01.html",
+          "context": "Nutritional organs, Saturn/lead, occiput correspondence",
+          "review_status": "indexed_selected_English_passage",
+          "german_status": "full_German_collation_pending"
+        }
+      ],
+      "dossier_url": "organs.html?organ=organ-spleen"
+    }
+  ]
+}
