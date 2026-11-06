@@ -49,3 +49,8 @@ Resume publication from this existing source commit/run after the Pages queue re
 ### Publishing retry repair
 
 The user requested a retry. Attempt 2 of run `42259560310` passed assembly/upload but failed immediately because two artifacts named `github-pages` existed in the same run. The publishing workflow now gives each run/attempt a unique artifact name and passes the identical name to the deployment action. This preserves selective triggers and avoids artifact deletion or broader permissions. The workflow repair creates a fresh release of the same reader content.
+
+
+### Release verified
+
+Release commit `63c030cf39160ff70a457e19bd3ed9efac143446` published successfully in run `42261972308`. The public journey reader was checked at https://infinix8.github.io/rudolf-steiner-atlas/atlas/journey.html?path=thinking-to-freedom&step=2. Next-step navigation, opening the Original sources reading layer, and returning to concept 2 of 5 all worked on the public website. The prior publishing block is resolved; the per-attempt artifact naming repair remains in place for future retries.
