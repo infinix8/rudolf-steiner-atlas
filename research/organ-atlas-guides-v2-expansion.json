@@ -219,7 +219,8 @@
             "sources": [
               "lung-314-am"
             ],
-            "relation": "organ_relation"
+            "relation": "organ_relation",
+            "related_guide_id": "organ-heart"
           },
           {
             "label": "Head",
@@ -227,7 +228,8 @@
             "sources": [
               "lung-314-pm"
             ],
-            "relation": "formative_analogy"
+            "relation": "formative_analogy",
+            "related_guide_id": "organ-brain"
           },
           {
             "label": "Mercury",
@@ -618,7 +620,8 @@
               "brain-128-8",
               "brain-205"
             ],
-            "relation": "symbolic_correspondence"
+            "relation": "symbolic_correspondence",
+            "related_guide_id": "organ-liver"
           },
           {
             "label": "Spleen",
@@ -626,7 +629,8 @@
             "sources": [
               "brain-128-8"
             ],
-            "relation": "symbolic_correspondence"
+            "relation": "symbolic_correspondence",
+            "related_guide_id": "organ-spleen"
           }
         ]
       },
@@ -989,7 +993,8 @@
             "sources": [
               "kidney-314-pm"
             ],
-            "relation": "developmental_relation"
+            "relation": "developmental_relation",
+            "related_guide_id": "organ-brain"
           },
           {
             "label": "Temperament",
@@ -1352,7 +1357,8 @@
             "sources": [
               "spleen-128-8"
             ],
-            "relation": "organ_process_relation"
+            "relation": "organ_process_relation",
+            "related_guide_id": "organ-liver"
           },
           {
             "label": "Occiput",
@@ -1360,7 +1366,8 @@
             "sources": [
               "spleen-128-8"
             ],
-            "relation": "symbolic_correspondence"
+            "relation": "symbolic_correspondence",
+            "related_guide_id": "organ-brain"
           }
         ]
       },
