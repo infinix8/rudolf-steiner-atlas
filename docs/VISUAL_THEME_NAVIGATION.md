@@ -44,3 +44,8 @@ Source commit: `a9520ece3e837d18366d050c12c147836b742160`.
 The integrity workflow passed. Pages run `42259560310` assembled and uploaded the website successfully but remained `deployment_queued` until the job's ten-minute timeout cancelled it. The new journey route was not public when checked. This is an incomplete release, not a verified live deployment. No automatic retry was started, to avoid repeated runner usage while the Pages queue remained stalled.
 
 Resume publication from this existing source commit/run after the Pages queue recovers; do not redo the implementation. The exact run is https://github.com/infinix8/rudolf-steiner-atlas/actions/runs/42259560310. The local preview and focused browser checks passed; the full manual smoke suite was not run.
+
+
+### Publishing retry repair
+
+The user requested a retry. Attempt 2 of run `42259560310` passed assembly/upload but failed immediately because two artifacts named `github-pages` existed in the same run. The publishing workflow now gives each run/attempt a unique artifact name and passes the identical name to the deployment action. This preserves selective triggers and avoids artifact deletion or broader permissions. The workflow repair creates a fresh release of the same reader content.
