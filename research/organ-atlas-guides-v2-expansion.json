@@ -1277,7 +1277,8 @@
           "right": {
             "label": "Old Saturn embodiment",
             "detail": "No first-rudiment claim established in this selected dossier",
-            "sources": []
+            "sources": [],
+            "kind": "research_gap"
           },
           "conclusion": "The same planetary word must not be mistaken for proof that a modern organ originated in the corresponding cosmic embodiment."
         }
