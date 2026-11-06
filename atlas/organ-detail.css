@@ -22,3 +22,25 @@
 @media(max-width:680px){.wrap{padding:0 16px}.mast{padding-top:16px;padding-bottom:16px}.top-nav{gap:11px}.top-nav a{font-size:11px}.breadcrumbs{padding:17px 0}.hero{grid-template-columns:1fr;gap:0}.hero-copy{padding:29px 22px 17px}.hero h1{font-size:46px}.subtitle{font-size:21px}.hero-art{border:0;border-top:1px solid #dde6dc;flex-direction:row;gap:16px;justify-content:space-around;padding:7px 16px}.mini-locator{width:110px;height:165px}.art-caption{display:none}.back-map{max-width:145px}.reading-rail{padding:16px 14px;gap:5px;margin:16px 0 28px}.reading-rail strong{font-size:11px}.reading-rail small{font-size:10px}.rail-arrow{font-size:14px}.section-head{display:block}.section-head h2{font-size:28px}.section-head>p{margin-top:9px;font-size:12px}.layer-grid{gap:7px}.layer-tab{min-height:69px;padding:11px 10px}.tab-title{font-size:12px}.tab-sub{font-size:10px}.layer-panel{padding:22px 18px}.panel-header h2{font-size:28px}.panel-intro{font-size:14px}.tile-grid{grid-template-columns:1fr;gap:9px}.info-card{min-height:0}.evo-line{grid-template-columns:1fr;gap:9px}.compare-block{grid-template-columns:1fr}.conn-layout{grid-template-columns:1fr}.orbit-diagram{min-height:320px}.orbit{width:246px;height:246px}.source-entry{grid-template-columns:54px 1fr;gap:10px;padding:13px}.source-ga{font-size:17px}.reader-footer{display:block;padding:18px}.reader-footer .button{margin-top:13px}.agency-table,.agency-table tbody,.agency-table tr,.agency-table td{display:block}.agency-table thead{display:none}.agency-table tr{border:1px solid var(--line);border-radius:12px;margin-bottom:10px;padding:10px}.agency-table td{padding:8px;border:0}.agency-table td:before{content:attr(data-label);display:block;color:#65857d;font-size:10px;font-weight:800;text-transform:uppercase;letter-spacing:.07em}}
 @media(max-width:370px){.hero h1{font-size:40px}.tab-symbol{display:none}.orbit{transform:scale(.86)}.layer-tab{padding:10px 8px}.rail-arrow{display:none}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+
+
+/* DBCLS CC BY 4.0 detailed anatomical locator — replaces childlike hand-drawn mini map */
+.medical-locator{width:min(100%,190px);aspect-ratio:3/5;position:relative;margin:0 auto;flex:none;filter:drop-shadow(0 5px 12px #304b3c12)}
+.medical-locator img{width:100%;height:100%;display:block;object-fit:contain;filter:saturate(.83) contrast(1.04)}
+.locator-focus{position:absolute;width:31px;height:31px;border:3px solid #214b4a;background:#e8cf9c5e;border-radius:50%;box-shadow:0 0 0 5px #ffffffc7,0 3px 10px #24464547;transform:translate(-50%,-50%);z-index:2}
+.organ-heart .locator-focus{left:50.3%;top:32.6%}
+.organ-liver .locator-focus{left:41.5%;top:36.6%}
+.locator-leader{position:absolute;left:68%;top:31%;background:#123f48e9;color:#fff;padding:4px 7px;font-size:10px;font-weight:800;letter-spacing:.1em;border-radius:6px}
+.organ-heart .locator-leader:after{content:"HEART"}
+.organ-liver .locator-leader{top:40%;left:53%}
+.organ-liver .locator-leader:after{content:"LIVER"}
+.art-credit{font-size:10px;line-height:1.45;max-width:220px;text-align:center;color:#667c76;margin:3px 0 9px}
+.art-credit a{color:#315f57}
+@media(max-width:680px){
+  .medical-locator{width:95px;max-width:95px}
+  .locator-focus{width:23px;height:23px;border-width:2px;box-shadow:0 0 0 3px #ffffffc7}
+  .locator-leader{left:69%;top:29%;padding:3px 5px;font-size:8px}
+  .organ-liver .locator-leader{left:52%;top:40%}
+  .hero-art{flex-wrap:wrap}
+  .art-credit{font-size:9px;max-width:150px;order:3}
+}
