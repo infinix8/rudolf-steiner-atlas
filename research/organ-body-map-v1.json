@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
-  "as_of": "2026-11-05",
+  "as_of": "2026-11-06",
   "view": "anatomy_plate_with_source_aligned_label_callouts",
-  "scope": "CC BY 4.0 DBCLS medical SVG with eight illustrated organ callouts (including thyroid and bladder); two nondrawn organs (kidneys, spleen) stay accessible by explicit list links. The diagram is for navigation, not medical diagnosis or evidence of Steiner's claims.",
+  "scope": "Licensed DBCLS medical artwork with eight depicted organ callouts plus explicit list controls for kidneys and spleen. Six organs have eight-layer source-linked guides. Others remain index-only. The anatomy is for orientation only.",
   "organ_count": 10,
   "organs": [
     {
@@ -16,8 +16,8 @@
         "Nerves",
         "Cognition"
       ],
-      "status": "research_dossier",
-      "route": "organs.html?organ=organ-brain",
+      "status": "guided",
+      "route": "organ-detail.html?organ=organ-brain&layer=overview",
       "marker": {
         "visible": true,
         "anchor": {
@@ -31,7 +31,8 @@
         },
         "confidence": "illustrated",
         "label_index": 1
-      }
+      },
+      "guide_version": "v2"
     },
     {
       "id": "organ-thyroid",
@@ -72,8 +73,8 @@
         "Rhythm",
         "Heart"
       ],
-      "status": "research_dossier",
-      "route": "organs.html?organ=organ-lungs",
+      "status": "guided",
+      "route": "organ-detail.html?organ=organ-lungs&layer=overview",
       "marker": {
         "visible": true,
         "anchor": {
@@ -87,7 +88,8 @@
         },
         "confidence": "illustrated",
         "label_index": 3
-      }
+      },
+      "guide_version": "v2"
     },
     {
       "id": "organ-heart",
@@ -115,7 +117,8 @@
         },
         "confidence": "illustrated",
         "label_index": 4
-      }
+      },
+      "guide_version": "v1"
     },
     {
       "id": "organ-liver",
@@ -143,7 +146,8 @@
         },
         "confidence": "illustrated",
         "label_index": 5
-      }
+      },
+      "guide_version": "v1"
     },
     {
       "id": "organ-stomach",
@@ -182,14 +186,15 @@
         "Nutrition",
         "Rhythm"
       ],
-      "status": "index_only",
-      "route": "organs.html?organ=organ-spleen",
+      "status": "guided",
+      "route": "organ-detail.html?organ=organ-spleen&layer=overview",
       "marker": {
         "visible": false,
         "confidence": "not_depicted",
         "label_index": 7,
         "visibility_note": "This organ is not clearly depicted in this front illustration. Use the organ list to open its research dossier."
-      }
+      },
+      "guide_version": "v2"
     },
     {
       "id": "organ-kidneys",
@@ -201,14 +206,15 @@
         "Kidney activity",
         "Organism"
       ],
-      "status": "research_dossier",
-      "route": "organs.html?organ=organ-kidneys",
+      "status": "guided",
+      "route": "organ-detail.html?organ=organ-kidneys&layer=overview",
       "marker": {
         "visible": false,
         "confidence": "not_depicted",
         "label_index": 8,
         "visibility_note": "This organ is not clearly depicted in this front illustration. Use the organ list to open its research dossier."
-      }
+      },
+      "guide_version": "v2"
     },
     {
       "id": "organ-intestines",
