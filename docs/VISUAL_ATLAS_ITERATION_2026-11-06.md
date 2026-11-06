@@ -1,3 +1,5 @@
+> **Further improvement in this iteration:** The anatomy map now opens in a **torso-focused view** to use mobile screen space well, with an accessible **View whole body** toggle. Two genuinely depicted organs—**thyroid and urinary bladder**—have been added as labeled callouts, bringing the map to **10 organs: 8 pictured and 2 clearly not depicted**. Both new organs route to existing source-indexed dossiers, not invented completed guides. Mini locators and Heart/Liver comparison anatomy use the same torso crop. The manual Pages workflow and visual validator were updated to expect exactly 10 entries. No GitHub Actions run was triggered.
+
 # Visual Atlas iteration — 6 November 2026
 
 **Repository:** [infinix8/rudolf-steiner-atlas](https://github.com/infinix8/rudolf-steiner-atlas) · default branch `main`.
@@ -13,7 +15,7 @@ Make the Steiner Atlas a progressively explorable illustrated learning environme
 **Changed:** `atlas/body.html` and `research/organ-body-map-v1.json`.
 
 - Kept the DBCLS CC BY 4.0 adult anatomy illustration ([artwork credits](ANATOMY_ARTWORK_ATTRIBUTION.md)).
-- Replaced the large circular numbered badges that covered the drawing with **six thin-leader, labeled organ callouts**: brain, lungs, heart, liver, stomach, intestines.
+- Replaced the large circular numbered badges that covered the drawing with **eight thin-leader, labeled organ callouts**: brain, lungs, heart, liver, stomach, intestines.
 - Moved the annotated target coordinates into the visible organ areas of the 600×1000 source illustration, referencing the Wikimedia/DBCLS image preview. The coordinates are **editorial approximate guides**, still to be verified against a real Android screenshot.
 - **Kidneys and spleen are not depicted separately in the licensed frontal plate**. They remain fully reachable via clearly labeled extra links and the searchable list; they are no longer falsely pinned to other abdominal organs.
 - Maintained all eight canonical dossier IDs, eight accessible selection controls, the organ filter and system selector, the preview panel and deep-linked Heart/Liver guides.
@@ -52,7 +54,7 @@ All twenty comparison cards link to the original archive through source records 
 
 ### E. Validation and GitHub Actions budget
 
-- Updated `tools/validate_visual_organ_atlas.py` to check the **six callouts + two not-depicted links**, canonical organ IDs, marker coordinate bounds, human artwork attribution, all five comparison lenses, and every comparison card's reference to its own organ's source list.
+- Updated `tools/validate_visual_organ_atlas.py` to check the **eight callouts + two not-depicted links**, canonical organ IDs, marker coordinate bounds, human artwork attribution, all five comparison lenses, and every comparison card's reference to its own organ's source list.
 - Updated the existing GitHub Pages workflow to require the comparison HTML and JSON in the output package and run the existing **standard-library validator** as part of the **same single manual deployment**.
 - The **Pages publish** and **Chromium smoke-test** workflows remain `workflow_dispatch` only: there are no `push` triggers.
 - There was **no GitHub Actions run** during this iteration. Changes are committed to GitHub, not yet proven deployed publicly.
