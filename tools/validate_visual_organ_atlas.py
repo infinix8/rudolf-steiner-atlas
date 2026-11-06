@@ -30,8 +30,8 @@ expected_layers = {
 layer_ids = [item["id"] for item in guides["layers"]]
 check(set(layer_ids) == expected_layers and len(layer_ids) == 8,
       "Guide must declare precisely eight distinct expected layers.")
-check(body["organ_count"] == len(body["organs"]) == 8,
-      "Body map must contain exactly eight unique organs.")
+check(body["organ_count"] == len(body["organs"]) == 10,
+      "Body map must contain exactly ten unique organ navigation entries.")
 map_ids = [item["id"] for item in body["organs"]]
 check(len(set(map_ids)) == len(map_ids), "Duplicated organ map ID.")
 check(set(map_ids) <= canonical, "Body map refers to nonexistent canonical dossiers.")
@@ -136,14 +136,14 @@ check('href="atlas/body.html"' in landing,
       "Homepage must include visual human body map")
 check("organ-detail.html" in visual_map,
       "Body map must lead to new guided pages")
-check(sum(1 for item in body["organs"] if item["marker"].get("visible")) == 6,
-      "The licensed frontal artwork depicts only six of the current eight linked organ targets.")
+check(sum(1 for item in body["organs"] if item["marker"].get("visible")) == 8,
+      "The licensed frontal artwork depicts eight of the current ten organ targets.")
 check(set(item["id"] for item in body["organs"] if not item["marker"].get("visible"))
       == {"organ-kidneys", "organ-spleen"},
       "Kidneys and spleen must remain distinctly labeled as not depicted.")
-check(visual_map.count('class="organ hotspot callout-link"') == 6 and
+check(visual_map.count('class="organ hotspot callout-link"') == 8 and
       visual_map.count('class="unpictured-chip organ"') == 2,
-      "Six labelled illustration callouts and two non-depicted organ links are expected.")
+      "Eight labelled illustration callouts and two non-depicted organ links are expected.")
 for item in body["organs"]:
     check('data-organ-id="' + item["id"] + '"' in visual_map,
           f"Missing interactive organ control for {item['id']}")
