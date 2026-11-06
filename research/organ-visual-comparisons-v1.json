@@ -1,0 +1,267 @@
+{
+  "schema_version": "1.0",
+  "as_of": "2026-11-06",
+  "purpose": "Five concise source-grounded visual comparison lenses between Heart and Liver; linked to curated original-source anchor IDs, not copied text or scientific validation.",
+  "left_organ": "organ-heart",
+  "right_organ": "organ-liver",
+  "lenses": [
+    {
+      "id": "evolution",
+      "title": "Origins & evolution",
+      "subtitle": "The timeline is not the same kind of statement for both organs",
+      "intro": "Compare the kinds of evolutionary statements, not just the planetary words.",
+      "heart": {
+        "headline": "Two different evolutionary settings",
+        "context": "Cosmic rudiment versus Earth recapitulation",
+        "cards": [
+          {
+            "label": "Old Saturn · first disposition",
+            "description": "Steiner describes a preliminary heart disposition in his Old Saturn account, not a modern physical heart.",
+            "sources": [
+              "h-ga110-ix"
+            ],
+            "kind": "earlier_embodiment"
+          },
+          {
+            "label": "Earth · recapitulation",
+            "description": "Another lecture speaks of an early warmth-centered heart configuration while Earth recapitulates previous conditions.",
+            "sources": [
+              "h-ga102-v"
+            ],
+            "kind": "recapitulation"
+          }
+        ]
+      },
+      "liver": {
+        "headline": "Correspondence, not a proven origin",
+        "context": "A planetary analogy and a separate elemental relation",
+        "cards": [
+          {
+            "label": "Jupiter · inner analogy",
+            "description": "GA 128 offers a provisional Jupiter correspondence. It does not date anatomical liver formation to the planet Jupiter.",
+            "sources": [
+              "l-ga128-ii"
+            ],
+            "kind": "symbolic_correspondence"
+          },
+          {
+            "label": "Water · elemental relation",
+            "description": "GA 205 associates the liver with the water element in a different spiritual context.",
+            "sources": [
+              "l-ga205"
+            ],
+            "kind": "elemental"
+          }
+        ]
+      },
+      "distinction": "Old Saturn as a cosmic stage, Earth recapitulation, Jupiter as an inner analogy and the water element are four different predicates. There is no valid single organ-builder timeline to infer from them."
+    },
+    {
+      "id": "organism",
+      "title": "In the organism",
+      "subtitle": "How each organ is discussed in the living body",
+      "intro": "The source-linked medical lectures emphasize different systems and relations.",
+      "heart": {
+        "headline": "Rhythm and head–metabolic balance",
+        "context": "Rhythmic organization",
+        "cards": [
+          {
+            "label": "Rhythm",
+            "description": "GA 313 discusses rhythmic activity in relation to influences of the head and metabolic organization.",
+            "sources": [
+              "h-ga313"
+            ],
+            "kind": "organization"
+          },
+          {
+            "label": "Heart–lung relation",
+            "description": "The 1922 medical discussion connects heart and lung organization with an etheric account.",
+            "sources": [
+              "h-ga314"
+            ],
+            "kind": "interpretation"
+          }
+        ]
+      },
+      "liver": {
+        "headline": "Nutrition and liver–gall activity",
+        "context": "Metabolic organization",
+        "cards": [
+          {
+            "label": "Nourishment",
+            "description": "GA 128 discusses the liver alongside bile and spleen in nutritive processes.",
+            "sources": [
+              "l-ga128-viii"
+            ],
+            "kind": "organ_process"
+          },
+          {
+            "label": "Liver–gall",
+            "description": "GA 314 relates the liver–gall organization to warmth/I processes. This broader system must not be treated as liver-only.",
+            "sources": [
+              "l-ga314-a"
+            ],
+            "kind": "human_member_relation"
+          }
+        ]
+      },
+      "distinction": "These are Steiner's historical interpretations of organismic activity, not established explanations replacing cardiovascular or metabolic physiology."
+    },
+    {
+      "id": "inner-life",
+      "title": "Inner life & will",
+      "subtitle": "Purported spiritual perception and human experience",
+      "intro": "The most striking ideas are not claims of the same type.",
+      "heart": {
+        "headline": "Inner sense and conscience",
+        "context": "Astral/I organization and moral experience",
+        "cards": [
+          {
+            "label": "Inner perception",
+            "description": "GA 316 characterizes the heart as a purported inward sense of astral and I-related activity.",
+            "sources": [
+              "h-ga316"
+            ],
+            "kind": "claimed_inner_sense"
+          },
+          {
+            "label": "Conscience",
+            "description": "GA 205 connects aspects of the heart with conscience and future-life spiritual imagery.",
+            "sources": [
+              "h-ga205"
+            ],
+            "kind": "claimed_moral_relation"
+          }
+        ]
+      },
+      "liver": {
+        "headline": "Food value, intention and action",
+        "context": "Nutrition and childhood willing",
+        "cards": [
+          {
+            "label": "Food value",
+            "description": "GA 316 portrays the liver as a purported inward sense for the value of nourishment.",
+            "sources": [
+              "l-ga316"
+            ],
+            "kind": "claimed_inner_sense"
+          },
+          {
+            "label": "Intention into action",
+            "description": "GA 317 proposes that liver organization participates in a child's will-to-movement process.",
+            "sources": [
+              "l-ga317"
+            ],
+            "kind": "claimed_will_relation"
+          }
+        ]
+      },
+      "distinction": "Spiritual inward-sense images and child-development assertions must be read as attributed esoteric positions; they are not clinical measurements or diagnoses."
+    },
+    {
+      "id": "agency",
+      "title": "Who is said to act?",
+      "subtitle": "Named beings, human members and the limits of claims",
+      "intro": "The Atlas separates spiritual actors from organs, analogies and human constituent members.",
+      "heart": {
+        "headline": "Early cosmic beings ≠ exclusive modern-heart builder",
+        "context": "Agency requires stage and action",
+        "cards": [
+          {
+            "label": "Old Saturn context",
+            "description": "GA 110 discusses hierarchical activity around early cosmic development; it does not give a simple exclusive modern-heart builder chart.",
+            "sources": [
+              "h-ga110-viii",
+              "h-ga110-ix"
+            ],
+            "kind": "named_agent_context"
+          },
+          {
+            "label": "Present human organization",
+            "description": "GA 316 refers to astral and I processes in an inner-sense interpretation, not a separately named hierarchy.",
+            "sources": [
+              "h-ga316"
+            ],
+            "kind": "human_member_relation"
+          }
+        ]
+      },
+      "liver": {
+        "headline": "No sole hierarchy established in this selected set",
+        "context": "Correspondence is not an actor",
+        "cards": [
+          {
+            "label": "Jupiter ≠ a hierarchy",
+            "description": "The inner-Jupiter analogy in GA 128 does not identify a single spiritual hierarchy making the liver.",
+            "sources": [
+              "l-ga128-ii"
+            ],
+            "kind": "symbolic_correspondence"
+          },
+          {
+            "label": "I in liver–gall",
+            "description": "GA 314 refers to the human I organization in a liver–gall relationship; the I is not a separate angelic rank.",
+            "sources": [
+              "l-ga314-a"
+            ],
+            "kind": "human_member_relation"
+          }
+        ]
+      },
+      "distinction": "Do not infer an exclusive hierarchy for either organ merely from a planetary, elemental or human-member correspondence."
+    },
+    {
+      "id": "questions",
+      "title": "Unresolved questions",
+      "subtitle": "What the current evidence does not yet settle",
+      "intro": "A useful Atlas makes research gaps visible without turning them into definitive answers.",
+      "heart": {
+        "headline": "Temporal and medical source issues",
+        "context": "Further audit required",
+        "cards": [
+          {
+            "label": "Chronology and hierarchy",
+            "description": "How exactly do Old Saturn agency statements relate to later Earth recapitulation, once every passage and German text is compared?",
+            "sources": [
+              "h-ga110-ix",
+              "h-ga102-v"
+            ],
+            "kind": "research_gap"
+          },
+          {
+            "label": "Medical error",
+            "description": "Steiner denied that the heart pumps blood in GA 205. Established physiology demonstrates that it does pump blood.",
+            "sources": [
+              "h-ga205"
+            ],
+            "kind": "scientific_correction"
+          }
+        ]
+      },
+      "liver": {
+        "headline": "Predicates and scope remain open",
+        "context": "Further audit required",
+        "cards": [
+          {
+            "label": "Liver vs liver–gall",
+            "description": "Which claims explicitly concern the liver alone, and which concern a wider liver–gall organization?",
+            "sources": [
+              "l-ga314-a",
+              "l-ga314-p"
+            ],
+            "kind": "research_gap"
+          },
+          {
+            "label": "Clinical validity",
+            "description": "Claims relating liver activity to childhood will or disability do not constitute evidence-based neurological explanations.",
+            "sources": [
+              "l-ga317"
+            ],
+            "kind": "scientific_correction"
+          }
+        ]
+      },
+      "distinction": "Neither the visual guide nor a first English passage audit is independent confirmation of anthroposophical medicine, cosmic organ evolution or complete German-text reconciliation."
+    }
+  ]
+}
