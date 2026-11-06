@@ -23,6 +23,13 @@ main{padding:31px 0 61px}.overview{display:grid;grid-template-columns:1fr 1fr;ga
 @media(max-width:800px){.overview{grid-template-columns:1fr 1fr}.hero-organ{grid-template-columns:95px 1fr;gap:10px}.figure{width:86px}.hero-organ h2{font-size:29px}.section-head{display:block}.section-head p{margin-top:6px}.columns{grid-template-columns:1fr}}
 @media(max-width:590px){.wrap{padding:0 16px}.nav{flex-wrap:wrap}.intro{padding:35px 0 38px}.intro h1{font-size:46px}.overview{gap:9px}.hero-organ{grid-template-columns:1fr;justify-items:start;padding:13px;min-height:0}.figure{height:124px;width:74px;justify-self:center}.hero-organ h2{font-size:25px;margin:4px 0}.hero-organ p{font-size:11px}.hero-organ .organ-tag{font-size:9px}.rail{margin:16px 0 26px}.section-head h2{font-size:28px}.panel{padding:21px 16px}.lens-head h2{font-size:27px}.column{padding:16px}.claim{padding:13px}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+
+/* Torso-focused locators give the reader a closer view of the highlighted organ. */
+.figure{aspect-ratio:600/590;overflow:hidden}
+.figure img{position:absolute;top:0;left:0;width:100%;height:auto;object-fit:unset}
+.heart-figure .highlight{left:51%;top:48%}
+.liver-figure .highlight{left:44.5%;top:54.1%}
+@media(max-width:590px){.figure{width:90px;height:auto}}
 </style>
 </head>
 <body>
