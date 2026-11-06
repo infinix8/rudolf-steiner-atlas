@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#123c46">
+<meta name="description" content="Visually compare Rudolf Steiner's attributed heart and liver teachings, with precise original-source references and clearly separated types of claims.">
+<title>Compare Heart and Liver · Rudolf Steiner Atlas</title>
+<style>
+:root{font:16px/1.55 system-ui,-apple-system,"Segoe UI",sans-serif;--deep:#103b45;--ink:#1c3f44;--muted:#60787b;--bg:#f8f7f1;--paper:#fffefa;--border:#dde5de;--sea:#387d73;--accent:#ddc38d;color:var(--ink);background:var(--bg)}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0}a{color:#14646c;text-underline-offset:3px}a:focus-visible,button:focus-visible{outline:3px solid #ca9b43;outline-offset:3px}button{font:inherit;cursor:pointer}.wrap{max-width:1100px;margin:auto;padding:0 22px}.skip{position:absolute;left:-10000px}.skip:focus{left:8px;top:8px;z-index:20;background:#fff;padding:10px}
+header{background:radial-gradient(ellipse at 95% 50%,#285761 0,transparent 52%),linear-gradient(125deg,#123d47,#0b2d37);color:white}.nav{display:flex;align-items:center;justify-content:space-between;padding:18px 0;border-bottom:1px solid #ffffff24;gap:10px}.brand{display:flex;align-items:center;gap:10px;color:white;text-decoration:none}.brand .seal{border:1px solid #e2c789;border-radius:50%;height:34px;width:34px;display:grid;place-items:center;color:#e2c789;font-size:21px}.brand span:last-child{font-size:12px;text-transform:uppercase;letter-spacing:.12em;font-weight:780}.links{display:flex;gap:13px;flex-wrap:wrap}.links a{text-decoration:none;color:#d6e6e2;font-size:12px}
+.intro{padding:49px 0 46px}.eyebrow{color:#add9cf;font-size:10px;letter-spacing:.2em;text-transform:uppercase;font-weight:850}.intro h1{font:normal clamp(43px,5.5vw,67px)/1.06 Georgia,serif;letter-spacing:-.04em;margin:15px 0}.intro p{max-width:750px;color:#d4e4e0;font-size:15px;margin:0}
+main{padding:31px 0 61px}.overview{display:grid;grid-template-columns:1fr 1fr;gap:15px}.hero-organ{border:1px solid var(--border);border-radius:17px;background:#fffefa;display:grid;grid-template-columns:125px 1fr;gap:15px;align-items:center;padding:16px;min-height:245px;box-shadow:0 12px 24px #21483a06}.figure{position:relative;width:116px;aspect-ratio:3/5;margin:0 auto;background:#f1f5ef;border:1px solid #e1e9e1;border-radius:11px}.figure img{display:block;width:100%;height:100%;object-fit:contain;filter:saturate(.9)}.highlight{position:absolute;width:21px;height:21px;border:2.5px solid #1e564d;background:#edc88c8c;border-radius:50%;box-shadow:0 0 0 4px #ffffffe0;transform:translate(-50%,-50%);pointer-events:none}.heart-figure .highlight{left:51%;top:28.3%}.liver-figure .highlight{left:44.5%;top:31.9%}
+.organ-tag{color:#53877b;font-size:10px;font-weight:850;text-transform:uppercase;letter-spacing:.14em}.hero-organ h2{font:normal 34px/1.2 Georgia,serif;margin:7px 0}.hero-organ p{font-size:13px;color:#577076;margin:0 0 14px}.small-link{font-size:12px;font-weight:780;text-decoration:none}.small-link:hover{text-decoration:underline}
+.rail{display:flex;gap:11px;align-items:center;justify-content:center;margin:21px 0 33px;color:#557c74;font-size:12px;font-weight:730}.rail::before,.rail::after{content:"";height:1px;background:#cadaD0;flex:1}.rail span{border:1px solid #c7ded2;border-radius:25px;padding:8px 14px;background:#eaf3ec}
+.section-head{display:flex;justify-content:space-between;gap:12px;align-items:baseline}.section-head h2{font:normal 31px Georgia,serif;margin:0}.section-head p{font-size:12px;color:var(--muted);margin:0;max-width:370px}
+.lenses{display:flex;overflow-x:auto;gap:8px;padding:11px 0 16px;scrollbar-width:thin}.lens{border:1px solid #c7dad0;background:#fff;color:#355e58;border-radius:28px;padding:11px 15px;white-space:nowrap;font-size:12px;font-weight:780;min-height:44px}.lens[aria-selected=true]{background:#17454e;color:#fff;border-color:#17454e}
+.panel{background:var(--paper);border:1px solid var(--border);border-radius:18px;padding:25px 27px 30px;box-shadow:0 15px 35px #253f3909}.panel .eyebrow{color:#56887d}.lens-head h2{font:normal 32px Georgia,serif;margin:8px 0 6px}.lens-head p{margin:0 0 19px;color:#4b686b;font-size:14px}
+.columns{display:grid;grid-template-columns:1fr 1fr;gap:16px}.column{border:1px solid #dbe4db;border-radius:14px;padding:20px;background:#fbfcf7}.column.heart{border-top:4px solid #bd807d}.column.liver{border-top:4px solid #c0a36c}.column small.category{color:#628178;font-size:10px;letter-spacing:.13em;text-transform:uppercase;font-weight:850}.column h3{font:normal 26px/1.18 Georgia,serif;margin:9px 0}.column .context{color:#66817b;font-size:12px;margin:0 0 16px}.cards{display:grid;gap:11px}.claim{background:#fff;border:1px solid #e1e7dc;border-radius:12px;padding:16px 17px}.claim .kind{font-size:10px;text-transform:uppercase;color:#6c8a7d;letter-spacing:.07em;font-weight:780}.claim h4{font:normal 20px/1.22 Georgia,serif;margin:6px 0 9px}.claim p{font-size:13px;color:#516a6c;margin:0}.refs{display:flex;gap:7px;flex-wrap:wrap;margin-top:12px}.refs a{font-size:11px;font-weight:780;text-decoration:none;padding:5px 8px;background:#ecf5ef;border-radius:7px;color:#246c61}.refs a:hover{text-decoration:underline}
+.distinction{margin-top:17px;padding:18px 19px;border-radius:12px;background:#f1efe4;border-left:3px solid #d2b476}.distinction strong{font-size:13px}.distinction p{font-size:13px;color:#605f57;margin:5px 0 0}
+.next-links{margin-top:23px;display:flex;gap:10px;flex-wrap:wrap}.cta{background:#123f47;color:#fff;text-decoration:none;font-size:12px;font-weight:780;padding:11px 15px;border-radius:10px;min-height:44px;display:inline-flex;align-items:center}.cta.secondary{background:white;color:#144951;border:1px solid #9cbdb0}.notice{font-size:12px;color:#6f7872;margin-top:26px;padding:15px 18px;border-radius:0 9px 9px 0;border-left:3px solid #c6a878;background:#f3efe5}.credit{font-size:11px;color:#6e817b;margin:15px 0 0}footer{border-top:1px solid var(--border);font-size:12px;color:#708380;padding:26px 0 40px}
+@media(max-width:800px){.overview{grid-template-columns:1fr 1fr}.hero-organ{grid-template-columns:95px 1fr;gap:10px}.figure{width:86px}.hero-organ h2{font-size:29px}.section-head{display:block}.section-head p{margin-top:6px}.columns{grid-template-columns:1fr}}
+@media(max-width:590px){.wrap{padding:0 16px}.nav{flex-wrap:wrap}.intro{padding:35px 0 38px}.intro h1{font-size:46px}.overview{gap:9px}.hero-organ{grid-template-columns:1fr;justify-items:start;padding:13px;min-height:0}.figure{height:124px;width:74px;justify-self:center}.hero-organ h2{font-size:25px;margin:4px 0}.hero-organ p{font-size:11px}.hero-organ .organ-tag{font-size:9px}.rail{margin:16px 0 26px}.section-head h2{font-size:28px}.panel{padding:21px 16px}.lens-head h2{font-size:27px}.column{padding:16px}.claim{padding:13px}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+</style>
+</head>
+<body>
+<a class="skip" href="#compare">Skip to comparison</a>
+<header>
+<div class="wrap nav"><a class="brand" href="../index.html"><span class="seal">✳</span><span>Rudolf Steiner Atlas</span></a><nav class="links" aria-label="Atlas navigation"><a href="../index.html">Home</a><a href="body.html">Human body</a><a href="index.html">Thematic Atlas</a></nav></div>
+<div class="wrap intro"><div class="eyebrow">Organ comparison · source-linked teaching contexts</div><h1>Two organs.<br>Different kinds of meaning.</h1><p>Compare the Heart and Liver across evolutionary settings, bodily organization, inward experiences and named actors—without flattening distinct teachings into one simplistic theory.</p></div>
+</header>
+<main class="wrap">
+<div class="overview">
+<article class="hero-organ"><div class="figure heart-figure"><img src="media/dbcls-human-anatomy-organs.svg" onerror="this.onerror=function(){this.onerror=null;this.src='https://upload.wikimedia.org/wikipedia/commons/0/00/202403_human_anatomy_organs.svg'};this.src='https://dbarchive.biosciencedbc.jp/data/togo-pic/image/202403_human_anatomy_organs.svg'" alt="Front adult anatomy with a locator ring for the heart" decoding="lazy"><span class="highlight" aria-hidden="true"></span></div><div><span class="organ-tag">Rhythmic organization</span><h2>Heart</h2><p>Warmth, rhythm, inward sense, conscience and early heart dispositions.</p><a class="small-link" href="organ-detail.html?organ=organ-heart&amp;layer=overview">Explore Heart guide ↗</a></div></article>
+<article class="hero-organ"><div class="figure liver-figure"><img src="media/dbcls-human-anatomy-organs.svg" onerror="this.onerror=function(){this.onerror=null;this.src='https://upload.wikimedia.org/wikipedia/commons/0/00/202403_human_anatomy_organs.svg'};this.src='https://dbarchive.biosciencedbc.jp/data/togo-pic/image/202403_human_anatomy_organs.svg'" alt="Front adult anatomy with a locator ring for the liver" decoding="lazy"><span class="highlight" aria-hidden="true"></span></div><div><span class="organ-tag">Metabolic organization</span><h2>Liver</h2><p>Nourishment, inner Jupiter analogy, liver–gall, head relations and will.</p><a class="small-link" href="organ-detail.html?organ=organ-liver&amp;layer=overview">Explore Liver guide ↗</a></div></article>
+</div>
+<div class="rail"><span>Same human being · different source contexts</span></div>
+<section id="compare" aria-label="Visual organ comparisons">
+<div class="section-head"><h2>Choose a comparison lens</h2><p>Each view has four brief source-linked cards instead of long research paragraphs.</p></div>
+<nav class="lenses" id="lens-tabs" role="tablist" aria-label="Comparison themes"><span>Loading comparison themes…</span></nav>
+<div class="panel" id="comparison-content" role="tabpanel" tabindex="0" aria-live="polite"><p>Loading source-linked comparisons…</p></div>
+</section>
+<div class="next-links"><a class="cta" href="body.html">Back to the human body</a><a class="cta secondary" href="organs.html">Browse all 40 research dossiers</a></div>
+<p class="credit">Anatomy illustration: <a href="https://commons.wikimedia.org/wiki/File:202403_human_anatomy_organs.svg" target="_blank" rel="noopener noreferrer">DBCLS / Togo Picture Gallery</a>, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener noreferrer">CC BY 4.0</a>. Editorial adaptation: highlighted organ locators.</p>
+<div class="notice">Steiner's spiritual-scientific claims are historical attributions, not established medical or scientific conclusions. A source link demonstrates a passage's context, not the scientific validity of the claim. Complete German collation and independent corpus review remain unfinished.</div>
+</main>
+<footer><div class="wrap"><a href="../index.html">Atlas home</a> · <a href="sources.html">Source guide</a> · <a href="agency.html">Hierarchy–stage matrix</a><p>Curated comparison generated from the Atlas's existing organ guide sources, not bulk copied lecture texts.</p></div></footer>
+<script>
+"use strict";
+(()=>{
+  const $=s=>document.querySelector(s);
+  const html=s=>String(s==null?"":s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+  let data=null,guides={},lens="evolution";
+  function ref(organ,id){return guides[organ].sources.find(x=>x.id===id);}
+  function sources(organ,ids){
+    return '<div class="refs">'+(ids||[]).map(id=>ref(organ,id)).filter(Boolean).map(s=>
+      '<a href="'+html(s.url)+'" target="_blank" rel="noopener noreferrer" title="'+html(s.title+' · '+s.cue)+'">GA '+html(s.ga)+' ↗</a>').join("")+'</div>';
+  }
+  function column(org,heading,details){
+    return '<article class="column '+html(org)+'"><small class="category">'+html(org)+' · '+html(details.context)+'</small><h3>'+html(details.headline)+'</h3>'+
+      '<div class="cards">'+details.cards.map(x=>
+      '<article class="claim"><span class="kind">'+html(x.kind.replaceAll("_"," "))+'</span><h4>'+html(x.label)+'</h4><p>'+html(x.description)+'</p>'+sources(org,x.sources)+'</article>').join("")+'</div></article>';
+  }
+  function render(push=false){
+    const l=data.lenses.find(x=>x.id===lens)||data.lenses[0];
+    lens=l.id;
+    const cont=$("#comparison-content");
+    cont.innerHTML='<header class="lens-head"><div class="eyebrow">Comparison · '+html(l.subtitle)+'</div><h2>'+html(l.title)+'</h2><p>'+html(l.intro)+'</p></header>'+
+      '<div class="columns">'+column("heart","Heart",l.heart)+column("liver","Liver",l.liver)+'</div>'+
+      '<div class="distinction"><strong>The important distinction</strong><p>'+html(l.distinction)+'</p></div>';
+    $("#lens-tabs").innerHTML=data.lenses.map(x=>'<button type="button" class="lens" role="tab" data-lens="'+html(x.id)+'" aria-controls="comparison-content" aria-selected="'+String(x.id===lens)+'" tabindex="'+(x.id===lens?'0':'-1')+'">'+html(x.title)+'</button>').join("");
+    const u=new URL(location.href);
+    u.searchParams.set("lens",lens);
+    if(u.href!==location.href)(push?history.pushState:history.replaceState).call(history,{lens},"",u);
+  }
+  $("#lens-tabs").addEventListener("click",e=>{const b=e.target.closest("[data-lens]");if(b){lens=b.dataset.lens;render(true)}});
+  $("#lens-tabs").addEventListener("keydown",e=>{
+    if(!["ArrowLeft","ArrowRight","Home","End"].includes(e.key))return;
+    const tabs=Array.from(document.querySelectorAll("#lens-tabs [data-lens]"));
+    let i=tabs.findIndex(x=>x.dataset.lens===lens);
+    i=e.key==="Home"?0:e.key==="End"?tabs.length-1:(i+(e.key==="ArrowRight"?1:-1)+tabs.length)%tabs.length;
+    lens=tabs[i].dataset.lens;render(true);$("#lens-tabs [data-lens='"+lens+"']").focus();e.preventDefault();
+  });
+  window.addEventListener("popstate",()=>{if(!data)return;lens=new URLSearchParams(location.search).get("lens")||"evolution";render(false)});
+  Promise.all([
+    fetch("../research/organ-visual-comparisons-v1.json").then(r=>{if(!r.ok)throw Error("Comparison data unavailable");return r.json()}),
+    fetch("../research/organ-atlas-guides-v1.json").then(r=>{if(!r.ok)throw Error("Original organ guide data unavailable");return r.json()})
+  ]).then(([v,g])=>{
+    if(!Array.isArray(v.lenses)||v.lenses.length!==5||!Array.isArray(g.guides)||g.guides.length!==2)throw Error("Invalid comparison schema");
+    data=v;guides={heart:g.guides.find(x=>x.id==="organ-heart"),liver:g.guides.find(x=>x.id==="organ-liver")};
+    if(!guides.heart||!guides.liver)throw Error("Missing reference organ");
+    for(const l of data.lenses)for(const org of ["heart","liver"]){
+      if(!l[org].cards||l[org].cards.length!==2)throw Error("Incomplete comparison lens "+l.id);
+      for(const item of l[org].cards)for(const src of item.sources||[])if(!ref(org,src))throw Error("Unresolved source "+src);
+    }
+    lens=new URLSearchParams(location.search).get("lens")||"evolution";render();
+  }).catch(e=>{$("#lens-tabs").textContent="";$("#comparison-content").innerHTML='<p>Comparison data could not be loaded: '+html(e.message)+'</p><p><a href="body.html">Browse individual organs instead</a>.</p>'});
+})();
+</script>
+</body>
+</html>
