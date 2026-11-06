@@ -61,6 +61,18 @@ const related={
  IV:[['evolution-story.html','Cultural epochs','Follow the unfolding human journey.'],['dossiers.html','Study dossiers','Explore focused, source-linked questions.']],
  V:[['body.html','Organs & healing','Explore the organ guides and research.'],['sources.html','Original works','Find the books and lectures behind a theme.']]
 };
+let readingPaths = [];
+function renderReadingPaths() {
+ const host = document.querySelector('#theme-reading');
+ if (!host || !taxonomy || !currentTheme) return;
+ const ids = new Set();
+ const visit = n => {ids.add(n.id);(n.children || []).forEach(visit);};
+ visit(taxonomy.tree.find(r => r.id === currentTheme.id));
+ const matches = readingPaths.filter(p => p.nodes.some(id => ids.has(id))).slice(0,2);
+ host.hidden = !matches.length;
+ host.innerHTML = '<p class="eyebrow">Prefer a little guidance?</p><h2>Follow a thread through the theme.</h2><div class="theme-trails">' + matches.map(p => '<a href="journey.html?path=' + encodeURIComponent(p.id) + '"><strong>' + escape(p.title) + '</strong><small>' + escape(p.description) + '</small><small>' + p.nodes.length + ' concepts · Begin this journey →</small></a>').join('') + '</div><p class="search-hint">Editorial routes through existing concepts. <a href="journey.html">See all eight reading journeys →</a></p>';
+}
+fetch('study-paths.json').then(r => {if(!r.ok)throw new Error('Routes unavailable');return r.json();}).then(data => {readingPaths = data.paths || [];renderReadingPaths();}).catch(() => {});
 let currentTheme;
 let currentDomain;
 function showDomain(id,update=true){
@@ -91,6 +103,7 @@ function renderTheme(){
  journeys.hidden=!related[t.id];
  journeys.innerHTML=related[t.id]?`<p class="eyebrow">Another way to explore</p><h2>See the theme come to life.</h2><div class="topics">${related[t.id].map(([url,title,desc])=>`<a class="topic" href="${url}"><span>${title}</span><small>${desc} →</small></a>`).join('')}</div>`:'';
  showDomain(params.get('domain'),false);
+ renderReadingPaths();
 }
 document.querySelector('#domain-buttons').addEventListener('click',e=>{const b=e.target.closest('[data-domain]');if(b)showDomain(b.dataset.domain);});
 window.addEventListener('popstate',()=>{if(taxonomy)renderTheme();});

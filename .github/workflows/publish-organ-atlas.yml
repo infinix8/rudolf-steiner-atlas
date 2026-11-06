@@ -51,6 +51,9 @@ jobs:
           cp -R assets/. dist/assets/
           touch dist/.nojekyll
           test -s dist/index.html
+          test -s dist/atlas/journey.html
+          test -s dist/atlas/journey.js
+          test -s dist/atlas/journey.css
           test -s dist/atlas/explore.html
           test -s dist/atlas/explore.js
           test -s dist/atlas/explore.css

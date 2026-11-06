@@ -30,6 +30,27 @@ try {
       assert(await page.locator('#topic-panel .topics a[href*="#node="]').count()>0,'branch lacks taxonomy deep links');
     }
   }
+  await page.goto(root+'/atlas/journey.html',{waitUntil:'networkidle'});
+  assert(await page.locator('.trail-card').count()===8,'eight guided reading journeys missing');
+  const readingRoutes=await page.locator('.trail-card').evaluateAll(es=>es.map(e=>e.href));
+  for(const url of readingRoutes){
+    await page.goto(url,{waitUntil:'networkidle'});
+    const stops=await page.locator('.trail-step').count();
+    for(let i=0;i<stops;i++){
+      await page.locator('.trail-step').nth(i).click();
+      assert(await page.locator('.trail-step[aria-current="step"]').count()===1,'journey selection is ambiguous');
+      assert((await page.locator('.step-position').textContent()).includes('Concept '+(i+1)+' of '+stops),'journey position is incorrect');
+    }
+  }
+  await page.goto(root+'/atlas/journey.html?path=thinking-to-freedom&step=2',{waitUntil:'networkidle'});
+  await page.getByRole('link',{name:'Explore this concept & its sources →',exact:true}).click();
+  await page.getByRole('tab',{name:'Original sources',exact:true}).click();
+  assert(await page.getByRole('tabpanel',{name:'Original sources',exact:true}).isVisible(),'original source layer did not open');
+  assert(!await page.getByRole('tabpanel',{name:'Explore',exact:true}).isVisible(),'inactive reader layer remains visible');
+  await page.getByRole('tab',{name:'Original sources',exact:true}).press('ArrowRight');
+  assert(await page.getByRole('tabpanel',{name:'Connections',exact:true}).isVisible(),'reader tab keyboard navigation failed');
+  await page.getByRole('link',{name:'← Return to your reading journey',exact:true}).click();
+  assert((await page.locator('.step-position').textContent()).includes('Concept 2 of 5'),'research return lost the journey position');
   await page.goto(root+'/atlas/',{waitUntil:'networkidle'});
   await page.getByRole('heading',{name:'Find the teaching, then read the original.'}).waitFor();
   assert(await page.getByRole('button',{name:/knowledge, method, and spiritual development/i}).count()>0,'six-region navigation missing');
@@ -170,6 +191,13 @@ try {
   await mobile.locator('.domain-button').last().click();
   assert(await mobile.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),'mobile theme overflows horizontally');
   assert(await mobile.locator('#topic-panel .topic').count()>0,'mobile branch selector failed');
+  await mobile.goto(root+'/atlas/journey.html?path=thinking-to-freedom',{waitUntil:'networkidle'});
+  assert(await mobile.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),'mobile reading journey overflows');
+  await mobile.getByRole('link',{name:'Explore this concept & its sources →',exact:true}).click();
+  assert(!await mobile.locator('.navigation-drawer').evaluate(el=>el.open),'mobile classification drawer should start folded');
+  await mobile.getByRole('tab',{name:'Original sources',exact:true}).click();
+  assert(await mobile.getByRole('tabpanel',{name:'Original sources',exact:true}).isVisible(),'mobile reader tabs failed');
+  assert(await mobile.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),'mobile concept reader overflows');
   await mobile.goto(root+'/atlas/',{waitUntil:'networkidle'});
   await mobile.getByRole('heading',{name:'Find the teaching, then read the original.'}).waitFor();
   await mobile.goto(root+'/atlas/graph.html',{waitUntil:'networkidle'});

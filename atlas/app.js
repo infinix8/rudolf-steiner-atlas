@@ -240,19 +240,30 @@ function nodePage(id) {
       children.length + " branches</span></div><div class='grid'>" + children.map((n) => card(n.id)).join("") + "</div></section>"
     : "<section class='caution'>This is a classification entry, not a rewritten lecture. Further explanation will be attached only when a specific original passage has been checked.</section>";
   const siblings = parentId(id) ? (byId(parentId(id))?.children || []).filter((n) => n.id !== id).slice(0, 7) : [];
-  const aside = '<aside><div class="panel"><h2>Read at the source</h2>' + sourceBlock(node) + '</div>' +
-    '<div class="panel" style="margin-top:16px"><h2>Passage-linked relationships</h2>' + checkedGraphBlock(id) +
-    '</div><div class="panel" style="margin-top:16px"><h2>Unverified proposed links</h2>' + relatedBlock(id) + "</div></aside>";
-  const inside = '<div><div class="stats">' +
-    '<div class="stat"><strong>' + html(id) + '</strong><span>Stable concept ID</span></div>' +
-    '<div class="stat"><strong>' + countDescendants(node) + '</strong><span>Descendant entries</span></div>' +
-    (domain ? '<div class="stat"><strong>Domain ' + html(domain.id) + '</strong><span>' + html(domain.title) + "</span></div>" : "") +
-    '</div><div class="node-actions">' +
-    (parentId(id) ? '<button class="btn" data-node="' + html(parentId(id)) + '">↑ Parent topic</button>' : "") +
-    '<button class="btn" data-copy>Copy topic link</button></div>' + modelBlock(id) + trajectoryLinks(id) + hierarchy +
-    (siblings.length ? '<section><h2>Nearby concepts</h2><div class="grid">' + siblings.map((s) => card(s.id)).join("") + "</div></section>" : "") + "</div>";
-  const gateway = '<div class="visual-gateway"><span>Exploring ' + html(region?.title || "the Atlas") + '</span><a href="explore.html?region=' + html(region?.id || 'I') + (domain ? '&amp;domain=' + html(domain.id) : '') + '">← Visual theme guide</a></div>';
-  return gateway + heading + '<div class="two-col">' + inside + aside + "</div>";
+  const params = new URLSearchParams(location.search);
+  const trail = (state.paths?.paths || []).find(p => p.id === params.get('journey'));
+  const requestedStep = Number(params.get('step'));
+  const step = trail ? (Number.isInteger(requestedStep) && requestedStep >= 1 && requestedStep <= trail.nodes.length ? requestedStep - 1 : trail.nodes.indexOf(id)) : -1;
+  const returnLink = step >= 0
+    ? '<a href="journey.html?path=' + encodeURIComponent(trail.id) + '&amp;step=' + (step + 1) + '">← Return to your reading journey</a>'
+    : '<a href="explore.html?region=' + html(region?.id || 'I') + (domain ? '&amp;domain=' + html(domain.id) : '') + '">← Visual theme guide</a>';
+  const gateway = '<div class="visual-gateway"><span>' + html(region?.title || "The Atlas") + '</span>' + returnLink + '</div>';
+  const tabs = '<div class="reader-tabs" role="tablist" aria-label="Concept reading layers">' +
+    [['explore','Explore'],['sources','Original sources'],['connections','Connections']].map(([key,label],i) =>
+      '<button role="tab" id="tab-' + key + '" aria-controls="reader-' + key + '" aria-selected="' + (i === 0) + '" tabindex="' + (i === 0 ? 0 : -1) + '" data-reader-tab="' + key + '">' + label + '</button>').join('') + '</div>';
+  const overview = '<section id="reader-explore" role="tabpanel" aria-labelledby="tab-explore" tabindex="0">' +
+    '<div class="node-actions">' + (parentId(id) ? '<button class="btn" data-node="' + html(parentId(id)) + '">↑ Parent topic</button>' : '') +
+    '<button class="btn" data-copy>Copy topic link</button></div>' + modelBlock(id) + hierarchy +
+    '<details class="library-disclosure"><summary>Classification details and nearby concepts</summary>' +
+    '<p class="count">Concept ' + html(id) + ' · ' + countDescendants(node) + ' descendant entries</p>' +
+    (siblings.length ? '<div class="grid">' + siblings.map(n => card(n.id)).join('') + '</div>' : '') + '</details></section>';
+  const sources = '<section id="reader-sources" role="tabpanel" aria-labelledby="tab-sources" tabindex="0" hidden><h2>Read at the source</h2>' +
+    '<p class="muted">Check the status of each reference. A research lead is a starting point, rather than a verified citation for every concept below it.</p>' + sourceBlock(node) + '</section>';
+  const connections = '<section id="reader-connections" role="tabpanel" aria-labelledby="tab-connections" tabindex="0" hidden>' +
+    '<h2>Passage-linked relationships</h2>' + checkedGraphBlock(id) + trajectoryLinks(id) +
+    '<details class="library-disclosure"><summary>Unverified proposed links</summary>' + relatedBlock(id) + '</details></section>';
+  return gateway + heading + '<div class="reader-shell">' + tabs + overview + sources + connections + '</div>';
+
 }
 function homePage() {
   const nodes = [...state.nodes.values()];
@@ -291,6 +302,7 @@ function pathPage(id) {
   if (!path) return '<p class="empty">Study path not found.</p>';
   return '<p class="eyebrow">Editorial study route · not a Steiner-authored sequence</p><h1>' +
     html(path.title) + "</h1><p class='intro'>" + html(path.description) + "</p>" +
+    '<p><a class="btn" href="journey.html?path=' + encodeURIComponent(path.id) + '">Take this journey one step at a time →</a></p>' +
     '<div class="caution">This path is a navigational hypothesis. Visit the linked concepts and follow their original-source leads before treating a relationship as a documented teaching.</div>' +
     '<div class="two-col"><section><h2>Follow the concepts</h2><ol class="route-steps">' +
     path.nodes.filter((id) => byId(id)).map((id) => '<li>' + action(id, byId(id).title) +
@@ -320,6 +332,25 @@ function render() {
   else view.innerHTML = homePage();
   document.title = (mode.kind === "node" && byId(mode.id) ? byId(mode.id).title + " · " : "") + "Rudolf Steiner Atlas";
 }
+function selectReaderTab(key, focus = false) {
+  for (const tab of document.querySelectorAll('[data-reader-tab]')) {
+    const selected = tab.dataset.readerTab === key;
+    tab.setAttribute('aria-selected', String(selected));
+    tab.tabIndex = selected ? 0 : -1;
+    const panel = document.getElementById(tab.getAttribute('aria-controls'));
+    if (panel) panel.hidden = !selected;
+    if (selected && focus) tab.focus();
+  }
+}
+document.addEventListener('keydown', e => {
+  const tab = e.target.closest('[data-reader-tab]');
+  if (!tab || !['ArrowLeft','ArrowRight','Home','End'].includes(e.key)) return;
+  e.preventDefault();
+  const keys = ['explore','sources','connections'];
+  const index = keys.indexOf(tab.dataset.readerTab);
+  const next = e.key === 'Home' ? 0 : e.key === 'End' ? 2 : (index + (e.key === 'ArrowRight' ? 1 : -1) + 3) % 3;
+  selectReaderTab(keys[next], true);
+});
 async function initialize() {
   try {
     const [taxResponse, pathsResponse, anchorsResponse, crosswalkResponse, modelsResponse, vocabularyResponse, evidenceResponse, auditResponse, trajectoryResponse] = await Promise.all([
@@ -346,10 +377,12 @@ async function initialize() {
     $("#search").addEventListener("input", (e) => { state.query = e.target.value; renderSearch(); });
     $("#domain-filter").addEventListener("change", (e) => { state.domainFilter = e.target.value; renderSearch(); });
     document.addEventListener("click", (e) => {
+      const readerTab = e.target.closest("[data-reader-tab]");
+      if (readerTab) { selectReaderTab(readerTab.dataset.readerTab); return; }
       const node = e.target.closest("[data-node]");
       const path = e.target.closest("[data-path]");
-      if (node) { setLocation("node", node.dataset.node); document.querySelector("#content")?.focus(); }
-      else if (path) { setLocation("path", path.dataset.path); document.querySelector("#content")?.focus(); }
+      if (node) { setLocation("node", node.dataset.node); if (!navigationViewport.matches) document.querySelector(".navigation-drawer").open = false; document.querySelector("#content")?.focus(); }
+      else if (path) { setLocation("path", path.dataset.path); if (!navigationViewport.matches) document.querySelector(".navigation-drawer").open = false; document.querySelector("#content")?.focus(); }
       else if (e.target.closest("[data-home]")) setLocation("home");
       else if (e.target.closest("[data-copy]")) {
         if (navigator.clipboard?.writeText) navigator.clipboard.writeText(location.href).then(() => {
@@ -363,4 +396,11 @@ async function initialize() {
       '</p><p>Run a local HTTP server from the repository root: <code>python -m http.server 8000</code>, then open <code>http://localhost:8000/atlas/</code>.</p>';
   }
 }
+const navigationViewport = window.matchMedia('(min-width:691px)');
+function syncNavigationDrawer() {
+  const drawer = document.querySelector('.navigation-drawer');
+  if (drawer) drawer.open = navigationViewport.matches;
+}
+syncNavigationDrawer();
+navigationViewport.addEventListener('change', syncNavigationDrawer);
 initialize();

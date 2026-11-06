@@ -19,7 +19,10 @@ jobs:
           npx playwright install --with-deps chromium
       - name: Launch local atlas
         run: |
-          python -m http.server 8000 --bind 127.0.0.1 > /tmp/atlas-server.log 2>&1 &
+          mkdir -p dist
+          cp site/index.html dist/index.html
+          cp -R atlas research taxonomy docs assets dist/
+          python -m http.server 8000 --directory dist --bind 127.0.0.1 > /tmp/atlas-server.log 2>&1 &
           sleep 2
       - name: Exercise desktop and mobile flows
         run: node tests/atlas-browser-smoke.mjs

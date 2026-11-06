@@ -26,3 +26,12 @@ Theme branches are native buttons with selected state, keyboard access and live 
 - New regression cases added to the existing manual browser smoke suite. The full suite was not executed during this release; the focused checks above were executed interactively.
 
 Publishing retains the existing selective automatic workflow. One website commit triggers one Pages release; no new workflow or schedule was added. Publication also checks for all three theme gateway assets.
+
+
+## Second iteration: guided reading and focused concept pages
+
+Added `atlas/journey.html`, `journey.js` and `journey.css`. The reader consumes the existing eight editorial study paths, presenting their 41 stops one at a time. The home page and all six themes expose relevant journeys. Position URLs support direct sharing, reload and browser history. Concept pages retain a return link to the originating step, including when a reader follows a subtopic.
+
+Concept pages now use three accessible reading layers: Explore, Original sources and Connections. Keyboard arrow keys and Home/End move between tabs; inactive panels are hidden. Research status text and unverified-link distinctions remain attached to their respective material. On small screens the classification sidebar starts folded, while desktop navigation stays open.
+
+Focused interactive checks exercised all eight journeys and 41 stops, next-step navigation, concept/source tabs, keyboard switching and return to step 2. Narrow iframe checks verified journey and concept layouts without horizontal overflow and confirmed the mobile drawer starts closed. Additional regression cases cover these interactions in the existing manual smoke suite. Its server now assembles the public folder layout so the landing-page checks exercise the same structure as Pages. No additional automatic workflow was introduced. Full smoke-suite execution remains separate from the focused interactive checks.

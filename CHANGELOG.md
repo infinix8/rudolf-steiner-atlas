@@ -1,3 +1,11 @@
+## 2026-11-06 — Guided reading and layered concepts
+
+- Added eight guided reading journeys with 41 stops from the existing editorial paths, shareable step URLs and contextual return links.
+- Connected the homepage and all six themes to relevant journeys.
+- Split concept pages into Explore, Original sources and Connections, with keyboard-accessible tabs.
+- Folded classification navigation on small screens and retained desktop browsing.
+- Added manual regression coverage and corrected its preview assembly to match the published structure.
+
 ## 2026-11-06 — Visual theme gateways
 
 - Replaced the crowded public entry page with six illustrated, colour-coded worlds and three visual journeys.
