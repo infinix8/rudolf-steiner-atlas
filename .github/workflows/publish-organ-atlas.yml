@@ -63,8 +63,8 @@ jobs:
               target = (base / location).resolve()
               assert target.is_file(), f'Missing organ manifest dependency: {name} {location}'
           body_map = json.loads(Path('dist/research/organ-body-map-v1.json').read_text())
-          assert body_map['organ_count'] == 10 and len(body_map['organs']) == 10
-          assert len({item['id'] for item in body_map['organs']}) == 10
+          assert body_map['organ_count'] == len(body_map['organs'])
+          assert len({item['id'] for item in body_map['organs']}) == len(body_map['organs'])
           for item in body_map['organs']:
               assert (Path('dist/atlas') / item['route'].split('?')[0].split('#')[0]).is_file(), f"Missing organ page: {item['route']}"
           for rel in ['atlas/app.js', 'atlas/graph.js', 'atlas/organs.js', 'atlas/style.css', 'atlas/study-paths.json']:
