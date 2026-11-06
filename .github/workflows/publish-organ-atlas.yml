@@ -67,6 +67,7 @@ jobs:
           test -s dist/atlas/organ-detail.js
           test -s dist/atlas/organ-detail.css
           test -s dist/research/organ-atlas-guides-v1.json
+          test -s dist/research/organ-atlas-guides-v2-expansion.json
           test -s dist/research/organ-visual-comparisons-v1.json
           test -s dist/research/organ-body-map-v1.json
           test -s dist/atlas/organs.html
