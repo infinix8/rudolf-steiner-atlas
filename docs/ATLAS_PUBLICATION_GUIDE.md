@@ -1,3 +1,5 @@
+> **Six organ guides milestone:** [Implementation and source boundary checkpoint](VISUAL_ATLAS_SIX_ORGAN_GUIDES_2026-11-06.md). There are six fully structured **editorial guides** (Heart, Liver, Lungs, Brain, Kidneys, Spleen), not six exhaustively German-audited or scientifically validated organ origin accounts. Four other body-map organs still have research-index status. No automatic deployment or browser testing is enabled.
+
 > **Current anatomy release (6 November 2026):** The body map has 10 navigation targets: 8 anatomical callouts (including thyroid and urinary bladder) plus kidney/spleen links explicitly identified as not depicted. The default view focuses on the torso; visitors may switch to the full-body view. `tools/validate_visual_organ_atlas.py` checks all targets and comparison sources without adding another Actions workflow.
 
 > **Open medical SVG (6 November 2026):** The manual Pages workflow now retrieves and parses [DBCLS's CC BY 4.0 adult anatomy illustration](ANATOMY_ARTWORK_ATTRIBUTION.md) as a local page asset shared by the eight-organ body map and both detailed guided pages. It falls back to the Wikimedia Commons mirror if necessary. This occurs within the **same single manual publish job**, not an additional Actions run. No workflow is triggered by a research/design commit.
@@ -19,6 +21,10 @@ The unified homepage at `https://infinix8.github.io/rudolf-steiner-atlas/` offer
 | `/atlas/body.html` | Visual clickable eight-organ human-body map and discovery interface |
 | `/atlas/organ-detail.html?organ=organ-heart&layer=overview` | New eight-layer Heart guide |
 | `/atlas/organ-detail.html?organ=organ-liver&layer=overview` | New eight-layer Liver guide |
+| `/atlas/organ-detail.html?organ=organ-lungs&layer=overview` | Eight-layer Lung guide |
+| `/atlas/organ-detail.html?organ=organ-brain&layer=overview` | Eight-layer Brain guide |
+| `/atlas/organ-detail.html?organ=organ-kidneys&layer=overview` | Eight-layer Kidney guide, explicitly not pictured in current anatomy view |
+| `/atlas/organ-detail.html?organ=organ-spleen&layer=overview` | Eight-layer Spleen guide, explicitly not pictured in current anatomy view |
 | `/atlas/compare-organs.html` | Five source-linked, interactive visual Heart/Liver comparisons |
 | `/atlas/mobile-preview.html` | Curated Heart/Liver guided organ experience |
 | `/atlas/organs.html` | Full current 40-dossier organ concordance reader |
@@ -32,7 +38,7 @@ The unified homepage at `https://infinix8.github.io/rudolf-steiner-atlas/` offer
 
 The visual comparison page reads `research/organ-visual-comparisons-v1.json` and resolves each card to a source record in the curated guide JSON. Its five lenses and exact source IDs are checked in the same manual release.
 
-The new visual Heart/Liver pages load `research/organ-atlas-guides-v1.json` and require `atlas/organ-detail.js` and `atlas/organ-detail.css`. The manual deployment validates these guide links with `python3 tools/validate_visual_organ_atlas.py`.
+The six guided organ pages load the intact original `research/organ-atlas-guides-v1.json` and the additive `research/organ-atlas-guides-v2-expansion.json`; both are bundled as part of the single manual publish job. The pages require `atlas/organ-detail.js` and `atlas/organ-detail.css`. The manual deployment validates these guide links with `python3 tools/validate_visual_organ_atlas.py`.
 
 The visual body map loads `research/organ-body-map-v1.json`. The single manual publishing job checks that each mapped organ's target HTML file exists.
 
