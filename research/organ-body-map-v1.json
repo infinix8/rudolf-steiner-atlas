@@ -2,8 +2,8 @@
   "schema_version": "1.0",
   "as_of": "2026-11-05",
   "view": "anatomy_plate_with_source_aligned_label_callouts",
-  "scope": "DBCLS CC BY 4.0 medical SVG with linked editorial callout labels for six visibly represented organs; spleen and kidneys remain accessible via a clearly marked organ list, not falsely positioned on the plate.",
-  "organ_count": 8,
+  "scope": "CC BY 4.0 DBCLS medical SVG with eight illustrated organ callouts (including thyroid and bladder); two nondrawn organs (kidneys, spleen) stay accessible by explicit list links. The diagram is for navigation, not medical diagnosis or evidence of Steiner's claims.",
+  "organ_count": 10,
   "organs": [
     {
       "id": "organ-brain",
@@ -34,6 +34,34 @@
       }
     },
     {
+      "id": "organ-thyroid",
+      "label": "Thyroid",
+      "system": "Endocrine",
+      "figure_key": "thyroid",
+      "summary": "The thyroid is shown in the neck of the medical illustration. The organ's source-linked Steiner research guide is still in development.",
+      "related": [
+        "Endocrine",
+        "Glands",
+        "Neck"
+      ],
+      "status": "index_only",
+      "route": "organs.html?organ=organ-thyroid",
+      "marker": {
+        "visible": true,
+        "anchor": {
+          "x": 300,
+          "y": 153
+        },
+        "callout": {
+          "x": 116,
+          "y": 180,
+          "side": "left"
+        },
+        "confidence": "illustrated",
+        "label_index": 2
+      }
+    },
+    {
       "id": "organ-lungs",
       "label": "Lungs",
       "system": "Breathing and rhythm",
@@ -58,7 +86,7 @@
           "side": "right"
         },
         "confidence": "illustrated",
-        "label_index": 2
+        "label_index": 3
       }
     },
     {
@@ -86,7 +114,7 @@
           "side": "right"
         },
         "confidence": "illustrated",
-        "label_index": 3
+        "label_index": 4
       }
     },
     {
@@ -114,7 +142,7 @@
           "side": "left"
         },
         "confidence": "illustrated",
-        "label_index": 4
+        "label_index": 5
       }
     },
     {
@@ -141,7 +169,7 @@
           "side": "right"
         },
         "confidence": "illustrated",
-        "label_index": 5
+        "label_index": 6
       }
     },
     {
@@ -159,7 +187,7 @@
       "marker": {
         "visible": false,
         "confidence": "not_depicted",
-        "label_index": 6,
+        "label_index": 7,
         "visibility_note": "This organ is not clearly depicted in this front illustration. Use the organ list to open its research dossier."
       }
     },
@@ -178,7 +206,7 @@
       "marker": {
         "visible": false,
         "confidence": "not_depicted",
-        "label_index": 7,
+        "label_index": 8,
         "visibility_note": "This organ is not clearly depicted in this front illustration. Use the organ list to open its research dossier."
       }
     },
@@ -206,7 +234,35 @@
           "side": "right"
         },
         "confidence": "illustrated",
-        "label_index": 8
+        "label_index": 9
+      }
+    },
+    {
+      "id": "organ-bladder",
+      "label": "Urinary bladder",
+      "short_label": "Bladder",
+      "system": "Urinary",
+      "figure_key": "bladder",
+      "summary": "The urinary bladder is shown in the pelvis. Its organ-specific research remains indexed rather than fully curated.",
+      "related": [
+        "Urinary system",
+        "Pelvis"
+      ],
+      "status": "index_only",
+      "route": "organs.html?organ=organ-bladder",
+      "marker": {
+        "visible": true,
+        "anchor": {
+          "x": 299,
+          "y": 510
+        },
+        "callout": {
+          "x": 117,
+          "y": 512,
+          "side": "left"
+        },
+        "confidence": "illustrated",
+        "label_index": 10
       }
     }
   ],
@@ -227,5 +283,5 @@
     ],
     "adaptation": "Six source-aligned, text-labeled callouts and source-linked organ routes; nonpictured spleen/kidneys explicitly marked; matching mini locators"
   },
-  "marker_policy": "Show callouts only for visually represented structures. Do not imply the front illustration depicts kidneys or spleen. Coordinates are editorial orientation, not diagnostic precision."
+  "marker_policy": "Show callouts only where the source illustration clearly depicts a structure. Do not pin kidneys or spleen, which are not separately illustrated in this frontal plate."
 }
