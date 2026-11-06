@@ -35,3 +35,12 @@ Added `atlas/journey.html`, `journey.js` and `journey.css`. The reader consumes 
 Concept pages now use three accessible reading layers: Explore, Original sources and Connections. Keyboard arrow keys and Home/End move between tabs; inactive panels are hidden. Research status text and unverified-link distinctions remain attached to their respective material. On small screens the classification sidebar starts folded, while desktop navigation stays open.
 
 Focused interactive checks exercised all eight journeys and 41 stops, next-step navigation, concept/source tabs, keyboard switching and return to step 2. Narrow iframe checks verified journey and concept layouts without horizontal overflow and confirmed the mobile drawer starts closed. Additional regression cases cover these interactions in the existing manual smoke suite. Its server now assembles the public folder layout so the landing-page checks exercise the same structure as Pages. No additional automatic workflow was introduced. Full smoke-suite execution remains separate from the focused interactive checks.
+
+
+### Release checkpoint
+
+Source commit: `a9520ece3e837d18366d050c12c147836b742160`.
+
+The integrity workflow passed. Pages run `42259560310` assembled and uploaded the website successfully but remained `deployment_queued` until the job's ten-minute timeout cancelled it. The new journey route was not public when checked. This is an incomplete release, not a verified live deployment. No automatic retry was started, to avoid repeated runner usage while the Pages queue remained stalled.
+
+Resume publication from this existing source commit/run after the Pages queue recovers; do not redo the implementation. The exact run is https://github.com/infinix8/rudolf-steiner-atlas/actions/runs/42259560310. The local preview and focused browser checks passed; the full manual smoke suite was not run.
