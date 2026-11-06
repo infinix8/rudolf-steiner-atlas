@@ -90,8 +90,11 @@ for item in body["organs"]:
 check({item["id"] for item in body["organs"] if item["status"] == "guided"} == expected_guide_ids,
       "All six guided organs should be offered through body map navigation.")
 check({item["id"] for item in body["organs"] if item["status"] == "index_only"}
-      == {"organ-thyroid", "organ-stomach", "organ-intestines", "organ-bladder"},
-      "Uncurated organ topics must remain clearly indexed rather than presented as completed guides.")
+      == {"organ-thyroid", "organ-stomach", "organ-bladder"},
+      "Three index-only organ topics must not be presented as completed guides.")
+check({item["id"] for item in body["organs"] if item["status"] == "research_dossier"}
+      == {"organ-intestines"},
+      "Intestines must retain its existing source-linked dossier status, not be downgraded to index-only.")
 
 
 for g in guides["guides"]:
