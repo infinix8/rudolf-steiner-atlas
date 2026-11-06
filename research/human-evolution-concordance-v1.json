@@ -1,0 +1,600 @@
+{
+  "version": "1.0",
+  "date": "2026-11-06",
+  "title": "Steiner Human Evolution Concordance",
+  "description": "Editorial study index to Steiner's Lemurian, Atlantean, and Post-Atlantean evolutionary narrative. These claims are attributed to Steiner, not empirical history.",
+  "method": "Lemurian entries are analytical milestones rather than Steiner-defined named sub-stages; Atlantean labels reproduce early historical-Theosophical terminology only; future periods are prospective. Inherited influences continue rather than being automatically replaced.",
+  "stages": [
+    {
+      "id": "L1",
+      "epoch": "Lemurian",
+      "name": "Early plastic / will-dominated humanity",
+      "inheritedForces": "Earlier solar-lunar formative forces; pre-existing physical, etheric, astral organization",
+      "activeForces": "Intense soul-will acting into still-plastic bodily matter",
+      "inheritedAbilities": "Dreamlike soul awareness; direct instinctive response to nature",
+      "newAbilities": "Elementary will-based bodily control and imaginative response to environment",
+      "increasing": "Plasticity, will effectiveness",
+      "decreasing": "Clear memory, abstract thought, stable bodily form",
+      "newInfluences": "No precisely dated new influence assigned to this thematic row",
+      "beings": "Higher guides and creative hierarchies (not yet stage-assigned)",
+      "people": "Soft/pliable bodies; instinctive, pre-conceptual behavior",
+      "events": "Early Lemurian conditions precede full bodily differentiation",
+      "contribution": "Creates conditions for individualized embodiment",
+      "risk": "Unstable environment and undeveloped self-direction",
+      "sourceIds": [
+        "G11-S",
+        "G11-L",
+        "G13"
+      ],
+      "evidence": "Analytical Lemurian milestone",
+      "note": "A comparative thematic milestone. These Lemurian entries overlap and are not Steiner's formal seven named subdivisions."
+    },
+    {
+      "id": "L2",
+      "epoch": "Lemurian",
+      "name": "Moon separation and stabilization",
+      "inheritedForces": "Plastic human form and evolving etheric/physical structures",
+      "activeForces": "Reordered solar and lunar influences; bodily consolidation",
+      "inheritedAbilities": "Soul-driven bodily plasticity and instinctive adaptation",
+      "newAbilities": "More sustainable earthly incarnation; conditions for firmer bodily organization",
+      "increasing": "Differentiation of earthly conditions",
+      "decreasing": "Extreme earlier fluidity / undifferentiated form",
+      "newInfluences": "The Moon separates from the Earth in Steiner’s macro-narrative",
+      "beings": "Sun and Moon spiritual powers / higher guiding beings",
+      "people": "Human embodiment increasingly adapted to earthly density",
+      "events": "Separation of Moon (broad Lemurian turning point)",
+      "contribution": "Makes durable development of human form possible",
+      "risk": "Increasing density restricts direct soul-control of matter",
+      "sourceIds": [
+        "G13",
+        "G11-S"
+      ],
+      "evidence": "Analytical Lemurian milestone",
+      "note": "A comparative thematic milestone. These Lemurian entries overlap and are not Steiner's formal seven named subdivisions."
+    },
+    {
+      "id": "L3",
+      "epoch": "Lemurian",
+      "name": "Division of sexes; forces redirected inward",
+      "inheritedForces": "Earlier bisexual/undifferentiated reproductive organization; plastically formed bodies",
+      "activeForces": "Polarization of reproductive forces; part of formative force turns inward",
+      "inheritedAbilities": "Instinctive reproductive and bodily formative capacities",
+      "newAbilities": "Conditions for development of inner organs of cognition and future thinking",
+      "increasing": "Inner organ formation; desire for knowledge",
+      "decreasing": "Self-reproduction and unrestricted outward body formation",
+      "newInfluences": "New male/female physical differentiation (not a new spiritual entity)",
+      "beings": "Higher beings of Love; advanced spiritual guides",
+      "people": "Physical differentiation; Steiner links redirected reproductive force to thought-organs",
+      "events": "Progressive differentiation of male and female bodies",
+      "contribution": "Seeds bodily basis for eventual independent thinking",
+      "risk": "Self-centered desire and separation from surroundings",
+      "sourceIds": [
+        "G11-S",
+        "G13"
+      ],
+      "evidence": "Analytical Lemurian milestone",
+      "note": "A comparative thematic milestone. These Lemurian entries overlap and are not Steiner's formal seven named subdivisions."
+    },
+    {
+      "id": "L4",
+      "epoch": "Lemurian",
+      "name": "Human “I” and Luciferic involvement",
+      "inheritedForces": "Earlier divinely guided soul life and newly differentiated bodies",
+      "activeForces": "Individual desire, independent perception, self-assertion; Luciferic impulses work on astral nature",
+      "inheritedAbilities": "Dreamlike clairvoyance, will, instinct, immature cognitive organs",
+      "newAbilities": "Capacity to err and choose; independent quest for knowledge; early ego-direction",
+      "increasing": "Personal desire, separation, knowledge-seeking",
+      "decreasing": "Unquestioning spiritual guidance / innocence",
+      "newInfluences": "Luciferic/light-bringer beings act alongside guiding beings (not replacing them)",
+      "beings": "Luciferic beings; higher Beings of Love; human guides",
+      "people": "Steiner’s account of the Fall and the human soul’s more individual incarnation",
+      "events": "Luciferic intervention and deepening entry into sensory life",
+      "contribution": "Necessary precondition (with risks) for freedom and independence",
+      "risk": "Error, selfishness, premature sensory involvement",
+      "sourceIds": [
+        "G11-S",
+        "G13",
+        "G111"
+      ],
+      "evidence": "Analytical Lemurian milestone",
+      "note": "A comparative thematic milestone. These Lemurian entries overlap and are not Steiner's formal seven named subdivisions."
+    },
+    {
+      "id": "L5",
+      "epoch": "Lemurian",
+      "name": "Will-training, nature magic and initiation",
+      "inheritedForces": "Strong will and immediate perception of growth/natural forces",
+      "activeForces": "Initiate-guided education in will, imaginative conception and natural-force work",
+      "inheritedAbilities": "Power to shape body by will; immediate reading of natural action",
+      "newAbilities": "Controlled feats of will; building in caves; schooling in forces of nature",
+      "increasing": "Will-discipline; practical nature-mastery",
+      "decreasing": "Dependence on direct bodily plasticity as Earth hardens",
+      "newInfluences": "Organized initiatory guidance becomes socially formative (no unique date)",
+      "beings": "Initiates and spiritual world-powers in places of worship",
+      "people": "Special training sites, severe trials, authority of initiates",
+      "events": "Will-oriented “schools” and sanctuaries",
+      "contribution": "Transmits systematic cultivation of capacities later carried into Atlantis",
+      "risk": "Power without inner discipline; harsh training methods described by Steiner",
+      "sourceIds": [
+        "G11-L"
+      ],
+      "evidence": "Analytical Lemurian milestone",
+      "note": "A comparative thematic milestone. These Lemurian entries overlap and are not Steiner's formal seven named subdivisions."
+    },
+    {
+      "id": "L6",
+      "epoch": "Lemurian",
+      "name": "Imagination, memory germs and moral feeling",
+      "inheritedForces": "Will culture; sense of forces in nature; songlike expression",
+      "activeForces": "Imaginative soul life and early enduring inner pictures",
+      "inheritedAbilities": "Instinctive imaginative perception and nature-consonant feeling",
+      "newAbilities": "Germs of memory, rudimentary moral contrasts, personal inwardness",
+      "increasing": "Memory germs, feeling, proto-morality",
+      "decreasing": "Instant forgetting of every experience (begins to change)",
+      "newInfluences": "Priestess/wise-woman guidance emphasized in GA 11",
+      "beings": "Priestesses; higher leaders; guiding spiritual beings",
+      "people": "Steiner attributes distinctive soul-imaginative development to women in his narrative",
+      "events": "Emergence of good/evil contrasts and first retained inner pictures",
+      "contribution": "Provides foundations for Atlantean memory and social life",
+      "risk": "No reliable quantitative rate or universal gender rule established",
+      "sourceIds": [
+        "G11-L"
+      ],
+      "evidence": "Analytical Lemurian milestone",
+      "note": "A comparative thematic milestone. These Lemurian entries overlap and are not Steiner's formal seven named subdivisions."
+    },
+    {
+      "id": "L7",
+      "epoch": "Lemurian",
+      "name": "Late priestess culture, selected colony, catastrophe",
+      "inheritedForces": "Formative will; early memory and imagination; hierarchical guidance",
+      "activeForces": "Rhythmic song and cultic organization; adaptation for future Atlantean life",
+      "inheritedAbilities": "Nature-working and germinal memory; elementary community culture",
+      "newAbilities": "Proto-language/rhythmic song; more durable training, cultivation and transmission",
+      "increasing": "Memory and culture transmission; selective settlement",
+      "decreasing": "Earlier total bodily flexibility; independent Lemurian homeland",
+      "newInfluences": "Higher leaders select a group for next epoch; no specific new class of beings established",
+      "beings": "Advanced guiding beings and priestesses",
+      "people": "Priestess-led chant, ritual rhythm; selected future-bearing community",
+      "events": "Volcanic fire catastrophes; preserved community prepared for Atlantis",
+      "contribution": "Hands forward formative skills and first memory to Atlantean development",
+      "risk": "Fire-related collapse, misuse of will in some accounts",
+      "sourceIds": [
+        "G11-L",
+        "G13",
+        "G90"
+      ],
+      "evidence": "Analytical Lemurian milestone",
+      "note": "A comparative thematic milestone. These Lemurian entries overlap and are not Steiner's formal seven named subdivisions."
+    },
+    {
+      "id": "A1",
+      "epoch": "Atlantean",
+      "name": "Rmoahals",
+      "inheritedForces": "Lemurian will, nature-bond, first memory germs",
+      "activeForces": "Memory of sensory images; speech as nature-effective force",
+      "inheritedAbilities": "Instinctive knowledge of nature and will-power",
+      "newAbilities": "Naming, recollecting, magical/healing speech, human bonds through words",
+      "increasing": "Speech, recollection, sensory continuity",
+      "decreasing": "Immediate non-verbal nature-contact slowly starts receding",
+      "newInfluences": "Atlantean memory and effective naming emerge; no exclusive new being assigned",
+      "beings": "Nature-spirits; broader Atlantean hierarchies",
+      "people": "Sacred regard for speech; little appetite for using it selfishly",
+      "events": "First Atlantean memory-speech culture",
+      "contribution": "Begins humanity’s memory epoch",
+      "risk": "Magic of words declines in later stages",
+      "sourceIds": [
+        "G11-A",
+        "G13"
+      ],
+      "evidence": "Named Atlantean stage",
+      "note": "An early GA 11 historical-Theosophical stage label; not an ethnic category or a claim about contemporary peoples."
+    },
+    {
+      "id": "A2",
+      "epoch": "Atlantean",
+      "name": "Tlavatlis",
+      "inheritedForces": "Rmoahal memory and speech; natural life-force awareness",
+      "activeForces": "Personal memory of deeds, ambition and community self-consciousness",
+      "inheritedAbilities": "Ability to recall and speak with force",
+      "newAbilities": "Recognizing achievement; choosing leaders; veneration of ancestors",
+      "increasing": "Autobiographical memory, recognition, ancestor cult",
+      "decreasing": "Non-personal innocent regard for shared powers",
+      "newInfluences": "Personal ambition and self-importance become prominent (not newly arriving beings)",
+      "beings": "Luciferic desire continues; guiding powers not mapped stagewise",
+      "people": "Leaders recognized for remembered achievements",
+      "events": "Elective leadership, ancestor reverence",
+      "contribution": "Memory begins to organize social groups",
+      "risk": "Vanity and emerging power-seeking",
+      "sourceIds": [
+        "G11-A"
+      ],
+      "evidence": "Named Atlantean stage",
+      "note": "An early GA 11 historical-Theosophical stage label; not an ethnic category or a claim about contemporary peoples."
+    },
+    {
+      "id": "A3",
+      "epoch": "Atlantean",
+      "name": "Toltecs",
+      "inheritedForces": "Shared memory; leaders; verbal and life-force power",
+      "activeForces": "Memory-based commonwealths, heredity of offices and king-initiations",
+      "inheritedAbilities": "Communal history; instinctive powers; social cohesion",
+      "newAbilities": "Organized states, dynastic rule, stronger teacher-pupil transfer",
+      "increasing": "State organization, concentrated authority",
+      "decreasing": "Purely spontaneous kinship as only social organizing basis",
+      "newInfluences": "Initiated ruler institutions; this is an institutional—not new cosmic—impulse",
+      "beings": "King-initiates; Atlantean oracle wisdom",
+      "people": "Ruler-initiates; vividly remembered ancestry",
+      "events": "Early statecraft; influence of hereditary kings and initiation",
+      "contribution": "Transforms personal memory into structured social civilization",
+      "risk": "Power concentration and selfish use of life forces",
+      "sourceIds": [
+        "G11-A",
+        "G13"
+      ],
+      "evidence": "Named Atlantean stage",
+      "note": "An early GA 11 historical-Theosophical stage label; not an ethnic category or a claim about contemporary peoples."
+    },
+    {
+      "id": "A4",
+      "epoch": "Atlantean",
+      "name": "Original Turanians",
+      "inheritedForces": "Life-force mastery, memory-based polities, personal ambition",
+      "activeForces": "Self-serving manipulation of growth/reproduction forces",
+      "inheritedAbilities": "Ability to work living forces directly",
+      "newAbilities": "Strong practical command, but directed toward subjective appetite",
+      "increasing": "Unrestrained desire and exploitation of life forces",
+      "decreasing": "Harmony and reverence toward living forces",
+      "newInfluences": "Ahrimanic entry is placed around MIDDLE of Atlantis broadly; NOT securely tied to this exact sub-stage",
+      "beings": "Luciferic influences persist; Ahriman around middle (epoch-wide)",
+      "people": "Desire-driven power; harmful uses of initiated knowledge",
+      "events": "Widespread misuse of formative forces in GA 11",
+      "contribution": "Shows why unregulated will must be restrained by judgment",
+      "risk": "Conflicting forces and, in wider Atlantis, climatic and flood catastrophes",
+      "sourceIds": [
+        "G11-A",
+        "G13",
+        "G111",
+        "G107"
+      ],
+      "evidence": "Named Atlantean stage",
+      "note": "An early GA 11 historical-Theosophical stage label; not an ethnic category or a claim about contemporary peoples."
+    },
+    {
+      "id": "A5",
+      "epoch": "Atlantean",
+      "name": "Original Semites",
+      "inheritedForces": "Power of memory; spiritual initiation; consequences of life-force misuse",
+      "activeForces": "Reflective judgment and comparison of experiences",
+      "inheritedAbilities": "Picture-memory and social traditions",
+      "newAbilities": "Calculation, reasoning, inner deliberation, control of wants",
+      "increasing": "Judgment, self-regulation, thought",
+      "decreasing": "Direct command over germinal life forces",
+      "newInfluences": "No separate new hostile being specified; Ahrimanic influence continues",
+      "beings": "Sun/Christ oracle guidance, Luciferic/Ahrimanic background",
+      "people": "Person begins consulting an inner voice before acting",
+      "events": "Selection of future-bearing intellectually capable population",
+      "contribution": "Crucial shift from nature-magical power to thinking freedom",
+      "risk": "Earlier powers fade; inherited desires remain",
+      "sourceIds": [
+        "G11-A",
+        "G13"
+      ],
+      "evidence": "Named Atlantean stage",
+      "note": "An early GA 11 historical-Theosophical stage label; not an ethnic category or a claim about contemporary peoples."
+    },
+    {
+      "id": "A6",
+      "epoch": "Atlantean",
+      "name": "Akkadians",
+      "inheritedForces": "Original-Semitic reflective thinking, memory and social organization",
+      "activeForces": "Practical calculation, law, innovation, trade",
+      "inheritedAbilities": "Judgment, concern for practical rules",
+      "newAbilities": "Legislation, commerce, deliberate settlement and enterprise",
+      "increasing": "Legal institutions, enterprise, novelty",
+      "decreasing": "Former immediate germinal-force mastery",
+      "newInfluences": "No new spiritual order mapped exclusively to this stage",
+      "beings": "Same continuing opposing and guiding currents",
+      "people": "Prudent, change-seeking, commercially active",
+      "events": "Lawmaking and commercial expansion",
+      "contribution": "Creates legal frameworks for independent people",
+      "risk": "Restlessness; rational cunning can serve self-interest",
+      "sourceIds": [
+        "G11-A"
+      ],
+      "evidence": "Named Atlantean stage",
+      "note": "An early GA 11 historical-Theosophical stage label; not an ethnic category or a claim about contemporary peoples."
+    },
+    {
+      "id": "A7",
+      "epoch": "Atlantean",
+      "name": "Mongolian",
+      "inheritedForces": "Thought, memory, ancestral tradition, diminished life-force magic",
+      "activeForces": "Thinking retained together with devotion to ancient power",
+      "inheritedAbilities": "Sense of inherited tradition and newer reflection",
+      "newAbilities": "Combination of thought with belief in ancient force",
+      "increasing": "Thought and continuity of inherited tradition",
+      "decreasing": "Literal direct command over life-forces",
+      "newInfluences": "No uniquely new being identified by Steiner for this substage",
+      "beings": "Continuing oracle and spiritual currents; stage-specific assignment absent",
+      "people": "Veneration of what is ancient; intense belief in residual life-force",
+      "events": "Late Atlantean persistence while broader epoch ends in floods",
+      "contribution": "Preserves an older strand alongside emerging reason",
+      "risk": "Danger of clinging to inherited belief; epoch-wide final upheavals",
+      "sourceIds": [
+        "G11-A",
+        "G13"
+      ],
+      "evidence": "Named Atlantean stage",
+      "note": "An early GA 11 historical-Theosophical stage label; not an ethnic category or a claim about contemporary peoples."
+    },
+    {
+      "id": "P1",
+      "epoch": "Post-Atlantean",
+      "name": "Ancient Indian",
+      "inheritedForces": "Last Atlantean memory, spiritual longings, beginnings of thought",
+      "activeForces": "Etheric organization receives special emphasis; supersensible remembrance",
+      "inheritedAbilities": "Reflective thinking seed and traces of spiritual awareness",
+      "newAbilities": "Sacred spiritual teaching articulated by seven Rishis; cosmological wisdom",
+      "increasing": "Wisdom-oriented perception; spiritual longing",
+      "decreasing": "Earlier direct Atlantean clairvoyance as everyday endowment",
+      "newInfluences": "Manu’s cultural impulse and seven Rishis; not the first arrival of Christ",
+      "beings": "Manu; seven Rishis; spiritual teachers; Christ oracle background",
+      "people": "Physical appearance regarded as maya; spiritual homeland revered",
+      "events": "Ancient Indian foundation from Manu-linked teaching",
+      "contribution": "Transfers oracle wisdom into human culture",
+      "risk": "Diminished attraction to practical sensory-world mastery",
+      "sourceIds": [
+        "G13",
+        "G108",
+        "G152"
+      ],
+      "evidence": "Post-Atlantean cultural period",
+      "note": "A post-Atlantean cultural period in Steiner's account."
+    },
+    {
+      "id": "P2",
+      "epoch": "Post-Atlantean",
+      "name": "Ancient Persian",
+      "inheritedForces": "Ancient Indian spiritual inheritance; growing thought and earthly embodiment",
+      "activeForces": "Sentient/astral body emphasized; active relation to earthly work",
+      "inheritedAbilities": "Spiritual wisdom, reasoning beginnings",
+      "newAbilities": "Working the Earth and consciously meeting cosmic light/darkness opposition",
+      "increasing": "Conscious engagement with Earth; constructive will",
+      "decreasing": "Exclusive treatment of world as merely illusion",
+      "newInfluences": "Zarathustra’s Ahura Mazda teaching highlights opposition of Ahriman",
+      "beings": "Zarathustra; Ahura Mazda/Ormuzd; Ahriman",
+      "people": "Struggle between light and darkness, earth cultivation",
+      "events": "Zarathustra spiritual mission",
+      "contribution": "Spiritual will increasingly works through earthly activity",
+      "risk": "Ahrimanic temptation and dualistic fixation",
+      "sourceIds": [
+        "G13",
+        "G152"
+      ],
+      "evidence": "Post-Atlantean cultural period",
+      "note": "A post-Atlantean cultural period in Steiner's account."
+    },
+    {
+      "id": "P3",
+      "epoch": "Post-Atlantean",
+      "name": "Egyptian–Chaldean",
+      "inheritedForces": "Persian earthly engagement, sacred wisdom and cosmic orientation",
+      "activeForces": "Sentient soul increasingly central; connection between stars and earthly life",
+      "inheritedAbilities": "Spiritual tradition, ritual, developing earthly knowledge",
+      "newAbilities": "Celestial observation, mystery symbolism, practical cosmic/earth relations",
+      "increasing": "Sentient-soul differentiation, ordered study of nature and stars",
+      "decreasing": "Immediate spiritual dependence characteristic of earlier age",
+      "newInfluences": "Hermes/Thoth and mystery guidance in Steiner’s description",
+      "beings": "Hermes-linked mystery teachers; hierarchies; inherited opposing influences",
+      "people": "Temple, star, death and afterlife symbolism",
+      "events": "Development of Egypto-Chaldean mystery culture",
+      "contribution": "Mediates spiritual-cosmic ideas through outer signs and law",
+      "risk": "Possible fixation on external symbols or destiny",
+      "sourceIds": [
+        "G13",
+        "G152"
+      ],
+      "evidence": "Post-Atlantean cultural period",
+      "note": "A post-Atlantean cultural period in Steiner's account."
+    },
+    {
+      "id": "P4",
+      "epoch": "Post-Atlantean",
+      "name": "Greco–Roman",
+      "inheritedForces": "Egypto-Chaldean sentient soul and symbolic science",
+      "activeForces": "Intellectual/mind soul; individualized conceptual life and cultural form",
+      "inheritedAbilities": "Thinking, inherited mystery wisdom, outer perception",
+      "newAbilities": "Philosophy, art, personal civic life, Roman law",
+      "increasing": "Personality, conceptual articulation, physical expression of spiritual ideas",
+      "decreasing": "Instinctive spiritual perception",
+      "newInfluences": "Christ incarnates and Mystery of Golgotha occurs during this age",
+      "beings": "Christ; mystery initiates; spiritual hierarchies; persistent Lucifer/Ahriman",
+      "people": "Greek artistic form, Roman civic/legal consciousness",
+      "events": "Mystery of Golgotha (first century CE)",
+      "contribution": "Christ impulse enters Earth development; stronger individual “I”",
+      "risk": "Formalism, outer power and loss of inward spiritual vision",
+      "sourceIds": [
+        "G13",
+        "G152",
+        "G130"
+      ],
+      "evidence": "Post-Atlantean cultural period",
+      "note": "A post-Atlantean cultural period in Steiner's account."
+    },
+    {
+      "id": "P5",
+      "epoch": "Post-Atlantean",
+      "name": "Modern consciousness-soul age (present)",
+      "inheritedForces": "Greco–Roman personal judgment, Christ impulse and inherited thought",
+      "activeForces": "Consciousness soul; self-reliance, empirical inquiry and moral individuality",
+      "inheritedAbilities": "Intellectual thought, science, religion, law, spiritual-cultural inheritance",
+      "newAbilities": "Self-aware truth-seeking and freedom; possibility of consciously trained spiritual perception",
+      "increasing": "Science, technology, autonomy, critical self-knowledge",
+      "decreasing": "Inherited natural clairvoyance and direct spiritual certainty",
+      "newInfluences": "No new exclusivity: ongoing Christ impulse; continuing Luciferic and Ahrimanic temptations",
+      "beings": "Christ impulse; Lucifer and Ahriman; spiritual beings remain active",
+      "people": "Scientific, individualizing, often material-oriented consciousness",
+      "events": "Modern cultural epoch begins c. 1413; present in 2026",
+      "contribution": "Freely transform thought into moral insight and spiritual cognition",
+      "risk": "Materialism, isolated egoism, technocratic domination; untested passion",
+      "sourceIds": [
+        "G152",
+        "G186",
+        "G130"
+      ],
+      "evidence": "Post-Atlantean cultural period",
+      "note": "A post-Atlantean cultural period in Steiner's account."
+    },
+    {
+      "id": "P6",
+      "epoch": "Post-Atlantean",
+      "name": "Future sixth cultural age",
+      "inheritedForces": "Consciousness-soul autonomy and living Christ impulse",
+      "activeForces": "Spirit-Self impulse and renewed ethical spiritual perception; social warmth",
+      "inheritedAbilities": "Critical thinking, independent moral agency",
+      "newAbilities": "Projected cooperation and consciously earned spiritual insight; love motif",
+      "increasing": "Spirit-Self receptivity, social understanding and love",
+      "decreasing": "Isolated intellect and antisocial alienation (goal, not guaranteed fact)",
+      "newInfluences": "Christ impulse pictured as working through spiritual seeing",
+      "beings": "Christ / Spirit-Self; ongoing adversarial powers in Steiner’s narrative",
+      "people": "Projected brotherhood and clairvoyant-spiritual orientation",
+      "events": "Transition to sixth cultural period (future; not observed)",
+      "contribution": "Synthesizes freedom with spiritual connectedness",
+      "risk": "Risk of false collectivism or pseudo-spiritual authority",
+      "sourceIds": [
+        "G186",
+        "G130",
+        "G121"
+      ],
+      "evidence": "Future teaching",
+      "note": "Steiner's prospective description, not an observed historical period."
+    },
+    {
+      "id": "P7",
+      "epoch": "Post-Atlantean",
+      "name": "Future seventh cultural age",
+      "inheritedForces": "Sixth period social-spiritual capacities; increasing Spirit-Self orientation",
+      "activeForces": "Prophetic / hope motif in Steiner’s eschatological account",
+      "inheritedAbilities": "Self-conscious thought and increasingly spiritualized social faculties",
+      "newAbilities": "Projected preparation for next great Earth epoch; details not fully specified",
+      "increasing": "Prophetic consciousness / hope (future teaching)",
+      "decreasing": "Current form of post-Atlantean life eventually passes",
+      "newInfluences": "Christ impulse described with prophetic emphasis; no precise new incoming beings established",
+      "beings": "Christ impulse and continuing hierarchies; no exclusive stage catalogue",
+      "people": "Not a describable contemporary society; Steiner’s future picture remains schematic",
+      "events": "Future culmination and transition; catastrophe in some lectures",
+      "contribution": "Prepares movement beyond post-Atlantean development",
+      "risk": "Speculative details and apocalyptic conflict cannot be dated as history",
+      "sourceIds": [
+        "G186",
+        "G130"
+      ],
+      "evidence": "Future teaching",
+      "note": "Steiner's prospective description, not an observed historical period."
+    }
+  ],
+  "oracles": [
+    {
+      "name": "Sun / Christ",
+      "focus": "Central directing oracle; initiation focused on Sun Being/Christ mystery; synthesizing role",
+      "source": "GA 13 §§92,98–99; GA 109 lecture 17"
+    },
+    {
+      "name": "Saturn",
+      "focus": "Particular lineage of initiates oriented toward Saturn-related higher beings",
+      "source": "GA 13 §93"
+    },
+    {
+      "name": "Jupiter",
+      "focus": "Particular lineage of initiates oriented toward Jupiter-related higher beings",
+      "source": "GA 13 §93"
+    },
+    {
+      "name": "Mars",
+      "focus": "Particular lineage of initiates oriented toward Mars-related higher beings",
+      "source": "GA 13 §93"
+    },
+    {
+      "name": "Venus",
+      "focus": "Initiation under Venus-related spiritual guide; more individual thought-formation",
+      "source": "GA 13 §93"
+    },
+    {
+      "name": "Mercury",
+      "focus": "Initiation under Mercury-related spiritual guide; supersensible knowledge",
+      "source": "GA 13 §93"
+    },
+    {
+      "name": "Vulcan",
+      "focus": "Earthward focus, foundations of later science and art",
+      "source": "GA 13 §93"
+    }
+  ],
+  "sources": {
+    "G11-L": {
+      "title": "GA 11, The Lemurian Era",
+      "url": "https://rsarchive.org/Books/GA011/English/TPS1911/GA011_c04.html"
+    },
+    "G11-S": {
+      "title": "GA 11, Humanity Before the Division of Sex",
+      "url": "https://rsarchive.org/Books/GA011/English/TPS1911/GA011_c06.html"
+    },
+    "G11-A": {
+      "title": "GA 11, Our Atlantean Forefathers",
+      "url": "https://rsarchive.org/Books/GA011/English/TPS1911/GA011_c02.html"
+    },
+    "G11-T": {
+      "title": "GA 11, Transition to the Fifth Root Race",
+      "url": "https://rsarchive.org/Books/GA011/English/TPS1911/GA011_c03.html"
+    },
+    "G13": {
+      "title": "GA 13, Occult Science, Evolution of Cosmos and Man",
+      "url": "https://rsarchive.org/Books/GA013/English/AP1972/GA013_c04.html"
+    },
+    "G111": {
+      "title": "GA 111, Introduction to Theosophy III",
+      "url": "https://rsarchive.org/Lectures/GA111/English/SOL/19090328p01.html"
+    },
+    "G109": {
+      "title": "GA 109, Lemurian, Atlantean and Post-Atlantean Epochs",
+      "url": "https://rsarchive.org/Lectures/GA109/English/SOL/19090610p01.html"
+    },
+    "G152": {
+      "title": "GA 152, The Path of Christ through the Centuries",
+      "url": "https://rsarchive.org/Lectures/GA152/English/SOL/19131014p01.html"
+    },
+    "G108": {
+      "title": "GA 108, The Rishis",
+      "url": "https://rsarchive.org/Lectures/GA108/English/SOL/19081213p01.html"
+    },
+    "G121": {
+      "title": "GA 121, Lecture 10, Mission of Individual Folk Souls",
+      "url": "https://rsarchive.org/Lectures/GA121/Compare_10.php"
+    },
+    "G186": {
+      "title": "GA 186, The Challenge of the Times",
+      "url": "https://rsarchive.org/Lectures/GA186/English/AP1941/19181207p01.html"
+    },
+    "G130": {
+      "title": "GA 130, Towards the Sixth Epoch",
+      "url": "https://rsarchive.org/Lectures/GA130/English/GB1964/19111203p01.html"
+    },
+    "G262": {
+      "title": "GA 262, Letter of 14 March 1905",
+      "url": "https://rsarchive.org/Lectures/GA262/English/SOL2025/19050314.html"
+    },
+    "G107": {
+      "title": "GA 107, Spiritual-Scientific Anthropology",
+      "url": "https://rsarchive.org/Lectures/GA107/English/SOL/19090101p01.html"
+    },
+    "G254": {
+      "title": "GA 254, The Occult Movement",
+      "url": "https://rsarchive.org/Lectures/GA254/English/SOL/19151107.html"
+    },
+    "G90": {
+      "title": "GA 90a, On Atlantis",
+      "url": "https://rsarchive.org/Lectures/GA090a/English/SOL2024/19040627p01.html"
+    }
+  }
+}
