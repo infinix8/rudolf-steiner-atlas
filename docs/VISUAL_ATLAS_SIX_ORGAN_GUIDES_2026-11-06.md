@@ -16,7 +16,7 @@ The illustrated Organ Atlas now supports six separately curated, eight-layer org
 | Kidneys | [Kidneys](../atlas/organ-detail.html?organ=organ-kidneys&layer=overview) | 8 | Filtration versus historical astral theory, balancing, inner Venus, head and temperament |
 | Spleen | [Spleen](../atlas/organ-detail.html?organ=organ-spleen&layer=overview) | 5 | Meal/blood rhythm, inner Saturn, physical vs supersensible spleen, acknowledged gaps |
 
-**Total:** 46 per-guide source-reference records across six guides. This count is *not* 46 distinct lectures or 46 independently verified German witnesses: some lecture events are repeated in different organ guides. These are selected source-linked editorial explanations, **not** an exhaustive concordance or independently certified medical/spiritual claims.
+**Total:** 46 per-guide source-reference records across six guides, covering **25 distinct source-page URLs**. Every one of the **31 newly added reference records** was cross-checked against the existing corresponding organ dossier's indexed source URLs; no new source URL was introduced without an existing canonical dossier lead. This count is *not* 46 distinct lectures or 46 independently verified German witnesses: some lecture events are repeated in different organ guides. These are selected source-linked editorial explanations, **not** an exhaustive concordance or independently certified medical/spiritual claims.
 
 ## What was built
 
@@ -86,7 +86,7 @@ Primary links are to [RS Archive](https://rsarchive.org/) with GA and cue. No bu
 - `atlas/organ-detail.html`, `atlas/organ-detail.css` — six-organ UI, ethical anatomical locator states.
 - `research/organ-body-map-v1.json`, `atlas/body.html` — six guided routes, one existing dossier-only Intestines route, and three index-only routes (thyroid, stomach, bladder), plus the separate Heart/Liver comparison.
 - `site/index.html` — six mobile-friendly study cards.
-- `tools/validate_visual_organ_atlas.py` — six unique IDs, source existence, claim gaps, visual hotspots and comparison-source validation.
+- `tools/validate_visual_organ_atlas.py` — six unique IDs, source existence, full canonical dossier URL provenance for all four new guides, claim gaps, typed related-organ edges, visual hotspots and comparison-source validation.
 - `.github/workflows/publish-organ-atlas.yml` — single **manual-only** release checks for the new JSON; no auto-commit Action.
 
 ## Release discipline
