@@ -3,11 +3,12 @@
     "title": "Rudolf Steiner Hierarchical Chronology v0.1 — research index",
     "created": "2026-11-16",
     "canonical_markdown": "docs/STEINER_HIERARCHICAL_CHRONOLOGY_MASTER_V01.md",
-    "source_blob_sha": "f5fcbb6803c773098ada00ad32614c8bb3bee9c0",
-    "status": "draft_premilinary_not_exhaustive",
+    "source_blob_sha": "6ed47e5a2c854e8f119cb73722c77a142abad982",
+    "status": "draft_preliminary_not_exhaustive",
     "notice": "Events are source-attributed Steiner claims, predictions, or editorial syntheses, not empirical scientific or historical facts. Evidence P indicates a pertinent excerpt checked, not exhaustive lecture review.",
     "entry_count": 204,
-    "source_count": 34
+    "source_count": 34,
+    "citation_caveat": "The November 4 1919 Ahrimanic-incarnation lecture is catalogued as GA 193; a legacy anthology link may include GA191 in its path."
   },
   "groups": [
     {
@@ -151,7 +152,7 @@
       "id": "CH-1.01",
       "parent_id": "CH-1",
       "title": "Prior spiritual duration.",
-      "description": "Steiner differentiates non-temporal spiritual \"duration\" from time as it first becomes outwardly manifest with Old Saturn warmth..",
+      "description": "Steiner differentiates non-temporal spiritual \"duration\" from time as it first becomes outwardly manifest with Old Saturn warmth.",
       "evidence_flags": [
         "P"
       ],
@@ -159,13 +160,14 @@
         "S01"
       ],
       "section": "B",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "cosmic"
     },
     {
       "id": "CH-1.02",
       "parent_id": "CH-1",
       "title": "Spiritual agency precedes observable materiality.",
-      "description": "The relevant origin is an activity of spiritual beings, not a physical Big Bang or a dated astronomical event..",
+      "description": "The relevant origin is an activity of spiritual beings, not a physical Big Bang or a dated astronomical event.",
       "evidence_flags": [
         "P"
       ],
@@ -173,13 +175,14 @@
         "S01"
       ],
       "section": "B",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "cosmic"
     },
     {
       "id": "CH-1.03",
       "parent_id": "CH-1",
       "title": "Great cycles have pauses.",
-      "description": "Cosmic rest or \"sleep of worlds\" intervenes between major conditions; subsequent activity first recapitulates earlier achievements in transformed fashion..",
+      "description": "Cosmic rest or \"sleep of worlds\" intervenes between major conditions; subsequent activity first recapitulates earlier achievements in transformed fashion.",
       "evidence_flags": [
         "P"
       ],
@@ -187,13 +190,14 @@
         "S01"
       ],
       "section": "B",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "cosmic"
     },
     {
       "id": "CH-1.04",
       "parent_id": "CH-1",
       "title": "Inheritance rather than replacement.",
-      "description": "Later work elaborates previous germs; earlier spiritual agency does not simply vanish when another hierarchy comes to the foreground..",
+      "description": "Later work elaborates previous germs; earlier spiritual agency does not simply vanish when another hierarchy comes to the foreground.",
       "evidence_flags": [
         "P"
       ],
@@ -201,13 +205,14 @@
         "S01"
       ],
       "section": "B",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "cosmic"
     },
     {
       "id": "CH-2.01",
       "parent_id": "CH-2",
       "title": "Foundational outpouring of will.",
-      "description": "Spirits of Will / Thrones pour forth will, providing the earliest basis for a human corporeal germ..",
+      "description": "Spirits of Will / Thrones pour forth will, providing the earliest basis for a human corporeal germ.",
       "evidence_flags": [
         "P"
       ],
@@ -215,13 +220,14 @@
         "S01"
       ],
       "section": "B",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "cosmic"
     },
     {
       "id": "CH-2.02",
       "parent_id": "CH-2",
       "title": "Warmth existence.",
-      "description": "A warmth-condition, not present solid matter, characterizes the outward Saturn state..",
+      "description": "A warmth-condition, not present solid matter, characterizes the outward Saturn state.",
       "evidence_flags": [
         "P"
       ],
@@ -229,13 +235,14 @@
         "S01"
       ],
       "section": "B",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "cosmic"
     },
     {
       "id": "CH-2.03",
       "parent_id": "CH-2",
       "title": "Origin of time.",
-      "description": "Steiner places the emergence of time in connection with manifest warmth..",
+      "description": "Steiner places the emergence of time in connection with manifest warmth.",
       "evidence_flags": [
         "P"
       ],
@@ -243,13 +250,14 @@
         "S01"
       ],
       "section": "B",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "cosmic"
     },
     {
       "id": "CH-2.04",
       "parent_id": "CH-2",
       "title": "Spirits of Wisdom.",
-      "description": "Their activity relates to the reflection of life; this does not mean that Saturn germs are modern living bodies..",
+      "description": "Their activity relates to the reflection of life; this does not mean that Saturn germs are modern living bodies.",
       "evidence_flags": [
         "P"
       ],
@@ -257,13 +265,14 @@
         "S01"
       ],
       "section": "B",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "cosmic"
     },
     {
       "id": "CH-2.05",
       "parent_id": "CH-2",
       "title": "Spirits of Movement.",
-      "description": "Soul-like qualities begin to be expressed/reflected in Saturn's evolution..",
+      "description": "Soul-like qualities begin to be expressed/reflected in Saturn's evolution.",
       "evidence_flags": [
         "P"
       ],
@@ -271,13 +280,14 @@
         "S01"
       ],
       "section": "B",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "cosmic"
     },
     {
       "id": "CH-2.06",
       "parent_id": "CH-2",
       "title": "Spirits of Form.",
-      "description": "Greater differentiation and relative individualization of Saturn manifestations appears..",
+      "description": "Greater differentiation and relative individualization of Saturn manifestations appears.",
       "evidence_flags": [
         "P"
       ],
@@ -285,13 +295,14 @@
         "S01"
       ],
       "section": "B",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "cosmic"
     },
     {
       "id": "CH-2.07",
       "parent_id": "CH-2",
       "title": "Spirits of Personality.",
-      "description": "Personality-like organization and modes of consciousness arise in the descriptions of the stage..",
+      "description": "Personality-like organization and modes of consciousness arise in the descriptions of the stage.",
       "evidence_flags": [
         "L"
       ],
@@ -299,13 +310,14 @@
         "S01"
       ],
       "section": "B",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "cosmic"
     },
     {
       "id": "CH-2.08",
       "parent_id": "CH-2",
       "title": "Fire Spirits / Archangels.",
-      "description": "Steiner associates their activity with original germinal sense-organ developments, not finished eyes or ears..",
+      "description": "Steiner associates their activity with original germinal sense-organ developments, not finished eyes or ears.",
       "evidence_flags": [
         "P"
       ],
@@ -313,13 +325,14 @@
         "S01"
       ],
       "section": "B",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "cosmic"
     },
     {
       "id": "CH-2.09",
       "parent_id": "CH-2",
       "title": "Seraphim / Spirits of Love.",
-      "description": "Their participation in the sense-organ and Fire-Spirit account is also described; avoid exclusive one-spirit-to-one-organ mapping..",
+      "description": "Their participation in the sense-organ and Fire-Spirit account is also described; avoid exclusive one-spirit-to-one-organ mapping.",
       "evidence_flags": [
         "P"
       ],
@@ -327,13 +340,14 @@
         "S01"
       ],
       "section": "B",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "cosmic"
     },
     {
       "id": "CH-2.10",
       "parent_id": "CH-2",
       "title": "Germ of Spirit-Man.",
-      "description": "A seed of a future higher human member appears in the account without being the fully attained Spirit-Man of future humanity..",
+      "description": "A seed of a future higher human member appears in the account without being the fully attained Spirit-Man of future humanity.",
       "evidence_flags": [
         "P"
       ],
@@ -341,13 +355,14 @@
         "S01"
       ],
       "section": "B",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "cosmic"
     },
     {
       "id": "CH-2.11",
       "parent_id": "CH-2",
       "title": "Faint mineral-like consciousness.",
-      "description": "Consciousness is compared with the darkest form of contemporary mineral consciousness, not ordinary awake human awareness..",
+      "description": "Consciousness is compared with the darkest form of contemporary mineral consciousness, not ordinary awake human awareness.",
       "evidence_flags": [
         "P"
       ],
@@ -355,13 +370,14 @@
         "S01"
       ],
       "section": "B",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "cosmic"
     },
     {
       "id": "CH-2.12",
       "parent_id": "CH-2",
       "title": "Dissolution and cosmic night.",
-      "description": "Old Saturn withdraws into rest; its achievement is preserved as a germ for Old Sun..",
+      "description": "Old Saturn withdraws into rest; its achievement is preserved as a germ for Old Sun.",
       "evidence_flags": [
         "P"
       ],
@@ -369,13 +385,14 @@
         "S01"
       ],
       "section": "B",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "cosmic"
     },
     {
       "id": "CH-3.01",
       "parent_id": "CH-3",
       "title": "Recapitulation of Saturn.",
-      "description": "The earlier stages are repeated under changed conditions prior to a new evolutionary advance..",
+      "description": "The earlier stages are repeated under changed conditions prior to a new evolutionary advance.",
       "evidence_flags": [
         "P"
       ],
@@ -383,13 +400,14 @@
         "S01"
       ],
       "section": "B",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "cosmic"
     },
     {
       "id": "CH-3.02",
       "parent_id": "CH-3",
       "title": "Gift of life/etheric organization.",
-      "description": "Spirits of Wisdom impart the life-body germ to the developing human being..",
+      "description": "Spirits of Wisdom impart the life-body germ to the developing human being.",
       "evidence_flags": [
         "P"
       ],
@@ -397,13 +415,14 @@
         "S01"
       ],
       "section": "B",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "cosmic"
     },
     {
       "id": "CH-3.03",
       "parent_id": "CH-3",
       "title": "Warmth condenses to air/gas.",
-      "description": "A new tenuous physical condition is present alongside warmth..",
+      "description": "A new tenuous physical condition is present alongside warmth.",
       "evidence_flags": [
         "P"
       ],
@@ -411,13 +430,14 @@
         "S01"
       ],
       "section": "B",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "cosmic"
     },
     {
       "id": "CH-3.04",
       "parent_id": "CH-3",
       "title": "Light manifests.",
-      "description": "Light and life-processes appear in connection with the Sun evolution..",
+      "description": "Light and life-processes appear in connection with the Sun evolution.",
       "evidence_flags": [
         "P"
       ],
@@ -425,13 +445,14 @@
         "S01"
       ],
       "section": "B",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "cosmic"
     },
     {
       "id": "CH-3.05",
       "parent_id": "CH-3",
       "title": "Plant-like processes.",
-      "description": "The human germ acquires internally moving, vegetative processes; this is an analogy, not an identification with today's plants..",
+      "description": "The human germ acquires internally moving, vegetative processes; this is an analogy, not an identification with today's plants.",
       "evidence_flags": [
         "P"
       ],
@@ -439,13 +460,14 @@
         "S01"
       ],
       "section": "B",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "cosmic"
     },
     {
       "id": "CH-3.06",
       "parent_id": "CH-3",
       "title": "Differentiation of physical and life bodies.",
-      "description": "Steiner describes a process of separation and reorganization of these principles..",
+      "description": "Steiner describes a process of separation and reorganization of these principles.",
       "evidence_flags": [
         "P"
       ],
@@ -453,13 +475,14 @@
         "S01"
       ],
       "section": "B",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "cosmic"
     },
     {
       "id": "CH-3.07",
       "parent_id": "CH-3",
       "title": "Further hierarchical work.",
-      "description": "Movement and Form and other spiritual beings participate in elaboration, stabilization and sensory beginnings..",
+      "description": "Movement and Form and other spiritual beings participate in elaboration, stabilization and sensory beginnings.",
       "evidence_flags": [
         "P"
       ],
@@ -467,13 +490,14 @@
         "S01"
       ],
       "section": "B",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "cosmic"
     },
     {
       "id": "CH-3.08",
       "parent_id": "CH-3",
       "title": "Retarded stages and other kingdoms.",
-      "description": "Beings/entities that cannot follow the main development contribute to differentiated evolutionary streams..",
+      "description": "Beings/entities that cannot follow the main development contribute to differentiated evolutionary streams.",
       "evidence_flags": [
         "P"
       ],
@@ -481,13 +505,14 @@
         "S01"
       ],
       "section": "B",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "cosmic"
     },
     {
       "id": "CH-3.09",
       "parent_id": "CH-3",
       "title": "Sleep-like consciousness.",
-      "description": "Sun-stage consciousness is compared to present sleep..",
+      "description": "Sun-stage consciousness is compared to present sleep.",
       "evidence_flags": [
         "P"
       ],
@@ -495,13 +520,14 @@
         "S01"
       ],
       "section": "B",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "cosmic"
     },
     {
       "id": "CH-3.10",
       "parent_id": "CH-3",
       "title": "Germ of Life-Spirit.",
-      "description": "The future Buddhi principle receives a germinal origin in this account..",
+      "description": "The future Buddhi principle receives a germinal origin in this account.",
       "evidence_flags": [
         "P"
       ],
@@ -509,13 +535,14 @@
         "S01"
       ],
       "section": "B",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "cosmic"
     },
     {
       "id": "CH-3.11",
       "parent_id": "CH-3",
       "title": "Sun cosmic night.",
-      "description": "The Sun condition closes, with results carried into the later Moon condition..",
+      "description": "The Sun condition closes, with results carried into the later Moon condition.",
       "evidence_flags": [
         "P"
       ],
@@ -523,13 +550,14 @@
         "S01"
       ],
       "section": "B",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "cosmic"
     },
     {
       "id": "CH-4.01",
       "parent_id": "CH-4",
       "title": "Recapitulation of Saturn and Sun.",
-      "description": "The Old Moon starts with transformed repetitions of former stages..",
+      "description": "The Old Moon starts with transformed repetitions of former stages.",
       "evidence_flags": [
         "P"
       ],
@@ -537,13 +565,14 @@
         "S01"
       ],
       "section": "B",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "cosmic"
     },
     {
       "id": "CH-4.02",
       "parent_id": "CH-4",
       "title": "Astral body bestowed.",
-      "description": "Spirits of Movement supply the germ of the astral organization..",
+      "description": "Spirits of Movement supply the germ of the astral organization.",
       "evidence_flags": [
         "P"
       ],
@@ -551,13 +580,14 @@
         "S01"
       ],
       "section": "B",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "cosmic"
     },
     {
       "id": "CH-4.03",
       "parent_id": "CH-4",
       "title": "Feeling, sympathy and antipathy.",
-      "description": "An inner soul responsiveness develops through the astral member..",
+      "description": "An inner soul responsiveness develops through the astral member.",
       "evidence_flags": [
         "P"
       ],
@@ -565,13 +595,14 @@
         "S01"
       ],
       "section": "B",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "cosmic"
     },
     {
       "id": "CH-4.04",
       "parent_id": "CH-4",
       "title": "Wish, craving and instinct.",
-      "description": "Work of Spirits of Form contributes to relatively enduring desire patterns..",
+      "description": "Work of Spirits of Form contributes to relatively enduring desire patterns.",
       "evidence_flags": [
         "P"
       ],
@@ -579,13 +610,14 @@
         "S01"
       ],
       "section": "B",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "cosmic"
     },
     {
       "id": "CH-4.05",
       "parent_id": "CH-4",
       "title": "Watery element.",
-      "description": "A further density corresponding to fluid/water joins the older warmth and air conditions..",
+      "description": "A further density corresponding to fluid/water joins the older warmth and air conditions.",
       "evidence_flags": [
         "P"
       ],
@@ -593,13 +625,14 @@
         "S01"
       ],
       "section": "B",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "cosmic"
     },
     {
       "id": "CH-4.06",
       "parent_id": "CH-4",
       "title": "Separation of Sun and Moon.",
-      "description": "Differentiation into spheres enables different classes of beings and forces to work from different positions..",
+      "description": "Differentiation into spheres enables different classes of beings and forces to work from different positions.",
       "evidence_flags": [
         "P"
       ],
@@ -607,13 +640,14 @@
         "S01"
       ],
       "section": "B",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "cosmic"
     },
     {
       "id": "CH-4.07",
       "parent_id": "CH-4",
       "title": "Alternating influences.",
-      "description": "Changing relations of separated spheres shape lunar beings and their development..",
+      "description": "Changing relations of separated spheres shape lunar beings and their development.",
       "evidence_flags": [
         "P"
       ],
@@ -621,13 +655,14 @@
         "S01"
       ],
       "section": "B",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "cosmic"
     },
     {
       "id": "CH-4.08",
       "parent_id": "CH-4",
       "title": "Dreamlike picture consciousness.",
-      "description": "The Moon-phase level is described as imaginative, picture-forming consciousness..",
+      "description": "The Moon-phase level is described as imaginative, picture-forming consciousness.",
       "evidence_flags": [
         "P"
       ],
@@ -636,13 +671,14 @@
         "S27"
       ],
       "section": "B",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "cosmic"
     },
     {
       "id": "CH-4.09",
       "parent_id": "CH-4",
       "title": "Embryonic soul members.",
-      "description": "Beginnings associated with later sentient/intellectual soul and a Spirit-Self germ are traced to this stage..",
+      "description": "Beginnings associated with later sentient/intellectual soul and a Spirit-Self germ are traced to this stage.",
       "evidence_flags": [
         "P"
       ],
@@ -650,13 +686,14 @@
         "S01"
       ],
       "section": "B",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "cosmic"
     },
     {
       "id": "CH-4.10",
       "parent_id": "CH-4",
       "title": "Kingdoms and lagging beings.",
-      "description": "Different levels of evolution coexist; labels should not be mistaken for Earth's present mineral/plant/animal classifications..",
+      "description": "Different levels of evolution coexist; labels should not be mistaken for Earth's present mineral/plant/animal classifications.",
       "evidence_flags": [
         "L"
       ],
@@ -664,13 +701,14 @@
         "S01"
       ],
       "section": "B",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "cosmic"
     },
     {
       "id": "CH-4.11",
       "parent_id": "CH-4",
       "title": "Final rest and preparation.",
-      "description": "Old Moon ends; a cosmic interval prepares Earth's distinct task..",
+      "description": "Old Moon ends; a cosmic interval prepares Earth's distinct task.",
       "evidence_flags": [
         "P"
       ],
@@ -678,13 +716,14 @@
         "S01"
       ],
       "section": "B",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "cosmic"
     },
     {
       "id": "CH-5.01",
       "parent_id": "CH-5",
       "title": "Recapitulations at the beginning.",
-      "description": "Earth development reprises earlier Saturn, Sun and Moon achievements; these repeats are not identical new planetary embodiments..",
+      "description": "Earth development reprises earlier Saturn, Sun and Moon achievements; these repeats are not identical new planetary embodiments.",
       "evidence_flags": [
         "P"
       ],
@@ -693,13 +732,14 @@
         "S27"
       ],
       "section": "B",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "cosmic"
     },
     {
       "id": "CH-5.02",
       "parent_id": "CH-5",
       "title": "New earthly element and solidity.",
-      "description": "Earth is associated with the fully developed domain of solid/mineral conditions as earlier forces are reworked..",
+      "description": "Earth is associated with the fully developed domain of solid/mineral conditions as earlier forces are reworked.",
       "evidence_flags": [
         "P"
       ],
@@ -707,13 +747,14 @@
         "S01"
       ],
       "section": "B",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "cosmic"
     },
     {
       "id": "CH-5.03",
       "parent_id": "CH-5",
       "title": "Human \"I\" becomes the central task.",
-      "description": "Spirits of Form / Exusiai are described as crucial to the independent ego germ of Earth humanity..",
+      "description": "Spirits of Form / Exusiai are described as crucial to the independent ego germ of Earth humanity.",
       "evidence_flags": [
         "P"
       ],
@@ -721,13 +762,14 @@
         "S02"
       ],
       "section": "B",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "cosmic"
     },
     {
       "id": "CH-5.04",
       "parent_id": "CH-5",
       "title": "Wisdom is to become love.",
-      "description": "Steiner presents terrestrial evolution as transforming inherited cosmic wisdom through a specifically human moral/spiritual task..",
+      "description": "Steiner presents terrestrial evolution as transforming inherited cosmic wisdom through a specifically human moral/spiritual task.",
       "evidence_flags": [
         "P"
       ],
@@ -735,13 +777,14 @@
         "S02"
       ],
       "section": "B",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "cosmic"
     },
     {
       "id": "CH-5.05",
       "parent_id": "CH-5",
       "title": "Descent and re-ascent.",
-      "description": "Earth's movement from spiritual conditions toward density, then toward spiritual transformation, spans several great Earth epochs..",
+      "description": "Earth's movement from spiritual conditions toward density, then toward spiritual transformation, spans several great Earth epochs.",
       "evidence_flags": [
         "I"
       ],
@@ -751,13 +794,14 @@
         "S12"
       ],
       "section": "B",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "cosmic"
     },
     {
       "id": "CH-5.06",
       "parent_id": "CH-5",
       "title": "No simple replacement of old members.",
-      "description": "Physical, etheric and astral bodies remain conditions of the developing \"I\"; the future transformation of lower members is prospective..",
+      "description": "Physical, etheric and astral bodies remain conditions of the developing \"I\"; the future transformation of lower members is prospective.",
       "evidence_flags": [
         "P"
       ],
@@ -766,13 +810,14 @@
         "S02"
       ],
       "section": "B",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "cosmic"
     },
     {
       "id": "CH-6.01",
       "parent_id": "CH-6",
       "title": "Earliest Earth-human manifestations.",
-      "description": "Accounts speak of much finer, predominantly spiritual-etheric humanity, not anatomically modern bodies..",
+      "description": "Accounts speak of much finer, predominantly spiritual-etheric humanity, not anatomically modern bodies.",
       "evidence_flags": [
         "P"
       ],
@@ -781,13 +826,14 @@
         "S12"
       ],
       "section": "C",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "great_earth_epoch"
     },
     {
       "id": "CH-6.02",
       "parent_id": "CH-6",
       "title": "Earth/Sun initially together.",
-      "description": "Steiner's earliest Earth story begins with a united condition prior to differentiation..",
+      "description": "Steiner's earliest Earth story begins with a united condition prior to differentiation.",
       "evidence_flags": [
         "P"
       ],
@@ -796,13 +842,14 @@
         "S08"
       ],
       "section": "C",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "great_earth_epoch"
     },
     {
       "id": "CH-6.03",
       "parent_id": "CH-6",
       "title": "No modern continents or chronology.",
-      "description": "The term \"Polar\" names a spiritual-scientific epoch, not a verified archaeological settlement..",
+      "description": "The term \"Polar\" names a spiritual-scientific epoch, not a verified archaeological settlement.",
       "evidence_flags": [
         "I"
       ],
@@ -811,13 +858,14 @@
         "S12"
       ],
       "section": "C",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "great_earth_epoch"
     },
     {
       "id": "CH-6.04",
       "parent_id": "CH-6",
       "title": "Continuity from earlier cosmic work.",
-      "description": "Human germinal constituents are inherited from preceding conditions, in recapitulated form..",
+      "description": "Human germinal constituents are inherited from preceding conditions, in recapitulated form.",
       "evidence_flags": [
         "P"
       ],
@@ -825,13 +873,14 @@
         "S01"
       ],
       "section": "C",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "great_earth_epoch"
     },
     {
       "id": "CH-7.01",
       "parent_id": "CH-7",
       "title": "Solar separation.",
-      "description": "The sun separates from Earth in the account, changing which spiritual forces act from within or from outside..",
+      "description": "The sun separates from Earth in the account, changing which spiritual forces act from within or from outside.",
       "evidence_flags": [
         "P"
       ],
@@ -840,13 +889,14 @@
         "S08"
       ],
       "section": "C",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "great_earth_epoch"
     },
     {
       "id": "CH-7.02",
       "parent_id": "CH-7",
       "title": "Differentiation of life environments.",
-      "description": "Different beings and human germs require differently organized cosmic surroundings..",
+      "description": "Different beings and human germs require differently organized cosmic surroundings.",
       "evidence_flags": [
         "P"
       ],
@@ -854,13 +904,14 @@
         "S01"
       ],
       "section": "C",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "great_earth_epoch"
     },
     {
       "id": "CH-7.03",
       "parent_id": "CH-7",
       "title": "Life conditions remain nonmodern.",
-      "description": "Do not depict recognizably modern people, plants or landscapes simply because old names resemble geography..",
+      "description": "Do not depict recognizably modern people, plants or landscapes simply because old names resemble geography.",
       "evidence_flags": [
         "I"
       ],
@@ -869,13 +920,14 @@
         "S03"
       ],
       "section": "C",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "great_earth_epoch"
     },
     {
       "id": "CH-7.04",
       "parent_id": "CH-7",
       "title": "Preparation for lunar separation.",
-      "description": "As terrestrial density becomes problematic, further separation is described as necessary..",
+      "description": "As terrestrial density becomes problematic, further separation is described as necessary.",
       "evidence_flags": [
         "P"
       ],
@@ -884,13 +936,14 @@
         "S09"
       ],
       "section": "C",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "great_earth_epoch"
     },
     {
       "id": "CH-8.01",
       "parent_id": "CH-8",
       "title": "Earth's moon separates.",
-      "description": "The withdrawal of lunar forces is presented as making human embodiment and further development possible..",
+      "description": "The withdrawal of lunar forces is presented as making human embodiment and further development possible.",
       "evidence_flags": [
         "P"
       ],
@@ -899,13 +952,14 @@
         "S09"
       ],
       "section": "C",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "great_earth_epoch"
     },
     {
       "id": "CH-8.02",
       "parent_id": "CH-8",
       "title": "Human bodies increasingly plastic and then denser.",
-      "description": "Steiner describes changing interaction of spirit/soul with corporeality..",
+      "description": "Steiner describes changing interaction of spirit/soul with corporeality.",
       "evidence_flags": [
         "P"
       ],
@@ -914,13 +968,14 @@
         "S05"
       ],
       "section": "C",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "great_earth_epoch"
     },
     {
       "id": "CH-8.03",
       "parent_id": "CH-8",
       "title": "Soul and body unite differently.",
-      "description": "Reincarnating souls become able to enter and develop bodies under changed lunar conditions..",
+      "description": "Reincarnating souls become able to enter and develop bodies under changed lunar conditions.",
       "evidence_flags": [
         "P"
       ],
@@ -928,13 +983,14 @@
         "S01"
       ],
       "section": "C",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "great_earth_epoch"
     },
     {
       "id": "CH-8.04",
       "parent_id": "CH-8",
       "title": "Sexual differentiation.",
-      "description": "The division into sexes is placed in this long evolutionary arc, with variations in the accounts requiring careful collation..",
+      "description": "The division into sexes is placed in this long evolutionary arc, with variations in the accounts requiring careful collation.",
       "evidence_flags": [
         "L"
       ],
@@ -944,13 +1000,14 @@
         "S07"
       ],
       "section": "C",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "great_earth_epoch"
     },
     {
       "id": "CH-8.05",
       "parent_id": "CH-8",
       "title": "Reproduction and seed forces.",
-      "description": "The changing relation of generative and animating forces is key to the transition in bodily development..",
+      "description": "The changing relation of generative and animating forces is key to the transition in bodily development.",
       "evidence_flags": [
         "P"
       ],
@@ -959,13 +1016,14 @@
         "S06"
       ],
       "section": "C",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "great_earth_epoch"
     },
     {
       "id": "CH-8.06",
       "parent_id": "CH-8",
       "title": "Emergence of human inwardness.",
-      "description": "The ego is increasingly related to an embodied life, though not yet modern rational self-consciousness..",
+      "description": "The ego is increasingly related to an embodied life, though not yet modern rational self-consciousness.",
       "evidence_flags": [
         "P"
       ],
@@ -973,13 +1031,14 @@
         "S01"
       ],
       "section": "C",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "great_earth_epoch"
     },
     {
       "id": "CH-8.07",
       "parent_id": "CH-8",
       "title": "Luciferic intervention.",
-      "description": "Steiner connects the Luciferic influence with new independence, desire and the possibility of error..",
+      "description": "Steiner connects the Luciferic influence with new independence, desire and the possibility of error.",
       "evidence_flags": [
         "P"
       ],
@@ -987,13 +1046,14 @@
         "S01"
       ],
       "section": "C",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "great_earth_epoch"
     },
     {
       "id": "CH-8.08",
       "parent_id": "CH-8",
       "title": "Expanded scope of free action and its dangers.",
-      "description": "Earthly and fiery forces can be misdirected in Steiner's narrative..",
+      "description": "Earthly and fiery forces can be misdirected in Steiner's narrative.",
       "evidence_flags": [
         "P"
       ],
@@ -1001,13 +1061,14 @@
         "S01"
       ],
       "section": "C",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "great_earth_epoch"
     },
     {
       "id": "CH-8.09",
       "parent_id": "CH-8",
       "title": "Linguistic and memorial seeds.",
-      "description": "Some capacities for naming, memory and social activity first emerge in rudiments..",
+      "description": "Some capacities for naming, memory and social activity first emerge in rudiments.",
       "evidence_flags": [
         "P"
       ],
@@ -1016,13 +1077,14 @@
         "S05"
       ],
       "section": "C",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "great_earth_epoch"
     },
     {
       "id": "CH-8.10",
       "parent_id": "CH-8",
       "title": "Initiation and early guidance.",
-      "description": "Spiritual teachers, inspired leadership, and nature-related forms of instruction feature in GA 11's narrative..",
+      "description": "Spiritual teachers, inspired leadership, and nature-related forms of instruction feature in GA 11's narrative.",
       "evidence_flags": [
         "P"
       ],
@@ -1030,13 +1092,14 @@
         "S05"
       ],
       "section": "C",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "great_earth_epoch"
     },
     {
       "id": "CH-8.11",
       "parent_id": "CH-8",
       "title": "Catastrophe of fire.",
-      "description": "The later Lemurian downfall is characterized through destructive fiery processes..",
+      "description": "The later Lemurian downfall is characterized through destructive fiery processes.",
       "evidence_flags": [
         "P"
       ],
@@ -1044,13 +1107,14 @@
         "S01"
       ],
       "section": "C",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "great_earth_epoch"
     },
     {
       "id": "CH-8.12",
       "parent_id": "CH-8",
       "title": "Survival and migration.",
-      "description": "A group capable of progressing forms a bridge to the Atlantean period..",
+      "description": "A group capable of progressing forms a bridge to the Atlantean period.",
       "evidence_flags": [
         "P"
       ],
@@ -1059,13 +1123,14 @@
         "S05"
       ],
       "section": "C",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "great_earth_epoch"
     },
     {
       "id": "CH-8.13",
       "parent_id": "CH-8",
       "title": "Editorial restraint.",
-      "description": "GA 11 uses obsolete \"root-race\" and gender-essentialist classifications. These are historically important to document but should not be endorsed, modernized into ethnic taxonomy, or represented as facts about living peoples..",
+      "description": "GA 11 uses obsolete \"root-race\" and gender-essentialist classifications. These are historically important to document but should not be endorsed, modernized into ethnic taxonomy, or represented as facts about living peoples.",
       "evidence_flags": [
         "X"
       ],
@@ -1074,13 +1139,14 @@
         "S06"
       ],
       "section": "C",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "great_earth_epoch"
     },
     {
       "id": "CH-9.01",
       "parent_id": "CH-9",
       "title": "Rmoahals (first).",
-      "description": "Steiner places pronounced sense-based memory, naming and early language among the first distinguishing capacities..",
+      "description": "Steiner places pronounced sense-based memory, naming and early language among the first distinguishing capacities.",
       "evidence_flags": [
         "P"
       ],
@@ -1088,13 +1154,14 @@
         "S04"
       ],
       "section": "C",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "great_earth_epoch"
     },
     {
       "id": "CH-9.02",
       "parent_id": "CH-9",
       "title": "Tlavatlis (second).",
-      "description": "Development of remembered achievements, status and the social relation of personal experience to others requires full GA 11 comparison..",
+      "description": "Development of remembered achievements, status and the social relation of personal experience to others requires full GA 11 comparison.",
       "evidence_flags": [
         "L"
       ],
@@ -1102,13 +1169,14 @@
         "S04"
       ],
       "section": "C",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "great_earth_epoch"
     },
     {
       "id": "CH-9.03",
       "parent_id": "CH-9",
       "title": "Toltecs (third).",
-      "description": "Greater organization and direction of powers, authority and inherited skills are associated with this phase; verify paragraph-level attribution..",
+      "description": "Greater organization and direction of powers, authority and inherited skills are associated with this phase; verify paragraph-level attribution.",
       "evidence_flags": [
         "L"
       ],
@@ -1116,13 +1184,14 @@
         "S04"
       ],
       "section": "C",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "great_earth_epoch"
     },
     {
       "id": "CH-9.04",
       "parent_id": "CH-9",
       "title": "Original Turanians (fourth).",
-      "description": "Steiner discusses misdirection of acquired capacities; avoid presenting moral ranking of ethnic groups..",
+      "description": "Steiner discusses misdirection of acquired capacities; avoid presenting moral ranking of ethnic groups.",
       "evidence_flags": [
         "L",
         "X"
@@ -1131,13 +1200,14 @@
         "S04"
       ],
       "section": "C",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "great_earth_epoch"
     },
     {
       "id": "CH-9.05",
       "parent_id": "CH-9",
       "title": "Original Semites (fifth).",
-      "description": "One part of the early theosophical account associates the transition toward combining intellectual judgment and self-consciousness with this phase. This is an obsolete esoteric category, not a claim about modern Jews or Semitic-speaking peoples..",
+      "description": "One part of the early theosophical account associates the transition toward combining intellectual judgment and self-consciousness with this phase. This is an obsolete esoteric category, not a claim about modern Jews or Semitic-speaking peoples.",
       "evidence_flags": [
         "P",
         "X"
@@ -1146,13 +1216,14 @@
         "S24"
       ],
       "section": "C",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "great_earth_epoch"
     },
     {
       "id": "CH-9.06",
       "parent_id": "CH-9",
       "title": "Akkadians (sixth).",
-      "description": "Social/practical ordering is emphasized in the traditional sequence; focused original-text check remains required..",
+      "description": "Social/practical ordering is emphasized in the traditional sequence; focused original-text check remains required.",
       "evidence_flags": [
         "L"
       ],
@@ -1160,13 +1231,14 @@
         "S04"
       ],
       "section": "C",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "great_earth_epoch"
     },
     {
       "id": "CH-9.07",
       "parent_id": "CH-9",
       "title": "Mongols (seventh).",
-      "description": "The seventh label is recorded as source terminology only, not as a representation of a modern population..",
+      "description": "The seventh label is recorded as source terminology only, not as a representation of a modern population.",
       "evidence_flags": [
         "P",
         "X"
@@ -1175,13 +1247,14 @@
         "S24"
       ],
       "section": "C",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "great_earth_epoch"
     },
     {
       "id": "CH-9.08",
       "parent_id": "CH-9",
       "title": "Powerful pictorial memory.",
-      "description": "Steiner contrasts remembered image and experience with later analytical judgment..",
+      "description": "Steiner contrasts remembered image and experience with later analytical judgment.",
       "evidence_flags": [
         "P"
       ],
@@ -1189,13 +1262,14 @@
         "S04"
       ],
       "section": "C",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "great_earth_epoch"
     },
     {
       "id": "CH-9.09",
       "parent_id": "CH-9",
       "title": "Expansion of speech.",
-      "description": "Naming, recollection and speech develop together..",
+      "description": "Naming, recollection and speech develop together.",
       "evidence_flags": [
         "P"
       ],
@@ -1203,13 +1277,14 @@
         "S04"
       ],
       "section": "C",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "great_earth_epoch"
     },
     {
       "id": "CH-9.10",
       "parent_id": "CH-9",
       "title": "Life/germinating forces.",
-      "description": "Narratives include manipulating growth and living forces, even proposed vehicles; these descriptions are esoteric, not evidenced technological history..",
+      "description": "Narratives include manipulating growth and living forces, even proposed vehicles; these descriptions are esoteric, not evidenced technological history.",
       "evidence_flags": [
         "P"
       ],
@@ -1217,13 +1292,14 @@
         "S24"
       ],
       "section": "C",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "great_earth_epoch"
     },
     {
       "id": "CH-9.11",
       "parent_id": "CH-9",
       "title": "Residual clairvoyance.",
-      "description": "Immediate spiritual experience persists while perceptual orientation toward the outer physical world grows..",
+      "description": "Immediate spiritual experience persists while perceptual orientation toward the outer physical world grows.",
       "evidence_flags": [
         "P"
       ],
@@ -1231,13 +1307,14 @@
         "S24"
       ],
       "section": "C",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "great_earth_epoch"
     },
     {
       "id": "CH-9.12",
       "parent_id": "CH-9",
       "title": "Atlantean oracles.",
-      "description": "Multiple oracle currents are described as distinct modes of spiritual guidance; their institutional history should not be mapped one-to-one to all seven phase labels..",
+      "description": "Multiple oracle currents are described as distinct modes of spiritual guidance; their institutional history should not be mapped one-to-one to all seven phase labels.",
       "evidence_flags": [
         "P"
       ],
@@ -1245,13 +1322,14 @@
         "S01"
       ],
       "section": "C",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "great_earth_epoch"
     },
     {
       "id": "CH-9.13",
       "parent_id": "CH-9",
       "title": "Christ/Sun oracle.",
-      "description": "A culminating Sun-related initiation stream is presented as distinct from other oracle influences..",
+      "description": "A culminating Sun-related initiation stream is presented as distinct from other oracle influences.",
       "evidence_flags": [
         "P"
       ],
@@ -1259,13 +1337,14 @@
         "S01"
       ],
       "section": "C",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "great_earth_epoch"
     },
     {
       "id": "CH-9.14",
       "parent_id": "CH-9",
       "title": "Ahrimanic influence strengthens.",
-      "description": "The account places decisive Ahrimanic intervention around the *middle of Atlantis*, not exclusively in any one subphase..",
+      "description": "The account places decisive Ahrimanic intervention around the *middle of Atlantis*, not exclusively in any one subphase.",
       "evidence_flags": [
         "P"
       ],
@@ -1273,13 +1352,14 @@
         "S01"
       ],
       "section": "C",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "great_earth_epoch"
     },
     {
       "id": "CH-9.15",
       "parent_id": "CH-9",
       "title": "The \"I\" awakens within bodily perception.",
-      "description": "Growing external object perception and independent judgment displace older forms of spiritual awareness..",
+      "description": "Growing external object perception and independent judgment displace older forms of spiritual awareness.",
       "evidence_flags": [
         "P"
       ],
@@ -1287,13 +1367,14 @@
         "S01"
       ],
       "section": "C",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "great_earth_epoch"
     },
     {
       "id": "CH-9.16",
       "parent_id": "CH-9",
       "title": "Differentiated spiritual agencies persist.",
-      "description": "Luciferic, Ahrimanic and higher guidance are cross-cutting processes, not a sequence of one actor departing when another arrives..",
+      "description": "Luciferic, Ahrimanic and higher guidance are cross-cutting processes, not a sequence of one actor departing when another arrives.",
       "evidence_flags": [
         "I"
       ],
@@ -1301,13 +1382,14 @@
         "S01"
       ],
       "section": "C",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "great_earth_epoch"
     },
     {
       "id": "CH-9.17",
       "parent_id": "CH-9",
       "title": "Guidance of a successor group.",
-      "description": "Steiner recounts the Sun-oracle initiate guiding people eastward as post-Atlantean development is prepared..",
+      "description": "Steiner recounts the Sun-oracle initiate guiding people eastward as post-Atlantean development is prepared.",
       "evidence_flags": [
         "P"
       ],
@@ -1315,13 +1397,14 @@
         "S01"
       ],
       "section": "C",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "great_earth_epoch"
     },
     {
       "id": "CH-9.18",
       "parent_id": "CH-9",
       "title": "Atlantean flood/ice-water catastrophe.",
-      "description": "The epoch ends in a catastrophe described in spiritual terms; it is not established geological history..",
+      "description": "The epoch ends in a catastrophe described in spiritual terms; it is not established geological history.",
       "evidence_flags": [
         "P"
       ],
@@ -1330,13 +1413,14 @@
         "S26"
       ],
       "section": "C",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "great_earth_epoch"
     },
     {
       "id": "CH-9.19",
       "parent_id": "CH-9",
       "title": "Transition to post-Atlantis.",
-      "description": "Out of surviving earlier spiritual wisdom arise later forms of culture in which thought, individuality and moral freedom become increasingly central..",
+      "description": "Out of surviving earlier spiritual wisdom arise later forms of culture in which thought, individuality and moral freedom become increasingly central.",
       "evidence_flags": [
         "P"
       ],
@@ -1345,13 +1429,14 @@
         "S03"
       ],
       "section": "C",
-      "chronology_status": "past_or_broad"
+      "chronology_status": "past_or_broad",
+      "time_scale": "great_earth_epoch"
     },
     {
       "id": "CH-10.01",
       "parent_id": "CH-10",
       "title": "Preserved echo of Atlantean wisdom.",
-      "description": "An early sacred teaching is described as uniting insights of multiple oracle streams..",
+      "description": "An early sacred teaching is described as uniting insights of multiple oracle streams.",
       "evidence_flags": [
         "P"
       ],
@@ -1359,13 +1444,14 @@
         "S01"
       ],
       "section": "D",
-      "chronology_status": "historical_to_future"
+      "chronology_status": "past",
+      "time_scale": "cultural_period"
     },
     {
       "id": "CH-10.02",
       "parent_id": "CH-10",
       "title": "Seven holy Rishis.",
-      "description": "Steiner refers to great teachers of original Indian wisdom; the sources should distinguish these from later textual or historical identifications..",
+      "description": "Steiner refers to great teachers of original Indian wisdom; the sources should distinguish these from later textual or historical identifications.",
       "evidence_flags": [
         "P"
       ],
@@ -1373,13 +1459,14 @@
         "S01"
       ],
       "section": "D",
-      "chronology_status": "historical_to_future"
+      "chronology_status": "past",
+      "time_scale": "cultural_period"
     },
     {
       "id": "CH-10.03",
       "parent_id": "CH-10",
       "title": "Nearness to spiritual reality.",
-      "description": "The sensory world is less central than remembered spiritual origins in the cultural portrait..",
+      "description": "The sensory world is less central than remembered spiritual origins in the cultural portrait.",
       "evidence_flags": [
         "L"
       ],
@@ -1388,13 +1475,14 @@
         "S14"
       ],
       "section": "D",
-      "chronology_status": "historical_to_future"
+      "chronology_status": "past",
+      "time_scale": "cultural_period"
     },
     {
       "id": "CH-10.04",
       "parent_id": "CH-10",
       "title": "Source limitation.",
-      "description": "The Vedas are described by Steiner as a *later echo*, not a complete transcript of the first period..",
+      "description": "The Vedas are described by Steiner as a *later echo*, not a complete transcript of the first period.",
       "evidence_flags": [
         "P"
       ],
@@ -1402,13 +1490,14 @@
         "S01"
       ],
       "section": "D",
-      "chronology_status": "historical_to_future"
+      "chronology_status": "past",
+      "time_scale": "cultural_period"
     },
     {
       "id": "CH-10.05",
       "parent_id": "CH-10",
       "title": "Relationship to seventh period.",
-      "description": "Steiner projects a transformed return of first-period wisdom in the seventh post-Atlantean age..",
+      "description": "Steiner projects a transformed return of first-period wisdom in the seventh post-Atlantean age.",
       "evidence_flags": [
         "P"
       ],
@@ -1417,13 +1506,14 @@
         "S14"
       ],
       "section": "D",
-      "chronology_status": "historical_to_future"
+      "chronology_status": "past",
+      "time_scale": "cultural_period"
     },
     {
       "id": "CH-11.01",
       "parent_id": "CH-11",
       "title": "Zarathustra-related teaching.",
-      "description": "Attention shifts toward spiritual work upon the world, especially the Sun/earth relation in Steiner's interpretation..",
+      "description": "Attention shifts toward spiritual work upon the world, especially the Sun/earth relation in Steiner's interpretation.",
       "evidence_flags": [
         "L"
       ],
@@ -1432,13 +1522,14 @@
         "S14"
       ],
       "section": "D",
-      "chronology_status": "historical_to_future"
+      "chronology_status": "past",
+      "time_scale": "cultural_period"
     },
     {
       "id": "CH-11.02",
       "parent_id": "CH-11",
       "title": "Contrast of light and darkness.",
-      "description": "Ahrimanic opposition receives conceptual expression in Persian teaching; do not equate this with a complete literal history of Zoroastrianism..",
+      "description": "Ahrimanic opposition receives conceptual expression in Persian teaching; do not equate this with a complete literal history of Zoroastrianism.",
       "evidence_flags": [
         "L"
       ],
@@ -1447,13 +1538,14 @@
         "S14"
       ],
       "section": "D",
-      "chronology_status": "historical_to_future"
+      "chronology_status": "past",
+      "time_scale": "cultural_period"
     },
     {
       "id": "CH-11.03",
       "parent_id": "CH-11",
       "title": "Earth as field of labor.",
-      "description": "Transformation and cultivation are important interpretive themes..",
+      "description": "Transformation and cultivation are important interpretive themes.",
       "evidence_flags": [
         "L"
       ],
@@ -1462,13 +1554,14 @@
         "S14"
       ],
       "section": "D",
-      "chronology_status": "historical_to_future"
+      "chronology_status": "past",
+      "time_scale": "cultural_period"
     },
     {
       "id": "CH-11.04",
       "parent_id": "CH-11",
       "title": "Relationship to sixth period.",
-      "description": "Steiner says a transformed analogue or revival of ancient Persian spiritual content will arise in the sixth age..",
+      "description": "Steiner says a transformed analogue or revival of ancient Persian spiritual content will arise in the sixth age.",
       "evidence_flags": [
         "P"
       ],
@@ -1476,13 +1569,14 @@
         "S14"
       ],
       "section": "D",
-      "chronology_status": "historical_to_future"
+      "chronology_status": "past",
+      "time_scale": "cultural_period"
     },
     {
       "id": "CH-12.01",
       "parent_id": "CH-12",
       "title": "Star/world relationships.",
-      "description": "The spiritual reading of celestial influences and earthly life occupies a major place in Steiner's portrayal..",
+      "description": "The spiritual reading of celestial influences and earthly life occupies a major place in Steiner's portrayal.",
       "evidence_flags": [
         "L"
       ],
@@ -1491,13 +1585,14 @@
         "S14"
       ],
       "section": "D",
-      "chronology_status": "historical_to_future"
+      "chronology_status": "past",
+      "time_scale": "cultural_period"
     },
     {
       "id": "CH-12.02",
       "parent_id": "CH-12",
       "title": "Egyptian mysteries.",
-      "description": "Initiation, death, soul and cosmic order form a distinct third-period complex..",
+      "description": "Initiation, death, soul and cosmic order form a distinct third-period complex.",
       "evidence_flags": [
         "L"
       ],
@@ -1506,13 +1601,14 @@
         "S14"
       ],
       "section": "D",
-      "chronology_status": "historical_to_future"
+      "chronology_status": "past",
+      "time_scale": "cultural_period"
     },
     {
       "id": "CH-12.03",
       "parent_id": "CH-12",
       "title": "Further embodiment and external perception.",
-      "description": "Relations between soul, body, natural events and religious symbolism change..",
+      "description": "Relations between soul, body, natural events and religious symbolism change.",
       "evidence_flags": [
         "I"
       ],
@@ -1521,13 +1617,14 @@
         "S14"
       ],
       "section": "D",
-      "chronology_status": "historical_to_future"
+      "chronology_status": "past",
+      "time_scale": "cultural_period"
     },
     {
       "id": "CH-12.04",
       "parent_id": "CH-12",
       "title": "Later echo in the fifth age.",
-      "description": "The third period is said to reappear metamorphosed during the fifth post-Atlantean period..",
+      "description": "The third period is said to reappear metamorphosed during the fifth post-Atlantean period.",
       "evidence_flags": [
         "P"
       ],
@@ -1536,13 +1633,14 @@
         "S14"
       ],
       "section": "D",
-      "chronology_status": "historical_to_future"
+      "chronology_status": "past",
+      "time_scale": "cultural_period"
     },
     {
       "id": "CH-12.05",
       "parent_id": "CH-12",
       "title": "Cultural caveat.",
-      "description": "These are Steiner's broad types and must not erase historical variation, genuine scholarly chronologies, or other contemporaneous cultures..",
+      "description": "These are Steiner's broad types and must not erase historical variation, genuine scholarly chronologies, or other contemporaneous cultures.",
       "evidence_flags": [
         "X"
       ],
@@ -1550,13 +1648,14 @@
         "S14"
       ],
       "section": "D",
-      "chronology_status": "historical_to_future"
+      "chronology_status": "past",
+      "time_scale": "cultural_period"
     },
     {
       "id": "CH-13.01",
       "parent_id": "CH-13",
       "title": "Development of intellectual/mind soul.",
-      "description": "Steiner places the fourth period under the development of the intellectual or feeling soul..",
+      "description": "Steiner places the fourth period under the development of the intellectual or feeling soul.",
       "evidence_flags": [
         "P"
       ],
@@ -1564,13 +1663,14 @@
         "S15"
       ],
       "section": "D",
-      "chronology_status": "historical_to_future"
+      "chronology_status": "past",
+      "time_scale": "cultural_period"
     },
     {
       "id": "CH-13.02",
       "parent_id": "CH-13",
       "title": "Individual thinking and outer embodiment.",
-      "description": "Human consciousness becomes more inwardly individualized and closely connected to the physical world..",
+      "description": "Human consciousness becomes more inwardly individualized and closely connected to the physical world.",
       "evidence_flags": [
         "P"
       ],
@@ -1579,13 +1679,14 @@
         "S18"
       ],
       "section": "D",
-      "chronology_status": "historical_to_future"
+      "chronology_status": "past",
+      "time_scale": "cultural_period"
     },
     {
       "id": "CH-13.03",
       "parent_id": "CH-13",
       "title": "Three subperiods.",
-      "description": "Steiner separately outlines ~747–27 BCE, ~27 BCE–693 CE, and ~693–1413 CE; these are subdivisions inside the fourth cultural period, not three extra post-Atlantean cultures..",
+      "description": "Steiner separately outlines ~747–27 BCE, ~27 BCE–693 CE, and ~693–1413 CE; these are subdivisions inside the fourth cultural period, not three extra post-Atlantean cultures.",
       "evidence_flags": [
         "P"
       ],
@@ -1593,13 +1694,14 @@
         "S15"
       ],
       "section": "D",
-      "chronology_status": "historical_to_future"
+      "chronology_status": "past",
+      "time_scale": "cultural_period"
     },
     {
       "id": "CH-13.04",
       "parent_id": "CH-13",
       "title": "Approaching the Christ turning point.",
-      "description": "The diminishing earlier direct spiritual relationship gives new significance to the Christ event..",
+      "description": "The diminishing earlier direct spiritual relationship gives new significance to the Christ event.",
       "evidence_flags": [
         "P"
       ],
@@ -1607,13 +1709,14 @@
         "S18"
       ],
       "section": "D",
-      "chronology_status": "historical_to_future"
+      "chronology_status": "past",
+      "time_scale": "cultural_period"
     },
     {
       "id": "CH-13.05",
       "parent_id": "CH-13",
       "title": "Birth and life of Jesus of Nazareth.",
-      "description": "In Steiner's Christology, prepare a linked dossier on the two Jesus-child narratives and the Jordan baptism; these must not be simplistically conflated..",
+      "description": "In Steiner's Christology, prepare a linked dossier on the two Jesus-child narratives and the Jordan baptism; these must not be simplistically conflated.",
       "evidence_flags": [
         "L"
       ],
@@ -1621,13 +1724,14 @@
         "S30"
       ],
       "section": "D",
-      "chronology_status": "historical_to_future"
+      "chronology_status": "past",
+      "time_scale": "cultural_period"
     },
     {
       "id": "CH-13.06",
       "parent_id": "CH-13",
       "title": "Baptism in the Jordan.",
-      "description": "Steiner describes the cosmic Christ uniting with Jesus at a decisive point before the Mystery of Golgotha..",
+      "description": "Steiner describes the cosmic Christ uniting with Jesus at a decisive point before the Mystery of Golgotha.",
       "evidence_flags": [
         "P"
       ],
@@ -1635,13 +1739,14 @@
         "S18"
       ],
       "section": "D",
-      "chronology_status": "historical_to_future"
+      "chronology_status": "past",
+      "time_scale": "cultural_period"
     },
     {
       "id": "CH-13.07",
       "parent_id": "CH-13",
       "title": "Mystery of Golgotha (first century CE).",
-      "description": "Steiner treats the death and resurrection as the central terrestrial/spiritual historical intervention..",
+      "description": "Steiner treats the death and resurrection as the central terrestrial/spiritual historical intervention.",
       "evidence_flags": [
         "P"
       ],
@@ -1650,13 +1755,14 @@
         "S18"
       ],
       "section": "D",
-      "chronology_status": "historical_to_future"
+      "chronology_status": "past",
+      "time_scale": "cultural_period"
     },
     {
       "id": "CH-13.08",
       "parent_id": "CH-13",
       "title": "Effects beyond visible history.",
-      "description": "Golgotha transforms, in Steiner's narrative, the experiences of souls in the spiritual world after death..",
+      "description": "Golgotha transforms, in Steiner's narrative, the experiences of souls in the spiritual world after death.",
       "evidence_flags": [
         "P"
       ],
@@ -1664,13 +1770,14 @@
         "S01"
       ],
       "section": "D",
-      "chronology_status": "historical_to_future"
+      "chronology_status": "past",
+      "time_scale": "cultural_period"
     },
     {
       "id": "CH-13.09",
       "parent_id": "CH-13",
       "title": "Christ impulse and the human I.",
-      "description": "The human capacity for further free spiritual development is linked to Christ, not merely to restoration of old clairvoyance..",
+      "description": "The human capacity for further free spiritual development is linked to Christ, not merely to restoration of old clairvoyance.",
       "evidence_flags": [
         "P"
       ],
@@ -1679,13 +1786,14 @@
         "S18"
       ],
       "section": "D",
-      "chronology_status": "historical_to_future"
+      "chronology_status": "past",
+      "time_scale": "cultural_period"
     },
     {
       "id": "CH-13.10",
       "parent_id": "CH-13",
       "title": "Spread and reworking of spiritual knowledge.",
-      "description": "Early Christianity, Gnosis and later developments form a complex, not single-step, process..",
+      "description": "Early Christianity, Gnosis and later developments form a complex, not single-step, process.",
       "evidence_flags": [
         "P"
       ],
@@ -1693,13 +1801,14 @@
         "S17"
       ],
       "section": "D",
-      "chronology_status": "historical_to_future"
+      "chronology_status": "past",
+      "time_scale": "cultural_period"
     },
     {
       "id": "CH-13.11",
       "parent_id": "CH-13",
       "title": "Gradual decline of original Gnostic capacities.",
-      "description": "GA 191 places a fading of old Lucifer-influenced comprehension by the fourth century CE..",
+      "description": "GA 191 places a fading of old Lucifer-influenced comprehension by the fourth century CE.",
       "evidence_flags": [
         "P"
       ],
@@ -1707,13 +1816,14 @@
         "S17"
       ],
       "section": "D",
-      "chronology_status": "historical_to_future"
+      "chronology_status": "past",
+      "time_scale": "cultural_period"
     },
     {
       "id": "CH-13.12",
       "parent_id": "CH-13",
       "title": "Medieval transformation and transitional centuries.",
-      "description": "Steiner distinguishes changes in the twelfth/thirteenth centuries and in the transition to modern consciousness..",
+      "description": "Steiner distinguishes changes in the twelfth/thirteenth centuries and in the transition to modern consciousness.",
       "evidence_flags": [
         "P"
       ],
@@ -1721,13 +1831,14 @@
         "S29"
       ],
       "section": "D",
-      "chronology_status": "historical_to_future"
+      "chronology_status": "past",
+      "time_scale": "cultural_period"
     },
     {
       "id": "CH-13.13",
       "parent_id": "CH-13",
       "title": "Beginning of the modern fifth age (~1413).",
-      "description": "A gradual transition replaces the fourth age's typical inner constitution..",
+      "description": "A gradual transition replaces the fourth age's typical inner constitution.",
       "evidence_flags": [
         "P"
       ],
@@ -1735,13 +1846,14 @@
         "S15"
       ],
       "section": "D",
-      "chronology_status": "historical_to_future"
+      "chronology_status": "past",
+      "time_scale": "cultural_period"
     },
     {
       "id": "CH-14.01",
       "parent_id": "CH-14",
       "title": "Central task: consciousness soul.",
-      "description": "A person must come to independent self-consciousness, judgment and moral responsibility rather than rely on inherited clairvoyance..",
+      "description": "A person must come to independent self-consciousness, judgment and moral responsibility rather than rely on inherited clairvoyance.",
       "evidence_flags": [
         "P"
       ],
@@ -1751,13 +1863,14 @@
         "S22"
       ],
       "section": "D",
-      "chronology_status": "historical_to_future"
+      "chronology_status": "present",
+      "time_scale": "cultural_period"
     },
     {
       "id": "CH-14.02",
       "parent_id": "CH-14",
       "title": "Physical-world orientation grows.",
-      "description": "Scientific intellectual power and a risk of spiritually closed materialism belong to this period's tensions..",
+      "description": "Scientific intellectual power and a risk of spiritually closed materialism belong to this period's tensions.",
       "evidence_flags": [
         "P"
       ],
@@ -1766,13 +1879,14 @@
         "S17"
       ],
       "section": "D",
-      "chronology_status": "historical_to_future"
+      "chronology_status": "present",
+      "time_scale": "cultural_period"
     },
     {
       "id": "CH-14.03",
       "parent_id": "CH-14",
       "title": "Echo of the third period.",
-      "description": "In Steiner's scheme, Egypto-Chaldean material is to be consciously transformed and renewed, not simply repeated..",
+      "description": "In Steiner's scheme, Egypto-Chaldean material is to be consciously transformed and renewed, not simply repeated.",
       "evidence_flags": [
         "P"
       ],
@@ -1781,13 +1895,14 @@
         "S14"
       ],
       "section": "D",
-      "chronology_status": "historical_to_future"
+      "chronology_status": "present",
+      "time_scale": "cultural_period"
     },
     {
       "id": "CH-14.04",
       "parent_id": "CH-14",
       "title": "Freedom and moral intuition.",
-      "description": "Independent ethical action becomes an important practice of mature thinking..",
+      "description": "Independent ethical action becomes an important practice of mature thinking.",
       "evidence_flags": [
         "P"
       ],
@@ -1795,13 +1910,14 @@
         "S22"
       ],
       "section": "D",
-      "chronology_status": "historical_to_future"
+      "chronology_status": "present",
+      "time_scale": "cultural_period"
     },
     {
       "id": "CH-14.05",
       "parent_id": "CH-14",
       "title": "Reorientation of spiritual knowledge.",
-      "description": "Modern spiritual investigation must be pursued consciously rather than duplicating ancient mystery practices..",
+      "description": "Modern spiritual investigation must be pursued consciously rather than duplicating ancient mystery practices.",
       "evidence_flags": [
         "P"
       ],
@@ -1809,13 +1925,14 @@
         "S29"
       ],
       "section": "D",
-      "chronology_status": "historical_to_future"
+      "chronology_status": "present",
+      "time_scale": "cultural_period"
     },
     {
       "id": "CH-14.06",
       "parent_id": "CH-14",
       "title": "Lucifer and Ahriman as contemporaneous influences.",
-      "description": "Exaggerated disembodied spirituality and hardening/materialistic one-sidedness are both discussed as risks; Steiner calls for a conscious balance, not their simple physical expulsion..",
+      "description": "Exaggerated disembodied spirituality and hardening/materialistic one-sidedness are both discussed as risks; Steiner calls for a conscious balance, not their simple physical expulsion.",
       "evidence_flags": [
         "P"
       ],
@@ -1823,13 +1940,14 @@
         "S17"
       ],
       "section": "D",
-      "chronology_status": "historical_to_future"
+      "chronology_status": "present",
+      "time_scale": "cultural_period"
     },
     {
       "id": "CH-14.07",
       "parent_id": "CH-14",
       "title": "Michael age (1879 onward).",
-      "description": "Steiner reports a new Michaelic spiritual guidance at the end of the 1870s; it unfolds within the fifth cultural period..",
+      "description": "Steiner reports a new Michaelic spiritual guidance at the end of the 1870s; it unfolds within the fifth cultural period.",
       "evidence_flags": [
         "P"
       ],
@@ -1838,13 +1956,14 @@
         "S21"
       ],
       "section": "D",
-      "chronology_status": "historical_to_future"
+      "chronology_status": "present",
+      "time_scale": "cultural_period"
     },
     {
       "id": "CH-14.08",
       "parent_id": "CH-14",
       "title": "End of Kali Yuga (1899).",
-      "description": "He presents this as the closing of a \"dark age\" and the possibility of changed modes of spiritual recognition..",
+      "description": "He presents this as the closing of a \"dark age\" and the possibility of changed modes of spiritual recognition.",
       "evidence_flags": [
         "P"
       ],
@@ -1852,13 +1971,14 @@
         "S19"
       ],
       "section": "D",
-      "chronology_status": "historical_to_future"
+      "chronology_status": "present",
+      "time_scale": "cultural_period"
     },
     {
       "id": "CH-14.09",
       "parent_id": "CH-14",
       "title": "Etheric Christ perception (20th century onward).",
-      "description": "The 1910 lecture anticipates a newly available perception, particularly associated with the 1930s; a prediction, not a verified event..",
+      "description": "The 1910 lecture anticipates a newly available perception, particularly associated with the 1930s; a prediction, not a verified event.",
       "evidence_flags": [
         "P"
       ],
@@ -1866,13 +1986,14 @@
         "S19"
       ],
       "section": "D",
-      "chronology_status": "historical_to_future"
+      "chronology_status": "present",
+      "time_scale": "cultural_period"
     },
     {
       "id": "CH-14.10",
       "parent_id": "CH-14",
       "title": "Specific anticipated years (1933/1935/1937).",
-      "description": "Steiner named these years in connection with new faculties, while also warning they might go unrecognized..",
+      "description": "Steiner named these years in connection with new faculties, while also warning they might go unrecognized.",
       "evidence_flags": [
         "P"
       ],
@@ -1880,13 +2001,14 @@
         "S19"
       ],
       "section": "D",
-      "chronology_status": "historical_to_future"
+      "chronology_status": "present",
+      "time_scale": "cultural_period"
     },
     {
       "id": "CH-14.11",
       "parent_id": "CH-14",
       "title": "Lucifer incarnation located in far earlier history.",
-      "description": "In 1919 he locates a Lucifer incarnation in the early third millennium BCE; the claim belongs chronologically under the third/second periods but is cross-linked here because he introduced it in a modern lecture..",
+      "description": "In 1919 he locates a Lucifer incarnation in the early third millennium BCE; the claim belongs chronologically under the third/second periods but is cross-linked here because he introduced it in a modern lecture.",
       "evidence_flags": [
         "P",
         "X"
@@ -1895,13 +2017,14 @@
         "S17"
       ],
       "section": "D",
-      "chronology_status": "historical_to_future"
+      "chronology_status": "present",
+      "time_scale": "cultural_period"
     },
     {
       "id": "CH-14.12",
       "parent_id": "CH-14",
       "title": "Ahrimanic incarnation projected.",
-      "description": "GA 191 predicts a future earthly incarnation of Ahriman without establishing a historically confirmed occurrence; popular precise date claims require lecture-level scrutiny..",
+      "description": "GA 193 predicts a future earthly incarnation of Ahriman without establishing a historically confirmed occurrence; popular precise date claims require lecture-level scrutiny.",
       "evidence_flags": [
         "P"
       ],
@@ -1909,13 +2032,14 @@
         "S17"
       ],
       "section": "D",
-      "chronology_status": "historical_to_future"
+      "chronology_status": "present",
+      "time_scale": "cultural_period"
     },
     {
       "id": "CH-14.13",
       "parent_id": "CH-14",
       "title": "Social threefolding as modern task (1919).",
-      "description": "Freedom in spiritual/cultural life, equality in rights, and associative economic cooperation belong to Steiner's practical response to modern conditions..",
+      "description": "Freedom in spiritual/cultural life, equality in rights, and associative economic cooperation belong to Steiner's practical response to modern conditions.",
       "evidence_flags": [
         "P"
       ],
@@ -1923,13 +2047,14 @@
         "S23"
       ],
       "section": "D",
-      "chronology_status": "historical_to_future"
+      "chronology_status": "present",
+      "time_scale": "cultural_period"
     },
     {
       "id": "CH-14.14",
       "parent_id": "CH-14",
       "title": "Inner moral imagination and creativity.",
-      "description": "Consciously originated ethical action is an active human contribution, not recovery of lost Atlantean technology..",
+      "description": "Consciously originated ethical action is an active human contribution, not recovery of lost Atlantean technology.",
       "evidence_flags": [
         "P"
       ],
@@ -1937,13 +2062,14 @@
         "S22"
       ],
       "section": "D",
-      "chronology_status": "historical_to_future"
+      "chronology_status": "present",
+      "time_scale": "cultural_period"
     },
     {
       "id": "CH-14.15",
       "parent_id": "CH-14",
       "title": "Transformation of egoism.",
-      "description": "The evolution of self-consciousness must become capacity for responsibility and love rather than self-enclosure..",
+      "description": "The evolution of self-consciousness must become capacity for responsibility and love rather than self-enclosure.",
       "evidence_flags": [
         "I"
       ],
@@ -1953,13 +2079,14 @@
         "S22"
       ],
       "section": "D",
-      "chronology_status": "historical_to_future"
+      "chronology_status": "present",
+      "time_scale": "cultural_period"
     },
     {
       "id": "CH-14.16",
       "parent_id": "CH-14",
       "title": "Future dangers within the present period.",
-      "description": "Warnings about spiritually disconnected cleverness, misuse of technologies and authoritarian tendencies are predictions/normative critiques, not timelines of proven future events..",
+      "description": "Warnings about spiritually disconnected cleverness, misuse of technologies and authoritarian tendencies are predictions/normative critiques, not timelines of proven future events.",
       "evidence_flags": [
         "I"
       ],
@@ -1968,13 +2095,14 @@
         "S23"
       ],
       "section": "D",
-      "chronology_status": "historical_to_future"
+      "chronology_status": "present",
+      "time_scale": "cultural_period"
     },
     {
       "id": "CH-14.17",
       "parent_id": "CH-14",
       "title": "Forthcoming bridge to the sixth.",
-      "description": "Steiner stresses that the fifth and sixth ages are crucial for consciously combining spiritual insight with human intelligence and feeling..",
+      "description": "Steiner stresses that the fifth and sixth ages are crucial for consciously combining spiritual insight with human intelligence and feeling.",
       "evidence_flags": [
         "P"
       ],
@@ -1982,13 +2110,14 @@
         "S02"
       ],
       "section": "D",
-      "chronology_status": "historical_to_future"
+      "chronology_status": "present",
+      "time_scale": "cultural_period"
     },
     {
       "id": "CH-14.18",
       "parent_id": "CH-14",
       "title": "Continuing activity of spiritual beings.",
-      "description": "The human I's freedom is not portrayed as a rejection of all hierarchies; interacting spiritual agency continues through evolution..",
+      "description": "The human I's freedom is not portrayed as a rejection of all hierarchies; interacting spiritual agency continues through evolution.",
       "evidence_flags": [
         "I"
       ],
@@ -1997,13 +2126,14 @@
         "S02"
       ],
       "section": "D",
-      "chronology_status": "historical_to_future"
+      "chronology_status": "present",
+      "time_scale": "cultural_period"
     },
     {
       "id": "CH-14.19",
       "parent_id": "CH-14",
       "title": "No numerical certainty about modern spiritual events.",
-      "description": "Dates for invisible events and higher beings belong to source-attributed teaching, not externally certified observations..",
+      "description": "Dates for invisible events and higher beings belong to source-attributed teaching, not externally certified observations.",
       "evidence_flags": [
         "X"
       ],
@@ -2012,13 +2142,14 @@
         "S20"
       ],
       "section": "D",
-      "chronology_status": "historical_to_future"
+      "chronology_status": "present",
+      "time_scale": "cultural_period"
     },
     {
       "id": "CH-15.01",
       "parent_id": "CH-15",
       "title": "Future cultural age, not the sixth planetary condition.",
-      "description": "This comes before the war of all against all, still within the fifth great Earth epoch..",
+      "description": "This comes before the war of all against all, still within the fifth great Earth epoch.",
       "evidence_flags": [
         "P",
         "D"
@@ -2028,13 +2159,14 @@
         "S12"
       ],
       "section": "D",
-      "chronology_status": "historical_to_future"
+      "chronology_status": "projected",
+      "time_scale": "cultural_period"
     },
     {
       "id": "CH-15.02",
       "parent_id": "CH-15",
       "title": "Transformed echo of ancient Persia.",
-      "description": "Spiritual insights and work upon the world are expected to return in a new, conscious manner..",
+      "description": "Spiritual insights and work upon the world are expected to return in a new, conscious manner.",
       "evidence_flags": [
         "P"
       ],
@@ -2043,13 +2175,14 @@
         "S14"
       ],
       "section": "D",
-      "chronology_status": "historical_to_future"
+      "chronology_status": "projected",
+      "time_scale": "cultural_period"
     },
     {
       "id": "CH-15.03",
       "parent_id": "CH-15",
       "title": "Conscious spirituality and cooperation.",
-      "description": "Those who have united intellect, feeling and spiritual understanding are particularly prepared for what follows..",
+      "description": "Those who have united intellect, feeling and spiritual understanding are particularly prepared for what follows.",
       "evidence_flags": [
         "P"
       ],
@@ -2057,13 +2190,14 @@
         "S02"
       ],
       "section": "D",
-      "chronology_status": "historical_to_future"
+      "chronology_status": "projected",
+      "time_scale": "cultural_period"
     },
     {
       "id": "CH-15.04",
       "parent_id": "CH-15",
       "title": "Developing future faculties.",
-      "description": "Avoid assuming a detailed biological or political forecast where Steiner gives only a spiritual characterization..",
+      "description": "Avoid assuming a detailed biological or political forecast where Steiner gives only a spiritual characterization.",
       "evidence_flags": [
         "I"
       ],
@@ -2071,13 +2205,14 @@
         "S02"
       ],
       "section": "D",
-      "chronology_status": "historical_to_future"
+      "chronology_status": "projected",
+      "time_scale": "cultural_period"
     },
     {
       "id": "CH-15.05",
       "parent_id": "CH-15",
       "title": "\"Philadelphia\" symbolism.",
-      "description": "GA 104 connects the sixth cultural age with the apocalyptic church of Philadelphia; it is *not* the identical category as the seven seals after the later catastrophe..",
+      "description": "GA 104 connects the sixth cultural age with the apocalyptic church of Philadelphia; it is *not* the identical category as the seven seals after the later catastrophe.",
       "evidence_flags": [
         "P"
       ],
@@ -2085,13 +2220,14 @@
         "S13"
       ],
       "section": "D",
-      "chronology_status": "historical_to_future"
+      "chronology_status": "projected",
+      "time_scale": "cultural_period"
     },
     {
       "id": "CH-16.01",
       "parent_id": "CH-16",
       "title": "Final cultural period of the fifth great Earth epoch.",
-      "description": "It precedes a greater transition and is not the terminal end of all terrestrial evolution..",
+      "description": "It precedes a greater transition and is not the terminal end of all terrestrial evolution.",
       "evidence_flags": [
         "P",
         "D"
@@ -2101,13 +2237,14 @@
         "S12"
       ],
       "section": "D",
-      "chronology_status": "historical_to_future"
+      "chronology_status": "projected",
+      "time_scale": "cultural_period"
     },
     {
       "id": "CH-16.02",
       "parent_id": "CH-16",
       "title": "Ancient Indian wisdom transformed.",
-      "description": "Steiner projects a return of primordial spiritual knowledge now consciously won by the individual..",
+      "description": "Steiner projects a return of primordial spiritual knowledge now consciously won by the individual.",
       "evidence_flags": [
         "P"
       ],
@@ -2116,13 +2253,14 @@
         "S14"
       ],
       "section": "D",
-      "chronology_status": "historical_to_future"
+      "chronology_status": "projected",
+      "time_scale": "cultural_period"
     },
     {
       "id": "CH-16.03",
       "parent_id": "CH-16",
       "title": "Differentiation of paths.",
-      "description": "Some souls are pictured as prepared for the next great period, others as increasingly unadapted; treat these as Steiner's spiritual moral categories, not classifications of living groups..",
+      "description": "Some souls are pictured as prepared for the next great period, others as increasingly unadapted; treat these as Steiner's spiritual moral categories, not classifications of living groups.",
       "evidence_flags": [
         "P",
         "X"
@@ -2131,13 +2269,14 @@
         "S02"
       ],
       "section": "D",
-      "chronology_status": "historical_to_future"
+      "chronology_status": "projected",
+      "time_scale": "cultural_period"
     },
     {
       "id": "CH-16.04",
       "parent_id": "CH-16",
       "title": "Climactic social/moral crisis.",
-      "description": "The war of all against all is foretold as the fifth great epoch closes..",
+      "description": "The war of all against all is foretold as the fifth great epoch closes.",
       "evidence_flags": [
         "P"
       ],
@@ -2146,13 +2285,14 @@
         "S26"
       ],
       "section": "D",
-      "chronology_status": "historical_to_future"
+      "chronology_status": "projected",
+      "time_scale": "cultural_period"
     },
     {
       "id": "CH-16.05",
       "parent_id": "CH-16",
       "title": "Date precision not guaranteed.",
-      "description": "~7893 CE is the arithmetic terminus of a 2,160-year scheme, not a demonstrated date of literal catastrophe..",
+      "description": "~7893 CE is the arithmetic terminus of a 2,160-year scheme, not a demonstrated date of literal catastrophe.",
       "evidence_flags": [
         "D",
         "X"
@@ -2162,13 +2302,14 @@
         "S28"
       ],
       "section": "D",
-      "chronology_status": "historical_to_future"
+      "chronology_status": "projected",
+      "time_scale": "cultural_period"
     },
     {
       "id": "CH-17.01",
       "parent_id": "CH-17",
       "title": "War of all against all.",
-      "description": "A moral-human catastrophe, with attendant natural effects, separates the fifth great Earth epoch from the sixth..",
+      "description": "A moral-human catastrophe, with attendant natural effects, separates the fifth great Earth epoch from the sixth.",
       "evidence_flags": [
         "P"
       ],
@@ -2177,13 +2318,14 @@
         "S26"
       ],
       "section": "E",
-      "chronology_status": "projected"
+      "chronology_status": "projected",
+      "time_scale": "future_earth_epoch"
     },
     {
       "id": "CH-17.02",
       "parent_id": "CH-17",
       "title": "Not to be confused with modern wars.",
-      "description": "Steiner's forecast is an esoteric end-of-great-epoch concept, not a validated identification with World War I, II, or a present conflict..",
+      "description": "Steiner's forecast is an esoteric end-of-great-epoch concept, not a validated identification with World War I, II, or a present conflict.",
       "evidence_flags": [
         "I",
         "X"
@@ -2192,13 +2334,14 @@
         "S25"
       ],
       "section": "E",
-      "chronology_status": "projected"
+      "chronology_status": "projected",
+      "time_scale": "future_earth_epoch"
     },
     {
       "id": "CH-17.03",
       "parent_id": "CH-17",
       "title": "Carrying seeds forward.",
-      "description": "Moral/spiritual capacities acquired earlier are said to prepare humans for the conditions after the transition..",
+      "description": "Moral/spiritual capacities acquired earlier are said to prepare humans for the conditions after the transition.",
       "evidence_flags": [
         "P"
       ],
@@ -2207,13 +2350,14 @@
         "S26"
       ],
       "section": "E",
-      "chronology_status": "projected"
+      "chronology_status": "projected",
+      "time_scale": "future_earth_epoch"
     },
     {
       "id": "CH-18.01",
       "parent_id": "CH-18",
       "title": "Seven further stages.",
-      "description": "The future sixth great epoch is pictured as comprising seven subdivisions..",
+      "description": "The future sixth great epoch is pictured as comprising seven subdivisions.",
       "evidence_flags": [
         "P"
       ],
@@ -2222,13 +2366,14 @@
         "S13"
       ],
       "section": "E",
-      "chronology_status": "projected"
+      "chronology_status": "projected",
+      "time_scale": "future_earth_epoch"
     },
     {
       "id": "CH-18.02",
       "parent_id": "CH-18",
       "title": "Seven seals as spiritual pictures.",
-      "description": "Apocalyptic symbols describe stages of metamorphosis, not straightforward newspaper events..",
+      "description": "Apocalyptic symbols describe stages of metamorphosis, not straightforward newspaper events.",
       "evidence_flags": [
         "P"
       ],
@@ -2236,13 +2381,14 @@
         "S13"
       ],
       "section": "E",
-      "chronology_status": "projected"
+      "chronology_status": "projected",
+      "time_scale": "future_earth_epoch"
     },
     {
       "id": "CH-18.03",
       "parent_id": "CH-18",
       "title": "Enhanced spiritual relation.",
-      "description": "Humanity is said to gain a conscious spiritual community beyond earlier Atlantean clairvoyance..",
+      "description": "Humanity is said to gain a conscious spiritual community beyond earlier Atlantean clairvoyance.",
       "evidence_flags": [
         "P"
       ],
@@ -2250,13 +2396,14 @@
         "S02"
       ],
       "section": "E",
-      "chronology_status": "projected"
+      "chronology_status": "projected",
+      "time_scale": "future_earth_epoch"
     },
     {
       "id": "CH-18.04",
       "parent_id": "CH-18",
       "title": "Transformed body and form.",
-      "description": "Progressive spiritualization makes later human embodiment unlike current physical anthropology..",
+      "description": "Progressive spiritualization makes later human embodiment unlike current physical anthropology.",
       "evidence_flags": [
         "P"
       ],
@@ -2264,13 +2411,14 @@
         "S13"
       ],
       "section": "E",
-      "chronology_status": "projected"
+      "chronology_status": "projected",
+      "time_scale": "future_earth_epoch"
     },
     {
       "id": "CH-18.05",
       "parent_id": "CH-18",
       "title": "Grouping by moral development.",
-      "description": "Steiner predicts different evolutionary destinies; this is not a justification for coercion or prejudicial hierarchies in the present..",
+      "description": "Steiner predicts different evolutionary destinies; this is not a justification for coercion or prejudicial hierarchies in the present.",
       "evidence_flags": [
         "P",
         "X"
@@ -2280,13 +2428,14 @@
         "S13"
       ],
       "section": "E",
-      "chronology_status": "projected"
+      "chronology_status": "projected",
+      "time_scale": "future_earth_epoch"
     },
     {
       "id": "CH-18.06",
       "parent_id": "CH-18",
       "title": "Further source audit required.",
-      "description": "Exact one-to-one identification of every seal, its subdivisions and bodily transformations requires full GA 104/104a/346 reconciliation..",
+      "description": "Exact one-to-one identification of every seal, its subdivisions and bodily transformations requires full GA 104/104a/346 reconciliation.",
       "evidence_flags": [
         "L"
       ],
@@ -2295,13 +2444,14 @@
         "S25"
       ],
       "section": "E",
-      "chronology_status": "projected"
+      "chronology_status": "projected",
+      "time_scale": "future_earth_epoch"
     },
     {
       "id": "CH-19.01",
       "parent_id": "CH-19",
       "title": "Seven trumpet stages.",
-      "description": "A following great epoch is characterized by the seven trumpets..",
+      "description": "A following great epoch is characterized by the seven trumpets.",
       "evidence_flags": [
         "P"
       ],
@@ -2310,13 +2460,14 @@
         "S13"
       ],
       "section": "E",
-      "chronology_status": "projected"
+      "chronology_status": "projected",
+      "time_scale": "future_earth_epoch"
     },
     {
       "id": "CH-19.02",
       "parent_id": "CH-19",
       "title": "Further transition beyond physical density.",
-      "description": "After trumpet development, Earth advances to a different astral/spiritual form of existence in these accounts..",
+      "description": "After trumpet development, Earth advances to a different astral/spiritual form of existence in these accounts.",
       "evidence_flags": [
         "P"
       ],
@@ -2324,13 +2475,14 @@
         "S13"
       ],
       "section": "E",
-      "chronology_status": "projected"
+      "chronology_status": "projected",
+      "time_scale": "future_earth_epoch"
     },
     {
       "id": "CH-19.03",
       "parent_id": "CH-19",
       "title": "Apocalyptic conflict and consequences.",
-      "description": "Steiner uses beast, bowls/vials and separation symbolism for divergent courses of evolution..",
+      "description": "Steiner uses beast, bowls/vials and separation symbolism for divergent courses of evolution.",
       "evidence_flags": [
         "P"
       ],
@@ -2338,13 +2490,14 @@
         "S31"
       ],
       "section": "E",
-      "chronology_status": "projected"
+      "chronology_status": "projected",
+      "time_scale": "future_earth_epoch"
     },
     {
       "id": "CH-19.04",
       "parent_id": "CH-19",
       "title": "Interpreting the symbols.",
-      "description": "Do not convert these into an invented date-by-date chronology of modern military or ecological events..",
+      "description": "Do not convert these into an invented date-by-date chronology of modern military or ecological events.",
       "evidence_flags": [
         "I",
         "X"
@@ -2354,13 +2507,14 @@
         "S31"
       ],
       "section": "E",
-      "chronology_status": "projected"
+      "chronology_status": "projected",
+      "time_scale": "future_earth_epoch"
     },
     {
       "id": "CH-20.01",
       "parent_id": "CH-20",
       "title": "Return of the Moon.",
-      "description": "In the far future, the Moon is said to reunite with Earth after human spiritual evolution has changed its ability to assimilate lunar forces..",
+      "description": "In the far future, the Moon is said to reunite with Earth after human spiritual evolution has changed its ability to assimilate lunar forces.",
       "evidence_flags": [
         "P"
       ],
@@ -2368,13 +2522,14 @@
         "S02"
       ],
       "section": "E",
-      "chronology_status": "projected"
+      "chronology_status": "projected",
+      "time_scale": "future_earth_epoch"
     },
     {
       "id": "CH-20.02",
       "parent_id": "CH-20",
       "title": "Divergent moral development.",
-      "description": "Steiner pictures prepared humanity and opposing, karmically burdened groups; this is an attribution, not an objectively grounded ranking..",
+      "description": "Steiner pictures prepared humanity and opposing, karmically burdened groups; this is an attribution, not an objectively grounded ranking.",
       "evidence_flags": [
         "P",
         "X"
@@ -2383,13 +2538,14 @@
         "S02"
       ],
       "section": "E",
-      "chronology_status": "projected"
+      "chronology_status": "projected",
+      "time_scale": "future_earth_epoch"
     },
     {
       "id": "CH-20.03",
       "parent_id": "CH-20",
       "title": "Transformative help.",
-      "description": "More advanced humanity is tasked with helping rather than merely discarding other beings..",
+      "description": "More advanced humanity is tasked with helping rather than merely discarding other beings.",
       "evidence_flags": [
         "P"
       ],
@@ -2397,13 +2553,14 @@
         "S02"
       ],
       "section": "E",
-      "chronology_status": "projected"
+      "chronology_status": "projected",
+      "time_scale": "future_earth_epoch"
     },
     {
       "id": "CH-20.04",
       "parent_id": "CH-20",
       "title": "Earth rejoins Sun and other planets.",
-      "description": "The cosmic bodies' altered relationships enable Earth's eventual transformation..",
+      "description": "The cosmic bodies' altered relationships enable Earth's eventual transformation.",
       "evidence_flags": [
         "P"
       ],
@@ -2411,13 +2568,14 @@
         "S02"
       ],
       "section": "E",
-      "chronology_status": "projected"
+      "chronology_status": "projected",
+      "time_scale": "future_earth_epoch"
     },
     {
       "id": "CH-20.05",
       "parent_id": "CH-20",
       "title": "Cosmic rest.",
-      "description": "An interplanetary \"sleep of worlds\" intervenes before future Jupiter..",
+      "description": "An interplanetary \"sleep of worlds\" intervenes before future Jupiter.",
       "evidence_flags": [
         "P"
       ],
@@ -2425,13 +2583,14 @@
         "S02"
       ],
       "section": "E",
-      "chronology_status": "projected"
+      "chronology_status": "projected",
+      "time_scale": "future_earth_epoch"
     },
     {
       "id": "CH-21.01",
       "parent_id": "CH-21",
       "title": "New planetary embodiment.",
-      "description": "Future Jupiter is the metamorphosis of Earth after rest, incorporating results of both Old Moon inheritance and terrestrial moral development..",
+      "description": "Future Jupiter is the metamorphosis of Earth after rest, incorporating results of both Old Moon inheritance and terrestrial moral development.",
       "evidence_flags": [
         "P"
       ],
@@ -2439,13 +2598,14 @@
         "S02"
       ],
       "section": "F",
-      "chronology_status": "projected"
+      "chronology_status": "projected",
+      "time_scale": "future_cosmic"
     },
     {
       "id": "CH-21.02",
       "parent_id": "CH-21",
       "title": "Present mineral kingdom disappears as such.",
-      "description": "The lowest kingdom is described as plant-like, not today's botanical plant kingdom simply moved to a new planet..",
+      "description": "The lowest kingdom is described as plant-like, not today's botanical plant kingdom simply moved to a new planet.",
       "evidence_flags": [
         "P"
       ],
@@ -2453,13 +2613,14 @@
         "S02"
       ],
       "section": "F",
-      "chronology_status": "projected"
+      "chronology_status": "projected",
+      "time_scale": "future_cosmic"
     },
     {
       "id": "CH-21.03",
       "parent_id": "CH-21",
       "title": "Altered animal and human kingdoms.",
-      "description": "New ranges of being and the consequences of earlier moral choices are envisioned..",
+      "description": "New ranges of being and the consequences of earlier moral choices are envisioned.",
       "evidence_flags": [
         "P"
       ],
@@ -2467,13 +2628,14 @@
         "S02"
       ],
       "section": "F",
-      "chronology_status": "projected"
+      "chronology_status": "projected",
+      "time_scale": "future_cosmic"
     },
     {
       "id": "CH-21.04",
       "parent_id": "CH-21",
       "title": "Humanity as transforming agency.",
-      "description": "The spiritual development of human beings determines what can be carried into this condition..",
+      "description": "The spiritual development of human beings determines what can be carried into this condition.",
       "evidence_flags": [
         "P"
       ],
@@ -2481,13 +2643,14 @@
         "S02"
       ],
       "section": "F",
-      "chronology_status": "projected"
+      "chronology_status": "projected",
+      "time_scale": "future_cosmic"
     },
     {
       "id": "CH-21.05",
       "parent_id": "CH-21",
       "title": "Renewed Sun/Jupiter separation.",
-      "description": "The future condition includes a period of receiving solar influence from outside..",
+      "description": "The future condition includes a period of receiving solar influence from outside.",
       "evidence_flags": [
         "P"
       ],
@@ -2495,13 +2658,14 @@
         "S02"
       ],
       "section": "F",
-      "chronology_status": "projected"
+      "chronology_status": "projected",
+      "time_scale": "future_cosmic"
     },
     {
       "id": "CH-21.06",
       "parent_id": "CH-21",
       "title": "Higher consciousness.",
-      "description": "Future Jupiter is linked in the broader account to new forms of consciousness, requiring cross-check of detailed terminological mappings..",
+      "description": "Future Jupiter is linked in the broader account to new forms of consciousness, requiring cross-check of detailed terminological mappings.",
       "evidence_flags": [
         "L"
       ],
@@ -2510,13 +2674,14 @@
         "S13"
       ],
       "section": "F",
-      "chronology_status": "projected"
+      "chronology_status": "projected",
+      "time_scale": "future_cosmic"
     },
     {
       "id": "CH-22.01",
       "parent_id": "CH-22",
       "title": "Further planetary metamorphosis.",
-      "description": "Future Venus follows Jupiter after another major integration..",
+      "description": "Future Venus follows Jupiter after another major integration.",
       "evidence_flags": [
         "P"
       ],
@@ -2524,13 +2689,14 @@
         "S02"
       ],
       "section": "F",
-      "chronology_status": "projected"
+      "chronology_status": "projected",
+      "time_scale": "future_cosmic"
     },
     {
       "id": "CH-22.02",
       "parent_id": "CH-22",
       "title": "No plant kingdom as a separate lowest kingdom.",
-      "description": "Steiner pictures the lowest remaining level as a greatly changed animal-like kingdom..",
+      "description": "Steiner pictures the lowest remaining level as a greatly changed animal-like kingdom.",
       "evidence_flags": [
         "P"
       ],
@@ -2538,13 +2704,14 @@
         "S02"
       ],
       "section": "F",
-      "chronology_status": "projected"
+      "chronology_status": "projected",
+      "time_scale": "future_cosmic"
     },
     {
       "id": "CH-22.03",
       "parent_id": "CH-22",
       "title": "Further differentiated human kingdoms.",
-      "description": "Several human developmental levels remain in the account..",
+      "description": "Several human developmental levels remain in the account.",
       "evidence_flags": [
         "P"
       ],
@@ -2552,13 +2719,14 @@
         "S02"
       ],
       "section": "F",
-      "chronology_status": "projected"
+      "chronology_status": "projected",
+      "time_scale": "future_cosmic"
     },
     {
       "id": "CH-22.04",
       "parent_id": "CH-22",
       "title": "Separate \"irreclaimable moon.\"",
-      "description": "One later separation is described for beings who persistently resist further evolution..",
+      "description": "One later separation is described for beings who persistently resist further evolution.",
       "evidence_flags": [
         "P",
         "X"
@@ -2567,13 +2735,14 @@
         "S02"
       ],
       "section": "F",
-      "chronology_status": "projected"
+      "chronology_status": "projected",
+      "time_scale": "future_cosmic"
     },
     {
       "id": "CH-22.05",
       "parent_id": "CH-22",
       "title": "Solar relationship.",
-      "description": "Sun/Venus relations are part of the transition and should not be equated with current astronomy..",
+      "description": "Sun/Venus relations are part of the transition and should not be equated with current astronomy.",
       "evidence_flags": [
         "P"
       ],
@@ -2581,13 +2750,14 @@
         "S02"
       ],
       "section": "F",
-      "chronology_status": "projected"
+      "chronology_status": "projected",
+      "time_scale": "future_cosmic"
     },
     {
       "id": "CH-23.01",
       "parent_id": "CH-23",
       "title": "Most remote named future planetary condition.",
-      "description": "Future Vulcan follows Venus and is considered analogous, on a higher level, to primordial Old Saturn..",
+      "description": "Future Vulcan follows Venus and is considered analogous, on a higher level, to primordial Old Saturn.",
       "evidence_flags": [
         "P"
       ],
@@ -2595,13 +2765,14 @@
         "S02"
       ],
       "section": "F",
-      "chronology_status": "projected"
+      "chronology_status": "projected",
+      "time_scale": "future_cosmic"
     },
     {
       "id": "CH-23.02",
       "parent_id": "CH-23",
       "title": "Far-future outcome of human spiritualization.",
-      "description": "Detailed faculties, kingdoms and forms should be stated only with exact further source passage audits..",
+      "description": "Detailed faculties, kingdoms and forms should be stated only with exact further source passage audits.",
       "evidence_flags": [
         "L"
       ],
@@ -2610,13 +2781,14 @@
         "S13"
       ],
       "section": "F",
-      "chronology_status": "projected"
+      "chronology_status": "projected",
+      "time_scale": "future_cosmic"
     },
     {
       "id": "CH-23.03",
       "parent_id": "CH-23",
       "title": "Beyond the named cycle.",
-      "description": "Do not claim that Steiner provides a fully specified, infinitely extending chronology beyond Vulcan on the basis of these sources..",
+      "description": "Do not claim that Steiner provides a fully specified, infinitely extending chronology beyond Vulcan on the basis of these sources.",
       "evidence_flags": [
         "X"
       ],
@@ -2624,13 +2796,14 @@
         "S02"
       ],
       "section": "F",
-      "chronology_status": "projected"
+      "chronology_status": "projected",
+      "time_scale": "future_cosmic"
     },
     {
       "id": "CH-24.01",
       "parent_id": "CH-24",
       "title": "First hierarchy.",
-      "description": "Seraphim, Cherubim and Thrones appear as cosmic actors in the evolutionary narratives; \"activity during\" is not \"sole creator of\" a specific organ..",
+      "description": "Seraphim, Cherubim and Thrones appear as cosmic actors in the evolutionary narratives; \"activity during\" is not \"sole creator of\" a specific organ.",
       "evidence_flags": [
         "P"
       ],
@@ -2638,13 +2811,14 @@
         "S01"
       ],
       "section": "G",
-      "chronology_status": "recurrent_or_crosscutting"
+      "chronology_status": "recurrent_or_crosscutting",
+      "time_scale": "crosscutting"
     },
     {
       "id": "CH-24.02",
       "parent_id": "CH-24",
       "title": "Second hierarchy.",
-      "description": "Kyriotetes (Wisdom), Dynamis (Movement) and Exusiai (Form) mediate life, astrality, organization and Earth-ego development in different contexts..",
+      "description": "Kyriotetes (Wisdom), Dynamis (Movement) and Exusiai (Form) mediate life, astrality, organization and Earth-ego development in different contexts.",
       "evidence_flags": [
         "P"
       ],
@@ -2653,13 +2827,14 @@
         "S02"
       ],
       "section": "G",
-      "chronology_status": "recurrent_or_crosscutting"
+      "chronology_status": "recurrent_or_crosscutting",
+      "time_scale": "crosscutting"
     },
     {
       "id": "CH-24.03",
       "parent_id": "CH-24",
       "title": "Third hierarchy.",
-      "description": "Archai/Spirits of Personality, Archangels/Fire Spirits and Angels/Sons of Life occupy changing roles over epochs..",
+      "description": "Archai/Spirits of Personality, Archangels/Fire Spirits and Angels/Sons of Life occupy changing roles over epochs.",
       "evidence_flags": [
         "L"
       ],
@@ -2668,13 +2843,14 @@
         "S32"
       ],
       "section": "G",
-      "chronology_status": "recurrent_or_crosscutting"
+      "chronology_status": "recurrent_or_crosscutting",
+      "time_scale": "crosscutting"
     },
     {
       "id": "CH-24.04",
       "parent_id": "CH-24",
       "title": "Luciferic current.",
-      "description": "In Steiner's historical narrative, Luciferic influences become especially important in Lemuria and remain relevant afterward..",
+      "description": "In Steiner's historical narrative, Luciferic influences become especially important in Lemuria and remain relevant afterward.",
       "evidence_flags": [
         "P"
       ],
@@ -2682,13 +2858,14 @@
         "S01"
       ],
       "section": "G",
-      "chronology_status": "recurrent_or_crosscutting"
+      "chronology_status": "recurrent_or_crosscutting",
+      "time_scale": "crosscutting"
     },
     {
       "id": "CH-24.05",
       "parent_id": "CH-24",
       "title": "Ahrimanic current.",
-      "description": "Ahrimanic influences are significant from Atlantean development onward and are projected to grow especially acute in modern materialistic civilization..",
+      "description": "Ahrimanic influences are significant from Atlantean development onward and are projected to grow especially acute in modern materialistic civilization.",
       "evidence_flags": [
         "P"
       ],
@@ -2697,13 +2874,14 @@
         "S17"
       ],
       "section": "G",
-      "chronology_status": "recurrent_or_crosscutting"
+      "chronology_status": "recurrent_or_crosscutting",
+      "time_scale": "crosscutting"
     },
     {
       "id": "CH-24.06",
       "parent_id": "CH-24",
       "title": "Christ current.",
-      "description": "The solar/Christ dimension precedes Golgotha; Golgotha is the unique Earth turning point in Steiner's Christology; its consequence continues after it..",
+      "description": "The solar/Christ dimension precedes Golgotha; Golgotha is the unique Earth turning point in Steiner's Christology; its consequence continues after it.",
       "evidence_flags": [
         "P"
       ],
@@ -2712,13 +2890,14 @@
         "S18"
       ],
       "section": "G",
-      "chronology_status": "recurrent_or_crosscutting"
+      "chronology_status": "recurrent_or_crosscutting",
+      "time_scale": "crosscutting"
     },
     {
       "id": "CH-24.07",
       "parent_id": "CH-24",
       "title": "Michael current.",
-      "description": "Current Michaelic guidance is tied to the late nineteenth century but discussed as part of a longer supersensible history..",
+      "description": "Current Michaelic guidance is tied to the late nineteenth century but discussed as part of a longer supersensible history.",
       "evidence_flags": [
         "P"
       ],
@@ -2727,13 +2906,14 @@
         "S21"
       ],
       "section": "G",
-      "chronology_status": "recurrent_or_crosscutting"
+      "chronology_status": "recurrent_or_crosscutting",
+      "time_scale": "crosscutting"
     },
     {
       "id": "CH-24.08",
       "parent_id": "CH-24",
       "title": "Different kinds of \"agency.\"",
-      "description": "Creator, giver of a member, former planetary guide, present physiologic activity, spiritual inspiration and symbolic correspondence must be tagged separately..",
+      "description": "Creator, giver of a member, former planetary guide, present physiologic activity, spiritual inspiration and symbolic correspondence must be tagged separately.",
       "evidence_flags": [
         "I"
       ],
@@ -2743,13 +2923,14 @@
         "S33"
       ],
       "section": "G",
-      "chronology_status": "recurrent_or_crosscutting"
+      "chronology_status": "recurrent_or_crosscutting",
+      "time_scale": "crosscutting"
     },
     {
       "id": "CH-25.01",
       "parent_id": "CH-25",
       "title": "Physical germ — Old Saturn.",
-      "description": "This is the *starting germ* of human physical organization, not a fully developed modern physical body..",
+      "description": "This is the *starting germ* of human physical organization, not a fully developed modern physical body.",
       "evidence_flags": [
         "P"
       ],
@@ -2757,13 +2938,14 @@
         "S01"
       ],
       "section": "G",
-      "chronology_status": "recurrent_or_crosscutting"
+      "chronology_status": "recurrent_or_crosscutting",
+      "time_scale": "crosscutting"
     },
     {
       "id": "CH-25.02",
       "parent_id": "CH-25",
       "title": "Etheric/life germ — Old Sun.",
-      "description": "Living growth and organization are added to what was prepared previously..",
+      "description": "Living growth and organization are added to what was prepared previously.",
       "evidence_flags": [
         "P"
       ],
@@ -2771,13 +2953,14 @@
         "S01"
       ],
       "section": "G",
-      "chronology_status": "recurrent_or_crosscutting"
+      "chronology_status": "recurrent_or_crosscutting",
+      "time_scale": "crosscutting"
     },
     {
       "id": "CH-25.03",
       "parent_id": "CH-25",
       "title": "Astral/sentient germ — Old Moon.",
-      "description": "Sensation and inner wish develop upon inherited physical/etheric bases..",
+      "description": "Sensation and inner wish develop upon inherited physical/etheric bases.",
       "evidence_flags": [
         "P"
       ],
@@ -2785,13 +2968,14 @@
         "S01"
       ],
       "section": "G",
-      "chronology_status": "recurrent_or_crosscutting"
+      "chronology_status": "recurrent_or_crosscutting",
+      "time_scale": "crosscutting"
     },
     {
       "id": "CH-25.04",
       "parent_id": "CH-25",
       "title": "I/ego germ — Earth.",
-      "description": "Independent embodied ego-consciousness becomes the distinctive terrestrial work..",
+      "description": "Independent embodied ego-consciousness becomes the distinctive terrestrial work.",
       "evidence_flags": [
         "P"
       ],
@@ -2799,13 +2983,14 @@
         "S02"
       ],
       "section": "G",
-      "chronology_status": "recurrent_or_crosscutting"
+      "chronology_status": "recurrent_or_crosscutting",
+      "time_scale": "crosscutting"
     },
     {
       "id": "CH-25.05",
       "parent_id": "CH-25",
       "title": "Spirit-Self, Life-Spirit, Spirit-Man.",
-      "description": "These have earlier seeds yet are future developmental achievements of the working human I, not bodies added fully formed in chronological order..",
+      "description": "These have earlier seeds yet are future developmental achievements of the working human I, not bodies added fully formed in chronological order.",
       "evidence_flags": [
         "P"
       ],
@@ -2814,13 +2999,14 @@
         "S02"
       ],
       "section": "G",
-      "chronology_status": "recurrent_or_crosscutting"
+      "chronology_status": "recurrent_or_crosscutting",
+      "time_scale": "crosscutting"
     },
     {
       "id": "CH-25.06",
       "parent_id": "CH-25",
       "title": "Sensory organs.",
-      "description": "Earliest *germs* of sense organs are connected to Saturn and Fire Spirits; actual human anatomy is a multistage product..",
+      "description": "Earliest *germs* of sense organs are connected to Saturn and Fire Spirits; actual human anatomy is a multistage product.",
       "evidence_flags": [
         "P"
       ],
@@ -2828,13 +3014,14 @@
         "S01"
       ],
       "section": "G",
-      "chronology_status": "recurrent_or_crosscutting"
+      "chronology_status": "recurrent_or_crosscutting",
+      "time_scale": "crosscutting"
     },
     {
       "id": "CH-25.07",
       "parent_id": "CH-25",
       "title": "Heart, blood and other modern organs.",
-      "description": "Organ-specific links must be imported *claim by claim* from the existing audited GA 313–317/GA 110/GA 102 dossiers; do not invent a single builder, date or first appearance for every organ..",
+      "description": "Organ-specific links must be imported *claim by claim* from the existing audited GA 313–317/GA 110/GA 102 dossiers; do not invent a single builder, date or first appearance for every organ.",
       "evidence_flags": [
         "L",
         "X"
@@ -2843,13 +3030,14 @@
         "S33"
       ],
       "section": "G",
-      "chronology_status": "recurrent_or_crosscutting"
+      "chronology_status": "recurrent_or_crosscutting",
+      "time_scale": "crosscutting"
     },
     {
       "id": "CH-25.08",
       "parent_id": "CH-25",
       "title": "Blood and I.",
-      "description": "The Atlas needs a distinct evidence track for ego/blood, including historical cosmic claims and contemporary physiological symbolism; never equate that with a clinical medical fact..",
+      "description": "The Atlas needs a distinct evidence track for ego/blood, including historical cosmic claims and contemporary physiological symbolism; never equate that with a clinical medical fact.",
       "evidence_flags": [
         "L"
       ],
@@ -2857,13 +3045,14 @@
         "S33"
       ],
       "section": "G",
-      "chronology_status": "recurrent_or_crosscutting"
+      "chronology_status": "recurrent_or_crosscutting",
+      "time_scale": "crosscutting"
     },
     {
       "id": "CH-25.09",
       "parent_id": "CH-25",
       "title": "Life forces and germinal forces.",
-      "description": "Claims about Atlantean seed powers, medical etheric forces and the development of future organs require separation by source and time scale..",
+      "description": "Claims about Atlantean seed powers, medical etheric forces and the development of future organs require separation by source and time scale.",
       "evidence_flags": [
         "L"
       ],
@@ -2872,13 +3061,14 @@
         "S33"
       ],
       "section": "G",
-      "chronology_status": "recurrent_or_crosscutting"
+      "chronology_status": "recurrent_or_crosscutting",
+      "time_scale": "crosscutting"
     },
     {
       "id": "CH-25.10",
       "parent_id": "CH-25",
       "title": "Ongoing collaboration.",
-      "description": "Earlier hierarchies' continuing influence cannot be reduced to a succession in which each old class is wholly removed..",
+      "description": "Earlier hierarchies' continuing influence cannot be reduced to a succession in which each old class is wholly removed.",
       "evidence_flags": [
         "P"
       ],
@@ -2886,13 +3076,14 @@
         "S01"
       ],
       "section": "G",
-      "chronology_status": "recurrent_or_crosscutting"
+      "chronology_status": "recurrent_or_crosscutting",
+      "time_scale": "crosscutting"
     },
     {
       "id": "CH-26.01",
       "parent_id": "CH-26",
       "title": "Between-death-and-birth spiritual existence.",
-      "description": "The individuality has experiences and relationships before earthly embodiment in Steiner's worldview..",
+      "description": "The individuality has experiences and relationships before earthly embodiment in Steiner's worldview.",
       "evidence_flags": [
         "L"
       ],
@@ -2901,13 +3092,14 @@
         "S34"
       ],
       "section": "G",
-      "chronology_status": "recurrent_or_crosscutting"
+      "chronology_status": "recurrent_or_crosscutting",
+      "time_scale": "crosscutting"
     },
     {
       "id": "CH-26.02",
       "parent_id": "CH-26",
       "title": "Descent into birth.",
-      "description": "Karma, familial life and bodily formation are discussed as part of a renewed incarnation..",
+      "description": "Karma, familial life and bodily formation are discussed as part of a renewed incarnation.",
       "evidence_flags": [
         "L"
       ],
@@ -2916,13 +3108,14 @@
         "S34"
       ],
       "section": "G",
-      "chronology_status": "recurrent_or_crosscutting"
+      "chronology_status": "recurrent_or_crosscutting",
+      "time_scale": "crosscutting"
     },
     {
       "id": "CH-26.03",
       "parent_id": "CH-26",
       "title": "Development through childhood and adulthood.",
-      "description": "Birth, growth, education and successive life periods have their own time scale..",
+      "description": "Birth, growth, education and successive life periods have their own time scale.",
       "evidence_flags": [
         "L"
       ],
@@ -2930,7 +3123,8 @@
         "S34"
       ],
       "section": "G",
-      "chronology_status": "recurrent_or_crosscutting"
+      "chronology_status": "recurrent_or_crosscutting",
+      "time_scale": "crosscutting"
     },
     {
       "id": "CH-26.04",
@@ -2944,13 +3138,14 @@
         "S34"
       ],
       "section": "G",
-      "chronology_status": "recurrent_or_crosscutting"
+      "chronology_status": "recurrent_or_crosscutting",
+      "time_scale": "crosscutting"
     },
     {
       "id": "CH-26.05",
       "parent_id": "CH-26",
       "title": "Death and the soul-world.",
-      "description": "The physical death is followed in Steiner's description by processes of review and purification..",
+      "description": "The physical death is followed in Steiner's description by processes of review and purification.",
       "evidence_flags": [
         "P"
       ],
@@ -2958,13 +3153,14 @@
         "S34"
       ],
       "section": "G",
-      "chronology_status": "recurrent_or_crosscutting"
+      "chronology_status": "recurrent_or_crosscutting",
+      "time_scale": "crosscutting"
     },
     {
       "id": "CH-26.06",
       "parent_id": "CH-26",
       "title": "Spiritland and further development.",
-      "description": "Postmortem experiences continue beyond immediate soul-world processes..",
+      "description": "Postmortem experiences continue beyond immediate soul-world processes.",
       "evidence_flags": [
         "P"
       ],
@@ -2972,13 +3168,14 @@
         "S34"
       ],
       "section": "G",
-      "chronology_status": "recurrent_or_crosscutting"
+      "chronology_status": "recurrent_or_crosscutting",
+      "time_scale": "crosscutting"
     },
     {
       "id": "CH-26.07",
       "parent_id": "CH-26",
       "title": "Karma and future incarnation.",
-      "description": "Earlier lives can be understood, in Steiner's scheme, as conditioning subsequent individual situations..",
+      "description": "Earlier lives can be understood, in Steiner's scheme, as conditioning subsequent individual situations.",
       "evidence_flags": [
         "P"
       ],
@@ -2986,13 +3183,14 @@
         "S34"
       ],
       "section": "G",
-      "chronology_status": "recurrent_or_crosscutting"
+      "chronology_status": "recurrent_or_crosscutting",
+      "time_scale": "crosscutting"
     },
     {
       "id": "CH-26.08",
       "parent_id": "CH-26",
       "title": "Christ and postmortem life.",
-      "description": "Steiner attributes a change to the life after death through Golgotha; locate this on a spiritual-history overlay, not a separate personal birth date..",
+      "description": "Steiner attributes a change to the life after death through Golgotha; locate this on a spiritual-history overlay, not a separate personal birth date.",
       "evidence_flags": [
         "P"
       ],
@@ -3000,13 +3198,14 @@
         "S01"
       ],
       "section": "G",
-      "chronology_status": "recurrent_or_crosscutting"
+      "chronology_status": "recurrent_or_crosscutting",
+      "time_scale": "crosscutting"
     },
     {
       "id": "CH-27.01",
       "parent_id": "CH-27",
       "title": "Awakening of conscious thinking.",
-      "description": "Present humanity must increasingly know rather than instinctively inherit spiritual relationships..",
+      "description": "Present humanity must increasingly know rather than instinctively inherit spiritual relationships.",
       "evidence_flags": [
         "P"
       ],
@@ -3015,13 +3214,14 @@
         "S29"
       ],
       "section": "G",
-      "chronology_status": "recurrent_or_crosscutting"
+      "chronology_status": "recurrent_or_crosscutting",
+      "time_scale": "crosscutting"
     },
     {
       "id": "CH-27.02",
       "parent_id": "CH-27",
       "title": "Freedom in ethics.",
-      "description": "Mature moral imagination provides situational, responsible initiatives rather than mere external rule following..",
+      "description": "Mature moral imagination provides situational, responsible initiatives rather than mere external rule following.",
       "evidence_flags": [
         "P"
       ],
@@ -3029,13 +3229,14 @@
         "S22"
       ],
       "section": "G",
-      "chronology_status": "recurrent_or_crosscutting"
+      "chronology_status": "recurrent_or_crosscutting",
+      "time_scale": "crosscutting"
     },
     {
       "id": "CH-27.03",
       "parent_id": "CH-27",
       "title": "Love as an evolutionary force.",
-      "description": "Link exact passages about love and the transformation of wisdom before elevating this to a single linear chronology..",
+      "description": "Link exact passages about love and the transformation of wisdom before elevating this to a single linear chronology.",
       "evidence_flags": [
         "L"
       ],
@@ -3043,13 +3244,14 @@
         "S02"
       ],
       "section": "G",
-      "chronology_status": "recurrent_or_crosscutting"
+      "chronology_status": "recurrent_or_crosscutting",
+      "time_scale": "crosscutting"
     },
     {
       "id": "CH-27.04",
       "parent_id": "CH-27",
       "title": "Culture, rights and economy.",
-      "description": "Threefold society belongs to the modern response to spiritual and institutional unfreedom; distinguish Steiner's proposal from a prediction that it inevitably occurs..",
+      "description": "Threefold society belongs to the modern response to spiritual and institutional unfreedom; distinguish Steiner's proposal from a prediction that it inevitably occurs.",
       "evidence_flags": [
         "P"
       ],
@@ -3057,13 +3259,14 @@
         "S23"
       ],
       "section": "G",
-      "chronology_status": "recurrent_or_crosscutting"
+      "chronology_status": "recurrent_or_crosscutting",
+      "time_scale": "crosscutting"
     },
     {
       "id": "CH-27.05",
       "parent_id": "CH-27",
       "title": "Education, medicine, agriculture and arts.",
-      "description": "These are fields of practical anthroposophical activity, each with its own historical chronology and corpus; their *future destiny* must not be invented from present program descriptions..",
+      "description": "These are fields of practical anthroposophical activity, each with its own historical chronology and corpus; their *future destiny* must not be invented from present program descriptions.",
       "evidence_flags": [
         "L"
       ],
@@ -3071,13 +3274,14 @@
         "S33"
       ],
       "section": "G",
-      "chronology_status": "recurrent_or_crosscutting"
+      "chronology_status": "recurrent_or_crosscutting",
+      "time_scale": "crosscutting"
     },
     {
       "id": "CH-27.06",
       "parent_id": "CH-27",
       "title": "Scientific and medical assertions.",
-      "description": "Organ evolution and descriptions of disability, illness, race or heredity must be clearly distinguished from contemporary evidence and must not be used as medical counsel or discriminatory classifications..",
+      "description": "Organ evolution and descriptions of disability, illness, race or heredity must be clearly distinguished from contemporary evidence and must not be used as medical counsel or discriminatory classifications.",
       "evidence_flags": [
         "X"
       ],
@@ -3085,7 +3289,8 @@
         "S33"
       ],
       "section": "G",
-      "chronology_status": "recurrent_or_crosscutting"
+      "chronology_status": "recurrent_or_crosscutting",
+      "time_scale": "crosscutting"
     }
   ],
   "sources": [
@@ -3203,7 +3408,7 @@
     },
     {
       "id": "S17",
-      "citation_name": "GA 191, lecture of 4 November 1919.",
+      "citation_name": "GA 193, lecture of 4 November 1919 (republished in a mixed-source Lucifer and Ahriman selection whose legacy URL contains GA191).",
       "url": "https://rsarchive.org/Lectures/GA191/English/SBC1976/19191104p02.html",
       "is_primary": true,
       "notes": "Lucifer's ancient incarnation and anticipated future Ahrimanic incarnation."
