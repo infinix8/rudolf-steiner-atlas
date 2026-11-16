@@ -3,81 +3,95 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="theme-color" content="#0b2433">
-<meta name="description" content="Explore Rudolf Steiner's source-linked evolutionary chronology as one nested, interactive circular dial.">
-<title>Chronology Dial · Rudolf Steiner Atlas</title>
+<meta name="theme-color" content="#102b35">
+<meta name="description" content="A rotatable, sun-ray chronology of Rudolf Steiner's cosmology and history, with nested intervals, source-linked events and thematic colours.">
+<title>Sun-Ray Chronology · Rudolf Steiner Atlas</title>
 <link rel="stylesheet" href="chronology-dial.css">
 <script src="chronology-dial.js" defer></script>
 </head>
 <body>
-<a class="skip" href="#dial-title">Skip to chronology</a>
-<header class="topbar">
-  <div class="frame topbar-row">
-    <a class="identity" href="../index.html"><span class="identity-symbol">✳</span><span><strong>RUDOLF STEINER ATLAS</strong><small>Chronology / 01</small></span></a>
-    <nav aria-label="Related atlas sections"><a href="../index.html">Atlas home</a><a href="evolution-story.html">Earth journey</a><a href="cosmic-evolution.html">Cosmic stages</a><a href="agency.html">Hierarchies</a></nav>
+<a class="skip" href="#explorer-title">Skip to the interactive dial</a>
+<header class="mast">
+  <div class="shell mast-inner">
+    <a class="brand" href="../index.html"><span class="brand-sigil" aria-hidden="true">✳</span><span><strong>RUDOLF STEINER ATLAS</strong><small>A map of ideas through time</small></span></a>
+    <nav aria-label="Atlas sections"><a href="../index.html">Home</a><a href="cosmic-evolution.html">Cosmic evolution</a><a href="evolution-story.html">Earth journey</a><a href="agency.html">Hierarchies</a></nav>
   </div>
 </header>
-<main class="frame">
-  <section class="hero">
-    <div class="hero-copy">
-      <div class="eyebrow"><span class="eyebrow-line"></span>THE EVOLUTION EXPLORER <span class="edition">VOL. 01 / RESEARCH EDITION</span></div>
-      <h1 id="dial-title">The shape<br>of <em>time.</em></h1>
-      <p>A single navigable chronology of Steiner's cosmic, earthly and human evolution. Follow the great cycles inward to discover the smaller eras, events and sources within them.</p>
+<main class="shell">
+  <section class="intro">
+    <div><div class="eyebrow"><span class="tiny-star">✦</span> EXPERIMENT 01 <span class="sep">/</span> THE SOLAR CHRONOLOGY</div>
+      <h1>Time, <em>unfolding.</em></h1>
+      <p>One continuous story, from great cosmic conditions to the smallest recorded turning points. Rotate the dial. Follow a ray. See what unfolds within.</p>
     </div>
-    <div class="hero-aside"><span class="mini-orbit" aria-hidden="true"><i></i></span><span>ONE WHOLE<br>MANY SCALES<br><small>Past · Present · Projected future</small></span></div>
+    <div class="intro-ornament" aria-hidden="true"><div class="ornament-core">✳</div><span>ONE WHOLE<br>INFINITE DETAIL</span></div>
   </section>
-  <div class="research-note" role="note"><span class="note-icon">ⓘ</span><p><strong>A map of Steiner's teachings, not established history.</strong> Arc lengths show <em>structural nesting, not measured duration</em>. Cosmic periods are not dated physical planets; future stages and spiritual events are attributed claims or forecasts. Sources carry different verification levels.</p><a href="../docs/STEINER_HIERARCHICAL_CHRONOLOGY_MASTER_V01.md">Research method ↗</a></div>
-  <section class="toolbelt" aria-label="Chronology controls">
-    <div class="tool"><label for="theme">Explore by theme</label><select id="theme"><option value="all">All themes</option><option value="cosmos">Cosmic evolution</option><option value="human">Human constitution &amp; organs</option><option value="hierarchies">Spiritual hierarchies</option><option value="christ">Christ &amp; Michael</option><option value="adversaries">Lucifer &amp; Ahriman</option><option value="culture">Civilizations &amp; culture</option><option value="future">Projected future</option></select></div>
-    <div class="tool"><label for="agency">Named spiritual influence</label><select id="agency"><option value="all">All spiritual agencies</option><option value="thrones">Thrones / Spirits of Will</option><option value="wisdom">Spirits of Wisdom</option><option value="movement">Spirits of Movement</option><option value="form">Spirits of Form</option><option value="angels">Angels / Archangels / Archai</option><option value="lucifer">Luciferic</option><option value="ahriman">Ahrimanic</option><option value="christ">Christ</option><option value="michael">Michael</option></select></div>
-    <div class="tool search-tool"><label for="search">Find an event or teaching</label><div class="search-input"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Search 204 chronology entries…" autocomplete="off"><button id="clear-search" type="button" aria-label="Clear search" hidden>×</button></div></div>
-  </section>
-  <section class="explorer" aria-label="Circular chronology explorer">
-    <div class="left">
-      <div class="dial-header">
-        <div><span class="smallcaps">CURRENT POSITION</span><div class="crumbs" id="breadcrumbs" aria-label="Timeline breadcrumb"></div></div>
-        <button id="reset" class="subtle-button" type="button">↶ Overview</button>
-      </div>
-      <div class="dial-stage">
-        <div class="orbital-grid" aria-hidden="true"></div>
-        <svg id="dial" viewBox="0 0 860 860" role="group" aria-label="Interactive nested chronological rings. Select an arc to explore its era."></svg>
-        <div class="dial-heart">
-          <div class="heart-kicker" id="heart-kicker">THE COMPLETE CYCLE</div>
-          <h2 id="heart-title">Seven<br>world stages</h2>
-          <p id="heart-subtitle">From Old Saturn to Future Vulcan</p>
-          <button id="up" class="heart-back" type="button" hidden>← Go outward</button>
+  <div class="method">
+    <span class="method-icon" aria-hidden="true">ⓘ</span>
+    <p>This is a visual concordance of <strong>Steiner's esoteric teachings</strong>, not established scientific or historical chronology. Ray <em>length</em> indicates hierarchical scale, <strong>not measured duration</strong>. Dates may be approximate or derived; future stages are projected.</p>
+    <a href="../docs/STEINER_HIERARCHICAL_CHRONOLOGY_MASTER_V01.md">Research document ↗</a>
+  </div>
+  <section class="workspace" aria-label="Sun-ray chronology explorer">
+    <div class="sun-card">
+      <div class="dial-top">
+        <div>
+          <div class="micro">YOU ARE EXPLORING</div>
+          <div id="breadcrumbs" class="breadcrumbs" aria-label="Chronology breadcrumb"></div>
         </div>
-        <div class="dial-instructions">DRAG TO ROTATE <span>•</span> SELECT AN ARC TO EXPLORE</div>
+        <button id="home" class="reset-button" type="button">↺ &nbsp; Whole cycle</button>
       </div>
-      <div class="dial-bottom">
-        <div class="rotation"><button id="turn-left" type="button" aria-label="Rotate chronology anticlockwise">↶</button><span>ROTATE THE DIAL</span><button id="turn-right" type="button" aria-label="Rotate chronology clockwise">↷</button></div>
-        <div class="legend"><span><i class="legend-past"></i>Past</span><span><i class="legend-now"></i>Present / ongoing</span><span><i class="legend-future"></i>Projected</span></div>
+      <div class="dial-viewport" id="dial-viewport">
+        <svg id="dial" viewBox="0 0 1080 960" role="group" aria-label="Rotatable chronological sun rays. Click a ray to open it and see its nested sub-rays."></svg>
+        <div class="core" id="core">
+          <span class="core-mark" aria-hidden="true">✳</span>
+          <span class="core-kicker" id="core-kicker">THE WHOLE</span>
+          <strong id="core-title">Seven cosmic<br>conditions</strong>
+          <span class="core-caption" id="core-caption">Click a ray to unfold</span>
+          <button id="back" class="core-back" type="button" hidden>↑ One level out</button>
+        </div>
       </div>
-      <p class="dial-caption">Rings reveal nested levels. Narrow marks are individual events; the number and width of arcs are not estimates of cosmic duration. Dimmed events do not match the selected filter.</p>
+      <div class="dial-foot">
+        <div class="rotate-ctrl">
+          <button id="rotate-left" aria-label="Rotate dial counterclockwise" type="button">↶</button>
+          <div><strong>ROTATE</strong><small>Drag the rays or use arrows</small></div>
+          <button id="rotate-right" aria-label="Rotate dial clockwise" type="button">↷</button>
+        </div>
+        <div class="color-key" aria-label="Legend">
+          <span><i style="--dot:#dda577"></i> Past</span>
+          <span><i style="--dot:#8dd4bf"></i> Present</span>
+          <span><i style="--dot:#b6a9ea"></i> Projected</span>
+        </div>
+      </div>
     </div>
-    <aside class="detail" aria-label="Selected chronology details">
-      <div class="detail-top"><div class="smallcaps">CHRONOLOGY FIELD NOTES</div><span id="record-id" class="record-id">THE WHOLE</span></div>
-      <div class="detail-content" id="detail-content" aria-live="polite">
-        <div class="detail-intro"><span class="status">START HERE</span><h2>Select a segment<br>to begin.</h2><p>Follow seven great cosmic conditions, descend into Earth's great epochs and then explore cultural periods and source-linked events.</p></div>
+    <aside class="inspector" aria-label="Ray information">
+      <div class="inspector-top"><span class="micro">FIELD NOTES <i> / </i> <span id="node-code">CHRONOLOGY</span></span><span class="small-asterisk">✳</span></div>
+      <div id="inspector-body" class="inspector-body" aria-live="polite">
+        <div class="topic-pill">BEGIN THE JOURNEY</div>
+        <h2>Every ray<br>holds a world.</h2>
+        <p>Select an interval. Its story and sources appear here, while its smaller rays unfold on the dial.</p>
       </div>
-      <div class="detail-footer"><a href="../docs/STEINER_HIERARCHICAL_CHRONOLOGY_MASTER_V01.md">Read the complete chronology ↗</a><span>Research version 0.1</span></div>
+      <div class="inspector-bottom"><a href="../docs/STEINER_HIERARCHICAL_CHRONOLOGY_MASTER_V01.md">Open full source-linked chronology ↗</a><small>204 researched entries</small></div>
     </aside>
   </section>
-  <section class="under" aria-label="Browse this level">
-    <div class="under-top"><div><div class="eyebrow dark-eyebrow">AT THIS SCALE</div><h2 id="list-title">Seven cosmic conditions</h2></div><span id="list-count" class="list-count">7 intervals</span></div>
-    <div id="browse-list" class="browse-grid"></div>
-  </section>
-  <section class="strands" aria-label="Related cross-cutting research">
-    <div class="strand-head"><div><div class="eyebrow dark-eyebrow">A SECOND WAY THROUGH TIME</div><h2>Follow the strands.</h2><p>Some forces work across several intervals. These are thematic connections, not additional consecutive eras.</p></div></div>
-    <div class="strand-tabs" role="group" aria-label="Cross-cutting research themes">
-      <button type="button" class="strand-tab active" data-strand="CH-24" aria-pressed="true">Spiritual hierarchies</button>
-      <button type="button" class="strand-tab" data-strand="CH-25" aria-pressed="false">Human constitution &amp; organs</button>
-      <button type="button" class="strand-tab" data-strand="CH-26" aria-pressed="false">Lives &amp; reincarnation</button>
-      <button type="button" class="strand-tab" data-strand="CH-27" aria-pressed="false">The present task</button>
+  <section class="path-section" aria-label="Choose a visible ray">
+    <div class="section-heading">
+      <div><span class="micro gold-text">RAYS IN VIEW</span><h2 id="level-title">Seven cosmic conditions</h2><p id="level-desc">Long rays represent intervals. Click one to reveal its smaller rays and source-linked events.</p></div>
+      <div class="steps"><span id="level-badge">DEPTH 01</span><span id="ray-count">7 rays</span></div>
     </div>
-    <div id="strand-list" class="strand-grid"></div>
+    <div class="visible-groups">
+      <div><div class="group-caption"><span class="stripe main-stripe"></span> MAIN RAYS <span class="count" id="main-count"></span></div><div id="primary-list" class="ray-list"></div></div>
+      <div><div class="group-caption"><span class="stripe sub-stripe"></span> SMALLER RAYS <span class="count" id="sub-count"></span></div><div id="secondary-list" class="ray-list"></div></div>
+    </div>
   </section>
-  <div class="search-results" id="search-results" hidden aria-live="polite"></div>
+  <section class="threads">
+    <div><div class="micro gold-text">CONNECTIONS BEYOND A SINGLE ERA</div><h2>Across the whole story.</h2><p>Spiritual hierarchies, organs, and the individual's journey are recurring themes, not extra intervals on the main chronology.</p></div>
+    <div class="thread-actions" id="thread-actions">
+      <button type="button" data-thread="CH-24">✦ &nbsp; Hierarchies</button>
+      <button type="button" data-thread="CH-25">✦ &nbsp; Body and organs</button>
+      <button type="button" data-thread="CH-26">✦ &nbsp; Death and rebirth</button>
+      <button type="button" data-thread="CH-27">✦ &nbsp; Humanity's task</button>
+    </div>
+    <div id="thread-detail" class="thread-detail" hidden></div>
+  </section>
 </main>
-<footer class="foot"><div class="frame foot-inner"><span>✳ &nbsp;RUDOLF STEINER ATLAS / INDEPENDENT RESEARCH</span><span>204 event records · 34 source records · <a href="https://github.com/infinix8/rudolf-steiner-atlas">Research repository ↗</a></span></div></footer>
+<footer><div class="shell footer-inner"><span>✳ &nbsp; INDEPENDENT STEINER RESEARCH ATLAS</span><span><a href="https://github.com/infinix8/rudolf-steiner-atlas">Source code &amp; research ↗</a> · <a href="https://rsarchive.org/">Original works ↗</a></span></div></footer>
 </body></html>
