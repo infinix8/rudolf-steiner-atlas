@@ -209,7 +209,7 @@ Steiner does not offer a single chronological scale. A literal one-line timeline
 - **CH-14.09 | Etheric Christ perception (20th century onward).** The 1910 lecture anticipates a newly available perception, particularly associated with the 1930s; a **prediction**, not a verified event. **P** [S19].
 - **CH-14.10 | Specific anticipated years (1933/1935/1937).** Steiner named these years in connection with new faculties, while also warning they might go unrecognized. **P** [S19].
 - **CH-14.11 | Lucifer incarnation located in far earlier history.** In 1919 he locates a Lucifer incarnation in the early third millennium BCE; the claim belongs chronologically under the third/second periods but is cross-linked here because he introduced it in a modern lecture. **P/X** [S17].
-- **CH-14.12 | Ahrimanic incarnation projected.** GA 191 predicts a future earthly incarnation of Ahriman without establishing a historically confirmed occurrence; popular precise date claims require lecture-level scrutiny. **P** [S17].
+- **CH-14.12 | Ahrimanic incarnation projected.** GA 193 predicts a future earthly incarnation of Ahriman without establishing a historically confirmed occurrence; popular precise date claims require lecture-level scrutiny. **P** [S17].
 - **CH-14.13 | Social threefolding as modern task (1919).** Freedom in spiritual/cultural life, equality in rights, and associative economic cooperation belong to Steiner's practical response to modern conditions. **P** [S23].
 - **CH-14.14 | Inner moral imagination and creativity.** Consciously originated ethical action is an active human contribution, not recovery of lost Atlantean technology. **P** [S22].
 - **CH-14.15 | Transformation of egoism.** The evolution of self-consciousness must become capacity for responsibility and love rather than self-enclosure. **I** [S02, S17, S22].
@@ -382,7 +382,7 @@ The linked source is attributed to Steiner. A *recorded lecture* may be shorthan
 - **[S14] GA 106, lecture 1, 2 September 1908.** Cultural-period correspondences, fifth/third, sixth/second, seventh/first. https://rsarchive.org/Lectures/GA106/English/SOL/19080902p01.html
 - **[S15] GA 181, lecture of 30 July 1918.** Approximate 747 BCE–1413 CE period and three fourth-period subdivisions. https://rsarchive.org/Lectures/GA181/English/SOL/19180730p01.html
 - **[S16] GA 178, lecture of 16 November 1917.** Fifth epoch beginning 1413 and consciousness-soul task. https://rsarchive.org/Lectures/GA178/English/MP1986/19171116p01.html
-- **[S17] GA 191, lecture of 4 November 1919.** Lucifer's ancient incarnation and anticipated future Ahrimanic incarnation. https://rsarchive.org/Lectures/GA191/English/SBC1976/19191104p02.html
+- **[S17] GA 193, lecture of 4 November 1919 (republished in a mixed-source *Lucifer and Ahriman* selection whose legacy URL contains GA191).** Lucifer's ancient incarnation and anticipated future Ahrimanic incarnation. https://rsarchive.org/Lectures/GA191/English/SBC1976/19191104p02.html
 - **[S18] GA 176, lecture of 5 June 1917.** Christ, the age of humanity and Mystery of Golgotha. https://rsarchive.org/Lectures/GA176/English/AP1987/19170605p01.html
 - **[S19] Lecture of 25 January 1910, "The Appearance of Christ in the Etheric."** Kali Yuga 1899 and anticipated 1930s developments. https://rsarchive.org/Lectures/19100125p01.html
 - **[S20] GA 240, lecture of 12 August 1924.** Beginning of Michael era in late 1870s. https://rsarchive.org/Lectures/GA240/English/SOL/19240812p01.html
