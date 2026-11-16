@@ -115,8 +115,8 @@
    const label=compact(node.label,maxChars);
    g.appendChild(svg("text",{x:lx,y:ly-2,class:"ray-label","dominant-baseline":"middle"},label));
    if(list.length<=9){g.appendChild(svg("text",{x:lx,y:ly+16,class:"ray-caption"},""+(i+1).toString().padStart(2,"0")+" · "+(node.status==="future"?"Projected":node.kind==="event"?"Event":node.kind==="culture"?"Culture":node.kind==="epoch"?"Epoch":"Stage")));}
-   g.addEventListener("click",()=>{if(suppress)return;select(node.id);});
-   g.addEventListener("keydown",e=>{if(e.key==="Enter"||e.key===" "){e.preventDefault();select(node.id);}});
+   g.addEventListener("click",()=>{if(suppress)return;activateRay(node.id);});
+   g.addEventListener("keydown",e=>{if(e.key==="Enter"||e.key===" "){e.preventDefault();activateRay(node.id);}});
    dial.appendChild(g);
   });
   const hub=svg("g",{"aria-hidden":"true"});
@@ -135,6 +135,12 @@
   hub.appendChild(svg("circle",{cx:CX,cy:CY,r:8,fill:"#edd7aa",stroke:"#fff3c5","stroke-width":"1.5"}));
   dial.appendChild(hub);
   $("wheel-count").textContent=visible+" of "+list.length+" visible";
+ }
+ // A single spoke activation navigates into its children; terminal events display their details.
+ function activateRay(id){
+   if(!nodes.has(id))return;
+   if(children(id).length)enter(id);
+   else select(id);
  }
  function select(id){
    if(!nodes.has(id))return;
