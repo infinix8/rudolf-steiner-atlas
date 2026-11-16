@@ -2,69 +2,85 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="theme-color" content="#f6f0ed">
-<meta name="description" content="A single transforming, rotatable half-wheel of chronological spokes, connecting Rudolf Steiner's cosmic stages to source-linked events.">
-<title>Chronology Explorer — Rudolf Steiner Atlas</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#f7f2e9">
+<meta name="description" content="Explore Rudolf Steiner's seven cosmic conditions as a descending and ascending arc, with nested Earth epochs, cultural periods and original source references.">
+<title>Evolutionary Arc · Rudolf Steiner Atlas</title>
 <link rel="stylesheet" href="chronology-dial.css">
 <script src="chronology-dial.js" defer></script>
 </head>
 <body>
-<a class="skip" href="#dial-heading">Skip to the chronology wheel</a>
-<header class="mast">
-  <a class="brand" href="../index.html" aria-label="Rudolf Steiner Atlas home"><span class="brand-symbol">✳</span><span><strong>CHRONOLOGY EXPLORER</strong><small>RUDOLF STEINER ATLAS</small></span></a>
-  <nav aria-label="Atlas links"><a href="../index.html">Atlas home</a><a href="cosmic-evolution.html">Cosmic stages</a><a href="evolution-story.html">Earth evolution</a></nav>
+<a class="skip" href="#main-heading">Skip to the chronology</a>
+<header class="site-header">
+ <div class="header-inner">
+  <a href="../index.html" class="brand" aria-label="Rudolf Steiner Atlas homepage"><span class="brand-seal" aria-hidden="true">✧</span><span><strong>RUDOLF STEINER ATLAS</strong><small>Cosmic Evolution · Human Being · Earth · Future</small></span></a>
+  <nav aria-label="Main navigation" class="top-nav"><a class="active" href="chronology-dial.html"><span aria-hidden="true">◉</span> Evolution</a><a href="body.html">♙ <span>Human Being</span></a><a href="organs.html">♧ <span>Organs</span></a><a href="agency.html">✺ <span>Hierarchies</span></a><a href="explore.html">✧ <span>Themes</span></a></nav>
+  <div class="header-actions"><button id="search-open" type="button" aria-label="Search the chronology" title="Search chronology"><svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true"><circle cx="10.7" cy="10.7" r="6.7"/><path d="m16 16 5 5"/></svg></button><a href="../index.html" class="header-home" aria-label="Back to Atlas home">⌂</a></div>
+ </div>
 </header>
-<main class="page">
-  <div class="upper">
-    <div class="intro"><div class="eyebrow"><span>✦</span> A JOURNEY THROUGH EVOLUTION</div>
-      <h1 id="dial-heading">The unfolding<br><em>of time.</em></h1>
-      <p>One wheel, endless levels. Rotate to discover the hidden epochs. Select a spoke and the <strong>same wheel</strong> unfolds into its next level.</p>
-    </div>
-    <div class="controls" aria-label="Zoom and navigation">
-      <div class="breadcrumb" id="breadcrumbs" aria-label="Current chronology level"><span>Whole cycle</span></div>
-      <div class="zoom-controls">
-        <button id="zoom-out" type="button" aria-label="Zoom out one level" title="Return to parent level">− <span>Zoom out</span></button>
-        <button id="zoom-in" type="button" aria-label="Zoom into selected spoke" title="Enter selected interval">+ <span>Zoom in</span></button>
-      </div>
-    </div>
-  </div>
-  <section class="experience" aria-label="Interactive chronology">
-    <div class="wheel-shell">
-      <div class="wheel-caption">
-        <div><span class="smallcaps">THE LIVING CHRONOLOGY</span>
-          <h2 id="level-name">The whole cycle</h2>
-          <p id="level-subtitle">Major intervals and their smaller divisions</p>
-        </div>
-        <div class="wheel-count"><span id="visible-count">—</span><small>Rotate for more</small></div>
-      </div>
-      <div class="wheel-viewport" id="wheel-viewport">
-        <svg id="dial-svg" viewBox="0 0 1080 960" role="group" aria-label="Half-circle of rotatable chronological spokes. Select any labeled spoke for details and deeper levels."></svg>
-        <div class="interaction-note" aria-hidden="true"><span>↶</span> DRAG TO ROTATE <span>↷</span></div>
-      </div>
-      <div class="wheel-toolbar">
-        <button id="turn-prev" type="button" aria-label="Rotate spokes anticlockwise"><span aria-hidden="true">↶</span></button>
-        <div class="wheel-guide"><strong>THE VISIBLE HALF</strong><small>Turn the wheel to reveal the other spokes</small></div>
-        <button id="turn-next" type="button" aria-label="Rotate spokes clockwise"><span aria-hidden="true">↷</span></button>
-      </div>
-      <div class="wheel-footer"><span><i class="dot past"></i> Past</span><span><i class="dot now"></i> Present / ongoing</span><span><i class="dot future"></i> Projected future</span><span class="foot-nudge">Long rays = main level · Short rays = next level</span></div>
-    </div>
-    <aside class="information" aria-label="Information about the selected epoch">
-      <div class="info-top"><span>SELECTED SPOKE</span><span class="info-star" aria-hidden="true">✧</span></div>
-      <div id="info-content" class="info-content" aria-live="polite">
-        <span class="info-chip">THE WHOLE</span><h2>Choose a spoke.</h2><p>Its history, place in the chronology and links to Steiner's original work will appear here.</p>
-      </div>
-      <div class="info-bottom"><span id="current-id">Whole cycle</span><a href="../docs/STEINER_HIERARCHICAL_CHRONOLOGY_MASTER_V01.md">Research document ↗</a></div>
-    </aside>
-  </section>
-  <section class="level-browser" aria-label="All spokes at this level">
-    <div class="section-title"><div><span class="smallcaps muted">YOU ARE HERE</span><h2>Spokes at this level</h2><p>Use a label below if you prefer selecting from a list. The wheel remains the main navigation.</p></div><button id="go-root" type="button">✳ &nbsp; Return to the whole cycle</button></div>
-    <div id="level-list" class="level-list"></div>
-  </section>
-  <section class="methodology">
-    <div><span class="smallcaps">RESEARCH NOTE</span><h2>A map of Steiner's account, not measured time.</h2></div>
-    <p>These are source-attributed spiritual and historical teachings, not established cosmology or prehistory. Ray length indicates <strong>hierarchical scale</strong>, not literal duration. Some dates are approximate or calculated; future events are projections. Read individual source passages and evidence flags before drawing conclusions.</p>
-  </section>
+<main>
+<section class="cosmic-scene" aria-label="Interactive evolutionary arc">
+ <svg class="landscape" viewBox="0 0 1440 520" preserveAspectRatio="xMidYMid slice" aria-hidden="true">
+  <defs>
+   <linearGradient id="sky" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#f7dcad"/><stop offset=".26" stop-color="#f8e7ce"/><stop offset=".55" stop-color="#f4f4e6"/><stop offset=".78" stop-color="#e9ddf8"/><stop offset="1" stop-color="#cfc5f3"/></linearGradient>
+   <linearGradient id="haze" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff" stop-opacity="0"/><stop offset=".55" stop-color="#f7f4e5" stop-opacity=".38"/><stop offset="1" stop-color="#fff3d9" stop-opacity=".92"/></linearGradient>
+   <linearGradient id="farhills" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#91b3b4"/><stop offset="1" stop-color="#cad2c0"/></linearGradient>
+   <linearGradient id="nearhills" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#5f9187"/><stop offset="1" stop-color="#9eaf88"/></linearGradient>
+   <linearGradient id="river" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#c0dcd3"/><stop offset="1" stop-color="#f9eed2"/></linearGradient>
+   <radialGradient id="sunrise"><stop stop-color="#fffef2" stop-opacity=".96"/><stop offset=".35" stop-color="#f6e9ad" stop-opacity=".66"/><stop offset="1" stop-color="#faf4c9" stop-opacity="0"/></radialGradient>
+   <radialGradient id="leftglow"><stop stop-color="#ffe0ab" stop-opacity=".55"/><stop offset="1" stop-color="#fff2d0" stop-opacity="0"/></radialGradient>
+   <radialGradient id="rightglow"><stop stop-color="#d4bfff" stop-opacity=".60"/><stop offset="1" stop-color="#dccbff" stop-opacity="0"/></radialGradient>
+   <filter id="softCloud"><feGaussianBlur stdDeviation="7"/></filter>
+  </defs>
+  <rect width="1440" height="520" fill="url(#sky)"/>
+  <ellipse cx="150" cy="175" rx="425" ry="285" fill="url(#leftglow)"/>
+  <ellipse cx="1260" cy="178" rx="460" ry="310" fill="url(#rightglow)"/>
+  <g opacity=".46" filter="url(#softCloud)" fill="#fffef7"><ellipse cx="170" cy="279" rx="182" ry="47"/><ellipse cx="310" cy="260" rx="125" ry="51"/><ellipse cx="1070" cy="257" rx="160" ry="47"/><ellipse cx="1260" cy="280" rx="186" ry="52"/><ellipse cx="600" cy="312" rx="220" ry="43"/></g>
+  <g fill="#fafbf6" opacity=".9"><circle cx="107" cy="65" r="1.4"/><circle cx="244" cy="132" r="1"/><circle cx="416" cy="77" r="1.2"/><circle cx="1045" cy="95" r="1.2"/><circle cx="1183" cy="53" r="1.4"/><circle cx="1350" cy="154" r="1.1"/><circle cx="905" cy="118" r="1"/></g>
+  <circle cx="720" cy="428" r="190" fill="url(#sunrise)"/>
+  <path d="M0 392 56 353 112 373 166 310 217 340 279 300 332 344 381 290 439 353 503 323 565 378 643 333 719 397 786 339 837 364 897 317 958 346 1010 284 1080 341 1142 297 1203 363 1267 301 1347 350 1400 308 1440 344V520H0Z" fill="#c8c9c1" opacity=".73"/>
+  <path d="M0 430 80 365 138 383 188 341 248 385 320 349 394 394 477 352 563 416 643 383 720 423 806 376 873 403 949 353 1024 391 1092 342 1155 396 1229 350 1306 401 1372 365 1440 391V520H0Z" fill="url(#farhills)" opacity=".82"/>
+  <path d="M0 463Q112 410 210 447T420 443Q570 414 706 454T990 440Q1168 413 1440 457V520H0Z" fill="url(#nearhills)" opacity=".64"/>
+  <path d="M578 520C651 479 782 497 769 465C762 449 703 461 707 450C726 436 818 448 836 437" fill="none" stroke="url(#river)" stroke-width="27" stroke-linecap="round" opacity=".7"/>
+  <path d="M0 489Q150 465 318 492T713 486Q980 452 1232 481T1440 481V520H0Z" fill="#d5cdab" opacity=".48"/>
+  <g fill="#47745d" opacity=".75"><path d="M27 481v-74m0 15-18 20 18-8 17 10-17-23m0-13-12 15 12-6 11 5-11-14M84 499v-65m0 18-13 16 13-7 13 7-13-19m0-14-10 13 10-5 10 5-10-14M1386 486v-60m0 14-13 17 13-8 12 9-12-18m0-13-8 11 8-4 9 4-9-11M1426 491v-78m0 18-16 21 16-8 16 8-16-21"/></g>
+  <g opacity=".50" fill="#668972"><path d="M0 479Q210 463 412 494L0 520Z"/><path d="M1440 481Q1270 465 1036 494L1440 520Z"/></g>
+ </svg>
+ <div class="scene-title"><div class="mini-rule">✧</div><h1 id="main-heading">The Seven Planetary Conditions</h1><h2 id="scene-subtitle">The Evolution of Earth and Humanity</h2><span class="scene-flourish">─── ✦ ───</span><p id="scene-explanation">A cosmic evolution in seven great stages:<br>descent toward material embodiment, Earth as a turning point,<br>and an ascent toward spiritualization.</p></div>
+ <svg id="arc-visual" viewBox="0 0 1440 520" role="group" aria-label="Interactive U-shaped chronology, beginning with Old Saturn, reaching Earth at the low point, and ascending to Future Vulcan. Select a stage for more information."></svg>
+ <div class="phase-mark phase-left" id="phase-left"><strong>DESCENT</strong><span>Differentiation · Embodiment</span></div>
+ <div class="phase-mark phase-right" id="phase-right"><strong>ASCENT</strong><span>Transformation · Spiritualization</span></div>
+ <div class="scene-bottom"><div id="arc-trail" class="arc-trail" aria-label="Chronology location"></div><div class="scene-controllers"><button type="button" id="prev-stage" aria-label="Select previous stage">‹</button><span id="stage-progress">4 OF 7</span><button type="button" id="next-stage" aria-label="Select next stage">›</button></div></div>
+</section>
+<div class="notice" role="note"><span aria-hidden="true">ⓘ</span><p><strong>Source-attributed chronology:</strong> These are Steiner's esoteric claims, not established science or verified prehistory. Planetary names describe evolutionary conditions, not today's astronomical bodies; the U shape shows the cosmic descent/ascent concept, not measured time or a guaranteed turning point in every sublevel.</p></div>
+<section class="research-card" aria-labelledby="selected-title">
+ <div class="research-tabs"><div class="tabs-identity"><span class="little-emblem">✧</span><span id="tabs-heading">EXPLORE A STAGE</span></div>
+ <div class="tabs-stack" role="tablist" aria-label="Research detail category">
+  <button type="button" role="tab" id="tab-overview" data-tab="overview" aria-selected="true" aria-controls="tab-panel">◉ &nbsp; Overview</button>
+  <button type="button" role="tab" id="tab-development" data-tab="development" aria-selected="false" aria-controls="tab-panel">◈ &nbsp; Key processes</button>
+  <button type="button" role="tab" id="tab-human" data-tab="human" aria-selected="false" aria-controls="tab-panel">♧ &nbsp; Human development</button>
+  <button type="button" role="tab" id="tab-beings" data-tab="beings" aria-selected="false" aria-controls="tab-panel">✧ &nbsp; Spiritual beings</button>
+  <button type="button" role="tab" id="tab-sources" data-tab="sources" aria-selected="false" aria-controls="tab-panel">▤ &nbsp; Sources (GA)</button>
+ </div></div>
+ <div class="research-main" id="tab-panel" role="tabpanel" aria-labelledby="tab-overview" tabindex="0"><div class="content-placeholder">Select a cosmic stage to explore its sources and development.</div></div>
+ <div class="research-extras">
+  <div class="extra-top"><h3 id="extra-title">Within this stage</h3><span>↗</span></div>
+  <div class="depth-thumbnails" id="depth-thumbnails"></div>
+  <button class="explore-cta" id="explore-selected" type="button">Explore this stage in depth <span>→</span></button>
+  <div class="research-note"><span>✦</span><p id="research-status">Research edition · Source-linked chronological notes</p></div>
+ </div>
+</section>
+<section class="deeper" aria-label="Navigate across research levels">
+  <div class="deeper-title"><span>Explore<br>deeper</span></div>
+  <button type="button" class="deeper-tile active" data-target="root"><span class="tile-icon">◉</span><span>The Seven<br>Cosmic Conditions</span></button>
+  <button type="button" class="deeper-tile" data-target="cos-earth"><span class="tile-icon">△</span><span>The Seven<br>Earth Epochs</span></button>
+  <button type="button" class="deeper-tile" data-target="earth-post"><span class="tile-icon">⌑</span><span>The Seven<br>Post-Atlantean Periods</span></button>
+  <button type="button" class="deeper-tile" data-target="cross-era"><span class="tile-icon">∞</span><span>Cross-Era<br>Developments</span></button>
+  <a href="agency.html" class="deeper-tile"><span class="tile-icon">✧</span><span>Spiritual Beings<br>&amp; Hierarchies</span></a>
+</section>
+<section class="all-events" id="events-section" hidden><div class="section-heading"><div><span class="smallcaps">MORE IN THIS STAGE</span><h2 id="events-title">Explore the research</h2></div><span id="events-count"></span></div><div class="event-grid" id="event-grid"></div></section>
 </main>
-<footer class="site-foot"><span>✳ &nbsp; RUDOLF STEINER ATLAS · INDEPENDENT RESEARCH</span><a href="https://github.com/infinix8/rudolf-steiner-atlas">Project and sources ↗</a></footer>
-</body></html>
+<div id="search-dialog" class="search-dialog" hidden><div class="search-panel" role="dialog" aria-modal="true" aria-labelledby="search-title"><div class="search-head"><h2 id="search-title">Find a teaching or event</h2><button id="search-close" type="button" aria-label="Close search">✕</button></div><label for="search-input">Search the 231 chronology entries</label><input id="search-input" type="search" autocomplete="off" placeholder="Try Saturn, consciousness, etheric, Christ…"><div id="search-results" class="search-results" aria-live="polite"></div></div></div>
+<footer class="site-footer"><span>✧ &nbsp; RUDOLF STEINER ATLAS · AN INDEPENDENT RESEARCH GUIDE</span><span><a href="../docs/STEINER_HIERARCHICAL_CHRONOLOGY_MASTER_V01.md">Chronology research ↗</a> · <a href="https://github.com/infinix8/rudolf-steiner-atlas">GitHub ↗</a></span></footer>
+</body>
+</html>
