@@ -16,7 +16,9 @@ def by_id(rows):
     return indexed
 
 
-audit = load("research/steiner-earth-culture-audit-v03.json")
+import sys
+
+audit = load(sys.argv[1] if len(sys.argv) > 1 else "research/steiner-earth-culture-audit-v04.json")
 index = load(audit["explorer_index"])
 baseline = load(audit["baseline"])
 events = by_id(index["events"])

@@ -31,3 +31,9 @@
 - Research and continuation: `docs/CHRONOLOGY_RESEARCH_RESUME.md`, `docs/STEINER_CHRONOLOGY_RESEARCH_CONCORDANCE.md`, `research/steiner-earth-culture-audit-v03.json`, `research/steiner-hierarchical-chronology-events-v03.json`.
 - Research navigation and cross-links: `atlas/chronology-celestial.js`, `atlas/chronology-dial.js`, `atlas/chronology-dial.html`, `atlas/organs.js`.
 - Project index and integrity validator: `README.md`, `tools/validate_chronology.py`. Run it alongside the repository's integrity checks before committing the next snapshot. The existing path-filtered workflow releases the integrations that change Explorer data and assets.
+
+## v0.4 · GA 346 checkpoint
+
+The research milestone containing this note adds 17 findings and 22 relationships from selected passages of GA 346 VII–XII. German VII and an alternate English edition preserve both 333 dating expressions. The updated audit and event data are staged as v0.4. The live explorers use v0.3 pending the consolidated integration.
+
+Continue GA 346 at XIII §1. Complete the pending GA 104 IX German comparison, lecture X, GA 104a Oslo II-11–12, and GA 121 I–III as the next source batches.
