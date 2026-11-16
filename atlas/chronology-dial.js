@@ -271,9 +271,9 @@
       if((e.key==="Enter"||e.key===" ")&&e.target.matches("[data-node]")){e.preventDefault();setFocus(e.target.getAttribute("data-node"));}
       else if(e.key==="ArrowLeft"||e.key==="ArrowRight"){e.preventDefault();rotate(e.key==="ArrowLeft"?-15:15);}
     });
-    dial.addEventListener("pointerdown",e=>{if(e.button!==0)return;drag={x:e.clientX,y:e.clientY,start:rotation,px:e.clientX,moved:false};try{dial.setPointerCapture(e.pointerId);}catch(err){}});
-    dial.addEventListener("pointermove",e=>{if(!drag)return;const dx=e.clientX-drag.x,dy=e.clientY-drag.y;if(Math.hypot(dx,dy)>7)drag.moved=true;if(drag.moved){rotation=drag.start+dx*.33;byId("spin")?.setAttribute("transform","rotate("+rotation+" 430 430)");}});
-    dial.addEventListener("pointerup",e=>{if(drag?.moved)suppressClick=true;drag=null;});
+    dial.addEventListener("pointerdown",e=>{if(e.button!==0)return;drag={x:e.clientX,y:e.clientY,start:rotation,moved:false};});
+    dial.addEventListener("pointermove",e=>{if(!drag)return;const dx=e.clientX-drag.x,dy=e.clientY-drag.y;if(!drag.moved&&Math.hypot(dx,dy)>7){drag.moved=true;try{dial.setPointerCapture(e.pointerId);}catch(err){}}if(drag.moved){rotation=drag.start+dx*.33;byId("spin")?.setAttribute("transform","rotate("+rotation+" 430 430)");}});
+    dial.addEventListener("pointerup",e=>{if(drag?.moved){suppressClick=true;window.setTimeout(()=>{suppressClick=false;},0);}drag=null;});
     dial.addEventListener("pointercancel",()=>{drag=null;suppressClick=false;});
     byId("up").addEventListener("click",()=>{const p=nodes.get(focus)?.parent;if(p)setFocus(p);});
     byId("reset").addEventListener("click",()=>setFocus("root"));
