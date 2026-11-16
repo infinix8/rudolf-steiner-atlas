@@ -123,7 +123,7 @@ function cases(){
       '<p class="flag">'+safe(issue.warning)+'</p></article>').join("")+'</div></details>';
 }
 async function loadChronologyLinks(){
- const response=await fetch("../research/steiner-earth-culture-audit-v04.json");
+ const response=await fetch("../research/steiner-earth-culture-audit-v05.json");
  if(!response.ok)return;
  const {findings}=await response.json();
  for(const finding of findings){

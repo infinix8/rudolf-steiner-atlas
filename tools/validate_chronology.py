@@ -17,7 +17,7 @@ def by_id(rows):
     return indexed
 
 
-audit = load(sys.argv[1] if len(sys.argv) > 1 else "research/steiner-earth-culture-audit-v04.json")
+audit = load(sys.argv[1] if len(sys.argv) > 1 else "research/steiner-earth-culture-audit-v05.json")
 index = load(audit["explorer_index"])
 baseline = load(audit["baseline"])
 events = by_id(index["events"])
@@ -94,6 +94,15 @@ for scheme in audit.get("chronological_schemes", []):
     assert set(scheme["earth_epoch_ids"]) == {d["node_id"] for d in dossiers.values() if d["level"] == "earth_epoch"}
     assert scheme["current_form_ordinal"] == 3 * 49 + 3 * 7 + 4
     assert set(scheme["evidence"]) <= findings.keys()
+
+if audit.get("consciousness_crosswalk"):
+    crosswalk = audit["consciousness_crosswalk"]
+    assert len(crosswalk) == len(cosmic)
+    assert {row["node_id"] for row in crosswalk} == cosmic
+    assert len({row["group_id"] for row in crosswalk}) == len(crosswalk)
+    for row in crosswalk:
+        assert row["group_id"] in groups and row["label"]
+        assert row["evidence"] and set(row["evidence"]) <= findings.keys()
 
 if audit.get("prior_audit"):
     prior = load(audit["prior_audit"])

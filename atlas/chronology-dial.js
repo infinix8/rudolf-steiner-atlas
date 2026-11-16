@@ -1,6 +1,6 @@
 "use strict";
 (() => {
-const INDEX_URL="../research/steiner-hierarchical-chronology-events-v04.json";
+const INDEX_URL="../research/steiner-hierarchical-chronology-events-v05.json";
 const DOSSIER_URL="../research/steiner-cosmic-condition-dossiers-v02.json";
 const $=id=>document.getElementById(id);
 const NS="http://www.w3.org/2000/svg";
