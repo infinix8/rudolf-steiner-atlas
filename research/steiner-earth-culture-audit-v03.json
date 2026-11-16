@@ -4,19 +4,20 @@
   "baseline": "research/steiner-hierarchical-chronology-events-v02.json",
   "organ_manifest": "research/organ-current.json",
   "counts": {
-    "sources": 31,
-    "findings": 75,
-    "relations": 104,
+    "sources": 33,
+    "findings": 81,
+    "relations": 110,
     "german_checked_findings": 11,
-    "english_views": 27,
+    "english_views": 29,
     "german_views": 4,
     "dossiers": 15,
-    "open_comparisons": 8,
-    "total_comparisons": 13,
+    "open_comparisons": 9,
+    "total_comparisons": 15,
     "source_leads": 4,
     "ga_volumes": 13,
     "fully_audited_volumes": 0,
-    "new_explorer_entries": 45,
+    "complete_english_views": 1,
+    "new_explorer_entries": 51,
     "expanded_legacy_entries": 35
   },
   "sources": [
@@ -391,6 +392,30 @@
       "genre": "recorded lecture",
       "reviewed_scope": "6–8",
       "review_status": "targeted_english_passage_review"
+    },
+    {
+      "id": "104a-9h",
+      "ga": "104a",
+      "work": "Reading the Pictures of the Apocalypse",
+      "section": "Lecture II-9 (Kristiania)",
+      "lecture_date": "1909-05-18",
+      "url": "https://rsarchive.org/Lectures/ReadApoc/19090518p01.html",
+      "edition": "1993 English, James H. Hindes",
+      "genre": "recorded lecture",
+      "reviewed_scope": "§6 at the manuscript gap; comparison with SOL §6",
+      "review_status": "targeted_english_passage_review"
+    },
+    {
+      "id": "104a-10",
+      "ga": "104a",
+      "work": "From the Pictorial Script of the Apocalypse of John",
+      "section": "Tenth Lecture (Oslo)",
+      "lecture_date": "1909-05-19",
+      "url": "https://rsarchive.org/Lectures/GA104a/English/SOL/19090519p01.html",
+      "edition": "Steiner Online Library English",
+      "genre": "recorded lecture",
+      "reviewed_scope": "All seven numbered paragraphs, §§1–7",
+      "review_status": "complete_english_source_view"
     }
   ],
   "findings": [
@@ -1107,6 +1132,9 @@
       "paraphrase": "GA 104a uses horse-and-rider pictures for the first four postwar periods, relating them to the first four cultures. The fifth period is pictured through the white robe and an astral body illuminated by the I. The source marks a gap at the end of the discussion of the fifth seal.",
       "verification": "direct_english_passage",
       "organ_ids": [],
+      "alternate_translation_source_ids": [
+        "104a-9h"
+      ],
       "evidence_category": "directly_verified_passage",
       "research_scope": "selected_passage",
       "explorer_event_id": "CP26"
@@ -1453,6 +1481,84 @@
       "evidence_category": "directly_verified_passage",
       "research_scope": "selected_passage",
       "explorer_event_id": "CP50"
+    },
+    {
+      "id": "CP51",
+      "node_id": "earth-sixth",
+      "source_id": "104a-10",
+      "passage_cue": "1–2",
+      "title": "From the white robes to the seventh seal",
+      "paraphrase": "Steiner recaps the fifth and sixth postwar periods, then describes the seventh seal through divergent conditions: one group can act from an invisible sphere while another remains bound to matter. He introduces the Angels' earlier developmental path as an analogy for the first group's future capacities.",
+      "verification": "direct_english_passage",
+      "organ_ids": [],
+      "evidence_category": "directly_verified_passage",
+      "research_scope": "selected_passage",
+      "explorer_event_id": "CP51"
+    },
+    {
+      "id": "CP52",
+      "node_id": "earth-sixth",
+      "source_id": "104a-10",
+      "passage_cue": "5",
+      "title": "Atlantis recapitulated as consciously regained clairvoyance",
+      "paraphrase": "In this lecture the seals era as a whole recapitulates Atlantis through consciously acquired clairvoyance. GA 104a II-9 additionally links individual seals with fruits of earlier post-Atlantean cultures. These correspondences have different chronological scales.",
+      "verification": "direct_english_passage",
+      "organ_ids": [],
+      "evidence_category": "directly_verified_passage",
+      "research_scope": "selected_passage",
+      "explorer_event_id": "CP52"
+    },
+    {
+      "id": "CP53",
+      "node_id": "earth-seventh",
+      "source_id": "104a-10",
+      "passage_cue": "3–4",
+      "title": "Trumpet images and continuing physical conditions",
+      "paraphrase": "Steiner places the trumpets at a Devachanic level of hearing while describing a remaining Earth below. He explicitly numbers the first three images and the sixth. The darkening and first woe material sits between them in the prose and requires careful comparison before assigning every image a number.",
+      "verification": "direct_english_passage",
+      "organ_ids": [],
+      "evidence_category": "directly_verified_passage",
+      "research_scope": "selected_passage",
+      "explorer_event_id": "CP53"
+    },
+    {
+      "id": "CP54",
+      "node_id": "earth-seventh",
+      "source_id": "104a-10",
+      "passage_cue": "4–5",
+      "title": "Individuality, spiritual fire and recurrence of Lemuria",
+      "paraphrase": "Steiner links receiving the Christ impulse with accepting distinct individualities and emerging from conditions of group soul. He compares the trumpet era with a spiritually transformed Lemuria, connecting its fire imagery with a higher rather than material condition.",
+      "verification": "direct_english_passage",
+      "organ_ids": [],
+      "evidence_category": "directly_verified_passage",
+      "research_scope": "selected_passage",
+      "explorer_event_id": "CP54"
+    },
+    {
+      "id": "CP55",
+      "node_id": "earth-seventh",
+      "source_id": "104a-10",
+      "passage_cue": "5",
+      "title": "Two directions of reunion at the seventh trumpet",
+      "paraphrase": "The lecture projects a division in which the subtle portion of Earth reunites with the Sun while the dense portion combines with the Moon. Steiner calls it a transformed echo of the earlier solar separation. The resulting sequence requires comparison with GA 13's differently phrased reunion account.",
+      "verification": "direct_english_passage",
+      "organ_ids": [],
+      "evidence_category": "directly_verified_passage",
+      "research_scope": "selected_passage",
+      "explorer_event_id": "CP55"
+    },
+    {
+      "id": "CP56",
+      "node_id": "earth-seventh",
+      "source_id": "104a-10",
+      "passage_cue": "6–7",
+      "title": "Christ as planetary spirit and Sorat as a named adversary",
+      "paraphrase": "Steiner links Zarathustra's earlier teaching, Golgotha and Christ's projected role in reunion with the Sun. He calls Sorat a solar adversary affecting the astral body and presents 666 as a name-number correspondence in his reading of Revelation.",
+      "verification": "direct_english_passage",
+      "organ_ids": [],
+      "evidence_category": "directly_verified_passage",
+      "research_scope": "selected_passage",
+      "explorer_event_id": "CP56"
     }
   ],
   "dossiers": [
@@ -1581,7 +1687,9 @@
         "CP26",
         "CP27",
         "CP30",
-        "CP37"
+        "CP37",
+        "CP51",
+        "CP52"
       ],
       "parent_id": "cos-earth",
       "sequence": 6,
@@ -1601,7 +1709,11 @@
         "CP28",
         "CP29",
         "CP42",
-        "CP49"
+        "CP49",
+        "CP53",
+        "CP54",
+        "CP55",
+        "CP56"
       ],
       "parent_id": "cos-earth",
       "sequence": 7,
@@ -2639,6 +2751,75 @@
       "id": "CR-CP50-corresponds_to-EP10"
     },
     {
+      "source": "CP51",
+      "type": "continues_from",
+      "target": "CP26",
+      "evidence": [
+        "CP51",
+        "CP26"
+      ],
+      "note": "Oslo II-10 recaps the fifth seal from the previous lecture and addresses the seventh seal.",
+      "status": "cross_passage",
+      "id": "CR-CP51-continues_from-CP26"
+    },
+    {
+      "source": "earth-sixth",
+      "type": "recapitulates",
+      "target": "earth-atlant",
+      "evidence": [
+        "CP52"
+      ],
+      "note": "Oslo II-10 §5 explicitly compares the age of seals with a transformed Atlantis.",
+      "status": "direct_passage",
+      "id": "CR-earth-sixth-recapitulates-earth-atlant"
+    },
+    {
+      "source": "earth-seventh",
+      "type": "recapitulates",
+      "target": "earth-lemur",
+      "evidence": [
+        "CP54"
+      ],
+      "note": "Oslo II-10 §5 explicitly compares the age of trumpets with a transformed Lemuria.",
+      "status": "direct_passage",
+      "id": "CR-earth-seventh-recapitulates-earth-lemur"
+    },
+    {
+      "source": "CP55",
+      "type": "recapitulates",
+      "target": "EP03",
+      "evidence": [
+        "CP55",
+        "EP03"
+      ],
+      "note": "The lecture labels reunion as a transformed echo of earlier Sun separation.",
+      "status": "cross_passage",
+      "id": "CR-CP55-recapitulates-EP03"
+    },
+    {
+      "source": "CP55",
+      "type": "corresponds_to",
+      "target": "CP30",
+      "evidence": [
+        "CP55",
+        "CP30"
+      ],
+      "note": "GA 13 and GA 104a both discuss later lunar and solar relations, but assign them to different descriptions of unity or division.",
+      "status": "unresolved_comparison",
+      "id": "CR-CP55-corresponds_to-CP30"
+    },
+    {
+      "source": "agency-sorat",
+      "type": "opposes",
+      "target": "agency-christ",
+      "evidence": [
+        "CP56"
+      ],
+      "note": "Oslo II-10 identifies Sorat as the Christ spirit's solar adversary.",
+      "status": "direct_passage",
+      "id": "CR-agency-sorat-opposes-agency-christ"
+    },
+    {
       "source": "organ-ears",
       "type": "corresponds_to",
       "target": "EP01",
@@ -3126,6 +3307,26 @@
       ],
       "title": "Several distinct claims about inception and expression of the I",
       "comparison": "GA 13 IV §77 describes kindling by Spirits of Form in early terrestrial evolution. GA 104 VIII §§7–8 and IX §20 attach first-person expression or first I-soul impulse to the fifth Atlantean phase. GA 346 VII §3 attaches 333 CE to entry into the intellectual soul. Track the predicates separately. The exact relationship between the two purported firsts still requires direct comparison. The 333 CE expression and the years-after-Golgotha wording in GA 346 VII §14 also merit edition comparison."
+    },
+    {
+      "id": "chron-issue-14",
+      "status": "open",
+      "finding_ids": [
+        "CP30",
+        "CP55"
+      ],
+      "title": "Later lunar and solar reunions across GA 13 and GA 104a",
+      "comparison": "GA 13 VI §§7–8 narrates lunar return and subsequent reunification of Earth with the Sun and other planets. GA 104a II-10 §5 describes a subtle Earth component reuniting with the Sun and the gross component combining with the Moon in the seventh-trumpet setting. The sources do not identify whether the accounts describe different phases or different versions. Keep their sequencing and qualified referents distinct."
+    },
+    {
+      "id": "chron-issue-15",
+      "status": "qualified_distinction",
+      "finding_ids": [
+        "CP26",
+        "CP51"
+      ],
+      "title": "Two English versions retain a gap in the fifth-seal lecture",
+      "comparison": "GA 104a Oslo II-9 §6 ends with an omission marker in both the Steiner Online Library and Hindes English editions. II-10 §§1–2 recaps the fifth and sixth seals and moves to the seventh, while leaving the missing II-9 wording unverified."
     }
   ],
   "source_leads": [
@@ -3153,9 +3354,9 @@
     {
       "id": "CL04",
       "ga": "104a",
-      "url": "https://rsarchive.org/Lectures/GA104a/English/SOL/19090518p01.html",
+      "url": "https://rsarchive.org/Lectures/GA104a/",
       "status": "source_lead",
-      "question": "Locate the parallel to the §6 marked gap in the Hindes translation and German original before claiming a complete seal concordance. Then advance through Oslo II-10."
+      "question": "Both known English II-9 views mark the gap. Check the German and source notes for its provenance. Then continue Oslo II-11 §1 from the dated catalogue."
     }
   ],
   "entity_nodes": [
@@ -3248,6 +3449,11 @@
       "id": "human-spirit-self",
       "label": "Spirit Self or Manas",
       "kind": "constitution"
+    },
+    {
+      "id": "agency-sorat",
+      "label": "Sorat, in GA 104a",
+      "kind": "agency"
     }
   ],
   "coverage_ledger": [
@@ -3311,15 +3517,17 @@
     {
       "ga": "104a",
       "identified_source_ids": [
-        "104a-9"
+        "104a-9",
+        "104a-9h",
+        "104a-10"
       ],
-      "targeted_english_views": 1,
+      "targeted_english_views": 3,
       "german_only_views": 0,
       "catalogue_views": 16,
       "catalogue_scope": "SOL English lecture views across both parts",
       "catalogue_url": "https://rsarchive.org/Lectures/GA104a/",
-      "selected_views_touched": 1,
-      "full_views_audited": 0,
+      "selected_views_touched": 2,
+      "full_views_audited": 1,
       "full_volume_audit": false
     },
     {

@@ -299,7 +299,7 @@
  function render(){if(!data)return;buildWheel();showingAll=false;renderMenu();renderPanel();}
  function drawSearch(){
    const q=$("search-input").value.trim().toLowerCase(),out=$("search-results");out.replaceChildren();
-   if(q.length<2){append(out,"p","research-note","Search all 231 research records and the parent evolutionary stages.");return;}
+   if(q.length<2){append(out,"p","research-note","Search all "+data.events.length+" research records and the parent evolutionary stages.");return;}
    const matches=[...nodes.values()].filter(x=>x.id!=="root"&&(x.label+" "+x.description).toLowerCase().includes(q)).slice(0,12);
    const ids=new Set(matches.map(n=>n.id));
    const additional=data.events.filter(e=>!ids.has(e.id)&&(e.title+" "+e.description).toLowerCase().includes(q)).slice(0,8);

@@ -90,6 +90,6 @@ for issue in comparisons.values():
 assert len(findings) == audit["counts"]["findings"]
 assert len(relationships) == audit["counts"]["relations"]
 assert len(comparisons) == audit["counts"]["total_comparisons"]
-assert all(row["full_views_audited"] == 0 for row in audit["coverage_ledger"])
+assert sum(row["full_views_audited"] for row in audit["coverage_ledger"]) == audit["counts"]["complete_english_views"]
 assert sum(len(e.get("organ_ids", [])) for e in events.values()) > 0
 print(f"Validated {len(events)} chronology entries, {len(findings)} findings and {len(relationships)} research edges.")

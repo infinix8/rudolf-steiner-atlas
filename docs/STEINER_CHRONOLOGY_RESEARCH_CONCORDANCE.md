@@ -75,6 +75,8 @@ GA 104 places the seven seals here after the War of All Against All. GA 104a tre
 - <a id='finding-cp27'></a> **CP27 · Philadelphia and the sixth seal occupy different scales.** The lecture moves between a prewar cultural period associated with Philadelphia, its projected interventions in air and light, and an image of their fruits at the sixth seal. The claim that electrical waves and moral actions will cause earthquakes is unsupported. [GA 104a, Ninth Lecture (Oslo), §§ 7–13](https://rsarchive.org/Lectures/GA104a/English/SOL/19090518p01.html)
 - <a id='finding-cp30'></a> **CP30 · Post-catastrophe choice, altered conditions and distant lunar work.** GA 13 projects seven periods after the convulsion and treats prior choices as preparation for altered spiritual conditions. It then describes lunar return and transformative assistance farther ahead, without supplying the seal-by-seal concordance or dating lunar return to a specific seal. [GA 13, VI. Present and Future Evolution of the World and of Mankind, §§ 7–8](https://rsarchive.org/Books/GA013/English/RSP1969/GA013_c06.html)
 - <a id='finding-cp37'></a> **CP37 · War of All Against All as a moral transition.** The 1924 lecture places the war between great Earth epochs five and six, after cultures six and seven within the fifth. Steiner gives the moral catastrophe primacy and describes accompanying natural events as secondary. The comparison with ice-age events belongs to his teaching. [GA 346, Sixth Lecture, §§ 18–19](https://rsarchive.org/Lectures/GA346/English/SOL/19240910.html)
+- <a id='finding-cp51'></a> **CP51 · From the white robes to the seventh seal.** Steiner recaps the fifth and sixth postwar periods, then describes the seventh seal through divergent conditions: one group can act from an invisible sphere while another remains bound to matter. He introduces the Angels' earlier developmental path as an analogy for the first group's future capacities. [GA 104a, Tenth Lecture (Oslo), §§ 1–2](https://rsarchive.org/Lectures/GA104a/English/SOL/19090519p01.html)
+- <a id='finding-cp52'></a> **CP52 · Atlantis recapitulated as consciously regained clairvoyance.** In this lecture the seals era as a whole recapitulates Atlantis through consciously acquired clairvoyance. GA 104a II-9 additionally links individual seals with fruits of earlier post-Atlantean cultures. These correspondences have different chronological scales. [GA 104a, Tenth Lecture (Oslo), §§ 5](https://rsarchive.org/Lectures/GA104a/English/SOL/19090519p01.html)
 
 ### Seventh great Earth epoch (`earth-seventh`)
 
@@ -84,6 +86,10 @@ The trumpet subdivisions complete the physical-form sequence in GA 104. The lect
 - <a id='finding-cp29'></a> **CP29 · Larynx, breath and the post-trumpet astral image.** Steiner takes the larynx and incoming breath as an example in his apocalyptic interpretation of bodily organs leaving astral forms. The claim belongs to his spiritual forecast and supplies no evidence for anatomical development or physiological function. [GA 104, Eleventh Lecture, §§ 2–5](https://rsarchive.org/Lectures/GA104/English/SOL/19080629p01.html)
 - <a id='finding-cp42'></a> **CP42 · Completion of conscious astral transformation and the last trumpet.** Steiner distinguishes present beginnings of Manas from advanced spiritual self-development at the end of physical Earth. He connects survival into the astralized Earth with transformed etheric organization and interprets Pauline imagery in that context. [GA 104, Ninth Lecture, §§ 6, 8–9](https://rsarchive.org/Lectures/GA104/English/SOL/19080626p01.html)
 - <a id='finding-cp49'></a> **CP49 · Human spiritual fruits prepare Future Jupiter.** GA 104 compares Earth's previous preparation of bodily forms with the future formative influence of what people accomplish through soul and etheric transformation. This concerns preparation during spiritualized Earth for its future planetary condition. [GA 104, Ninth Lecture, §§ 14–18](https://rsarchive.org/Lectures/GA104/English/SOL/19080626p01.html)
+- <a id='finding-cp53'></a> **CP53 · Trumpet images and continuing physical conditions.** Steiner places the trumpets at a Devachanic level of hearing while describing a remaining Earth below. He explicitly numbers the first three images and the sixth. The darkening and first woe material sits between them in the prose and requires careful comparison before assigning every image a number. [GA 104a, Tenth Lecture (Oslo), §§ 3–4](https://rsarchive.org/Lectures/GA104a/English/SOL/19090519p01.html)
+- <a id='finding-cp54'></a> **CP54 · Individuality, spiritual fire and recurrence of Lemuria.** Steiner links receiving the Christ impulse with accepting distinct individualities and emerging from conditions of group soul. He compares the trumpet era with a spiritually transformed Lemuria, connecting its fire imagery with a higher rather than material condition. [GA 104a, Tenth Lecture (Oslo), §§ 4–5](https://rsarchive.org/Lectures/GA104a/English/SOL/19090519p01.html)
+- <a id='finding-cp55'></a> **CP55 · Two directions of reunion at the seventh trumpet.** The lecture projects a division in which the subtle portion of Earth reunites with the Sun while the dense portion combines with the Moon. Steiner calls it a transformed echo of the earlier solar separation. The resulting sequence requires comparison with GA 13's differently phrased reunion account. [GA 104a, Tenth Lecture (Oslo), §§ 5](https://rsarchive.org/Lectures/GA104a/English/SOL/19090519p01.html)
+- <a id='finding-cp56'></a> **CP56 · Christ as planetary spirit and Sorat as a named adversary.** Steiner links Zarathustra's earlier teaching, Golgotha and Christ's projected role in reunion with the Sun. He calls Sorat a solar adversary affecting the astral body and presents 666 as a name-number correspondence in his reading of Revelation. [GA 104a, Tenth Lecture (Oslo), §§ 6–7](https://rsarchive.org/Lectures/GA104a/English/SOL/19090519p01.html)
 
 ### Ancient Indian cultural period (`period-10`)
 
@@ -175,14 +181,14 @@ Canonical organ identifiers come from the [current organ manifest](../research/o
 
 ## Corpus coverage
 
-Counts cover this chronology audit. Catalogue denominators count the identified editions below. All assignments are targeted passage reviews.
+Counts cover this chronology audit. Catalogue denominators count the identified editions below. The full-view count records reading of every available paragraph in the selected edition.
 
 | GA | Targeted English views | German-only spot-check views | Catalogue views touched | Complete audits |
 | --- | ---: | ---: | ---: | ---: |
 | 11 | 8 | 3 | [8/20](https://rsarchive.org/Books/GA011/English/RSPI1959/) | 0 |
 | 13 | 2 | 1 | [2/7](https://rsarchive.org/Books/GA013/English/RSP1969/) | 0 |
 | 104 | 4 | 0 | [4/13](https://rsarchive.org/Lectures/GA104/) | 0 |
-| 104a | 1 | 0 | [1/16](https://rsarchive.org/Lectures/GA104a/) | 0 |
+| 104a | 3 | 0 | [2/16](https://rsarchive.org/Lectures/GA104a/) | 1 |
 | 106 | 1 | 0 | — | 0 |
 | 181 | 1 | 0 | — | 0 |
 | 184 | 1 | 0 | — | 0 |
@@ -193,7 +199,7 @@ Counts cover this chronology audit. Catalogue denominators count the identified 
 | 121 | 1 | 0 | [1/11](https://rsarchive.org/Lectures/GA121/) | 0 |
 | 110 | 1 | 0 | — | 0 |
 
-The GA 346 total includes two editions of the same lecture. The SOL English view contains one German paragraph. The structured register lists exact passage scopes and catalogue denominator definitions.
+The GA 104a and GA 346 totals each include two editions of one lecture. The SOL English view contains one German paragraph. The structured register lists exact passage scopes and catalogue denominator definitions.
 
 ## Source comparisons
 
@@ -210,3 +216,5 @@ The GA 346 total includes two editions of the same lecture. The SOL English view
 - **Ideal period arithmetic and 1924 qualifications on numerical regularity** (open). GA 184 uses 2,160-year arithmetic for the fourth culture. GA 346 VI §§8–10 says that regular numerical patterns loosen in the consciousness-soul age, while continuing to use related cycles. The latter does not specify a replacement end year for the fifth culture. Derived future labels remain approximate. Evidence CP31, CP34, CP35.
 - **Two heart rudiment accounts share a lion association** (open). GA 110 VIII §§6–8 names an Old Saturn heart rudiment in the Leo direction. GA 104 IX §§20–22 places the rudiment leading to the physical heart within an Atlantean lion group-soul account. An earlier warmth predisposition and a later etheric or physical elaboration are plausible successive thresholds. The passages do not directly identify one as the continuation of the other. Compare the German terminology and GA 110 IX before assigning a single inception. Evidence CP45, CP46.
 - **Several distinct claims about inception and expression of the I** (open). GA 13 IV §77 describes kindling by Spirits of Form in early terrestrial evolution. GA 104 VIII §§7–8 and IX §20 attach first-person expression or first I-soul impulse to the fifth Atlantean phase. GA 346 VII §3 attaches 333 CE to entry into the intellectual soul. Track the predicates separately. The exact relationship between the two purported firsts still requires direct comparison. The 333 CE expression and the years-after-Golgotha wording in GA 346 VII §14 also merit edition comparison. Evidence EP10, CP39, CP47, CP50.
+- **Later lunar and solar reunions across GA 13 and GA 104a** (open). GA 13 VI §§7–8 narrates lunar return and subsequent reunification of Earth with the Sun and other planets. GA 104a II-10 §5 describes a subtle Earth component reuniting with the Sun and the gross component combining with the Moon in the seventh-trumpet setting. The sources do not identify whether the accounts describe different phases or different versions. Keep their sequencing and qualified referents distinct. Evidence CP30, CP55.
+- **Two English versions retain a gap in the fifth-seal lecture** (qualified distinction). GA 104a Oslo II-9 §6 ends with an omission marker in both the Steiner Online Library and Hindes English editions. II-10 §§1–2 recaps the fifth and sixth seals and moves to the seventh, while leaving the missing II-9 wording unverified. Evidence CP26, CP51.

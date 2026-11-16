@@ -6,12 +6,12 @@
     "source_blob_sha": "6ed47e5a2c854e8f119cb73722c77a142abad982",
     "status": "targeted_primary_passage_audit_in_progress",
     "notice": "Events are source-attributed Steiner claims, predictions, or editorial syntheses, not empirical scientific or historical facts. Evidence P indicates a pertinent excerpt checked, not exhaustive lecture review.",
-    "entry_count": 276,
-    "source_count": 47,
+    "entry_count": 282,
+    "source_count": 48,
     "citation_caveat": "The November 4 1919 Ahrimanic-incarnation lecture is catalogued as GA 193; a legacy anthology link may include GA191 in its path.",
     "updated": "2026-11-16",
     "cosmic_dossier_file": "research/steiner-cosmic-condition-dossiers-v02.json",
-    "prior_version_note": "Retains all 231 v0.2 event IDs and adds 45 selected entries. Passage links also expand 35 existing entries.",
+    "prior_version_note": "Retains all 231 v0.2 event IDs and adds 51 selected entries. Passage links also expand 35 existing entries.",
     "detailed_research_markdown": "docs/STEINER_CHRONOLOGY_RESEARCH_CONCORDANCE.md",
     "version": "0.3",
     "original_v01_file": "research/steiner-hierarchical-chronology-events-v01.json",
@@ -5272,6 +5272,138 @@
           "citation": "GA 104 · Ninth Lecture · §§ 19–21"
         }
       ]
+    },
+    {
+      "id": "CP51",
+      "parent_id": "CH-18",
+      "title": "From the white robes to the seventh seal",
+      "description": "Steiner recaps the fifth and sixth postwar periods, then describes the seventh seal through divergent conditions: one group can act from an invisible sphere while another remains bound to matter. He introduces the Angels' earlier developmental path as an analogy for the first group's future capacities.",
+      "evidence_flags": [
+        "P"
+      ],
+      "source_ids": [
+        "S48"
+      ],
+      "section": "E",
+      "chronology_status": "future",
+      "time_scale": "earth_epoch",
+      "audited_passages": [
+        {
+          "finding_id": "CP51",
+          "source_id": "S48",
+          "citation": "GA 104a · Tenth Lecture (Oslo) · §§ 1–2"
+        }
+      ]
+    },
+    {
+      "id": "CP52",
+      "parent_id": "CH-18",
+      "title": "Atlantis recapitulated as consciously regained clairvoyance",
+      "description": "In this lecture the seals era as a whole recapitulates Atlantis through consciously acquired clairvoyance. GA 104a II-9 additionally links individual seals with fruits of earlier post-Atlantean cultures. These correspondences have different chronological scales.",
+      "evidence_flags": [
+        "P"
+      ],
+      "source_ids": [
+        "S48"
+      ],
+      "section": "E",
+      "chronology_status": "future",
+      "time_scale": "earth_epoch",
+      "audited_passages": [
+        {
+          "finding_id": "CP52",
+          "source_id": "S48",
+          "citation": "GA 104a · Tenth Lecture (Oslo) · §§ 5"
+        }
+      ]
+    },
+    {
+      "id": "CP53",
+      "parent_id": "CH-19",
+      "title": "Trumpet images and continuing physical conditions",
+      "description": "Steiner places the trumpets at a Devachanic level of hearing while describing a remaining Earth below. He explicitly numbers the first three images and the sixth. The darkening and first woe material sits between them in the prose and requires careful comparison before assigning every image a number.",
+      "evidence_flags": [
+        "P"
+      ],
+      "source_ids": [
+        "S48"
+      ],
+      "section": "E",
+      "chronology_status": "future",
+      "time_scale": "earth_epoch",
+      "audited_passages": [
+        {
+          "finding_id": "CP53",
+          "source_id": "S48",
+          "citation": "GA 104a · Tenth Lecture (Oslo) · §§ 3–4"
+        }
+      ]
+    },
+    {
+      "id": "CP54",
+      "parent_id": "CH-19",
+      "title": "Individuality, spiritual fire and recurrence of Lemuria",
+      "description": "Steiner links receiving the Christ impulse with accepting distinct individualities and emerging from conditions of group soul. He compares the trumpet era with a spiritually transformed Lemuria, connecting its fire imagery with a higher rather than material condition.",
+      "evidence_flags": [
+        "P"
+      ],
+      "source_ids": [
+        "S48"
+      ],
+      "section": "E",
+      "chronology_status": "future",
+      "time_scale": "earth_epoch",
+      "audited_passages": [
+        {
+          "finding_id": "CP54",
+          "source_id": "S48",
+          "citation": "GA 104a · Tenth Lecture (Oslo) · §§ 4–5"
+        }
+      ]
+    },
+    {
+      "id": "CP55",
+      "parent_id": "CH-19",
+      "title": "Two directions of reunion at the seventh trumpet",
+      "description": "The lecture projects a division in which the subtle portion of Earth reunites with the Sun while the dense portion combines with the Moon. Steiner calls it a transformed echo of the earlier solar separation. The resulting sequence requires comparison with GA 13's differently phrased reunion account.",
+      "evidence_flags": [
+        "P"
+      ],
+      "source_ids": [
+        "S48"
+      ],
+      "section": "E",
+      "chronology_status": "future",
+      "time_scale": "earth_epoch",
+      "audited_passages": [
+        {
+          "finding_id": "CP55",
+          "source_id": "S48",
+          "citation": "GA 104a · Tenth Lecture (Oslo) · §§ 5"
+        }
+      ]
+    },
+    {
+      "id": "CP56",
+      "parent_id": "CH-19",
+      "title": "Christ as planetary spirit and Sorat as a named adversary",
+      "description": "Steiner links Zarathustra's earlier teaching, Golgotha and Christ's projected role in reunion with the Sun. He calls Sorat a solar adversary affecting the astral body and presents 666 as a name-number correspondence in his reading of Revelation.",
+      "evidence_flags": [
+        "P"
+      ],
+      "source_ids": [
+        "S48"
+      ],
+      "section": "E",
+      "chronology_status": "future",
+      "time_scale": "earth_epoch",
+      "audited_passages": [
+        {
+          "finding_id": "CP56",
+          "source_id": "S48",
+          "citation": "GA 104a · Tenth Lecture (Oslo) · §§ 6–7"
+        }
+      ]
     }
   ],
   "sources": [
@@ -5601,6 +5733,13 @@
       "id": "S47",
       "citation_name": "GA 346, The Apocalypse and the Priest's Ministry, Seventh Lecture.",
       "url": "https://rsarchive.org/Lectures/GA346/English/SOL/19240911.html",
+      "is_primary": true,
+      "notes": "Steiner Online Library English"
+    },
+    {
+      "id": "S48",
+      "citation_name": "GA 104a, From the Pictorial Script of the Apocalypse of John, Tenth Lecture (Oslo).",
+      "url": "https://rsarchive.org/Lectures/GA104a/English/SOL/19090519p01.html",
       "is_primary": true,
       "notes": "Steiner Online Library English"
     }
