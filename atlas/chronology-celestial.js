@@ -1,6 +1,6 @@
 "use strict";
 (() => {
- const DATA_URL="../research/steiner-hierarchical-chronology-events-v02.json";
+ const DATA_URL="../research/steiner-hierarchical-chronology-events-v03.json";
  const DOSSIER_URL="../research/steiner-cosmic-condition-dossiers-v02.json";
  const NS="http://www.w3.org/2000/svg";
  const $=id=>document.getElementById(id);
@@ -35,6 +35,7 @@
    "Ancient Indian","Ancient Persian","Egypto-Chaldean","Greco-Roman","Consciousness-Soul Age","Sixth Cultural Period","Seventh Cultural Period"
   ].forEach((label,i)=>add("period-"+(10+i),label,"earth-post","culture","CH-"+(10+i),i<4?"past":i===4?"present":"future",groups.get("CH-"+(10+i))?.title||"Post-Atlantean cultural period"));
   for(const n of [...nodes.values()]){
+   n.description=d.stage_notes?.[n.id]||n.description;
    if(!n.group||n.id==="cos-earth")continue; // Earth-wide records cross multiple epochs, not extra formal Earth epochs.
    for(const e of d.events.filter(x=>x.parent_id===n.group)){
     add(e.id,e.title.replace(/\.$/,""),n.id,"event",null,n.status==="future"?"future":n.status==="present"?"present":"past",e.description);
@@ -241,11 +242,22 @@
    });
    if(!list.length)append(target,"p","research-note","No smaller chronological divisions are indexed at this node.");
    const idList=record?record.source_ids:getSourceIds(node);
+   const audited=ev?.audited_passages||[];
    const sourceBox=$("source-list");sourceBox.replaceChildren();
-   idList.slice(0,5).map(id=>sources.get(id)).filter(Boolean).forEach(s=>{
-      const a=append(sourceBox,"a",null,s.id+" · "+compact(s.citation_name,31)+" ↗");a.href=s.url;
-      a.target="_blank";a.rel="noopener noreferrer";a.title=s.citation_name;
+   const cited=new Set(audited.map(p=>p.source_id));
+   const links=audited.map(p=>({source:sources.get(p.source_id),label:p.citation}));
+   for(const id of idList.filter(id=>!cited.has(id)).slice(0,Math.max(0,5-links.length))){
+      const source=sources.get(id);
+      if(source?.url)links.push({source,label:source.id+" · "+compact(source.citation_name,31)});
+   }
+   links.forEach(({source,label})=>{
+      const a=append(sourceBox,"a",null,label+" ↗");a.href=source.url;
+      a.target="_blank";a.rel="noopener noreferrer";a.title=label;
    });
+   for(const id of ev?.organ_ids||[]){
+      const a=append(sourceBox,"a",null,"Organ dossier · "+id.replace(/^organ-/,"").replaceAll("-"," ")+" ↗");
+      a.href="organs.html?organ="+encodeURIComponent(id);
+   }
    if(!idList.length)append(sourceBox,"span","research-note","Source leads are being indexed.");
    $("evidence-label").textContent=record?record.evidence_flags.map(evidence).join(" · "):d?"DETAILED DOSSIER":"SOURCE-ATTRIBUTED";
    const explore=$("explore");explore.disabled=!!record||children(node.id).length===0;

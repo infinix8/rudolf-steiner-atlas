@@ -2,7 +2,7 @@
 // The organ browser loads original editorial records, not the original lecture texts.
 const $=q=>document.querySelector(q);
 const safe=v=>String(v??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
-const state={manifest:null,dossiers:null,ledger:null,ga110:null,phase16:null,selected:null};
+const state={manifest:null,dossiers:null,ledger:null,ga110:null,phase16:null,selected:null,chronology:new Map()};
 function allowed(url){
   try{const u=new URL(url);return u.protocol==="https:"&&["rsarchive.org","www.rsarchive.org"].includes(u.hostname)}catch{return false}
 }
@@ -77,6 +77,12 @@ function showOrgan(id){
   const laterHtml=later.length?
     '<div class="organ-records">'+later.map(x=>refinementHtml(x.phase,x.record)).join("")+'</div>':
     '<p class="organ-empty">No later selected-claim refinements are attached yet.</p>';
+  const chronology=state.chronology.get(id)||[];
+  const chronologyHtml=chronology.length
+    ? '<section class="organ-detail-section"><h3>Evolutionary chronology</h3><ul>'+
+      chronology.map(f=>'<li><a href="chronology-celestial.html#'+encodeURIComponent(f.explorer_event_id)+'">'+
+        safe(f.title)+'</a></li>').join("")+'</ul></section>'
+    : "";
   $("#organ-detail").innerHTML=
     '<p class="organ-label">Canonical organ dossier · '+safe(d.id)+'</p><h2>'+safe(d.organ)+'</h2>'+
     '<p class="muted">Alternate terms: '+safe((d.aliases||[]).join(" · ")||"none recorded")+'</p>'+
@@ -84,6 +90,7 @@ function showOrgan(id){
     '<div class="organ-note">Different historical assertions may describe an analogy, a transformation, a current bodily function, a named spiritual agent or a therapeutic conjecture. Do not equate these merely because they refer to the same organ. Source records are not clinical evidence.</div>'+
     '<section class="organ-detail-section"><h3>Earlier comparative source references</h3>'+legacy+'</section>'+
     '<section class="organ-detail-section"><h3>Later passage-linked annotations</h3>'+laterHtml+'</section>'+
+    chronologyHtml+
     '<section class="organ-detail-section"><h3>Research questions and caveats</h3>'+
     ((d.open_questions||[]).length?'<ul>'+d.open_questions.map(q=>'<li>'+safe(q)+'</li>').join("")+'</ul>':
     '<p class="organ-empty">Further translation and detailed source review needed.</p>')+
@@ -115,6 +122,18 @@ function cases(){
       '<p><strong>German displayed:</strong> '+safe(issue.german_record)+'</p>'+
       '<p class="flag">'+safe(issue.warning)+'</p></article>').join("")+'</div></details>';
 }
+async function loadChronologyLinks(){
+ const response=await fetch("../research/steiner-earth-culture-audit-v03.json");
+ if(!response.ok)return;
+ const {findings}=await response.json();
+ for(const finding of findings){
+  for(const organ of finding.organ_ids){
+   if(!state.chronology.has(organ))state.chronology.set(organ,[]);
+   state.chronology.get(organ).push(finding);
+  }
+ }
+ if(state.selected&&state.chronology.has(state.selected))showOrgan(state.selected);
+}
 async function init(){
  try{
   const manifestResponse=await fetch("../research/organ-current.json");
@@ -143,6 +162,7 @@ async function init(){
   nav();
   if(state.dossiers.dossiers.some(d=>d.id===param))showOrgan(param);
   else showOrgan("organ-heart");
+  void loadChronologyLinks().catch(()=>{});
  }catch(e){$("#organ-detail").innerHTML='<p class="empty">'+safe(e.message)+'</p>';}
 }
 init();

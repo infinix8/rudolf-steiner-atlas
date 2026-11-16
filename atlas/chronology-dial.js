@@ -1,6 +1,6 @@
 "use strict";
 (() => {
-const INDEX_URL="../research/steiner-hierarchical-chronology-events-v02.json";
+const INDEX_URL="../research/steiner-hierarchical-chronology-events-v03.json";
 const DOSSIER_URL="../research/steiner-cosmic-condition-dossiers-v02.json";
 const $=id=>document.getElementById(id);
 const NS="http://www.w3.org/2000/svg";
@@ -47,6 +47,7 @@ function construct(data){
  const periods=["Ancient Indian","Ancient Persian","Egypto-Chaldean","Greco-Roman","Consciousness-Soul Age","Sixth Cultural Period","Seventh Cultural Period"];
  periods.forEach((name,i)=>add("period-"+(i+10),name,"earth-post","culture","CH-"+(10+i),i<4?"past":i===4?"present":"future",groups.get("CH-"+(10+i))?.title||name));
  for(const n of [...nodes.values()]){
+   n.summary=data.stage_notes?.[n.id]||n.summary;
    if(!n.group||n.id==="cos-earth")continue; // CH-5 events span the Earth epoch hierarchy
    for(const e of data.events.filter(x=>x.parent_id===n.group)){
      add(e.id,e.title.replace(/\.$/,""),n.id,"event",null,n.status==="future"?"future":n.status==="present"?"present":"past",e.description);
@@ -214,15 +215,27 @@ function viewText(item){
  return d?.summary||item.summary||events.get(item.id)?.description||"Research entry linked to Steiner's works.";
 }
 function selectedRecord(){return n(selected)||n(level);}
-function makeSourceLinks(parent,ids,limit=6){
- let records=[...new Set(ids)].map(id=>sources.get(id)).filter(Boolean).slice(0,limit);
- if(!records.length){textTo(parent,"p",null,"Source links for this passage are still being indexed.");return;}
- let container=html("div","link-list");
- records.forEach(s=>{
-  let a=html("a","source-link");
-  a.href=s.url;a.target="_blank";a.rel="noopener noreferrer";
-  const strong=html("strong",null,s.id+" · "+s.citation_name);a.appendChild(strong);textTo(a,"span",null,"↗");container.appendChild(a);
- });
+function makeSourceLinks(parent,ids,limit=6,event=null){
+ const audited=event?.audited_passages||[];
+ const cited=new Set(audited.map(p=>p.source_id));
+ const references=audited.map(p=>({source:sources.get(p.source_id),label:p.citation}));
+ for(const id of new Set(ids)){
+  if(references.length>=limit)break;
+  if(cited.has(id))continue;
+  const source=sources.get(id);
+  if(source?.url)references.push({source,label:source.id+" · "+source.citation_name});
+ }
+ if(!references.length){textTo(parent,"p",null,"Source links for this passage are still being indexed.");return;}
+ const container=html("div","link-list");
+ for(const {source,label} of references){
+  const a=html("a","source-link");
+  a.href=source.url;a.target="_blank";a.rel="noopener noreferrer";
+  textTo(a,"strong",null,label);textTo(a,"span",null,"↗");container.appendChild(a);
+ }
+ for(const id of event?.organ_ids||[]){
+  const a=textTo(container,"a","source-link","Organ dossier · "+id.replace(/^organ-/,"").replaceAll("-"," "));
+  a.href="organs.html?organ="+encodeURIComponent(id);
+ }
  parent.appendChild(container);
 }
 function renderTabs(){
@@ -266,7 +279,7 @@ function renderTabs(){
  }else if(tab==="sources"){
    textTo(panel,"h3",null,"Read Steiner's original sources");
    if(ev){textTo(panel,"p",null,"Evidence status: "+ev.evidence_flags.map(x=>({P:"pertinent passage checked",L:"source located",I:"editorial synthesis",D:"derived dating",X:"special caution"}[x]||x)).join(" · "));}
-   makeSourceLinks(panel,nodeSourceIds(item.id),8);
+   makeSourceLinks(panel,nodeSourceIds(item.id),8,ev);
    const a=html("a","open-dossier","Read the master chronology and research method ↗");a.href="../docs/STEINER_HIERARCHICAL_CHRONOLOGY_MASTER_V01.md";panel.appendChild(a);
  }
 }
@@ -359,7 +372,7 @@ function showCrossEra(){
  $("events-title").textContent="Cross-era and recurring developments";
  const found=index.events.filter(x=>sections.includes(x.parent_id));$("events-count").textContent=found.length+" records across eras";
  found.forEach(e=>{
-   const b=btn("",()=>{previousFocus={level,selected};const old=selected;let p=html("div");$("tab-panel").replaceChildren();$("tab-panel").appendChild(p);textTo(p,"div","label",e.id);textTo(p,"h2",null,e.title);textTo(p,"p",null,e.description);makeSourceLinks(p,e.source_ids);$("tab-panel").scrollIntoView({behavior:"smooth",block:"center"});},"event-card");
+   const b=btn("",()=>{previousFocus={level,selected};const old=selected;let p=html("div");$("tab-panel").replaceChildren();$("tab-panel").appendChild(p);textTo(p,"div","label",e.id);textTo(p,"h2",null,e.title);textTo(p,"p",null,e.description);makeSourceLinks(p,e.source_ids,6,e);$("tab-panel").scrollIntoView({behavior:"smooth",block:"center"});},"event-card");
    textTo(b,"span","event-ref",e.id);
    textTo(b,"strong",null,e.title);textTo(b,"small",null,groups.get(e.parent_id)?.title||"Cross-era");
    container.appendChild(b);
