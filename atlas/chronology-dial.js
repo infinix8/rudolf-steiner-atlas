@@ -1,11 +1,12 @@
 "use strict";
 (() => {
-  const DATA_URL="../research/steiner-hierarchical-chronology-events-v01.json";
+  const DATA_URL="../research/steiner-hierarchical-chronology-events-v02.json";
+  const DOSSIER_URL="../research/steiner-cosmic-condition-dossiers-v02.json";
   const NS="http://www.w3.org/2000/svg";
   const $=id=>document.getElementById(id);
   const nodes=new Map(), events=new Map(), groups=new Map(), sources=new Map();
   const rotations=new Map();
-  let data=null, focus="root", selected="cos-earth", preview="cos-earth";
+  let data=null, cosmicDetails=new Map(), focus="root", selected="cos-earth", preview="cos-earth";
   let drag=null, suppressClick=false, changing=false, hovering=false;
   const isReduced=()=>window.matchMedia("(prefers-reduced-motion: reduce)").matches;
   const isSmall=()=>window.matchMedia("(max-width: 640px)").matches;
@@ -177,30 +178,60 @@
     const tx=Math.min(m.w-18,x+11);
     return {value:readable,x:tx,y:y+(minor?0:-2),approxWidth:readable.length*avg};
   }
+  function woodenPoint(m,angle,r,offset){
+    const a=angle*Math.PI/180,nx=-Math.sin(a),ny=Math.cos(a);
+    const p=pos(m,r,angle);
+    return [p[0]+nx*offset,p[1]+ny*offset];
+  }
+  function spath(pts){return pts.map(p=>p.map(n=>n.toFixed(2)).join(" "));}
+  function woodOutline(m,angle,from,to,minor){
+    const length=to-from,scale=minor?.55:1;
+    const p=(t,off)=>woodenPoint(m,angle,from+length*t,off*scale);
+    const arr=spath([p(0,3.7),p(.21,9.5),p(.54,7.1),p(.94,2.8),p(1,1.5),
+      p(1,-1.5),p(.94,-2.8),p(.54,-7.1),p(.21,-9.5),p(0,-3.7)]);
+    return "M"+arr[0]+" C"+arr[1]+" "+arr[2]+" "+arr[3]+
+      " L"+arr[4]+" L"+arr[5]+" L"+arr[6]+
+      " C"+arr[7]+" "+arr[8]+" "+arr[9]+" Z";
+  }
+  function woodTrace(m,angle,from,to,minor,side){
+    const length=to-from,scale=minor?.45:1;
+    const p=(t,off)=>spath([woodenPoint(m,angle,from+length*t,off*scale)])[0];
+    return "M"+p(.08,side*1.5)+" Q"+p(.42,side*4.2)+" "+p(.8,side*1.3);
+  }
   function drawOne(layer,n,index,angle,minor,parentIndex,m){
-    if(Math.cos(angle*Math.PI/180)<.065)return false; // only a right-hand semicircle is visible.
-    const radius=rayMax(m,angle)*(minor?.61:1);
-    const start=minor?17:12;
+    if(Math.cos(angle*Math.PI/180)<.065)return false;
+    const radius=rayMax(m,angle)*(minor?.61:1),start=minor?22:18;
     const [x1,y1]=pos(m,start,angle),[x2,y2]=pos(m,radius,angle);
     const parentColor=minor&&nodes.has(parentIndex)?color(nodes.get(parentIndex),index):null;
     const c=minor?(parentColor||color(n,index)):color(n,index);
+    const stain=n.status==="future"?"future":n.status==="present"?"present":"past";
     const g=svgel("g",{
       class:"ray"+(selected===n.id?" selected":"")+(minor?" sub-ray":""),
       tabindex:"0",role:"button","data-ray":n.id,
       "aria-label":n.label+". "+(hasChildren(n.id)?"Select to zoom into sub-epochs":"Select to read event details")
     });
     g.appendChild(svgel("title",{},n.label+". "+(n.summary||"")));
-    const style={x1,y1,x2,y2,stroke:c};
-    g.appendChild(svgel("line",{...style,class:minor?"minor-stem":"stem"}));
-    g.appendChild(svgel("line",{...style,class:"hit"}));
-    g.appendChild(svgel("circle",{cx:x2,cy:y2,r:minor?3.2:selected===n.id?6:4.4,fill:c,class:"endpoint"}));
+    const outline=woodOutline(m,angle,start,radius,minor);
+    const body=svgel("path",{d:outline,fill:"url(#wood-"+stain+")",
+      stroke:c,"stroke-width":minor?".7":"1.15",class:"wood-body"});
+    g.appendChild(body);
+    // Thin lengthwise highlights and grain follow the tapered wood rather than drawing bare lines.
+    g.appendChild(svgel("path",{d:woodTrace(m,angle,start,radius,minor,1),
+      class:"wood-highlight",stroke:"#fff9df","stroke-opacity":minor?".27":".41"}));
+    g.appendChild(svgel("path",{d:woodTrace(m,angle,start,radius,minor,-1),
+      class:"wood-grain",stroke:stain==="future"?"#6c597b":"#6c4b33","stroke-opacity":minor?".23":".39"}));
+    const bandRadius=start+Math.min(30,(radius-start)*.13),half=minor?3:6;
+    const a=woodenPoint(m,angle,bandRadius,half),b=woodenPoint(m,angle,bandRadius,-half);
+    g.appendChild(svgel("line",{x1:a[0],y1:a[1],x2:b[0],y2:b[1],class:"wood-band",stroke:"#d5b17a"}));
+    // Thin hit path is invisible and helps tapping or dragging small child spokes.
+    g.appendChild(svgel("line",{x1,y1,x2,y2,class:"hit"}));
+    g.appendChild(svgel("circle",{cx:x2,cy:y2,r:minor?3.2:selected===n.id?6:4.4,
+      fill:"url(#brass-metal)",class:"endpoint"}));
+    g.appendChild(svgel("circle",{cx:x2,cy:y2,r:minor?1.5:2.3,fill:c,class:"wood-tip"}));
     const t=rayText(m,n.label,x2,y2,minor);
-    // Wide invisible label hit-target; the painted label stays pointer-events:none.
-    g.appendChild(svgel("rect",{x:t.x-2,y:t.y-(minor?13:22),width:Math.max(40,t.approxWidth+10),height:minor?26:37,fill:"transparent","pointer-events":"all"}));
+    g.appendChild(svgel("rect",{x:t.x-2,y:t.y-(minor?13:22),width:Math.max(40,t.approxWidth+10),
+      height:minor?26:37,fill:"transparent","pointer-events":"all"}));
     g.appendChild(svgel("text",{x:t.x,y:t.y,class:minor?"minor-label":"major-label","dominant-baseline":"central"},t.value));
-    if(minor){
-      g.appendChild(svgel("circle",{cx:x2,cy:y2,r:1.2,fill:"#fff9f0"}));
-    }
     g.addEventListener("click",evt=>{
       if(suppressClick||changing)return;
       evt.stopPropagation();gotoLevel(n.id);
@@ -208,10 +239,9 @@
     g.addEventListener("keydown",evt=>{
       if(evt.key==="Enter"||evt.key===" "){evt.preventDefault();gotoLevel(n.id);}
     });
-    // No DOM replacement on pointer hover: ordinary taps must always reach the ray.
     layer.appendChild(g);return true;
   }
-  function previewItems(n){
+    function previewItems(n){
     if(!n)return [];
     const children=getChildren(n.id);
     if(!children.length)return [];
@@ -226,6 +256,20 @@
     const m=metrics(),dial=$("dial-svg");
     dial.setAttribute("viewBox","0 0 "+m.w+" "+m.h);
     dial.replaceChildren();
+    const defs=svgel("defs");
+    for(const [kind,stops] of Object.entries({
+      past:["#8f6550","#caa47c","#ecce9e","#a98265"],
+      present:["#477e79","#89b3a1","#d7d1a5","#6d9d8a"],
+      future:["#806c99","#b9a5bd","#e9d2ba","#a18cae"]
+    })){
+      const grad=svgel("linearGradient",{id:"wood-"+kind,x1:"0%",y1:"0%",x2:"5%",y2:"100%"});
+      stops.forEach((c,i)=>grad.appendChild(svgel("stop",{offset:(i/(stops.length-1)*100)+"%","stop-color":c})));
+      defs.appendChild(grad);
+    }
+    const brass=svgel("radialGradient",{id:"brass-metal",cx:"35%",cy:"28%",r:"80%"});
+    [["0%","#fff3be"],["40%","#d1a760"],["75%","#9d7045"],["100%","#72503b"]].forEach(
+      ([offset,c])=>brass.appendChild(svgel("stop",{offset,"stop-color":c})));
+    defs.appendChild(brass);dial.appendChild(defs);
     const backgrounds=svgel("g",{"aria-hidden":"true"});
     backgrounds.appendChild(svgel("line",{x1:m.cx,y1:55,x2:m.cx,y2:m.h-55,class:"zero-axis"}));
     [m.maxR*.36,m.maxR*.7,m.maxR].forEach(r=>{
@@ -259,9 +303,12 @@
     for(const [n,i,a] of mainArr)if(drawOne(layer,n,i,a,false,null,m))visible++;
     dial.appendChild(layer);
     const hub=svgel("g",{"aria-hidden":"true"});
-    hub.appendChild(svgel("circle",{cx:m.cx,cy:m.cy,r:21,fill:"#f6e6c7","fill-opacity":".4",class:"hub-aura"}));
-    hub.appendChild(svgel("circle",{cx:m.cx,cy:m.cy,r:11,class:"hub-ring"}));
-    hub.appendChild(svgel("circle",{cx:m.cx,cy:m.cy,r:4,class:"hub-dot"}));
+    hub.appendChild(svgel("circle",{cx:m.cx,cy:m.cy,r:31,fill:"#dfc391","fill-opacity":".19",class:"hub-aura"}));
+    hub.appendChild(svgel("circle",{cx:m.cx,cy:m.cy,r:22,fill:"url(#brass-metal)",stroke:"#8c6444","stroke-width":"1.6",class:"hub-ring"}));
+    hub.appendChild(svgel("circle",{cx:m.cx,cy:m.cy,r:15,fill:"#74533f",stroke:"#f0d7a1","stroke-width":"2"}));
+    hub.appendChild(svgel("circle",{cx:m.cx,cy:m.cy,r:9.5,fill:"url(#brass-metal)",stroke:"#f6ddaa","stroke-width":"1"}));
+    for(let a=45;a<360;a+=90){const p=pos(m,17,a);hub.appendChild(svgel("circle",{cx:p[0],cy:p[1],r:1.8,fill:"#f0d8a3"}));}
+    hub.appendChild(svgel("circle",{cx:m.cx,cy:m.cy,r:3.2,fill:"#f7e4be",class:"hub-dot"}));
     dial.appendChild(hub);
     $("visible-count").textContent=visible+" of "+list.length+" major rays";
     if(!opts.retainPreview)updateButtons();
@@ -330,6 +377,40 @@
       });
     });
   }
+  function showCosmicDossier(el,n){
+    const d=cosmicDetails.get(n.id);if(!d)return;
+    const section=append(el,"section","cosmic-dossier");
+    append(section,"h3",null,"DEEPENED COSMIC RESEARCH · V0.2");
+    append(section,"p","dossier-intro",d.summary);
+    const constellation=append(section,"div","dossier-facts");
+    for(const [title,value] of [
+      ["Consciousness",d.consciousness],["Human development",d.human_organization],
+      ["Cosmic element",d.elements]
+    ]){const item=append(constellation,"div","dossier-fact");append(item,"strong",null,title);append(item,"p",null,value);}
+    const agency=append(section,"details","research-accordion");
+    append(agency,"summary",null,"Spiritual hierarchies and agencies ("+d.agencies.length+")");
+    const agencyList=append(agency,"ul","dossier-list");
+    d.agencies.forEach(v=>append(agencyList,"li",null,v));
+    const claims=append(section,"details","research-accordion");
+    append(claims,"summary",null,"Verified passage notes ("+d.milestones.length+")");
+    d.milestones.forEach((m,i)=>{
+      const part=append(claims,"div","dossier-claim");
+      append(part,"strong",null,(i+1)+". "+m.heading);
+      append(part,"p",null,m.finding);
+      m.pointers.forEach(pointer=>{
+        const source=sources.get(pointer.source_id);
+        if(!source)return;
+        const a=append(part,"a","dossier-pointer",pointer.source_id+" · "+pointer.passage_cue+" ↗");
+        a.href=source.url;a.target="_blank";a.rel="noopener noreferrer";
+      });
+    });
+    const cautions=append(section,"details","research-accordion");
+    append(cautions,"summary",null,"Interpretation cautions ("+d.cautions.length+")");
+    const ul=append(cautions,"ul","dossier-list");
+    d.cautions.forEach(x=>append(ul,"li",null,x));
+    const link=append(section,"a","dossier-report","Read all seven cosmic dossiers ↗");
+    link.href="../docs/COSMIC_CONDITIONS_DEEPENING_V02_2026-11-16.md";
+  }
   function info(){
     const el=$("info-content");el.replaceChildren();
     const n=nodes.get(selected)||nodes.get(focus);
@@ -344,6 +425,7 @@
       fillFacts(el,"Within",groups.get(ev.parent_id)?.title||"Steiner chronology");
       fillFacts(el,"Evidence",ev.evidence_flags.map(evidence).join(" · ")||"Primary-source review pending");
       fillFacts(el,"Time status",ev.chronology_status.replace(/_/g," "));
+      if(ev.passage_cues)fillFacts(el,"Passage cues",ev.passage_cues.map(x=>x.passage).join(" · "));
       append(el,"div","caution",
         "This is attributed to Steiner. Historical, medical and spiritual claims are not independently established.");
       sourceList(el,ev.source_ids);
@@ -354,6 +436,7 @@
       (getParents(n.id).slice(1,-1).map(id=>nodes.get(id).label).join(" › ")||"Within the whole cycle"));
     fillFacts(el,"Time",n.kind==="root"?"Past, ongoing, projected":n.status==="future"?"Projected future":n.status==="present"?"Present / ongoing":"Earlier evolutionary stage");
     fillFacts(el,"Sub-epochs",hasChildren(n.id)?getChildren(n.id).map(x=>x.label).slice(0,7).join(" · "):"No deeper stages catalogued");
+    if(n.kind==="cosmic")showCosmicDossier(el,n);
     if(n.kind==="root"){
       append(el,"div","caution","Turn the wheel to reveal spokes hidden to the left. Selecting any longer spoke replaces this same wheel with its smaller epochs; zoom out to recover the parent.");
     }else if(n.id==="cos-earth"){
@@ -459,8 +542,12 @@
       const res=await fetch(DATA_URL,{cache:"no-store"});
       if(!res.ok)throw Error("Research dataset: HTTP "+res.status);
       const json=await res.json();
-      if(!Array.isArray(json.events)||json.events.length<180||!Array.isArray(json.sources))throw Error("Invalid research data");
+      if(!Array.isArray(json.events)||json.events.length<200||!Array.isArray(json.sources))throw Error("Invalid research data");
       prepare(json);
+      try{
+        const dr=await fetch(DOSSIER_URL,{cache:"no-store"});
+        if(dr.ok){const details=await dr.json();for(const item of details.conditions||[])cosmicDetails.set(item.node_id,item);}
+      }catch(dossierError){console.warn("Optional cosmic dossier unavailable",dossierError);}
       const hash=decodeURIComponent(location.hash.slice(1));
       if(nodes.has(hash)){
         const n=nodes.get(hash);
@@ -469,7 +556,7 @@
       }
       rotation();render();
       window.__chronologyPOC={
-        ready:true,sourceCount:json.sources.length,researchEvents:json.events.length,
+        ready:true,sourceCount:json.sources.length,researchEvents:json.events.length,cosmicDossiers:cosmicDetails.size,
         totalNodes:nodes.size,rootSpokes:getChildren("root").length,
         earthSpokes:getChildren("cos-earth").length,culturalSpokes:getChildren("earth-post").length,
         state:()=>({focus,selected,preview,rotation:rotation()}),

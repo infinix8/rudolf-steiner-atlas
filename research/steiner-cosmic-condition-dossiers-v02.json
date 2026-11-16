@@ -1,0 +1,659 @@
+{
+  "metadata": {
+    "version": "0.2",
+    "created": "2026-11-16",
+    "title": "Seven cosmic condition dossiers: development, consciousness, agencies and transitions",
+    "source_method": "Checked English original source passages in GA 13 chapters IV and VI, GA 11 chapter XIII, GA 104 tenth lecture; passage cues accompany every claim. Not a full corpus or German-language audit.",
+    "notice": "Steiner's spiritual-cosmological claims and future projections, not empirically validated science or history.",
+    "event_index": "steiner-hierarchical-chronology-events-v02.json",
+    "node_count": 7
+  },
+  "source_register": [
+    {
+      "id": "S01",
+      "citation_name": "GA 13, Occult Science — An Outline, chapter IV, \"The Evolution of the Cosmos and Man.\"",
+      "url": "https://rsarchive.org/Books/GA013/English/RSP1969/GA013_c04.html",
+      "is_primary": true,
+      "notes": "Authored book, foundational planetary sequence, hierarchy roles, early Earth, Lemuria, Atlantis, Golgotha."
+    },
+    {
+      "id": "S02",
+      "citation_name": "GA 13, chapter VI, \"Present and Future Evolution of the World and of Mankind.\"",
+      "url": "https://rsarchive.org/Books/GA013/English/RSP1969/GA013_c06.html",
+      "is_primary": true,
+      "notes": "Authored book, future cultural periods, Moon and Sun reunification, Jupiter/Venus/Vulcan."
+    },
+    {
+      "id": "S10",
+      "citation_name": "GA 11, chapter XIII, \"The Earth and Its Future.\"",
+      "url": "https://rsarchive.org/Books/GA011/English/RSPI1959/GA011_c13.html",
+      "is_primary": true,
+      "notes": "Authored essay."
+    },
+    {
+      "id": "S12",
+      "citation_name": "GA 104, lecture 10, 27 June 1908.",
+      "url": "https://rsarchive.org/Lectures/GA104/English/SOL/19080627p01.html",
+      "is_primary": true,
+      "notes": "Nested sevenfold chronology and seven cultural periods."
+    }
+  ],
+  "conditions": [
+    {
+      "node_id": "cos-saturn",
+      "label": "Old Saturn",
+      "position": "1 of 7 — first planetary embodiment",
+      "status": "past",
+      "summary": "An original warmth condition in Steiner's account, establishing the first physical-body germ while the hierarchies themselves undergo development. It is neither the astronomical planet Saturn nor a modern material body.",
+      "consciousness": "Dim, trance-like consciousness, compared to the consciousness of minerals; not a waking human self.",
+      "human_organization": "Physical-body germ, without the separately incorporated human etheric, astral or I organizations. A Spirit-Man germ is mentioned, but not a completed higher human faculty.",
+      "elements": "Warmth rather than current gas, water or solid mineral matter; Steiner separates a 'physical body' governed by physical laws from a contemporary mineralized body.",
+      "agencies": [
+        "Spirits of Will / Thrones: primal outpouring and later shaping",
+        "Spirits of Wisdom: reflected life, not a fully independent human life-body",
+        "Spirits of Movement and Spirits of Form: reflected feeling and differentiated forms",
+        "Spirits of Personality / Archai: their 'human' phase",
+        "Fire Spirits / Archangels and Seraphim: first sense-organ germs and assisting consciousness"
+      ],
+      "milestones": [
+        {
+          "heading": "The physical germ is not current flesh",
+          "finding": "Steiner distinguishes the warmth-based physical body from the mineralized human organism of the Earth.",
+          "pointers": [
+            {
+              "source_id": "S01",
+              "passage_cue": "GA 13 IV §§16, 20–21"
+            }
+          ]
+        },
+        {
+          "heading": "Higher beings work together",
+          "finding": "Reflections of life, feeling and outward personality appear through several cooperating ranks; the activities are not exclusive to one epoch.",
+          "pointers": [
+            {
+              "source_id": "S01",
+              "passage_cue": "GA 13 IV §§21–22, 29"
+            }
+          ]
+        },
+        {
+          "heading": "The first sensory germs",
+          "finding": "The Fire Spirits are associated with first sense-organ archetypes, in conjunction with Seraphim; these are not fully formed organs.",
+          "pointers": [
+            {
+              "source_id": "S01",
+              "passage_cue": "GA 13 IV §23"
+            }
+          ]
+        },
+        {
+          "heading": "Time becomes manifest",
+          "finding": "In Steiner's distinction, 'Duration' precedes manifest Time; language of earlier-before is analogical.",
+          "pointers": [
+            {
+              "source_id": "S01",
+              "passage_cue": "GA 13 IV §27"
+            }
+          ]
+        },
+        {
+          "heading": "Germ of Spirit-Man",
+          "finding": "A very early Spirit-Man seed is connected to Saturn, not the achieved future transformation by the I.",
+          "pointers": [
+            {
+              "source_id": "S01",
+              "passage_cue": "GA 13 IV §25"
+            }
+          ]
+        },
+        {
+          "heading": "Preservation through world-rest",
+          "finding": "The Saturn seed is dissolved as manifestation yet carried forward and reworked after cosmic rest.",
+          "pointers": [
+            {
+              "source_id": "S01",
+              "passage_cue": "GA 13 IV §§29–30"
+            }
+          ]
+        }
+      ],
+      "relationships": [
+        "CH-25.01",
+        "CH-2.01",
+        "CH-2.08",
+        "CH-3.01"
+      ],
+      "cautions": [
+        "Do not identify Old Saturn with the current astronomical body.",
+        "A 'physical' germ does not mean tissue, chemistry or a fully formed skeleton.",
+        "Hierarchy roles overlap; avoid a single exclusive creator per organ."
+      ],
+      "priority_sources": [
+        "S01",
+        "S12"
+      ]
+    },
+    {
+      "node_id": "cos-sun",
+      "label": "Old Sun",
+      "position": "2 of 7 — second planetary embodiment",
+      "status": "past",
+      "summary": "The previous physical germ is recapitulated and permeated by an etheric or life-body; warmth condenses toward a gas-like element, and the outward conditions of light and plant-like activity appear.",
+      "consciousness": "Consciousness analogous to dreamless sleep or the contemporary plant state, not ordinary self-consciousness.",
+      "human_organization": "Physical body advances to a second stage; the etheric life-body first becomes an enduring independent principle. Later germinal sensory and glandular differentiation is described.",
+      "elements": "Warmth and air/gas, with the emergence of light; not the physical solar body familiar from astronomy.",
+      "agencies": [
+        "Spirits of Wisdom / Kyriotetes: pouring forth the life-body",
+        "Spirits of Movement: motions within the living organization",
+        "Spirits of Form: stabilization of forms",
+        "Spirits of Personality and Seraphim: etheric activity and beginnings of reproduction",
+        "Fire Spirits / Archangels: work on inherited Saturn basis and sensory germs",
+        "Sons of Life / Angels and Cherubim: later life processes"
+      ],
+      "milestones": [
+        {
+          "heading": "Not a fresh creation from nothing",
+          "finding": "Sun begins with a transformed repetition of Old Saturn and continues its acquired potential.",
+          "pointers": [
+            {
+              "source_id": "S01",
+              "passage_cue": "GA 13 IV §§30–31"
+            }
+          ]
+        },
+        {
+          "heading": "A differentiated life-body",
+          "finding": "Wisdom beings endow the germ with etheric life; physical and life-body are described as differentiating while remaining interpenetrated.",
+          "pointers": [
+            {
+              "source_id": "S01",
+              "passage_cue": "GA 13 IV §§31–32"
+            }
+          ]
+        },
+        {
+          "heading": "From warmth toward gas",
+          "finding": "Sun is described through air/gaseous structures and plant-like flowing rather than today's plants.",
+          "pointers": [
+            {
+              "source_id": "S01",
+              "passage_cue": "GA 13 IV §§32–33"
+            }
+          ]
+        },
+        {
+          "heading": "Different roles in sense and glandular origins",
+          "finding": "The Archangels affect sense-organ precursors; the Spirits of Personality in union with Seraphim are linked to glandular beginnings.",
+          "pointers": [
+            {
+              "source_id": "S01",
+              "passage_cue": "GA 13 IV §§35–36"
+            }
+          ]
+        },
+        {
+          "heading": "A new Saturn-like sphere",
+          "finding": "Steiner relates lagging Personality spirits to a separated secondary heavenly body; this is a stage-specific esoteric account.",
+          "pointers": [
+            {
+              "source_id": "S01",
+              "passage_cue": "GA 13 IV §35"
+            }
+          ]
+        },
+        {
+          "heading": "World-rest follows Sun",
+          "finding": "The results are carried through a rest before the Old Moon metamorphosis.",
+          "pointers": [
+            {
+              "source_id": "S01",
+              "passage_cue": "GA 13 IV §§38–39"
+            }
+          ]
+        }
+      ],
+      "relationships": [
+        "CH-25.02",
+        "CH-3.02",
+        "CH-3.07",
+        "CH-4.01"
+      ],
+      "cautions": [
+        "Do not treat etheric as a confirmed scientific or medical substance.",
+        "The source refers to precursors of glandular organs rather than present-day glands already functioning."
+      ],
+      "priority_sources": [
+        "S01",
+        "S12"
+      ]
+    },
+    {
+      "node_id": "cos-moon",
+      "label": "Old Moon",
+      "position": "3 of 7 — third planetary embodiment",
+      "status": "past",
+      "summary": "The already formed physical and etheric organizations undergo a further metamorphosis through the incorporation of the astral body, giving the human ancestor feeling and picture consciousness.",
+      "consciousness": "Dreamlike imaginative/picture consciousness, associated with the environment rather than waking objective cognition.",
+      "human_organization": "Astral organization is added; sentient and intellectual soul beginnings are described as seeds rather than complete terrestrial faculties.",
+      "elements": "Warmth and gas plus a liquid/water-like element; not yet the contemporary solid mineral form.",
+      "agencies": [
+        "Spirits of Movement: astral incorporation and sensing",
+        "Spirits of Form: emerging wish, craving and stable tendencies",
+        "Spiritual Sun beings: influence on the separated Moon sphere",
+        "Spirits of Wisdom: later wisdom-giving work",
+        "Sons of Life / Angels: their 'human' stage within the Moon account"
+      ],
+      "milestones": [
+        {
+          "heading": "Repetition precedes the new stage",
+          "finding": "Old Moon restages Saturn and Sun conditions in altered form before the astral principle is incorporated.",
+          "pointers": [
+            {
+              "source_id": "S01",
+              "passage_cue": "GA 13 IV §39"
+            }
+          ]
+        },
+        {
+          "heading": "Astral body and impulse",
+          "finding": "Movement produces sentient soul qualities; Form works upon unstable sympathy and antipathy to give rise to primitive desire.",
+          "pointers": [
+            {
+              "source_id": "S01",
+              "passage_cue": "GA 13 IV §§39–40"
+            }
+          ]
+        },
+        {
+          "heading": "Condensation into a watery condition",
+          "finding": "Steiner characterizes the body's three conditions as water-like, gaseous and warmth forms.",
+          "pointers": [
+            {
+              "source_id": "S01",
+              "passage_cue": "GA 13 IV §40"
+            }
+          ]
+        },
+        {
+          "heading": "The Sun–Moon relationship",
+          "finding": "Separation permits differentiated spiritual influence, later alternating relationships and a concluding reunion.",
+          "pointers": [
+            {
+              "source_id": "S01",
+              "passage_cue": "GA 13 IV §§41–50, 55–56"
+            }
+          ]
+        },
+        {
+          "heading": "Picture awareness",
+          "finding": "The Moon's dream-images correspond in Steiner's description to supersensible surroundings, unlike an individual's ordinary modern dream fragments.",
+          "pointers": [
+            {
+              "source_id": "S12",
+              "passage_cue": "GA 104 lecture 10 §§7–8"
+            }
+          ]
+        },
+        {
+          "heading": "Sowing seeds of human soul-members",
+          "finding": "The late Old Moon description connects the Sons of Life to the beginnings of sentient and intellectual soul; the free terrestrial I is still future.",
+          "pointers": [
+            {
+              "source_id": "S01",
+              "passage_cue": "GA 13 IV §§57–58"
+            }
+          ]
+        }
+      ],
+      "relationships": [
+        "CH-25.03",
+        "CH-4.03",
+        "CH-4.08",
+        "CH-5.01"
+      ],
+      "cautions": [
+        "Old Moon must not be conflated with Earth's current satellite.",
+        "The source's plant-mineral/animal-man terms are analogical esoteric classifications, not prehistoric species descriptions."
+      ],
+      "priority_sources": [
+        "S01",
+        "S12"
+      ]
+    },
+    {
+      "node_id": "cos-earth",
+      "label": "Earth",
+      "position": "4 of 7 — present planetary embodiment",
+      "status": "present",
+      "summary": "The previous physical, etheric and astral germinal achievements are recapitulated; the independent human I enters a newly mineralized and sensory world, giving rise to objective awareness and a new moral task.",
+      "consciousness": "Object consciousness and independent self-consciousness: external spatial objects and reflective thinking become salient.",
+      "human_organization": "Physical body in a fourth condition of maturation, etheric in third, astral in second, and I at its beginning; later conscious transformation of these members is the task.",
+      "elements": "The fully developed solid/mineral condition emerges alongside inherited warmth, air and water.",
+      "agencies": [
+        "Spirits of Form / Exusiai: Earth-related conditions of the I in the broader Steiner corpus",
+        "Christ impulse: the transformation of inherited wisdom toward love",
+        "Earlier hierarchies: not replaced; their work remains embedded in the human members"
+      ],
+      "milestones": [
+        {
+          "heading": "The I enters three earlier bodies",
+          "finding": "Steiner explains the transition to Earth by locating an earlier physical, life and astral constitution before the human I began to work within it.",
+          "pointers": [
+            {
+              "source_id": "S01",
+              "passage_cue": "GA 13 IV §§3–6"
+            }
+          ]
+        },
+        {
+          "heading": "Different ages of the four members",
+          "finding": "The physical germ is called oldest; the I is the youngest, rather than the only spiritually significant member.",
+          "pointers": [
+            {
+              "source_id": "S01",
+              "passage_cue": "GA 13 IV §§16–17"
+            }
+          ]
+        },
+        {
+          "heading": "Outer objects and inward thought",
+          "finding": "The terrestrial waking condition differentiates the outward object world from inward concepts, memory and the sense of self.",
+          "pointers": [
+            {
+              "source_id": "S10",
+              "passage_cue": "GA 11 chapter XIII §§1–2"
+            }
+          ]
+        },
+        {
+          "heading": "Earth's wisdom becomes love",
+          "finding": "The inherited wisdom of Saturn, Sun and Moon is to be taken inward through the I and transformed into love.",
+          "pointers": [
+            {
+              "source_id": "S02",
+              "passage_cue": "GA 13 VI concluding discussion of the Cosmos of Wisdom and Cosmos of Love"
+            }
+          ]
+        },
+        {
+          "heading": "Continuity with future Jupiter",
+          "finding": "Earth's acquisitions are carried through a later cosmic interval and participate in the next condition rather than being discarded.",
+          "pointers": [
+            {
+              "source_id": "S02",
+              "passage_cue": "GA 13 VI §§1, 8"
+            }
+          ]
+        },
+        {
+          "heading": "Distinct Earth subepochs",
+          "finding": "Polar, Hyperborean, Lemurian, Atlantean, post-Atlantean and two projected future great epochs belong inside Earth; they are not separate cosmic embodiments.",
+          "pointers": [
+            {
+              "source_id": "S12",
+              "passage_cue": "GA 104 lecture 10 §§12 onward"
+            }
+          ]
+        }
+      ],
+      "relationships": [
+        "CH-25.04",
+        "CH-14.01",
+        "CH-13.07",
+        "CH-27.02"
+      ],
+      "cautions": [
+        "The claim that astral disturbances cause illness is Steiner's speculation, not a medical explanation.",
+        "Do not equate development of the I with ordinary personal egotism.",
+        "Future cultural periods and Earth-wide cosmic stages must remain distinct levels."
+      ],
+      "priority_sources": [
+        "S01",
+        "S02",
+        "S10",
+        "S12"
+      ]
+    },
+    {
+      "node_id": "cos-jupiter",
+      "label": "Future Jupiter",
+      "position": "5 of 7 — projected planetary embodiment",
+      "status": "future",
+      "summary": "Steiner projects a later planetary condition arising through the metamorphosis of Earth after world-rest, integrating its new achievements with what was prepared in Old Moon.",
+      "consciousness": "Self-conscious imaginative or image consciousness: the independent I persists while perceptive images of supersensible reality become accessible.",
+      "human_organization": "Human spiritual capacities are described as transformed; contemporary mineral forms cease as such, with plant-like forces the lowest kingdom in his account.",
+      "elements": "Not the current astronomical Jupiter; the account explicitly rejects a direct projection of today's physical material into that condition.",
+      "agencies": [
+        "Spiritual inheritance of Old Moon and Earth conditions; no exclusive one-to-one creator claimed here",
+        "Human freedom, moral evolution and future assistance to other beings"
+      ],
+      "milestones": [
+        {
+          "heading": "Earth and Old Moon inheritances unite",
+          "finding": "Jupiter is described as future form shaped both by Old Moon preparation and by what human beings accomplish on Earth.",
+          "pointers": [
+            {
+              "source_id": "S02",
+              "passage_cue": "GA 13 VI §1"
+            }
+          ]
+        },
+        {
+          "heading": "Self-conscious image-awareness",
+          "finding": "Steiner distinguishes Jupiter's controlled images from the older Moon's involuntary dream pictures.",
+          "pointers": [
+            {
+              "source_id": "S10",
+              "passage_cue": "GA 11 chapter XIII §§4–5"
+            },
+            {
+              "source_id": "S12",
+              "passage_cue": "GA 104 lecture 10 §9"
+            }
+          ]
+        },
+        {
+          "heading": "Recapitulation before the new stage",
+          "finding": "GA 11 says the prior conditions are repeated before specifically Jupiter consciousness becomes established.",
+          "pointers": [
+            {
+              "source_id": "S10",
+              "passage_cue": "GA 11 chapter XIII §7"
+            }
+          ]
+        },
+        {
+          "heading": "Transformation of kingdoms",
+          "finding": "Steiner predicts the end of a separately existing mineral kingdom, with a different plant-like kingdom lowest.",
+          "pointers": [
+            {
+              "source_id": "S02",
+              "passage_cue": "GA 13 VI §8"
+            }
+          ]
+        },
+        {
+          "heading": "Spiritual responsibility",
+          "finding": "The account explicitly makes the development and help of other, less advanced humanity part of the new condition.",
+          "pointers": [
+            {
+              "source_id": "S02",
+              "passage_cue": "GA 13 VI §8"
+            }
+          ]
+        }
+      ],
+      "relationships": [
+        "CH-21.01",
+        "CH-21.02",
+        "CH-21.04",
+        "CH-25.05"
+      ],
+      "cautions": [
+        "No numerical date or measured duration is given for Future Jupiter.",
+        "The source's moral grouping is not valid for judging contemporary communities or individuals."
+      ],
+      "priority_sources": [
+        "S02",
+        "S10",
+        "S12"
+      ]
+    },
+    {
+      "node_id": "cos-venus",
+      "label": "Future Venus",
+      "position": "6 of 7 — projected planetary embodiment",
+      "status": "future",
+      "summary": "Steiner presents Future Venus as the higher transformation following Jupiter, with additional changes in the kingdoms and a projected consciousness of Inspiration or spiritually creative agency.",
+      "consciousness": "The GA 104 lecture calls Venus consciousness Inspiration; GA 11 also emphasizes a higher self-conscious creative or object-forming relation. These are complementary formulations, but exact equivalence remains a textual comparison task.",
+      "human_organization": "The plant kingdom no longer remains a separate lowest kingdom in GA 13; the source speaks of a changed animal kingdom and differentiated human possibilities.",
+      "elements": "A symbolic name for a future cosmic embodiment, not the physical planet Venus.",
+      "agencies": [
+        "No single hierarchy is exclusively named as Venus's creator in the checked passages",
+        "The human soul and creative spiritual agency have become more directly active"
+      ],
+      "milestones": [
+        {
+          "heading": "Transformation after Jupiter",
+          "finding": "Steiner says the old Sun-related spiritual sphere and Jupiter stage participate in a further Venus metamorphosis.",
+          "pointers": [
+            {
+              "source_id": "S02",
+              "passage_cue": "GA 13 VI §1"
+            }
+          ]
+        },
+        {
+          "heading": "The inspired state",
+          "finding": "GA 104 describes consciousness of Inspiration as awareness of the inward nature of beings, expressed through spiritual tone.",
+          "pointers": [
+            {
+              "source_id": "S12",
+              "passage_cue": "GA 104 lecture 10 §11"
+            }
+          ]
+        },
+        {
+          "heading": "Creative rather than merely receptive knowing",
+          "finding": "GA 11 contrasts Jupiter's conscious image-perception with a subsequent condition in which the soul actively creates.",
+          "pointers": [
+            {
+              "source_id": "S10",
+              "passage_cue": "GA 11 chapter XIII §6"
+            }
+          ]
+        },
+        {
+          "heading": "Altered hierarchy of kingdoms",
+          "finding": "GA 13 says the plant kingdom also ceases to be lowest; the changed animal kingdom takes that role.",
+          "pointers": [
+            {
+              "source_id": "S02",
+              "passage_cue": "GA 13 VI §9"
+            }
+          ]
+        },
+        {
+          "heading": "The 'irreclaimable Moon' motif",
+          "finding": "Steiner predicts a separate sphere for beings resisting development; the text supplies no verifiable astronomical forecast.",
+          "pointers": [
+            {
+              "source_id": "S02",
+              "passage_cue": "GA 13 VI §9"
+            }
+          ]
+        }
+      ],
+      "relationships": [
+        "CH-22.01",
+        "CH-22.03",
+        "CH-22.04",
+        "CH-25.05"
+      ],
+      "cautions": [
+        "The account's 'irreclaimable moon' is a future esoteric motif, not today's Moon.",
+        "The GA 11 and GA 104 descriptions should not be silently blended into a modern science of mind."
+      ],
+      "priority_sources": [
+        "S02",
+        "S10",
+        "S12"
+      ]
+    },
+    {
+      "node_id": "cos-vulcan",
+      "label": "Future Vulcan",
+      "position": "7 of 7 — most remote named planetary embodiment",
+      "status": "future",
+      "summary": "The seventh named planetary condition follows Venus; Steiner describes it as a spiritualized culmination, and places explicit limits on how much its detailed conditions can be stated.",
+      "consciousness": "The GA 104 lecture calls this seventh state Intuition: participation in the being of what is known, without loss of individuality.",
+      "human_organization": "The source does not offer enough detail for a reliable organ-by-organ or anatomical future forecast; future human life is described as profoundly spiritualized.",
+      "elements": "No identification with a present Solar System object or a dated astronomical event.",
+      "agencies": [
+        "No sole agency is securely assigned in the checked passages",
+        "The individual's participation in spiritual reality is central to the described consciousness"
+      ],
+      "milestones": [
+        {
+          "heading": "Correspondence with Old Saturn",
+          "finding": "Steiner compares Vulcan's relation to Saturn with Venus to Sun and Jupiter to Moon.",
+          "pointers": [
+            {
+              "source_id": "S02",
+              "passage_cue": "GA 13 VI §1"
+            }
+          ]
+        },
+        {
+          "heading": "Intuitive consciousness",
+          "finding": "GA 104 describes a state of knowing through inward participation in the beings observed.",
+          "pointers": [
+            {
+              "source_id": "S12",
+              "passage_cue": "GA 104 lecture 10 §11"
+            }
+          ]
+        },
+        {
+          "heading": "Individuality persists",
+          "finding": "The lecture explicitly says that individuality remains during this intimate participation.",
+          "pointers": [
+            {
+              "source_id": "S12",
+              "passage_cue": "GA 104 lecture 10 §11"
+            }
+          ]
+        },
+        {
+          "heading": "Consciously limited account",
+          "finding": "GA 13 explicitly declines to provide a detailed description of life on Vulcan.",
+          "pointers": [
+            {
+              "source_id": "S02",
+              "passage_cue": "GA 13 VI §9"
+            },
+            {
+              "source_id": "S10",
+              "passage_cue": "GA 11 chapter XIII §9"
+            }
+          ]
+        }
+      ],
+      "relationships": [
+        "CH-23.01",
+        "CH-23.02",
+        "CH-23.03",
+        "CH-25.05"
+      ],
+      "cautions": [
+        "No dated sequence of Vulcan organs, nations, or physical geography is justified by these passages.",
+        "Preserve the explicit source limitations rather than inventing seven detailed Vulcan phases."
+      ],
+      "priority_sources": [
+        "S02",
+        "S10",
+        "S12"
+      ]
+    }
+  ]
+}
