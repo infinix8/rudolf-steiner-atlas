@@ -1,6 +1,6 @@
 "use strict";
 (() => {
- const DATA_URL="../research/steiner-hierarchical-chronology-events-v05.json";
+ const DATA_URL="../research/steiner-hierarchical-chronology-events-v06.json";
  const DOSSIER_URL="../research/steiner-cosmic-condition-dossiers-v02.json";
  const NS="http://www.w3.org/2000/svg";
  const $=id=>document.getElementById(id);
