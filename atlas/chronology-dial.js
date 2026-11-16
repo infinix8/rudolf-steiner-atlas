@@ -1,11 +1,11 @@
 "use strict";
 (() => {
-const INDEX_URL="../research/steiner-hierarchical-chronology-events-v03.json";
+const INDEX_URL="../research/steiner-hierarchical-chronology-events-v04.json";
 const DOSSIER_URL="../research/steiner-cosmic-condition-dossiers-v02.json";
 const $=id=>document.getElementById(id);
 const NS="http://www.w3.org/2000/svg";
 const nodes=new Map(),events=new Map(),groups=new Map(),sources=new Map(),dossiers=new Map();
-let index=null,level="root",selected="cos-earth",tab="overview",page=0,searchActive=false,previousFocus=null;
+let index=null,level="root",selected="cos-earth",tab="overview",page=0,searchActive=false,extraRecord=null;
 const stagePositions=[[153,98],[336,190],[522,281],[720,350],[918,281],[1104,190],[1287,98]];
 const symbols=["✦","✧","◌","✧","◉","✧","✦"];
 const palette=[
@@ -61,12 +61,14 @@ function preferred(id){let c=children(id);const names={root:"cos-earth","cos-ear
 function setHash(id){try{history.replaceState(null,"","#"+encodeURIComponent(id));}catch(e){location.hash=encodeURIComponent(id);}}
 function navigate(id,scroll=false){
  if(!nodes.has(id))return;
+ extraRecord=null;
  if(!children(id).length){select(id);return;}
  level=id;selected=preferred(id)||id;page=0;tab="overview";render();setHash(id);
  if(scroll)document.querySelector(".cosmic-scene")?.scrollIntoView({behavior:"smooth",block:"start"});
 }
 function select(id){
  if(!nodes.has(id))return;
+ extraRecord=null;
  const p=n(id).parent;
  if(p&&p!==level){level=p;page=0;}
  const list=children(level),idx=list.findIndex(x=>x.id===id);
@@ -241,6 +243,15 @@ function makeSourceLinks(parent,ids,limit=6,event=null){
 function renderTabs(){
  document.querySelectorAll("[data-tab]").forEach(b=>{const yes=b.dataset.tab===tab;b.setAttribute("aria-selected",String(yes));});
  const panel=$("tab-panel");panel.replaceChildren();
+ if(extraRecord){
+   const e=extraRecord;
+   panel.setAttribute("aria-labelledby","tab-"+tab);
+   textTo(panel,"div","label",e.id);
+   textTo(panel,"h2",null,e.title);
+   textTo(panel,"p",null,e.description);
+   makeSourceLinks(panel,e.source_ids,6,e);
+   return;
+ }
  const item=selectedRecord();if(!item)return;
  panel.setAttribute("aria-labelledby","tab-"+tab);
  const d=dossiers.get(item.id),ev=events.get(item.id);
@@ -353,10 +364,10 @@ function renderSearch(){
  const q=$("search-input").value.trim().toLowerCase(),target=$("search-results");target.replaceChildren();
  if(q.length<2){textTo(target,"p",null,"Search cosmic stages, Earth epochs, cultural periods and individual research entries.");return;}
  const matches=[...nodes.values()].filter(x=>x.id!=="root"&&(x.label+" "+x.summary+" "+x.id).toLowerCase().includes(q)).slice(0,18);
- if(!matches.length){textTo(target,"p",null,"No matches. Try a broader term.");return;}
+ const crossEra=index.events.filter(e=>!nodes.has(e.id)&&(e.title+" "+e.description+" "+e.id).toLowerCase().includes(q)).slice(0,8);
+ if(!matches.length&&!crossEra.length){textTo(target,"p",null,"No matches. Try a broader term.");return;}
  matches.forEach(x=>{
   const b=btn("",()=>{
-   const anc=pathTo(x.id);
    if(children(x.id).length&&x.kind!=="event"){if(x.parent&&x.parent!=="root")navigate(x.parent);else navigate("root");select(x.id);}
    else{const parent=x.parent||"root";navigate(parent);select(x.id);}
    searchClose();document.querySelector(".research-card").scrollIntoView({behavior:"smooth",block:"center"});
@@ -365,6 +376,18 @@ function renderSearch(){
   textTo(b,"small",null,(x.kind==="event"?"Research event":x.kind==="epoch"?"Earth epoch":x.kind==="culture"?"Cultural period":"Cosmic condition")+" · "+x.id);
   target.appendChild(b);
  });
+ crossEra.forEach(e=>{
+  const result=btn("",()=>{openCrossEraRecord(e);searchClose();},"search-result");
+  textTo(result,"strong",null,e.title);
+  textTo(result,"small",null,"Cross-era research · "+e.id);
+  target.appendChild(result);
+ });
+}
+function openCrossEraRecord(e){
+ extraRecord=e;
+ setHash(e.id);
+ renderTabs();
+ $("tab-panel").scrollIntoView({behavior:"smooth",block:"center"});
 }
 function showCrossEra(){
  const sections=["CH-1","CH-5","CH-17","CH-20","CH-24","CH-25","CH-26","CH-27"];
@@ -372,7 +395,7 @@ function showCrossEra(){
  $("events-title").textContent="Cross-era and recurring developments";
  const found=index.events.filter(x=>sections.includes(x.parent_id));$("events-count").textContent=found.length+" records across eras";
  found.forEach(e=>{
-   const b=btn("",()=>{previousFocus={level,selected};const old=selected;let p=html("div");$("tab-panel").replaceChildren();$("tab-panel").appendChild(p);textTo(p,"div","label",e.id);textTo(p,"h2",null,e.title);textTo(p,"p",null,e.description);makeSourceLinks(p,e.source_ids,6,e);$("tab-panel").scrollIntoView({behavior:"smooth",block:"center"});},"event-card");
+   const b=btn("",()=>openCrossEraRecord(e),"event-card");
    textTo(b,"span","event-ref",e.id);
    textTo(b,"strong",null,e.title);textTo(b,"small",null,groups.get(e.parent_id)?.title||"Cross-era");
    container.appendChild(b);
@@ -402,7 +425,11 @@ function attach(){
  });
  window.addEventListener("hashchange",()=>{
   let id=decodeURIComponent(location.hash.slice(1));
-  if(!nodes.has(id))return;
+  if(!nodes.has(id)){
+   const record=events.get(id);
+   if(record)openCrossEraRecord(record);
+   return;
+  }
   if(children(id).length)navigate(id);else{navigate(n(id).parent||"root");select(id);}
  });
 }
@@ -419,7 +446,7 @@ async function init(){
    if(children(id).length){level=id;selected=preferred(id);}
    else{level=n(id).parent||"root";selected=id;}
    let idx=children(level).findIndex(x=>x.id===selected);page=Math.max(0,Math.floor(idx/7));
-  }
+  }else{extraRecord=events.get(id)||null;}
   render();
   window.__arcPoc={ready:true,entryCount:data.events.length,dossierCount:dossiers.size,rootStages:children("root").length,earthEpochs:children("cos-earth").length,culturalPeriods:children("earth-post").length,state:()=>({level,selected,tab,page}),navigate,select};
  }catch(err){

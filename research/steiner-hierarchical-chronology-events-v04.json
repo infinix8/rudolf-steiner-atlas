@@ -6,12 +6,12 @@
     "source_blob_sha": "6ed47e5a2c854e8f119cb73722c77a142abad982",
     "status": "targeted_primary_passage_audit_in_progress",
     "notice": "Events are source-attributed Steiner claims, predictions, or editorial syntheses, not empirical scientific or historical facts. Evidence P indicates a pertinent excerpt checked, not exhaustive lecture review.",
-    "entry_count": 299,
-    "source_count": 53,
+    "entry_count": 330,
+    "source_count": 57,
     "citation_caveat": "The November 4 1919 Ahrimanic-incarnation lecture is catalogued as GA 193; a legacy anthology link may include GA191 in its path.",
     "updated": "2026-11-16",
     "cosmic_dossier_file": "research/steiner-cosmic-condition-dossiers-v02.json",
-    "prior_version_note": "Retains all 282 v0.3 events and adds 17 entries.",
+    "prior_version_note": "Retains all 282 v0.3 events and adds 48 entries.",
     "detailed_research_markdown": "docs/STEINER_CHRONOLOGY_RESEARCH_CONCORDANCE.md",
     "version": "0.4",
     "original_v01_file": "research/steiner-hierarchical-chronology-events-v01.json",
@@ -4806,6 +4806,11 @@
           "finding_id": "CP26",
           "source_id": "S40",
           "citation": "GA 104a · Ninth Lecture (Oslo) · §§ 1–6"
+        },
+        {
+          "finding_id": "NX26",
+          "source_id": "S40",
+          "citation": "GA 104a · Ninth Lecture (Oslo) · §§ 6"
         }
       ]
     },
@@ -5032,6 +5037,11 @@
           "finding_id": "CP40",
           "source_id": "S44",
           "citation": "GA 104 · Ninth Lecture · §§ 6–7"
+        },
+        {
+          "finding_id": "NX18",
+          "source_id": "S44",
+          "citation": "GA 104 · Ninth Lecture · §§ 6–8"
         }
       ]
     },
@@ -5151,6 +5161,11 @@
       "audited_passages": [
         {
           "finding_id": "CP45",
+          "source_id": "S44",
+          "citation": "GA 104 · Ninth Lecture · §§ 20–22"
+        },
+        {
+          "finding_id": "NX19",
           "source_id": "S44",
           "citation": "GA 104 · Ninth Lecture · §§ 20–22"
         }
@@ -5798,6 +5813,719 @@
           "citation": "GA 346 · Twelfth Lecture · §§ 27–30"
         }
       ]
+    },
+    {
+      "id": "NX20",
+      "parent_id": "CH-5",
+      "title": "The seven Earth life conditions and their distinct kingdoms",
+      "description": "The lecture names three elemental conditions followed by mineral, plant, animal, and human life conditions. It distinguishes humanity's esoteric mineral condition from ordinary biological classification, and warns against applying these Earth names to the analogous Saturn and Sun conditions.",
+      "section": "B",
+      "time_scale": "earth_epoch",
+      "chronology_status": "present_or_within_present_epoch",
+      "evidence_flags": [
+        "P",
+        "X"
+      ],
+      "source_ids": [
+        "S12"
+      ],
+      "audited_passages": [
+        {
+          "finding_id": "NX20",
+          "source_id": "S12",
+          "citation": "GA 104 · Tenth Lecture · §§ 12–15"
+        }
+      ]
+    },
+    {
+      "id": "NX21",
+      "parent_id": "CH-5",
+      "title": "Physical form is the middle of seven forms within a life condition",
+      "description": "The form sequence descends through higher Devachan, lower Devachan and astral to physical. It then ascends through transformed astral, lower and higher Devachan. The mineral life condition extends through those forms. The German clarifies that three completed states in §25 are life conditions, each with seven forms.",
+      "section": "B",
+      "time_scale": "earth_epoch",
+      "chronology_status": "present_or_within_present_epoch",
+      "evidence_flags": [
+        "P"
+      ],
+      "source_ids": [
+        "S12"
+      ],
+      "audited_passages": [
+        {
+          "finding_id": "NX21",
+          "source_id": "S12",
+          "citation": "GA 104 · Tenth Lecture · §§ 22–25"
+        }
+      ]
+    },
+    {
+      "id": "NX22",
+      "parent_id": "CH-2",
+      "title": "Representative life on Old Saturn",
+      "description": "Steiner answers how Old Saturn could include life conditions before the human etheric body. He attributes the representative life to the activity of higher beings who permeate the human rudiment with their own members, while the human germ lacks independent life.",
+      "section": "B",
+      "time_scale": "earth_epoch",
+      "chronology_status": "present_or_within_present_epoch",
+      "evidence_flags": [
+        "P"
+      ],
+      "source_ids": [
+        "S12"
+      ],
+      "audited_passages": [
+        {
+          "finding_id": "NX22",
+          "source_id": "S12",
+          "citation": "GA 104 · Tenth Lecture · §§ 24"
+        }
+      ]
+    },
+    {
+      "id": "NX23",
+      "parent_id": "CH-20",
+      "title": "Planetary intervals and successive forms",
+      "description": "Steiner describes spiritual intervals between planetary embodiments. The globes in this diagram are successive forms of an evolving sphere. He describes astral Earth in connection with the bowls of wrath and qualifies the diagram as conceptual scaffolding.",
+      "section": "E",
+      "time_scale": "earth_epoch",
+      "chronology_status": "future",
+      "evidence_flags": [
+        "P"
+      ],
+      "source_ids": [
+        "S12"
+      ],
+      "audited_passages": [
+        {
+          "finding_id": "NX23",
+          "source_id": "S12",
+          "citation": "GA 104 · Tenth Lecture · §§ 26–29"
+        }
+      ]
+    },
+    {
+      "id": "NX24",
+      "parent_id": "CH-5",
+      "title": "Five levels in the numerical schematic",
+      "description": "GA 104 adds two depths beneath the form level: great epoch and smaller period. It explicitly illustrates this with physical Earth, the seals and trumpets, and the seven post-Atlantean cultural periods. The numerical total 16,807 describes the idealized full five-depth scheme, with far fewer intervals individually described in this lecture.",
+      "section": "B",
+      "time_scale": "earth_epoch",
+      "chronology_status": "present_or_within_present_epoch",
+      "evidence_flags": [
+        "P"
+      ],
+      "source_ids": [
+        "S12"
+      ],
+      "audited_passages": [
+        {
+          "finding_id": "NX24",
+          "source_id": "S12",
+          "citation": "GA 104 · Tenth Lecture · §§ 30–33"
+        }
+      ]
+    },
+    {
+      "id": "NX25",
+      "parent_id": "CH-9",
+      "title": "Four early heads, three later heads and ten horns",
+      "description": "Steiner connects the first four Atlantean phases to group-soul images and the crossing into the fifth to emerging individuality. His account locates conscious perception of sexual difference at an Atlantean threshold and uses the head-and-horn imagery again for projected astral Earth.",
+      "section": "C",
+      "time_scale": "earth_epoch",
+      "chronology_status": "past_or_broad",
+      "evidence_flags": [
+        "P",
+        "X"
+      ],
+      "source_ids": [
+        "S12"
+      ],
+      "audited_passages": [
+        {
+          "finding_id": "NX25",
+          "source_id": "S12",
+          "citation": "GA 104 · Tenth Lecture · §§ 34–41"
+        }
+      ],
+      "organ_ids": [
+        "organ-reproductive"
+      ]
+    },
+    {
+      "id": "NX27",
+      "parent_id": "CH-19",
+      "title": "Post-trumpet branches and Mammon in the lower astral world",
+      "description": "Steiner distinguishes higher astral and eventual Devachanic development from a lower astral branch. He names Mammon as a spirit of obstacles and places reunion with the Sun after the trumpet period for those capable of it.",
+      "section": "E",
+      "time_scale": "earth_epoch",
+      "chronology_status": "future",
+      "evidence_flags": [
+        "P"
+      ],
+      "source_ids": [
+        "S54"
+      ],
+      "audited_passages": [
+        {
+          "finding_id": "NX27",
+          "source_id": "S54",
+          "citation": "GA 104a · Eleventh Lecture (Oslo) · §§ 1–2"
+        }
+      ]
+    },
+    {
+      "id": "NX28",
+      "parent_id": "CH-8",
+      "title": "Luciferic benefits, costs and later redemption",
+      "description": "Steiner associates the Lemurian intervention with deeper material involvement and the possibility of human independence. The beings act through the astral body and experience aspects of development there that they missed earlier. He projects later human participation in their redemption.",
+      "section": "C",
+      "time_scale": "earth_epoch",
+      "chronology_status": "past_or_broad",
+      "evidence_flags": [
+        "P"
+      ],
+      "source_ids": [
+        "S54"
+      ],
+      "audited_passages": [
+        {
+          "finding_id": "NX28",
+          "source_id": "S54",
+          "citation": "GA 104a · Eleventh Lecture (Oslo) · §§ 3–7"
+        }
+      ]
+    },
+    {
+      "id": "NX29",
+      "parent_id": "CH-19",
+      "title": "Opposing figures and a renewed act of assistance",
+      "description": "Steiner distinguishes left-behind Luciferic spirits, humans whom he treats as having remained behind without conscious choice, and those he depicts as deliberately turning spiritual powers toward selfish aims. He projects a return of spiritually developed humans from union with the Sun to assist the second group.",
+      "section": "E",
+      "time_scale": "earth_epoch",
+      "chronology_status": "future",
+      "evidence_flags": [
+        "P",
+        "X"
+      ],
+      "source_ids": [
+        "S54"
+      ],
+      "audited_passages": [
+        {
+          "finding_id": "NX29",
+          "source_id": "S54",
+          "citation": "GA 104a · Eleventh Lecture (Oslo) · §§ 7–9"
+        }
+      ]
+    },
+    {
+      "id": "NX30",
+      "parent_id": "CH-19",
+      "title": "Jupiter-Earth, Venus-Earth and Vulcan-Earth are anticipations within Earth",
+      "description": "In this lecture Steiner says Earth's rounds look back to Saturn, Sun and Moon and anticipate later planetary conditions. He places renewed opportunities for assistance on Jupiter-Earth, a last opportunity on Venus-Earth, and its closing by Vulcan-Earth. The German explicitly says the anticipations occur within the actual Earth condition.",
+      "section": "E",
+      "time_scale": "earth_epoch",
+      "chronology_status": "future",
+      "evidence_flags": [
+        "P"
+      ],
+      "source_ids": [
+        "S54"
+      ],
+      "audited_passages": [
+        {
+          "finding_id": "NX30",
+          "source_id": "S54",
+          "citation": "GA 104a · Eleventh Lecture (Oslo) · §§ 10–12, 14–15"
+        }
+      ]
+    },
+    {
+      "id": "NX31",
+      "parent_id": "CH-19",
+      "title": "Art, Babylon and the future New Jerusalem",
+      "description": "The text places the casting away of evil in a Venus-Earth setting and calls this the Fall of Babylon. It also treats present human artistic work as formative for a future New Jerusalem and mentions a Jupiter existence. The boundaries of that final reference remain open.",
+      "section": "E",
+      "time_scale": "earth_epoch",
+      "chronology_status": "future",
+      "evidence_flags": [
+        "P"
+      ],
+      "source_ids": [
+        "S54"
+      ],
+      "audited_passages": [
+        {
+          "finding_id": "NX31",
+          "source_id": "S54",
+          "citation": "GA 104a · Eleventh Lecture (Oslo) · §§ 15–16"
+        }
+      ]
+    },
+    {
+      "id": "NX32",
+      "parent_id": "CH-9",
+      "title": "Etheric head enters and gradually supports I-development",
+      "description": "The lecture ties late Atlantean preparation to a changing relation of etheric and physical head and distinguishes that development from Golgotha's more significant impulse. German Hereinrücken indicates an inward movement where SOL English says emergence. The source's analogy involving hydrocephalus has no standing as modern medicine.",
+      "section": "C",
+      "time_scale": "earth_epoch",
+      "chronology_status": "past_or_broad",
+      "evidence_flags": [
+        "P",
+        "X"
+      ],
+      "source_ids": [
+        "S55"
+      ],
+      "audited_passages": [
+        {
+          "finding_id": "NX32",
+          "source_id": "S55",
+          "citation": "GA 104a · Twelfth Lecture (Oslo) · §§ 2–5"
+        }
+      ],
+      "organ_ids": [
+        "organ-brain"
+      ]
+    },
+    {
+      "id": "NX33",
+      "parent_id": "CH-25",
+      "title": "Preparatory transformation and the higher members",
+      "description": "Steiner describes transformation of astral, etheric and physical bodies into Spirit Self, Life Spirit and Spirit Man. He distinguishes preparatory work through higher beings and initially unconscious work from subsequent conscious activity. The same passage links earlier transformations with the three soul members.",
+      "section": "G",
+      "time_scale": "earth_epoch",
+      "chronology_status": "present_or_within_present_epoch",
+      "evidence_flags": [
+        "P"
+      ],
+      "source_ids": [
+        "S55"
+      ],
+      "audited_passages": [
+        {
+          "finding_id": "NX33",
+          "source_id": "S55",
+          "citation": "GA 104a · Twelfth Lecture (Oslo) · §§ 3–6"
+        }
+      ]
+    },
+    {
+      "id": "NX34",
+      "parent_id": "CH-15",
+      "title": "Six cultural emphases and preparation for Philadelphia",
+      "description": "The sequence gives etheric body, astral body, sentient soul, intellectual soul, consciousness soul and Spirit Self as successive organizations permeated by the I. The Philadelphia passage associates Spirit Self and etheric Christ recognition. It does not name a seventh member in this sequence.",
+      "section": "D",
+      "time_scale": "cultural_period",
+      "chronology_status": "future",
+      "evidence_flags": [
+        "P"
+      ],
+      "source_ids": [
+        "S55"
+      ],
+      "audited_passages": [
+        {
+          "finding_id": "NX34",
+          "source_id": "S55",
+          "citation": "GA 104a · Twelfth Lecture (Oslo) · §§ 5–7, 11–13"
+        }
+      ]
+    },
+    {
+      "id": "NX35",
+      "parent_id": "CH-18",
+      "title": "How Philadelphia prepares the sixth-seal community",
+      "description": "Steiner connects the fourth to sixth seal periods with development of the three soul forces and preparation for Manas. He derives the 144,000 symbol through numerical interpretation and links a community prepared during Philadelphia with the sixth seal.",
+      "section": "E",
+      "time_scale": "earth_epoch",
+      "chronology_status": "future",
+      "evidence_flags": [
+        "P"
+      ],
+      "source_ids": [
+        "S55"
+      ],
+      "audited_passages": [
+        {
+          "finding_id": "NX35",
+          "source_id": "S55",
+          "citation": "GA 104a · Twelfth Lecture (Oslo) · §§ 8–10"
+        }
+      ]
+    },
+    {
+      "id": "NX36",
+      "parent_id": "CH-19",
+      "title": "Babylon, the Venus-Earth count and the eighth sphere",
+      "description": "Steiner juxtaposes the sixth seal and a sixth condition at a different scale. He attributes a separation to an eighth sphere to the Venus-Earth setting and invokes the two witnesses in a future act of assistance. The work uses a different predicate for Babylon here than the previous lecture, and gives no modern absolute date.",
+      "section": "E",
+      "time_scale": "earth_epoch",
+      "chronology_status": "future",
+      "evidence_flags": [
+        "P"
+      ],
+      "source_ids": [
+        "S55"
+      ],
+      "audited_passages": [
+        {
+          "finding_id": "NX36",
+          "source_id": "S55",
+          "citation": "GA 104a · Twelfth Lecture (Oslo) · §§ 14–17"
+        }
+      ]
+    },
+    {
+      "id": "NX37",
+      "parent_id": "CH-20",
+      "title": "Future heart and speech-organ transformations",
+      "description": "Steiner connects future human development with a changed heart function and a projected reproductive capacity of speech. He notes an anatomical feature of heart muscle before making a separate esoteric forecast. The forecast carries no empirical or medical authority.",
+      "section": "E",
+      "time_scale": "earth_epoch",
+      "chronology_status": "future",
+      "evidence_flags": [
+        "P",
+        "X"
+      ],
+      "source_ids": [
+        "S55"
+      ],
+      "audited_passages": [
+        {
+          "finding_id": "NX37",
+          "source_id": "S55",
+          "citation": "GA 104a · Twelfth Lecture (Oslo) · §§ 19, 21–24"
+        }
+      ],
+      "organ_ids": [
+        "organ-heart",
+        "organ-larynx",
+        "organ-reproductive"
+      ]
+    },
+    {
+      "id": "NX38",
+      "parent_id": "CH-27",
+      "title": "Universal cooperation and the occult image of homelessness",
+      "description": "Steiner uses homelessness as a technical term for gaining perspective on attachments to locality or heritage. He envisages a later common human task in which contributions can be made freely. This terminology refers to his initiatory concept.",
+      "section": "G",
+      "time_scale": "earth_epoch",
+      "chronology_status": "present_or_within_present_epoch",
+      "evidence_flags": [
+        "P"
+      ],
+      "source_ids": [
+        "S56"
+      ],
+      "audited_passages": [
+        {
+          "finding_id": "NX38",
+          "source_id": "S56",
+          "citation": "GA 121 · First Lecture · §§ 4–5"
+        }
+      ]
+    },
+    {
+      "id": "NX39",
+      "parent_id": "CH-25",
+      "title": "Preparatory soul activity and later threefold transformation",
+      "description": "GA 121 describes present beginnings of Spirit Self, distinguishes the three preparatory soul members, and links the future work of the I on the astral, etheric and physical bodies to Spirit Self, Life Spirit and Spirit Man respectively.",
+      "section": "G",
+      "time_scale": "earth_epoch",
+      "chronology_status": "present_or_within_present_epoch",
+      "evidence_flags": [
+        "P"
+      ],
+      "source_ids": [
+        "S56"
+      ],
+      "audited_passages": [
+        {
+          "finding_id": "NX39",
+          "source_id": "S56",
+          "citation": "GA 121 · First Lecture · §§ 7–12"
+        }
+      ]
+    },
+    {
+      "id": "NX40",
+      "parent_id": "CH-24",
+      "title": "Archangelic activity and succession of Spirits of the Age",
+      "description": "Steiner distinguishes Angels' human stage on Old Moon from present physical humanity. He attributes transformation toward Life Spirit to Archangels and associates Spirits of Personality with changing eras. In his account they hand over offices and return after other spirits have held them.",
+      "section": "G",
+      "time_scale": "earth_epoch",
+      "chronology_status": "present_or_within_present_epoch",
+      "evidence_flags": [
+        "P"
+      ],
+      "source_ids": [
+        "S56"
+      ],
+      "audited_passages": [
+        {
+          "finding_id": "NX40",
+          "source_id": "S56",
+          "citation": "GA 121 · First Lecture · §§ 12, 14–19"
+        }
+      ]
+    },
+    {
+      "id": "NX41",
+      "parent_id": "CH-13",
+      "title": "Population movements in an etheric account of regions",
+      "description": "Steiner treats regional etheric auras as changing with migration, giving the European Migration Period as an example. He distinguishes the activity he attributes to Archangels from physical terrain and assigns a different temporal pattern to an individual etheric aura. The account's national temperament typology is historically situated and unsupported.",
+      "section": "D",
+      "time_scale": "cultural_period",
+      "chronology_status": "past_or_broad",
+      "evidence_flags": [
+        "P",
+        "X"
+      ],
+      "source_ids": [
+        "S57"
+      ],
+      "audited_passages": [
+        {
+          "finding_id": "NX41",
+          "source_id": "S57",
+          "citation": "GA 121 · Second Lecture · §§ 3–8"
+        }
+      ]
+    },
+    {
+      "id": "NX42",
+      "parent_id": "CH-24",
+      "title": "The speech apparatus and two groups at an archangelic level",
+      "description": "Steiner attributes national temperament to normally developed Archangels and the shaping of the larynx and speech apparatus to cooperation involving Spirits of Form who retained an archangelic mode of activity. He associates another action of Spirits of Form with shaping the brain for saying I. These are attributed esoteric claims about human organs.",
+      "section": "G",
+      "time_scale": "earth_epoch",
+      "chronology_status": "present_or_within_present_epoch",
+      "evidence_flags": [
+        "P",
+        "X"
+      ],
+      "source_ids": [
+        "S57"
+      ],
+      "audited_passages": [
+        {
+          "finding_id": "NX42",
+          "source_id": "S57",
+          "citation": "GA 121 · Second Lecture · §§ 10–15"
+        }
+      ],
+      "organ_ids": [
+        "organ-brain",
+        "organ-larynx"
+      ]
+    },
+    {
+      "id": "NX43",
+      "parent_id": "CH-24",
+      "title": "Outer historical conditions and inward shaping of thought",
+      "description": "GA 121 distinguishes normally developed Spirits of Personality associated with historical circumstances from Spirits of Form retained at another developmental level and associated with shaping thought from within. The lecture presents both influences as potentially concurrent.",
+      "section": "G",
+      "time_scale": "earth_epoch",
+      "chronology_status": "present_or_within_present_epoch",
+      "evidence_flags": [
+        "P"
+      ],
+      "source_ids": [
+        "S57"
+      ],
+      "audited_passages": [
+        {
+          "finding_id": "NX43",
+          "source_id": "S57",
+          "citation": "GA 121 · Second Lecture · §§ 16–20"
+        }
+      ]
+    },
+    {
+      "id": "NX44",
+      "parent_id": "CH-25",
+      "title": "Three modifications of the astral body and degrees of I-awareness",
+      "description": "The lecture treats the three soul members as modifications within the human astral body and relates them to dim, emerging, and clear I-awareness. It associates analogous modifications of Archangels with their etheric bodies. This is a description of organization and experience.",
+      "section": "G",
+      "time_scale": "earth_epoch",
+      "chronology_status": "present_or_within_present_epoch",
+      "evidence_flags": [
+        "P"
+      ],
+      "source_ids": [
+        "S45"
+      ],
+      "audited_passages": [
+        {
+          "finding_id": "NX44",
+          "source_id": "S45",
+          "citation": "GA 121 · Third Lecture · §§ 3–6, 12–17"
+        }
+      ]
+    },
+    {
+      "id": "NX45",
+      "parent_id": "CH-24",
+      "title": "Mediation, differential roles, and retained modes of activity",
+      "description": "Steiner gives Angels a mediating role and distinguishes coordination across several hierarchies from their members' own developmental work. The discussion also assigns racial categories to spiritual influences in a historically situated typology. Its claims about ancestry or national character are unsupported.",
+      "section": "G",
+      "time_scale": "earth_epoch",
+      "chronology_status": "present_or_within_present_epoch",
+      "evidence_flags": [
+        "P",
+        "X"
+      ],
+      "source_ids": [
+        "S45"
+      ],
+      "audited_passages": [
+        {
+          "finding_id": "NX45",
+          "source_id": "S45",
+          "citation": "GA 121 · Third Lecture · §§ 17–20, 22–29"
+        }
+      ]
+    },
+    {
+      "id": "NX46",
+      "parent_id": "CH-6",
+      "title": "Astral germ and the first etheric organization",
+      "description": "GA 11 depicts an astral germ carrying forces from earlier conditions. Astral humans chiefly work from outside on their etheric counterparts, forming organs and awakening etheric life. The chapter names this opening condition Polarean.",
+      "section": "C",
+      "time_scale": "earth_epoch",
+      "chronology_status": "past_or_broad",
+      "evidence_flags": [
+        "P"
+      ],
+      "source_ids": [
+        "S08"
+      ],
+      "audited_passages": [
+        {
+          "finding_id": "NX46",
+          "source_id": "S08",
+          "citation": "GA 11 · IX. Beginning of the Present Earth—Extrusion of the Sun · §§ 1–2"
+        }
+      ]
+    },
+    {
+      "id": "NX47",
+      "parent_id": "CH-7",
+      "title": "Air-like matter, chemical ether, water and light ether",
+      "description": "In GA 11 an air-like condensation leaves the chemical ether alongside the earlier life ether. The air-like condition subsequently differentiates into air-like and watery conditions, and light ether differentiates from chemical ether. Descendants of earlier forms continue alongside newer human-like, animal-like and plant-like organizations.",
+      "section": "C",
+      "time_scale": "earth_epoch",
+      "chronology_status": "past_or_broad",
+      "evidence_flags": [
+        "P",
+        "X"
+      ],
+      "source_ids": [
+        "S08"
+      ],
+      "audited_passages": [
+        {
+          "finding_id": "NX47",
+          "source_id": "S08",
+          "citation": "GA 11 · IX. Beginning of the Present Earth—Extrusion of the Sun · §§ 3–6"
+        }
+      ]
+    },
+    {
+      "id": "NX48",
+      "parent_id": "CH-7",
+      "title": "Watery conditions already appear before solar separation in GA 11",
+      "description": "The essay names water, air and three ethers before narrating the Sun's separation. Greater densification and an internal source of heat follow. GA 13 IV §66 places solar separation before watery incorporation in the narrated sequence, so the two accounts retain separate stage orderings.",
+      "section": "C",
+      "time_scale": "earth_epoch",
+      "chronology_status": "past_or_broad",
+      "evidence_flags": [
+        "P",
+        "X"
+      ],
+      "source_ids": [
+        "S08"
+      ],
+      "audited_passages": [
+        {
+          "finding_id": "NX48",
+          "source_id": "S08",
+          "citation": "GA 11 · IX. Beginning of the Present Earth—Extrusion of the Sun · §§ 5–8"
+        }
+      ]
+    },
+    {
+      "id": "NX49",
+      "parent_id": "CH-8",
+      "title": "Fire-mist enables concurrent embodiment and distinct activity",
+      "description": "GA 11 gives human beings a dim conscious life and externally directed activity within the fire mist. It gives higher beings a shared medium in which their decisions can organize denser conditions. The source describes upward development of human understanding and downward extension of higher beings' activity at the same time.",
+      "section": "C",
+      "time_scale": "earth_epoch",
+      "chronology_status": "past_or_broad",
+      "evidence_flags": [
+        "P"
+      ],
+      "source_ids": [
+        "S09"
+      ],
+      "audited_passages": [
+        {
+          "finding_id": "NX49",
+          "source_id": "S09",
+          "citation": "GA 11 · X. Extrusion of the Moon · §§ 1–3"
+        }
+      ]
+    },
+    {
+      "id": "NX50",
+      "parent_id": "CH-8",
+      "title": "Reproduction and understanding follow two different agencies",
+      "description": "The chapter transfers lunar influence to external regulation of reproduction after the Moon's separation, while describing renewed Luciferic activity in awakening human understanding. It identifies the preceding fire-mist period as an interruption in that Luciferic activity and leaves more precise identifications for later chapters.",
+      "section": "C",
+      "time_scale": "earth_epoch",
+      "chronology_status": "past_or_broad",
+      "evidence_flags": [
+        "P",
+        "X"
+      ],
+      "source_ids": [
+        "S09"
+      ],
+      "audited_passages": [
+        {
+          "finding_id": "NX50",
+          "source_id": "S09",
+          "citation": "GA 11 · X. Extrusion of the Moon · §§ 4–8"
+        }
+      ],
+      "organ_ids": [
+        "organ-reproductive",
+        "organ-brain"
+      ]
+    },
+    {
+      "id": "NX51",
+      "parent_id": "CH-7",
+      "title": "Inherited organization and solar separation in GA 13",
+      "description": "GA 13 distinguishes recapitulation of the three earlier bodies, a spiritual interval, and a new astral descent with physical laws already present. In its material sequence the Sun separates from the fire-air Earth before Earth incorporates water. Sun beings then influence Earth from outside and the text relates this to alternating consciousness.",
+      "section": "C",
+      "time_scale": "earth_epoch",
+      "chronology_status": "past_or_broad",
+      "evidence_flags": [
+        "P",
+        "X"
+      ],
+      "source_ids": [
+        "S01"
+      ],
+      "audited_passages": [
+        {
+          "finding_id": "NX51",
+          "source_id": "S01",
+          "citation": "GA 13 · IV. Man and the Evolution of the World · §§ 61–67"
+        }
+      ]
     }
   ],
   "sources": [
@@ -6169,6 +6897,34 @@
       "id": "S53",
       "citation_name": "GA 346, The Apocalypse and the Priest's Ministry, Twelfth Lecture.",
       "url": "https://rsarchive.org/Lectures/GA346/English/SOL/19240916.html",
+      "is_primary": true,
+      "notes": "SOL English"
+    },
+    {
+      "id": "S54",
+      "citation_name": "GA 104a, From the Pictorial Script of the Apocalypse of John, Eleventh Lecture (Oslo).",
+      "url": "https://rsarchive.org/Lectures/GA104a/English/SOL/19090520p01.html",
+      "is_primary": true,
+      "notes": "SOL English"
+    },
+    {
+      "id": "S55",
+      "citation_name": "GA 104a, From the Pictorial Script of the Apocalypse of John, Twelfth Lecture (Oslo).",
+      "url": "https://rsarchive.org/Lectures/GA104a/English/SOL/19090521p01.html",
+      "is_primary": true,
+      "notes": "SOL English"
+    },
+    {
+      "id": "S56",
+      "citation_name": "GA 121, The Mission of Individual Folk-Souls in their Connection with Germanic-Norse Mythology, First Lecture.",
+      "url": "https://rsarchive.org/Lectures/GA121/English/SOL/19100607p01.html",
+      "is_primary": true,
+      "notes": "SOL English"
+    },
+    {
+      "id": "S57",
+      "citation_name": "GA 121, The Mission of Individual Folk-Souls in their Connection with Germanic-Norse Mythology, Second Lecture.",
+      "url": "https://rsarchive.org/Lectures/GA121/English/SOL/19100608p01.html",
       "is_primary": true,
       "notes": "SOL English"
     }

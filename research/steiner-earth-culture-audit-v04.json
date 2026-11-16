@@ -4,21 +4,21 @@
   "baseline": "research/steiner-hierarchical-chronology-events-v03.json",
   "organ_manifest": "research/organ-current.json",
   "counts": {
-    "sources": 40,
-    "findings": 98,
-    "relations": 132,
-    "german_checked_findings": 13,
-    "english_views": 35,
-    "german_views": 5,
+    "sources": 50,
+    "findings": 132,
+    "relations": 174,
+    "german_checked_findings": 26,
+    "english_views": 40,
+    "german_views": 10,
     "dossiers": 15,
-    "open_comparisons": 11,
-    "total_comparisons": 18,
+    "open_comparisons": 15,
+    "total_comparisons": 24,
     "source_leads": 4,
     "ga_volumes": 13,
     "fully_audited_volumes": 0,
-    "complete_english_views": 1,
-    "new_explorer_entries": 17,
-    "expanded_legacy_entries": 0
+    "complete_english_views": 5,
+    "new_explorer_entries": 48,
+    "expanded_legacy_entries": 3
   },
   "sources": [
     {
@@ -102,8 +102,8 @@
       "url": "https://rsarchive.org/Books/GA011/English/RSPI1959/GA011_c09.html",
       "edition": "1959 English, Karl E. Zimmer",
       "genre": "authored serial essay",
-      "reviewed_scope": "7–9",
-      "review_status": "targeted_english_passage_review"
+      "reviewed_scope": "All 9 numbered paragraphs, §§1–9",
+      "review_status": "complete_english_source_view"
     },
     {
       "id": "g11-10",
@@ -114,8 +114,8 @@
       "url": "https://rsarchive.org/Books/GA011/English/RSPI1959/GA011_c10.html",
       "edition": "1959 English, Karl E. Zimmer",
       "genre": "authored serial essay",
-      "reviewed_scope": "3–6",
-      "review_status": "targeted_english_passage_review"
+      "reviewed_scope": "All 8 numbered paragraphs, §§1–8",
+      "review_status": "complete_english_source_view"
     },
     {
       "id": "13-4",
@@ -126,7 +126,7 @@
       "url": "https://rsarchive.org/Books/GA013/English/RSP1969/GA013_c04.html",
       "edition": "1969 English, George and Mary Adams",
       "genre": "authored book",
-      "reviewed_scope": "69–115",
+      "reviewed_scope": "61–67, 69–115, selections",
       "review_status": "targeted_english_passage_review"
     },
     {
@@ -366,7 +366,7 @@
       "url": "https://rsarchive.org/Lectures/GA121/English/SOL/19100609p01.html",
       "edition": "Steiner Online Library English",
       "genre": "recorded lecture",
-      "reviewed_scope": "17–20, 22–23",
+      "reviewed_scope": "3–6, 12–29, selections",
       "review_status": "targeted_english_passage_review"
     },
     {
@@ -499,6 +499,126 @@
       "edition": "SOL English",
       "genre": "recorded lecture",
       "reviewed_scope": "5–6, 10–16, 21–24, 27–30",
+      "review_status": "targeted_english_passage_review"
+    },
+    {
+      "id": "104-9de",
+      "ga": "104",
+      "work": "Die Apokalypse des Johannes",
+      "section": "Neunter Vortrag",
+      "lecture_date": "1908-06-26",
+      "url": "https://rsarchive.org/Lectures/GA104/Compare_09.php?version=DE",
+      "edition": "German 9th edition comparison",
+      "genre": "recorded lecture",
+      "reviewed_scope": "6–8, 20–22",
+      "review_status": "german_spot_check"
+    },
+    {
+      "id": "104-10",
+      "ga": "104",
+      "work": "The Apocalypse of John",
+      "section": "Tenth Lecture",
+      "lecture_date": "1908-06-27",
+      "url": "https://rsarchive.org/Lectures/GA104/English/SOL/19080627p01.html",
+      "edition": "SOL English",
+      "genre": "recorded lecture",
+      "reviewed_scope": "12–15, 22–33, 34–41",
+      "review_status": "targeted_english_passage_review"
+    },
+    {
+      "id": "104-10de",
+      "ga": "104",
+      "work": "Die Apokalypse des Johannes",
+      "section": "Zehnter Vortrag",
+      "lecture_date": "1908-06-27",
+      "url": "https://rsarchive.org/Lectures/GA104/Compare_10.php?version=DE",
+      "edition": "German 9th edition comparison",
+      "genre": "recorded lecture",
+      "reviewed_scope": "25",
+      "review_status": "german_spot_check"
+    },
+    {
+      "id": "104a-9de",
+      "ga": "104a",
+      "work": "Aus der Bilderschrift der Apokalypse des Johannes",
+      "section": "Neunter Vortrag",
+      "lecture_date": "1909-05-18",
+      "url": "https://rsarchive.org/Lectures/GA104a/German/19090518.html",
+      "edition": "German",
+      "genre": "recorded lecture",
+      "reviewed_scope": "6, including omission marker",
+      "review_status": "german_spot_check"
+    },
+    {
+      "id": "104a-11",
+      "ga": "104a",
+      "work": "From the Pictorial Script of the Apocalypse of John",
+      "section": "Eleventh Lecture (Oslo)",
+      "lecture_date": "1909-05-20",
+      "url": "https://rsarchive.org/Lectures/GA104a/English/SOL/19090520p01.html",
+      "edition": "SOL English",
+      "genre": "recorded lecture",
+      "reviewed_scope": "All 16 numbered positions, §§1–16",
+      "review_status": "complete_english_source_view"
+    },
+    {
+      "id": "104a-11g",
+      "ga": "104a",
+      "work": "Aus der Bilderschrift der Apokalypse des Johannes",
+      "section": "Elfter Vortrag (Oslo)",
+      "lecture_date": "1909-05-20",
+      "url": "https://rsarchive.org/Lectures/GA104a/German/19090520.html",
+      "edition": "German",
+      "genre": "recorded lecture",
+      "reviewed_scope": "10–12",
+      "review_status": "german_spot_check"
+    },
+    {
+      "id": "104a-12",
+      "ga": "104a",
+      "work": "From the Pictorial Script of the Apocalypse of John",
+      "section": "Twelfth Lecture (Oslo)",
+      "lecture_date": "1909-05-21",
+      "url": "https://rsarchive.org/Lectures/GA104a/English/SOL/19090521p01.html",
+      "edition": "SOL English",
+      "genre": "recorded lecture",
+      "reviewed_scope": "All 26 numbered positions, §§1–26",
+      "review_status": "complete_english_source_view"
+    },
+    {
+      "id": "104a-12g",
+      "ga": "104a",
+      "work": "Aus der Bilderschrift der Apokalypse des Johannes",
+      "section": "Zwölfter Vortrag (Oslo)",
+      "lecture_date": "1909-05-21",
+      "url": "https://rsarchive.org/Lectures/GA104a/German/19090521.html",
+      "edition": "German",
+      "genre": "recorded lecture",
+      "reviewed_scope": "2–6, 14–15",
+      "review_status": "german_spot_check"
+    },
+    {
+      "id": "121-1",
+      "ga": "121",
+      "work": "The Mission of Individual Folk-Souls in their Connection with Germanic-Norse Mythology",
+      "section": "First Lecture",
+      "lecture_date": "1910-06-07",
+      "url": "https://rsarchive.org/Lectures/GA121/English/SOL/19100607p01.html",
+      "edition": "SOL English",
+      "genre": "recorded lecture",
+      "reviewed_scope": "4–5, 7–12, 14–19",
+      "review_status": "targeted_english_passage_review"
+    },
+    {
+      "id": "121-2",
+      "ga": "121",
+      "work": "The Mission of Individual Folk-Souls in their Connection with Germanic-Norse Mythology",
+      "section": "Second Lecture",
+      "lecture_date": "1910-06-08",
+      "url": "https://rsarchive.org/Lectures/GA121/English/SOL/19100608p01.html",
+      "edition": "SOL English",
+      "genre": "recorded lecture",
+      "reviewed_scope": "3–8, 10–20",
       "review_status": "targeted_english_passage_review"
     }
   ],
@@ -1221,7 +1341,10 @@
       ],
       "evidence_category": "directly_verified_passage",
       "research_scope": "selected_passage",
-      "explorer_event_id": "CP26"
+      "explorer_event_id": "CP26",
+      "german_crosscheck_source_ids": [
+        "104a-9de"
+      ]
     },
     {
       "id": "CP27",
@@ -1436,7 +1559,10 @@
       "organ_ids": [],
       "evidence_category": "directly_verified_passage",
       "research_scope": "selected_passage",
-      "explorer_event_id": "CP41"
+      "explorer_event_id": "CP41",
+      "german_crosscheck_source_ids": [
+        "104-9de"
+      ]
     },
     {
       "id": "CP42",
@@ -1497,7 +1623,10 @@
       ],
       "evidence_category": "directly_verified_passage",
       "research_scope": "selected_passage",
-      "explorer_event_id": "CP45"
+      "explorer_event_id": "CP45",
+      "german_crosscheck_source_ids": [
+        "104-9de"
+      ]
     },
     {
       "id": "CP46",
@@ -1567,7 +1696,10 @@
       "organ_ids": [],
       "evidence_category": "directly_verified_passage",
       "research_scope": "selected_passage",
-      "explorer_event_id": "CP50"
+      "explorer_event_id": "CP50",
+      "german_crosscheck_source_ids": [
+        "104-9de"
+      ]
     },
     {
       "id": "CP51",
@@ -1882,6 +2014,493 @@
       "evidence_category": "directly_verified_passage",
       "research_scope": "selected_passage",
       "explorer_event_id": "NX17"
+    },
+    {
+      "id": "NX18",
+      "node_id": "earth-lemur",
+      "source_id": "104-9",
+      "passage_cue": "6–8",
+      "title": "German comparison of the formation of the soul members",
+      "paraphrase": "The German gives Empfindungsseele for the result of early I-work on the astral body, Verstandes- oder Gemütsseele for work on the etheric body in Atlantis, and Bewußtseinsseele for work on the physical body from late Atlantis. This sequence and agency coexist in the source record with the differently structured GA 13 IV §77 account.",
+      "verification": "direct_english_passage",
+      "organ_ids": [],
+      "evidence_category": "directly_verified_passage",
+      "research_scope": "selected_passage",
+      "explorer_event_id": "CP40",
+      "german_crosscheck_source_ids": [
+        "104-9de"
+      ]
+    },
+    {
+      "id": "NX19",
+      "node_id": "earth-atlant",
+      "source_id": "104-9",
+      "passage_cue": "20–22",
+      "title": "German distinguishes I-soul impetus and heart predisposition",
+      "paraphrase": "The German has a first impulse toward Ich-Seele in the fifth Atlantean period and uses Anlage for the heart predisposition in its lion group-soul account. It describes the physical heart as a later outcome. The German supports the separation between the predisposition and the later physical organ.",
+      "verification": "direct_english_passage",
+      "organ_ids": [
+        "organ-heart"
+      ],
+      "evidence_category": "directly_verified_passage",
+      "research_scope": "selected_passage",
+      "explorer_event_id": "CP45",
+      "german_crosscheck_source_ids": [
+        "104-9de"
+      ]
+    },
+    {
+      "id": "NX20",
+      "node_id": "earth-post",
+      "source_id": "104-10",
+      "passage_cue": "12–15",
+      "title": "The seven Earth life conditions and their distinct kingdoms",
+      "paraphrase": "The lecture names three elemental conditions followed by mineral, plant, animal, and human life conditions. It distinguishes humanity's esoteric mineral condition from ordinary biological classification, and warns against applying these Earth names to the analogous Saturn and Sun conditions.",
+      "verification": "direct_english_passage",
+      "organ_ids": [],
+      "evidence_category": "directly_verified_passage",
+      "research_scope": "selected_passage",
+      "explorer_event_id": "NX20"
+    },
+    {
+      "id": "NX21",
+      "node_id": "earth-post",
+      "source_id": "104-10",
+      "passage_cue": "22–25",
+      "title": "Physical form is the middle of seven forms within a life condition",
+      "paraphrase": "The form sequence descends through higher Devachan, lower Devachan and astral to physical. It then ascends through transformed astral, lower and higher Devachan. The mineral life condition extends through those forms. The German clarifies that three completed states in §25 are life conditions, each with seven forms.",
+      "verification": "direct_english_passage",
+      "organ_ids": [],
+      "evidence_category": "directly_verified_passage",
+      "research_scope": "selected_passage",
+      "explorer_event_id": "NX21",
+      "german_crosscheck_source_ids": [
+        "104-10de"
+      ]
+    },
+    {
+      "id": "NX22",
+      "node_id": "earth-post",
+      "source_id": "104-10",
+      "passage_cue": "24",
+      "title": "Representative life on Old Saturn",
+      "paraphrase": "Steiner answers how Old Saturn could include life conditions before the human etheric body. He attributes the representative life to the activity of higher beings who permeate the human rudiment with their own members, while the human germ lacks independent life.",
+      "verification": "direct_english_passage",
+      "organ_ids": [],
+      "evidence_category": "directly_verified_passage",
+      "research_scope": "selected_passage",
+      "explorer_event_id": "NX22"
+    },
+    {
+      "id": "NX23",
+      "node_id": "earth-post",
+      "source_id": "104-10",
+      "passage_cue": "26–29",
+      "title": "Planetary intervals and successive forms",
+      "paraphrase": "Steiner describes spiritual intervals between planetary embodiments. The globes in this diagram are successive forms of an evolving sphere. He describes astral Earth in connection with the bowls of wrath and qualifies the diagram as conceptual scaffolding.",
+      "verification": "direct_english_passage",
+      "organ_ids": [],
+      "evidence_category": "directly_verified_passage",
+      "research_scope": "selected_passage",
+      "explorer_event_id": "NX23",
+      "chronological_placement": "projected Earth development, exact subdivision unspecified"
+    },
+    {
+      "id": "NX24",
+      "node_id": "earth-post",
+      "source_id": "104-10",
+      "passage_cue": "30–33",
+      "title": "Five levels in the numerical schematic",
+      "paraphrase": "GA 104 adds two depths beneath the form level: great epoch and smaller period. It explicitly illustrates this with physical Earth, the seals and trumpets, and the seven post-Atlantean cultural periods. The numerical total 16,807 describes the idealized full five-depth scheme, with far fewer intervals individually described in this lecture.",
+      "verification": "direct_english_passage",
+      "organ_ids": [],
+      "evidence_category": "directly_verified_passage",
+      "research_scope": "selected_passage",
+      "explorer_event_id": "NX24"
+    },
+    {
+      "id": "NX25",
+      "node_id": "earth-atlant",
+      "source_id": "104-10",
+      "passage_cue": "34–41",
+      "title": "Four early heads, three later heads and ten horns",
+      "paraphrase": "Steiner connects the first four Atlantean phases to group-soul images and the crossing into the fifth to emerging individuality. His account locates conscious perception of sexual difference at an Atlantean threshold and uses the head-and-horn imagery again for projected astral Earth.",
+      "verification": "direct_english_passage",
+      "organ_ids": [
+        "organ-reproductive"
+      ],
+      "evidence_category": "directly_verified_passage",
+      "research_scope": "selected_passage",
+      "explorer_event_id": "NX25"
+    },
+    {
+      "id": "NX26",
+      "node_id": "earth-sixth",
+      "source_id": "104a-9",
+      "passage_cue": "6",
+      "title": "The fifth-seal omission is also marked in German",
+      "paraphrase": "At the same point after the white garment image, the German source has a visible omission marker. Both checked English versions preserve a gap. This supplies no evidence about the wording that would have occupied it.",
+      "verification": "direct_english_passage",
+      "organ_ids": [],
+      "evidence_category": "directly_verified_passage",
+      "research_scope": "selected_passage",
+      "explorer_event_id": "CP26",
+      "german_crosscheck_source_ids": [
+        "104a-9de"
+      ]
+    },
+    {
+      "id": "NX27",
+      "node_id": "earth-seventh",
+      "source_id": "104a-11",
+      "passage_cue": "1–2",
+      "title": "Post-trumpet branches and Mammon in the lower astral world",
+      "paraphrase": "Steiner distinguishes higher astral and eventual Devachanic development from a lower astral branch. He names Mammon as a spirit of obstacles and places reunion with the Sun after the trumpet period for those capable of it.",
+      "verification": "direct_english_passage",
+      "organ_ids": [],
+      "evidence_category": "directly_verified_passage",
+      "research_scope": "selected_passage",
+      "explorer_event_id": "NX27"
+    },
+    {
+      "id": "NX28",
+      "node_id": "earth-lemur",
+      "source_id": "104a-11",
+      "passage_cue": "3–7",
+      "title": "Luciferic benefits, costs and later redemption",
+      "paraphrase": "Steiner associates the Lemurian intervention with deeper material involvement and the possibility of human independence. The beings act through the astral body and experience aspects of development there that they missed earlier. He projects later human participation in their redemption.",
+      "verification": "direct_english_passage",
+      "organ_ids": [],
+      "evidence_category": "directly_verified_passage",
+      "research_scope": "selected_passage",
+      "explorer_event_id": "NX28"
+    },
+    {
+      "id": "NX29",
+      "node_id": "earth-seventh",
+      "source_id": "104a-11",
+      "passage_cue": "7–9",
+      "title": "Opposing figures and a renewed act of assistance",
+      "paraphrase": "Steiner distinguishes left-behind Luciferic spirits, humans whom he treats as having remained behind without conscious choice, and those he depicts as deliberately turning spiritual powers toward selfish aims. He projects a return of spiritually developed humans from union with the Sun to assist the second group.",
+      "verification": "direct_english_passage",
+      "organ_ids": [],
+      "evidence_category": "directly_verified_passage",
+      "research_scope": "selected_passage",
+      "explorer_event_id": "NX29"
+    },
+    {
+      "id": "NX30",
+      "node_id": "earth-seventh",
+      "source_id": "104a-11",
+      "passage_cue": "10–12, 14–15",
+      "title": "Jupiter-Earth, Venus-Earth and Vulcan-Earth are anticipations within Earth",
+      "paraphrase": "In this lecture Steiner says Earth's rounds look back to Saturn, Sun and Moon and anticipate later planetary conditions. He places renewed opportunities for assistance on Jupiter-Earth, a last opportunity on Venus-Earth, and its closing by Vulcan-Earth. The German explicitly says the anticipations occur within the actual Earth condition.",
+      "verification": "direct_english_passage",
+      "organ_ids": [],
+      "evidence_category": "directly_verified_passage",
+      "research_scope": "selected_passage",
+      "explorer_event_id": "NX30",
+      "german_crosscheck_source_ids": [
+        "104a-11g"
+      ]
+    },
+    {
+      "id": "NX31",
+      "node_id": "earth-seventh",
+      "source_id": "104a-11",
+      "passage_cue": "15–16",
+      "title": "Art, Babylon and the future New Jerusalem",
+      "paraphrase": "The text places the casting away of evil in a Venus-Earth setting and calls this the Fall of Babylon. It also treats present human artistic work as formative for a future New Jerusalem and mentions a Jupiter existence. The boundaries of that final reference remain open.",
+      "verification": "direct_english_passage",
+      "organ_ids": [],
+      "evidence_category": "directly_verified_passage",
+      "research_scope": "selected_passage",
+      "explorer_event_id": "NX31"
+    },
+    {
+      "id": "NX32",
+      "node_id": "earth-atlant",
+      "source_id": "104a-12",
+      "passage_cue": "2–5",
+      "title": "Etheric head enters and gradually supports I-development",
+      "paraphrase": "The lecture ties late Atlantean preparation to a changing relation of etheric and physical head and distinguishes that development from Golgotha's more significant impulse. German Hereinrücken indicates an inward movement where SOL English says emergence. The source's analogy involving hydrocephalus has no standing as modern medicine.",
+      "verification": "direct_english_passage",
+      "organ_ids": [
+        "organ-brain"
+      ],
+      "evidence_category": "directly_verified_passage",
+      "research_scope": "selected_passage",
+      "explorer_event_id": "NX32",
+      "german_crosscheck_source_ids": [
+        "104a-12g"
+      ]
+    },
+    {
+      "id": "NX33",
+      "node_id": "earth-post",
+      "source_id": "104a-12",
+      "passage_cue": "3–6",
+      "title": "Preparatory transformation and the higher members",
+      "paraphrase": "Steiner describes transformation of astral, etheric and physical bodies into Spirit Self, Life Spirit and Spirit Man. He distinguishes preparatory work through higher beings and initially unconscious work from subsequent conscious activity. The same passage links earlier transformations with the three soul members.",
+      "verification": "direct_english_passage",
+      "organ_ids": [],
+      "evidence_category": "directly_verified_passage",
+      "research_scope": "selected_passage",
+      "explorer_event_id": "NX33",
+      "german_crosscheck_source_ids": [
+        "104a-12g"
+      ]
+    },
+    {
+      "id": "NX34",
+      "node_id": "period-15",
+      "source_id": "104a-12",
+      "passage_cue": "5–7, 11–13",
+      "title": "Six cultural emphases and preparation for Philadelphia",
+      "paraphrase": "The sequence gives etheric body, astral body, sentient soul, intellectual soul, consciousness soul and Spirit Self as successive organizations permeated by the I. The Philadelphia passage associates Spirit Self and etheric Christ recognition. It does not name a seventh member in this sequence.",
+      "verification": "direct_english_passage",
+      "organ_ids": [],
+      "evidence_category": "directly_verified_passage",
+      "research_scope": "selected_passage",
+      "explorer_event_id": "NX34",
+      "german_crosscheck_source_ids": [
+        "104a-12g"
+      ]
+    },
+    {
+      "id": "NX35",
+      "node_id": "earth-sixth",
+      "source_id": "104a-12",
+      "passage_cue": "8–10",
+      "title": "How Philadelphia prepares the sixth-seal community",
+      "paraphrase": "Steiner connects the fourth to sixth seal periods with development of the three soul forces and preparation for Manas. He derives the 144,000 symbol through numerical interpretation and links a community prepared during Philadelphia with the sixth seal.",
+      "verification": "direct_english_passage",
+      "organ_ids": [],
+      "evidence_category": "directly_verified_passage",
+      "research_scope": "selected_passage",
+      "explorer_event_id": "NX35"
+    },
+    {
+      "id": "NX36",
+      "node_id": "earth-seventh",
+      "source_id": "104a-12",
+      "passage_cue": "14–17",
+      "title": "Babylon, the Venus-Earth count and the eighth sphere",
+      "paraphrase": "Steiner juxtaposes the sixth seal and a sixth condition at a different scale. He attributes a separation to an eighth sphere to the Venus-Earth setting and invokes the two witnesses in a future act of assistance. The work uses a different predicate for Babylon here than the previous lecture, and gives no modern absolute date.",
+      "verification": "direct_english_passage",
+      "organ_ids": [],
+      "evidence_category": "directly_verified_passage",
+      "research_scope": "selected_passage",
+      "explorer_event_id": "NX36",
+      "german_crosscheck_source_ids": [
+        "104a-12g"
+      ]
+    },
+    {
+      "id": "NX37",
+      "node_id": "earth-seventh",
+      "source_id": "104a-12",
+      "passage_cue": "19, 21–24",
+      "title": "Future heart and speech-organ transformations",
+      "paraphrase": "Steiner connects future human development with a changed heart function and a projected reproductive capacity of speech. He notes an anatomical feature of heart muscle before making a separate esoteric forecast. The forecast carries no empirical or medical authority.",
+      "verification": "direct_english_passage",
+      "organ_ids": [
+        "organ-heart",
+        "organ-larynx",
+        "organ-reproductive"
+      ],
+      "evidence_category": "directly_verified_passage",
+      "research_scope": "selected_passage",
+      "explorer_event_id": "NX37",
+      "chronological_placement": "projected Earth development, exact subdivision unspecified"
+    },
+    {
+      "id": "NX38",
+      "node_id": "earth-post",
+      "source_id": "121-1",
+      "passage_cue": "4–5",
+      "title": "Universal cooperation and the occult image of homelessness",
+      "paraphrase": "Steiner uses homelessness as a technical term for gaining perspective on attachments to locality or heritage. He envisages a later common human task in which contributions can be made freely. This terminology refers to his initiatory concept.",
+      "verification": "direct_english_passage",
+      "organ_ids": [],
+      "evidence_category": "directly_verified_passage",
+      "research_scope": "selected_passage",
+      "explorer_event_id": "NX38"
+    },
+    {
+      "id": "NX39",
+      "node_id": "earth-post",
+      "source_id": "121-1",
+      "passage_cue": "7–12",
+      "title": "Preparatory soul activity and later threefold transformation",
+      "paraphrase": "GA 121 describes present beginnings of Spirit Self, distinguishes the three preparatory soul members, and links the future work of the I on the astral, etheric and physical bodies to Spirit Self, Life Spirit and Spirit Man respectively.",
+      "verification": "direct_english_passage",
+      "organ_ids": [],
+      "evidence_category": "directly_verified_passage",
+      "research_scope": "selected_passage",
+      "explorer_event_id": "NX39"
+    },
+    {
+      "id": "NX40",
+      "node_id": "earth-post",
+      "source_id": "121-1",
+      "passage_cue": "12, 14–19",
+      "title": "Archangelic activity and succession of Spirits of the Age",
+      "paraphrase": "Steiner distinguishes Angels' human stage on Old Moon from present physical humanity. He attributes transformation toward Life Spirit to Archangels and associates Spirits of Personality with changing eras. In his account they hand over offices and return after other spirits have held them.",
+      "verification": "direct_english_passage",
+      "organ_ids": [],
+      "evidence_category": "directly_verified_passage",
+      "research_scope": "selected_passage",
+      "explorer_event_id": "NX40"
+    },
+    {
+      "id": "NX41",
+      "node_id": "period-13",
+      "source_id": "121-2",
+      "passage_cue": "3–8",
+      "title": "Population movements in an etheric account of regions",
+      "paraphrase": "Steiner treats regional etheric auras as changing with migration, giving the European Migration Period as an example. He distinguishes the activity he attributes to Archangels from physical terrain and assigns a different temporal pattern to an individual etheric aura. The account's national temperament typology is historically situated and unsupported.",
+      "verification": "direct_english_passage",
+      "organ_ids": [],
+      "evidence_category": "directly_verified_passage",
+      "research_scope": "selected_passage",
+      "explorer_event_id": "NX41"
+    },
+    {
+      "id": "NX42",
+      "node_id": "earth-post",
+      "source_id": "121-2",
+      "passage_cue": "10–15",
+      "title": "The speech apparatus and two groups at an archangelic level",
+      "paraphrase": "Steiner attributes national temperament to normally developed Archangels and the shaping of the larynx and speech apparatus to cooperation involving Spirits of Form who retained an archangelic mode of activity. He associates another action of Spirits of Form with shaping the brain for saying I. These are attributed esoteric claims about human organs.",
+      "verification": "direct_english_passage",
+      "organ_ids": [
+        "organ-brain",
+        "organ-larynx"
+      ],
+      "evidence_category": "directly_verified_passage",
+      "research_scope": "selected_passage",
+      "explorer_event_id": "NX42"
+    },
+    {
+      "id": "NX43",
+      "node_id": "earth-post",
+      "source_id": "121-2",
+      "passage_cue": "16–20",
+      "title": "Outer historical conditions and inward shaping of thought",
+      "paraphrase": "GA 121 distinguishes normally developed Spirits of Personality associated with historical circumstances from Spirits of Form retained at another developmental level and associated with shaping thought from within. The lecture presents both influences as potentially concurrent.",
+      "verification": "direct_english_passage",
+      "organ_ids": [],
+      "evidence_category": "directly_verified_passage",
+      "research_scope": "selected_passage",
+      "explorer_event_id": "NX43"
+    },
+    {
+      "id": "NX44",
+      "node_id": "earth-post",
+      "source_id": "121-3",
+      "passage_cue": "3–6, 12–17",
+      "title": "Three modifications of the astral body and degrees of I-awareness",
+      "paraphrase": "The lecture treats the three soul members as modifications within the human astral body and relates them to dim, emerging, and clear I-awareness. It associates analogous modifications of Archangels with their etheric bodies. This is a description of organization and experience.",
+      "verification": "direct_english_passage",
+      "organ_ids": [],
+      "evidence_category": "directly_verified_passage",
+      "research_scope": "selected_passage",
+      "explorer_event_id": "NX44"
+    },
+    {
+      "id": "NX45",
+      "node_id": "earth-post",
+      "source_id": "121-3",
+      "passage_cue": "17–20, 22–29",
+      "title": "Mediation, differential roles, and retained modes of activity",
+      "paraphrase": "Steiner gives Angels a mediating role and distinguishes coordination across several hierarchies from their members' own developmental work. The discussion also assigns racial categories to spiritual influences in a historically situated typology. Its claims about ancestry or national character are unsupported.",
+      "verification": "direct_english_passage",
+      "organ_ids": [],
+      "evidence_category": "directly_verified_passage",
+      "research_scope": "selected_passage",
+      "explorer_event_id": "NX45"
+    },
+    {
+      "id": "NX46",
+      "node_id": "earth-polar",
+      "source_id": "g11-9",
+      "passage_cue": "1–2",
+      "title": "Astral germ and the first etheric organization",
+      "paraphrase": "GA 11 depicts an astral germ carrying forces from earlier conditions. Astral humans chiefly work from outside on their etheric counterparts, forming organs and awakening etheric life. The chapter names this opening condition Polarean.",
+      "verification": "direct_english_passage",
+      "organ_ids": [],
+      "evidence_category": "directly_verified_passage",
+      "research_scope": "selected_passage",
+      "explorer_event_id": "NX46"
+    },
+    {
+      "id": "NX47",
+      "node_id": "earth-hyper",
+      "source_id": "g11-9",
+      "passage_cue": "3–6",
+      "title": "Air-like matter, chemical ether, water and light ether",
+      "paraphrase": "In GA 11 an air-like condensation leaves the chemical ether alongside the earlier life ether. The air-like condition subsequently differentiates into air-like and watery conditions, and light ether differentiates from chemical ether. Descendants of earlier forms continue alongside newer human-like, animal-like and plant-like organizations.",
+      "verification": "direct_english_passage",
+      "organ_ids": [],
+      "evidence_category": "directly_verified_passage",
+      "research_scope": "selected_passage",
+      "explorer_event_id": "NX47"
+    },
+    {
+      "id": "NX48",
+      "node_id": "earth-hyper",
+      "source_id": "g11-9",
+      "passage_cue": "5–8",
+      "title": "Watery conditions already appear before solar separation in GA 11",
+      "paraphrase": "The essay names water, air and three ethers before narrating the Sun's separation. Greater densification and an internal source of heat follow. GA 13 IV §66 places solar separation before watery incorporation in the narrated sequence, so the two accounts retain separate stage orderings.",
+      "verification": "direct_english_passage",
+      "organ_ids": [],
+      "evidence_category": "directly_verified_passage",
+      "research_scope": "selected_passage",
+      "explorer_event_id": "NX48"
+    },
+    {
+      "id": "NX49",
+      "node_id": "earth-lemur",
+      "source_id": "g11-10",
+      "passage_cue": "1–3",
+      "title": "Fire-mist enables concurrent embodiment and distinct activity",
+      "paraphrase": "GA 11 gives human beings a dim conscious life and externally directed activity within the fire mist. It gives higher beings a shared medium in which their decisions can organize denser conditions. The source describes upward development of human understanding and downward extension of higher beings' activity at the same time.",
+      "verification": "direct_english_passage",
+      "organ_ids": [],
+      "evidence_category": "directly_verified_passage",
+      "research_scope": "selected_passage",
+      "explorer_event_id": "NX49"
+    },
+    {
+      "id": "NX50",
+      "node_id": "earth-lemur",
+      "source_id": "g11-10",
+      "passage_cue": "4–8",
+      "title": "Reproduction and understanding follow two different agencies",
+      "paraphrase": "The chapter transfers lunar influence to external regulation of reproduction after the Moon's separation, while describing renewed Luciferic activity in awakening human understanding. It identifies the preceding fire-mist period as an interruption in that Luciferic activity and leaves more precise identifications for later chapters.",
+      "verification": "direct_english_passage",
+      "organ_ids": [
+        "organ-reproductive",
+        "organ-brain"
+      ],
+      "evidence_category": "directly_verified_passage",
+      "research_scope": "selected_passage",
+      "explorer_event_id": "NX50"
+    },
+    {
+      "id": "NX51",
+      "node_id": "earth-hyper",
+      "source_id": "13-4",
+      "passage_cue": "61–67",
+      "title": "Inherited organization and solar separation in GA 13",
+      "paraphrase": "GA 13 distinguishes recapitulation of the three earlier bodies, a spiritual interval, and a new astral descent with physical laws already present. In its material sequence the Sun separates from the fire-air Earth before Earth incorporates water. Sun beings then influence Earth from outside and the text relates this to alternating consciousness.",
+      "verification": "direct_english_passage",
+      "organ_ids": [],
+      "evidence_category": "directly_verified_passage",
+      "research_scope": "selected_passage",
+      "explorer_event_id": "NX51"
     }
   ],
   "dossiers": [
@@ -1891,7 +2510,8 @@
       "title": "Etheric emergence and earliest responsiveness",
       "analysis": "GA 11 VIII changes the reference point from preterrestrial astral life to etheric embodiment. Its hearing analogy describes a whole-body function.",
       "finding_ids": [
-        "EP01"
+        "EP01",
+        "NX46"
       ],
       "parent_id": "cos-earth",
       "sequence": 1,
@@ -1909,7 +2529,10 @@
       "analysis": "GA 11 VIII groups the first two epochs in one retrospective account. Its gradual cosmic separation in §10 should be read alongside the more detailed order in IX–X.",
       "finding_ids": [
         "EP02",
-        "EP03"
+        "EP03",
+        "NX47",
+        "NX48",
+        "NX51"
       ],
       "parent_id": "cos-earth",
       "sequence": 2,
@@ -1939,7 +2562,11 @@
         "EP14",
         "CP33",
         "CP40",
-        "CP44"
+        "CP44",
+        "NX18",
+        "NX28",
+        "NX49",
+        "NX50"
       ],
       "parent_id": "cos-earth",
       "sequence": 3,
@@ -1973,7 +2600,10 @@
         "CP50",
         "NX13",
         "NX16",
-        "NX17"
+        "NX17",
+        "NX19",
+        "NX25",
+        "NX32"
       ],
       "parent_id": "cos-earth",
       "sequence": 4,
@@ -1996,7 +2626,20 @@
         "NX09",
         "NX10",
         "NX11",
-        "NX12"
+        "NX12",
+        "NX20",
+        "NX21",
+        "NX22",
+        "NX23",
+        "NX24",
+        "NX33",
+        "NX38",
+        "NX39",
+        "NX40",
+        "NX42",
+        "NX43",
+        "NX44",
+        "NX45"
       ],
       "parent_id": "cos-earth",
       "sequence": 5,
@@ -2019,7 +2662,9 @@
         "CP30",
         "CP37",
         "CP51",
-        "CP52"
+        "CP52",
+        "NX26",
+        "NX35"
       ],
       "parent_id": "cos-earth",
       "sequence": 6,
@@ -2043,7 +2688,13 @@
         "CP53",
         "CP54",
         "CP55",
-        "CP56"
+        "CP56",
+        "NX27",
+        "NX29",
+        "NX30",
+        "NX31",
+        "NX36",
+        "NX37"
       ],
       "parent_id": "cos-earth",
       "sequence": 7,
@@ -2130,7 +2781,8 @@
         "NX04",
         "NX07",
         "NX08",
-        "NX14"
+        "NX14",
+        "NX41"
       ],
       "parent_id": "earth-post",
       "sequence": 4,
@@ -2177,7 +2829,8 @@
       "finding_ids": [
         "CP19",
         "CP20",
-        "CP21"
+        "CP21",
+        "NX34"
       ],
       "parent_id": "earth-post",
       "sequence": 6,
@@ -3556,6 +4209,126 @@
       "bidirectional": true
     },
     {
+      "id": "CR-organ-heart-corresponds_to-NX19",
+      "source": "organ-heart",
+      "type": "corresponds_to",
+      "target": "NX19",
+      "evidence": [
+        "NX19"
+      ],
+      "note": "Subject cross-reference to the canonical organ dossier.",
+      "status": "editorial_cross_reference",
+      "bidirectional": true
+    },
+    {
+      "id": "CR-organ-reproductive-corresponds_to-NX25",
+      "source": "organ-reproductive",
+      "type": "corresponds_to",
+      "target": "NX25",
+      "evidence": [
+        "NX25"
+      ],
+      "note": "Subject cross-reference to the canonical organ dossier.",
+      "status": "editorial_cross_reference",
+      "bidirectional": true
+    },
+    {
+      "id": "CR-organ-brain-corresponds_to-NX32",
+      "source": "organ-brain",
+      "type": "corresponds_to",
+      "target": "NX32",
+      "evidence": [
+        "NX32"
+      ],
+      "note": "Subject cross-reference to the canonical organ dossier.",
+      "status": "editorial_cross_reference",
+      "bidirectional": true
+    },
+    {
+      "id": "CR-organ-heart-corresponds_to-NX37",
+      "source": "organ-heart",
+      "type": "corresponds_to",
+      "target": "NX37",
+      "evidence": [
+        "NX37"
+      ],
+      "note": "Subject cross-reference to the canonical organ dossier.",
+      "status": "editorial_cross_reference",
+      "bidirectional": true
+    },
+    {
+      "id": "CR-organ-larynx-corresponds_to-NX37",
+      "source": "organ-larynx",
+      "type": "corresponds_to",
+      "target": "NX37",
+      "evidence": [
+        "NX37"
+      ],
+      "note": "Subject cross-reference to the canonical organ dossier.",
+      "status": "editorial_cross_reference",
+      "bidirectional": true
+    },
+    {
+      "id": "CR-organ-reproductive-corresponds_to-NX37",
+      "source": "organ-reproductive",
+      "type": "corresponds_to",
+      "target": "NX37",
+      "evidence": [
+        "NX37"
+      ],
+      "note": "Subject cross-reference to the canonical organ dossier.",
+      "status": "editorial_cross_reference",
+      "bidirectional": true
+    },
+    {
+      "id": "CR-organ-brain-corresponds_to-NX42",
+      "source": "organ-brain",
+      "type": "corresponds_to",
+      "target": "NX42",
+      "evidence": [
+        "NX42"
+      ],
+      "note": "Subject cross-reference to the canonical organ dossier.",
+      "status": "editorial_cross_reference",
+      "bidirectional": true
+    },
+    {
+      "id": "CR-organ-larynx-corresponds_to-NX42",
+      "source": "organ-larynx",
+      "type": "corresponds_to",
+      "target": "NX42",
+      "evidence": [
+        "NX42"
+      ],
+      "note": "Subject cross-reference to the canonical organ dossier.",
+      "status": "editorial_cross_reference",
+      "bidirectional": true
+    },
+    {
+      "id": "CR-organ-reproductive-corresponds_to-NX50",
+      "source": "organ-reproductive",
+      "type": "corresponds_to",
+      "target": "NX50",
+      "evidence": [
+        "NX50"
+      ],
+      "note": "Subject cross-reference to the canonical organ dossier.",
+      "status": "editorial_cross_reference",
+      "bidirectional": true
+    },
+    {
+      "id": "CR-organ-brain-corresponds_to-NX50",
+      "source": "organ-brain",
+      "type": "corresponds_to",
+      "target": "NX50",
+      "evidence": [
+        "NX50"
+      ],
+      "note": "Subject cross-reference to the canonical organ dossier.",
+      "status": "editorial_cross_reference",
+      "bidirectional": true
+    },
+    {
       "id": "CR-NX01-corresponds_to-CP47",
       "source": "NX01",
       "type": "corresponds_to",
@@ -3763,6 +4536,384 @@
       ],
       "note": "The projected vision reuses the Atlantean motif, with other mythological expressions in between.",
       "status": "direct_passage"
+    },
+    {
+      "id": "CR-NX18-corresponds_to-CP33",
+      "source": "NX18",
+      "type": "corresponds_to",
+      "target": "CP33",
+      "evidence": [
+        "NX18",
+        "CP33"
+      ],
+      "note": "The original German preserves both accounts and their differing attribution.",
+      "status": "unresolved_comparison"
+    },
+    {
+      "id": "CR-NX19-corresponds_to-CP46",
+      "source": "NX19",
+      "type": "corresponds_to",
+      "target": "CP46",
+      "evidence": [
+        "NX19",
+        "CP45",
+        "CP46"
+      ],
+      "note": "GA 104 uses Anlage for the Atlantean predisposition in an account distinct from the Old Saturn seed.",
+      "status": "unresolved_comparison"
+    },
+    {
+      "id": "CR-NX21-corresponds_to-CP24",
+      "source": "NX21",
+      "type": "corresponds_to",
+      "target": "CP24",
+      "evidence": [
+        "NX21",
+        "CP24"
+      ],
+      "note": "The 172nd form is the fourth form of the fourth life condition.",
+      "status": "cross_passage"
+    },
+    {
+      "id": "CR-NX22-corresponds_to-CH-2.03",
+      "source": "NX22",
+      "type": "corresponds_to",
+      "target": "CH-2.03",
+      "evidence": [
+        "NX22"
+      ],
+      "note": "The lecture distinguishes the human physical rudiment from higher beings' activity within it.",
+      "status": "editorial_crosswalk"
+    },
+    {
+      "id": "CR-NX23-continues_from-CP28",
+      "source": "NX23",
+      "type": "continues_from",
+      "target": "CP28",
+      "evidence": [
+        "NX23",
+        "CP28"
+      ],
+      "note": "Astralization follows the trumpet sequence in the overlapping descriptions.",
+      "status": "cross_passage"
+    },
+    {
+      "id": "CR-NX24-corresponds_to-CP24",
+      "source": "NX24",
+      "type": "corresponds_to",
+      "target": "CP24",
+      "evidence": [
+        "NX24",
+        "CP24"
+      ],
+      "note": "The third, fourth and fifth schematic depths are distinguished consistently at the current position.",
+      "status": "cross_passage"
+    },
+    {
+      "id": "CR-NX25-corresponds_to-CP50",
+      "source": "NX25",
+      "type": "corresponds_to",
+      "target": "CP50",
+      "evidence": [
+        "NX25",
+        "CP50"
+      ],
+      "note": "The same 1908 cycle connects the Atlantean fifth phase with a new level of individuality.",
+      "status": "cross_passage"
+    },
+    {
+      "id": "CR-NX27-continues_from-CP55",
+      "source": "NX27",
+      "type": "continues_from",
+      "target": "CP55",
+      "evidence": [
+        "NX27",
+        "CP55"
+      ],
+      "note": "The next Oslo lecture takes up the higher and lower trajectories after the trumpet period.",
+      "status": "cross_passage"
+    },
+    {
+      "id": "CR-NX28-corresponds_to-EP11",
+      "source": "NX28",
+      "type": "corresponds_to",
+      "target": "EP11",
+      "evidence": [
+        "NX28",
+        "EP11"
+      ],
+      "note": "Both passages attribute benefits and dangers to Luciferic involvement.",
+      "status": "cross_passage"
+    },
+    {
+      "id": "CR-NX29-prepares_for-NX30",
+      "source": "NX29",
+      "type": "prepares_for",
+      "target": "NX30",
+      "evidence": [
+        "NX29",
+        "NX30"
+      ],
+      "note": "The same lecture places renewed assistance before its narrowing in successive rounds.",
+      "status": "direct_passage"
+    },
+    {
+      "id": "CR-NX30-corresponds_to-cos-jupiter",
+      "source": "NX30",
+      "type": "corresponds_to",
+      "target": "cos-jupiter",
+      "evidence": [
+        "NX30",
+        "CP28"
+      ],
+      "note": "Jupiter-Earth is characterized as a foreshadowing while Earth is still its own planetary condition.",
+      "status": "direct_passage"
+    },
+    {
+      "id": "CR-NX31-corresponds_to-NX09",
+      "source": "NX31",
+      "type": "corresponds_to",
+      "target": "NX09",
+      "evidence": [
+        "NX31",
+        "NX09"
+      ],
+      "note": "The lectures employ the future New Jerusalem image in accounts of creation and spiritual formation.",
+      "status": "cross_passage"
+    },
+    {
+      "id": "CR-NX32-corresponds_to-EP23",
+      "source": "NX32",
+      "type": "corresponds_to",
+      "target": "EP23",
+      "evidence": [
+        "NX32",
+        "EP23"
+      ],
+      "note": "Both texts link closer physical and etheric organization and the development of the I during the Atlantean transition.",
+      "status": "cross_passage"
+    },
+    {
+      "id": "CR-human-etheric-transforms-human-life-spirit",
+      "source": "human-etheric",
+      "type": "transforms",
+      "target": "human-life-spirit",
+      "evidence": [
+        "NX33"
+      ],
+      "note": "This link records the I's work on the etheric organization leading toward Life Spirit.",
+      "status": "direct_passage"
+    },
+    {
+      "id": "CR-human-physical-transforms-human-spirit-man",
+      "source": "human-physical",
+      "type": "transforms",
+      "target": "human-spirit-man",
+      "evidence": [
+        "NX33"
+      ],
+      "note": "This link records the I's work on the physical organization leading toward Spirit Man.",
+      "status": "direct_passage"
+    },
+    {
+      "id": "CR-period-15-corresponds_to-human-spirit-self",
+      "source": "period-15",
+      "type": "corresponds_to",
+      "target": "human-spirit-self",
+      "evidence": [
+        "NX34"
+      ],
+      "note": "The Philadelphia cultural phase correlates with Manas in Oslo II-12 §6.",
+      "status": "direct_passage"
+    },
+    {
+      "id": "CR-NX34-prepares_for-NX35",
+      "source": "NX34",
+      "type": "prepares_for",
+      "target": "NX35",
+      "evidence": [
+        "NX34",
+        "NX35"
+      ],
+      "note": "Prepared human faculties are connected with the later seal community.",
+      "status": "cross_passage"
+    },
+    {
+      "id": "CR-NX36-corresponds_to-NX31",
+      "source": "NX36",
+      "type": "corresponds_to",
+      "target": "NX31",
+      "evidence": [
+        "NX36",
+        "NX31"
+      ],
+      "note": "The adjacent Oslo lectures use different predicates for Babylon in a Venus-Earth setting.",
+      "status": "unresolved_comparison"
+    },
+    {
+      "id": "CR-NX37-corresponds_to-CP29",
+      "source": "NX37",
+      "type": "corresponds_to",
+      "target": "CP29",
+      "evidence": [
+        "NX37",
+        "CP29"
+      ],
+      "note": "The vocal apparatus receives different future considerations in the Oslo and Nuremberg talks.",
+      "status": "editorial_crosswalk"
+    },
+    {
+      "id": "CR-NX39-corresponds_to-NX33",
+      "source": "NX39",
+      "type": "corresponds_to",
+      "target": "NX33",
+      "evidence": [
+        "NX39",
+        "NX33"
+      ],
+      "note": "Both lectures describe preparatory activity and the longer-range transformation of the three lower members.",
+      "status": "cross_passage"
+    },
+    {
+      "id": "CR-NX40-corresponds_to-CP43",
+      "source": "NX40",
+      "type": "corresponds_to",
+      "target": "CP43",
+      "evidence": [
+        "NX40",
+        "CP43"
+      ],
+      "note": "The source assigns activity to different hierarchies and describes their mediation across levels.",
+      "status": "cross_passage"
+    },
+    {
+      "id": "CR-NX42-corresponds_to-EP23",
+      "source": "NX42",
+      "type": "corresponds_to",
+      "target": "EP23",
+      "evidence": [
+        "NX42",
+        "EP23"
+      ],
+      "note": "The lectures treat different aspects of the bodily preparation for I-awareness and associate them with the brain.",
+      "status": "editorial_crosswalk"
+    },
+    {
+      "id": "CR-hier-spirits-of-form-influences-NX42",
+      "source": "hier-spirits-of-form",
+      "type": "influences",
+      "target": "NX42",
+      "evidence": [
+        "NX42"
+      ],
+      "note": "Different modes of action are stated in the speech and brain discussion.",
+      "status": "direct_passage"
+    },
+    {
+      "id": "CR-hier-spirits-of-personality-influences-NX43",
+      "source": "hier-spirits-of-personality",
+      "type": "influences",
+      "target": "NX43",
+      "evidence": [
+        "NX43"
+      ],
+      "note": "The lecture attributes the convergence of historical circumstances to Spirits of Personality.",
+      "status": "direct_passage"
+    },
+    {
+      "id": "CR-NX44-corresponds_to-NX18",
+      "source": "NX44",
+      "type": "corresponds_to",
+      "target": "NX18",
+      "evidence": [
+        "NX44",
+        "NX18"
+      ],
+      "note": "The first source describes current organization while the latter describes how members arose in its chronology.",
+      "status": "editorial_crosswalk"
+    },
+    {
+      "id": "CR-NX45-corresponds_to-NX40",
+      "source": "NX45",
+      "type": "corresponds_to",
+      "target": "NX40",
+      "evidence": [
+        "NX45",
+        "NX40"
+      ],
+      "note": "The lectures add successive examples of differentiated and mediating hierarchy activity.",
+      "status": "cross_passage"
+    },
+    {
+      "id": "CR-NX46-continues_from-CH-4.11",
+      "source": "NX46",
+      "type": "continues_from",
+      "target": "CH-4.11",
+      "evidence": [
+        "NX46"
+      ],
+      "note": "GA 11 moves from earlier conditions through the inherited germ of Earth.",
+      "status": "editorial_crosswalk"
+    },
+    {
+      "id": "CR-NX46-precedes-NX47",
+      "source": "NX46",
+      "type": "precedes",
+      "target": "NX47",
+      "evidence": [
+        "NX46",
+        "NX47"
+      ],
+      "note": "The essay places the simple ether condition before internal differentiation.",
+      "status": "direct_passage"
+    },
+    {
+      "id": "CR-NX47-precedes-EP03",
+      "source": "NX47",
+      "type": "precedes",
+      "target": "EP03",
+      "evidence": [
+        "NX47",
+        "EP03"
+      ],
+      "note": "GA 11 depicts the differentiation before external sunlight acts on the eye rudiments.",
+      "status": "direct_passage"
+    },
+    {
+      "id": "CR-NX48-contradicts-NX51",
+      "source": "NX48",
+      "type": "contradicts",
+      "target": "NX51",
+      "evidence": [
+        "NX48",
+        "NX51"
+      ],
+      "note": "In the published ordering of the two accounts, the placement of watery differentiation relative to solar separation differs.",
+      "status": "unresolved_comparison"
+    },
+    {
+      "id": "CR-NX49-prepares_for-EP07",
+      "source": "NX49",
+      "type": "prepares_for",
+      "target": "EP07",
+      "evidence": [
+        "NX49",
+        "EP07"
+      ],
+      "note": "Conditions for the rudiments of understanding precede their later employment after the fire mist.",
+      "status": "direct_passage"
+    },
+    {
+      "id": "CR-NX50-corresponds_to-EP11",
+      "source": "NX50",
+      "type": "corresponds_to",
+      "target": "EP11",
+      "evidence": [
+        "NX50",
+        "EP11"
+      ],
+      "note": "The narratives both relate Luciferic activity to increasing freedom, with different accounts of the affected organization.",
+      "status": "cross_passage"
     }
   ],
   "comparisons": [
@@ -3860,7 +5011,7 @@
         "CP41"
       ],
       "title": "GA 13 and GA 104 stage and attribute formation of the soul members differently",
-      "comparison": "GA 13 IV §77 speaks of early differentiation of the astral body into three soul members before the Spirits of Form kindle the I. GA 104 IX §7 ascribes successive development of the soul members to dim work of the I on astral, etheric and physical bodies from Lemuria through late Atlantis. Germ and subsequent elaboration could account for part of the difference, but the sources do not establish that identification. Compare the German GA 104 and full argument in GA 13 next."
+      "comparison": "GA 13 IV §77 speaks of early differentiation of the astral body into three soul members before the Spirits of Form kindle the I. GA 104 IX §7 ascribes successive development of the soul members to dim work of the I on astral, etheric and physical bodies from Lemuria through late Atlantis. Germ and subsequent elaboration could account for part of the difference, but the sources do not establish that identification. Compare the German GA 104 and full argument in GA 13 next. GA 104 IX §7 German confirms the sequential attributions to astral, etheric and physical bodies. GA 104a II-12 §§3–5 repeats the association and explicitly discusses a preparatory stage."
     },
     {
       "id": "chron-issue-10",
@@ -3891,7 +5042,7 @@
         "CP46"
       ],
       "title": "Two heart rudiment accounts share a lion association",
-      "comparison": "GA 110 VIII §§6–8 names an Old Saturn heart rudiment in the Leo direction. GA 104 IX §§20–22 places the rudiment leading to the physical heart within an Atlantean lion group-soul account. An earlier warmth predisposition and a later etheric or physical elaboration are plausible successive thresholds. The passages do not directly identify one as the continuation of the other. Compare the German terminology and GA 110 IX before assigning a single inception."
+      "comparison": "GA 110 VIII §§6–8 names an Old Saturn heart rudiment in the Leo direction. GA 104 IX §§20–22 places the rudiment leading to the physical heart within an Atlantean lion group-soul account. An earlier warmth predisposition and a later etheric or physical elaboration are plausible successive thresholds. The passages do not directly identify one as the continuation of the other. Compare the German terminology and GA 110 IX before assigning a single inception. The German GA 104 IX §22 uses Anlage and explicitly says it became the later physical heart. This supports a distinction of thresholds within GA 104 while leaving the cross-cycle identification open."
     },
     {
       "id": "chron-issue-13",
@@ -3923,7 +5074,7 @@
         "CP51"
       ],
       "title": "Two English versions retain a gap in the fifth-seal lecture",
-      "comparison": "GA 104a Oslo II-9 §6 ends with an omission marker in both the Steiner Online Library and Hindes English editions. II-10 §§1–2 recaps the fifth and sixth seals and moves to the seventh, while leaving the missing II-9 wording unverified."
+      "comparison": "GA 104a Oslo II-9 §6 ends with an omission marker in both the Steiner Online Library and Hindes English editions. II-10 §§1–2 recaps the fifth and sixth seals and moves to the seventh, while leaving the missing II-9 wording unverified. The German Oslo II-9 §6 also prints a gap marker at the same location. The origin and extent of the gap beyond this published record remain unknown."
     },
     {
       "id": "chron-issue-16",
@@ -3935,7 +5086,7 @@
         "CP56"
       ],
       "title": "Calendar markers and other readings of 666",
-      "comparison": "GA 346 VII–VIII uses 666, 1332 and 1998 in a historical and prophetic sequence. GA 104a II-10 explains a name-number, and its broader sequence supplies another developmental context. The passages do not give one universal chronological rule."
+      "comparison": "GA 346 VII–VIII uses 666, 1332 and 1998 in a historical and prophetic sequence. GA 104a II-10 explains a name-number, and its broader sequence supplies another developmental context. The passages do not give one universal chronological rule. Oslo II-11 §§10–13 relates Sorat and 666 to projected separation and deliberately misused spiritual powers. GA 104 XI §§14–18 gives another calculation based on the sixth positions of multiple nested levels."
     },
     {
       "id": "chron-issue-17",
@@ -3958,6 +5109,72 @@
       ],
       "title": "Atlantean solar kindling and later residence of the I",
       "comparison": "GA 346 XII §§23–24 describes growth of I-awareness from mid-Atlantis and later inward residence. GA 104 IX §20 names a first I-soul impulse in the fifth subgroup and GA 13 IV §77 describes earlier kindling in another account. Preserve the distinct predicates and avoid making the midpoint equal the fifth subdivision."
+    },
+    {
+      "id": "chron-issue-19",
+      "status": "qualified_distinction",
+      "finding_ids": [
+        "NX21",
+        "CP24"
+      ],
+      "title": "GA 104 X §25 specifies the completed level in German",
+      "comparison": "The English opening of §25 can be read as three of 49 forms. German specifies die drei ersten Lebenszustände and the paragraph then enumerates seven forms in each. Within this scheme three completed life conditions yield 21 preceding Earth forms, before adding three forms of the fourth condition."
+    },
+    {
+      "id": "chron-issue-20",
+      "status": "open",
+      "finding_ids": [
+        "NX23",
+        "NX30",
+        "CP55",
+        "CP30"
+      ],
+      "title": "Solar and lunar reunions in relation to future Earth rounds",
+      "comparison": "Oslo II-11 places solar reunion in the anticipated Jupiter condition within Earth. II-10 presents a split around the seventh trumpet. GA 13 VI gives lunar reunion before solar and the planetary transition. These sources use different sequences and referents. They do not furnish a secure one-to-one alignment."
+    },
+    {
+      "id": "chron-issue-21",
+      "status": "open",
+      "finding_ids": [
+        "NX31",
+        "NX36",
+        "NX11"
+      ],
+      "title": "Babylon in the adjacent Oslo lectures and the 1924 course",
+      "comparison": "Oslo II-11 §15 places a fall or casting away in Venus-Earth. II-12 §14 speaks of Errettung and places the statement alongside another sixth-level image. GA 346 XI supplies a three-stage sequence with no direct Venus-Earth crosswalk in the checked passages. The German confirms that the differing predicates appear in the published text."
+    },
+    {
+      "id": "chron-issue-22",
+      "status": "qualified_distinction",
+      "finding_ids": [
+        "NX18",
+        "NX33",
+        "NX44",
+        "CP33"
+      ],
+      "title": "Constitutional description and developmental agency answer different questions",
+      "comparison": "GA 121 III §§3–6 describes the three soul members as modifications within the astral body in a presentation of present organization. GA 104 IX §7 and GA 104a II-12 §4 discuss the processes of formation through different bodies. This makes a distinction of topic possible, while the particular sequence and agency difference between GA 13 IV §77 and GA 104 IX remains open."
+    },
+    {
+      "id": "chron-issue-23",
+      "status": "open",
+      "finding_ids": [
+        "NX48",
+        "NX51"
+      ],
+      "title": "Watery differentiation and Sun separation occur in different narrated orders",
+      "comparison": "GA 11 IX §§5–7 describes watery substance and a combined water-air-ether condition before Sun separation. GA 13 IV §66 explicitly inserts separation from a fire-air Earth before incorporation of watery substance. A distinction between types of watery substance or narrative scales would require direct support. The checked English sequences differ."
+    },
+    {
+      "id": "chron-issue-24",
+      "status": "open",
+      "finding_ids": [
+        "NX25",
+        "NX50",
+        "EP08"
+      ],
+      "title": "Sexual differentiation and its conscious perception are described at several thresholds",
+      "comparison": "GA 11 X §4 and GA 13 IV §70 place reproductive differentiation around lunar departure. GA 104 X §§38–40 describes an Atlantean threshold in conscious perception of sexuality and describes physical duality using its own head-and-horn imagery. The change in awareness is distinct. The full equivalence of the physical descriptions is unresolved."
     }
   ],
   "source_leads": [
@@ -3973,21 +5190,21 @@
       "ga": "121",
       "url": "https://rsarchive.org/Lectures/GA121/English/SOL/19100607p01.html",
       "status": "source_lead",
-      "question": "Read Lecture I fully starting at §1, then II, and resume III at §1 while retaining the selected comparison at III §§17–23."
+      "question": "I–III now have targeted selections. Complete I at §1, II at §1 and III at §1 before classifying them as full readings; then begin IV, 10 June 1910, §1."
     },
     {
       "id": "CL03",
       "ga": "104",
-      "url": "https://rsarchive.org/Lectures/GA104/English/SOL/19080626p01.html",
+      "url": "https://rsarchive.org/Lectures/GA104/English/SOL/19080627p01.html",
       "status": "source_lead",
-      "question": "Compare German IX §§6–8 and §§19–22 with GA 13 IV §77, then audit X §1 onward for trumpets and later form stages. Confirm edition locators against the dated catalogue."
+      "question": "Resume GA 104 X at §1 for a full source-view pass around the targeted §§12–41 reading. Compare the GA 104 XI numerical wording with a German edition, and finish GA 104 VIII from §9 and IX from §23."
     },
     {
       "id": "CL04",
       "ga": "104a",
       "url": "https://rsarchive.org/Lectures/GA104a/",
       "status": "source_lead",
-      "question": "Both known English II-9 views mark the gap. Check the German and source notes for its provenance. Then continue Oslo II-11 §1 from the dated catalogue."
+      "question": "Oslo II-10–12 have complete available SOL English views. German and both English II-9 views attest a gap at §6. For this source family start Oslo II-1 at §1 and audit through II-8. Seek a manuscript or publication note for the II-9 gap."
     }
   ],
   "entity_nodes": [
@@ -4085,6 +5302,21 @@
       "id": "agency-sorat",
       "label": "Sorat, in GA 104a",
       "kind": "agency"
+    },
+    {
+      "id": "human-physical",
+      "label": "Physical body",
+      "kind": "constitution"
+    },
+    {
+      "id": "human-life-spirit",
+      "label": "Life Spirit or Buddhi",
+      "kind": "constitution"
+    },
+    {
+      "id": "human-spirit-man",
+      "label": "Spirit Man or Atma",
+      "kind": "constitution"
     }
   ],
   "coverage_ledger": [
@@ -4109,7 +5341,7 @@
       "catalogue_scope": "Numbered English 1959 entries, including editorial context and Q&A, excluding unnumbered forematter",
       "catalogue_url": "https://rsarchive.org/Books/GA011/English/RSPI1959/",
       "selected_views_touched": 8,
-      "full_views_audited": 0,
+      "full_views_audited": 2,
       "full_volume_audit": false
     },
     {
@@ -4134,14 +5366,17 @@
         "104-3",
         "104-11sol",
         "104-8",
-        "104-9"
+        "104-9",
+        "104-9de",
+        "104-10",
+        "104-10de"
       ],
-      "targeted_english_views": 4,
-      "german_only_views": 0,
+      "targeted_english_views": 5,
+      "german_only_views": 2,
       "catalogue_views": 13,
       "catalogue_scope": "SOL English lectures including the introduction",
       "catalogue_url": "https://rsarchive.org/Lectures/GA104/",
-      "selected_views_touched": 4,
+      "selected_views_touched": 5,
       "full_views_audited": 0,
       "full_volume_audit": false
     },
@@ -4150,15 +5385,20 @@
       "identified_source_ids": [
         "104a-9",
         "104a-9h",
-        "104a-10"
+        "104a-10",
+        "104a-9de",
+        "104a-11",
+        "104a-11g",
+        "104a-12",
+        "104a-12g"
       ],
-      "targeted_english_views": 3,
-      "german_only_views": 0,
+      "targeted_english_views": 5,
+      "german_only_views": 3,
       "catalogue_views": 16,
       "catalogue_scope": "SOL English lecture views across both parts",
       "catalogue_url": "https://rsarchive.org/Lectures/GA104a/",
-      "selected_views_touched": 2,
-      "full_views_audited": 1,
+      "selected_views_touched": 4,
+      "full_views_audited": 3,
       "full_volume_audit": false
     },
     {
@@ -4272,14 +5512,16 @@
     {
       "ga": "121",
       "identified_source_ids": [
-        "121-3"
+        "121-3",
+        "121-1",
+        "121-2"
       ],
-      "targeted_english_views": 1,
+      "targeted_english_views": 3,
       "german_only_views": 0,
       "catalogue_views": 11,
       "catalogue_scope": "SOL English lectures, excluding the preface",
       "catalogue_url": "https://rsarchive.org/Lectures/GA121/",
-      "selected_views_touched": 1,
+      "selected_views_touched": 3,
       "full_views_audited": 0,
       "full_volume_audit": false
     },
@@ -4319,6 +5561,273 @@
       "NX15",
       "NX16",
       "NX17"
+    ],
+    "GA 104 and GA 104a · Nested Earth stages, the I and projected development": [
+      "NX18",
+      "NX19",
+      "NX20",
+      "NX21",
+      "NX22",
+      "NX23",
+      "NX24",
+      "NX25",
+      "NX26",
+      "NX27",
+      "NX28",
+      "NX29",
+      "NX30",
+      "NX31",
+      "NX32",
+      "NX33",
+      "NX34",
+      "NX35",
+      "NX36",
+      "NX37"
+    ],
+    "GA 121 I–III · Parallel hierarchy activity and human constitution": [
+      "NX38",
+      "NX39",
+      "NX40",
+      "NX41",
+      "NX42",
+      "NX43",
+      "NX44",
+      "NX45"
+    ],
+    "GA 11 and GA 13 · Early Earth material conditions": [
+      "NX46",
+      "NX47",
+      "NX48",
+      "NX49",
+      "NX50",
+      "NX51"
     ]
-  }
+  },
+  "chronological_schemes": [
+    {
+      "id": "ga104-earth-life-form",
+      "nodes": [
+        {
+          "id": "earth-life-1",
+          "parent_id": "cos-earth",
+          "sequence": 1,
+          "label": "First elemental kingdom",
+          "level": "life_condition",
+          "classification": "interval",
+          "dating_precision": "relative_sequence",
+          "temporal_status": "past",
+          "evidence": [
+            "NX20",
+            "NX21"
+          ]
+        },
+        {
+          "id": "earth-life-2",
+          "parent_id": "cos-earth",
+          "sequence": 2,
+          "label": "Second elemental kingdom",
+          "level": "life_condition",
+          "classification": "interval",
+          "dating_precision": "relative_sequence",
+          "temporal_status": "past",
+          "evidence": [
+            "NX20",
+            "NX21"
+          ]
+        },
+        {
+          "id": "earth-life-3",
+          "parent_id": "cos-earth",
+          "sequence": 3,
+          "label": "Third elemental kingdom",
+          "level": "life_condition",
+          "classification": "interval",
+          "dating_precision": "relative_sequence",
+          "temporal_status": "past",
+          "evidence": [
+            "NX20",
+            "NX21"
+          ]
+        },
+        {
+          "id": "earth-life-4",
+          "parent_id": "cos-earth",
+          "sequence": 4,
+          "label": "Mineral life condition",
+          "level": "life_condition",
+          "classification": "interval",
+          "dating_precision": "relative_sequence",
+          "temporal_status": "present",
+          "evidence": [
+            "NX20",
+            "NX21"
+          ]
+        },
+        {
+          "id": "earth-life-5",
+          "parent_id": "cos-earth",
+          "sequence": 5,
+          "label": "Plant life condition",
+          "level": "life_condition",
+          "classification": "interval",
+          "dating_precision": "relative_sequence",
+          "temporal_status": "projected_future",
+          "evidence": [
+            "NX20",
+            "NX21",
+            "NX30"
+          ]
+        },
+        {
+          "id": "earth-life-6",
+          "parent_id": "cos-earth",
+          "sequence": 6,
+          "label": "Animal life condition",
+          "level": "life_condition",
+          "classification": "interval",
+          "dating_precision": "relative_sequence",
+          "temporal_status": "projected_future",
+          "evidence": [
+            "NX20",
+            "NX21",
+            "NX30"
+          ]
+        },
+        {
+          "id": "earth-life-7",
+          "parent_id": "cos-earth",
+          "sequence": 7,
+          "label": "Human life condition",
+          "level": "life_condition",
+          "classification": "interval",
+          "dating_precision": "relative_sequence",
+          "temporal_status": "projected_future",
+          "evidence": [
+            "NX20",
+            "NX21",
+            "NX30"
+          ]
+        },
+        {
+          "id": "earth-life-4-form-1",
+          "parent_id": "earth-life-4",
+          "sequence": 1,
+          "label": "Higher Devachan before physical form",
+          "level": "form_condition",
+          "classification": "interval",
+          "dating_precision": "relative_sequence",
+          "temporal_status": "past",
+          "evidence": [
+            "NX21",
+            "CP24"
+          ]
+        },
+        {
+          "id": "earth-life-4-form-2",
+          "parent_id": "earth-life-4",
+          "sequence": 2,
+          "label": "Lower Devachan before physical form",
+          "level": "form_condition",
+          "classification": "interval",
+          "dating_precision": "relative_sequence",
+          "temporal_status": "past",
+          "evidence": [
+            "NX21",
+            "CP24"
+          ]
+        },
+        {
+          "id": "earth-life-4-form-3",
+          "parent_id": "earth-life-4",
+          "sequence": 3,
+          "label": "Astral before physical form",
+          "level": "form_condition",
+          "classification": "interval",
+          "dating_precision": "relative_sequence",
+          "temporal_status": "past",
+          "evidence": [
+            "NX21",
+            "CP24"
+          ]
+        },
+        {
+          "id": "earth-life-4-form-4",
+          "parent_id": "earth-life-4",
+          "sequence": 4,
+          "label": "Physical form",
+          "level": "form_condition",
+          "classification": "interval",
+          "dating_precision": "relative_sequence",
+          "temporal_status": "present",
+          "evidence": [
+            "NX21",
+            "CP24"
+          ]
+        },
+        {
+          "id": "earth-life-4-form-5",
+          "parent_id": "earth-life-4",
+          "sequence": 5,
+          "label": "Astral after physical form",
+          "level": "form_condition",
+          "classification": "interval",
+          "dating_precision": "relative_sequence",
+          "temporal_status": "projected_future",
+          "evidence": [
+            "NX21",
+            "CP24"
+          ]
+        },
+        {
+          "id": "earth-life-4-form-6",
+          "parent_id": "earth-life-4",
+          "sequence": 6,
+          "label": "Lower Devachan after physical form",
+          "level": "form_condition",
+          "classification": "interval",
+          "dating_precision": "relative_sequence",
+          "temporal_status": "projected_future",
+          "evidence": [
+            "NX21",
+            "CP24"
+          ]
+        },
+        {
+          "id": "earth-life-4-form-7",
+          "parent_id": "earth-life-4",
+          "sequence": 7,
+          "label": "Higher Devachan after physical form",
+          "level": "form_condition",
+          "classification": "interval",
+          "dating_precision": "relative_sequence",
+          "temporal_status": "projected_future",
+          "evidence": [
+            "NX21",
+            "CP24"
+          ]
+        }
+      ],
+      "earth_epoch_parent": "earth-life-4-form-4",
+      "earth_epoch_ids": [
+        "earth-polar",
+        "earth-hyper",
+        "earth-lemur",
+        "earth-atlant",
+        "earth-post",
+        "earth-sixth",
+        "earth-seventh"
+      ],
+      "current_form_ordinal": 172,
+      "calculation": "3 completed planetary conditions × 49 + 3 completed Earth life conditions × 7 + fourth form position = 172",
+      "scope": "Source-supported Earth life sequence and the form sequence of the fourth life condition. Other forms and subperiods are uninstantiated.",
+      "scale_qualification": "GA 104a II-11 labels the final three Earth rounds with planetary anticipations. Their relationship to particular reunions stays open.",
+      "evidence": [
+        "NX20",
+        "NX21",
+        "NX24",
+        "NX30",
+        "CP24"
+      ]
+    }
+  ]
 }

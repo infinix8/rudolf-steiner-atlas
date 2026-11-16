@@ -1,6 +1,6 @@
 "use strict";
 (() => {
- const DATA_URL="../research/steiner-hierarchical-chronology-events-v03.json";
+ const DATA_URL="../research/steiner-hierarchical-chronology-events-v04.json";
  const DOSSIER_URL="../research/steiner-cosmic-condition-dossiers-v02.json";
  const NS="http://www.w3.org/2000/svg";
  const $=id=>document.getElementById(id);
@@ -198,7 +198,7 @@
  function selectResearch(e){
     const node=nodes.get(e.id);
     if(node){select(node.id);return;}
-    extraRecord=e;renderPanel();
+    extraRecord=e;setHash(e.id);renderPanel();
  }
  function related(node){
    if(extraRecord)return [];
@@ -368,7 +368,12 @@
    });
    window.addEventListener("hashchange",()=>{
     const id=decodeURIComponent(location.hash.slice(1));
-    if(!nodes.has(id)||id===selected)return;
+    if(!nodes.has(id)){
+      const record=events.get(id);
+      if(record)selectResearch(record);
+      return;
+    }
+    if(id===selected&&!extraRecord)return;
     const node=nodes.get(id);if(children(id).length)enter(id);else{level=node.parent||"root";select(id);}
    });
  }
@@ -385,7 +390,7 @@
      if(nodes.has(id)){
        if(children(id).length){level=id;selected=preferred(id);}
        else{level=nodes.get(id).parent||"root";selected=id;}
-     }else{level="root";selected="cos-earth";}
+     }else{level="root";selected="cos-earth";extraRecord=events.get(id)||null;}
      currentRotation();render();
      window.__celestialPoc={ready:true,events:dat.events.length,sources:dat.sources.length,dossiers:dossiers.size,
        cosmic:children("root").length,earth:children("cos-earth").length,cultures:children("earth-post").length,

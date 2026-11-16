@@ -2,6 +2,7 @@
 from pathlib import Path
 from urllib.parse import urlsplit
 import json
+import sys
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -15,8 +16,6 @@ def by_id(rows):
     assert len(indexed) == len(rows), "Duplicate IDs"
     return indexed
 
-
-import sys
 
 audit = load(sys.argv[1] if len(sys.argv) > 1 else "research/steiner-earth-culture-audit-v04.json")
 index = load(audit["explorer_index"])
@@ -81,6 +80,29 @@ for finding in findings.values():
     for organ in finding["organ_ids"]:
         assert organ in organs and organ in event["organ_ids"], (fid, organ)
         assert relationships[f"CR-{organ}-corresponds_to-{fid}"]["bidirectional"], (fid, organ)
+
+for scheme in audit.get("chronological_schemes", []):
+    staged = by_id(scheme["nodes"])
+    assert len(staged) == 14
+    for parent in ("cos-earth", "earth-life-4"):
+        children = [n for n in staged.values() if n["parent_id"] == parent]
+        assert sorted(n["sequence"] for n in children) == list(range(1, 8))
+    for node in staged.values():
+        assert node["parent_id"] in cosmic | staged.keys()
+        assert node["evidence"] and set(node["evidence"]) <= findings.keys()
+    assert staged[scheme["earth_epoch_parent"]]["label"] == "Physical form"
+    assert set(scheme["earth_epoch_ids"]) == {d["node_id"] for d in dossiers.values() if d["level"] == "earth_epoch"}
+    assert scheme["current_form_ordinal"] == 3 * 49 + 3 * 7 + 4
+    assert set(scheme["evidence"]) <= findings.keys()
+
+if audit.get("prior_audit"):
+    prior = load(audit["prior_audit"])
+    for record in prior["findings"]:
+        carried = findings[record["id"]]
+        assert all(carried[key] == value for key, value in record.items() if key != "german_crosscheck_source_ids")
+        assert set(record.get("german_crosscheck_source_ids", [])) <= set(carried.get("german_crosscheck_source_ids", []))
+    for relation in prior["relationships"]:
+        assert relationships[relation["id"]] == relation
 
 valid_nodes = set(findings) | set(dossiers) | cosmic | set(events) | set(entity_nodes) | set(organs)
 for edge in relationships.values():
