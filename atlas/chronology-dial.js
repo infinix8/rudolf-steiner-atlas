@@ -1,450 +1,487 @@
 "use strict";
 (() => {
-  const DATA_PATH = "../research/steiner-hierarchical-chronology-events-v01.json";
-  const SVG_NS = "http://www.w3.org/2000/svg";
-  const CX = 540, CY = 480;
-  const $ = (id) => document.getElementById(id);
-  let chronology, nodes = new Map(), events = new Map(), groups = new Map(), sources = new Map();
-  let focus = "root", inspected = "root", activeMain = "cos-earth", previewOnHover = null, angleOffset = -13;
-  let drag = null, suppressClick = false, currentThread = null;
-  const primaryR = {start:111,end:277}, secondaryR = {start:291,end:359};
-  const fmt = (id) => nodes.get(id)?.label || id;
-
+  const DATA_URL="../research/steiner-hierarchical-chronology-events-v01.json";
+  const NS="http://www.w3.org/2000/svg";
+  const $=id=>document.getElementById(id);
+  const nodes=new Map(), events=new Map(), groups=new Map(), sources=new Map();
+  const rotations=new Map();
+  let data=null, focus="root", selected="cos-earth", preview="cos-earth";
+  let drag=null, suppressClick=false, changing=false, hovering=false;
+  const isReduced=()=>window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+  const isSmall=()=>window.matchMedia("(max-width: 640px)").matches;
+  function metrics(){
+    return isSmall()
+      ?{w:730,h:740,cx:73,cy:370,maxR:470,boundY:304,majorFont:25,minorFont:18}
+      :{w:1080,h:960,cx:139,cy:480,maxR:640,boundY:413,majorFont:27,minorFont:16};
+  }
+  const palettes={
+    past:["#b99483","#c19b8d","#c8a37c","#b586a2","#d2a583","#ae90a2"],
+    present:["#3fa3b0","#4fb4ac","#5eac9a"],
+    future:["#a28cc7","#9a92ca","#b4a1d6","#b1a8d7"]
+  };
+  const periodNames=["Ancient Indian","Ancient Persian","Egypto-Chaldean","Greco-Roman","Consciousness-soul","Sixth cultural period","Seventh cultural period"];
   function put(id,label,parent,kind,group,status,summary){
     nodes.set(id,{id,label,parent,kind,group,status,summary:summary||""});
   }
-  function buildGraph(d){
-    chronology=d;
-    for(const g of d.groups)groups.set(g.id,g);
-    for(const s of d.sources)sources.set(s.id,s);
-    for(const e of d.events)events.set(e.id,e);
-    put("root","Seven cosmic conditions",null,"root",null,"past",
-      "Steiner describes seven great conditions of cosmic evolution. Each of these is a stage, not a present-day astronomical planet.");
+  function prepare(input){
+    data=input;
+    for(const s of input.sources)sources.set(s.id,s);
+    for(const g of input.groups)groups.set(g.id,g);
+    for(const e of input.events)events.set(e.id,e);
+    put("root","Whole cycle",null,"root",null,"past",
+      "Seven great cosmic conditions from Old Saturn through Earth to the three projected future conditions.");
     [
       ["cos-saturn","Old Saturn","CH-2","past","Warmth and the earliest physical-body germ"],
-      ["cos-sun","Old Sun","CH-3","past","The etheric or life-body germ"],
-      ["cos-moon","Old Moon","CH-4","past","The astral body and picture-consciousness"],
-      ["cos-earth","Earth","CH-5","present","The I and humanity's distinctive Earth work"],
-      ["cos-jupiter","Future Jupiter","CH-21","future","A later condition of transformed life"],
-      ["cos-venus","Future Venus","CH-22","future","Further spiritual metamorphosis"],
-      ["cos-vulcan","Future Vulcan","CH-23","future","The seventh great cosmic condition"]
+      ["cos-sun","Old Sun","CH-3","past","The developing etheric or life-body germ"],
+      ["cos-moon","Old Moon","CH-4","past","Astral life and dreamlike picture consciousness"],
+      ["cos-earth","Earth","CH-5","present","The human I, self-consciousness and freedom"],
+      ["cos-jupiter","Future Jupiter","CH-21","future","A projected post-Earth planetary condition"],
+      ["cos-venus","Future Venus","CH-22","future","A further projected planetary condition"],
+      ["cos-vulcan","Future Vulcan","CH-23","future","The seventh projected cosmic condition"]
     ].forEach(x=>put(x[0],x[1],"root","cosmic",x[2],x[3],x[4]));
     [
-      ["earth-polar","Polar","CH-6","past","The first great Earth epoch"],
-      ["earth-hyper","Hyperborean","CH-7","past","The second great Earth epoch"],
-      ["earth-lemur","Lemurian","CH-8","past","The third great Earth epoch"],
-      ["earth-atlant","Atlantean","CH-9","past","The fourth great Earth epoch"],
-      ["earth-post","Post-Atlantean",null,"present","The fifth great Earth epoch"],
-      ["earth-sixth","Sixth Earth epoch","CH-18","future","A projected epoch of seven seals"],
-      ["earth-seventh","Seventh Earth epoch","CH-19","future","A projected epoch of seven trumpets"]
+      ["earth-polar","Polar","CH-6","past","First great Earth epoch"],
+      ["earth-hyper","Hyperborean","CH-7","past","Second great Earth epoch"],
+      ["earth-lemur","Lemurian","CH-8","past","Third great Earth epoch"],
+      ["earth-atlant","Atlantean","CH-9","past","Fourth great Earth epoch"],
+      ["earth-post","Post-Atlantean",null,"present","Fifth great Earth epoch"],
+      ["earth-sixth","Sixth Earth epoch","CH-18","future","Projected era of seven seals"],
+      ["earth-seventh","Seventh Earth epoch","CH-19","future","Projected era of seven trumpets"]
     ].forEach(x=>put(x[0],x[1],"cos-earth","epoch",x[2],x[3],x[4]));
-    const periods=[
-      ["Ancient Indian","past","Ancient Indian wisdom"],
-      ["Ancient Persian","past","Zarathustra and earthly development"],
-      ["Egypto-Chaldean","past","Cosmic order and the Egyptian mysteries"],
-      ["Greco-Roman","past","Intellectual or mind soul; Mystery of Golgotha"],
-      ["Consciousness-soul","present","Fifth age, from approximately 1413"],
-      ["Sixth cultural age","future","Sixth post-Atlantean period, projected"],
-      ["Seventh cultural age","future","Seventh post-Atlantean period, projected"]
-    ];
-    periods.forEach((p,i)=>put("period-"+(i+10),p[0],"earth-post","culture","CH-"+(i+10),p[1],p[2]));
-    // Add all stage-specific records as leaf rays. Group-linked Earth-wide claims
-    // remain readable in the Earth panel; they are not invented eighth epochs.
-    for(const n of [...nodes.values()]){
-      if(!n.group)continue;
-      d.events.filter(e=>e.parent_id===n.group).forEach(e=>{
-        put(e.id,e.title.replace(/\.$/,""),n.id,"event",null,
-          n.status==="future"?"future":n.status==="present"?"present":"past",e.description);
-      });
+    for(let i=0;i<7;i++){
+      const g="CH-"+(i+10);
+      put("period-"+(i+10),periodNames[i],"earth-post","culture",g,
+        i<4?"past":i===4?"present":"future",groups.get(g)?.title||"Post-Atlantean cultural period");
+    }
+    // Research records have a single attested/attributed parent. They become
+    // the full-length spokes when their parent period is entered.
+    const parents=[...nodes.values()].filter(n=>n.group);
+    for(const n of parents){
+      // CH-5 describes Earth-wide processes; they are not six extra formal epochs.
+      if(n.id==="cos-earth")continue;
+      for(const e of input.events.filter(ev=>ev.parent_id===n.group)){
+        const status=n.status==="future"?"future":
+          (e.chronology_status==="projected"?"future":n.status==="present"?"present":"past");
+        put(e.id,e.title.replace(/\.$/,""),n.id,"event",null,status,e.description);
+      }
     }
   }
-  function children(id){return [...nodes.values()].filter(n=>n.parent===id);}
-  function parents(id){const a=[];while(id && nodes.has(id)){a.unshift(id);id=nodes.get(id).parent;}return a;}
-  function sourceRecords(group){
-    if(!group)return [];
-    const ids=new Set();
-    for(const e of chronology.events)if(e.parent_id===group)e.source_ids.forEach(id=>ids.add(id));
-    return [...ids].map(id=>sources.get(id)).filter(Boolean);
+  function getChildren(id){return [...nodes.values()].filter(n=>n.parent===id);}
+  function getParents(id){const result=[];while(id&&nodes.has(id)){result.unshift(id);id=nodes.get(id).parent;}return result;}
+  function hasChildren(id){return getChildren(id).length>0;}
+  function preferredChild(id){
+    const ids=getChildren(id).map(n=>n.id);
+    const pick={root:"cos-earth","cos-earth":"earth-post","earth-post":"period-14"};
+    return ids.includes(pick[id])?pick[id]:ids[0]||null;
   }
-  function defaultChild(id){
-    const c=children(id);
-    if(!c.length)return null;
-    if(id==="root")return "cos-earth";
-    if(id==="cos-earth")return "earth-post";
-    if(id==="earth-post")return "period-14";
-    return c[0].id;
+  function defaultAngle(id){
+    const c=getChildren(id);
+    const prefer=preferredChild(id);
+    const at=c.findIndex(x=>x.id===prefer);
+    return at<0?0:-at*(c.length===7?40:360/c.length);
   }
-  function writeLocation(id){
-    try{history.replaceState(null,"","#"+encodeURIComponent(id));}
-    catch(e){location.hash=encodeURIComponent(id);}
-  }
-  function openRay(id){
-    const n=nodes.get(id);
-    if(!n)return;
-    if(children(id).length){
-      focus=id;inspected=id;activeMain=defaultChild(id);
-    }else{
-      inspected=id;
-      if(n.parent&&n.parent!==focus)focus=n.parent;
-      activeMain=id;
-    }
-    previewOnHover=null;writeLocation(id);render();
-  }
-  function goToFocus(id){
-    if(!nodes.has(id))return;
-    focus=id;inspected=id;activeMain=defaultChild(id);previewOnHover=null;
-    writeLocation(id);render();
-  }
+  function rotation(){if(!rotations.has(focus))rotations.set(focus,defaultAngle(focus));return rotations.get(focus);}
   function color(n,index){
-    const past=["#d8a277","#cba887","#e0b98a","#be926f","#d6ad82","#bd9b7a"];
-    const future=["#b4a9df","#a19ad2","#c9b6e4","#979ccf"];
-    const now=["#8dd0b9","#80c8bb","#a1d8c0"];
-    const a=n.status==="future"?future:n.status==="present"?now:past;
-    return a[index % a.length];
+    const p=palettes[n.status]||palettes.past;
+    return p[index%p.length];
   }
-  function polar(radius,degrees){
-    const r=degrees*Math.PI/180;
-    return [CX+radius*Math.cos(r),CY+radius*Math.sin(r)];
+  function changeHash(id){
+    try{history.replaceState(null,"","#"+encodeURIComponent(id));}
+    catch(err){location.hash=encodeURIComponent(id);}
   }
-  function elem(tag,attributes,text){
-    const el=document.createElementNS(SVG_NS,tag);
-    if(attributes)for(const [name,value] of Object.entries(attributes))el.setAttribute(name,String(value));
-    if(text!==undefined)el.textContent=text;
-    return el;
-  }
-  function child(parent,tag,className,text){
-    const el=document.createElement(tag);
-    if(className)el.className=className;
-    if(text!==undefined)el.textContent=text;
-    parent.appendChild(el);
-    return el;
-  }
-  function makeButton(text,className,callback){
-    const b=document.createElement("button");
-    b.type="button";if(className)b.className=className;
-    b.textContent=text;b.addEventListener("click",callback);return b;
-  }
-  function beamPath(start,end,a,halfAngle){
-    const p0=polar(start,a-1.1*halfAngle);
-    const p1=polar(start+72,a-1.9*halfAngle);
-    const p2=polar(end,a);
-    const p3=polar(start+72,a+1.9*halfAngle);
-    const p4=polar(start,a+1.1*halfAngle);
-    return "M"+p0.join(" ")+" L"+p1.join(" ")+" L"+p2.join(" ")+" L"+p3.join(" ")+" L"+p4.join(" ")+" Z";
-  }
-  function normalAngle(a){return (a%360+360)%360;}
-  function truncateAtWord(name,cap){
-    if(name.length<=cap)return name;
-    const chunk=name.slice(0,cap);
-    const last=chunk.lastIndexOf(" ");
-    return (last>=cap*.55?chunk.slice(0,last):chunk.replace(/\s+$/,""))+"…";
-  }
-  function rayLabel(node,a,isChild,count){
-    const flipped=normalAngle(a)>90 && normalAngle(a)<270;
-    const rad=isChild?(flipped?487:371):(flipped?270:162);
-    const [x,y]=polar(rad,a);
-    const label=elem("text",{
-      class:"ray-label"+(isChild?" secondary":count>11?" smaller":""),
-      transform:"translate("+x+" "+y+") rotate("+(a+(flipped?180:0))+")",
-      "text-anchor":"start","dominant-baseline":"middle"
-    },truncateAtWord(node.label,isChild?19:count>11?20:24));
-    return label;
-  }
-  function addRay(parent,node,angle,index,count,isChild,isActive){
-    const g=elem("g",{
-      "data-ray":node.id,role:"button",tabindex:"0",
-      "aria-label":node.label+"; "+(children(node.id).length?"open nested chronology":"show sources"),
-      class:(isChild?"ray-secondary":"ray-primary")+(isActive?" active":" inactive")
-    });
-    g.appendChild(elem("title",{},node.label+". "+node.summary));
-    const start=isChild?secondaryR.start:primaryR.start;
-    const end=isChild?secondaryR.end:primaryR.end;
-    const half=isChild?Math.max(.44,1.1-count*.025):Math.max(.8,2.65-count*.045);
-    const c=color(node,index);
-    g.appendChild(elem("path",{d:beamPath(start,end,angle,half),class:"beam",fill:c,"fill-opacity":isActive?"1":isChild?".92":".84"}));
-    const p1=polar(start,angle),p2=polar(end-7,angle),pt=polar(end+2,angle);
-    g.appendChild(elem("line",{x1:p1[0],y1:p1[1],x2:p2[0],y2:p2[1],stroke:c,class:"ray-stem"}));
-    g.appendChild(elem("circle",{cx:pt[0],cy:pt[1],r:isChild?2.5:3.8,fill:c,class:"ray-dot"}));
-    g.appendChild(rayLabel(node,angle,isChild,count));
-    g.addEventListener("pointerenter",()=>{if(drag?.moved||isChild)return;previewOnHover=node.id;paintSecondary();});
-    // Keep the hovered parent's smaller rays visible while the pointer travels to them.
-    // Otherwise the child fan disappears before a user can select one.
-
-    parent.appendChild(g);
-  }
-  function activeChildren(){
-    const visible=children(focus);
-    const mainId=previewOnHover||activeMain;
-    if(!visible.some(x=>x.id===mainId))return {mainId:null,list:[]};
-    return {mainId,list:children(mainId).slice(0,8)};
-  }
-  function paintSecondary(){
-    const layer=$("secondary-layer");
-    if(!layer||!chronology)return;
-    layer.replaceChildren();
-    const main=children(focus),{mainId,list}=activeChildren();
-    if(!list.length)return;
-    const index=main.findIndex(x=>x.id===mainId);
-    if(index<0)return;
-    const center=-90+angleOffset+index*360/main.length;
-    const spread=Math.min(104,Math.max(45,11.8*(list.length-1)));
-    const from=center-spread/2;
-    const a0=from, a1=center+spread/2;
-    // A translucent fan ties the shorter rays to the selected long ray.
-    const hub=polar(281,center),a=polar(285,a0),b=polar(285,a1);
-    const fan=elem("path",{d:"M"+hub.join(" ")+" L"+a.join(" ")+" A285 285 0 0 1 "+b.join(" ")+" Z",
-      fill:color(nodes.get(mainId),index),"fill-opacity":".12",stroke:"none"});
-    layer.appendChild(fan);
-    list.forEach((node,i)=>{
-      const angle=center+(list.length===1?0:(i/(list.length-1)-.5)*spread);
-      addRay(layer,node,angle,i,list.length,true,inspected===node.id);
-    });
-  }
-  function paintDial(){
-    const dial=$("dial");
-    dial.replaceChildren();
-    const defs=elem("defs");
-    const soft=elem("radialGradient",{id:"sun-halo"});
-    soft.appendChild(elem("stop",{offset:"0%","stop-color":"#e3c78c","stop-opacity":".25"}));
-    soft.appendChild(elem("stop",{offset:"68%","stop-color":"#b2c9bd","stop-opacity":".045"}));
-    soft.appendChild(elem("stop",{offset:"100%","stop-color":"#b2c9bd","stop-opacity":"0"}));
-    defs.appendChild(soft);dial.appendChild(defs);
-    dial.appendChild(elem("circle",{cx:CX,cy:CY,r:388,fill:"url(#sun-halo)","pointer-events":"none"}));
-    [94,190,281,365,494].forEach((r,i)=>dial.appendChild(elem("circle",{cx:CX,cy:CY,r,
-      class:"orbit",stroke:i===1?"#eddaa622":undefined})));
-    const primaryLayer=elem("g",{id:"primary-layer"}),secondaryLayer=elem("g",{id:"secondary-layer"});
-    const main=children(focus);
-    main.forEach((node,i)=>{
-      const angle=-90+angleOffset+i*360/main.length;
-      addRay(primaryLayer,node,angle,i,main.length,false,node.id===(previewOnHover||activeMain)||node.id===inspected);
-    });
-    dial.appendChild(primaryLayer);
-    dial.appendChild(secondaryLayer);
-    paintSecondary();
-    // The historical/root categories are not duration-proportional; their rays
-    // have equal angular spacing within each active hierarchical level.
-  }
-  function buildBreadcrumbs(){
-    const box=$("breadcrumbs");box.replaceChildren();
-    const stack=parents(focus);
-    stack.forEach((id,i)=>{
-      if(i)child(box,"span",null,"›");
-      box.appendChild(makeButton(id==="root"?"The whole":fmt(id),"",()=>goToFocus(id)));
-    });
-    $("back").hidden=focus==="root";
-    $("core-kicker").textContent=focus==="root"?"THE WHOLE":nodes.get(focus).kind.toUpperCase().replace("_"," ");
-    $("core-title").textContent=focus==="root"?"Seven cosmic conditions":fmt(focus);
-    $("core-caption").textContent=focus==="root"?"Click any ray to unfold":children(focus).length+" rays within";
-    $("level-title").textContent=focus==="root"?"Seven cosmic conditions":"Inside "+fmt(focus);
-    $("level-desc").textContent=children(focus).length?"These are the larger rays at this scale. Select one to zoom further; its smaller rays preview on the dial.":"This is a research entry.";
-    $("level-badge").textContent="DEPTH "+String(parents(focus).length).padStart(2,"0");
-  }
-  function addSources(box,items){
-    const vals=items.filter(Boolean).slice(0,6);
-    if(!vals.length)return;
-    child(box,"h3",null,"STEINER SOURCE LINKS");
-    vals.forEach(s=>{
-      const a=document.createElement("a");a.className="source-link";a.href=s.url;
-      a.target="_blank";a.rel="noopener noreferrer";
-      child(a,"strong",null,s.id+" · "+s.citation_name);
-      child(a,"small",null,(s.is_primary?"Read the work / lecture":"Internal evidence checkpoint")+" ↗");
-      box.appendChild(a);
-    });
-  }
-  function field(parent,key,value){
-    const dl=child(parent,"dl","field");
-    child(dl,"dt",null,key);child(dl,"dd",null,value);
-  }
-  function evidenceLabel(code){
-    return {P:"Relevant excerpt checked",L:"Primary source lead",I:"Editorial synthesis",
-      D:"Derived chronology",X:"Textual or ethical caution"}[code]||code;
-  }
-  function statusLabel(n){
-    return n.status==="future"?"PROJECTED FUTURE":n.status==="present"?"ONGOING / EARTH":"EARLIER DEVELOPMENT";
-  }
-  function groupHeading(node){
-    if(node.group)return groups.get(node.group)?.title||node.label;
-    if(node.id==="earth-post")return "Fifth great Earth epoch";
-    return node.label;
-  }
-  function inspect(){
-    const body=$("inspector-body");body.replaceChildren();
-    const n=nodes.get(inspected)||nodes.get("root");
-    $("node-code").textContent=n.kind==="event"?n.id:(n.group||n.id).toUpperCase();
-    child(body,"div","topic-pill",n.kind==="root"?"THE FULL CYCLE":n.kind==="event"?"SOURCE-LINKED EVENT":statusLabel(n));
-    child(body,"h2",null,n.kind==="root"?"Every ray holds a world.":n.label);
-    if(n.kind==="event"){
-      const e=events.get(n.id);
-      child(body,"p",null,e.description);
-      field(body,"Part of",groups.get(e.parent_id)?.title||"Research theme");
-      field(body,"Evidence",e.evidence_flags.map(evidenceLabel).join(" · "));
-      field(body,"Scale",e.time_scale.replace(/_/g," "));
-      if(e.evidence_flags.includes("X"))child(body,"div","quote","This entry carries a source, historical or ethical caution. Read the passage in context.");
-      else child(body,"div","quote","Steiner's esoteric account: not independent verification of the historical or scientific claim.");
-      addSources(body,e.source_ids.map(id=>sources.get(id)));
+  function enter(id,animated=true){
+    if(!nodes.has(id)||changing)return;
+    const n=nodes.get(id);
+    if(!hasChildren(id)){
+      selected=id;
+      if(n.parent&&n.parent!==focus)focus=n.parent;
+      preview=id;
+      changeHash(id);
+      render();
       return;
     }
-    const cc=children(n.id);
-    const explanation=n.summary||(n.kind==="root"?
-      "Start with the great cosmic conditions, then explore Earth's epochs, its cultural periods, and individual teaching records.":groupHeading(n));
-    child(body,"p",null,explanation);
-    field(body,"Current scale",n.kind==="root"?"Entire evolutionary sequence":n.kind==="cosmic"?"Cosmic condition":n.kind==="epoch"?"Earth epoch":n.kind==="culture"?"Cultural age":"Interval");
-    field(body,"Contained rays",cc.length+"");
-    field(body,"Temporal status",n.kind==="root"?"Past · present · projected":statusLabel(n).toLowerCase());
-    if(n.id==="cos-earth"){
-      child(body,"h3",null,"EARTH-WIDE EVENTS");
-      child(body,"p",null,"The linked research also covers processes spanning many Earth epochs; these are not extra formal epochs.");
-      body.appendChild(makeButton("Read Earth-wide records →","inspector-action",()=>renderThreadGroup("CH-5")));
+    function commit(){
+      focus=id;selected=id;preview=preferredChild(id);hovering=false;
+      rotation();changeHash(id);render();
+      $("dial-svg").classList.remove("is-changing");
+      changing=false;
     }
-    if(n.id==="earth-post"){
-      child(body,"div","quote","Post-Atlantean periods are approximately or arithmetically dated in this research, not scientifically dated cosmic boundaries.");
+    if(animated&&!isReduced()){
+      changing=true;$("dial-svg").classList.add("is-changing");
+      setTimeout(commit,145);
+    }else commit();
+  }
+  function out(){
+    if(changing||focus==="root")return;
+    const old=focus, parent=nodes.get(old)?.parent||"root";
+    if(!nodes.has(parent))return;
+    changing=true;
+    const commit=()=>{
+      focus=parent;selected=old;preview=old;hovering=false;rotation();
+      changeHash(parent);
+      render();$("dial-svg").classList.remove("is-changing");changing=false;
+    };
+    if(isReduced())commit();
+    else{$("dial-svg").classList.add("is-changing");setTimeout(commit,145);}
+  }
+  function zoomTarget(){
+    if(selected!==focus&&hasChildren(selected))return selected;
+    const p=preview&&hasChildren(preview)?preview:null;
+    return p&&p!==focus?p:null;
+  }
+  function zoomIn(){const t=zoomTarget();if(t)enter(t);}
+  function gotoLevel(id){
+    if(!nodes.has(id)||changing)return;
+    if(hasChildren(id))enter(id);
+    else{
+      selected=id;
+      preview=id;
+      changeHash(id);render();
     }
+  }
+  function svgel(tag,attrs,txt){
+    const e=document.createElementNS(NS,tag);
+    if(attrs)for(const [k,v] of Object.entries(attrs))if(v!==undefined)e.setAttribute(k,String(v));
+    if(txt!==undefined)e.textContent=txt;return e;
+  }
+  function append(parent,tag,cls,txt){
+    const e=document.createElement(tag);if(cls)e.className=cls;
+    if(txt!==undefined)e.textContent=txt;parent.appendChild(e);return e;
+  }
+  function button(txt,cls,fn){
+    const e=document.createElement("button");e.type="button";
+    if(cls)e.className=cls;e.textContent=txt;e.addEventListener("click",fn);return e;
+  }
+  function pos(m,r,angle){
+    const a=angle*Math.PI/180;
+    return [m.cx+r*Math.cos(a),m.cy+r*Math.sin(a)];
+  }
+  function normalize(a){return (a%360+540)%360-180;}
+  function rayMax(m,angle){
+    const abs=Math.abs(Math.sin(angle*Math.PI/180));
+    return Math.min(m.maxR,m.boundY/Math.max(abs,.19)-12);
+  }
+  function shortName(name,max){
+    if(name.length<=max)return name;
+    let txt=name.slice(0,max-1);
+    const last=txt.lastIndexOf(" ");
+    if(last>max*.55)txt=txt.slice(0,last);
+    return txt.trim()+"…";
+  }
+  function rayText(m,text,x,y,minor){
+    // Keep words horizontally readable; do not rotate typography with the wheel.
+    const size=minor?m.minorFont:m.majorFont;
+    const avg=size*(minor?.52:.48);
+    const cap=Math.max(10,Math.floor((m.w-x-19)/avg));
+    const readable=shortName(text,Math.min(minor?24:29,cap));
+    const tx=Math.min(m.w-18,x+11);
+    return {value:readable,x:tx,y:y+(minor?0:-2),approxWidth:readable.length*avg};
+  }
+  function drawOne(layer,n,index,angle,minor,parentIndex,m){
+    if(Math.cos(angle*Math.PI/180)<.065)return false; // only a right-hand semicircle is visible.
+    const radius=rayMax(m,angle)*(minor?.61:1);
+    const start=minor?17:12;
+    const [x1,y1]=pos(m,start,angle),[x2,y2]=pos(m,radius,angle);
+    const parentColor=minor&&nodes.has(parentIndex)?color(nodes.get(parentIndex),index):null;
+    const c=minor?(parentColor||color(n,index)):color(n,index);
+    const g=svgel("g",{
+      class:"ray"+(selected===n.id?" selected":"")+(minor?" sub-ray":""),
+      tabindex:"0",role:"button","data-ray":n.id,
+      "aria-label":n.label+". "+(hasChildren(n.id)?"Select to zoom into sub-epochs":"Select to read event details")
+    });
+    g.appendChild(svgel("title",{},n.label+". "+(n.summary||"")));
+    const style={x1,y1,x2,y2,stroke:c};
+    g.appendChild(svgel("line",{...style,class:minor?"minor-stem":"stem"}));
+    g.appendChild(svgel("line",{...style,class:"hit"}));
+    g.appendChild(svgel("circle",{cx:x2,cy:y2,r:minor?3.2:selected===n.id?6:4.4,fill:c,class:"endpoint"}));
+    const t=rayText(m,n.label,x2,y2,minor);
+    // Wide invisible label hit-target; the painted label stays pointer-events:none.
+    g.appendChild(svgel("rect",{x:t.x-2,y:t.y-(minor?13:22),width:Math.max(40,t.approxWidth+10),height:minor?26:37,fill:"transparent","pointer-events":"all"}));
+    g.appendChild(svgel("text",{x:t.x,y:t.y,class:minor?"minor-label":"major-label","dominant-baseline":"central"},t.value));
+    if(minor){
+      g.appendChild(svgel("circle",{cx:x2,cy:y2,r:1.2,fill:"#fff9f0"}));
+    }
+    g.addEventListener("click",evt=>{
+      if(suppressClick||changing)return;
+      evt.stopPropagation();gotoLevel(n.id);
+    });
+    g.addEventListener("keydown",evt=>{
+      if(evt.key==="Enter"||evt.key===" "){evt.preventDefault();gotoLevel(n.id);}
+    });
+    // No DOM replacement on pointer hover: ordinary taps must always reach the ray.
+    layer.appendChild(g);return true;
+  }
+  function previewItems(n){
+    if(!n)return [];
+    const children=getChildren(n.id);
+    if(!children.length)return [];
+    const limit=5;
+    if(children.length<=limit)return children;
+    // Preserve first and last to expose direction and the largest transitions.
+    const head=children.slice(0,3),tail=children.slice(-2);
+    return [...head,...tail];
+  }
+  function paint(opts={}){
+    if(!data)return;
+    const m=metrics(),dial=$("dial-svg");
+    dial.setAttribute("viewBox","0 0 "+m.w+" "+m.h);
+    dial.replaceChildren();
+    const backgrounds=svgel("g",{"aria-hidden":"true"});
+    backgrounds.appendChild(svgel("line",{x1:m.cx,y1:55,x2:m.cx,y2:m.h-55,class:"zero-axis"}));
+    [m.maxR*.36,m.maxR*.7,m.maxR].forEach(r=>{
+      const d="M"+pos(m,r,-86).join(" ")+" A"+r+" "+r+" 0 0 1 "+pos(m,r,86).join(" ");
+      backgrounds.appendChild(svgel("path",{d,class:"guide"}));
+    });
+    dial.appendChild(backgrounds);
+    const layer=svgel("g",{id:"ray-layer"});
+    const list=getChildren(focus),step=list.length===7?40:360/Math.max(1,list.length),rot=rotation();
+    let visible=0;
+    const mainArr=[];
+    list.forEach((n,i)=>{
+      const a=normalize(rot+i*step);
+      if(Math.cos(a*Math.PI/180)<.065)return;
+      mainArr.push([n,i,a]);
+    });
+    const minors=svgel("g",{id:"subray-layer"});
+    const selectedMain=nodes.get(preview);
+    const selectedIndex=list.findIndex(x=>x.id===preview);
+    if(selectedMain&&selectedIndex>=0){
+      const center=normalize(rot+selectedIndex*step);
+      const kids=previewItems(selectedMain);
+      const sector=Math.min(38,step*.72);
+      kids.forEach((c,j)=>{
+        const delta=(kids.length===1?0:(j-(kids.length-1)/2)*sector/(kids.length-1));
+        const ang=normalize(center+delta);
+        drawOne(minors,c,j,ang,true,preview,m);
+      });
+    }
+    dial.appendChild(minors);
+    for(const [n,i,a] of mainArr)if(drawOne(layer,n,i,a,false,null,m))visible++;
+    dial.appendChild(layer);
+    const hub=svgel("g",{"aria-hidden":"true"});
+    hub.appendChild(svgel("circle",{cx:m.cx,cy:m.cy,r:21,fill:"#f6e6c7","fill-opacity":".4",class:"hub-aura"}));
+    hub.appendChild(svgel("circle",{cx:m.cx,cy:m.cy,r:11,class:"hub-ring"}));
+    hub.appendChild(svgel("circle",{cx:m.cx,cy:m.cy,r:4,class:"hub-dot"}));
+    dial.appendChild(hub);
+    $("visible-count").textContent=visible+" of "+list.length+" major rays";
+    if(!opts.retainPreview)updateButtons();
+  }
+  function renderBreadcrumbs(){
+    const b=$("breadcrumbs");b.replaceChildren();
+    const ids=getParents(focus);
+    ids.forEach((id,i)=>{
+      if(i)append(b,"span","sep","›");
+      b.appendChild(button(id==="root"?"Whole cycle":nodes.get(id).label,"",()=>{
+        if(id===focus)return;enter(id);
+      }));
+    });
+    $("level-name").textContent=focus==="root"?"The whole cosmic cycle":nodes.get(focus).label;
+    $("level-subtitle").textContent=focus==="root"?"Seven great cosmic conditions, with smaller rays between":
+      hasChildren(focus)?getChildren(focus).length+" intervals or events within this level":"A source-linked event";
+  }
+  function fillFacts(el,label,value){
+    const div=append(el,"div","fact");
+    append(div,"strong",null,label);append(div,"span",null,value);
+  }
+  function evidence(flag){
+    return {P:"Relevant English passage checked",L:"Source lead — passage audit pending",
+      I:"Editorial synthesis",D:"Derived or approximate date",X:"Textual / ethical caution"}[flag]||flag;
+  }
+  function sourceList(el,ids){
+    const records=ids.map(id=>sources.get(id)).filter(Boolean).slice(0,6);
+    if(!records.length)return;
+    append(el,"h3",null,"FOLLOW STEINER'S SOURCES");
+    records.forEach(s=>{
+      const a=document.createElement("a");a.className="source-link";a.href=s.url;
+      a.target="_blank";a.rel="noopener noreferrer";
+      append(a,"strong",null,s.id+" · "+s.citation_name);
+      append(a,"small",null,s.is_primary?"Original work / lecture ↗":"Research evidence index ↗");
+      el.appendChild(a);
+    });
+  }
+  function intervalSources(group){
+    const ids=new Set();
+    for(const e of data.events)if(e.parent_id===group)for(const id of e.source_ids)ids.add(id);
+    return [...ids];
+  }
+  function relatedResearch(el,node){
+    const relatedGroups=node.id==="root"
+      ?["CH-1","CH-17","CH-20","CH-24","CH-25","CH-26","CH-27"]
+      :node.id==="cos-earth"?["CH-5"]:[];
+    if(!relatedGroups.length)return;
+    const matches=data.events.filter(e=>relatedGroups.includes(e.parent_id));
+    const outer=append(el,"details","related-research");
+    append(outer,"summary",null,"Related cross-era research ("+matches.length+" entries)");
+    append(outer,"p",null,"These claims span several epochs or recur within human lives. They are not additional consecutive stages on the wheel.");
+    relatedGroups.forEach(groupId=>{
+      const arr=matches.filter(e=>e.parent_id===groupId);
+      if(!arr.length)return;
+      append(outer,"h3",null,groups.get(groupId)?.title||groupId);
+      arr.forEach(e=>{
+        const d=append(outer,"details","related-entry");
+        append(d,"summary",null,e.title.replace(/\.$/,""));
+        append(d,"p",null,e.description);
+        const sourceIds=e.source_ids.filter(id=>sources.has(id)).slice(0,2);
+        sourceIds.forEach(id=>{
+          const s=sources.get(id);
+          const a=append(d,"a","related-source",s.id+" · Read source ↗");
+          a.href=s.url;a.target="_blank";a.rel="noopener noreferrer";
+        });
+      });
+    });
+  }
+  function info(){
+    const el=$("info-content");el.replaceChildren();
+    const n=nodes.get(selected)||nodes.get(focus);
+    $("current-id").textContent=n.group||n.id;
+    const kind=n.kind==="root"?"WHOLE CYCLE":n.kind==="cosmic"?"COSMIC CONDITION":
+      n.kind==="epoch"?"EARTH EPOCH":n.kind==="culture"?"CULTURAL PERIOD":"RESEARCH EVENT";
+    append(el,"span","info-chip",kind);
+    append(el,"h2",null,n.kind==="root"?"The whole evolution":n.label);
+    if(n.kind==="event"){
+      const ev=events.get(n.id);
+      append(el,"p",null,ev.description);
+      fillFacts(el,"Within",groups.get(ev.parent_id)?.title||"Steiner chronology");
+      fillFacts(el,"Evidence",ev.evidence_flags.map(evidence).join(" · ")||"Primary-source review pending");
+      fillFacts(el,"Time status",ev.chronology_status.replace(/_/g," "));
+      append(el,"div","caution",
+        "This is attributed to Steiner. Historical, medical and spiritual claims are not independently established.");
+      sourceList(el,ev.source_ids);
+      return;
+    }
+    append(el,"p",null,n.summary);
+    fillFacts(el,"Position",n.kind==="root"?"Whole cosmic development":
+      (getParents(n.id).slice(1,-1).map(id=>nodes.get(id).label).join(" › ")||"Within the whole cycle"));
+    fillFacts(el,"Time",n.kind==="root"?"Past, ongoing, projected":n.status==="future"?"Projected future":n.status==="present"?"Present / ongoing":"Earlier evolutionary stage");
+    fillFacts(el,"Sub-epochs",hasChildren(n.id)?getChildren(n.id).map(x=>x.label).slice(0,7).join(" · "):"No deeper stages catalogued");
     if(n.kind==="root"){
-      child(body,"div","quote","Click any long ray to zoom in; the shorter rays show a preview of its nested events. Turn the sun by dragging anywhere on the dial.");
+      append(el,"div","caution","Turn the wheel to reveal spokes hidden to the left. Selecting any longer spoke replaces this same wheel with its smaller epochs; zoom out to recover the parent.");
+    }else if(n.id==="cos-earth"){
+      append(el,"div","caution","Earth's formal seven great epochs are displayed after zooming in. Additional Earth-wide processes span several epochs and are not extra epochs.");
+    }else if(n.kind==="culture"){
+      append(el,"div","caution","Cultural-period dates in the research are approximate or derived, not verified archaeological boundaries.");
     }
+    relatedResearch(el,n);
     if(n.group){
-      const records=chronology.events.filter(e=>e.parent_id===n.group);
-      child(body,"h3",null,"IN THIS STAGE");
-      child(body,"p",null,records.length+" research entries are associated with this interval, including transitions and activities attributed to Steiner.");
-      addSources(body,sourceRecords(n.group));
+      const group=groups.get(n.group);
+      append(el,"h3",null,"RESEARCH IN THIS INTERVAL");
+      append(el,"p",null,group?.title||"Source-linked chronology");
+      sourceList(el,intervalSources(n.group));
+    }
+    const target=zoomTarget();
+    if(target){
+      const b=button("Explore "+nodes.get(target).label+" →","info-cta",()=>enter(target));
+      el.appendChild(b);
     }
   }
-  function buildCard(box,node,index,isSmall){
-    const b=makeButton("","ray-card"+(node.id===inspected?" selected":""),()=>openRay(node.id));
-    b.style.setProperty("--ray-color",color(node,index));
-    child(b,"span","ray-index",String(index+1).padStart(2,"0")+(isSmall?" · SUB-RAY":" · MAJOR RAY"));
-    child(b,"strong",null,node.label);
-    child(b,"small",null,children(node.id).length?
-      children(node.id).length+" nested rays · open ↗":"Read source record ↗");
-    box.appendChild(b);
+  function renderLevelList(){
+    const list=$("level-list");list.replaceChildren();
+    getChildren(focus).forEach((n,i)=>{
+      const b=button("","level-card",()=>gotoLevel(n.id));
+      b.style.setProperty("--cardcolor",color(n,i));
+      if(selected===n.id)b.setAttribute("aria-current","true");
+      append(b,"small",null,String(i+1).padStart(2,"0")+" · "+n.kind.toUpperCase());
+      append(b,"strong",null,n.label);
+      append(b,"em",null,hasChildren(n.id)?"Enter its smaller spokes ↗":"Open event information ↗");
+      list.appendChild(b);
+    });
   }
-  function renderCards(){
-    const primary=$("primary-list"),secondary=$("secondary-list");
-    primary.replaceChildren();secondary.replaceChildren();
-    const main=children(focus),sub=activeChildren().list;
-    $("ray-count").textContent=main.length+" major rays";
-    $("main-count").textContent="("+main.length+")";
-    $("sub-count").textContent="("+sub.length+" visible)";
-    main.forEach((n,i)=>buildCard(primary,n,i,false));
-    sub.forEach((n,i)=>buildCard(secondary,n,i,true));
-    if(!sub.length)child(secondary,"p","empty-group","Select or point to a longer ray to preview its next layer. If no smaller rays exist, you have reached a source-linked event.");
-    if(children(activeMain||"").length>sub.length&&sub.length){
-      const more=child(secondary,"p","empty-group",
-        "Showing "+sub.length+" of "+children(activeMain).length+" sub-rays. Open the parent ray to see every event at full size.");
-      more.style.marginTop="8px";
-    }
+  function updateButtons(){
+    const up=$("zoom-out"),inside=$("zoom-in");
+    up.disabled=focus==="root";
+    const target=zoomTarget();
+    inside.disabled=!target;
+    inside.title=target?"Zoom into "+nodes.get(target).label:"No deeper level selected";
   }
   function render(){
-    if(!chronology)return;
-    paintDial();buildBreadcrumbs();inspect();renderCards();
-    if($("dial-viewport") && innerWidth<660){
-      const p=$("dial-viewport");p.scrollLeft=Math.max(0,(p.scrollWidth-p.clientWidth)/2);
-    }
+    if(!data)return;
+    renderBreadcrumbs();paint();info();renderLevelList();updateButtons();
   }
-  function renderThreadGroup(groupId){
-    if(!groups.has(groupId))return;
-    currentThread=groupId;
-    document.querySelectorAll("[data-thread]").forEach(b=>b.classList.toggle("active",b.dataset.thread===groupId));
-    const box=$("thread-detail");box.replaceChildren();box.hidden=false;
-    child(box,"h3",null,groups.get(groupId).title);
-    child(box,"p",null,"Cross-cutting records can apply to more than one era. They are not inserted as consecutive extra epochs.");
-    const list=child(box,"div","thread-records");
-    const matches=chronology.events.filter(e=>e.parent_id===groupId);
-    matches.forEach(e=>list.appendChild(makeButton(e.title.replace(/\.$/,""),"",()=>{
-      // A recurring record is kept outside the formal time hierarchy.
-      inspected="root";inspect();
-      const target=$("inspector-body");target.replaceChildren();
-      child(target,"div","topic-pill","CROSS-ERA STRAND");
-      child(target,"h2",null,e.title.replace(/\.$/,""));
-      child(target,"p",null,e.description);
-      field(target,"Evidence",e.evidence_flags.map(evidenceLabel).join(" · "));
-      addSources(target,e.source_ids.map(id=>sources.get(id)));
-      $("node-code").textContent=e.id;
-      target.scrollIntoView({behavior:"smooth",block:"nearest"});
-    })));
-    if(groupId==="CH-5")box.scrollIntoView({behavior:"smooth",block:"nearest"});
+  function turn(delta){if(!data||changing)return;rotations.set(focus,rotation()+delta);hovering=false;preview=selected!==focus?selected:preferredChild(focus);paint();}
+  function angleAt(e){
+    const svg=$("dial-svg"),m=metrics(),rect=svg.getBoundingClientRect();
+    const x=rect.left+(m.cx/m.w)*rect.width,y=rect.top+(m.cy/m.h)*rect.height;
+    return Math.atan2(e.clientY-y,e.clientX-x)*180/Math.PI;
   }
-  function rotated(delta){
-    angleOffset=(angleOffset+delta)%360;
-    paintDial();
-  }
-  function attachControls(){
-    const dial=$("dial");
-    dial.addEventListener("click",e=>{
-      if(suppressClick){suppressClick=false;return;}
-      const g=e.target.closest("[data-ray]");if(g)openRay(g.dataset.ray);
+  const angleDiff=(a,b)=>normalize(a-b);
+  function controls(){
+    const svg=$("dial-svg");
+    svg.addEventListener("pointerdown",e=>{
+      if(e.button!==0||changing||!data)return;
+      drag={id:e.pointerId,x:e.clientX,y:e.clientY,startAngle:angleAt(e),startRotation:rotation(),moved:false};
     });
-    dial.addEventListener("keydown",e=>{
-      if((e.key==="Enter"||e.key===" ")&&e.target.closest("[data-ray]")){
-        e.preventDefault();openRay(e.target.closest("[data-ray]").dataset.ray);
-      }else if(e.key==="ArrowRight"||e.key==="ArrowLeft"){
-        e.preventDefault();rotated(e.key==="ArrowRight"?15:-15);
-      }
-    });
-    function pointerAngle(e){
-      const r=dial.getBoundingClientRect();
-      const x=r.left+r.width/2, y=r.top+r.height/2;
-      return Math.atan2(e.clientY-y,e.clientX-x)*180/Math.PI;
-    }
-    function relativeDelta(a,b){return ((a-b+540)%360)-180;}
-    dial.addEventListener("pointerdown",e=>{
-      if(e.button!==0)return;
-      drag={id:e.pointerId,startX:e.clientX,startY:e.clientY,startAngle:pointerAngle(e),initial:angleOffset,moved:false};
-    });
-    dial.addEventListener("pointermove",e=>{
+    svg.addEventListener("pointermove",e=>{
       if(!drag||drag.id!==e.pointerId)return;
-      if(!drag.moved && Math.hypot(e.clientX-drag.startX,e.clientY-drag.startY)>7){
-        drag.moved=true;previewOnHover=null;
-        try{dial.setPointerCapture(e.pointerId);}catch(err){}
+      if(!drag.moved&&Math.hypot(e.clientX-drag.x,e.clientY-drag.y)>7){
+        drag.moved=true;
+        try{svg.setPointerCapture(e.pointerId);}catch(err){}
       }
-      if(!drag.moved)return;
-      angleOffset=drag.initial+relativeDelta(pointerAngle(e),drag.startAngle);
-      paintDial();
+      if(drag.moved){
+        rotations.set(focus,drag.startRotation+angleDiff(angleAt(e),drag.startAngle));
+        hovering=false;preview=selected!==focus?selected:preferredChild(focus);paint();
+      }
     });
-    function endDrag(){
-      if(drag?.moved){
-        suppressClick=true;setTimeout(()=>{suppressClick=false;},80);
-      }
+    function stopDrag(e){
+      if(!drag||drag.id!==e.pointerId)return;
+      if(drag.moved){suppressClick=true;setTimeout(()=>{suppressClick=false;},85);}
       drag=null;
     }
-    dial.addEventListener("pointerup",endDrag);
-    dial.addEventListener("pointercancel",endDrag);
-    dial.addEventListener("wheel",e=>{
-      if(Math.abs(e.deltaY)<1)return;
-      e.preventDefault();rotated(e.deltaY>0?8:-8);
+    svg.addEventListener("pointerup",stopDrag);
+    svg.addEventListener("pointercancel",stopDrag);
+    $("turn-prev").addEventListener("click",()=>turn(-23));
+    $("turn-next").addEventListener("click",()=>turn(23));
+    $("zoom-out").addEventListener("click",out);
+    $("zoom-in").addEventListener("click",zoomIn);
+    $("go-root").addEventListener("click",()=>enter("root"));
+    svg.addEventListener("wheel",e=>{
+      if(!data||changing)return;
+      e.preventDefault();
+      if(e.ctrlKey){if(e.deltaY<0)zoomIn();else out();}
+      else turn(e.deltaY>0?10:-10);
     },{passive:false});
-    $("rotate-left").addEventListener("click",()=>rotated(-24));
-    $("rotate-right").addEventListener("click",()=>rotated(24));
-    $("home").addEventListener("click",()=>goToFocus("root"));
-    $("back").addEventListener("click",()=>{if(focus!=="root")goToFocus(nodes.get(focus).parent||"root");});
-    document.querySelectorAll("[data-thread]").forEach(b=>b.addEventListener("click",()=>renderThreadGroup(b.dataset.thread)));
+    window.addEventListener("keydown",e=>{
+      if(e.target.closest("input,textarea,select,[contenteditable=true]"))return;
+      if(e.key==="Escape"||e.key==="Backspace"){e.preventDefault();out();}
+      else if(e.key==="+"||e.key==="="){e.preventDefault();zoomIn();}
+      else if(e.key==="-"){e.preventDefault();out();}
+      else if(e.key==="ArrowLeft"){e.preventDefault();turn(-12);}
+      else if(e.key==="ArrowRight"){e.preventDefault();turn(12);}
+    });
     window.addEventListener("hashchange",()=>{
       const id=decodeURIComponent(location.hash.slice(1));
-      if(nodes.has(id))openRay(id);
+      if(nodes.has(id)&&id!==selected&&!changing)enter(id,false);
     });
+    window.addEventListener("resize",()=>{if(data)paint();});
   }
-  async function boot(){
-    attachControls();
+  async function start(){
+    controls();
     try{
-      const r=await fetch(DATA_PATH,{cache:"no-cache"});
-      if(!r.ok)throw new Error("HTTP "+r.status);
-      const d=await r.json();
-      if(d.events?.length<100||!Array.isArray(d.sources)||!Array.isArray(d.groups))throw new Error("Unexpected research data");
-      buildGraph(d);
-      const id=decodeURIComponent(location.hash.slice(1));
-      if(id==="root"||id==="cos-earth"||nodes.has(id)){
-        if(id!=="root"){const n=nodes.get(id);if(children(id).length)focus=id;else focus=n.parent||"root";inspected=id;activeMain=defaultChild(focus)||id;}
+      const res=await fetch(DATA_URL,{cache:"no-store"});
+      if(!res.ok)throw Error("Research dataset: HTTP "+res.status);
+      const json=await res.json();
+      if(!Array.isArray(json.events)||json.events.length<180||!Array.isArray(json.sources))throw Error("Invalid research data");
+      prepare(json);
+      const hash=decodeURIComponent(location.hash.slice(1));
+      if(nodes.has(hash)){
+        const n=nodes.get(hash);
+        if(hasChildren(hash)){focus=hash;selected=hash;preview=preferredChild(hash);}
+        else{focus=n.parent||"root";selected=hash;preview=hash;}
       }
-      render();
-      window.__sunRayPOC={ready:true,researchEvents:d.events.length,sourceRecords:d.sources.length,
-        rootRays:children("root").length,earthEpochRays:children("cos-earth").length,
-        postAtlanteanRays:children("earth-post").length,focus:()=>focus};
-    }catch(error){
-      const panel=$("inspector-body");panel.replaceChildren();
-      child(panel,"h2",null,"Unable to load the chronology.");
-      child(panel,"p",null,"The dial needs the published JSON research index. "+error.message+". Check the GitHub Pages release and reopen this page.");
-      $("node-code").textContent="DATA UNAVAILABLE";
+      rotation();render();
+      window.__chronologyPOC={
+        ready:true,sourceCount:json.sources.length,researchEvents:json.events.length,
+        totalNodes:nodes.size,rootSpokes:getChildren("root").length,
+        earthSpokes:getChildren("cos-earth").length,culturalSpokes:getChildren("earth-post").length,
+        state:()=>({focus,selected,preview,rotation:rotation()}),
+        enter:id=>enter(id,false),out:()=>out(),rotate:deg=>turn(deg)
+      };
+    }catch(err){
+      const el=$("info-content");el.replaceChildren();
+      append(el,"h2",null,"Chronology unavailable");
+      append(el,"p",null,"The webpage could not load its source-linked research dataset: "+err.message+
+        ". The public deployment must include the matching research JSON.");
+      $("current-id").textContent="DATA ERROR";
     }
   }
-  boot();
+  start();
 })();
