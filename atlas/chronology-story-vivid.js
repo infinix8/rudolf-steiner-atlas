@@ -1,5 +1,25 @@
 "use strict";
 (() => {
+
+const paintedSprites=new Map(), spriteProbed=new Set();
+function paintedUrl(stage){return paintedSprites.get(stage)||"story-scenes/"+stage+"-eight-scenes.svg";}
+function probePainted(stage){
+  if(spriteProbed.has(stage))return;
+  spriteProbed.add(stage);
+  const path="story-scenes/"+stage+"-eight-scenes.webp";
+  const im=new Image();
+  im.onload=()=>{
+    paintedSprites.set(stage,path);
+    document.querySelectorAll(".scene-picture[data-stage]").forEach(el=>{
+      if(el.dataset.stage===stage)el.style.backgroundImage="url('"+path+"')";
+    });
+    const viewer=document.getElementById("viewer-picture");
+    if(viewer && viewer.dataset.stage===stage)viewer.style.backgroundImage="url('"+path+"')";
+  };
+  im.onerror=()=>{}; // Keep the existing authored SVG until real artwork is published.
+  im.src=path;
+}
+
 const $=id=>document.getElementById(id), VISUAL_DATA="story-scenes/story-visual-index.json", DATA="../research/steiner-hierarchical-chronology-events-v05.json", GA13="https://rsarchive.org/Books/GA013/English/RSP1969/GA013_c04.html";
 const stages=[
 ["cos-saturn","Old Saturn","CH-2","The Warmth Condition — Earliest Physical Germ","Steiner describes a first cosmic condition of warmth and spiritual activity. The earliest physical-body germ is prepared, not a solid body like ours.","Warmth","Physical germ","✶"],
@@ -54,7 +74,7 @@ function themeArt(i,abstract=false){
 }
 function openScene(c,i){
  const dialog=$("scene-viewer"),picture=$("viewer-picture");
- picture.style.backgroundImage='url("story-scenes/'+c.stage+'-eight-scenes.svg")';
+ picture.style.backgroundImage="url('"+paintedUrl(c.stage)+"')";picture.dataset.stage=c.stage;probePainted(c.stage);
  picture.style.backgroundPosition=(i%4/3*100)+'% '+(Math.floor(i/4)*100)+'%';
  picture.setAttribute("role","img");picture.setAttribute("aria-label","Symbolic scene: "+c.title);
  $("viewer-title").textContent=c.title;$("viewer-caption").textContent=c.summary;
@@ -70,7 +90,7 @@ function renderCards(list){
   const card=node("article","moment-card");card.dataset.chapter=c.id;
   const visual=node("div","moment-visual");if(c.scene){
   const picture=node("div","scene-picture");
-  picture.style.backgroundImage='url("story-scenes/'+c.stage+'-eight-scenes.svg")';
+  picture.style.backgroundImage="url('"+paintedUrl(c.stage)+"')";picture.dataset.stage=c.stage;probePainted(c.stage);
   picture.style.backgroundPosition=(i%4/3*100)+'% '+(Math.floor(i/4)*100)+'%';
   picture.setAttribute("role","img");
   picture.setAttribute("aria-label","Original symbolic illustration: "+c.title);
