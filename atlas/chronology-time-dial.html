@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#f7efe4">
+<meta name="description" content="A tactile time dial for exploring Rudolf Steiner's source-linked cosmic conditions, Earth epochs, cultural periods and documented subdivisions.">
+<title>The Chronology Time Dial · Rudolf Steiner Atlas</title>
+<link rel="stylesheet" href="chronology-time-dial.css">
+<script defer src="chronology-time-dial.js"></script>
+</head>
+<body>
+<a class="skip" href="#stage-title">Skip to selected stage</a>
+<header class="masthead">
+  <a class="identity" href="../index.html"><span class="portrait-seal" aria-hidden="true">✧</span><span><small>RUDOLF STEINER</small><strong>EVOLUTIONARY<br>CHRONOLOGY ATLAS</strong></span></a>
+  <span class="mast-motto">THE EVOLUTION OF EARTH AND HUMANITY<br>IN THE GREAT COSMIC PROCESS</span>
+  <nav class="mast-links" aria-label="Atlas pages"><a href="../index.html">Atlas home</a><a href="chronology-celestial.html">Celestial POC</a><a href="chronology-dial.html">Evolutionary arc</a><button type="button" id="open-search" title="Search chronology">⌕ <span>Search</span></button></nav>
+</header>
+<div class="layout">
+  <aside class="side-nav" aria-label="Atlas navigation">
+    <a class="active" href="chronology-time-dial.html"><span>✺</span>Time dial</a>
+    <a href="chronology-celestial.html"><span>◌</span>Celestial explorer</a>
+    <a href="chronology-dial.html"><span>◈</span>Earlier arc</a>
+    <a href="body.html"><span>♧</span>Human evolution</a>
+    <a href="agency.html"><span>✳</span>Cosmic hierarchies</a>
+    <a href="sources.html"><span>▤</span>Source archive</a>
+    <div class="side-footer">A navigation experiment, not a historical reconstruction.</div>
+  </aside>
+  <main class="experience">
+    <div id="breadcrumbs" class="breadcrumbs" aria-label="Chronology path"></div>
+    <section class="stage-overview" aria-label="Selected evolutionary stage">
+      <div id="art-panel" class="art-panel" data-theme="sun">
+        <svg id="artwork" viewBox="0 0 760 570" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Original symbolic artwork illustrating a cosmic stage">
+          <defs>
+            <radialGradient id="art-halo"><stop stop-color="#fff7c9"/><stop offset=".18" stop-color="#ffe7a1"/><stop offset=".43" stop-color="#f6a244" stop-opacity=".89"/><stop offset=".73" stop-color="#c45e6a" stop-opacity=".36"/><stop offset="1" stop-color="#654c90" stop-opacity="0"/></radialGradient>
+            <radialGradient id="art-sun"><stop stop-color="#fff8dc"/><stop offset=".33" stop-color="#ffe79f"/><stop offset=".62" stop-color="#f8ad4f"/><stop offset="1" stop-color="#e4765c" stop-opacity="0"/></radialGradient>
+            <linearGradient id="art-water" x1="0" y1="0" x2=".2" y2="1"><stop stop-color="#f3d4b7" stop-opacity=".5"/><stop offset=".5" stop-color="#8686bf" stop-opacity=".37"/><stop offset="1" stop-color="#271d5c" stop-opacity=".9"/></linearGradient>
+            <filter id="art-soft"><feGaussianBlur stdDeviation="20"/></filter>
+          </defs>
+          <g class="art-stars" fill="#ffedcb" opacity=".78"><circle cx="84" cy="74" r="2"/><circle cx="195" cy="111" r="1.8"/><circle cx="300" cy="45" r="2"/><circle cx="630" cy="95" r="2.6"/><circle cx="705" cy="250" r="1.8"/><circle cx="110" cy="300" r="2"/><circle cx="594" cy="358" r="2"/><circle cx="485" cy="67" r="1.6"/><circle cx="251" cy="365" r="1.6"/><circle cx="695" cy="470" r="1.5"/><circle cx="60" cy="496" r="1.8"/></g>
+          <circle class="art-halo" cx="382" cy="253" r="302" fill="url(#art-halo)"/>
+          <circle class="art-disc" cx="380" cy="236" r="190" fill="url(#art-sun)"/>
+          <g class="art-orbits" fill="none" stroke="#ffe1ac"><ellipse cx="374" cy="255" rx="280" ry="105" transform="rotate(-24 374 255)" stroke-width="2" opacity=".58"/><ellipse cx="378" cy="244" rx="268" ry="149" transform="rotate(30 378 244)" stroke-width="1.5" opacity=".45"/><path d="M94 295Q214 44 461 99T722 333" stroke-width="3" opacity=".53"/><path d="M15 432Q230 173 403 338T749 349" stroke-width="4" opacity=".47"/></g>
+          <g class="art-spirit" fill="none" stroke="#fff2d3" stroke-linecap="round" stroke-linejoin="round">
+            <ellipse cx="390" cy="201" rx="29" ry="39" stroke-width="4" fill="#fff2ce" fill-opacity=".16"/>
+            <path d="M368 245Q355 274 315 315L252 349M413 242Q444 277 483 306L566 327M368 256Q390 278 412 251M370 262Q333 322 346 405M413 263Q457 339 440 411M346 405Q390 438 441 409" stroke-width="12" opacity=".87"/>
+            <path d="M385 251Q375 310 382 423M398 249Q421 334 403 440M350 399Q311 452 261 480M435 409Q493 480 544 491" stroke-width="4" opacity=".72"/>
+            <path d="M354 169Q311 181 315 233M429 169Q470 195 459 253" stroke-width="5" opacity=".47"/>
+          </g>
+          <g class="art-landscape"><path d="M0 469Q82 418 149 459T310 437Q390 474 477 425T760 443V570H0Z" fill="url(#art-water)" opacity=".8"/><path d="M0 520Q163 478 311 511T760 499V570H0Z" fill="#35234e" opacity=".32"/></g>
+        </svg>
+        <span class="art-label"><span>✦</span> SYMBOLIC ILLUSTRATION · NOT LITERAL HISTORY</span>
+      </div>
+      <article class="stage-text" aria-live="polite">
+        <p class="kicker" id="stage-kind">COSMIC EVOLUTION · SECOND CONDITION</p>
+        <h1 id="stage-title">Old Sun</h1>
+        <p id="stage-subtitle" class="stage-subtitle">The Sun condition · Life and etheric organization</p>
+        <div class="flourish">✧</div>
+        <p id="stage-summary" class="stage-summary">The life-body is added to the inherited physical germ in Steiner's cosmology.</p>
+        <div id="fact-row" class="fact-row"></div>
+        <div class="section-heading">KEY DEVELOPMENTS <span class="rule"></span></div>
+        <div id="theme-cards" class="theme-cards"></div>
+        <div class="text-actions"><button id="enter-stage" class="primary" type="button">Enter this stage <span>→</span></button><button id="copy-stage" class="text-button" type="button">⌁ Copy link</button></div>
+      </article>
+      <aside class="neighbors" aria-labelledby="neighbors-heading">
+        <h2 id="neighbors-heading">NEIGHBORING STAGES</h2>
+        <div id="neighbor-cards" class="neighbor-cards"></div>
+        <div class="sources-preview"><h3>PRIMARY SOURCES</h3><div id="source-links"></div><button type="button" id="show-research">Research notes and events ↓</button></div>
+      </aside>
+    </section>
+    <section class="dial-section" aria-labelledby="dial-heading">
+      <div class="dial-head">
+        <div><p class="kicker">CHRONOLOGY DEPTH</p><h2 id="dial-heading">Rotate through time</h2></div>
+        <div class="depth-picker" role="group" aria-label="Choose the level at which the time dial operates">
+          <button type="button" data-depth="cosmic">Cosmic</button>
+          <button type="button" data-depth="epoch">Earth epochs</button>
+          <button type="button" data-depth="culture">Cultures</button>
+          <button type="button" data-depth="detail">Sub-epoch / detail</button>
+        </div>
+        <button id="up-level" class="up-level" type="button">↖ Up one level</button>
+      </div>
+      <div class="dial-surface">
+        <div id="dial-viewport" class="dial-viewport" tabindex="0" role="group" aria-label="Draggable time dial. Drag horizontally, use arrow keys or the back and forward buttons.">
+          <svg class="dial-arc" viewBox="0 0 1400 310" preserveAspectRatio="none" aria-hidden="true">
+            <defs><linearGradient id="arc-cosmos" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#6d497d"/><stop offset=".45" stop-color="#302e55"/><stop offset="1" stop-color="#8570a1"/></linearGradient></defs>
+            <path d="M-40 300 Q700 -173 1440 300L1440 350H-40Z" fill="url(#arc-cosmos)" opacity=".97"/>
+            <path d="M-40 300 Q700 -173 1440 300" fill="none" stroke="#ddad6c" stroke-width="3"/>
+            <path d="M-40 286 Q700 -189 1440 286" fill="none" stroke="#f4d7a1" stroke-width="1.2" stroke-opacity=".75"/>
+            <path d="M-40 318 Q700 -158 1440 318" fill="none" stroke="#f4d7a1" stroke-width="1" stroke-opacity=".3"/>
+          </svg>
+          <div id="dial-items" class="dial-items"></div>
+          <div class="dial-pointer" aria-hidden="true">▼</div>
+          <div id="dial-rotor" class="rotor" aria-hidden="true"><span class="rotor-grooves">✧</span></div>
+          <span class="dial-direction left" aria-hidden="true">⟵ PAST</span><span class="dial-direction right" aria-hidden="true">FUTURE ⟶</span>
+        </div>
+        <div class="dial-bottom">
+          <button id="previous" type="button" aria-label="Move backward one stage">‹ <span>BACKWARD</span></button>
+          <p><strong id="dial-selection">OLD SUN</strong><span id="dial-context">Drag the dial, tap a stage, or use ← → keys</span></p>
+          <button id="next" type="button" aria-label="Move forward one stage"><span>FORWARD</span> ›</button>
+        </div>
+      </div>
+      <p class="dial-note" id="level-description">Seven planetary conditions. The segment spacing is structural, not a claim about duration.</p>
+    </section>
+    <section id="research-detail" class="research-detail" aria-labelledby="research-heading">
+      <div class="research-header"><div><p class="kicker">EXPLORE MORE DEEPLY</p><h2 id="research-heading">Source-linked research notes</h2></div><button id="research-collapse" type="button" aria-expanded="true">Collapse −</button></div>
+      <p id="research-intro"></p>
+      <div class="research-list" id="research-list"></div>
+      <button id="research-more" type="button" hidden>Show more notes ↓</button>
+    </section>
+  </main>
+</div>
+<footer class="footer">Independent research visualization of Steiner's esoteric accounts, not established cosmic, medical or historical science. Illustrations are symbolic. <a href="https://github.com/infinix8/rudolf-steiner-atlas">Research repository</a> · <a href="chronology-celestial.html">Original celestial POC</a> · <a href="chronology-dial.html">Original arc POC</a></footer>
+<dialog id="search-dialog" aria-labelledby="search-title"><div class="search-modal"><div class="modal-head"><h2 id="search-title">Find a stage or event</h2><button id="close-search" type="button" aria-label="Close search">✕</button></div><input type="search" id="search-input" placeholder="Try Atlantis, Golgotha, etheric, Jupiter…" autocomplete="off" aria-label="Search chronology"><div id="search-results" class="search-results" aria-live="polite"></div></div></dialog>
+<div id="notification" class="notification" hidden role="status" aria-live="polite"></div>
+</body>
+</html>
