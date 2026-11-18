@@ -31,3 +31,25 @@ Run one batch conversion, inspect the sprites, commit seven WebP assets together
 ## Mobile adjustments already deployed
 
 The site has a breakpoint at 1260 CSS pixels to handle mobile browsers forcing a desktop viewport: move stage tabs into a scrollable row, present two generous image columns and one column at narrow phone widths, move research sidebars beneath the story, and shorten the fixed dial so it remains accessible. Asset painting resolution should be reviewed on an actual handset after packaging.
+
+
+## Mobile layout hotfix — 18 November 2026, follow-up
+
+After the phone screenshot revealed a squeezed desktop-like composition, an additional
+coarse-pointer and compact-layout safeguard has been staged in
+`chronology-story-vivid.css` and `chronology-story-vivid.js`. On touch/mobile
+layouts, this makes the planetary selector a horizontal strip, presents a single
+full-width story-card column, moves the notes below the story, and replaces the
+cropped curved dial on very narrow screens with a horizontally scrollable
+always-visible planet selector. Arrows and tapping stage buttons still navigate.
+
+The curated source-image crop bounds in `scripts/build_painted_story_sprites.py`
+were also tightened to remove printed title banners baked into some approved
+mockups, especially Earth, Jupiter and Vulcan. The conversion script must be run
+against the approved images and its seven WebP outputs verified before the
+approved artwork can be considered live.
+
+**Scope note:** these changes fix interaction and responsive layout. They do not
+replace the current SVG artwork by themselves. The generated WebP files still
+must be uploaded to `atlas/story-scenes/`. Do not report them as published
+unless the binary files are confirmed in the repository and live delivery.

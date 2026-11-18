@@ -21,37 +21,37 @@ SOURCES = {
     "cos-saturn": (
         "old_saturn_the_warmth_condition.png",
         [(257, 526), (535, 794), (801, 1059), (1065, 1323)],
-        [(246, 385), (518, 644)],
+        [(248, 385), (520, 642)],
     ),
     "cos-sun": (
         "old_sun_an_evolutionary_atlas.png",
         [(255, 507), (517, 779), (788, 1041), (1051, 1303)],
-        [(199, 372), (487, 638)],
+        [(202, 371), (493, 637)],
     ),
     "cos-moon": (
         "the_steiner_atlas_old_moon_chronology.png",
         [(263, 525), (534, 793), (798, 1059), (1066, 1329)],
-        [(219, 396), (510, 679)],
+        [(224, 394), (523, 678)],
     ),
     "cos-earth": (
         "earth_the_human_i_and_moral_freedom.png",
         [(251, 534), (539, 814), (820, 1089), (1094, 1364)],
-        [(208, 383), (496, 667)],
+        [(246, 382), (523, 666)],
     ),
     "cos-jupiter": (
         "rudolf_steiner_atlas_future_jupiter.png",
         [(256, 527), (537, 792), (800, 1075), (1080, 1327)],
-        [(198, 384), (488, 674)],
+        [(228, 388), (522, 674)],
     ),
     "cos-venus": (
         "future_venus_the_evolutionary_atlas.png",
         [(305, 563), (562, 818), (819, 1074), (1076, 1334)],
-        [(225, 411), (513, 673)],
+        [(232, 388), (526, 665)],
     ),
     "cos-vulcan": (
         "the_steiner_atlas_future_vulcan.png",
         [(278, 532), (538, 797), (802, 1059), (1066, 1328)],
-        [(212, 408), (510, 661)],
+        [(251, 406), (548, 681)],
     ),
 }
 
@@ -67,6 +67,8 @@ def make_sprites(source_dir: Path, output_dir: Path, cell_width=420, cell_height
         )
 
     for stage, (filename, columns, rows) in SOURCES.items():
+        # Each card's mockup ribbon/printed caption is excluded from these ROIs.
+        # Scene titles, source citations and expansion markers remain HTML UI elements.
         with Image.open(source_dir / filename) as image:
             if image.size != (1672, 941):
                 raise ValueError(f"{filename}: expected 1672×941, got {image.size}")

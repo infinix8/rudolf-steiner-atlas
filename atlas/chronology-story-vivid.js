@@ -2,6 +2,12 @@
 (() => {
 
 const paintedSprites=new Map(), spriteProbed=new Set();
+function syncCompactLayout(){
+  const touch=typeof matchMedia==="function"&&matchMedia("(pointer:coarse)").matches;
+  const narrow=window.innerWidth<1260 || (typeof screen!=="undefined"&&screen.width<800);
+  document.documentElement.classList.toggle("touch-layout",touch&&narrow);
+}
+
 function paintedUrl(stage){return paintedSprites.get(stage)||"story-scenes/"+stage+"-eight-scenes.svg";}
 function probePainted(stage){
   if(spriteProbed.has(stage))return;
@@ -140,6 +146,9 @@ function renderDial(){
  $("aside-prev").textContent=state.selected>0?"← "+stages[state.selected-1].title:"← Beginning";
  $("aside-next").textContent=state.selected<6?stages[state.selected+1].title+" →":"End →";
  $("dock-title").textContent=current().title;
+ if(document.documentElement.classList.contains("touch-layout")||window.matchMedia("(max-width: 560px)").matches){
+   requestAnimationFrame(()=>{const active=host.querySelector(".dial-stage.active"),viewport=$("dial-track");if(active && viewport){viewport.scrollLeft=Math.max(0,active.offsetLeft - viewport.clientWidth/2 + active.offsetWidth/2);}});
+ }
 }
 function render(){
  const s=current(),list=cards();
@@ -171,7 +180,8 @@ function connect(){
 }
 async function boot(){
  const p=new URLSearchParams(location.search).get("stage"),n=stages.findIndex(s=>s.id===p);
- if(n>=0)state.selected=n;connect();render();
+ if(n>=0)state.selected=n;syncCompactLayout();connect();render();
+ window.addEventListener("resize",syncCompactLayout);
  const fetched=await Promise.allSettled([fetch(DATA,{cache:"no-cache"}),fetch(VISUAL_DATA,{cache:"no-cache"})]);
  if(fetched[0].status==="fulfilled"&&fetched[0].value.ok){
   try{const d=await fetched[0].value.json();state.events=d.events||[];(d.sources||[]).forEach(s=>state.sources.set(s.id,s));}catch(e){}
