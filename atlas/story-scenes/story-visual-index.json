@@ -1,0 +1,391 @@
+{
+  "version": "1.0",
+  "note": "Curated visual themes tied to canonical research ids; order is editorial, not exact chronology. Artwork is original symbolic illustration and not documentary depiction.",
+  "stages": [
+    {
+      "stage": "cos-saturn",
+      "title": "Old Saturn",
+      "subtitle": "The warmth condition · the first physical germ",
+      "scenes": [
+        [
+          "CH-2.02",
+          "Primordial Warmth",
+          "molten",
+          "A world-condition of living warmth, before familiar solids or oceans."
+        ],
+        [
+          "CH-2.01",
+          "The Outpouring of Will",
+          "offering",
+          "Spirits of Will are described as giving of their own being to form the first bodily foundation."
+        ],
+        [
+          "CH-2.13",
+          "The First Physical Germ",
+          "cocoon",
+          "The future physical body begins as a warmth organization, not mineral flesh."
+        ],
+        [
+          "CH-2.03",
+          "The Beginning of Time",
+          "clock",
+          "Steiner connects manifest time with the earliest outward warmth condition."
+        ],
+        [
+          "CH-2.04",
+          "The Hierarchies of Saturn",
+          "council",
+          "Spiritual beings contribute formative activities at different phases, without displacing one another."
+        ],
+        [
+          "CH-2.08",
+          "Beginnings of the Senses",
+          "perception",
+          "Fire Spirits work with germinal sense possibilities, not completed physical organs."
+        ],
+        [
+          "CH-2.11",
+          "Deep Primordial Awareness",
+          "dream",
+          "Consciousness is compared to the dimmest mineral-like state."
+        ],
+        [
+          "CH-2.12",
+          "The Great Cosmic Night",
+          "night",
+          "The first condition passes into rest, preserving its accomplishments for Old Sun."
+        ]
+      ]
+    },
+    {
+      "stage": "cos-sun",
+      "title": "Old Sun",
+      "subtitle": "Life and etheric organization",
+      "scenes": [
+        [
+          "CH-3.01",
+          "Saturn Reborn in a New Form",
+          "rings",
+          "The former Saturn condition returns in transformed fashion as a foundation."
+        ],
+        [
+          "CH-3.02",
+          "The Gift of Life",
+          "offering",
+          "Spirits of Wisdom impart the germ of the etheric body."
+        ],
+        [
+          "CH-3.03",
+          "Warmth Unfolds into Air",
+          "air",
+          "A new air- or gas-like element is described alongside warmth."
+        ],
+        [
+          "CH-3.04",
+          "Light Fills the Cosmos",
+          "sunrise",
+          "Light is described as emerging with the Sun condition."
+        ],
+        [
+          "CH-3.05",
+          "Plant-like Living Growth",
+          "garden",
+          "The human germ takes on life-processes compared to plant growth, not literal leaves."
+        ],
+        [
+          "CH-3.07",
+          "Formative Work of the Hierarchies",
+          "council",
+          "Several orders of spiritual beings elaborate the evolving organization."
+        ],
+        [
+          "CH-3.09",
+          "Sleep-like Consciousness",
+          "dream",
+          "The human germ's consciousness is likened to sleep rather than waking awareness."
+        ],
+        [
+          "CH-3.10",
+          "A Seed of Life-Spirit",
+          "seed",
+          "The later Life-Spirit principle is traced to a germinal beginning."
+        ]
+      ]
+    },
+    {
+      "stage": "cos-moon",
+      "title": "Old Moon",
+      "subtitle": "Astral organization and picture-consciousness",
+      "scenes": [
+        [
+          "CH-4.01",
+          "Ancient Conditions Return",
+          "rings",
+          "Old Moon begins by recapitulating Saturn and Sun achievements."
+        ],
+        [
+          "CH-4.02",
+          "The Astral Germ Appears",
+          "offering",
+          "The Spirits of Movement contribute the astral organization."
+        ],
+        [
+          "CH-4.05",
+          "A World of Flowing Waters",
+          "ocean",
+          "Watery or fluid character joins older warmth and air tendencies."
+        ],
+        [
+          "CH-4.06",
+          "Sun and Moon Part Ways",
+          "separation",
+          "Differentiated cosmic spheres allow distinct spiritual influences to operate."
+        ],
+        [
+          "CH-4.03",
+          "Inner Feeling Awakens",
+          "connection",
+          "An inner responsiveness of sympathy, antipathy and feeling develops."
+        ],
+        [
+          "CH-4.08",
+          "The World of Living Pictures",
+          "visions",
+          "Consciousness is described as picture-forming rather than conceptual thought."
+        ],
+        [
+          "CH-4.10",
+          "Different Kingdoms of Being",
+          "creatures",
+          "Multiple levels of development coexist in Steiner's account."
+        ],
+        [
+          "CH-4.09",
+          "Seeds of the Future Soul",
+          "seed",
+          "New inner members and a germ of Spirit-Self are placed in this stage."
+        ]
+      ]
+    },
+    {
+      "stage": "cos-earth",
+      "title": "Earth",
+      "subtitle": "The human I and the growth of moral freedom",
+      "scenes": [
+        [
+          "CH-5.01",
+          "Three Conditions Remembered",
+          "rings",
+          "Earth first reworks the Saturn, Sun and Moon inheritance."
+        ],
+        [
+          "CH-5.02",
+          "The Solid Earth Condition",
+          "mountains",
+          "Steiner associates the Earth condition with mineral solidity."
+        ],
+        [
+          "CH-5.03",
+          "The Human I Takes Root",
+          "awakening",
+          "The self-conscious I becomes the distinctive task of Earth evolution."
+        ],
+        [
+          "CH-5.08",
+          "An Outer World of Objects",
+          "perception",
+          "A new relation to objects replaces earlier predominantly inward images."
+        ],
+        [
+          "CP24",
+          "The Great Earth Epochs",
+          "archways",
+          "Earth contains seven nested great epochs rather than only one human culture."
+        ],
+        [
+          "CH-8.01",
+          "Lunar Separation and Embodiment",
+          "separation",
+          "Steiner places the separation of the Moon within early Earth evolution."
+        ],
+        [
+          "CH-9.08",
+          "The Powers of Atlantean Memory",
+          "city",
+          "Steiner describes vivid pictorial memory in his Atlantean narrative."
+        ],
+        [
+          "CH-5.04",
+          "Turning Wisdom into Love",
+          "paths",
+          "The earthly moral task transforms inherited wisdom through freedom and love."
+        ]
+      ]
+    },
+    {
+      "stage": "cos-jupiter",
+      "title": "Future Jupiter",
+      "subtitle": "A projected new earthly metamorphosis",
+      "scenes": [
+        [
+          "CH-21.01",
+          "Earth Becomes Something New",
+          "newworld",
+          "Steiner projects a metamorphosed future embodiment after a cosmic interval."
+        ],
+        [
+          "CH-21.08",
+          "The Old Conditions Return",
+          "rings",
+          "Earlier cosmic states are recapitulated before Jupiter's distinct advance."
+        ],
+        [
+          "CH-21.07",
+          "Conscious Imagination",
+          "visions",
+          "The projected awareness combines living images with self-conscious clarity."
+        ],
+        [
+          "CH-21.02",
+          "A Different Kingdom of Nature",
+          "garden",
+          "The former mineral kingdom does not persist as the same kind of kingdom."
+        ],
+        [
+          "CH-21.03",
+          "New Kinds of Living Beings",
+          "creatures",
+          "The differentiated kingdoms have changed from their earthly forms."
+        ],
+        [
+          "CH-21.04",
+          "Humanity's Spiritual Harvest",
+          "awakening",
+          "The outcome of earthly moral work becomes significant for the future."
+        ],
+        [
+          "CH-21.09",
+          "Helping Other Souls",
+          "connection",
+          "Steiner describes assistance to differently developed souls as part of this stage."
+        ],
+        [
+          "CH-21.05",
+          "A Renewed Solar Relation",
+          "separation",
+          "The account describes a new interval of external solar influence."
+        ]
+      ]
+    },
+    {
+      "stage": "cos-venus",
+      "title": "Future Venus",
+      "subtitle": "Further metamorphosis and inspired consciousness",
+      "scenes": [
+        [
+          "CH-22.08",
+          "Union Before Venus",
+          "separation",
+          "A renewed Sun–Jupiter union precedes this later condition."
+        ],
+        [
+          "CH-22.01",
+          "Another Great Transformation",
+          "newworld",
+          "Future Venus follows Jupiter as a new planetary metamorphosis."
+        ],
+        [
+          "CH-22.02",
+          "The Kingdoms Are Changed",
+          "garden",
+          "Steiner's lowest surviving kingdom is no longer a separate plant kingdom."
+        ],
+        [
+          "CH-22.03",
+          "Different Human Developments",
+          "council",
+          "Steiner pictures several differently developed human levels."
+        ],
+        [
+          "CH-22.06",
+          "Inspired Tonal Perception",
+          "music",
+          "Future Venus consciousness is likened to spiritual Inspiration and inner tone."
+        ],
+        [
+          "CH-22.07",
+          "Conscious Creative Activity",
+          "creation",
+          "A new creative dimension accompanies future awareness."
+        ],
+        [
+          "CH-22.05",
+          "Venus and the Solar Forces",
+          "sunrise",
+          "New relations to solar influence are described, not present-day astronomy."
+        ],
+        [
+          "CH-22.04",
+          "A Difficult Separation",
+          "night",
+          "Steiner projects a separate sphere for beings resisting further evolution."
+        ]
+      ]
+    },
+    {
+      "stage": "cos-vulcan",
+      "title": "Future Vulcan",
+      "subtitle": "Intuition, individuality and the limits of description",
+      "scenes": [
+        [
+          "CH-23.01",
+          "The Seventh Named Condition",
+          "molten",
+          "Vulcan is the last named great condition in the sevenfold sequence."
+        ],
+        [
+          "CH-23.02",
+          "Far-future Spiritualization",
+          "awakening",
+          "Steiner presents this as a remotely projected outcome, not an available exact picture."
+        ],
+        [
+          "CH-23.04",
+          "Intuitive Participation",
+          "connection",
+          "Intuition describes entering inwardly into the life of spiritual reality."
+        ],
+        [
+          "CH-23.05",
+          "Individuality Endures",
+          "council",
+          "Steiner stresses that individuality is not lost in this future awareness."
+        ],
+        [
+          "NY24",
+          "Consciousness Beyond Images",
+          "visions",
+          "The seventh state is described as intuitive rather than ordinary visual awareness."
+        ],
+        [
+          "CH-23.06",
+          "Behind the Veil of Knowledge",
+          "veil",
+          "GA 13 explicitly limits how much can be described about this condition."
+        ],
+        [
+          "NY35",
+          "Alpha, Omega and Fulfilment",
+          "sunrise",
+          "A later lecture uses the whole-world-union image for this far-future culmination."
+        ],
+        [
+          "CH-23.03",
+          "The Open Horizon Beyond",
+          "night",
+          "The available sources do not provide an exhaustive chronology beyond Vulcan."
+        ]
+      ]
+    }
+  ]
+}

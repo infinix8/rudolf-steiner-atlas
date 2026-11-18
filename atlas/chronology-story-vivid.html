@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#382a28">
+<meta name="description" content="An expanded illustrated atlas of the planetary stages in Rudolf Steiner's evolutionary chronology, with source-linked annotations and an always-visible time dial.">
+<title>Vivid Cosmic Stories · Rudolf Steiner Atlas</title>
+<link rel="stylesheet" href="chronology-story-vivid.css">
+<script defer src="chronology-story-vivid.js"></script>
+</head>
+<body>
+<a class="skip" href="#story-title">Skip to the story</a>
+<header class="topbar">
+  <a class="brand" href="../index.html"><span class="seal" aria-hidden="true">✧</span><span><strong>Rudolf Steiner</strong><small>EVOLUTIONARY CHRONOLOGY ATLAS</small></span></a>
+  <nav aria-label="Main site navigation"><a href="../index.html">Atlas overview</a><a href="chronology-story.html?stage=cos-sun">Original story POC</a><a href="chronology-time-dial.html">Time dial</a><a href="chronology-celestial.html">Celestial POC</a></nav>
+  <button id="share" class="share" type="button" aria-label="Copy a link to this stage">↗ <span>Share</span></button>
+</header>
+<section class="title-banner">
+  <div class="banner-stars" aria-hidden="true">✦ · ✧ · ✦ · ✧ · ✦ · ✧ · ✦</div>
+  <div class="banner-content"><p class="eyebrow">THE PLANETARY STAGES · ILLUSTRATED STORIES</p><h1 id="story-title">Old Sun</h1><p id="story-tagline" class="tagline">The Sun Condition — Life and Etheric Organization</p></div>
+  <div class="banner-sun" aria-hidden="true"><span class="banner-halo"></span><span class="banner-orbit"></span><span class="banner-heart">✺</span></div>
+</section>
+<div class="page-grid">
+  <aside class="sidebar" aria-label="Planetary stages"><h2>The Planetary Stages</h2><nav id="stage-navigation" aria-label="Select planetary stage"></nav><p class="sidebar-quote">“A cosmic history of the human being and the Earth.”</p><a href="chronology-time-dial.html" class="back-link">↖ Full chronology depth controls</a></aside>
+  <main id="main" class="story-main">
+    <section class="intro" aria-labelledby="story-title"><p class="intro-copy" id="story-intro"></p><div class="quick-facts" id="quick-facts"></div></section>
+    <section class="story-content" aria-labelledby="story-heading"><div class="section-title"><div><p class="eyebrow" id="section-eyebrow">EIGHT KEY MOMENTS</p><h2 id="story-heading">The Story of Old Sun</h2></div><span class="ornament" aria-hidden="true">✺</span></div><p id="story-guidance" class="guidance">Eight illustrated moments per stage, with expandable source-linked explanations.</p><div id="story-grid" class="story-grid" aria-live="polite"></div></section>
+    <section class="research-note" id="research-note"><div><h2>Reading the sources</h2><p id="source-caution">These illustrations are symbolic interpretations of Rudolf Steiner’s esoteric claims, not photographs or established scientific prehistory. The story order is editorial and does not imply measured chronological durations.</p></div><div class="source-links" id="source-links"></div></section>
+    <section class="return-links"><a href="chronology-time-dial.html">Explore the full hierarchy →</a><a href="chronology-dial.html">Visit the evolutionary arc →</a></section>
+  </main>
+  <aside class="side-guide" aria-label="Story guide"><section class="about-card"><p class="eyebrow">AT A GLANCE</p><h2 id="about-title">About Old Sun</h2><p id="about-text"></p></section><section class="chapter-guide"><h2>Key Aspects <span>(expand for details)</span></h2><div id="chapter-links" class="chapter-links"></div></section><section class="next-card"><p class="eyebrow">IN THE GREAT EVOLUTION</p><p id="next-description"></p><div class="next-actions"><button type="button" id="aside-prev">← Earlier</button><button type="button" id="aside-next">Later →</button></div></section></aside>
+</div>
+<div class="dial-dock" role="region" aria-label="Always-visible evolutionary time dial">
+ <div class="dock-head"><div><span class="dock-overline">ROTATE THROUGH THE SEVEN CONDITIONS</span><strong id="dock-title">Old Sun</strong></div><div class="dock-instructions">Drag to turn · tap a stage · keyboard ← →</div><a class="dock-depth" href="chronology-time-dial.html">Change level ↗</a></div>
+ <div class="dial-row"><button class="dial-arrow" id="dial-back" type="button" aria-label="Previous cosmic stage">‹</button><div class="dial-track" id="dial-track" tabindex="0" aria-label="Rotatable cosmic stage dial; use arrow keys to navigate"><div class="dial-arc" aria-hidden="true"></div><div id="dial-marks" class="dial-marks"></div><div class="dial-center" aria-hidden="true">✧</div></div><button class="dial-arrow" id="dial-forward" type="button" aria-label="Next cosmic stage">›</button></div>
+</div>
+<dialog id="scene-viewer" aria-label="Expanded symbolic scene artwork"><div class="viewer-shell"><button id="viewer-close" type="button" aria-label="Close enlarged artwork">× Close</button><div id="viewer-picture" class="viewer-picture"></div><div class="viewer-detail"><h2 id="viewer-title">Illustrated scene</h2><p id="viewer-caption"></p><div id="viewer-links"></div></div></div></dialog><div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+</body>
+</html>

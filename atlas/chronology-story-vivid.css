@@ -1,0 +1,38 @@
+@import url("chronology-story.css");
+:root{--dial-height:166px}
+.title-banner{background:linear-gradient(110deg,#fdf0de 0%,#fff9ec 28%,#eacac5 53%,#55406d 80%,#2e274a 100%)}
+body[data-stage="cos-saturn"] .title-banner{background:linear-gradient(110deg,#faf0db,#f4d1b7 43%,#bb7464 67%,#39213b 100%)}
+body[data-stage="cos-moon"] .title-banner{background:linear-gradient(110deg,#fff8e8,#ccd5e0 50%,#667fa6 80%,#293455)}
+body[data-stage="cos-earth"] .title-banner{background:linear-gradient(110deg,#fff6e6,#cddfc8 48%,#6d9da4 75%,#305e6e)}
+body[data-stage="cos-jupiter"] .title-banner{background:linear-gradient(110deg,#fff6e8,#d9cdeb 50%,#8a7baa 76%,#33305a)}
+body[data-stage="cos-venus"] .title-banner{background:linear-gradient(110deg,#fff7e8,#f4d4df 47%,#b985ac 73%,#473152)}
+body[data-stage="cos-vulcan"] .title-banner{background:linear-gradient(110deg,#fff7e9,#f2d8bc 48%,#a66d92 74%,#342056)}
+.moment-card{border-radius:11px;background:linear-gradient(145deg,#fff9ec,#f7e9dc);border:1px solid #e2c7a8;padding:7px;box-shadow:0 6px 19px #77524618;transition:transform .3s,box-shadow .3s}
+.moment-card:hover{transform:translateY(-3px);box-shadow:0 10px 22px #7456402e}
+.moment-visual{aspect-ratio:900 / 560;border:2px solid #b78b57;border-radius:8px;background:linear-gradient(90deg,#2c2643,#ac7a7f);position:relative}
+.scene-picture{position:absolute;inset:0;background-size:400% 200%;background-repeat:no-repeat;background-position:center;transition:transform .45s ease,filter .45s;will-change:transform}
+.moment-card:hover .scene-picture{transform:scale(1.035);filter:saturate(1.09)}
+.scene-magnify{position:absolute;z-index:3;top:8px;right:9px;width:33px;height:33px;border:1px solid #ffefd6ad;border-radius:50%;font-size:21px;color:#fff9ea;background:#493441b8;box-shadow:0 3px 9px #24162955;display:grid;place-items:center}
+.scene-magnify:hover{background:#946c42}
+.moment-card h3{margin:9px 6px 5px;font-size:24px;color:#4d3326;line-height:1.03}
+.short-summary{font-size:14px;margin:0 6px 9px;line-height:1.32;color:#654c3a}
+.marker{padding:5px 12px 5px 4px;max-width:calc(100% - 56px);font-size:12px;min-height:30px}
+.marker span:last-child{overflow:hidden;white-space:nowrap;text-overflow:ellipsis}
+.details{margin:0 5px 9px;padding:13px;background:#fffbf2}
+.details p{font:15px/1.4 "Cormorant Garamond",Georgia,serif}
+.story-grid{row-gap:17px;column-gap:12px}
+.story-main{padding-top:25px}.section-title h2{font-size:42px}
+.guidance{font-size:12px}
+.dial-dock{background:linear-gradient(180deg,#fff7eb,#ddbc99 80%,#bc8e66);box-shadow:0 -7px 26px #35213355}
+.dial-arc{background:radial-gradient(ellipse at 50% 12%,#76628c,#3b2e51 59%,#2a2238);border-top:4px solid #e7b579}
+#scene-viewer{border:1px solid #d7af75;padding:0;border-radius:14px;background:#fff8ee;color:#4a3329;width:min(1030px,94vw);max-width:1030px;box-shadow:0 30px 70px #211529b8}
+#scene-viewer::backdrop{background:#241a30bc;backdrop-filter:blur(7px)}
+.viewer-shell{padding:12px 12px 22px}.viewer-shell>button{display:block;margin:0 0 8px auto;background:#f2dfc5;border:1px solid #b58d60;border-radius:22px;padding:6px 13px;color:#6d4831}
+.viewer-picture{width:100%;aspect-ratio:900 / 560;background-size:400% 200%;background-position:center;background-repeat:no-repeat;border:2px solid #c39861;border-radius:11px;background-color:#41324f}
+.viewer-detail{padding:8px 10px}.viewer-detail h2{font:600 38px/1.1 "Cormorant Garamond",Georgia,serif;margin:4px 0}.viewer-detail p{font:19px/1.25 "Cormorant Garamond",Georgia,serif;margin:5px 0}
+#viewer-links{display:flex;gap:10px;flex-wrap:wrap;padding-top:10px;font-size:12px}
+#viewer-links a{color:#995e38}
+@media(max-width:1150px){.story-grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
+@media(max-width:700px){:root{--dial-height:155px}.story-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:12px 8px}.moment-card{padding:5px}.moment-card h3{font-size:19px;margin:7px 3px 3px}.short-summary{font-size:13px;margin:0 4px 7px}.marker{font-size:10px;max-width:calc(100% - 38px);padding:3px 6px 3px 3px;min-height:26px}.scene-magnify{width:25px;height:25px;right:4px;top:7px;font-size:15px}.section-title h2{font-size:32px}.viewer-detail h2{font-size:30px}}
+@media(max-width:380px){.story-grid{grid-template-columns:1fr 1fr}.marker{font-size:9px}.moment-card h3{font-size:17px}}
+@media(prefers-reduced-motion:reduce){.scene-picture,.moment-card{transition:none}}
