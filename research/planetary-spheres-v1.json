@@ -1,0 +1,524 @@
+{
+  "schema_version": "1.0.0",
+  "updated": "2026-11-19",
+  "status": "curated first pass; not exhaustive",
+  "disclaimer": "An interpretive guide to Rudolf Steiner's esoteric claims, not an established account of astronomy, history, physiology or medicine.",
+  "dimensions": [
+    "Cosmic activity",
+    "Human development",
+    "Beings, mysteries & time"
+  ],
+  "sources": {
+    "GA110-I": {
+      "ga": "GA 110",
+      "date": "1909-04-12",
+      "title": "Spiritual hierarchies and planetary spheres",
+      "url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090412a01.html",
+      "note": "§§12–13: planet names as spiritual worlds, not merely visible bodies."
+    },
+    "GA110-VI": {
+      "ga": "GA 110",
+      "date": "1909-04-15",
+      "title": "The planetary boundaries of the hierarchies",
+      "url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090415p01.html",
+      "note": "§§7–19: Moon/Angels through Saturn/Thrones; Earth-centered spiritual spheres, not physical astronomy."
+    },
+    "GA110-VII": {
+      "ga": "GA 110",
+      "date": "1909-04-16",
+      "title": "Mercury and Venus nomenclature warning",
+      "url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090416p01.html",
+      "note": "Older esoteric and modern astronomical names for Mercury/Venus are interchanged in this account."
+    },
+    "GA110-V": {
+      "ga": "GA 110",
+      "date": "1909-04-14",
+      "title": "Old Saturn through future Vulcan",
+      "url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090414p01.html",
+      "note": "The seven great planetary embodiments are not the seven present astronomical spheres."
+    },
+    "GA102-III": {
+      "ga": "GA 102",
+      "date": "1908-02-15",
+      "title": "Mars, Mercury, Jupiter and Venus in soul development",
+      "url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080215p01.html",
+      "note": "§§23–25: Mars/sentient soul; Mercury/intellectual soul; Jupiter/consciousness soul; Venus/Spirit-Self; Mercury initiation teaching."
+    },
+    "GA228-I": {
+      "ga": "GA 228",
+      "date": "1923-07-27",
+      "title": "The spiritual individualities of the planets",
+      "url": "https://rsarchive.org/Lectures/GA228/English/SOL/19230727p01.html",
+      "note": "Saturn cosmic memory; Jupiter living thinking; characterizations of Mars, Venus, Mercury and Moon."
+    },
+    "GA209-I": {
+      "ga": "GA 209",
+      "date": "1921-11-24",
+      "title": "Cosmic forces and the human organism",
+      "url": "https://rsarchive.org/Lectures/GA209/English/APC1948/19211124p01.html",
+      "note": "Outer Mars/Jupiter/Saturn and consciousness pole; Venus/Mercury/Moon with metabolism and limbs; Sun as mediator."
+    },
+    "GA231-IV": {
+      "ga": "GA 231",
+      "date": "1923-11-17",
+      "title": "Planetary spheres in life between death and rebirth",
+      "url": "https://rsarchive.org/Lectures/GA231/English/SOL/19231117p01.html",
+      "note": "Human journey through spheres; Mars cosmic speech, Jupiter thought, Saturn memory."
+    },
+    "GA237-XI": {
+      "ga": "GA 237",
+      "date": "1924-08-08",
+      "title": "Planetary intelligences and their Archangels",
+      "url": "https://rsarchive.org/Lectures/GA237/English/SOL/19240808p01.html",
+      "note": "Michael, Gabriel, Raphael, Anael, Samael, Zachariel, Oriphiel; not identical with the primary planetary hierarchies."
+    },
+    "GA013-IV": {
+      "ga": "GA 13",
+      "date": "1910",
+      "title": "Occult Science, IV: Cosmic and human evolution",
+      "url": "https://rsarchive.org/Books/GA013/English/AP1972/GA013_c04.html",
+      "note": "§§91–94: Atlantis and Sun/Vulcan oracles; Vulcan Earth-oriented knowledge, art and science; planetary evolution."
+    },
+    "GA109": {
+      "ga": "GA 109",
+      "date": "1909-05-31",
+      "title": "From Buddha to Christ: the seven Atlantean oracles",
+      "url": "https://rsarchive.org/Lectures/19090531p01.html",
+      "note": "Sun Oracle and the Vulcan Oracle preparing secretly; transmission of ancient wisdom."
+    },
+    "GA204-XIV": {
+      "ga": "GA 204",
+      "date": "1921-05-13",
+      "title": "Vulcan beings and modern Earth",
+      "url": "https://rsarchive.org/Lectures/GA204/English/SOL/19210513p01.html",
+      "note": "Steiner's claim that Vulcan beings are entering earthly existence; not an astronomical discovery."
+    }
+  },
+  "planets": [
+    {
+      "id": "saturn",
+      "name": "Saturn",
+      "symbol": "♄",
+      "eyebrow": "Cosmic remembrance",
+      "tagline": "The spiritual depth of the past",
+      "hierarchy": "Thrones · Spirits of Will",
+      "archangel": "Oriphiel (planetary intelligence, GA 237)",
+      "summary": "Steiner portrays Saturn as keeper of cosmic memory, and the Thrones as primordial givers of will.",
+      "sphere": "Present Saturn: the spiritual sphere associated with cosmic memory; the boundary of the Thrones' activity in GA 110.",
+      "embodiment": "Old Saturn: the first entire planetary embodiment, not today's Saturn. The germ of physical humanity arises within warmth through the Thrones' sacrifice.",
+      "oracle": "Saturn Oracle: an Atlantean initiatory stream of supra-sensible revelation expressed especially through symbols.",
+      "lenses": [
+        {
+          "title": "Cosmic activity",
+          "lead": "Memory and primordial will",
+          "body": [
+            "Steiner calls Saturn a world-memory: what has happened in the evolution of the solar system becomes spiritually legible in its sphere. In his 1923 characterization, Saturn looks backward, while Jupiter unfolds living thought concerning the cosmic present.",
+            "In the earlier cosmic condition called Old Saturn, Steiner describes a warmth existence before solid mineral matter. The Thrones, or Spirits of Will, give of their own substance; this becomes the first germ of humanity's physical organization. This is a different use of “Saturn” from the present planet."
+          ],
+          "refs": [
+            "GA228-I",
+            "GA110-V",
+            "GA013-IV"
+          ]
+        },
+        {
+          "title": "Human development",
+          "lead": "Continuity of destiny and embodiment",
+          "body": [
+            "Saturn's cosmic memory matters to Steiner's account of the human being between death and renewed birth. GA 231 describes an ascent through planetary spheres in which the soul comes to know what the gods of the planetary world remember.",
+            "The formative contribution of the Thrones during Old Saturn is an account of the remote origin of the physical body, not a claim that present Saturn is physically building each body's cells."
+          ],
+          "refs": [
+            "GA231-IV",
+            "GA013-IV"
+          ]
+        },
+        {
+          "title": "Beings, mysteries & time",
+          "lead": "Thrones, Oriphiel and the Saturn Oracle",
+          "body": [
+            "GA 110 places the Thrones at the Saturn boundary of the spiritual hierarchy spheres. GA 237 separately associates the Archangel Oriphiel with Saturn's planetary intelligence. An Archangel administering an intelligence is not the same rank as the Thrones.",
+            "The Atlantean Saturn Oracle belongs to another historical-esoteric layer: an initiation tradition that Steiner says received revelation more as a complete symbolic communication from above."
+          ],
+          "refs": [
+            "GA110-VI",
+            "GA237-XI",
+            "GA013-IV"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jupiter",
+      "name": "Jupiter",
+      "symbol": "♃",
+      "eyebrow": "Living cosmic intelligence",
+      "tagline": "Where thought becomes wisdom",
+      "hierarchy": "Kyriotetes · Spirits of Wisdom",
+      "archangel": "Zachariel (planetary intelligence, GA 237)",
+      "summary": "Jupiter is the thinker of the cosmos, linked with wisdom and the developing consciousness soul.",
+      "sphere": "Present Jupiter: the sphere of the Kyriotetes and Steiner's 'cosmic thinker' in GA 228.",
+      "embodiment": "Future Jupiter: the next great planetary embodiment after Earth; it is not the present astronomical Jupiter.",
+      "oracle": "Jupiter Oracle: one Atlantean source stream, associated in GA 13 with receiving finished mysteries in symbolic form.",
+      "lenses": [
+        {
+          "title": "Cosmic activity",
+          "lead": "Wisdom as living thought",
+          "body": [
+            "Steiner's 1923 lecture contrasts Jupiter's creative, living cosmic thought with Saturn's memory. For him Jupiter does not merely store knowledge; it discloses formative ideas actively working in existence.",
+            "GA 110 maps the Kyriotetes, or Spirits of Wisdom, to the planetary boundary of Jupiter. This is a spiritual-region correspondence, not a measurable sphere of force in modern astronomy."
+          ],
+          "refs": [
+            "GA228-I",
+            "GA110-VI"
+          ]
+        },
+        {
+          "title": "Human development",
+          "lead": "The consciousness soul and the life of ideas",
+          "body": [
+            "GA 102 explicitly associates Jupiter beings with helping develop the consciousness soul. In GA 228, Steiner also imagines help from Jupiter beings when a person has seriously wrestled with a problem through independent thinking.",
+            "During the post-mortem journey described in GA 231, Jupiter is the sphere in which a human being learns the thoughts of divine-spiritual beings, after Mars' world of spiritual speech."
+          ],
+          "refs": [
+            "GA102-III",
+            "GA228-I",
+            "GA231-IV"
+          ]
+        },
+        {
+          "title": "Beings, mysteries & time",
+          "lead": "Kyriotetes, Zachariel and future Jupiter",
+          "body": [
+            "The primary GA 110 sphere association is Kyriotetes. The Archangel Zachariel is named in GA 237 in a separate account of the planetary intelligences; the two attributions are complementary levels, not competing answers.",
+            "The present Jupiter Oracle tradition and the future cosmic Jupiter should not be collapsed. One is a stream of Atlantean initiation; the other is Steiner's proposed next embodiment of Earth's total evolution."
+          ],
+          "refs": [
+            "GA110-VI",
+            "GA237-XI",
+            "GA110-V",
+            "GA013-IV"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mars",
+      "name": "Mars",
+      "symbol": "♂",
+      "eyebrow": "Creative utterance",
+      "tagline": "Movement, speech and soul awakening",
+      "hierarchy": "Dynamis · Spirits of Movement",
+      "archangel": "Samael (planetary intelligence, GA 237)",
+      "summary": "The Mars sphere relates to cosmic movement and speech, and in GA 102 to the sentient soul.",
+      "sphere": "Present Mars: a boundary of the Dynamis' activity and a realm of spiritual speech in the after-death account.",
+      "embodiment": "No separate 'Old Mars' great planetary embodiment belongs to the standard sevenfold Saturn–Sun–Moon–Earth–Jupiter–Venus–Vulcan sequence.",
+      "oracle": "Mars Oracle: an Atlantean initiatory stream receiving higher revelation predominantly in symbolic forms.",
+      "lenses": [
+        {
+          "title": "Cosmic activity",
+          "lead": "Movement and the cosmic Word",
+          "body": [
+            "GA 110 places the Dynamis or Spirits of Movement at Mars' boundary. Steiner's picture of movement is broader than bodies changing places; it concerns the dynamic activity of a developing cosmos.",
+            "In GA 231, the human being encounters a realm of cosmic speech at Mars. This is not ordinary audible language: Steiner imagines spiritual expression as a creative ordering activity."
+          ],
+          "refs": [
+            "GA110-VI",
+            "GA231-IV"
+          ]
+        },
+        {
+          "title": "Human development",
+          "lead": "Sentient soul and expression",
+          "body": [
+            "GA 102 associates beings of Mars with the development of the sentient or feeling soul, the first of the three soul members he distinguishes there.",
+            "Other lectures connect outer Mars, Jupiter and Saturn influences with the consciousness pole of the human organism. These should be read as claims in Steiner's esoteric physiology, not a scientific account of nervous-system development."
+          ],
+          "refs": [
+            "GA102-III",
+            "GA209-I"
+          ]
+        },
+        {
+          "title": "Beings, mysteries & time",
+          "lead": "Dynamis, Samael and the Atlantean stream",
+          "body": [
+            "GA 237 names Samael in relation to the Mars intelligence, on a different level from the Dynamis association in GA 110.",
+            "Steiner distinguishes the Atlantean Mars initiates, who received finished revelation and often communicated symbolically, from the more concept-oriented Vulcan, Mercury and Venus initiates."
+          ],
+          "refs": [
+            "GA237-XI",
+            "GA013-IV",
+            "GA110-VI"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sun",
+      "name": "Sun",
+      "symbol": "☉",
+      "eyebrow": "The mediating centre",
+      "tagline": "Form, rhythm and the solar mystery",
+      "hierarchy": "Exusiai · Spirits of Form",
+      "archangel": "Michael (solar intelligence, GA 237)",
+      "summary": "The Sun mediates between planetary polarities and carries the special mystery Steiner associates with Christ.",
+      "sphere": "Present Sun sphere: central boundary of the Exusiai's guidance, and the spiritual solar region.",
+      "embodiment": "Old Sun: second great planetary embodiment, when Steiner says the etheric or life-organization is added. This is not today's physical Sun.",
+      "oracle": "Sun Oracle: the leading Atlantean centre whose guardian preserves wisdom for the post-Atlantean transition.",
+      "lenses": [
+        {
+          "title": "Cosmic activity",
+          "lead": "Formative guidance and mediation",
+          "body": [
+            "GA 110 gives the Spirits of Form or Exusiai the task of guiding humanity from one planetary embodiment to the next. Their boundary is the Sun. Steiner does not intend a heliocentric model of measurable spiritual radiation; his spheres are hierarchic regions.",
+            "In GA 209, the Sun mediates between the outer consciousness-oriented planetary influences and inner influences connected with metabolism and limbs. He associates this mediation with the human rhythmic organization."
+          ],
+          "refs": [
+            "GA110-VI",
+            "GA209-I"
+          ]
+        },
+        {
+          "title": "Human development",
+          "lead": "The I, rhythm and spiritual freedom",
+          "body": [
+            "Steiner's larger Christology connects the supreme Sun Being with the evolution of the human I. That Being must not be confused with a single ordinary Exusiai simply because the Sun boundary belongs to Spirits of Form in GA 110.",
+            "Old Sun as a cosmic embodiment is the epoch in which Steiner locates an early development of the etheric human organization; meanwhile present solar activity is presented as balancing different tendencies in the organism."
+          ],
+          "refs": [
+            "GA013-IV",
+            "GA110-V",
+            "GA209-I"
+          ]
+        },
+        {
+          "title": "Beings, mysteries & time",
+          "lead": "Exusiai, Michael and the Sun Oracle",
+          "body": [
+            "The Sun Oracle was the central Atlantean school in GA 13 and GA 109. Its mysteries were not interchangeable with the seven Rishis' transmitted planetary wisdom: Steiner says the highest Sun secret was not fully conveyed in the same manner.",
+            "GA 237 identifies Michael with the solar intelligence; that Archangel designation is a distinct explanatory layer from the Exusiai and from the supreme Christ mystery."
+          ],
+          "refs": [
+            "GA109",
+            "GA013-IV",
+            "GA237-XI",
+            "GA110-VI"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "venus",
+      "name": "Venus",
+      "symbol": "♀",
+      "eyebrow": "Soul inwardness",
+      "tagline": "A spiritual mirror of earthly experience",
+      "hierarchy": "Archai · Spirits of Personality",
+      "archangel": "Anael (planetary intelligence, GA 237)",
+      "summary": "Venus is associated with the Archai, human soul disposition and the entry of Spirit-Self into the consciousness soul.",
+      "sphere": "Present Venus: in GA 110 the boundary of the Archai; GA 228 characterizes its spiritual receptivity to earthly soul life.",
+      "embodiment": "Future Venus: the sixth great planetary embodiment, following future Jupiter; not a prediction about the present planet's surface.",
+      "oracle": "Venus Oracle: in GA 13, its initiates express higher mysteries through thoughts and concepts rather than only symbols.",
+      "lenses": [
+        {
+          "title": "Cosmic activity",
+          "lead": "Personality and the soul's inner tone",
+          "body": [
+            "GA 110 gives the Archai or Spirits of Personality a domain reaching to Venus and associates them with guidance on the scale of humanity's historical development.",
+            "In GA 228 Steiner paints Venus as responsive to inward earthly experiences—feeling, temperament and soul qualities. This specific characterization should not be flattened into the popular slogan 'Venus equals romantic love.'"
+          ],
+          "refs": [
+            "GA110-VI",
+            "GA228-I"
+          ]
+        },
+        {
+          "title": "Human development",
+          "lead": "Spirit-Self meets the consciousness soul",
+          "body": [
+            "GA 102 speaks of Venus beings cooperating when Spirit-Self begins to enter the consciousness soul, alongside Jupiter's work on the consciousness soul itself.",
+            "GA 209 groups Venus with Mercury and Moon in an inward, life-related polarity of the human body, as opposed to the consciousness emphasis of the outer three planets. These are Steiner's claims, not medically validated mechanisms."
+          ],
+          "refs": [
+            "GA102-III",
+            "GA209-I"
+          ]
+        },
+        {
+          "title": "Beings, mysteries & time",
+          "lead": "Archai, Anael and future Venus",
+          "body": [
+            "GA 237 identifies Anael as a guide of the Venus planetary intelligence, while GA 110's major hierarchy correspondence remains the Archai.",
+            "The Atlantean Venus Oracle and the future Venus embodiment are completely different uses of the same name. GA 13 places Venus initiates among those who could express received mysteries more in concepts; the future Venus stage follows future Jupiter in the sevenfold cosmic sequence."
+          ],
+          "refs": [
+            "GA237-XI",
+            "GA013-IV",
+            "GA110-V"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mercury",
+      "name": "Mercury",
+      "symbol": "☿",
+      "eyebrow": "The school of thinking",
+      "tagline": "Concepts, initiation and communication",
+      "hierarchy": "Archangeloi · Archangels",
+      "archangel": "Raphael (planetary intelligence, GA 237)",
+      "summary": "Steiner connects Mercury with intellectual-soul development and the teaching of initiates.",
+      "sphere": "Present Mercury: the sphere marking Archangeloi activity in GA 110 and a centre of intellectual connections in GA 228.",
+      "embodiment": "Mercury is not a separate great planetary embodiment in the standard sevenfold sequence, though Steiner discusses Mercury influences within Earth evolution.",
+      "oracle": "Mercury Oracle: an Atlantean teaching stream with relatively concept-forming mysteries and initiates' instruction.",
+      "lenses": [
+        {
+          "title": "Cosmic activity",
+          "lead": "Connection and articulate intelligence",
+          "body": [
+            "In GA 228, Mercury is associated with combining, arranging and relating thoughts—a different quality from Jupiter's living comprehensive wisdom.",
+            "GA 110 places the Archangeloi's sphere boundary at Mercury. They are associated there with guidance of peoples and collective humanity, beyond the individual scale of Angels."
+          ],
+          "refs": [
+            "GA228-I",
+            "GA110-VI"
+          ]
+        },
+        {
+          "title": "Human development",
+          "lead": "The intellectual or mind soul",
+          "body": [
+            "GA 102 explicitly connects Mercury beings with the development of the intellectual soul. He also says Mercury beings played a second role as teachers of initiates.",
+            "This is not a direct causal claim about the physical planet producing intelligence via a measurable signal. It is a proposed spiritual interpretation of the development of human thinking and initiation."
+          ],
+          "refs": [
+            "GA102-III"
+          ]
+        },
+        {
+          "title": "Beings, mysteries & time",
+          "lead": "Archangels, Raphael and the old naming issue",
+          "body": [
+            "GA 237 associates Raphael with Mercury's planetary intelligence, while GA 110's primary boundary is assigned to Archangels generally.",
+            "In GA 110, April 16, Steiner explicitly warns of an older esoteric nomenclature that exchanges Mercury and Venus relative to modern astronomy. When comparing editions and charts, always identify which naming scheme a passage uses.",
+            "GA 13 distinguishes Mercury Oracle initiates as being able to clothe knowledge in concepts and as foundations of knowledge of higher, supersensible realities."
+          ],
+          "refs": [
+            "GA237-XI",
+            "GA110-VII",
+            "GA013-IV"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "moon",
+      "name": "Moon",
+      "symbol": "☾",
+      "eyebrow": "Threshold of incarnation",
+      "tagline": "The individual soul and the Earth",
+      "hierarchy": "Angeloi · Angels",
+      "archangel": "Gabriel (lunar intelligence, GA 237)",
+      "summary": "The nearest sphere of individual spiritual guidance, and a symbol of embodiment and inherited conditions.",
+      "sphere": "Present Moon sphere: the nearest planetary hierarchy boundary and, in GA 110, the field of Angeloi guidance.",
+      "embodiment": "Old Moon: third great planetary embodiment, distinct from today's Moon; Steiner relates it to early astral human organization.",
+      "oracle": "Moon Oracle: one Atlantean planetary mystery stream, not to be confused with the physical satellite or Old Moon stage.",
+      "lenses": [
+        {
+          "title": "Cosmic activity",
+          "lead": "The near-Earth spiritual threshold",
+          "body": [
+            "GA 110 describes the Angels' field extending to the Moon sphere, with a special concern for individual human destinies through incarnation after incarnation.",
+            "Steiner additionally describes the present Moon as the result of a separation from Earth during its development, to provide conditions for human progress. Old Moon is an earlier planetary embodiment, not today's Moon."
+          ],
+          "refs": [
+            "GA110-VI",
+            "GA013-IV"
+          ]
+        },
+        {
+          "title": "Human development",
+          "lead": "Individual destiny and bodily inheritance",
+          "body": [
+            "The lunar realm is especially close to Steiner's account of the relation between the human soul, repeated earthly lives and becoming physically embodied.",
+            "The Moon is included with Mercury and Venus in GA 209's account of the metabolic-limb polarity. This is a spiritual-philosophical characterization rather than established anatomy or genetics."
+          ],
+          "refs": [
+            "GA110-VI",
+            "GA209-I"
+          ]
+        },
+        {
+          "title": "Beings, mysteries & time",
+          "lead": "Angels, Gabriel and Jehovah's exceptional role",
+          "body": [
+            "GA 237 connects the Archangel Gabriel with the lunar planetary intelligence; it does not change the primary GA 110 Angels/Moon correspondence.",
+            "Steiner also locates a special activity of Jehovah, whom he classifies among the Elohim or Spirits of Form, in the Moon sphere. This exceptional example shows why 'one planet = one hierarchy only' is misleading.",
+            "The Moon Oracle and Old Moon must each be read in their own context; neither can be inferred directly from observation of Earth's physical Moon."
+          ],
+          "refs": [
+            "GA237-XI",
+            "GA013-IV",
+            "GA110-VI"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vulcan",
+      "name": "Vulcan",
+      "symbol": "✧",
+      "eyebrow": "The hidden current",
+      "tagline": "A mystery with three different meanings",
+      "hierarchy": "No single secure GA 110 planetary rank",
+      "archangel": "No consistently established planetary-intelligence Archangel",
+      "summary": "The secret Atlantean Vulcan Oracle, modern Vulcan beings, and future Vulcan are separate claims in Steiner.",
+      "sphere": "Not one of the standard seven present planetary hierarchy boundaries; GA 13 says the Vulcan Oracle's leader had no separate physical planet.",
+      "embodiment": "Future Vulcan: seventh great planetary embodiment, after future Venus, not a hidden astronomical planet.",
+      "oracle": "Hidden Vulcan Oracle: an Earth-oriented Atlantean initiatory stream associated with the early foundations of arts and sciences.",
+      "lenses": [
+        {
+          "title": "The hidden Vulcan Oracle",
+          "lead": "Spiritual knowledge turned toward Earth",
+          "body": [
+            "In GA 13 Steiner says the being guiding the Vulcan Oracle did not have a special physical planet, but lived in Earth's environment. The initiates' attention turned toward earthly phenomena more than in other mystery streams.",
+            "He connects this orientation with the early foundations of arts and sciences, and distinguishes Vulcan, Venus and Mercury initiates' concept-forming activity from the more symbol-based disclosures of Saturn, Jupiter and Mars.",
+            "GA 109 describes Vulcan preparing its future task in secrecy beside the leading Sun Oracle."
+          ],
+          "refs": [
+            "GA013-IV",
+            "GA109"
+          ]
+        },
+        {
+          "title": "Vulcan beings in the present",
+          "lead": "An unusual modern spiritual claim",
+          "body": [
+            "In his May 13, 1921 lecture, Steiner claims that beings from Vulcan were beginning to enter earthly existence. He frames this in relation to the modern intellect becoming shadowy and needing to be enlivened.",
+            "This should be read as Steiner's claim about supersensible beings. It does not verify a population of extraterrestrial visitors, an unidentified astronomical planet, or an observed physical phenomenon.",
+            "The connection between these modern beings and the ancient Vulcan Oracle is suggestive within his narrative, but the texts do not supply a precise one-to-one roster of identical individual beings."
+          ],
+          "refs": [
+            "GA204-XIV",
+            "GA013-IV"
+          ]
+        },
+        {
+          "title": "Future planetary Vulcan",
+          "lead": "Seventh cosmic embodiment, not a present sphere",
+          "body": [
+            "Steiner gives the great evolutionary sequence as Old Saturn, Old Sun, Old Moon, Earth, future Jupiter, future Venus and future Vulcan. These are whole conditions of planetary-human evolution, not today's seven physical astronomical bodies.",
+            "Future Vulcan is a projected ultimate stage in that sevenfold sequence. Its relationship to the secret Atlantean Vulcan Oracle should not be stated as a proven causal identity just because the name is shared.",
+            "Unlike the seven present boundary spheres of GA 110, Vulcan cannot responsibly be assigned a single corresponding hierarchy rank on the evidence reviewed here."
+          ],
+          "refs": [
+            "GA110-V",
+            "GA013-IV",
+            "GA110-VI"
+          ]
+        }
+      ]
+    }
+  ]
+}
