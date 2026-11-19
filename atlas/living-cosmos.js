@@ -66,9 +66,9 @@ function nodeButton(id, label = nodes.get(id).label) {
   return pick;
 }
 
-function picks(ids) {
+function picks(ids, label) {
   const group = element('div', 'picks');
-  group.append(...ids.map((id) => nodeButton(id)));
+  group.append(...ids.map((id) => nodeButton(id, label?.(id))));
   return group;
 }
 
@@ -152,8 +152,10 @@ function renderHistory() {
   addGroup('Mystery traditions', membersOf('oracle'));
 }
 
-function orderedEdges() {
-  const edges = adjacency.get(state.node) ?? [];
+function orderedEdges(includeContext = true) {
+  const direct = adjacency.get(state.node) ?? [];
+  const context = includeContext ? graph.edges.filter((edge) => edge.matrix_context.includes(state.node)) : [];
+  const edges = [...new Set([...direct, ...context])];
   const order = highlights[state.node] ?? [];
   const priority = ({ id, class: level }) => order.includes(id) ? order.indexOf(id) : order.length + (level === 'D' ? 1 : 0);
   return [...edges].sort((first, second) => priority(first) - priority(second));
@@ -166,7 +168,7 @@ function opposite(edge) {
 function renderGraph() {
   const diagram = element('div', 'diagram graph');
   const next = element('div', 'neighbours');
-  const connections = [...new Set(orderedEdges().map(opposite))];
+  const connections = [...new Set(orderedEdges(false).map(opposite))];
   next.append(...connections.slice(0, state.shown).map((id) => nodeButton(id)));
   diagram.append(element('div', 'focus-node', nodes.get(state.node).label), next);
   viewPanel.append(diagram);
@@ -199,9 +201,12 @@ function edgeDetails(edge, inEvidenceView) {
   const title = `${nodes.get(edge.from).label} · ${edge.type.replaceAll('_', ' ')} · ${nodes.get(edge.to).label}`;
   const summary = element('summary', '', title);
   const body = element('div', 'edge-body');
+  const destinations = edge.from === state.node || edge.to === state.node
+    ? [opposite(edge)]
+    : [edge.from, edge.to];
   body.append(element('div', 'edge-class', `${graph.evidence_classes[edge.class]} · ${edge.context}`),
     element('p', '', edge.claim), element('p', 'qualifier', edge.qualification), sourceList(edge),
-    nodeButton(opposite(edge), `Explore ${nodes.get(opposite(edge)).label}`));
+    picks(destinations, (id) => `Explore ${nodes.get(id).label}`));
   detail.append(summary, body);
   return detail;
 }
