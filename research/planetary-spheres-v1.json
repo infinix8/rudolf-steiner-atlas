@@ -1,7 +1,7 @@
 {
-  "schema_version": "1.0.0",
+  "schema_version": "1.1.0",
   "updated": "2026-11-19",
-  "status": "curated first pass; not exhaustive",
+  "status": "expanded selected-source pass; 15 distinct source views; interpretation labelled; not exhaustive",
   "disclaimer": "An interpretive guide to Rudolf Steiner's esoteric claims, not an established account of astronomy, history, physiology or medicine.",
   "dimensions": [
     "Cosmic activity",
@@ -28,7 +28,8 @@
       "date": "1909-04-16",
       "title": "Mercury and Venus nomenclature warning",
       "url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090416p01.html",
-      "note": "Older esoteric and modern astronomical names for Mercury/Venus are interchanged in this account."
+      "note": "Older esoteric and modern astronomical names for Mercury/Venus are interchanged in this account.",
+      "paragraphs": "Review Mercury/Venus usage in passage context; compare translation"
     },
     "GA110-V": {
       "ga": "GA 110",
@@ -42,7 +43,8 @@
       "date": "1908-02-15",
       "title": "Mars, Mercury, Jupiter and Venus in soul development",
       "url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080215p01.html",
-      "note": "§§23–25: Mars/sentient soul; Mercury/intellectual soul; Jupiter/consciousness soul; Venus/Spirit-Self; Mercury initiation teaching."
+      "note": "§§23–25: Mars/sentient soul; Mercury/intellectual soul; Jupiter/consciousness soul; Venus/Spirit-Self; Mercury initiation teaching.",
+      "paragraphs": "§§22–25"
     },
     "GA228-I": {
       "ga": "GA 228",
@@ -70,7 +72,8 @@
       "date": "1924-08-08",
       "title": "Planetary intelligences and their Archangels",
       "url": "https://rsarchive.org/Lectures/GA237/English/SOL/19240808p01.html",
-      "note": "Michael, Gabriel, Raphael, Anael, Samael, Zachariel, Oriphiel; not identical with the primary planetary hierarchies."
+      "note": "Michael, Gabriel, Raphael, Anael, Samael, Zachariel, Oriphiel; not identical with the primary planetary hierarchies.",
+      "paragraphs": "§§13–15"
     },
     "GA013-IV": {
       "ga": "GA 13",
@@ -83,8 +86,9 @@
       "ga": "GA 109",
       "date": "1909-05-31",
       "title": "From Buddha to Christ: the seven Atlantean oracles",
-      "url": "https://rsarchive.org/Lectures/19090531p01.html",
-      "note": "Sun Oracle and the Vulcan Oracle preparing secretly; transmission of ancient wisdom."
+      "url": "https://rsarchive.org/Lectures/GA109/English/AP1986/19090531p01.html",
+      "note": "Sun Oracle and the Vulcan Oracle preparing secretly; transmission of ancient wisdom.",
+      "paragraphs": "§§9–11"
     },
     "GA204-XIV": {
       "ga": "GA 204",
@@ -92,6 +96,30 @@
       "title": "Vulcan beings and modern Earth",
       "url": "https://rsarchive.org/Lectures/GA204/English/SOL/19210513p01.html",
       "note": "Steiner's claim that Vulcan beings are entering earthly existence; not an astronomical discovery."
+    },
+    "GA121-VI": {
+      "ga": "GA 121",
+      "date": "1910-06-12",
+      "title": "Six solar Elohim and Jehovah's lunar work",
+      "url": "https://rsarchive.org/Lectures/GA121/English/SOL/19100612a01.html",
+      "paragraphs": "§§3–5",
+      "note": "Six Spirits of Form act from the Sun; Jahve/Yahweh acts through the Moon. This is a different hierarchy layer from GA110's Angeloi/Moon."
+    },
+    "GA136-V": {
+      "ga": "GA 136",
+      "date": "1912-04-07",
+      "title": "The planet as an organism of multiple hierarchies",
+      "url": "https://rsarchive.org/Lectures/GA136/English/SOL/19120407p01.html",
+      "paragraphs": "§§15–17",
+      "note": "Physical form of the planet is a Spirit-of-Form manifestation; surrounding spiritual envelopes involve many hierarchies. Corrects one-planet-one-being oversimplification."
+    },
+    "GA096-XVI": {
+      "ga": "GA 96",
+      "date": "1907-03-04",
+      "title": "Seven whole embodiments are not the seven present planets",
+      "url": "https://rsarchive.org/Lectures/GA096/English/SOL/19070304p01.html",
+      "paragraphs": "§§8–10",
+      "note": "Explicitly distinguishes Earth becoming Jupiter/Venus/Vulcan from presently visible planets with those names."
     }
   },
   "planets": [
@@ -146,7 +174,37 @@
             "GA013-IV"
           ]
         }
-      ]
+      ],
+      "insights": [
+        {
+          "id": "saturn-note-1",
+          "title": "The spiritual past is not a physical signal",
+          "body": "GA 228 contrasts Saturn's remembrance of cosmic history with Jupiter's living thought. The passage concerns spiritually perceived beings, not radiation from the ringed planet.",
+          "sourceIds": [
+            "GA228-I"
+          ],
+          "evidenceLevel": "Direct passage"
+        },
+        {
+          "id": "saturn-note-2",
+          "title": "Old Saturn is a different referent",
+          "body": "In GA 96 Steiner explicitly warns against identifying Earth's earlier Saturn condition with a human journey to the present astronomical Saturn.",
+          "sourceIds": [
+            "GA096-XVI"
+          ],
+          "evidenceLevel": "Direct passage"
+        },
+        {
+          "id": "saturn-note-3",
+          "title": "A complete planet has several hierarchies",
+          "body": "GA 136 depicts the planet's outer form as associated with Spirits of Form, while many other hierarchies form its supersensible 'envelopes'; the GA 110 Saturn/Thrones correlation is therefore not exclusive.",
+          "sourceIds": [
+            "GA136-V"
+          ],
+          "evidenceLevel": "Cross-lecture synthesis"
+        }
+      ],
+      "comparisonShort": "Cosmic memory · Thrones"
     },
     {
       "id": "jupiter",
@@ -200,7 +258,37 @@
             "GA013-IV"
           ]
         }
-      ]
+      ],
+      "insights": [
+        {
+          "id": "jupiter-note-1",
+          "title": "What Jupiter adds to thought",
+          "body": "Steiner calls Jupiter a 'thinker' that represents the cosmic present in living ideas, set against Saturn's historical remembrance.",
+          "sourceIds": [
+            "GA228-I"
+          ],
+          "evidenceLevel": "Direct passage"
+        },
+        {
+          "id": "jupiter-note-2",
+          "title": "One task can change over time",
+          "body": "In GA 102 §25 he cautions that the work of planetary beings changes through evolution, citing Jupiter beings' earlier etheric-body contributions and later role in the consciousness soul.",
+          "sourceIds": [
+            "GA102-III"
+          ],
+          "evidenceLevel": "Direct passage"
+        },
+        {
+          "id": "jupiter-note-3",
+          "title": "Future Jupiter is not today's planet",
+          "body": "GA 96 §9 expressly distinguishes the future Jupiter embodiment of Earth evolution from the visible planet bearing the same name.",
+          "sourceIds": [
+            "GA096-XVI"
+          ],
+          "evidenceLevel": "Direct passage"
+        }
+      ],
+      "comparisonShort": "Living cosmic thought · Kyriotetes"
     },
     {
       "id": "mars",
@@ -252,7 +340,37 @@
             "GA110-VI"
           ]
         }
-      ]
+      ],
+      "insights": [
+        {
+          "id": "mars-note-1",
+          "title": "Mars and soul formation",
+          "body": "GA 102 §§23–24 assigns an activity of Mars beings in the formation of the sentient or feeling soul; it is not a universal law of modern psychology.",
+          "sourceIds": [
+            "GA102-III"
+          ],
+          "evidenceLevel": "Direct passage"
+        },
+        {
+          "id": "mars-note-2",
+          "title": "Speech is not the same as motion",
+          "body": "GA 231 presents Mars as a realm of the cosmic Word, a spiritual experience between incarnations. GA 110 instead uses Mars to mark the Dynamis' sphere boundary.",
+          "sourceIds": [
+            "GA231-IV"
+          ],
+          "evidenceLevel": "Cross-lecture synthesis"
+        },
+        {
+          "id": "mars-note-3",
+          "title": "A planet is not a single god",
+          "body": "GA 136 describes planets as manifestations of a Spirit of Form surrounded by further hierarchies; Mars/Dynamis in GA 110 names one boundary within this wider model.",
+          "sourceIds": [
+            "GA136-V"
+          ],
+          "evidenceLevel": "Cross-lecture synthesis"
+        }
+      ],
+      "comparisonShort": "Cosmic movement and speech · Dynamis"
     },
     {
       "id": "sun",
@@ -306,7 +424,37 @@
             "GA110-VI"
           ]
         }
-      ]
+      ],
+      "insights": [
+        {
+          "id": "sun-note-1",
+          "title": "Six solar Elohim and one lunar Elohim",
+          "body": "GA 121 §§3–5 describes six Spirits of Form acting from the Sun and Jehovah/Jahve's cooperating activity through the Moon, in order to sustain conditions for human development.",
+          "sourceIds": [
+            "GA121-VI"
+          ],
+          "evidenceLevel": "Direct passage"
+        },
+        {
+          "id": "sun-note-2",
+          "title": "Michael's intelligence is a separate level",
+          "body": "GA 237 §§13–15 associates Michael with the solar intelligence and overall coordination of planetary intelligences; GA 110 assigns the Sun-sphere boundary to Exusiai. The sources refer to different functions.",
+          "sourceIds": [
+            "GA237-XI"
+          ],
+          "evidenceLevel": "Cross-lecture synthesis"
+        },
+        {
+          "id": "sun-note-3",
+          "title": "The Sun Oracle and hidden Vulcan",
+          "body": "GA 109 §§9–11 describes the Sun Oracle as central to Atlantean initiation while Vulcan secretly prepared a future task; this is distinct from the current planetary sphere map.",
+          "sourceIds": [
+            "GA109"
+          ],
+          "evidenceLevel": "Direct passage"
+        }
+      ],
+      "comparisonShort": "Mediating rhythm · Exusiai"
     },
     {
       "id": "venus",
@@ -358,7 +506,37 @@
             "GA110-V"
           ]
         }
-      ]
+      ],
+      "insights": [
+        {
+          "id": "venus-note-1",
+          "title": "Spirit-Self and the consciousness soul",
+          "body": "GA 102 §24 associates Venus beings with the activity of Spirit-Self entering the consciousness soul, distinct from Jupiter's related contribution.",
+          "sourceIds": [
+            "GA102-III"
+          ],
+          "evidenceLevel": "Direct passage"
+        },
+        {
+          "id": "venus-note-2",
+          "title": "Why the hierarchy map is not exclusive",
+          "body": "GA 136 §16 says the outer form of any planet expresses the activity of Spirits of Form while its 'envelopes' contain other hierarchies. Thus GA 110's Venus/Archai placement is a region boundary, not a monopoly.",
+          "sourceIds": [
+            "GA136-V"
+          ],
+          "evidenceLevel": "Cross-lecture synthesis"
+        },
+        {
+          "id": "venus-note-3",
+          "title": "Old names can switch Mercury and Venus",
+          "body": "GA 110 VII discusses an older naming convention at variance with present astronomical usage. Different passages should be read in their own historical terminology.",
+          "sourceIds": [
+            "GA110-VII"
+          ],
+          "evidenceLevel": "Direct passage"
+        }
+      ],
+      "comparisonShort": "Soul inwardness · Archai"
     },
     {
       "id": "mercury",
@@ -410,7 +588,37 @@
             "GA013-IV"
           ]
         }
-      ]
+      ],
+      "insights": [
+        {
+          "id": "mercury-note-1",
+          "title": "Two functions, one planetary stream",
+          "body": "GA 102 §§22–25 says Mercury beings formed human intellectual-soul capacities and also instructed initiates. Steiner himself calls this a double activity.",
+          "sourceIds": [
+            "GA102-III"
+          ],
+          "evidenceLevel": "Direct passage"
+        },
+        {
+          "id": "mercury-note-2",
+          "title": "Raphael and the archangelic hierarchy",
+          "body": "GA 237 lists Raphael with Mercury's planetary intelligence. GA 110 separately places the Archangeloi sphere boundary at Mercury.",
+          "sourceIds": [
+            "GA237-XI"
+          ],
+          "evidenceLevel": "Cross-lecture synthesis"
+        },
+        {
+          "id": "mercury-note-3",
+          "title": "Beware the naming shift",
+          "body": "The older esoteric interchange of Mercury and Venus discussed in GA 110 VII can change how planetary correspondences are described in different translations and lectures.",
+          "sourceIds": [
+            "GA110-VII"
+          ],
+          "evidenceLevel": "Direct passage"
+        }
+      ],
+      "comparisonShort": "Intellectual formation · Archangels"
     },
     {
       "id": "moon",
@@ -463,7 +671,37 @@
             "GA110-VI"
           ]
         }
-      ]
+      ],
+      "insights": [
+        {
+          "id": "moon-note-1",
+          "title": "Lunar Jehovah is not an Angel",
+          "body": "In GA 121 §§3–5 Jehovah/Jahve is one of the seven Elohim, or Spirits of Form, acting through the Moon; this does not contradict GA 110's Moon boundary for Angeloi.",
+          "sourceIds": [
+            "GA121-VI"
+          ],
+          "evidenceLevel": "Cross-lecture synthesis"
+        },
+        {
+          "id": "moon-note-2",
+          "title": "Moon as spiritual threshold",
+          "body": "GA 110 VI places individual Angels' domain up to the Moon; the sphere is not simply its observable rocky surface.",
+          "sourceIds": [
+            "GA110-VI"
+          ],
+          "evidenceLevel": "Direct passage"
+        },
+        {
+          "id": "moon-note-3",
+          "title": "Three meanings of Moon",
+          "body": "GA 96 differentiates Old Moon in the sevenfold cosmic development from today's astronomical Moon; the Atlantean Moon Oracle belongs to yet another type of teaching.",
+          "sourceIds": [
+            "GA096-XVI"
+          ],
+          "evidenceLevel": "Cross-lecture synthesis"
+        }
+      ],
+      "comparisonShort": "Embodiment and guidance · Angels"
     },
     {
       "id": "vulcan",
@@ -518,6 +756,229 @@
             "GA110-VI"
           ]
         }
+      ],
+      "insights": [
+        {
+          "id": "vulcan-note-1",
+          "title": "The secret Atlantean oracle",
+          "body": "GA 109 §§9–11 mentions Vulcan preparing in secrecy beside the central Sun Oracle. It does not make Vulcan an additional ordinary planet in GA 110's seven hierarchy-boundary sequence.",
+          "sourceIds": [
+            "GA109"
+          ],
+          "evidenceLevel": "Direct passage"
+        },
+        {
+          "id": "vulcan-note-2",
+          "title": "An Earth-oriented initiatory mystery",
+          "body": "GA 13 IV connects Vulcan's stream with attention to earthly phenomena and the beginnings of arts and sciences. The term Oracle here denotes an initiation current, not a newly discovered physical planet.",
+          "sourceIds": [
+            "GA013-IV"
+          ],
+          "evidenceLevel": "Direct passage"
+        },
+        {
+          "id": "vulcan-note-3",
+          "title": "Modern beings and future world must stay separate",
+          "body": "GA 204 speaks about Vulcan beings in our own age; GA 96 independently places a future Vulcan condition at the end of a whole cosmic cycle. The two statements have different referents and cannot be reduced to one astronomical object.",
+          "sourceIds": [
+            "GA096-XVI"
+          ],
+          "evidenceLevel": "Cross-lecture synthesis"
+        }
+      ],
+      "comparisonShort": "Hidden Oracle · no fixed sphere hierarchy"
+    }
+  ],
+  "studyGuide": {
+    "intro": "Compare claims made in different lectures without collapsing present planetary spheres, Atlantean oracles, and whole planetary embodiments into the same thing.",
+    "methodologicalNotes": [
+      "GA 110 gives boundaries of the spiritual hierarchies' spheres, not a rule that only that hierarchy ever works through the named planet.",
+      "GA 136 explicitly portrays a planet as the outward form of Spirits of Form while further hierarchies work around and through it.",
+      "GA 237's named Archangels administer planetary intelligences; this is a different interpretive layer from GA 110's hierarchy-to-sphere correspondence.",
+      "The term Vulcan has multiple uses. No secure primary-source warrant assigns it a single additional position in the sevenfold present-sphere hierarchy.",
+      "The Mercury/Venus interchange in GA 110 must be annotated when comparing lecture charts; the Atlas uses the GA 110 VI designations.",
+      "Steiner's passages about historical populations and hereditary groups include outdated racial theorizing; these are not scientifically valid classifications and should not be turned into normative modern claims."
+    ],
+    "pathways": [
+      {
+        "id": "souls",
+        "title": "How the human soul develops",
+        "summary": "Mars, Mercury, Jupiter and Venus in a single lecture on the three soul members and Spirit-Self.",
+        "planets": [
+          "mars",
+          "mercury",
+          "jupiter",
+          "venus"
+        ],
+        "refs": [
+          "GA102-III"
+        ],
+        "kind": "direct"
+      },
+      {
+        "id": "balance",
+        "title": "Solar and lunar guidance",
+        "summary": "Read the six solar Elohim and the exceptional lunar task of Jehovah, alongside the hierarchy-boundary map.",
+        "planets": [
+          "sun",
+          "moon"
+        ],
+        "refs": [
+          "GA121-VI",
+          "GA110-VI"
+        ],
+        "kind": "cross-source"
+      },
+      {
+        "id": "knowledge",
+        "title": "Memory, speech and thought",
+        "summary": "Explore differentiated planetary motifs across GA 228 and GA 231; do not equate them with physical brain functions.",
+        "planets": [
+          "saturn",
+          "jupiter",
+          "mars",
+          "mercury"
+        ],
+        "refs": [
+          "GA228-I",
+          "GA231-IV"
+        ],
+        "kind": "cross-source"
+      },
+      {
+        "id": "atlantic",
+        "title": "Oracles and the hidden Vulcan",
+        "summary": "Why the Sun Oracle was central, the Vulcan Oracle was kept secret, and how human conceptual knowledge emerges.",
+        "planets": [
+          "sun",
+          "vulcan"
+        ],
+        "refs": [
+          "GA109",
+          "GA013-IV"
+        ],
+        "kind": "direct"
+      },
+      {
+        "id": "embodiments",
+        "title": "Seven great cosmic stages",
+        "summary": "Distinguish Old Saturn, Old Sun, Old Moon, Earth, future Jupiter, future Venus, future Vulcan from the present oracular spheres.",
+        "planets": [
+          "saturn",
+          "sun",
+          "moon",
+          "jupiter",
+          "venus",
+          "vulcan"
+        ],
+        "refs": [
+          "GA096-XVI",
+          "GA110-V"
+        ],
+        "kind": "direct"
+      }
+    ]
+  },
+  "connections": [
+    {
+      "from": "saturn",
+      "to": "jupiter",
+      "kind": "direct",
+      "heading": "Cosmic past and living present",
+      "description": "GA 228 directly contrasts Saturn's historical remembrance with Jupiter's living thought of cosmic present.",
+      "refs": [
+        "GA228-I"
+      ]
+    },
+    {
+      "from": "mars",
+      "to": "mercury",
+      "kind": "direct",
+      "heading": "Sentient to intellectual soul",
+      "description": "In GA 102 Mars and Mercury beings are related to different developing soul members.",
+      "refs": [
+        "GA102-III"
+      ]
+    },
+    {
+      "from": "mercury",
+      "to": "jupiter",
+      "kind": "direct",
+      "heading": "Intellectual soul and consciousness soul",
+      "description": "GA 102 sets Mercury's intellectual-soul activity beside Jupiter's work on the consciousness soul.",
+      "refs": [
+        "GA102-III"
+      ]
+    },
+    {
+      "from": "jupiter",
+      "to": "venus",
+      "kind": "direct",
+      "heading": "Consciousness soul and Spirit-Self",
+      "description": "GA 102 distinguishes Jupiter's contribution to consciousness soul from Venus's cooperation when Spirit-Self acts into it.",
+      "refs": [
+        "GA102-III"
+      ]
+    },
+    {
+      "from": "sun",
+      "to": "moon",
+      "kind": "direct",
+      "heading": "The Elohim share the Earth task",
+      "description": "GA 121 places six Elohim in Sun activity and Jehovah/Jahve in the Moon, working toward an evolutionary balance.",
+      "refs": [
+        "GA121-VI"
+      ]
+    },
+    {
+      "from": "sun",
+      "to": "vulcan",
+      "kind": "direct",
+      "heading": "Central and hidden Atlantean oracles",
+      "description": "GA 109 places the leading Sun Oracle alongside a secretly preparing Vulcan stream.",
+      "refs": [
+        "GA109"
+      ]
+    },
+    {
+      "from": "moon",
+      "to": "mercury",
+      "kind": "synthesis",
+      "heading": "Individual and collective guidance",
+      "description": "Read GA 110's Angeloi/Moon and Archangeloi/Mercury boundaries as adjacent levels of guidance, not a claim that two physical planets directly cause behavior.",
+      "refs": [
+        "GA110-VI"
+      ]
+    },
+    {
+      "from": "mars",
+      "to": "jupiter",
+      "kind": "synthesis",
+      "heading": "Speech and thought after death",
+      "description": "GA 231 describes successive experiences of spiritual speech and divine thought in planetary spheres.",
+      "refs": [
+        "GA231-IV"
+      ]
+    },
+    {
+      "from": "saturn",
+      "to": "vulcan",
+      "kind": "synthesis",
+      "heading": "First and final great embodiments",
+      "description": "GA 96 places Old Saturn at the opening and future Vulcan at the end of the sevenfold evolutionary sequence; these are not present-day spheres.",
+      "refs": [
+        "GA096-XVI"
+      ]
+    },
+    {
+      "from": "venus",
+      "to": "mercury",
+      "kind": "synthesis",
+      "heading": "Two ways of relating thought and soul",
+      "description": "GA 102 and GA 110 discuss Venus and Mercury in differing contexts; comparison requires care with the older planetary nomenclature.",
+      "refs": [
+        "GA102-III",
+        "GA110-VII"
       ]
     }
   ]
