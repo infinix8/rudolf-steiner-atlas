@@ -3,6 +3,7 @@
 const root = document.getElementById("detail-root");
 const grid = document.getElementById("planet-grid");
 const slug = new URLSearchParams(location.search).get("sphere") || "saturn";
+if (root && slug === "mars") { location.replace("mars.html" + location.hash); return; }
 const topicModule = () => import("./planetary-tree-guides.js");
 
 const escapeHTML = (x) => String(x ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
