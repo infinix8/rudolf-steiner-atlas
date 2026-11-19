@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Explore the source-linked relationships between Rudolf Steiner’s cosmic evolution, planetary spheres and the human being.">
+  <title>The Living Cosmos · Rudolf Steiner Atlas</title>
+  <link rel="stylesheet" href="living-cosmos.css">
+  <script type="module" src="living-cosmos.js"></script>
+</head>
+<body>
+  <a class="skip" href="#explorer">Skip to explorer</a>
+  <header class="topbar">
+    <a class="brand" href="../index.html"><span aria-hidden="true">✧</span> Rudolf Steiner Atlas</a>
+    <nav aria-label="More of the Atlas">
+      <a href="chronology-time-dial.html">Time dial</a>
+      <a href="planetary-spheres.html">Planetary Atlas</a>
+      <a href="body.html">Body map</a>
+    </nav>
+  </header>
+  <main>
+    <section class="hero" aria-labelledby="page-title">
+      <div>
+        <h1 id="page-title">The Living Cosmos</h1>
+        <p>Follow Steiner’s connections between the evolving cosmos and the human being.</p>
+        <div class="starts">
+          <a href="?view=spheres&node=jupiter#explorer">Explore the spheres <span aria-hidden="true">↗</span></a>
+          <a href="?view=human&node=heart#explorer">Start with the human being <span aria-hidden="true">↗</span></a>
+        </div>
+      </div>
+      <div class="hero-orb" aria-hidden="true"><i></i><i></i><i></i><i></i><b></b></div>
+    </section>
+    <section class="explorer" id="explorer" aria-label="Living Cosmos explorer">
+      <nav class="views" aria-label="Explorer views">
+        <a href="?view=cosmic&node=old-saturn" data-view="cosmic">Cosmic evolution</a>
+        <a href="?view=spheres&node=jupiter" data-view="spheres">Planetary spheres</a>
+        <a href="?view=hierarchies&node=kyriotetes" data-view="hierarchies">Hierarchies</a>
+        <a href="?view=human&node=heart" data-view="human">Human microcosm</a>
+        <a href="?view=graph&node=jupiter" data-view="graph">Relationships</a>
+        <a href="?view=history&node=atlantis" data-view="history">History</a>
+        <a href="?view=evidence&node=jupiter" data-view="evidence">Evidence</a>
+      </nav>
+      <div class="toolbar">
+        <p class="selection">Exploring <strong id="selection"></strong></p>
+        <form id="jump-form" role="search">
+          <label class="visually-hidden" for="jump">Find a topic</label>
+          <input id="jump" list="topics" type="search" placeholder="Find a topic" autocomplete="off" required>
+          <datalist id="topics"></datalist>
+          <button type="submit">Go</button>
+        </form>
+      </div>
+      <p id="status" role="status" class="visually-hidden"></p>
+      <div class="workspace">
+        <section id="view" class="panel view-panel" aria-label="Selected view"><p>Loading the explorer…</p></section>
+        <section id="inspect" class="panel inspector" aria-label="Selected topic and evidence"></section>
+      </div>
+      <noscript><p>The explorer needs JavaScript. Read the <a href="../docs/research/unified-macrocosm-microcosm/MASTER_RESEARCH.md">research manuscript</a> for the source-linked account.</p></noscript>
+    </section>
+  </main>
+  <footer>
+    <p>A reading guide to Steiner’s spiritual cosmology and esoteric history.</p>
+    <div><a href="../docs/research/unified-macrocosm-microcosm/MASTER_RESEARCH.md">Research manuscript</a>
+      <a href="../docs/research/unified-macrocosm-microcosm/PRIMARY_SOURCE_LEDGER.csv">Source ledger</a>
+      <a href="../docs/research/unified-macrocosm-microcosm/KNOWLEDGE_GRAPH.json">Graph data</a></div>
+  </footer>
+</body>
+</html>

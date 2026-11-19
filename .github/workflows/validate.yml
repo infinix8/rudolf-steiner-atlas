@@ -40,6 +40,10 @@ jobs:
         run: python tools/validate_source_view_aliases.py
       - name: Check planetary organ research crosswalk
         run: node tests/planetary-organ-crosswalk-check.cjs
+      - name: Check Living Cosmos research and explorer
+        run: |
+          python tools/build_unified_cosmos.py --check
+          node --check atlas/living-cosmos.js
       - name: JavaScript syntax
         run: |
           node --check atlas/app.js

@@ -15,6 +15,7 @@ Milestone 1 · 19 November 2026. These counts cover the selected-passage Living 
 | Organ and tissue crosswalk | 7 named organ images, blood, and separate sense, nervous, glandular and reproductive systems |
 | Historical framework | Lemuria, Atlantis, 7 Atlantean subperiods and all 7 Post-Atlantean periods. The seventh culture has transition evidence only |
 | Comparisons ledger | 12 records, several with further work required. Additional open questions are indexed in the accompanying Markdown |
+| Interactive release | Seven linked views in one static Atlas page with a canonical source-linked graph |
 | C-class hypotheses | None asserted as graph edges in this milestone. See open questions for unscored hypotheses |
 
 Distinct lectures combine alternate views of GA 102 I and III, GA 110 VII and GA 128 IV. GA 231 III and IV are distinct lectures on the same date. Ledger records count unique edition/locator combinations. The term “lecture reviewed” refers to source-local passage review. No complete lecture-cycle coverage or exhaustive review of a volume is claimed here.

@@ -1,6 +1,6 @@
 # Living Cosmos research checkpoint
 
-Milestone 1 · 19 November 2026. The research baseline is the commit titled **Build the Living Cosmos primary-source foundation**, on top of `7df8c22b598e9ae4b433fbca8699a7283202b0ce`. The integration commit records its immutable research SHA here.
+Milestone 1 · 19 November 2026. The research baseline is the commit titled **Build the Living Cosmos primary-source foundation**, on top of `7df8c22b598e9ae4b433fbca8699a7283202b0ce`. Research checkpoint: [`e5921c2c1a485d965ea25937c73716d3a7fdf8b9`](https://github.com/infinix8/rudolf-steiner-atlas/commit/e5921c2c1a485d965ea25937c73716d3a7fdf8b9). The commit introducing this updated resume is the explorer integration checkpoint.
 
 Read [the synthesis](MASTER_RESEARCH.md) and [coverage](RESEARCH_COVERAGE.md). Open [the comparison ledger](CONTRADICTIONS_LEDGER.csv) and [open questions](CONTRADICTIONS_AND_OPEN_QUESTIONS.md). This milestone integrates selected source passages from the prior organ, evolution and planetary work and adds source-specific comparisons for the Mars lung germ, Saturn liver influence and GA 102 Venus/Mercury wording. The entire initial graph and CSV output regenerate from the TSV inputs.
 
@@ -13,4 +13,4 @@ Read [the synthesis](MASTER_RESEARCH.md) and [coverage](RESEARCH_COVERAGE.md). O
 5. Add precise second- and first-hierarchy developmental tasks and deeper Earth-culture profiles. Use the [chronology checkpoint](../../CHRONOLOGY_RESEARCH_RESUME.md) to reuse existing verified events and bilingual variants.
 6. Update `SOURCE_VIEWS.tsv`, `RELATIONSHIPS.tsv` and, when needed, `ENTITIES.tsv` and `MATRIX_CONTEXT.tsv`. Run `python3 tools/build_unified_cosmos.py` then `python3 tools/build_unified_cosmos.py --check`. Update the manuscript and coverage using generated counts. Batch site-affecting changes in a single integration milestone.
 
-The independent dataset and manuscript are complete enough for an initial proof of concept. Details of the explorer and exact checkpoint appear in the integration revision of this file.
+The integrated explorer is `atlas/living-cosmos.html`. It loads the canonical graph and gives every relationship a visible claim, evidence class, scope, paragraph locator and primary-source link. Open `?view=spheres&node=jupiter` for the Jupiter path, `?view=human&node=lungs` for the Mercury/Mars comparison, or `?view=evidence&node=liver` for source filtering. The same topic follows the reader across the seven views. See the existing Pages assembly workflow for the published research paths.

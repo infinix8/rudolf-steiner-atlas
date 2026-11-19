@@ -48,6 +48,12 @@ jobs:
           cp research/*.json dist/research/
           cp -R taxonomy/. dist/taxonomy/
           cp docs/*.md dist/docs/
+          mkdir -p dist/docs/research/unified-macrocosm-microcosm
+          cp docs/research/unified-macrocosm-microcosm/*.{csv,md,json} dist/docs/research/unified-macrocosm-microcosm/
+          python3 tools/build_unified_cosmos.py --check
+          test -s dist/atlas/living-cosmos.html
+          test -s dist/atlas/living-cosmos.js
+          test -s dist/atlas/living-cosmos.css
           cp -R assets/. dist/assets/
           touch dist/.nojekyll
           test -s dist/index.html
