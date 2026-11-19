@@ -1,0 +1,5213 @@
+{
+  "schema_version": 1,
+  "evidence_classes": {
+    "A": "Direct statement",
+    "B": "Cross-passage synthesis",
+    "C": "Tentative inference",
+    "D": "Open or context-dependent"
+  },
+  "datasets": {
+    "cosmic": "COSMIC_EVOLUTION_MATRIX",
+    "spheres": "PLANETARY_SPHERES_MATRIX",
+    "hierarchies": "SPIRITUAL_HIERARCHIES_MATRIX",
+    "constitution": "HUMAN_CONSTITUTION_MATRIX",
+    "organs": "ORGAN_CORRESPONDENCE_MATRIX",
+    "soul": "SOUL_FACULTY_MATRIX",
+    "history": "HISTORICAL_EPOCH_MATRIX",
+    "journey": "KARMA_AND_PLANETARY_JOURNEY",
+    "intelligence": "PLANETARY_INTELLIGENCE_MATRIX",
+    "sun-christ": "SUN_AND_CHRIST_MATRIX",
+    "zodiac": "ZODIAC_MATRIX",
+    "comparisons": "CONTRADICTIONS_LEDGER"
+  },
+  "nodes": [
+    {
+      "id": "old-saturn",
+      "kind": "stage",
+      "label": "Old Saturn",
+      "route": "chronology-time-dial.html#cos-saturn"
+    },
+    {
+      "id": "old-sun",
+      "kind": "stage",
+      "label": "Old Sun",
+      "route": "chronology-time-dial.html#cos-sun"
+    },
+    {
+      "id": "old-moon",
+      "kind": "stage",
+      "label": "Old Moon",
+      "route": "chronology-time-dial.html#cos-moon"
+    },
+    {
+      "id": "earth",
+      "kind": "stage",
+      "label": "Earth",
+      "route": "chronology-time-dial.html#cos-earth"
+    },
+    {
+      "id": "future-jupiter",
+      "kind": "stage",
+      "label": "Future Jupiter",
+      "route": "chronology-time-dial.html#cos-jupiter"
+    },
+    {
+      "id": "future-venus",
+      "kind": "stage",
+      "label": "Future Venus",
+      "route": "chronology-time-dial.html#cos-venus"
+    },
+    {
+      "id": "future-vulcan",
+      "kind": "stage",
+      "label": "Future Vulcan",
+      "route": "chronology-time-dial.html#cos-vulcan"
+    },
+    {
+      "id": "moon",
+      "kind": "sphere",
+      "label": "Moon",
+      "route": "planetary-sphere.html?sphere=moon"
+    },
+    {
+      "id": "mercury",
+      "kind": "sphere",
+      "label": "Mercury",
+      "route": "planetary-sphere.html?sphere=mercury"
+    },
+    {
+      "id": "venus",
+      "kind": "sphere",
+      "label": "Venus",
+      "route": "planetary-sphere.html?sphere=venus"
+    },
+    {
+      "id": "sun",
+      "kind": "sphere",
+      "label": "Sun",
+      "route": "planetary-sphere.html?sphere=sun"
+    },
+    {
+      "id": "mars",
+      "kind": "sphere",
+      "label": "Mars",
+      "route": "planetary-sphere.html?sphere=mars"
+    },
+    {
+      "id": "jupiter",
+      "kind": "sphere",
+      "label": "Jupiter",
+      "route": "planetary-sphere.html?sphere=jupiter"
+    },
+    {
+      "id": "saturn",
+      "kind": "sphere",
+      "label": "Saturn",
+      "route": "planetary-sphere.html?sphere=saturn"
+    },
+    {
+      "id": "hidden-vulcan",
+      "kind": "oracle",
+      "label": "Hidden Vulcan Oracle",
+      "route": "planetary-sphere.html?sphere=vulcan"
+    },
+    {
+      "id": "vulcan-beings",
+      "kind": "being",
+      "label": "Vulcan beings",
+      "route": "planetary-sphere.html?sphere=vulcan"
+    },
+    {
+      "id": "sun-oracle",
+      "kind": "oracle",
+      "label": "Sun Oracle",
+      "route": "planetary-sphere.html?sphere=sun"
+    },
+    {
+      "id": "atlantean-oracles",
+      "kind": "oracle",
+      "label": "Atlantean Oracles",
+      "route": "human-evolution.html"
+    },
+    {
+      "id": "angeloi",
+      "kind": "hierarchy",
+      "label": "Angeloi · Angels",
+      "route": "agency.html"
+    },
+    {
+      "id": "archangeloi",
+      "kind": "hierarchy",
+      "label": "Archangeloi · Archangels",
+      "route": "agency.html"
+    },
+    {
+      "id": "archai",
+      "kind": "hierarchy",
+      "label": "Archai · Spirits of Personality",
+      "route": "agency.html"
+    },
+    {
+      "id": "exusiai",
+      "kind": "hierarchy",
+      "label": "Exusiai · Spirits of Form",
+      "route": "agency.html"
+    },
+    {
+      "id": "dynamis",
+      "kind": "hierarchy",
+      "label": "Dynamis · Spirits of Movement",
+      "route": "agency.html"
+    },
+    {
+      "id": "kyriotetes",
+      "kind": "hierarchy",
+      "label": "Kyriotetes · Spirits of Wisdom",
+      "route": "agency.html"
+    },
+    {
+      "id": "thrones",
+      "kind": "hierarchy",
+      "label": "Thrones · Spirits of Will",
+      "route": "agency.html"
+    },
+    {
+      "id": "cherubim",
+      "kind": "hierarchy",
+      "label": "Cherubim",
+      "route": "agency.html"
+    },
+    {
+      "id": "seraphim",
+      "kind": "hierarchy",
+      "label": "Seraphim",
+      "route": "agency.html"
+    },
+    {
+      "id": "physical",
+      "kind": "member",
+      "label": "Physical body",
+      "route": "human-evolution.html"
+    },
+    {
+      "id": "etheric",
+      "kind": "member",
+      "label": "Etheric organization",
+      "route": "human-evolution.html"
+    },
+    {
+      "id": "astral",
+      "kind": "member",
+      "label": "Astral organization",
+      "route": "human-evolution.html"
+    },
+    {
+      "id": "i",
+      "kind": "member",
+      "label": "Human “I”",
+      "route": "human-evolution.html"
+    },
+    {
+      "id": "spirit-self",
+      "kind": "member",
+      "label": "Spirit-Self · Manas",
+      "route": "human-evolution.html"
+    },
+    {
+      "id": "life-spirit",
+      "kind": "member",
+      "label": "Life-Spirit · Buddhi",
+      "route": "human-evolution.html"
+    },
+    {
+      "id": "spirit-man",
+      "kind": "member",
+      "label": "Spirit-Man · Atma",
+      "route": "human-evolution.html"
+    },
+    {
+      "id": "sentient",
+      "kind": "faculty",
+      "label": "Sentient soul",
+      "route": "human-evolution.html"
+    },
+    {
+      "id": "intellectual",
+      "kind": "faculty",
+      "label": "Intellectual or mind soul",
+      "route": "human-evolution.html"
+    },
+    {
+      "id": "consciousness",
+      "kind": "faculty",
+      "label": "Consciousness soul",
+      "route": "human-evolution.html"
+    },
+    {
+      "id": "thinking",
+      "kind": "faculty",
+      "label": "Thinking"
+    },
+    {
+      "id": "feeling",
+      "kind": "faculty",
+      "label": "Feeling"
+    },
+    {
+      "id": "willing",
+      "kind": "faculty",
+      "label": "Willing"
+    },
+    {
+      "id": "memory",
+      "kind": "faculty",
+      "label": "Memory"
+    },
+    {
+      "id": "speech",
+      "kind": "faculty",
+      "label": "Speech"
+    },
+    {
+      "id": "love",
+      "kind": "faculty",
+      "label": "Love"
+    },
+    {
+      "id": "freedom",
+      "kind": "faculty",
+      "label": "Moral freedom"
+    },
+    {
+      "id": "nerve-sense",
+      "kind": "system",
+      "label": "Nerve-sense system",
+      "route": "body.html"
+    },
+    {
+      "id": "rhythmic",
+      "kind": "system",
+      "label": "Rhythmic system",
+      "route": "body.html"
+    },
+    {
+      "id": "metabolic-limb",
+      "kind": "system",
+      "label": "Metabolic-limb system",
+      "route": "body.html"
+    },
+    {
+      "id": "head",
+      "kind": "system",
+      "label": "Head organization",
+      "route": "body.html"
+    },
+    {
+      "id": "chest",
+      "kind": "system",
+      "label": "Chest organization",
+      "route": "body.html"
+    },
+    {
+      "id": "limbs",
+      "kind": "system",
+      "label": "Limb organization",
+      "route": "body.html"
+    },
+    {
+      "id": "glands",
+      "kind": "system",
+      "label": "Glandular organization",
+      "route": "organs.html?organ=organ-glandular-system"
+    },
+    {
+      "id": "reproduction",
+      "kind": "system",
+      "label": "Reproductive organization",
+      "route": "body.html"
+    },
+    {
+      "id": "heart",
+      "kind": "organ",
+      "label": "Heart and circulation",
+      "route": "organ-detail.html?organ=organ-heart",
+      "figure": [
+        51.0,
+        28.3
+      ]
+    },
+    {
+      "id": "brain",
+      "kind": "organ",
+      "label": "Brain",
+      "route": "organ-detail.html?organ=organ-brain",
+      "figure": [
+        50.0,
+        8.7
+      ]
+    },
+    {
+      "id": "lungs",
+      "kind": "organ",
+      "label": "Lungs",
+      "route": "organ-detail.html?organ=organ-lungs",
+      "figure": [
+        58.2,
+        24.6
+      ]
+    },
+    {
+      "id": "liver",
+      "kind": "organ",
+      "label": "Liver",
+      "route": "organ-detail.html?organ=organ-liver",
+      "figure": [
+        44.5,
+        31.9
+      ]
+    },
+    {
+      "id": "gallbladder",
+      "kind": "organ",
+      "label": "Gallbladder",
+      "route": "organs.html?organ=organ-gallbladder"
+    },
+    {
+      "id": "kidneys",
+      "kind": "organ",
+      "label": "Kidneys",
+      "route": "organ-detail.html?organ=organ-kidneys"
+    },
+    {
+      "id": "spleen",
+      "kind": "organ",
+      "label": "Spleen",
+      "route": "organ-detail.html?organ=organ-spleen"
+    },
+    {
+      "id": "blood",
+      "kind": "organ",
+      "label": "Blood",
+      "route": "organs.html?organ=organ-blood"
+    },
+    {
+      "id": "lemuria",
+      "kind": "epoch",
+      "label": "Lemuria",
+      "route": "human-evolution.html"
+    },
+    {
+      "id": "atlantis",
+      "kind": "epoch",
+      "label": "Atlantis",
+      "route": "human-evolution.html"
+    },
+    {
+      "id": "ancient-india",
+      "kind": "epoch",
+      "label": "Ancient Indian epoch",
+      "route": "human-evolution.html"
+    },
+    {
+      "id": "ancient-persia",
+      "kind": "epoch",
+      "label": "Ancient Persian epoch",
+      "route": "human-evolution.html"
+    },
+    {
+      "id": "egypt",
+      "kind": "epoch",
+      "label": "Egyptian–Chaldean epoch",
+      "route": "human-evolution.html"
+    },
+    {
+      "id": "greco-roman",
+      "kind": "epoch",
+      "label": "Greco-Roman epoch",
+      "route": "human-evolution.html"
+    },
+    {
+      "id": "fifth-culture",
+      "kind": "epoch",
+      "label": "Fifth Post-Atlantean epoch",
+      "route": "human-evolution.html"
+    },
+    {
+      "id": "sixth-culture",
+      "kind": "epoch",
+      "label": "Sixth Post-Atlantean epoch",
+      "route": "human-evolution.html"
+    },
+    {
+      "id": "seventh-culture",
+      "kind": "epoch",
+      "label": "Seventh Post-Atlantean epoch",
+      "route": "human-evolution.html"
+    },
+    {
+      "id": "zodiac",
+      "kind": "zodiac",
+      "label": "Zodiac"
+    },
+    {
+      "id": "upper-zodiac",
+      "kind": "zodiac",
+      "label": "Aries · Taurus · Gemini · Cancer"
+    },
+    {
+      "id": "middle-zodiac",
+      "kind": "zodiac",
+      "label": "Leo · Virgo · Libra · Scorpio"
+    },
+    {
+      "id": "lower-zodiac",
+      "kind": "zodiac",
+      "label": "Sagittarius · Capricorn · Aquarius · Pisces"
+    },
+    {
+      "id": "christ",
+      "kind": "being",
+      "label": "Christ"
+    },
+    {
+      "id": "michael",
+      "kind": "being",
+      "label": "Michael"
+    },
+    {
+      "id": "jehovah",
+      "kind": "being",
+      "label": "Jehovah · Jahve"
+    },
+    {
+      "id": "solar-elohim",
+      "kind": "being",
+      "label": "Six solar Elohim"
+    },
+    {
+      "id": "raphael",
+      "kind": "being",
+      "label": "Raphael"
+    },
+    {
+      "id": "anael",
+      "kind": "being",
+      "label": "Anael"
+    },
+    {
+      "id": "samael",
+      "kind": "being",
+      "label": "Samael"
+    },
+    {
+      "id": "zachariel",
+      "kind": "being",
+      "label": "Zachariel"
+    },
+    {
+      "id": "gabriel",
+      "kind": "being",
+      "label": "Gabriel"
+    },
+    {
+      "id": "oriphiel",
+      "kind": "being",
+      "label": "Oriphiel"
+    },
+    {
+      "id": "rishis",
+      "kind": "being",
+      "label": "Seven Rishis"
+    },
+    {
+      "id": "zarathustra",
+      "kind": "being",
+      "label": "Zarathustra"
+    },
+    {
+      "id": "hermes",
+      "kind": "being",
+      "label": "Hermes"
+    },
+    {
+      "id": "luciferic",
+      "kind": "being",
+      "label": "Luciferic beings"
+    },
+    {
+      "id": "ahrimanic",
+      "kind": "being",
+      "label": "Ahrimanic beings"
+    },
+    {
+      "id": "ancient-teachers",
+      "kind": "being",
+      "label": "Primeval teachers"
+    },
+    {
+      "id": "golgotha",
+      "kind": "process",
+      "label": "Mystery of Golgotha"
+    },
+    {
+      "id": "karma",
+      "kind": "process",
+      "label": "Karma"
+    },
+    {
+      "id": "reincarnation",
+      "kind": "process",
+      "label": "Life between death and rebirth"
+    },
+    {
+      "id": "outward-journey",
+      "kind": "process",
+      "label": "Outward journey after death"
+    },
+    {
+      "id": "return-journey",
+      "kind": "process",
+      "label": "Return toward birth"
+    },
+    {
+      "id": "cosmic-memory",
+      "kind": "process",
+      "label": "Cosmic memory"
+    },
+    {
+      "id": "cosmic-thought",
+      "kind": "process",
+      "label": "Cosmic thought"
+    },
+    {
+      "id": "cosmic-speech",
+      "kind": "process",
+      "label": "Cosmic speech"
+    },
+    {
+      "id": "cosmic-music",
+      "kind": "process",
+      "label": "Music of the spheres"
+    },
+    {
+      "id": "cosmic-heart",
+      "kind": "process",
+      "label": "Macrocosmic heart"
+    },
+    {
+      "id": "planetary-form",
+      "kind": "process",
+      "label": "Planetary bodily form"
+    },
+    {
+      "id": "planetary-movement",
+      "kind": "process",
+      "label": "Planetary life and movement"
+    },
+    {
+      "id": "planetary-awareness",
+      "kind": "process",
+      "label": "Planetary consciousness"
+    },
+    {
+      "id": "cosmic-rest",
+      "kind": "process",
+      "label": "Cosmic rest"
+    },
+    {
+      "id": "recapitulation",
+      "kind": "process",
+      "label": "Recapitulation"
+    },
+    {
+      "id": "picture-consciousness",
+      "kind": "process",
+      "label": "Picture-consciousness"
+    },
+    {
+      "id": "inspiration",
+      "kind": "process",
+      "label": "Inspired consciousness"
+    },
+    {
+      "id": "intuition",
+      "kind": "process",
+      "label": "Intuitive consciousness"
+    },
+    {
+      "id": "warmth",
+      "kind": "process",
+      "label": "Warmth"
+    },
+    {
+      "id": "waking",
+      "kind": "process",
+      "label": "Waking"
+    },
+    {
+      "id": "sleep",
+      "kind": "process",
+      "label": "Sleep"
+    },
+    {
+      "id": "art-science",
+      "kind": "process",
+      "label": "Early arts and sciences"
+    },
+    {
+      "id": "ahura-mazda",
+      "kind": "process",
+      "label": "Ahura Mazda"
+    },
+    {
+      "id": "vishva-karman",
+      "kind": "process",
+      "label": "Vishva Karman"
+    },
+    {
+      "id": "manu",
+      "kind": "being",
+      "label": "Manu · guardian of the Sun Oracle"
+    },
+    {
+      "id": "osiris",
+      "kind": "process",
+      "label": "Osiris"
+    },
+    {
+      "id": "atlantis-1",
+      "kind": "epoch",
+      "label": "Atlantean period 1"
+    },
+    {
+      "id": "atlantis-2",
+      "kind": "epoch",
+      "label": "Atlantean period 2"
+    },
+    {
+      "id": "atlantis-3",
+      "kind": "epoch",
+      "label": "Atlantean period 3"
+    },
+    {
+      "id": "atlantis-4",
+      "kind": "epoch",
+      "label": "Atlantean period 4"
+    },
+    {
+      "id": "atlantis-5",
+      "kind": "epoch",
+      "label": "Atlantean period 5"
+    },
+    {
+      "id": "atlantis-6",
+      "kind": "epoch",
+      "label": "Atlantean period 6"
+    },
+    {
+      "id": "atlantis-7",
+      "kind": "epoch",
+      "label": "Atlantean period 7"
+    },
+    {
+      "id": "venus-beings",
+      "kind": "being",
+      "label": "Venus beings"
+    },
+    {
+      "id": "mercury-beings",
+      "kind": "being",
+      "label": "Mercury beings"
+    },
+    {
+      "id": "sense-organs",
+      "kind": "system",
+      "label": "Sense organs",
+      "route": "body.html"
+    },
+    {
+      "id": "moral-ideals",
+      "kind": "process",
+      "label": "Moral ideals"
+    },
+    {
+      "id": "thought-exercise",
+      "kind": "process",
+      "label": "Reflective thought exercise"
+    },
+    {
+      "id": "interplanetary-relations",
+      "kind": "process",
+      "label": "Spiritual relations between planets"
+    },
+    {
+      "id": "nervous-system",
+      "kind": "system",
+      "label": "Nervous system",
+      "route": "body.html"
+    }
+  ],
+  "edges": [
+    {
+      "id": "CE01",
+      "dataset": "cosmic",
+      "from": "old-saturn",
+      "type": "first_develops",
+      "to": "physical",
+      "class": "A",
+      "context": "Old Saturn",
+      "claim": "The Thrones provide the initial substance for the physical human germ. Other hierarchies work over what they give.",
+      "qualification": "The germ is described through warmth, long before the dense organism of Earth.",
+      "matrix_context": [
+        "thrones"
+      ],
+      "evidence": [
+        {
+          "source": "13-4",
+          "location": "17–30"
+        },
+        {
+          "source": "13-6",
+          "location": "12"
+        }
+      ]
+    },
+    {
+      "id": "CE02",
+      "dataset": "cosmic",
+      "from": "old-sun",
+      "type": "first_develops",
+      "to": "etheric",
+      "class": "A",
+      "context": "Old Sun",
+      "claim": "The Spirits of Wisdom impart the life body, bringing inner life to the inherited physical germ.",
+      "qualification": "The physical germ continues to develop as the etheric organization is added.",
+      "matrix_context": [
+        "kyriotetes"
+      ],
+      "evidence": [
+        {
+          "source": "13-4",
+          "location": "31–34"
+        },
+        {
+          "source": "13-6",
+          "location": "12"
+        }
+      ]
+    },
+    {
+      "id": "CE03",
+      "dataset": "cosmic",
+      "from": "old-moon",
+      "type": "first_develops",
+      "to": "astral",
+      "class": "A",
+      "context": "Old Moon",
+      "claim": "The Spirits of Movement impart the astral body to the inherited physical and etheric organizations.",
+      "qualification": "The earlier members are prepared through a renewed working of the preceding conditions.",
+      "matrix_context": [
+        "dynamis"
+      ],
+      "evidence": [
+        {
+          "source": "13-4",
+          "location": "39–40"
+        },
+        {
+          "source": "13-6",
+          "location": "12"
+        }
+      ]
+    },
+    {
+      "id": "CE04",
+      "dataset": "cosmic",
+      "from": "earth",
+      "type": "first_develops",
+      "to": "i",
+      "class": "A",
+      "context": "Earth embodiment",
+      "claim": "The Spirits of Form fashion the independent human I during Earth evolution.",
+      "qualification": "The I enters an already layered organization and can subsequently work on its members.",
+      "matrix_context": [
+        "exusiai"
+      ],
+      "evidence": [
+        {
+          "source": "13-4",
+          "location": "4,11,77"
+        },
+        {
+          "source": "13-6",
+          "location": "12"
+        }
+      ]
+    },
+    {
+      "id": "CE05",
+      "dataset": "cosmic",
+      "from": "old-saturn",
+      "type": "hands_on_to",
+      "to": "old-sun",
+      "class": "A",
+      "context": "Cosmic sequence",
+      "claim": "After an interval, what was attained on Saturn reappears at the beginning of the Sun condition before life is imparted.",
+      "qualification": "The earlier achievement is reworked in a new setting.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "13-4",
+          "location": "29–33"
+        }
+      ]
+    },
+    {
+      "id": "CE06",
+      "dataset": "cosmic",
+      "from": "old-sun",
+      "type": "hands_on_to",
+      "to": "old-moon",
+      "class": "A",
+      "context": "Cosmic sequence",
+      "claim": "Following cosmic sleep, the Moon condition renews the inherited organization before the new astral activity.",
+      "qualification": "The source describes both the rest in outer activity and the return of previous acquisitions.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "13-4",
+          "location": "38–40"
+        }
+      ]
+    },
+    {
+      "id": "CE07",
+      "dataset": "cosmic",
+      "from": "old-moon",
+      "type": "hands_on_to",
+      "to": "earth",
+      "class": "A",
+      "context": "Cosmic sequence",
+      "claim": "The three inherited members must be prepared for the object-consciousness of Earth after an interval of rest.",
+      "qualification": "Their earlier organization supported picture-consciousness.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "13-4",
+          "location": "60–61,63–64"
+        }
+      ]
+    },
+    {
+      "id": "CE08",
+      "dataset": "cosmic",
+      "from": "earth",
+      "type": "repeats_prior_achievements_in",
+      "to": "recapitulation",
+      "class": "A",
+      "context": "Early Earth",
+      "claim": "Steiner describes successive early Earth reprises of earlier conditions before specifically Earth development.",
+      "qualification": "These are transformed recapitulations on the scale of cosmic embodiments.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "13-4",
+          "location": "60–61,63–64"
+        }
+      ]
+    },
+    {
+      "id": "CE09",
+      "dataset": "cosmic",
+      "from": "old-moon",
+      "type": "passes_through",
+      "to": "cosmic-rest",
+      "class": "A",
+      "context": "Moon–Earth transition",
+      "claim": "External activity gives way to a more spiritual interval before the next embodiment.",
+      "qualification": "Steiner distinguishes absence from ordinary observation and absence of all activity.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "13-4",
+          "location": "60–61"
+        }
+      ]
+    },
+    {
+      "id": "CE10",
+      "dataset": "cosmic",
+      "from": "earth",
+      "type": "develops_into",
+      "to": "future-jupiter",
+      "class": "A",
+      "context": "Earth–Jupiter transition",
+      "claim": "Earth passes through an intermediate spiritual condition before becoming Future Jupiter.",
+      "qualification": "GA 13 describes accompanying changes in kingdoms and a later solar separation.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "13-6",
+          "location": "7–9"
+        }
+      ]
+    },
+    {
+      "id": "CE11",
+      "dataset": "cosmic",
+      "from": "future-jupiter",
+      "type": "develops_into",
+      "to": "future-venus",
+      "class": "A",
+      "context": "Future Jupiter–Venus transition",
+      "claim": "A renewed solar union after a Jupiter separation precedes Future Venus.",
+      "qualification": "These names denote future conditions of the whole evolution.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "13-6",
+          "location": "8–9"
+        }
+      ]
+    },
+    {
+      "id": "CE12",
+      "dataset": "cosmic",
+      "from": "future-venus",
+      "type": "develops_into",
+      "to": "future-vulcan",
+      "class": "A",
+      "context": "Future Venus–Vulcan transition",
+      "claim": "Evolved humanity advances through a spiritualized existence into Future Vulcan.",
+      "qualification": "GA 13 explicitly leaves detailed description of Vulcan outside its scope.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "13-6",
+          "location": "9"
+        }
+      ]
+    },
+    {
+      "id": "CE13",
+      "dataset": "cosmic",
+      "from": "old-moon",
+      "type": "develops",
+      "to": "picture-consciousness",
+      "class": "A",
+      "context": "Old Moon",
+      "claim": "Old Moon consciousness is characterized by living images.",
+      "qualification": "Steiner uses dreaming as a comparison and distinguishes the range and vitality of the experiences.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "13-4",
+          "location": "53–55"
+        },
+        {
+          "source": "104-10",
+          "location": "7"
+        }
+      ]
+    },
+    {
+      "id": "CE14",
+      "dataset": "cosmic",
+      "from": "future-jupiter",
+      "type": "develops",
+      "to": "picture-consciousness",
+      "class": "A",
+      "context": "Future Jupiter",
+      "claim": "Steiner projects the emergence of consciously experienced image consciousness on Jupiter.",
+      "qualification": "The future formulation has a different degree of self-awareness from Old Moon.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "104-10",
+          "location": "9–10"
+        }
+      ]
+    },
+    {
+      "id": "CE15",
+      "dataset": "cosmic",
+      "from": "future-venus",
+      "type": "develops",
+      "to": "inspiration",
+      "class": "A",
+      "context": "Future Venus",
+      "claim": "Steiner characterizes Venus consciousness as Inspiration, using tone to describe access to inner character.",
+      "qualification": "This is a projected condition in the Apocalypse lecture.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "104-10",
+          "location": "11"
+        }
+      ]
+    },
+    {
+      "id": "CE16",
+      "dataset": "cosmic",
+      "from": "future-vulcan",
+      "type": "develops",
+      "to": "intuition",
+      "class": "A",
+      "context": "Future Vulcan",
+      "claim": "Steiner characterizes the seventh condition through Intuition and entry into the being perceived.",
+      "qualification": "GA 104 supplies a consciousness characterization where GA 13 gives little detail.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "104-10",
+          "location": "11"
+        }
+      ]
+    },
+    {
+      "id": "CE17",
+      "dataset": "cosmic",
+      "from": "old-saturn",
+      "type": "has_analogue_in",
+      "to": "sleep",
+      "class": "A",
+      "context": "Old Saturn consciousness",
+      "claim": "Steiner compares the predominant Saturn condition to trance, deeper than dreamless sleep.",
+      "qualification": "He makes room for changes within the embodiment.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "104-10",
+          "location": "5–6"
+        }
+      ]
+    },
+    {
+      "id": "CE18",
+      "dataset": "cosmic",
+      "from": "old-sun",
+      "type": "has_analogue_in",
+      "to": "sleep",
+      "class": "A",
+      "context": "Old Sun consciousness",
+      "claim": "Dreamless sleep is the comparison for the characteristic Old Sun consciousness.",
+      "qualification": "The comparison concerns degree of consciousness.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "13-4",
+          "location": "31"
+        },
+        {
+          "source": "104-10",
+          "location": "6"
+        }
+      ]
+    },
+    {
+      "id": "CE19",
+      "dataset": "cosmic",
+      "from": "earth",
+      "type": "develops",
+      "to": "waking",
+      "class": "A",
+      "context": "Earth consciousness",
+      "claim": "Earth develops bright daytime or object consciousness.",
+      "qualification": "The same lecture differentiates seven life states and seven forms within each major consciousness state.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "104-10",
+          "location": "8"
+        }
+      ]
+    },
+    {
+      "id": "CE20",
+      "dataset": "cosmic",
+      "from": "old-saturn",
+      "type": "develops_seed_of",
+      "to": "spirit-man",
+      "class": "A",
+      "context": "Seed of higher organization",
+      "claim": "GA 13 traces a germ of Spirit-Man to the later part of Old Saturn.",
+      "qualification": "A germ and the later conscious work of the I are different developmental relations.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "13-4",
+          "location": "55"
+        }
+      ]
+    },
+    {
+      "id": "CE21",
+      "dataset": "cosmic",
+      "from": "old-sun",
+      "type": "develops_seed_of",
+      "to": "life-spirit",
+      "class": "A",
+      "context": "Seed of higher organization",
+      "claim": "GA 13 places a germ of Life-Spirit on Old Sun.",
+      "qualification": "The statement leaves later maturation open.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "13-4",
+          "location": "55"
+        }
+      ]
+    },
+    {
+      "id": "CE22",
+      "dataset": "cosmic",
+      "from": "old-moon",
+      "type": "develops_seed_of",
+      "to": "spirit-self",
+      "class": "A",
+      "context": "Seed of higher organization",
+      "claim": "GA 13 describes the formation of a germ of Spirit-Self during Old Moon.",
+      "qualification": "This refers to a preliminary germ.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "13-4",
+          "location": "55"
+        }
+      ]
+    },
+    {
+      "id": "CE23",
+      "dataset": "cosmic",
+      "from": "future-jupiter",
+      "type": "develops",
+      "to": "spirit-self",
+      "class": "A",
+      "context": "Higher members in the seven embodiments",
+      "claim": "Steiner places the development of Manas on Jupiter in his outline of human evolution.",
+      "qualification": "The same member has an earlier seed and can be anticipated at earlier stages.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "93a-14",
+          "location": "21"
+        },
+        {
+          "source": "103-2",
+          "location": "13"
+        }
+      ]
+    },
+    {
+      "id": "CE24",
+      "dataset": "cosmic",
+      "from": "future-venus",
+      "type": "develops",
+      "to": "life-spirit",
+      "class": "A",
+      "context": "Higher members in the seven embodiments",
+      "claim": "Steiner places the development of Buddhi on Venus in this outline.",
+      "qualification": "Compare the Old Sun seed and the individual work described in GA 13 II.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "93a-14",
+          "location": "21"
+        },
+        {
+          "source": "103-2",
+          "location": "13"
+        }
+      ]
+    },
+    {
+      "id": "CE25",
+      "dataset": "cosmic",
+      "from": "future-vulcan",
+      "type": "develops",
+      "to": "spirit-man",
+      "class": "A",
+      "context": "Higher members in the seven embodiments",
+      "claim": "Steiner places the development of Atma on Vulcan in this outline.",
+      "qualification": "GA 13 VI gives only a general account of arrival at Vulcan.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "93a-14",
+          "location": "21"
+        },
+        {
+          "source": "103-2",
+          "location": "13"
+        }
+      ]
+    },
+    {
+      "id": "PS01",
+      "dataset": "spheres",
+      "from": "moon",
+      "type": "marks_domain_boundary_for",
+      "to": "angeloi",
+      "class": "A",
+      "context": "GA 110 spatial framework",
+      "claim": "The Moon marks the outer extent of the Angeloi domain in this diagram.",
+      "qualification": "The domain runs outward from Earth in this presentation.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "110-6",
+          "location": "13,18–20"
+        }
+      ]
+    },
+    {
+      "id": "PS02",
+      "dataset": "spheres",
+      "from": "mercury",
+      "type": "marks_domain_boundary_for",
+      "to": "archangeloi",
+      "class": "A",
+      "context": "GA 110 spatial framework",
+      "claim": "The esoteric Mercury marks the extent of the Archangeloi domain.",
+      "qualification": "Use the lecture’s terminology convention.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "110-6",
+          "location": "13,18–20"
+        }
+      ]
+    },
+    {
+      "id": "PS03",
+      "dataset": "spheres",
+      "from": "venus",
+      "type": "marks_domain_boundary_for",
+      "to": "archai",
+      "class": "A",
+      "context": "GA 110 spatial framework",
+      "claim": "The esoteric Venus marks the extent associated with the Archai.",
+      "qualification": "GA 110 VII explicitly interchanges the physical labels Mercury and Venus.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "110-6",
+          "location": "13,18"
+        },
+        {
+          "source": "110-7",
+          "location": "14–16"
+        }
+      ]
+    },
+    {
+      "id": "PS04",
+      "dataset": "spheres",
+      "from": "sun",
+      "type": "marks_domain_boundary_for",
+      "to": "exusiai",
+      "class": "A",
+      "context": "GA 110 spatial framework",
+      "claim": "The Sun marks the extent of the Spirits of Form, whose mission spans successive embodiments.",
+      "qualification": "A sphere boundary can coexist with participation by other hierarchies.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "110-6",
+          "location": "8,18–20"
+        }
+      ]
+    },
+    {
+      "id": "PS05",
+      "dataset": "spheres",
+      "from": "mars",
+      "type": "marks_domain_boundary_for",
+      "to": "dynamis",
+      "class": "A",
+      "context": "GA 110 spatial framework",
+      "claim": "The Mars boundary is assigned to Spirits of Movement.",
+      "qualification": "Steiner uses nested regions of activity.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "110-6",
+          "location": "8,18"
+        }
+      ]
+    },
+    {
+      "id": "PS06",
+      "dataset": "spheres",
+      "from": "jupiter",
+      "type": "marks_domain_boundary_for",
+      "to": "kyriotetes",
+      "class": "A",
+      "context": "GA 110 spatial framework",
+      "claim": "Jupiter marks the extent of the Spirits of Wisdom in the diagram.",
+      "qualification": "GA 136 gives Spirits of Wisdom a distinct role in general planetary constitution.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "110-6",
+          "location": "8,18"
+        }
+      ]
+    },
+    {
+      "id": "PS07",
+      "dataset": "spheres",
+      "from": "saturn",
+      "type": "marks_domain_boundary_for",
+      "to": "thrones",
+      "class": "A",
+      "context": "GA 110 spatial framework",
+      "claim": "Saturn marks the extent of the Thrones in the hierarchy diagram.",
+      "qualification": "The reference is present Saturn as a spatial marker.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "110-6",
+          "location": "8,18"
+        }
+      ]
+    },
+    {
+      "id": "PS08",
+      "dataset": "spheres",
+      "from": "saturn",
+      "type": "preserves",
+      "to": "cosmic-memory",
+      "class": "A",
+      "context": "Planetary individuality",
+      "claim": "Saturn preserves and discloses the past of the planetary system.",
+      "qualification": "Read as Steiner’s description of spiritual perception.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "228",
+          "location": "13–16"
+        }
+      ]
+    },
+    {
+      "id": "PS09",
+      "dataset": "spheres",
+      "from": "jupiter",
+      "type": "expresses",
+      "to": "cosmic-thought",
+      "class": "A",
+      "context": "Planetary individuality",
+      "claim": "Jupiter is described as the thinker of the planetary system, presenting the cosmic present in living ideas.",
+      "qualification": "The same lecture also associates Jupiter with the freedom to think.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "228",
+          "location": "17–22"
+        }
+      ]
+    },
+    {
+      "id": "PS10",
+      "dataset": "spheres",
+      "from": "mars",
+      "type": "expresses",
+      "to": "cosmic-speech",
+      "class": "A",
+      "context": "Planetary individuality",
+      "claim": "Mars contributes to cosmic impulses for speech.",
+      "qualification": "GA 228 also brings Venus into the account of how speech comes about.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "228",
+          "location": "23,26–29,36"
+        }
+      ]
+    },
+    {
+      "id": "PS11",
+      "dataset": "spheres",
+      "from": "venus",
+      "type": "reflects",
+      "to": "feeling",
+      "class": "A",
+      "context": "Planetary individuality",
+      "claim": "Venus is receptive to what lives in the depths of human souls and reflects it back.",
+      "qualification": "The context is the spiritual individuality of Venus.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "228",
+          "location": "24–27"
+        }
+      ]
+    },
+    {
+      "id": "PS12",
+      "dataset": "spheres",
+      "from": "mercury",
+      "type": "carries_impulses_into",
+      "to": "karma",
+      "class": "A",
+      "context": "Planetary individuality",
+      "claim": "Mercury works with Venus to deepen the soul-spiritual side of karma in disposition and temperament.",
+      "qualification": "Steiner distinguishes this from the Moon’s relation to heredity.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "228",
+          "location": "30–33"
+        }
+      ]
+    },
+    {
+      "id": "PS13",
+      "dataset": "spheres",
+      "from": "moon",
+      "type": "shelters",
+      "to": "ancient-teachers",
+      "class": "A",
+      "context": "Planetary individuality",
+      "claim": "Steiner describes the Moon as the retreat of primeval teachers once active on Earth.",
+      "qualification": "The migration is part of his esoteric account.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "228",
+          "location": "8–12"
+        }
+      ]
+    },
+    {
+      "id": "PS14",
+      "dataset": "spheres",
+      "from": "sun",
+      "type": "balances",
+      "to": "karma",
+      "class": "B",
+      "context": "Planetary individuality",
+      "claim": "GA 228 gives the Sun a mediating role between destiny-forming and freedom-enabling tendencies. GA 26 separately relates Christ to free human activity.",
+      "qualification": "The two lectures address different levels. This edge records the thematic connection.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "228",
+          "location": "31–38"
+        },
+        {
+          "source": "26",
+          "location": "11–15"
+        }
+      ]
+    },
+    {
+      "id": "PS15",
+      "dataset": "spheres",
+      "from": "vulcan-beings",
+      "type": "described_as_approaching",
+      "to": "earth",
+      "class": "A",
+      "context": "Modern esoteric history",
+      "claim": "Steiner says that beings including those he calls Vulcan beings have begun approaching earthly development.",
+      "qualification": "The lecture gives no proof that they are the agents of the earlier Oracle or inhabitants of Future Vulcan.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "204-1921",
+          "location": "13–16"
+        }
+      ]
+    },
+    {
+      "id": "PS16",
+      "dataset": "spheres",
+      "from": "jupiter",
+      "type": "has_contextual_bridge_to",
+      "to": "old-sun",
+      "class": "B",
+      "context": "Spatial boundary and formative activity",
+      "claim": "Jupiter bounds the Spirits of Wisdom in GA 110, and GA 13 assigns those spirits Old Sun etheric formation. GA 102 gives Jupiter beings an etheric role in a separately worded Earth narrative.",
+      "qualification": "Shared connections warrant a route through the sources, with each claim kept on its own scale.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "110-6",
+          "location": "8,18"
+        },
+        {
+          "source": "13-4",
+          "location": "32"
+        },
+        {
+          "source": "102-3",
+          "location": "25"
+        }
+      ]
+    },
+    {
+      "id": "PS17",
+      "dataset": "spheres",
+      "from": "sun",
+      "type": "works_through",
+      "to": "solar-elohim",
+      "class": "A",
+      "context": "Earth evolution",
+      "claim": "Six Elohim act from the Sun in Steiner’s account of solar and lunar cooperation.",
+      "qualification": "The larger lecture contains historically racist classifications. This relationship concerns the selected cosmological passages.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "121-6",
+          "location": "3–5"
+        }
+      ]
+    },
+    {
+      "id": "PS18",
+      "dataset": "spheres",
+      "from": "jehovah",
+      "type": "works_from",
+      "to": "moon",
+      "class": "A",
+      "context": "Earth evolution",
+      "claim": "Jehovah is the Elohim who makes the Moon his sphere of activity as the other six act from the Sun.",
+      "qualification": "Jehovah belongs to the Spirits of Form, while GA 110 gives the Angeloi a Moon boundary.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "121-6",
+          "location": "3–5"
+        }
+      ]
+    },
+    {
+      "id": "HE01",
+      "dataset": "hierarchies",
+      "from": "thrones",
+      "type": "provide_substance_for",
+      "to": "physical",
+      "class": "A",
+      "context": "Old Saturn",
+      "claim": "The Thrones or Spirits of Will provide the warmth-substance that grounds the human physical germ.",
+      "qualification": "The wider Saturn sequence involves additional hierarchies.",
+      "matrix_context": [
+        "old-saturn"
+      ],
+      "evidence": [
+        {
+          "source": "13-4",
+          "location": "17–30"
+        },
+        {
+          "source": "13-6",
+          "location": "12"
+        }
+      ]
+    },
+    {
+      "id": "HE02",
+      "dataset": "hierarchies",
+      "from": "kyriotetes",
+      "type": "impart",
+      "to": "etheric",
+      "class": "A",
+      "context": "Old Sun",
+      "claim": "Steiner attributes the imparting of the etheric or life body to the Spirits of Wisdom.",
+      "qualification": "This is an Old Sun action.",
+      "matrix_context": [
+        "old-sun"
+      ],
+      "evidence": [
+        {
+          "source": "13-4",
+          "location": "31–32"
+        },
+        {
+          "source": "13-6",
+          "location": "12"
+        }
+      ]
+    },
+    {
+      "id": "HE03",
+      "dataset": "hierarchies",
+      "from": "dynamis",
+      "type": "impart",
+      "to": "astral",
+      "class": "A",
+      "context": "Old Moon",
+      "claim": "Steiner attributes the imparting of the astral body to the Spirits of Motion.",
+      "qualification": "The same hierarchy has distinct functions elsewhere.",
+      "matrix_context": [
+        "old-moon"
+      ],
+      "evidence": [
+        {
+          "source": "13-4",
+          "location": "39–40"
+        },
+        {
+          "source": "13-6",
+          "location": "12"
+        }
+      ]
+    },
+    {
+      "id": "HE04",
+      "dataset": "hierarchies",
+      "from": "exusiai",
+      "type": "fashion",
+      "to": "i",
+      "class": "A",
+      "context": "Earth",
+      "claim": "The Spirits of Form are the agents Steiner associates with independent I-hood.",
+      "qualification": "Steiner identifies freedom and love as capacities of the individual who develops through this organization.",
+      "matrix_context": [
+        "earth"
+      ],
+      "evidence": [
+        {
+          "source": "13-4",
+          "location": "77"
+        },
+        {
+          "source": "13-6",
+          "location": "12"
+        }
+      ]
+    },
+    {
+      "id": "HE05",
+      "dataset": "hierarchies",
+      "from": "angeloi",
+      "type": "reach_human_stage_during",
+      "to": "old-moon",
+      "class": "A",
+      "context": "Hierarchy development",
+      "claim": "The Angels passed through their corresponding human stage on Old Moon.",
+      "qualification": "Human stage here describes an attainment of the hierarchy.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "110-6",
+          "location": "3"
+        }
+      ]
+    },
+    {
+      "id": "HE06",
+      "dataset": "hierarchies",
+      "from": "archangeloi",
+      "type": "reach_human_stage_during",
+      "to": "old-sun",
+      "class": "A",
+      "context": "Hierarchy development",
+      "claim": "The Archangels passed through their corresponding human stage on Old Sun.",
+      "qualification": "Their own attainment is distinct from the work of the Spirits of Wisdom on the human life body.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "13-4",
+          "location": "35"
+        }
+      ]
+    },
+    {
+      "id": "HE07",
+      "dataset": "hierarchies",
+      "from": "archai",
+      "type": "reach_human_stage_during",
+      "to": "old-saturn",
+      "class": "A",
+      "context": "Hierarchy development",
+      "claim": "The Archai passed through their corresponding human stage on Old Saturn.",
+      "qualification": "They are also called Spirits of Personality.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "13-4",
+          "location": "22,34–35"
+        }
+      ]
+    },
+    {
+      "id": "HE08",
+      "dataset": "hierarchies",
+      "from": "angeloi",
+      "type": "guide",
+      "to": "reincarnation",
+      "class": "A",
+      "context": "Earth evolution",
+      "claim": "Steiner assigns individual Angels the linking of successive human incarnations.",
+      "qualification": "The context concerns personal continuity through lives.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "110-6",
+          "location": "3–5"
+        }
+      ]
+    },
+    {
+      "id": "HE09",
+      "dataset": "hierarchies",
+      "from": "archangeloi",
+      "type": "impress_continuity_on",
+      "to": "etheric",
+      "class": "A",
+      "context": "Old Moon",
+      "claim": "The Fire Spirits work on the etheric organization so the human being experiences continuity across renewals of bodily form.",
+      "qualification": "GA 13 describes this as a kind of memory, distinct from ordinary earthly recollection.",
+      "matrix_context": [
+        "old-moon"
+      ],
+      "evidence": [
+        {
+          "source": "13-4",
+          "location": "52–54"
+        }
+      ]
+    },
+    {
+      "id": "HE10",
+      "dataset": "hierarchies",
+      "from": "archai",
+      "type": "implant_independence_in",
+      "to": "astral",
+      "class": "A",
+      "context": "Old Moon",
+      "claim": "Steiner assigns the Spirits of Personality a role in developing independence of the astral body.",
+      "qualification": "This preparation precedes independent human I-hood on Earth.",
+      "matrix_context": [
+        "old-moon"
+      ],
+      "evidence": [
+        {
+          "source": "13-4",
+          "location": "54"
+        }
+      ]
+    },
+    {
+      "id": "HE11",
+      "dataset": "hierarchies",
+      "from": "angeloi",
+      "type": "shape_expression_in",
+      "to": "physical",
+      "class": "A",
+      "context": "Old Moon",
+      "claim": "The Sons of Life help make the physical body an expression of the astral.",
+      "qualification": "The shared spiritual guide in the Moon account has a group role.",
+      "matrix_context": [
+        "old-moon"
+      ],
+      "evidence": [
+        {
+          "source": "13-4",
+          "location": "53–54"
+        }
+      ]
+    },
+    {
+      "id": "HE12",
+      "dataset": "hierarchies",
+      "from": "exusiai",
+      "type": "fashion",
+      "to": "planetary-form",
+      "class": "A",
+      "context": "Planetary constitution",
+      "claim": "The manifest shape of a planetary body is attributed to Spirits of Form in GA 136.",
+      "qualification": "This is a general contribution across planets.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "136-5",
+          "location": "16–18"
+        },
+        {
+          "source": "136-6",
+          "location": "1"
+        }
+      ]
+    },
+    {
+      "id": "HE13",
+      "dataset": "hierarchies",
+      "from": "dynamis",
+      "type": "animate",
+      "to": "planetary-movement",
+      "class": "A",
+      "context": "Planetary constitution",
+      "claim": "Steiner attributes the inner mobility and life of a planet to Spirits of Movement.",
+      "qualification": "He distinguishes inner movement from change of position in space.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "136-6",
+          "location": "1"
+        }
+      ]
+    },
+    {
+      "id": "HE14",
+      "dataset": "hierarchies",
+      "from": "kyriotetes",
+      "type": "govern",
+      "to": "planetary-awareness",
+      "class": "A",
+      "context": "Planetary constitution",
+      "claim": "Steiner attributes a planet’s lowest consciousness to Spirits of Wisdom.",
+      "qualification": "He compares it with human astral consciousness.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "136-5",
+          "location": "18"
+        },
+        {
+          "source": "136-6",
+          "location": "1"
+        }
+      ]
+    },
+    {
+      "id": "HE15",
+      "dataset": "hierarchies",
+      "from": "thrones",
+      "type": "impart_spatial_motion_to",
+      "to": "planetary-form",
+      "class": "A",
+      "context": "Planetary constitution",
+      "claim": "The Thrones impart the impulse by which a planet changes position in space.",
+      "qualification": "Cherubim enter the same account at the level of coordinated motion.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "136-6",
+          "location": "1"
+        }
+      ]
+    },
+    {
+      "id": "HE16",
+      "dataset": "hierarchies",
+      "from": "cherubim",
+      "type": "coordinate",
+      "to": "planetary-movement",
+      "class": "A",
+      "context": "Whole planetary system",
+      "claim": "The Cherubim coordinate a planet’s motion with the whole system and join the Seraphim in the account of light.",
+      "qualification": "This is a system-wide function.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "136-6",
+          "location": "1,17"
+        }
+      ]
+    },
+    {
+      "id": "HE17",
+      "dataset": "hierarchies",
+      "from": "seraphim",
+      "type": "mediate",
+      "to": "interplanetary-relations",
+      "class": "A",
+      "context": "Whole planetary system",
+      "claim": "Steiner ascribes to Seraphim the inner spiritual life by which planets enter into relations with other heavenly bodies.",
+      "qualification": "Human language is a comparison used in the lecture.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "136-6",
+          "location": "1,17"
+        }
+      ]
+    },
+    {
+      "id": "HE18",
+      "dataset": "hierarchies",
+      "from": "seraphim",
+      "type": "participate_in_forming",
+      "to": "karma",
+      "class": "A",
+      "context": "Between lives",
+      "claim": "The Seraphim, Cherubim and Thrones anticipate or live through consequences in Steiner’s account of shaping karma.",
+      "qualification": "GA 239 describes their shared function and gives the solar Second Hierarchy a separate mediating role.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "239-3",
+          "location": "7–9"
+        }
+      ]
+    },
+    {
+      "id": "HE19",
+      "dataset": "hierarchies",
+      "from": "cherubim",
+      "type": "participate_in_forming",
+      "to": "karma",
+      "class": "A",
+      "context": "Between lives",
+      "claim": "Cherubim are named with Seraphim and Thrones in the prospective working of karma.",
+      "qualification": "Steiner gives no one-planet assignment for this collective activity.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "239-3",
+          "location": "7–9"
+        }
+      ]
+    },
+    {
+      "id": "HE20",
+      "dataset": "hierarchies",
+      "from": "thrones",
+      "type": "participate_in_forming",
+      "to": "karma",
+      "class": "A",
+      "context": "Between lives",
+      "claim": "Thrones are named with Seraphim and Cherubim in the prospective working of karma.",
+      "qualification": "This role is separate from their Old Saturn formation of the human germ.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "239-3",
+          "location": "7–9"
+        }
+      ]
+    },
+    {
+      "id": "HC01",
+      "dataset": "constitution",
+      "from": "i",
+      "type": "transforms_into_via_astral",
+      "to": "spirit-self",
+      "class": "A",
+      "context": "Individual transformation",
+      "claim": "Steiner describes Spirit-Self as the astral body transformed through the I.",
+      "qualification": "The earlier germ and later conscious transformation are both represented.",
+      "matrix_context": [
+        "astral"
+      ],
+      "evidence": [
+        {
+          "source": "13-2",
+          "location": "19–22"
+        },
+        {
+          "source": "110-7",
+          "location": "6–7"
+        }
+      ]
+    },
+    {
+      "id": "HC02",
+      "dataset": "constitution",
+      "from": "i",
+      "type": "transforms_into_via_etheric",
+      "to": "life-spirit",
+      "class": "A",
+      "context": "Individual transformation",
+      "claim": "Steiner describes Life-Spirit as transformation of the etheric body by the I.",
+      "qualification": "He distinguishes the slower and deeper transformation of life habits from ordinary intellectual change.",
+      "matrix_context": [
+        "etheric"
+      ],
+      "evidence": [
+        {
+          "source": "13-2",
+          "location": "21–23"
+        },
+        {
+          "source": "110-7",
+          "location": "6–7"
+        }
+      ]
+    },
+    {
+      "id": "HC03",
+      "dataset": "constitution",
+      "from": "i",
+      "type": "transforms_into_via_physical",
+      "to": "spirit-man",
+      "class": "A",
+      "context": "Individual transformation",
+      "claim": "Steiner describes Spirit-Man as the I’s transformation of the physical organization.",
+      "qualification": "The referent is the spiritual activity underlying the body.",
+      "matrix_context": [
+        "physical"
+      ],
+      "evidence": [
+        {
+          "source": "13-2",
+          "location": "23–25"
+        },
+        {
+          "source": "110-7",
+          "location": "6–7"
+        }
+      ]
+    },
+    {
+      "id": "HC04",
+      "dataset": "constitution",
+      "from": "astral",
+      "type": "is_transformed_into",
+      "to": "spirit-self",
+      "class": "A",
+      "context": "Individual transformation",
+      "claim": "The astral body becomes Spirit-Self insofar as it is transformed through the I.",
+      "qualification": "The physical body, life body and astral body remain distinct starting points for transformation.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "13-2",
+          "location": "19–22"
+        }
+      ]
+    },
+    {
+      "id": "HC05",
+      "dataset": "constitution",
+      "from": "etheric",
+      "type": "is_transformed_into",
+      "to": "life-spirit",
+      "class": "A",
+      "context": "Individual transformation",
+      "claim": "The transformation of the etheric body brings forth Life-Spirit.",
+      "qualification": "GA 13 treats the change as deeper than ordinary mental cultivation.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "13-2",
+          "location": "21–23"
+        }
+      ]
+    },
+    {
+      "id": "HC06",
+      "dataset": "constitution",
+      "from": "physical",
+      "type": "is_transformed_into",
+      "to": "spirit-man",
+      "class": "A",
+      "context": "Individual transformation",
+      "claim": "Work on the physical organization yields Spirit-Man in Steiner’s account.",
+      "qualification": "GA 13 places activity behind the visible bodily form.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "13-2",
+          "location": "23–25"
+        }
+      ]
+    },
+    {
+      "id": "HC07",
+      "dataset": "constitution",
+      "from": "i",
+      "type": "reveals_itself_in",
+      "to": "consciousness",
+      "class": "A",
+      "context": "Organization of soul",
+      "claim": "The I comes to characteristic expression in the consciousness soul.",
+      "qualification": "The soul member and the activity of the I are distinguished.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "13-2",
+          "location": "16–20"
+        }
+      ]
+    },
+    {
+      "id": "HC08",
+      "dataset": "constitution",
+      "from": "nerve-sense",
+      "type": "supports",
+      "to": "thinking",
+      "class": "A",
+      "context": "Threefold functional organization",
+      "claim": "Steiner associates the nerve-sense pole with ideation and alert consciousness.",
+      "qualification": "GA 21 treats activity functionally. The organization extends through the person.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "21",
+          "location": "2"
+        },
+        {
+          "source": "209-2",
+          "location": "4–8"
+        }
+      ]
+    },
+    {
+      "id": "HC09",
+      "dataset": "constitution",
+      "from": "rhythmic",
+      "type": "supports",
+      "to": "feeling",
+      "class": "A",
+      "context": "Threefold functional organization",
+      "claim": "Steiner relates feeling to rhythmic activity, with breathing as an example.",
+      "qualification": "The relationship is broader than any one organ.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "21",
+          "location": "2"
+        },
+        {
+          "source": "209-2",
+          "location": "6–8"
+        }
+      ]
+    },
+    {
+      "id": "HC10",
+      "dataset": "constitution",
+      "from": "metabolic-limb",
+      "type": "supports",
+      "to": "willing",
+      "class": "A",
+      "context": "Threefold functional organization",
+      "claim": "Steiner relates willing to metabolism and action through the limbs.",
+      "qualification": "The source gives a conceptual account in Steiner’s physiology.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "21",
+          "location": "2"
+        },
+        {
+          "source": "209-2",
+          "location": "7–8"
+        }
+      ]
+    },
+    {
+      "id": "HC11",
+      "dataset": "constitution",
+      "from": "i",
+      "type": "engages",
+      "to": "warmth",
+      "class": "A",
+      "context": "Waking embodiment",
+      "claim": "The waking I-organization engages part of warmth, and the astral organization also engages warmth within a different configuration.",
+      "qualification": "These lectures describe Steiner’s elemental and etheric framework.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "317-3",
+          "location": "4–9"
+        },
+        {
+          "source": "317-4",
+          "location": "15"
+        }
+      ]
+    },
+    {
+      "id": "HC12",
+      "dataset": "constitution",
+      "from": "astral",
+      "type": "withdraws_during",
+      "to": "sleep",
+      "class": "A",
+      "context": "Sleep and waking",
+      "claim": "In sleep astral body and I withdraw from their waking interpenetration with physical and etheric bodies.",
+      "qualification": "GA 317 III gives a more detailed account of waking re-engagement.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "108",
+          "location": "8–9"
+        },
+        {
+          "source": "112-4",
+          "location": "1–4"
+        }
+      ]
+    },
+    {
+      "id": "HC13",
+      "dataset": "constitution",
+      "from": "etheric",
+      "type": "bears_freed_recollection_in",
+      "to": "reincarnation",
+      "class": "A",
+      "context": "Immediately after death",
+      "claim": "Steiner describes a panorama of memory while the etheric body loosens from the physical immediately after death.",
+      "qualification": "Keep separate from the creation of the memory faculty on the Saturn return in GA 231.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "108",
+          "location": "10–16"
+        }
+      ]
+    },
+    {
+      "id": "HC14",
+      "dataset": "constitution",
+      "from": "thrones",
+      "type": "contribute_to",
+      "to": "physical",
+      "class": "B",
+      "context": "Layered development",
+      "claim": "Steiner’s broad account combines an inaugural shaping with later contributions from different hierarchies.",
+      "qualification": "The layer model is a synthesis. Persistence varies by process and requires local evidence.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "13-4",
+          "location": "30,53–55"
+        },
+        {
+          "source": "13-6",
+          "location": "12"
+        }
+      ]
+    },
+    {
+      "id": "OC01",
+      "dataset": "organs",
+      "from": "sun",
+      "type": "is_used_as_etheric_image_for",
+      "to": "heart",
+      "class": "A",
+      "context": "Inner cosmic system",
+      "claim": "The Sun is Steiner’s image for the heart and circulation in his inner cosmic system.",
+      "qualification": "This is an occult organ analogy. It does not assert that a present astronomical body constructs the organ.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "107-2",
+          "location": "13"
+        },
+        {
+          "source": "128-4",
+          "location": "13"
+        }
+      ]
+    },
+    {
+      "id": "OC02",
+      "dataset": "organs",
+      "from": "moon",
+      "type": "is_used_as_etheric_image_for",
+      "to": "brain",
+      "class": "A",
+      "context": "Inner cosmic system",
+      "claim": "Steiner names the brain as the Moon of the inner cosmic system.",
+      "qualification": "GA 128 IV’s immediate enumeration does not include the brain.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "107-2",
+          "location": "13"
+        }
+      ]
+    },
+    {
+      "id": "OC03",
+      "dataset": "organs",
+      "from": "saturn",
+      "type": "is_used_as_etheric_image_for",
+      "to": "spleen",
+      "class": "A",
+      "context": "Inner cosmic system",
+      "claim": "Steiner calls the spleen’s activity Saturnian in the organ analogy.",
+      "qualification": "Compare the separate Saturn–liver influence statement in GA 102.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "107-2",
+          "location": "13"
+        },
+        {
+          "source": "128-4",
+          "location": "13"
+        }
+      ]
+    },
+    {
+      "id": "OC04",
+      "dataset": "organs",
+      "from": "jupiter",
+      "type": "is_used_as_etheric_image_for",
+      "to": "liver",
+      "class": "A",
+      "context": "Inner cosmic system",
+      "claim": "Steiner uses Jupiter to characterize the liver in the inner cosmic system.",
+      "qualification": "GA 102 I describes an additional Saturn relation using a different predicate.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "107-2",
+          "location": "13"
+        },
+        {
+          "source": "128-4",
+          "location": "13"
+        }
+      ]
+    },
+    {
+      "id": "OC05",
+      "dataset": "organs",
+      "from": "mars",
+      "type": "is_used_as_etheric_image_for",
+      "to": "gallbladder",
+      "class": "A",
+      "context": "Inner cosmic system",
+      "claim": "Steiner calls the gallbladder Martian in the occult organ system.",
+      "qualification": "The comparison concerns relations within the system of organs.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "107-2",
+          "location": "13"
+        },
+        {
+          "source": "128-4",
+          "location": "13"
+        }
+      ]
+    },
+    {
+      "id": "OC06",
+      "dataset": "organs",
+      "from": "venus",
+      "type": "is_used_as_etheric_image_for",
+      "to": "kidneys",
+      "class": "A",
+      "context": "Inner cosmic system",
+      "claim": "Steiner uses Venus for the kidney system.",
+      "qualification": "The record preserves the author’s source-local label.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "107-2",
+          "location": "13"
+        },
+        {
+          "source": "128-4",
+          "location": "13"
+        }
+      ]
+    },
+    {
+      "id": "OC07",
+      "dataset": "organs",
+      "from": "mercury",
+      "type": "is_used_as_etheric_image_for",
+      "to": "lungs",
+      "class": "A",
+      "context": "Inner cosmic system",
+      "claim": "Steiner uses Mercury for the pulmonary system.",
+      "qualification": "The record preserves the author’s source-local label.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "107-2",
+          "location": "13"
+        },
+        {
+          "source": "128-4",
+          "location": "13"
+        }
+      ]
+    },
+    {
+      "id": "OC08",
+      "dataset": "organs",
+      "from": "saturn",
+      "type": "exerts_influence_on",
+      "to": "liver",
+      "class": "A",
+      "context": "Spiritual influence and Prometheus",
+      "claim": "Steiner ascribes a strong influence of Saturn forces to the liver and connects that influence with the Prometheus myth.",
+      "qualification": "The German corroborates the pairing. How the influence relates to the Jovian designation remains open.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "102-1",
+          "location": "27–28"
+        },
+        {
+          "source": "102-1-de",
+          "location": "27–28"
+        }
+      ]
+    },
+    {
+      "id": "OC09",
+      "dataset": "organs",
+      "from": "blood",
+      "type": "is_physical_expression_of",
+      "to": "i",
+      "class": "A",
+      "context": "Fourfold constitution and organs",
+      "claim": "Steiner calls blood a principal physical expression of the I. GA 13 connects a first tendency toward blood circulation with inwardly experienced warmth.",
+      "qualification": "The doctrine concerns an expression in the body. Neither passage identifies a blood constituent as the I.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "107-6",
+          "location": "2"
+        },
+        {
+          "source": "13-4",
+          "location": "72"
+        }
+      ]
+    },
+    {
+      "id": "OC10",
+      "dataset": "organs",
+      "from": "nervous-system",
+      "type": "is_physical_expression_of",
+      "to": "astral",
+      "class": "A",
+      "context": "Fourfold constitution and organs",
+      "claim": "Steiner connects the nervous system with physical expression of the astral body.",
+      "qualification": "In GA 21 he approaches neural activity in a different framework, through its relationship to ideation.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "107-6",
+          "location": "2"
+        }
+      ]
+    },
+    {
+      "id": "OC11",
+      "dataset": "organs",
+      "from": "glands",
+      "type": "is_physical_expression_of",
+      "to": "etheric",
+      "class": "A",
+      "context": "Fourfold constitution and organs",
+      "claim": "Steiner names the glandular system as a bodily expression of the etheric body.",
+      "qualification": "Case-specific extensions of the lecture’s medical claims are outside this concordance.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "107-6",
+          "location": "2"
+        }
+      ]
+    },
+    {
+      "id": "OC12",
+      "dataset": "organs",
+      "from": "heart",
+      "type": "is_related_to",
+      "to": "rhythmic",
+      "class": "B",
+      "context": "Inner organ analogy and threefold system",
+      "claim": "The cardiovascular solar analogy in GA 128 and the solar association with rhythm in GA 209 provide two routes into Steiner’s picture of bodily rhythm.",
+      "qualification": "The sources relate the Sun to different objects at different scales.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "128-4",
+          "location": "13"
+        },
+        {
+          "source": "209-1",
+          "location": "31"
+        },
+        {
+          "source": "21",
+          "location": "2"
+        }
+      ]
+    },
+    {
+      "id": "OC13",
+      "dataset": "organs",
+      "from": "sun",
+      "type": "bestows",
+      "to": "cosmic-heart",
+      "class": "A",
+      "context": "Return toward a new birth",
+      "claim": "Steiner describes the bestowal of a macrocosmic spiritual heart in the second passage through the Sun sphere.",
+      "qualification": "The comparison with the bodily heartbeat in §20 does not make this the anatomical construction of the earthly heart.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "231-4",
+          "location": "17–21"
+        }
+      ]
+    },
+    {
+      "id": "OC14",
+      "dataset": "organs",
+      "from": "moon",
+      "type": "influences",
+      "to": "reproduction",
+      "class": "A",
+      "context": "Whole-organism planetary polarity",
+      "claim": "Steiner associates the Moon with the forces of reproduction within the metabolic-limb pole.",
+      "qualification": "The statement is part of the 1921 spiritual physiology.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "209-1",
+          "location": "31"
+        }
+      ]
+    },
+    {
+      "id": "SF01",
+      "dataset": "soul",
+      "from": "mars",
+      "type": "contributes_to_formation_of",
+      "to": "sentient",
+      "class": "A",
+      "context": "Earth soul development",
+      "claim": "Mars beings participate in the formation of the sentient or feeling soul.",
+      "qualification": "This soul member has a wider meaning than the everyday faculty of feeling.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "102-3",
+          "location": "23–24"
+        }
+      ]
+    },
+    {
+      "id": "SF02",
+      "dataset": "soul",
+      "from": "mercury",
+      "type": "contributes_to_formation_of",
+      "to": "intellectual",
+      "class": "A",
+      "context": "Earth soul development",
+      "claim": "Steiner names Mercury in the development of the intellectual soul and separately as teacher of initiates.",
+      "qualification": "An earlier paragraph in the same lecture assigns intellectuality to Venus beings.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "102-3",
+          "location": "23–24"
+        },
+        {
+          "source": "102-3-de",
+          "location": "23–24"
+        }
+      ]
+    },
+    {
+      "id": "SF03",
+      "dataset": "soul",
+      "from": "jupiter",
+      "type": "contributes_to_formation_of",
+      "to": "consciousness",
+      "class": "A",
+      "context": "Earth soul development",
+      "claim": "Jupiter beings stir the consciousness soul, with help from a category of Venus beings.",
+      "qualification": "The source emphasizes that planetary tasks change through evolution.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "102-3",
+          "location": "23–25"
+        }
+      ]
+    },
+    {
+      "id": "SF04",
+      "dataset": "soul",
+      "from": "venus",
+      "type": "assists_emergence_of",
+      "to": "spirit-self",
+      "class": "A",
+      "context": "Earth soul development",
+      "claim": "Steiner assigns Venus beings a role as Spirit-Self is drawn into the consciousness soul.",
+      "qualification": "This relation is distinct from Jupiter’s contribution to developing that soul member.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "102-3",
+          "location": "24–25"
+        }
+      ]
+    },
+    {
+      "id": "SF05",
+      "dataset": "soul",
+      "from": "jupiter",
+      "type": "contributes_to_formation_of",
+      "to": "etheric",
+      "class": "A",
+      "context": "Earlier Earth humanity",
+      "claim": "Steiner names Jupiter beings as earlier contributors to the etheric body and later to the consciousness soul.",
+      "qualification": "The earlier role is specified in the lecture’s own esoteric human chronology, distinct from GA 13’s Old Sun account.",
+      "matrix_context": [
+        "earth"
+      ],
+      "evidence": [
+        {
+          "source": "102-3",
+          "location": "25"
+        },
+        {
+          "source": "102-3-de",
+          "location": "25"
+        }
+      ]
+    },
+    {
+      "id": "SF06",
+      "dataset": "soul",
+      "from": "venus-beings",
+      "type": "contribute_to",
+      "to": "thinking",
+      "class": "A",
+      "context": "Earth soul development",
+      "claim": "Steiner describes Venus beings as endowing humans with intellectuality.",
+      "qualification": "Both checked English versions and German agree on the name. This is recorded separately from Mercury and the intellectual soul in §§23–24.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "102-3",
+          "location": "22"
+        },
+        {
+          "source": "102-3-de",
+          "location": "22"
+        },
+        {
+          "source": "102-3-alt",
+          "location": "22"
+        }
+      ]
+    },
+    {
+      "id": "SF07",
+      "dataset": "soul",
+      "from": "jupiter",
+      "type": "enables_freedom_in",
+      "to": "thinking",
+      "class": "A",
+      "context": "Planetary individuality",
+      "claim": "Jupiter’s grace is associated with the will impulse in free thinking.",
+      "qualification": "This is the 1923 account of planets enabling human freedom.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "228",
+          "location": "34–37"
+        }
+      ]
+    },
+    {
+      "id": "SF08",
+      "dataset": "soul",
+      "from": "saturn",
+      "type": "supports",
+      "to": "memory",
+      "class": "A",
+      "context": "Planetary individuality",
+      "claim": "Saturn’s retention of cosmic memory and its contribution to free human remembering are related in GA 228.",
+      "qualification": "The journey account adds an explicit return-stage metamorphosis.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "228",
+          "location": "13–16,34–37"
+        }
+      ]
+    },
+    {
+      "id": "SF09",
+      "dataset": "soul",
+      "from": "sun",
+      "type": "associated_with",
+      "to": "rhythmic",
+      "class": "A",
+      "context": "Planetary activity in the threefold body",
+      "claim": "Steiner places the Sun at the middle of the planetary polarity and associates it chiefly with rhythmic activity.",
+      "qualification": "Compare the solar image for heart and circulation in GA 128.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "209-1",
+          "location": "30–32"
+        }
+      ]
+    },
+    {
+      "id": "SF10",
+      "dataset": "soul",
+      "from": "saturn",
+      "type": "works_chiefly_toward",
+      "to": "nerve-sense",
+      "class": "A",
+      "context": "Planetary activity in the threefold body",
+      "claim": "Saturn is grouped with Jupiter and Mars at the consciousness pole.",
+      "qualification": "The claim concerns a functional pole.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "209-1",
+          "location": "30–32"
+        }
+      ]
+    },
+    {
+      "id": "SF11",
+      "dataset": "soul",
+      "from": "jupiter",
+      "type": "works_chiefly_toward",
+      "to": "nerve-sense",
+      "class": "A",
+      "context": "Planetary activity in the threefold body",
+      "claim": "Jupiter is grouped with Saturn and Mars at the consciousness pole.",
+      "qualification": "The Jovian liver analogy belongs to another scale.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "209-1",
+          "location": "30–32"
+        }
+      ]
+    },
+    {
+      "id": "SF12",
+      "dataset": "soul",
+      "from": "mars",
+      "type": "works_chiefly_toward",
+      "to": "nerve-sense",
+      "class": "A",
+      "context": "Planetary activity in the threefold body",
+      "claim": "Mars is grouped with Saturn and Jupiter at the consciousness pole.",
+      "qualification": "The gallbladder comparison uses a different relationship.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "209-1",
+          "location": "30–32"
+        }
+      ]
+    },
+    {
+      "id": "SF13",
+      "dataset": "soul",
+      "from": "venus",
+      "type": "works_into",
+      "to": "metabolic-limb",
+      "class": "A",
+      "context": "Planetary activity in the threefold body",
+      "claim": "Venus is grouped with Mercury and the Moon at the metabolic-limb pole.",
+      "qualification": "There is no exclusive one-to-one pairing in this passage.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "209-1",
+          "location": "30–32"
+        }
+      ]
+    },
+    {
+      "id": "SF14",
+      "dataset": "soul",
+      "from": "mercury",
+      "type": "works_into",
+      "to": "metabolic-limb",
+      "class": "A",
+      "context": "Planetary activity in the threefold body",
+      "claim": "Mercury is grouped with Venus and the Moon at the metabolic-limb pole.",
+      "qualification": "The same source relates bodily form to zodiacal constellations.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "209-1",
+          "location": "30–32"
+        }
+      ]
+    },
+    {
+      "id": "SF15",
+      "dataset": "soul",
+      "from": "moon",
+      "type": "works_into",
+      "to": "metabolic-limb",
+      "class": "A",
+      "context": "Planetary activity in the threefold body",
+      "claim": "The Moon is grouped with Mercury and Venus at the metabolic-limb pole.",
+      "qualification": "Reproduction is singled out in the same paragraph.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "209-1",
+          "location": "30–32"
+        }
+      ]
+    },
+    {
+      "id": "HY01",
+      "dataset": "history",
+      "from": "lemuria",
+      "type": "precedes",
+      "to": "atlantis",
+      "class": "A",
+      "context": "Esoteric Earth history",
+      "claim": "The Lemurian condition precedes Steiner’s Atlantean differentiation of human consciousness.",
+      "qualification": "Use as a sequence within the esoteric narrative.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "110-6",
+          "location": "4,21"
+        },
+        {
+          "source": "13-4",
+          "location": "84–91"
+        }
+      ]
+    },
+    {
+      "id": "HY02",
+      "dataset": "history",
+      "from": "atlantis",
+      "type": "develops",
+      "to": "memory",
+      "class": "A",
+      "context": "Esoteric Earth history",
+      "claim": "Steiner portrays early Atlanteans as relying on vivid memory and speech before increasingly independent logical thought.",
+      "qualification": "These are textual claims about his narrative, not archaeological observations.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "11-atlantis",
+          "location": "1–3,8–11"
+        }
+      ]
+    },
+    {
+      "id": "HY03",
+      "dataset": "history",
+      "from": "atlantis",
+      "type": "sustains",
+      "to": "atlantean-oracles",
+      "class": "A",
+      "context": "Atlantean initiation",
+      "claim": "Oracle schools cultivate distinct forms of initiation in Steiner’s Atlantean narrative.",
+      "qualification": "The number and status of the Sun and Vulcan centers are discussed separately.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "13-4",
+          "location": "92–98"
+        },
+        {
+          "source": "109",
+          "location": "7–10"
+        }
+      ]
+    },
+    {
+      "id": "HY04",
+      "dataset": "history",
+      "from": "atlantis-1",
+      "type": "develops",
+      "to": "memory",
+      "class": "A",
+      "context": "Atlantean subperiod 1",
+      "claim": "The first phase is characterized by retention of vivid sensory impressions and development of speech with formative power.",
+      "qualification": "The stage numbering is editorial. Steiner uses obsolete Theosophical racial terminology.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "11-atlantis",
+          "location": "8–11"
+        }
+      ]
+    },
+    {
+      "id": "HY05",
+      "dataset": "history",
+      "from": "atlantis-2",
+      "type": "shifts_use_of",
+      "to": "memory",
+      "class": "A",
+      "context": "Atlantean subperiod 2",
+      "claim": "The second phase adds a sense of personal value and memory of actions that win recognition.",
+      "qualification": "The text links these changes with the beginnings of communal remembrance.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "11-atlantis",
+          "location": "12–13"
+        }
+      ]
+    },
+    {
+      "id": "HY06",
+      "dataset": "history",
+      "from": "atlantis-3",
+      "type": "organizes_public_life_through",
+      "to": "memory",
+      "class": "A",
+      "context": "Atlantean subperiod 3",
+      "claim": "Steiner makes remembered personal experience, tradition and continuity of leadership more important in the third phase.",
+      "qualification": "This is his account of early political organization.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "11-atlantis",
+          "location": "14–16"
+        }
+      ]
+    },
+    {
+      "id": "HY07",
+      "dataset": "history",
+      "from": "atlantis-4",
+      "type": "uses_earlier_capacities_in",
+      "to": "atlantis",
+      "class": "A",
+      "context": "Atlantean subperiod 4",
+      "claim": "The fourth phase uses inherited capacities for selfish ends, to which Steiner connects destructive effects.",
+      "qualification": "GA 13 IV also discusses misuse of growth and reproductive forces at the level of Atlantis as a whole.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "11-atlantis",
+          "location": "16–18"
+        }
+      ]
+    },
+    {
+      "id": "HY08",
+      "dataset": "history",
+      "from": "atlantis-5",
+      "type": "develops",
+      "to": "thinking",
+      "class": "A",
+      "context": "Atlantean subperiod 5",
+      "claim": "The fifth phase develops an inner basis for decisions through thought and checks the dominance of personal desire.",
+      "qualification": "Steiner depicts the transition as a shift of motive into the individual.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "11-atlantis",
+          "location": "18–19"
+        }
+      ]
+    },
+    {
+      "id": "HY09",
+      "dataset": "history",
+      "from": "atlantis-6",
+      "type": "extends",
+      "to": "thinking",
+      "class": "A",
+      "context": "Atlantean subperiod 6",
+      "claim": "The sixth phase uses thinking more extensively for social rules and wider collective organization.",
+      "qualification": "This is the conceptual change described in GA 11.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "11-atlantis",
+          "location": "20"
+        }
+      ]
+    },
+    {
+      "id": "HY10",
+      "dataset": "history",
+      "from": "atlantis-7",
+      "type": "retains_mixed_earlier_traits_from",
+      "to": "atlantis",
+      "class": "A",
+      "context": "Atlantean subperiod 7",
+      "claim": "Steiner combines developing thought with a stronger retention of earlier traits in the seventh phase.",
+      "qualification": "No application of his racial labels to living peoples is warranted.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "11-atlantis",
+          "location": "21"
+        }
+      ]
+    },
+    {
+      "id": "HY11",
+      "dataset": "history",
+      "from": "atlantis",
+      "type": "precedes",
+      "to": "ancient-india",
+      "class": "A",
+      "context": "Atlantean transition",
+      "claim": "The preservers of initiation and the seven teachers connect Atlantis to Steiner’s Ancient Indian epoch.",
+      "qualification": "In GA 13 the teacher appoints seven disciples. GA 109 supplies the name Manu.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "13-4",
+          "location": "98–102"
+        },
+        {
+          "source": "109",
+          "location": "13–16"
+        }
+      ]
+    },
+    {
+      "id": "HY12",
+      "dataset": "history",
+      "from": "ancient-india",
+      "type": "retains",
+      "to": "picture-consciousness",
+      "class": "B",
+      "context": "First Post-Atlantean epoch",
+      "claim": "The First Post-Atlantean account describes surviving older supersensible perception. Atlantean continuity is an interpretive link across the passages.",
+      "qualification": "The term picture-consciousness is broader in other Steiner contexts.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "13-4",
+          "location": "91,100–101"
+        },
+        {
+          "source": "109",
+          "location": "16"
+        }
+      ]
+    },
+    {
+      "id": "HY13",
+      "dataset": "history",
+      "from": "ancient-persia",
+      "type": "cultivates_earthly_activity_in",
+      "to": "earth",
+      "class": "A",
+      "context": "Second Post-Atlantean epoch",
+      "claim": "Steiner describes a turn toward shaping the sensory world under the instruction of ancient Persian culture.",
+      "qualification": "The same chapter distinguishes the esoteric Zarathustra from simple historical identification.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "13-4",
+          "location": "103–104"
+        }
+      ]
+    },
+    {
+      "id": "HY14",
+      "dataset": "history",
+      "from": "egypt",
+      "type": "seeks_spirit_within",
+      "to": "zodiac",
+      "class": "A",
+      "context": "Third Post-Atlantean epoch",
+      "claim": "Steiner describes a search for spiritual laws within sensory appearance, including star observation in the third period.",
+      "qualification": "The zodiac node identifies the broader astral study route.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "13-4",
+          "location": "105,109"
+        }
+      ]
+    },
+    {
+      "id": "HY15",
+      "dataset": "history",
+      "from": "greco-roman",
+      "type": "consolidates",
+      "to": "intellectual",
+      "class": "B",
+      "context": "Fourth Post-Atlantean epoch",
+      "claim": "Steiner relates greater investment in sensory earthly life to consolidation of intellect and feeling.",
+      "qualification": "The use of the intellectual soul as a graph connection is editorial.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "13-4",
+          "location": "106"
+        },
+        {
+          "source": "13-6",
+          "location": "5"
+        }
+      ]
+    },
+    {
+      "id": "HY16",
+      "dataset": "history",
+      "from": "fifth-culture",
+      "type": "develops",
+      "to": "consciousness",
+      "class": "B",
+      "context": "Fifth Post-Atlantean epoch",
+      "claim": "The fifth epoch develops independent engagement with sensory knowledge and the conditions for renewed awareness of spirit.",
+      "qualification": "GA 102 III locates the first stirrings of the consciousness soul much earlier, late in Atlantis.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "13-4",
+          "location": "114–115"
+        },
+        {
+          "source": "13-6",
+          "location": "5–6"
+        },
+        {
+          "source": "231-3",
+          "location": "25–26"
+        }
+      ]
+    },
+    {
+      "id": "HY17",
+      "dataset": "history",
+      "from": "sixth-culture",
+      "type": "reconciles_spiritual_and_sensory_in",
+      "to": "earth",
+      "class": "A",
+      "context": "Sixth Post-Atlantean epoch",
+      "claim": "Steiner projects a further reconciliation of life in the spirit with material culture and voluntary conscious perception.",
+      "qualification": "The sixth epoch is a subdivision of Earth evolution.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "13-4",
+          "location": "115"
+        },
+        {
+          "source": "13-6",
+          "location": "6"
+        }
+      ]
+    },
+    {
+      "id": "HY18",
+      "dataset": "history",
+      "from": "seventh-culture",
+      "type": "precedes_new_earth_condition_in",
+      "to": "earth",
+      "class": "A",
+      "context": "Seventh Post-Atlantean epoch",
+      "claim": "A major transition follows the seventh cultural period and opens a new series of earthly conditions.",
+      "qualification": "GA 13 provides a transition marker. A separate detailed seventh-period profile remains open.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "13-6",
+          "location": "6–7"
+        }
+      ]
+    },
+    {
+      "id": "HY19",
+      "dataset": "history",
+      "from": "archai",
+      "type": "guide",
+      "to": "lemuria",
+      "class": "A",
+      "context": "Earth history and Third Hierarchy",
+      "claim": "Steiner describes Spirits of Personality teaching and guiding in the Lemurian narrative through beings from the Venus sphere.",
+      "qualification": "The esoteric Venus terminology is the one explained in the lecture.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "110-7",
+          "location": "14–17"
+        }
+      ]
+    },
+    {
+      "id": "HY20",
+      "dataset": "history",
+      "from": "archangeloi",
+      "type": "guide",
+      "to": "atlantis",
+      "class": "A",
+      "context": "Earth history and Third Hierarchy",
+      "claim": "Steiner brings Mercury spirits and Archangels into his later account of Atlantean leadership.",
+      "qualification": "The passage uses the esoteric Mercury terminology.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "110-7",
+          "location": "16–18"
+        }
+      ]
+    },
+    {
+      "id": "AJ01",
+      "dataset": "journey",
+      "from": "moon",
+      "type": "opens",
+      "to": "outward-journey",
+      "class": "A",
+      "context": "Outward passage",
+      "claim": "The first lunar passage confronts the dead with their moral character and the primeval teachers.",
+      "qualification": "GA 108 separately describes the period of releasing desires. An exact concordance of all its phases with GA 231 remains open.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "231-3",
+          "location": "7–16"
+        },
+        {
+          "source": "231-4",
+          "location": "22–23"
+        }
+      ]
+    },
+    {
+      "id": "AJ02",
+      "dataset": "journey",
+      "from": "mercury",
+      "type": "deepens_understanding_in",
+      "to": "outward-journey",
+      "class": "A",
+      "context": "Outward passage",
+      "claim": "Understanding of what had previously been perceived starts to develop as the dead encounter the Third Hierarchy.",
+      "qualification": "This is an experience of several ranks, while GA 110 draws a single boundary marker for Archangeloi.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "231-3",
+          "location": "17"
+        }
+      ]
+    },
+    {
+      "id": "AJ03",
+      "dataset": "journey",
+      "from": "venus",
+      "type": "nurtures",
+      "to": "willing",
+      "class": "A",
+      "context": "Outward passage",
+      "claim": "The dead encounter cosmic love in Venus existence. The sphere works especially on the will.",
+      "qualification": "Steiner describes the response as depending on capacities brought from life on Earth.",
+      "matrix_context": [
+        "outward-journey"
+      ],
+      "evidence": [
+        {
+          "source": "231-3",
+          "location": "17"
+        }
+      ]
+    },
+    {
+      "id": "AJ04",
+      "dataset": "journey",
+      "from": "sun",
+      "type": "unfolds",
+      "to": "cosmic-music",
+      "class": "A",
+      "context": "Outward passage",
+      "claim": "The dead experience cosmic harmony in the Sun sphere.",
+      "qualification": "GA 231 III also associates this solar stage with feeling and the Second Hierarchy.",
+      "matrix_context": [
+        "outward-journey"
+      ],
+      "evidence": [
+        {
+          "source": "231-4",
+          "location": "4–7"
+        }
+      ]
+    },
+    {
+      "id": "AJ05",
+      "dataset": "journey",
+      "from": "mars",
+      "type": "unfolds",
+      "to": "cosmic-speech",
+      "class": "A",
+      "context": "Outward passage",
+      "claim": "Cosmic music becomes cosmic speech in the Mars region.",
+      "qualification": "GA 228 gives a parallel Mars speech motif in a different frame.",
+      "matrix_context": [
+        "outward-journey"
+      ],
+      "evidence": [
+        {
+          "source": "231-4",
+          "location": "11"
+        }
+      ]
+    },
+    {
+      "id": "AJ06",
+      "dataset": "journey",
+      "from": "jupiter",
+      "type": "unfolds",
+      "to": "cosmic-thought",
+      "class": "A",
+      "context": "Outward passage",
+      "claim": "Jupiter’s spiritual beings guard and radiate cosmic thoughts, which the human being encounters.",
+      "qualification": "This is part of the metamorphosis leading toward the head germ of another incarnation.",
+      "matrix_context": [
+        "outward-journey"
+      ],
+      "evidence": [
+        {
+          "source": "231-4",
+          "location": "12"
+        }
+      ]
+    },
+    {
+      "id": "AJ07",
+      "dataset": "journey",
+      "from": "saturn",
+      "type": "unfolds",
+      "to": "cosmic-memory",
+      "class": "A",
+      "context": "Outward passage",
+      "claim": "The person encounters the planetary system’s cosmic memory in the Saturn sphere.",
+      "qualification": "Compare the Saturn memory description in GA 228.",
+      "matrix_context": [
+        "outward-journey"
+      ],
+      "evidence": [
+        {
+          "source": "231-4",
+          "location": "13"
+        }
+      ]
+    },
+    {
+      "id": "AJ08",
+      "dataset": "journey",
+      "from": "saturn",
+      "type": "prepares",
+      "to": "memory",
+      "class": "A",
+      "context": "Return passage",
+      "claim": "On return through Saturn, cosmic memory becomes the germ of the future human faculty of memory.",
+      "qualification": "Steiner distinguishes outward experience and return transformation.",
+      "matrix_context": [
+        "return-journey"
+      ],
+      "evidence": [
+        {
+          "source": "231-4",
+          "location": "15"
+        }
+      ]
+    },
+    {
+      "id": "AJ09",
+      "dataset": "journey",
+      "from": "jupiter",
+      "type": "prepares",
+      "to": "thinking",
+      "class": "A",
+      "context": "Return passage",
+      "claim": "On return through Jupiter, perceived cosmic thoughts are transformed into a germ of earthly thinking.",
+      "qualification": "The change is linked to the spiritual germ of the head.",
+      "matrix_context": [
+        "return-journey"
+      ],
+      "evidence": [
+        {
+          "source": "231-4",
+          "location": "15"
+        }
+      ]
+    },
+    {
+      "id": "AJ10",
+      "dataset": "journey",
+      "from": "mars",
+      "type": "prepares",
+      "to": "speech",
+      "class": "A",
+      "context": "Return passage",
+      "claim": "On return through Mars, participation in the cosmic Word is linked to the germ of human speech.",
+      "qualification": "The same paragraph also names chest and limb germs.",
+      "matrix_context": [
+        "return-journey"
+      ],
+      "evidence": [
+        {
+          "source": "231-4",
+          "location": "16"
+        }
+      ]
+    },
+    {
+      "id": "AJ11",
+      "dataset": "journey",
+      "from": "mars",
+      "type": "prepares",
+      "to": "limbs",
+      "class": "A",
+      "context": "Return passage",
+      "claim": "Steiner assigns the addition of new spiritual limb and breast-system germs to the Mars passage.",
+      "qualification": "He explicitly places this on a spiritual level.",
+      "matrix_context": [
+        "return-journey",
+        "chest"
+      ],
+      "evidence": [
+        {
+          "source": "231-4",
+          "location": "16"
+        }
+      ]
+    },
+    {
+      "id": "AJ12",
+      "dataset": "journey",
+      "from": "venus",
+      "type": "prepares_organs_in",
+      "to": "return-journey",
+      "class": "A",
+      "context": "Return passage",
+      "claim": "Steiner jointly places implantation of additional organ germs at the passages through Venus and Mercury.",
+      "qualification": "He gives no organ-by-organ assignment here.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "231-4",
+          "location": "18–21"
+        }
+      ]
+    },
+    {
+      "id": "AJ13",
+      "dataset": "journey",
+      "from": "mercury",
+      "type": "prepares_organs_in",
+      "to": "return-journey",
+      "class": "A",
+      "context": "Return passage",
+      "claim": "Mercury and Venus are both named in the passage on other organ germs.",
+      "qualification": "This does not independently prove that Mercury supplies lung germs.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "231-4",
+          "location": "18–21"
+        }
+      ]
+    },
+    {
+      "id": "AJ14",
+      "dataset": "journey",
+      "from": "moon",
+      "type": "accompanies_embryonic_development_in",
+      "to": "return-journey",
+      "class": "A",
+      "context": "Return passage",
+      "claim": "The account puts the return lunar passage alongside the earthly interval between conception and birth.",
+      "qualification": "This is an esoteric parallel with embryonic development.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "231-4",
+          "location": "22–23"
+        }
+      ]
+    },
+    {
+      "id": "AJ15",
+      "dataset": "journey",
+      "from": "saturn",
+      "type": "helps_shape",
+      "to": "karma",
+      "class": "A",
+      "context": "Karmic lecture comparison",
+      "claim": "Steiner characterizes Saturn’s way of shaping karma through a relation to the past and intense effects in the soul.",
+      "qualification": "GA 239’s historical incarnation identifications are claims of its lecture context.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "239-4",
+          "location": "2–7,15"
+        }
+      ]
+    },
+    {
+      "id": "AJ16",
+      "dataset": "journey",
+      "from": "sun",
+      "type": "is_environment_for",
+      "to": "reincarnation",
+      "class": "A",
+      "context": "Solar sphere",
+      "claim": "Steiner places Exusiai, Dynamis and Kyriotetes in the Sun sphere in accounts of the interval between lives.",
+      "qualification": "The Sun includes several hierarchies in this account.",
+      "matrix_context": [
+        "exusiai",
+        "dynamis",
+        "kyriotetes"
+      ],
+      "evidence": [
+        {
+          "source": "231-3",
+          "location": "18–20"
+        },
+        {
+          "source": "239-3",
+          "location": "7–9"
+        }
+      ]
+    },
+    {
+      "id": "AJ17",
+      "dataset": "journey",
+      "from": "karma",
+      "type": "links_historical_epochs_by",
+      "to": "reincarnation",
+      "class": "A",
+      "context": "Karmic continuity",
+      "claim": "Steiner argues that people carry effects of earlier historical conditions into later epochs through reincarnation.",
+      "qualification": "The claim belongs to his esoteric account of history.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "239-3",
+          "location": "7–12"
+        }
+      ]
+    },
+    {
+      "id": "AJ18",
+      "dataset": "journey",
+      "from": "sun",
+      "type": "nurtures",
+      "to": "feeling",
+      "class": "A",
+      "context": "Outward passage",
+      "claim": "Sun-sphere forces act particularly on what appears on Earth as feeling.",
+      "qualification": "GA 209 associates feeling with rhythm in embodied life through a different explanatory route.",
+      "matrix_context": [
+        "outward-journey"
+      ],
+      "evidence": [
+        {
+          "source": "231-3",
+          "location": "18"
+        }
+      ]
+    },
+    {
+      "id": "PI01",
+      "dataset": "intelligence",
+      "from": "gabriel",
+      "type": "administers_intelligence_of",
+      "to": "moon",
+      "class": "A",
+      "context": "Planetary intelligences",
+      "claim": "Gabriel is named with the lunar planetary intelligence.",
+      "qualification": "Jehovah’s association with the Moon belongs to a different hierarchy and lecture context.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "237-11",
+          "location": "12–15"
+        }
+      ]
+    },
+    {
+      "id": "PI02",
+      "dataset": "intelligence",
+      "from": "raphael",
+      "type": "administers_intelligence_of",
+      "to": "mercury",
+      "class": "A",
+      "context": "Planetary intelligences",
+      "claim": "Raphael is named with the Mercury intelligence.",
+      "qualification": "Follow the naming recorded in this lecture.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "237-11",
+          "location": "12–15"
+        }
+      ]
+    },
+    {
+      "id": "PI03",
+      "dataset": "intelligence",
+      "from": "anael",
+      "type": "administers_intelligence_of",
+      "to": "venus",
+      "class": "A",
+      "context": "Planetary intelligences",
+      "claim": "Anael is named with the Venus intelligence.",
+      "qualification": "This is an Archangelic administration.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "237-11",
+          "location": "12–15"
+        }
+      ]
+    },
+    {
+      "id": "PI04",
+      "dataset": "intelligence",
+      "from": "michael",
+      "type": "presides_over_intelligence_of",
+      "to": "sun",
+      "class": "A",
+      "context": "Solar and cosmic intelligence",
+      "claim": "Michael primarily administers the solar intelligence and presides over the planetary administrators.",
+      "qualification": "Steiner explicitly describes shared administration under Michael.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "237-11",
+          "location": "12–15"
+        }
+      ]
+    },
+    {
+      "id": "PI05",
+      "dataset": "intelligence",
+      "from": "samael",
+      "type": "administers_intelligence_of",
+      "to": "mars",
+      "class": "A",
+      "context": "Planetary intelligences",
+      "claim": "Samael is named with the Mars intelligence.",
+      "qualification": "This is separate from the domain boundary of the Dynamis.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "237-11",
+          "location": "12–15"
+        }
+      ]
+    },
+    {
+      "id": "PI06",
+      "dataset": "intelligence",
+      "from": "zachariel",
+      "type": "administers_intelligence_of",
+      "to": "jupiter",
+      "class": "A",
+      "context": "Planetary intelligences",
+      "claim": "Zachariel is named with the Jupiter intelligence in this edition.",
+      "qualification": "The graph preserves the edition’s spelling.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "237-11",
+          "location": "12–15"
+        }
+      ]
+    },
+    {
+      "id": "PI07",
+      "dataset": "intelligence",
+      "from": "oriphiel",
+      "type": "administers_intelligence_of",
+      "to": "saturn",
+      "class": "A",
+      "context": "Planetary intelligences",
+      "claim": "Oriphiel is named with the Saturn intelligence.",
+      "qualification": "The Thrones’ assignment is a distinct relationship.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "237-11",
+          "location": "12–15"
+        }
+      ]
+    },
+    {
+      "id": "SC01",
+      "dataset": "sun-christ",
+      "from": "atlantean-oracles",
+      "type": "converge_in",
+      "to": "sun-oracle",
+      "class": "A",
+      "context": "Atlantean initiation",
+      "claim": "The Sun Oracle is portrayed as a central site where the wisdom of seven Oracle streams comes together.",
+      "qualification": "The status of the secretly preparing Vulcan Oracle requires separate accounting.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "109",
+          "location": "7–10"
+        }
+      ]
+    },
+    {
+      "id": "SC02",
+      "dataset": "sun-christ",
+      "from": "hidden-vulcan",
+      "type": "prepares_in_secret_beside",
+      "to": "sun-oracle",
+      "class": "A",
+      "context": "Atlantean initiation",
+      "claim": "The Vulcan Oracle prepares in secrecy, while GA 13 associates its stream with earthly phenomena.",
+      "qualification": "The projected Future Vulcan is a different type of entity.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "109",
+          "location": "9"
+        },
+        {
+          "source": "13-4",
+          "location": "93–94"
+        }
+      ]
+    },
+    {
+      "id": "SC03",
+      "dataset": "sun-christ",
+      "from": "hidden-vulcan",
+      "type": "fosters",
+      "to": "art-science",
+      "class": "A",
+      "context": "Initiatory inheritance",
+      "claim": "Steiner links specialists of this Oracle with earthly experience and early arts and sciences.",
+      "qualification": "He locates the Oracle’s guide in the Earth’s environment and assigns it no planet of its own.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "13-4",
+          "location": "93–94"
+        }
+      ]
+    },
+    {
+      "id": "SC04",
+      "dataset": "sun-christ",
+      "from": "manu",
+      "type": "leads",
+      "to": "sun-oracle",
+      "class": "A",
+      "context": "Atlantean transition",
+      "claim": "Steiner identifies Manu as the leader who preserves the tradition and chooses people whose older clairvoyance is waning.",
+      "qualification": "Steiner states that the name is less important than the function.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "109",
+          "location": "13–16"
+        }
+      ]
+    },
+    {
+      "id": "SC05",
+      "dataset": "sun-christ",
+      "from": "manu",
+      "type": "sends",
+      "to": "rishis",
+      "class": "A",
+      "context": "Early Post-Atlantean initiation",
+      "claim": "The initiate sends seven teachers who continue differentiated Atlantean wisdom in the first Post-Atlantean epoch.",
+      "qualification": "GA 109 explains continuity through preserved etheric organizations in its doctrine of spiritual economy.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "109",
+          "location": "14–16"
+        },
+        {
+          "source": "13-4",
+          "location": "100"
+        }
+      ]
+    },
+    {
+      "id": "SC06",
+      "dataset": "sun-christ",
+      "from": "rishis",
+      "type": "receive_from_without",
+      "to": "christ",
+      "class": "A",
+      "context": "Indian solar mystery",
+      "claim": "The highest Sun Being works on the Rishis from outside. Their high perception reaches the being as a distant spiritual source.",
+      "qualification": "In the narrative, the limitation concerns form of access and evolutionary timing.",
+      "matrix_context": [
+        "ancient-india"
+      ],
+      "evidence": [
+        {
+          "source": "112-4",
+          "location": "30–33"
+        },
+        {
+          "source": "113-9",
+          "location": "20"
+        }
+      ]
+    },
+    {
+      "id": "SC07",
+      "dataset": "sun-christ",
+      "from": "ancient-india",
+      "type": "knows_revelation_as",
+      "to": "vishva-karman",
+      "class": "A",
+      "context": "Indian solar mystery",
+      "claim": "Steiner identifies Vishva Karman with the Rishis’ designation for the elevated spiritual source.",
+      "qualification": "This records Steiner’s comparative theology.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "112-4",
+          "location": "30–33"
+        },
+        {
+          "source": "113-9",
+          "location": "20"
+        }
+      ]
+    },
+    {
+      "id": "SC08",
+      "dataset": "sun-christ",
+      "from": "zarathustra",
+      "type": "knows_revelation_as",
+      "to": "ahura-mazda",
+      "class": "A",
+      "context": "Persian solar mystery",
+      "claim": "For Steiner, Zarathustra recognizes the spiritual Sun behind the visible one as Ahura Mazda.",
+      "qualification": "The comparison in GA 113 distinguishes this mode of access from ancient Indian perception.",
+      "matrix_context": [
+        "ancient-persia"
+      ],
+      "evidence": [
+        {
+          "source": "13-4",
+          "location": "104"
+        },
+        {
+          "source": "112-4",
+          "location": "31–33"
+        },
+        {
+          "source": "113-9",
+          "location": "20"
+        }
+      ]
+    },
+    {
+      "id": "SC09",
+      "dataset": "sun-christ",
+      "from": "egypt",
+      "type": "knows_revelation_as",
+      "to": "osiris",
+      "class": "A",
+      "context": "Egyptian mysteries",
+      "claim": "Steiner names Osiris in his sequence of ways the Christ Being was known in mystery traditions.",
+      "qualification": "This is his esoteric reading of those traditions.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "109",
+          "location": "31–32"
+        }
+      ]
+    },
+    {
+      "id": "SC10",
+      "dataset": "sun-christ",
+      "from": "jehovah",
+      "type": "mediates_revelation_of",
+      "to": "christ",
+      "class": "D",
+      "context": "Theological context comparison",
+      "claim": "The early Christianizing mystery account sometimes uses identity language for Yahweh and Christ. The hierarchy lecture identifies Jehovah as the lunar Elohim.",
+      "qualification": "Whether the identity is meant as manifestation, mediation or a stronger identity needs further comparison.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "109",
+          "location": "31–32"
+        },
+        {
+          "source": "113-9",
+          "location": "20,24"
+        },
+        {
+          "source": "121-6",
+          "location": "3–5"
+        }
+      ]
+    },
+    {
+      "id": "SC11",
+      "dataset": "sun-christ",
+      "from": "christ",
+      "type": "unites_with_earth_through",
+      "to": "golgotha",
+      "class": "A",
+      "context": "Golgotha in Earth evolution",
+      "claim": "Steiner describes Christ’s union with Earth through Golgotha, using the motif of the blood shed there.",
+      "qualification": "Compare the separate physiology of blood and I in GA 107.",
+      "matrix_context": [
+        "greco-roman",
+        "earth"
+      ],
+      "evidence": [
+        {
+          "source": "109",
+          "location": "31–33"
+        },
+        {
+          "source": "13-4",
+          "location": "110–113"
+        }
+      ]
+    },
+    {
+      "id": "SC12",
+      "dataset": "sun-christ",
+      "from": "christ",
+      "type": "is_archetype_of",
+      "to": "love",
+      "class": "A",
+      "context": "Wisdom and love",
+      "claim": "Steiner presents the exalted Sun Being as the archetype of love, whose seed is placed in human nature.",
+      "qualification": "Earth adds love to the wisdom inherited from earlier evolution.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "13-6",
+          "location": "12"
+        }
+      ]
+    },
+    {
+      "id": "SC13",
+      "dataset": "sun-christ",
+      "from": "christ",
+      "type": "supports",
+      "to": "freedom",
+      "class": "A",
+      "context": "Michael teaching",
+      "claim": "Steiner connects Christ’s spiritual warmth with activity that makes freedom possible and assigns the originating free deed to the I.",
+      "qualification": "He distinguishes GA 4’s philosophical route from the spiritual experience described here.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "26",
+          "location": "2,4–6,11–15"
+        }
+      ]
+    },
+    {
+      "id": "SC14",
+      "dataset": "sun-christ",
+      "from": "michael",
+      "type": "acts_in_harmony_with",
+      "to": "golgotha",
+      "class": "A",
+      "context": "Michael teaching",
+      "claim": "Michael’s work is brought into harmony with the Mystery of Golgotha in the world age of human freedom.",
+      "qualification": "Michael is named as an Archangel. The Christ relation is stated at another theological level.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "26",
+          "location": "10–12"
+        }
+      ]
+    },
+    {
+      "id": "SC15",
+      "dataset": "sun-christ",
+      "from": "i",
+      "type": "originates",
+      "to": "freedom",
+      "class": "A",
+      "context": "Ethical and anthroposophical contexts",
+      "claim": "GA 4 treats moral intuition and love of the deed as sources of free action. GA 26 attributes the free to the human I.",
+      "qualification": "GA 26 explicitly distinguishes the basis of GA 4 from spiritual experience of Michael.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "4",
+          "location": "25,35–36"
+        },
+        {
+          "source": "26",
+          "location": "2,4–6"
+        }
+      ]
+    },
+    {
+      "id": "SC16",
+      "dataset": "sun-christ",
+      "from": "luciferic",
+      "type": "shapes_development_of",
+      "to": "astral",
+      "class": "A",
+      "context": "Early Earth narrative",
+      "claim": "Steiner places the Luciferic intervention in human astral development and connects it with independence and vulnerability to error.",
+      "qualification": "The account gives the intervention mixed consequences.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "13-4",
+          "location": "77–89"
+        }
+      ]
+    },
+    {
+      "id": "SC17",
+      "dataset": "sun-christ",
+      "from": "ahrimanic",
+      "type": "affects_perception_in",
+      "to": "earth",
+      "class": "A",
+      "context": "Earth and the sensory turn",
+      "claim": "Steiner connects Ahrimanic influence with an increasingly misleading grasp of sensory existence and with consequences beyond death.",
+      "qualification": "The Luciferic and Ahrimanic accounts overlap in their effects but are differentiated.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "13-4",
+          "location": "88,97,107–108"
+        }
+      ]
+    },
+    {
+      "id": "SC18",
+      "dataset": "sun-christ",
+      "from": "golgotha",
+      "type": "prepares_inner_experience_of",
+      "to": "christ",
+      "class": "A",
+      "context": "Development of Christian mysticism",
+      "claim": "Steiner treats the historical descent of Christ as a prerequisite for the later possibility of an inward mystical Christ experience.",
+      "qualification": "This is the lecture’s specific account of why modes of revelation change.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "113-7",
+          "location": "1–4"
+        }
+      ]
+    },
+    {
+      "id": "ZO01",
+      "dataset": "zodiac",
+      "from": "upper-zodiac",
+      "type": "contributes_to_form_of",
+      "to": "head",
+      "class": "A",
+      "context": "Twelvefold formative arrangement",
+      "claim": "Steiner relates Aries, Taurus, Gemini and Cancer to head formation.",
+      "qualification": "GA 209 distinguishes the formative zodiac from the planetary activity emphasized in §31.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "209-1",
+          "location": "22–24"
+        }
+      ]
+    },
+    {
+      "id": "ZO02",
+      "dataset": "zodiac",
+      "from": "middle-zodiac",
+      "type": "contributes_to_form_of",
+      "to": "chest",
+      "class": "A",
+      "context": "Twelvefold formative arrangement",
+      "claim": "Steiner relates Leo, Virgo, Libra and Scorpio to the chest organization.",
+      "qualification": "This is a fourfold group within the zodiacal twelve.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "209-1",
+          "location": "23–24"
+        }
+      ]
+    },
+    {
+      "id": "ZO03",
+      "dataset": "zodiac",
+      "from": "lower-zodiac",
+      "type": "contributes_to_form_of",
+      "to": "limbs",
+      "class": "A",
+      "context": "Twelvefold formative arrangement",
+      "claim": "Steiner assigns the remaining zodiacal group an action upon limb form.",
+      "qualification": "The source portrays action from beneath Earth.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "209-1",
+          "location": "24–26"
+        }
+      ]
+    },
+    {
+      "id": "ZO04",
+      "dataset": "zodiac",
+      "from": "zodiac",
+      "type": "structures_form_of",
+      "to": "physical",
+      "class": "A",
+      "context": "Form and activity",
+      "claim": "The twelvefold fixed-star framework is used to discuss bodily form, alongside a planetary framework for bodily activities.",
+      "qualification": "This is one lecture cycle’s distinction.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "209-1",
+          "location": "23–31"
+        },
+        {
+          "source": "209-2",
+          "location": "1–4"
+        }
+      ]
+    },
+    {
+      "id": "ZO05",
+      "dataset": "zodiac",
+      "from": "upper-zodiac",
+      "type": "is_linked_to_self_awareness_in",
+      "to": "greco-roman",
+      "class": "A",
+      "context": "Zodiac and cultural history",
+      "claim": "Steiner links the Aries imagery of looking back with self-contemplation in the Greek epoch.",
+      "qualification": "The correspondence is part of his esoteric reading of the vernal point and human culture.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "209-1",
+          "location": "22–23"
+        }
+      ]
+    },
+    {
+      "id": "CL01",
+      "dataset": "comparisons",
+      "from": "jupiter",
+      "type": "has_different_role_from",
+      "to": "future-jupiter",
+      "class": "B",
+      "context": "Referent distinction",
+      "claim": "The present sphere has a spatial function in GA 110; Future Jupiter is a later condition of Earth evolution.",
+      "qualification": "Shared labels establish neither identity nor automatic causation.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "13-4",
+          "location": "12"
+        },
+        {
+          "source": "13-6",
+          "location": "8–9"
+        },
+        {
+          "source": "110-6",
+          "location": "8,19–20"
+        }
+      ]
+    },
+    {
+      "id": "CL02",
+      "dataset": "comparisons",
+      "from": "hidden-vulcan",
+      "type": "has_unresolved_relation_to",
+      "to": "vulcan-beings",
+      "class": "D",
+      "context": "Oracle and modern beings",
+      "claim": "Vulcan names both an Atlantean oracle tradition and a later claim about approaching spiritual beings.",
+      "qualification": "The sources examined do not establish continuity of personnel.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "13-4",
+          "location": "93–94"
+        },
+        {
+          "source": "109",
+          "location": "9"
+        },
+        {
+          "source": "204-1921",
+          "location": "13–16"
+        }
+      ]
+    },
+    {
+      "id": "CL03",
+      "dataset": "comparisons",
+      "from": "hidden-vulcan",
+      "type": "has_distinct_referent_from",
+      "to": "future-vulcan",
+      "class": "B",
+      "context": "Oracle and embodiment",
+      "claim": "The hidden Oracle and the future embodiment belong to different scales.",
+      "qualification": "A typological connection remains a question for further work.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "13-4",
+          "location": "93–94"
+        },
+        {
+          "source": "13-6",
+          "location": "9"
+        },
+        {
+          "source": "109",
+          "location": "9"
+        }
+      ]
+    },
+    {
+      "id": "CL04",
+      "dataset": "comparisons",
+      "from": "mercury",
+      "type": "has_source_local_name_interchange_with",
+      "to": "venus",
+      "class": "D",
+      "context": "Mercury and Venus nomenclature",
+      "claim": "Steiner explicitly interchanges contemporary and esoteric Mercury and Venus labels in GA 110.",
+      "qualification": "Apply this declaration to its own context. Normalize other texts only after their wording and frame are independently established.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "110-6",
+          "location": "13–14"
+        },
+        {
+          "source": "110-7",
+          "location": "1–4"
+        },
+        {
+          "source": "110-7-de",
+          "location": "1–4"
+        }
+      ]
+    },
+    {
+      "id": "CL05",
+      "dataset": "comparisons",
+      "from": "venus-beings",
+      "type": "have_unresolved_overlap_in_role_with",
+      "to": "mercury-beings",
+      "class": "D",
+      "context": "Intellectuality and intellectual soul",
+      "claim": "In one lecture, §22 names Venus beings for intellectuality and §§23–24 name Mercury in the formation of the intellectual soul.",
+      "qualification": "The distinction between intellectuality and a soul member may matter. Neither a translation error nor a typographical fix is established.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "102-3",
+          "location": "22–25"
+        },
+        {
+          "source": "102-3-de",
+          "location": "22–25"
+        },
+        {
+          "source": "102-3-alt",
+          "location": "22–25"
+        }
+      ]
+    },
+    {
+      "id": "CL06",
+      "dataset": "comparisons",
+      "from": "saturn",
+      "type": "has_nonidentical_liver_claim_with",
+      "to": "jupiter",
+      "class": "D",
+      "context": "Organ influence and organ image",
+      "claim": "Saturn influence on the liver and the Jovian liver image both survive source checking.",
+      "qualification": "Their predicates and lecture purposes differ. A full explanation of their overlap is open.",
+      "matrix_context": [
+        "liver"
+      ],
+      "evidence": [
+        {
+          "source": "102-1",
+          "location": "27–28"
+        },
+        {
+          "source": "102-1-de",
+          "location": "27–28"
+        },
+        {
+          "source": "128-4",
+          "location": "13"
+        },
+        {
+          "source": "128-4-de",
+          "location": "13"
+        },
+        {
+          "source": "107-2",
+          "location": "13"
+        }
+      ]
+    },
+    {
+      "id": "CL07",
+      "dataset": "comparisons",
+      "from": "sun",
+      "type": "has_distinct_functions_through",
+      "to": "exusiai",
+      "class": "B",
+      "context": "Hierarchy boundary and several solar ranks",
+      "claim": "GA 110 draws a solar boundary for Exusiai, GA 231 describes a meeting place of the Second Hierarchy and GA 237 names Michael’s administration.",
+      "qualification": "The three passages specify different kinds of relation.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "110-6",
+          "location": "19–20"
+        },
+        {
+          "source": "231-3",
+          "location": "18"
+        },
+        {
+          "source": "237-11",
+          "location": "12–15"
+        }
+      ]
+    },
+    {
+      "id": "CL08",
+      "dataset": "comparisons",
+      "from": "mercury",
+      "type": "has_multiple_hierarchical_contexts_with",
+      "to": "archangeloi",
+      "class": "B",
+      "context": "Spatial boundary and journey experience",
+      "claim": "The Mercury boundary is associated with Archangels in GA 110. GA 231 describes beings of all three Third Hierarchy ranks in Mercury existence.",
+      "qualification": "The distinction is useful for reading the two statements together.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "110-6",
+          "location": "13,18–20"
+        },
+        {
+          "source": "231-3",
+          "location": "17"
+        }
+      ]
+    },
+    {
+      "id": "CL09",
+      "dataset": "comparisons",
+      "from": "christ",
+      "type": "has_unresolved_identity_language_with",
+      "to": "jehovah",
+      "class": "D",
+      "context": "Christ, the Sun and the lunar Elohim",
+      "claim": "GA 113 speaks of Yahweh and Christ as one in different forms. GA 121 separately assigns the lunar Elohim a cooperative task.",
+      "qualification": "The evidence supports retaining both statements. The full doctrinal reconciliation is open.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "109",
+          "location": "31–32"
+        },
+        {
+          "source": "113-9",
+          "location": "20,24"
+        },
+        {
+          "source": "121-6",
+          "location": "3–5"
+        }
+      ]
+    },
+    {
+      "id": "CL10",
+      "dataset": "comparisons",
+      "from": "consciousness",
+      "type": "arises_before",
+      "to": "fifth-culture",
+      "class": "B",
+      "context": "First development and epoch emphasis",
+      "claim": "GA 102 dates first stirring of the consciousness soul late in Atlantis. GA 13 discusses the much later fifth epoch’s cultivation of independently acquired knowledge.",
+      "qualification": "A first emergence and a later cultural emphasis are different chronological claims.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "102-3",
+          "location": "23"
+        },
+        {
+          "source": "13-4",
+          "location": "114–115"
+        },
+        {
+          "source": "13-6",
+          "location": "5–6"
+        }
+      ]
+    },
+    {
+      "id": "CL11",
+      "dataset": "comparisons",
+      "from": "sun-oracle",
+      "type": "has_unresolved_count_context_with",
+      "to": "hidden-vulcan",
+      "class": "D",
+      "context": "Counting Atlantean sources",
+      "claim": "GA 109 describes seven Oracle capacities converging at the Sun center and Vulcan preparing in secrecy. GA 13 narrates several branches with distinct initiation histories.",
+      "qualification": "A definitive reconciled count requires comparing the German and other accounts of Oracle organization.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "109",
+          "location": "7–10"
+        },
+        {
+          "source": "13-4",
+          "location": "92–98"
+        }
+      ]
+    },
+    {
+      "id": "HE21",
+      "dataset": "hierarchies",
+      "from": "seraphim",
+      "type": "shape_with_archai",
+      "to": "glands",
+      "class": "A",
+      "context": "Old Sun",
+      "claim": "Steiner traces glandular beginnings to the activity of the Spirits of Love with the Spirits of Personality on Old Sun.",
+      "qualification": "GA 107 separately associates the already formed glandular system with the etheric body.",
+      "matrix_context": [
+        "old-sun",
+        "archai"
+      ],
+      "evidence": [
+        {
+          "source": "13-4",
+          "location": "34,36"
+        }
+      ]
+    },
+    {
+      "id": "HE22",
+      "dataset": "hierarchies",
+      "from": "cherubim",
+      "type": "assist_angelic_formation_of",
+      "to": "etheric",
+      "class": "A",
+      "context": "Old Sun",
+      "claim": "Steiner describes the Cherubim imparting vision to the Angels, who work its imagery into the human etheric body.",
+      "qualification": "This is a later contribution within Old Sun, alongside the earlier activity of Spirits of Wisdom.",
+      "matrix_context": [
+        "old-sun",
+        "angeloi"
+      ],
+      "evidence": [
+        {
+          "source": "13-4",
+          "location": "37"
+        }
+      ]
+    },
+    {
+      "id": "HE23",
+      "dataset": "hierarchies",
+      "from": "archangeloi",
+      "type": "contribute_germs_to",
+      "to": "sense-organs",
+      "class": "A",
+      "context": "Old Saturn and Old Sun",
+      "claim": "Steiner attributes the first sense-organ germs in warmth and their further working to the Fire Spirits.",
+      "qualification": "The early germs do not yet perform Earth-style perception.",
+      "matrix_context": [
+        "old-saturn",
+        "old-sun"
+      ],
+      "evidence": [
+        {
+          "source": "13-4",
+          "location": "23,35–36"
+        }
+      ]
+    },
+    {
+      "id": "OC15",
+      "dataset": "organs",
+      "from": "mars",
+      "type": "prepares_spiritual_germ_of",
+      "to": "lungs",
+      "class": "A",
+      "context": "Return passage between lives",
+      "claim": "On return through Mars, Steiner explicitly places the addition of spiritual germs for the larynx and lung formations.",
+      "qualification": "This is distinct from Mercury as the pulmonary image in GA 128.",
+      "matrix_context": [
+        "return-journey"
+      ],
+      "evidence": [
+        {
+          "source": "231-4",
+          "location": "16"
+        }
+      ]
+    },
+    {
+      "id": "OC16",
+      "dataset": "organs",
+      "from": "archai",
+      "type": "co_form_early_germ_of",
+      "to": "glands",
+      "class": "A",
+      "context": "Old Sun",
+      "claim": "Steiner ascribes glandular beginnings to the Spirits of Personality working with the Seraphim.",
+      "qualification": "There is no claim of an exclusive present-day planetary source.",
+      "matrix_context": [
+        "old-sun",
+        "seraphim"
+      ],
+      "evidence": [
+        {
+          "source": "13-4",
+          "location": "34,36"
+        }
+      ]
+    },
+    {
+      "id": "CL12",
+      "dataset": "comparisons",
+      "from": "lungs",
+      "type": "have_distinct_mars_and_mercury_contexts_with",
+      "to": "mars",
+      "class": "B",
+      "context": "Organ image and pre-birth germ",
+      "claim": "The lung system is imaged as Mercury in occult physiology and has a spiritual germ added on the Mars return in GA 231.",
+      "qualification": "Their distinct predicates preserve both source claims without an identification.",
+      "matrix_context": [
+        "mercury"
+      ],
+      "evidence": [
+        {
+          "source": "107-2",
+          "location": "13"
+        },
+        {
+          "source": "128-4",
+          "location": "13"
+        },
+        {
+          "source": "231-4",
+          "location": "16"
+        }
+      ]
+    },
+    {
+      "id": "HY21",
+      "dataset": "history",
+      "from": "lemuria",
+      "type": "contains_early_changes_in",
+      "to": "reproduction",
+      "class": "A",
+      "context": "Esoteric Earth history",
+      "claim": "Steiner connects early bodily differentiation with changes in reproductive organization and the increasing inward use of life forces.",
+      "qualification": "The esoteric account is not historical evidence about human origins or a biological explanation of sex.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "11-lemuria",
+          "location": "2–5"
+        },
+        {
+          "source": "13-4",
+          "location": "73–76"
+        }
+      ]
+    },
+    {
+      "id": "HC15",
+      "dataset": "constitution",
+      "from": "physical",
+      "type": "shares_spiritual_origin_with",
+      "to": "moral-ideals",
+      "class": "A",
+      "context": "Anthroposophical method",
+      "claim": "Steiner approaches a shared divine origin through nature and through the inner experience of moral ideals.",
+      "qualification": "The first lecture introduces the two approaches without assigning a planet to moral ideals.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "134-1",
+          "location": "4–7"
+        }
+      ]
+    },
+    {
+      "id": "AJ19",
+      "dataset": "journey",
+      "from": "thought-exercise",
+      "type": "explores",
+      "to": "karma",
+      "class": "A",
+      "context": "Anthroposophical method",
+      "claim": "The lecture proposes imagining a person whose aims and faculties correspond to events that appear accidental.",
+      "qualification": "The exercise is an approach Steiner proposes to karma, not a way to establish a particular incarnation historically.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "135-4",
+          "location": "5–9"
+        }
+      ]
+    },
+    {
+      "id": "CE26",
+      "dataset": "cosmic",
+      "from": "future-jupiter",
+      "type": "retains_and_develops",
+      "to": "i",
+      "class": "B",
+      "context": "From Earth to future embodiments",
+      "claim": "Earth’s independent I remains a starting point as the higher human members unfold in the projected future.",
+      "qualification": "GA 13 frames love as an added activity of the I. GA 103 treats the transformation of its lower members.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "13-6",
+          "location": "11–12"
+        },
+        {
+          "source": "103-2",
+          "location": "13"
+        }
+      ]
+    },
+    {
+      "id": "OC17",
+      "dataset": "organs",
+      "from": "cosmic-heart",
+      "type": "has_bodily_analogue_in",
+      "to": "heart",
+      "class": "A",
+      "context": "Solar return and earthly heartbeat",
+      "claim": "The experience of the macrocosmic heart is compared with the sense of being bound up with bodily heartbeat.",
+      "qualification": "The passage compares the experiences and works across two different settings.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "231-4",
+          "location": "17–21"
+        }
+      ]
+    },
+    {
+      "id": "OC18",
+      "dataset": "organs",
+      "from": "heart",
+      "type": "has_related_blood_context_in",
+      "to": "blood",
+      "class": "B",
+      "context": "Warmth, circulation and the I",
+      "claim": "The heart belongs to the circulatory system Steiner calls Sun-like. Blood is separately named as an expression of the I, and GA 13 links its first tendencies with warmth.",
+      "qualification": "The bridge brings these contexts together without assigning a single mechanism.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "128-4",
+          "location": "13"
+        },
+        {
+          "source": "107-6",
+          "location": "2"
+        },
+        {
+          "source": "13-4",
+          "location": "72"
+        }
+      ]
+    },
+    {
+      "id": "SC19",
+      "dataset": "sun-christ",
+      "from": "golgotha",
+      "type": "has_blood_motif_in_common_with",
+      "to": "blood",
+      "class": "B",
+      "context": "Christ and the bodily expression of the I",
+      "claim": "Steiner uses blood at Golgotha in the Christ narrative and blood as the physical expression of the I in the constitution narrative.",
+      "qualification": "An explicit doctrine connecting all these passages still needs closer inquiry.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "109",
+          "location": "31–33"
+        },
+        {
+          "source": "107-6",
+          "location": "2"
+        },
+        {
+          "source": "13-4",
+          "location": "72"
+        }
+      ]
+    },
+    {
+      "id": "SC20",
+      "dataset": "sun-christ",
+      "from": "hermes",
+      "type": "prepares_ancient_initiates_in",
+      "to": "egypt",
+      "class": "A",
+      "context": "Egyptian mysteries and death",
+      "claim": "Steiner describes Hermes preparing Egyptians during life for companionship with the Spirit of Light beyond death.",
+      "qualification": "This is Steiner’s mystery-history account.",
+      "matrix_context": [],
+      "evidence": [
+        {
+          "source": "13-4",
+          "location": "105,109"
+        }
+      ]
+    },
+    {
+      "id": "OC19",
+      "dataset": "organs",
+      "from": "spleen",
+      "type": "works_in_nutritive_group_with",
+      "to": "liver",
+      "class": "A",
+      "context": "Inner cosmic system",
+      "claim": "Steiner groups the spleen, liver and gallbladder in the inner transformation of nourishment.",
+      "qualification": "The lecture goes on to describe reciprocal interactions with the organs of a different functional group.",
+      "matrix_context": [
+        "gallbladder"
+      ],
+      "evidence": [
+        {
+          "source": "128-8",
+          "location": "15–18"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "102-1",
+      "ga": "102",
+      "title": "Lecture One — GA 102. The Influence of Spiritual Beings Upon Man (1961)",
+      "date": "1908-01-06",
+      "url": "https://rsarchive.org/Lectures/GA102/English/AP1961/19080106p01.html",
+      "language": "en",
+      "form": "lecture"
+    },
+    {
+      "id": "102-1-de",
+      "ga": "102",
+      "title": "Erster Vortrag — Das Hereinwirken geistiger Wesenheiten in den Menschen",
+      "date": "1908-01-06",
+      "url": "https://rsarchive.org/Lectures/GA102/German/19080106.html",
+      "language": "de",
+      "form": "lecture"
+    },
+    {
+      "id": "102-3",
+      "ga": "102",
+      "title": "Third Lecture — GA 102. The Influence of Spiritual Beings on Man",
+      "date": "1908-02-15",
+      "url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080215p01.html",
+      "language": "en",
+      "form": "lecture"
+    },
+    {
+      "id": "102-3-alt",
+      "ga": "102",
+      "title": "Lecture Three — GA 102. The Influence of Spiritual Beings Upon Man (1961)",
+      "date": "1908-02-15",
+      "url": "https://rsarchive.org/Lectures/GA102/English/AP1961/19080215p01.html",
+      "language": "en",
+      "form": "lecture"
+    },
+    {
+      "id": "102-3-de",
+      "ga": "102",
+      "title": "Dritter Vortrag — Das Hereinwirken geistiger Wesenheiten in den Menschen",
+      "date": "1908-02-15",
+      "url": "https://rsarchive.org/Lectures/GA102/German/19080215.html",
+      "language": "de",
+      "form": "lecture"
+    },
+    {
+      "id": "103-2",
+      "ga": "103",
+      "title": "Second Lecture — GA 103. The Gospel of John",
+      "date": "1908-05-19",
+      "url": "https://rsarchive.org/Lectures/GA103/English/SOL/19080519p01.html",
+      "language": "en",
+      "form": "lecture"
+    },
+    {
+      "id": "104-10",
+      "ga": "104",
+      "title": "Tenth Lecture — GA 104. The Apocalypse of John",
+      "date": "1908-06-27",
+      "url": "https://rsarchive.org/Lectures/GA104/English/SOL/19080627p01.html",
+      "language": "en",
+      "form": "lecture"
+    },
+    {
+      "id": "107-2",
+      "ga": "107",
+      "title": "Eighth Lecture — GA 107. Spiritual-Scientific Anthropology",
+      "date": "1908-11-10",
+      "url": "https://rsarchive.org/Lectures/GA107/English/SOL/19081110p01.html",
+      "language": "en",
+      "form": "lecture"
+    },
+    {
+      "id": "107-6",
+      "ga": "107",
+      "title": "6. Illness and Karma — GA 107. The Being of Man and His Future Evolutions",
+      "date": "1909-01-26",
+      "url": "https://rsarchive.org/Lectures/GA107/English/RSP1981/19090126p01.html",
+      "language": "en",
+      "form": "lecture"
+    },
+    {
+      "id": "108",
+      "ga": "108",
+      "title": "3. Life between Two Reincarnations — GA 108. Anthroposophy's Response to Universal Questions",
+      "date": "1908-12-02",
+      "url": "https://rsarchive.org/Lectures/GA108/English/SOL/19081202p01.html",
+      "language": "en",
+      "form": "lecture"
+    },
+    {
+      "id": "109",
+      "ga": "109",
+      "title": "From Buddha to Christ — GA 109. The Principle of Spiritual Economy (1986)",
+      "date": "1909-05-31",
+      "url": "https://rsarchive.org/Lectures/GA109/English/AP1986/19090531p01.html",
+      "language": "en",
+      "form": "lecture"
+    },
+    {
+      "id": "11-atlantis",
+      "ga": "11",
+      "title": "Chapter 3. Our Atlantean Ancestors — Cosmic Memory (1959)",
+      "date": "",
+      "url": "https://rsarchive.org/Books/GA011/English/RSPI1959/GA011_c03.html",
+      "language": "en",
+      "form": "chapter"
+    },
+    {
+      "id": "11-lemuria",
+      "ga": "11",
+      "title": "Chapter 6. The Division into Sexes — Cosmic Memory (1959)",
+      "date": "",
+      "url": "https://rsarchive.org/Books/GA011/English/RSPI1959/GA011_c06.html",
+      "language": "en",
+      "form": "chapter"
+    },
+    {
+      "id": "110-6",
+      "ga": "110",
+      "title": "Sixth Lecture — GA 110. Spiritual Hierarchies and their Reflection in the Physical World",
+      "date": "1909-04-15",
+      "url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090415p01.html",
+      "language": "en",
+      "form": "lecture"
+    },
+    {
+      "id": "110-7",
+      "ga": "110",
+      "title": "Seventh Lecture — GA 110. Spiritual Hierarchies and their Reflection in the Physical World",
+      "date": "1909-04-16",
+      "url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090416p01.html",
+      "language": "en",
+      "form": "lecture"
+    },
+    {
+      "id": "110-7-de",
+      "ga": "110",
+      "title": "Siebenter Vortrag — Geistige Hierarchien und ihre Widerspiegelung in der physischen Welt",
+      "date": "1909-04-16",
+      "url": "https://rsarchive.org/Lectures/GA110/German/19090416.html",
+      "language": "de",
+      "form": "lecture"
+    },
+    {
+      "id": "112-4",
+      "ga": "112",
+      "title": "4. The Hierarchical Beings of our Solar System and the Kingdoms of the Earth — GA 112. The Gospel of St. John in Its Relation to the Other Three Gospels (1948)",
+      "date": "1909-06-27",
+      "url": "https://rsarchive.org/Lectures/GospJohn2/19090627p02.html",
+      "language": "en",
+      "form": "lecture"
+    },
+    {
+      "id": "113-7",
+      "ga": "113",
+      "title": "Seventh Lecture — GA 113. The East in the Light of the West",
+      "date": "1909-08-29",
+      "url": "https://rsarchive.org/Lectures/GA113/English/SOL/19090829p01.html",
+      "language": "en",
+      "form": "lecture"
+    },
+    {
+      "id": "113-9",
+      "ga": "113",
+      "title": "Ninth Lecture — GA 113. The East in the Light of the West",
+      "date": "1909-08-31",
+      "url": "https://rsarchive.org/Lectures/GA113/English/RSPC1940/19090831p01.html",
+      "language": "en",
+      "form": "lecture"
+    },
+    {
+      "id": "121-6",
+      "ga": "121",
+      "title": "Sixth Lecture — GA 121. The Mission of Individual Folk-Souls in their Connection with Germanic-Norse Mythology",
+      "date": "1910-06-12",
+      "url": "https://rsarchive.org/Lectures/GA121/English/SOL/19100612a01.html",
+      "language": "en",
+      "form": "lecture"
+    },
+    {
+      "id": "128-4",
+      "ga": "128",
+      "title": "Fourth Lecture — GA 128. An Occult Physiology",
+      "date": "1911-03-23",
+      "url": "https://rsarchive.org/Lectures/GA128/English/SOL/19110323p01.html",
+      "language": "en",
+      "form": "lecture"
+    },
+    {
+      "id": "128-4-de",
+      "ga": "128",
+      "title": "Vierter Vortrag — Eine okkulte Physiologie",
+      "date": "1911-03-23",
+      "url": "https://rsarchive.org/Lectures/GA128/German/19110323.html",
+      "language": "de",
+      "form": "lecture"
+    },
+    {
+      "id": "128-8",
+      "ga": "128",
+      "title": "8. The Human Form and Its Co-ordination of Forces — GA 128. An Occult Physiology (1951)",
+      "date": "1911-03-28",
+      "url": "https://rsarchive.org/Medicine/GA128/English/RSPC1951/19110328p01.html",
+      "language": "en",
+      "form": "lecture"
+    },
+    {
+      "id": "13-2",
+      "ga": "13",
+      "title": "II. The Essential Nature of Mankind — Occult Science (1972)",
+      "date": "",
+      "url": "https://rsarchive.org/Books/GA013/English/AP1972/GA013_c02.html",
+      "language": "en",
+      "form": "chapter"
+    },
+    {
+      "id": "13-4",
+      "ga": "13",
+      "title": "IV. The Evolution of the Cosmos and Man — Occult Science (1972)",
+      "date": "",
+      "url": "https://rsarchive.org/Books/GA013/English/AP1972/GA013_c04.html",
+      "language": "en",
+      "form": "chapter"
+    },
+    {
+      "id": "13-6",
+      "ga": "13",
+      "title": "VI. The Present and Future of Cosmic Evolution — Occult Science (1972)",
+      "date": "",
+      "url": "https://rsarchive.org/Books/GA013/English/AP1972/GA013_c06.html",
+      "language": "en",
+      "form": "chapter"
+    },
+    {
+      "id": "134-1",
+      "ga": "134",
+      "title": "First Lecture — GA 134. The World of the Senses and the World of the Spirit",
+      "date": "1911-12-27",
+      "url": "https://rsarchive.org/Lectures/GA134/English/SOL/19111227p01.html",
+      "language": "en",
+      "form": "lecture"
+    },
+    {
+      "id": "135-4",
+      "ga": "135",
+      "title": "Knowledge of reincarnation and karma through thought-exercises — GA 135. Reincarnation and Karma, Their Significance in Modern Culture (1977)",
+      "date": "1912-02-20",
+      "url": "https://rsarchive.org/Lectures/19120220p01.html",
+      "language": "en",
+      "form": "lecture"
+    },
+    {
+      "id": "136-5",
+      "ga": "136",
+      "title": "Fifth Lecture — GA 136. Spiritual Entities in Heavenly Bodies and Nature Realms",
+      "date": "1912-04-07",
+      "url": "https://rsarchive.org/Lectures/GA136/English/SOL/19120407p01.html",
+      "language": "en",
+      "form": "lecture"
+    },
+    {
+      "id": "136-6",
+      "ga": "136",
+      "title": "Sixth Lecture — GA 136. Spiritual Entities in Heavenly Bodies and Nature Realms",
+      "date": "1912-04-08",
+      "url": "https://rsarchive.org/Lectures/GA136/English/SOL/19120408p01.html",
+      "language": "en",
+      "form": "lecture"
+    },
+    {
+      "id": "204-1921",
+      "ga": "204",
+      "title": "Fourteenth Lecture — GA 204. Perspectives on Human Evolution",
+      "date": "1921-05-13",
+      "url": "https://rsarchive.org/Lectures/GA204/English/SOL/19210513p01.html",
+      "language": "en",
+      "form": "lecture"
+    },
+    {
+      "id": "209-1",
+      "ga": "209",
+      "title": "1. Cosmic Forces in Man — GA 209. Cosmic Forces in Man (1948)",
+      "date": "1921-11-24",
+      "url": "https://rsarchive.org/Lectures/GA209/English/APC1948/19211124p01.html",
+      "language": "en",
+      "form": "lecture"
+    },
+    {
+      "id": "209-2",
+      "ga": "209",
+      "title": "2. The Soul Life of Man — GA 209. Cosmic Forces in Man (1948)",
+      "date": "1921-11-27",
+      "url": "https://rsarchive.org/Lectures/GA209/English/APC1948/19211127p01.html",
+      "language": "en",
+      "form": "lecture"
+    },
+    {
+      "id": "21",
+      "ga": "21",
+      "title": "4.6 The Physical and Spiritual Dependencies of the Human Being — GA 21. Riddles of the Soul",
+      "date": "",
+      "url": "https://rsarchive.org/Books/GA021/English/SOL/GA021_c04-6.html",
+      "language": "en",
+      "form": "chapter"
+    },
+    {
+      "id": "228",
+      "ga": "228",
+      "title": "Planetary Spirits that Determine Destiny and Liberate Humanity I — GA 228. The Development of Human Consciousness",
+      "date": "1923-07-27",
+      "url": "https://rsarchive.org/Lectures/GA228/English/SOL/19230727p01.html",
+      "language": "en",
+      "form": "lecture"
+    },
+    {
+      "id": "231-3",
+      "ga": "231",
+      "title": "Lecture III — GA 231. Supersensible Man (1961)",
+      "date": "1923-11-17",
+      "url": "https://rsarchive.org/Lectures/GA231/English/APC1961/19231117a01.html",
+      "language": "en",
+      "form": "lecture"
+    },
+    {
+      "id": "231-4",
+      "ga": "231",
+      "title": "Lecture IV — GA 231. Supersensible Man (1961)",
+      "date": "1923-11-17",
+      "url": "https://rsarchive.org/Lectures/GA231/English/APC1961/19231117p01.html",
+      "language": "en",
+      "form": "lecture"
+    },
+    {
+      "id": "237-11",
+      "ga": "237",
+      "title": "Eleventh Lecture — GA 237. Esoteric Considerations of Karmic Connections: Volume II",
+      "date": "1924-08-08",
+      "url": "https://rsarchive.org/Lectures/GA237/English/SOL/19240808p01.html",
+      "language": "en",
+      "form": "lecture"
+    },
+    {
+      "id": "239-3",
+      "ga": "239",
+      "title": "Lecture III — GA 239. Karmic Relationships VII (1973)",
+      "date": "1924-06-09",
+      "url": "https://rsarchive.org/Lectures/GA239/English/RSP1973/19240609a01.html",
+      "language": "en",
+      "form": "lecture"
+    },
+    {
+      "id": "239-4",
+      "ga": "239",
+      "title": "Lecture IV — GA 239. Karmic Relationships VII (1973)",
+      "date": "1924-06-10",
+      "url": "https://rsarchive.org/Lectures/GA239/English/RSP1973/19240610a01.html",
+      "language": "en",
+      "form": "lecture"
+    },
+    {
+      "id": "26",
+      "ga": "26",
+      "title": "Michael's Mission in the World Age of Human Freedom — GA 26. Anthroposophical Guiding Principles",
+      "date": "1924-11-16",
+      "url": "https://rsarchive.org/Books/GA026/English/SOL/19241116m01.html",
+      "language": "en",
+      "form": "essay"
+    },
+    {
+      "id": "317-3",
+      "ga": "317",
+      "title": "Lecture Three - Vol. 317. Curative Education (1972)",
+      "date": "1924-06-27",
+      "url": "https://rsarchive.org/Lectures/GA317/English/RSP1972/19240627p01.html",
+      "language": "en",
+      "form": "lecture"
+    },
+    {
+      "id": "317-4",
+      "ga": "317",
+      "title": "Lecture Four - Vol. 317. Curative Education (1972)",
+      "date": "1924-06-28",
+      "url": "https://rsarchive.org/Lectures/GA317/English/RSP1972/19240628p01.html",
+      "language": "en",
+      "form": "lecture"
+    },
+    {
+      "id": "4",
+      "ga": "4",
+      "title": "IX. The Idea of Freedom — GA 4. The Philosophy of Spiritual Activity (1963)",
+      "date": "",
+      "url": "https://rsarchive.org/Books/GA004/English/RSPI1963/GA004_c09.html",
+      "language": "en",
+      "form": "chapter"
+    },
+    {
+      "id": "93a-14",
+      "ga": "93a",
+      "title": "Lecture XIV — GA 93a. Basic Elements of Esotericism",
+      "date": "1905-10-09",
+      "url": "https://rsarchive.org/Lectures/GA093a/English/SOL/19051009p01.html",
+      "language": "en",
+      "form": "lecture"
+    }
+  ]
+}

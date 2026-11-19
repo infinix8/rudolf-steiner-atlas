@@ -1,0 +1,18 @@
+# Contradictions and open questions
+
+Read the [comparison ledger](CONTRADICTIONS_LEDGER.csv) for passage-level sources. Classification D records a comparison requiring context or further adjudication. Related direct statements remain independently citable.
+
+| Issue | Evidence and current treatment | Next comparison |
+| --- | --- | --- |
+| Liver, Saturn and Jupiter | GA 102 I §§27–28 attributes Saturn influence. GA 107 §13 and GA 128 IV §13 name the liver Jovian within an organ analogy. Both pairings survive a German spot-check | Read the wider GA 102 Prometheus context and GA 128 II–VIII. Compare use of force, influence and activity |
+| Lungs, Mercury and Mars | GA 128 IV §13 names the lungs Mercury. GA 231 IV §16 places lung and larynx germs during the Mars return. Distinct predicates explain why the records can coexist | Compare the later karma lectures and earlier pulmonary sources to see whether any further relation is stated directly |
+| GA 102 inner planets | GA 102 III §22 attributes intellectuality to Venus beings. §§23–24 give Mercury a formative role in the intellectual soul. German and both reviewed English versions retain the names | Compare intellectuality and Verstandesseele as concepts. Examine the naming conventions and reach of the descriptions in adjacent lectures |
+| Mercury/Venus nomenclature | GA 110 VI–VII explicitly reverses the esoteric and contemporary names. Scope remains source-local | Compare GA 128 IV, GA 102 III and GA 237 XI in their own lecture cycles before joining on any physical-body identifier |
+| Yahweh and Christ | GA 113 IX uses identity language across forms of appearance. GA 121 VI describes the lunar Jehovah as an Elohim cooperating with six solar Elohim | Compare GA 112 later lectures and GA 103 across editions. Establish a defensible scope for use of identity language |
+| Vulcan | The Atlantean Oracle, beings mentioned in GA 204 and a future embodiment are separately attested | Collate GA 109 §12 and GA 204 XIV German with the earlier account. Keep the common name distinct from continuity of personnel |
+| Number of Atlantean Oracles | GA 109 describes seven capacities converging at the Sun center and separately mentions hidden Vulcan. GA 13 gives a different narrative frame | Enumerate source-local centers, streams and guides. Check whether both texts count the same kind of entity |
+| Present spheres and planetary conditions | GA 13 IV §12 warns against equating the names. GA 110 VI §19 makes the Sun’s continuing relation to several embodiments special | Read GA 110 V and VIII–X with GA 136 V–VII. Record specific links between planetary bodies and larger embodiments independently |
+| Hierarchy origins | Own human-stage attainments are traced for the Third Hierarchy. Further detail on higher ranks and their future work remains open | Extend full GA 110 and GA 136 review alongside GA 132 and GA 134 |
+| Birth and death mappings | GA 108, GA 231 and GA 239 present distinct explanations. The first Mercury and Venus passages differ from the return passages | Extend GA 231 I–II and GA 239 I–IV as a matched sequence. Compare GA 140 and GA 141 |
+| Cultural chronology | First emergence of consciousness soul versus fifth-period development are distinct claims. Seventh-period activity remains sparsely documented here | Verify cross-cycle formulations through the current chronology dossiers and GA 104, GA 346 and relevant alternatives |
+| GA 13 IV paragraph numbering | AP1972 shows a second §32 after §61. The ledger uses adjacent unambiguous positions for recapitulation claims | Add a verified bilingual paragraph crosswalk, including actual stable URLs where the Archive exposes anchors |

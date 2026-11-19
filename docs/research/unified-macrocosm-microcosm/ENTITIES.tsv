@@ -1,0 +1,130 @@
+id	kind	label	route	x	y
+old-saturn	stage	Old Saturn	chronology-time-dial.html#cos-saturn
+old-sun	stage	Old Sun	chronology-time-dial.html#cos-sun
+old-moon	stage	Old Moon	chronology-time-dial.html#cos-moon
+earth	stage	Earth	chronology-time-dial.html#cos-earth
+future-jupiter	stage	Future Jupiter	chronology-time-dial.html#cos-jupiter
+future-venus	stage	Future Venus	chronology-time-dial.html#cos-venus
+future-vulcan	stage	Future Vulcan	chronology-time-dial.html#cos-vulcan
+moon	sphere	Moon	planetary-sphere.html?sphere=moon
+mercury	sphere	Mercury	planetary-sphere.html?sphere=mercury
+venus	sphere	Venus	planetary-sphere.html?sphere=venus
+sun	sphere	Sun	planetary-sphere.html?sphere=sun
+mars	sphere	Mars	planetary-sphere.html?sphere=mars
+jupiter	sphere	Jupiter	planetary-sphere.html?sphere=jupiter
+saturn	sphere	Saturn	planetary-sphere.html?sphere=saturn
+hidden-vulcan	oracle	Hidden Vulcan Oracle	planetary-sphere.html?sphere=vulcan
+vulcan-beings	being	Vulcan beings	planetary-sphere.html?sphere=vulcan
+sun-oracle	oracle	Sun Oracle	planetary-sphere.html?sphere=sun
+atlantean-oracles	oracle	Atlantean Oracles	human-evolution.html
+angeloi	hierarchy	Angeloi · Angels	agency.html
+archangeloi	hierarchy	Archangeloi · Archangels	agency.html
+archai	hierarchy	Archai · Spirits of Personality	agency.html
+exusiai	hierarchy	Exusiai · Spirits of Form	agency.html
+dynamis	hierarchy	Dynamis · Spirits of Movement	agency.html
+kyriotetes	hierarchy	Kyriotetes · Spirits of Wisdom	agency.html
+thrones	hierarchy	Thrones · Spirits of Will	agency.html
+cherubim	hierarchy	Cherubim	agency.html
+seraphim	hierarchy	Seraphim	agency.html
+physical	member	Physical body	human-evolution.html
+etheric	member	Etheric organization	human-evolution.html
+astral	member	Astral organization	human-evolution.html
+i	member	Human “I”	human-evolution.html
+spirit-self	member	Spirit-Self · Manas	human-evolution.html
+life-spirit	member	Life-Spirit · Buddhi	human-evolution.html
+spirit-man	member	Spirit-Man · Atma	human-evolution.html
+sentient	faculty	Sentient soul	human-evolution.html
+intellectual	faculty	Intellectual or mind soul	human-evolution.html
+consciousness	faculty	Consciousness soul	human-evolution.html
+thinking	faculty	Thinking
+feeling	faculty	Feeling
+willing	faculty	Willing
+memory	faculty	Memory
+speech	faculty	Speech
+love	faculty	Love
+freedom	faculty	Moral freedom
+nerve-sense	system	Nerve-sense system	body.html
+rhythmic	system	Rhythmic system	body.html
+metabolic-limb	system	Metabolic-limb system	body.html
+head	system	Head organization	body.html
+chest	system	Chest organization	body.html
+limbs	system	Limb organization	body.html
+glands	system	Glandular organization	organs.html?organ=organ-glandular-system
+reproduction	system	Reproductive organization	body.html
+heart	organ	Heart and circulation	organ-detail.html?organ=organ-heart	51	28.3
+brain	organ	Brain	organ-detail.html?organ=organ-brain	50	8.7
+lungs	organ	Lungs	organ-detail.html?organ=organ-lungs	58.2	24.6
+liver	organ	Liver	organ-detail.html?organ=organ-liver	44.5	31.9
+gallbladder	organ	Gallbladder	organs.html?organ=organ-gallbladder
+kidneys	organ	Kidneys	organ-detail.html?organ=organ-kidneys
+spleen	organ	Spleen	organ-detail.html?organ=organ-spleen
+blood	organ	Blood	organs.html?organ=organ-blood
+lemuria	epoch	Lemuria	human-evolution.html
+atlantis	epoch	Atlantis	human-evolution.html
+ancient-india	epoch	Ancient Indian epoch	human-evolution.html
+ancient-persia	epoch	Ancient Persian epoch	human-evolution.html
+egypt	epoch	Egyptian–Chaldean epoch	human-evolution.html
+greco-roman	epoch	Greco-Roman epoch	human-evolution.html
+fifth-culture	epoch	Fifth Post-Atlantean epoch	human-evolution.html
+sixth-culture	epoch	Sixth Post-Atlantean epoch	human-evolution.html
+seventh-culture	epoch	Seventh Post-Atlantean epoch	human-evolution.html
+zodiac	zodiac	Zodiac
+upper-zodiac	zodiac	Aries · Taurus · Gemini · Cancer
+middle-zodiac	zodiac	Leo · Virgo · Libra · Scorpio
+lower-zodiac	zodiac	Sagittarius · Capricorn · Aquarius · Pisces
+christ	being	Christ
+michael	being	Michael
+jehovah	being	Jehovah · Jahve
+solar-elohim	being	Six solar Elohim
+raphael	being	Raphael
+anael	being	Anael
+samael	being	Samael
+zachariel	being	Zachariel
+gabriel	being	Gabriel
+oriphiel	being	Oriphiel
+rishis	being	Seven Rishis
+zarathustra	being	Zarathustra
+hermes	being	Hermes
+luciferic	being	Luciferic beings
+ahrimanic	being	Ahrimanic beings
+ancient-teachers	being	Primeval teachers
+golgotha	process	Mystery of Golgotha
+karma	process	Karma
+reincarnation	process	Life between death and rebirth
+outward-journey	process	Outward journey after death
+return-journey	process	Return toward birth
+cosmic-memory	process	Cosmic memory
+cosmic-thought	process	Cosmic thought
+cosmic-speech	process	Cosmic speech
+cosmic-music	process	Music of the spheres
+cosmic-heart	process	Macrocosmic heart
+planetary-form	process	Planetary bodily form
+planetary-movement	process	Planetary life and movement
+planetary-awareness	process	Planetary consciousness
+cosmic-rest	process	Cosmic rest
+recapitulation	process	Recapitulation
+picture-consciousness	process	Picture-consciousness
+inspiration	process	Inspired consciousness
+intuition	process	Intuitive consciousness
+warmth	process	Warmth
+waking	process	Waking
+sleep	process	Sleep
+art-science	process	Early arts and sciences
+ahura-mazda	process	Ahura Mazda
+vishva-karman	process	Vishva Karman
+manu	being	Manu · guardian of the Sun Oracle
+osiris	process	Osiris
+atlantis-1	epoch	Atlantean period 1
+atlantis-2	epoch	Atlantean period 2
+atlantis-3	epoch	Atlantean period 3
+atlantis-4	epoch	Atlantean period 4
+atlantis-5	epoch	Atlantean period 5
+atlantis-6	epoch	Atlantean period 6
+atlantis-7	epoch	Atlantean period 7
+venus-beings	being	Venus beings
+mercury-beings	being	Mercury beings
+sense-organs	system	Sense organs	body.html
+moral-ideals	process	Moral ideals
+thought-exercise	process	Reflective thought exercise
+interplanetary-relations	process	Spiritual relations between planets
+nervous-system	system	Nervous system	body.html
