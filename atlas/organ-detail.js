@@ -10,7 +10,21 @@
     catch (_) { return false; }
   };
   const state = {data:null, guide:null, organ:"organ-heart", layer:"overview", connection:0};
+  let planetaryCrosswalk = null;
   const layersSet = new Set(["overview","body","interpretation","evolution","agencies","connections","sources","questions"]);
+
+  function updatePlanetaryBridge() {
+    const note=$("#planetary-bridge-summary"),link=$("#planetary-bridge-link");
+    if(!note||!link)return;
+    const m=planetaryCrosswalk?.mappings?.find(x=>x.organId===state.organ);
+    link.href="planetary-organs.html?organ="+encodeURIComponent(state.organ);
+    if(m){
+      const planet=m.planet.charAt(0).toUpperCase()+m.planet.slice(1);
+      note.textContent=planet+" ↔ "+m.organ+": Steiner's explicit occult/etheric organ image (GA 107 / GA 128). See its original passages, with the distinct bodily-system context and medical caveats.";
+    }else{
+      note.textContent="Compare the primary planet–organ correspondences. This historical occult image is distinct from modern anatomical and physiological evidence.";
+    }
+  }
 
   function sourceById(id) { return state.guide.sources.find(s => s.id === id); }
   function sourceLinks(ids) {
@@ -207,6 +221,7 @@
     $("#organ-keywords").innerHTML=g.keywords.map(k=>"<span>"+escapeHtml(k)+"</span>").join("");
     $("#research-phase").textContent="Research phase "+state.data.research_phase;
     $("#dossier-link").href=g.dossier_url;
+    updatePlanetaryBridge();
     $("#layer-tabs").innerHTML=state.data.layers.map(navButton).join("");
     updateLayer(layer,push);
     document.title=g.title+" · Visual Organ Atlas";
@@ -231,6 +246,8 @@
         }
         state.data=data;
         applyGuide(requested.organ,requested.layer,false);
+        // Optional secondary research index; failure never blocks the six canonical guides.
+        void fetch("../research/planetary-organ-crosswalk-v1.json").then(r=>r.ok?r.json():null).then(c=>{planetaryCrosswalk=c;updatePlanetaryBridge();}).catch(()=>{});
       })
       .catch(e=>{$("#layer-tabs").innerHTML="";$("#layer-panel").innerHTML='<div class="error"><strong>Unable to load this source-linked guide.</strong><p>'+escapeHtml(e.message)+'</p><p><a href="body.html">Return to the human body map</a> or <a href="organs.html">browse existing dossiers</a>.</p></div>';});
   }

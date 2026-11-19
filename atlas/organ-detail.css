@@ -99,3 +99,6 @@
  .organ-switcher a{min-height:44px}
  .art-caption{display:block;max-width:240px;font-size:11px}
 }
+
+/* Phase 3: optional planet–organ navigation, independent of guide evidence layers */
+.planetary-bridge-note{display:flex;justify-content:space-between;align-items:center;gap:22px;margin:25px 0;padding:23px 26px;border:1px solid #d3e2da;border-radius:17px;background:linear-gradient(112deg,#e6eee8,#f3e9da)}.planetary-bridge-note h2{font:normal 26px Georgia,serif;margin:4px 0 7px}.planetary-bridge-note p:not(.eyebrow){font-size:13px;color:#557174;margin:0}.planetary-bridge-note a{flex:none;max-width:250px;background:#2f6265;color:white;padding:11px 15px;border-radius:10px;font-size:12px;text-decoration:none;font-weight:700}@media(max-width:670px){.planetary-bridge-note{display:block;padding:20px}.planetary-bridge-note a{display:inline-block;margin-top:13px}}

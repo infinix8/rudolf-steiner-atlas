@@ -18,7 +18,22 @@ function renderDetail(p,data){
     '<div class="wrap detail-main"><div class="summary-strip"><div><strong>Principal hierarchy (GA 110)</strong><p>'+escapeHTML(p.hierarchy)+'</p></div><div class="right"><strong>Planetary intelligence (GA 237)</strong><p>'+escapeHTML(p.archangel)+'</p></div></div>'+
     '<aside class="context-box"><h2>Which “'+escapeHTML(p.name)+'” does Steiner mean?</h2><div class="context-grid">'+snippets.map(s=>'<article><h3>'+escapeHTML(s.h)+'</h3><p>'+escapeHTML(s.v)+'</p></article>').join("")+'</div></aside>'+
     '<nav class="jump-nav" aria-label="Explore the three divisions">'+p.lenses.map((l,i)=>'<a href="#lens-'+(i+1)+'">0'+(i+1)+' · '+escapeHTML(l.title)+'</a>').join("")+'</nav>'+
-    lens+insightCards(p,data)+relationCards(p,data)+'<aside class="source-card"><h2>Continue in the original lectures</h2><p>These are paraphrased editorial guides. Follow the primary texts for Steiner’s wording and context. The source manuscript records the open questions and confidence limits.</p><div class="source-list">'+used.map(key=>sourceLink(key,data.sources)).join("")+'</div><p><a href="../docs/PLANETARY_SPHERES_RESEARCH_V1.md">Open the research manuscript ↗</a> · <a href="planetary-spheres.html">Choose another sphere ↗</a></p><p>'+escapeHTML(data.disclaimer)+'</p></aside></div>';
+    lens+insightCards(p,data)+relationCards(p,data)+'<section class="planet-organ-link" id="organ-bridge"><h2>Within the human being</h2><p>Loading the source-linked planetary–organ research…</p></section>'+'<aside class="source-card"><h2>Continue in the original lectures</h2><p>These are paraphrased editorial guides. Follow the primary texts for Steiner’s wording and context. The source manuscript records the open questions and confidence limits.</p><div class="source-list">'+used.map(key=>sourceLink(key,data.sources)).join("")+'</div><p><a href="../docs/PLANETARY_SPHERES_RESEARCH_V1.md">Open the research manuscript ↗</a> · <a href="planetary-spheres.html">Choose another sphere ↗</a></p><p>'+escapeHTML(data.disclaimer)+'</p></aside></div>';
+}
+
+
+// Phase 3: Optional organ correspondence layer; a failed crosswalk fetch does not break planetary pages.
+function loadOrganBridge(p){
+ const host=document.getElementById("organ-bridge");if(!host)return;
+ fetch("../research/planetary-organ-crosswalk-v1.json").then(r=>{if(!r.ok)throw Error("No crosswalk");return r.json();}).then(data=>{
+   const m=data.mappings.find(x=>x.planet===p.id);
+   if(!m){
+     host.innerHTML='<p class="eyebrow dark">Evidence boundary</p><h2>Vulcan and the human organs</h2><p>No specific organ is named for Vulcan in the sevenfold GA 107/128 crosswalk. The Oracle and future cosmic condition belong to separate source contexts.</p><p><a href="planetary-organs.html?sphere=vulcan">Read the research boundary ↗</a></p>';
+     return;
+   }
+   const refs=m.sourceIds.map(id=>{const s=data.sources[id];return s&&/^https:\/\/rsarchive\.org\//.test(s.url)?'<a href="'+escapeHTML(s.url)+'" target="_blank" rel="noopener noreferrer">'+escapeHTML(s.ga+' · '+s.paragraph)+' ↗</a>':''}).join("");
+   host.innerHTML='<p class="eyebrow dark">New · Planetary–organ crosswalk</p><h2>'+escapeHTML(p.name)+' and the '+escapeHTML(m.organ.toLowerCase())+'</h2><p>'+escapeHTML(m.strapline)+'. This is an explicitly named historical <strong>etheric/occult correspondence</strong>, not proof of biological or therapeutic causation.</p><div class="bridge-link-actions"><a href="planetary-organs.html?sphere='+escapeHTML(p.id)+'">Explore the inner planetary system ↗</a><a href="'+escapeHTML(m.route)+'">Read '+escapeHTML(m.organ)+' organ guide ↗</a></div><div class="ref-links">'+refs+'</div>';
+ }).catch(()=>{host.innerHTML='<h2>Within the human being</h2><p>Explore the organ correspondence research.</p><p><a href="planetary-organs.html?sphere='+escapeHTML(p.id)+'">Planet–organ Atlas ↗</a></p>';});
 }
 
 // Phase 2: evidence close-ups, contextual relations, and comparison.
@@ -61,6 +76,6 @@ fetch("../research/planetary-spheres-v1.json").then(r => { if(!r.ok)throw Error(
   if(!data.planets || !data.sources)throw Error("invalid data");
   if(grid)renderCards(data);
   if(document.getElementById('comparison-results'))renderCompare(data);
-  if(root){const slug=new URLSearchParams(location.search).get("sphere")||"saturn";const p=data.planets.find(item=>item.id===slug);if(p)renderDetail(p,data);else root.innerHTML='<div class="wrap"><h1>Sphere not found</h1><p><a href="planetary-spheres.html">Browse all eight guides</a></p></div>';}
+  if(root){const slug=new URLSearchParams(location.search).get("sphere")||"saturn";const p=data.planets.find(item=>item.id===slug);if(p){renderDetail(p,data);loadOrganBridge(p);}else root.innerHTML='<div class="wrap"><h1>Sphere not found</h1><p><a href="planetary-spheres.html">Browse all eight guides</a></p></div>';}
 }).catch(()=>{if(grid)grid.innerHTML='<p>The data could not be loaded. <a href="../docs/PLANETARY_SPHERES_RESEARCH_V1.md">Read the research manuscript</a>.</p>';if(root)root.innerHTML='<div class="wrap"><p>Unable to load this guide. <a href="planetary-spheres.html">Return to the overview</a>.</p></div>';});
 })();

@@ -1,0 +1,324 @@
+{
+  "schema_version": "1.0.0",
+  "as_of": "2026-11-19",
+  "research_status": "selected primary-source crosswalk; passage-level English checks only; no exhaustive claim extraction or full German collation",
+  "description": "Seven explicit etheric/occult images in Steiner GA 107, with development in GA 128; systems are separately contextualized. No one-to-one organ link is established for Vulcan.",
+  "method": {
+    "sourceCriteria": "Map an individual organ to a planet only if Steiner explicitly names the pair in a checked original lecture; do not derive links from analogous hierarchy membership, metals, zodiac, or later commentaries.",
+    "classification": "explicit occult correspondence (not exclusive causation); contextual system framework; unverified/no direct organ pair",
+    "caveats": [
+      "These are Rudolf Steiner's esoteric claims, not scientific physiology, clinical evidence, or medical instructions.",
+      "Metal correspondences in GA 128 are historical; especially mercury and lead may be toxic and should not be used as remedies on this basis.",
+      "The physical body, etheric imagery, spiritual-planetary regions, Atlantean Oracle streams, and Old Saturn/Old Sun cosmic conditions are not identical levels of explanation.",
+      "One directly checked passage is not exhaustive coverage of Steiner's entire works; direct does not mean scientifically verified.",
+      "Vulcan has no verified one-to-one organ counterpart in this reviewed source set. Do not manufacture a link.",
+      "The appendix of GA 126 reproduces a historical Tycho Brahe formulation of a similar mapping; that quotation is not a Steiner statement and is not used to support this mapping."
+    ]
+  },
+  "sources": {
+    "GA107-19081110": {
+      "ga": "GA 107",
+      "date": "1908-11-10",
+      "title": "Spiritual-Scientific Anthropology, Lecture VIII",
+      "url": "https://rsarchive.org/Lectures/GA107/English/SOL/19081110p01.html",
+      "paragraph": "§13",
+      "scope": "Explicitly enumerates all seven organ–planet images within the etheric/occult medicine framework; does not assign exclusive builders."
+    },
+    "GA128-19110321": {
+      "ga": "GA 128",
+      "date": "1911-03-21",
+      "title": "An Occult Physiology, Lecture II",
+      "url": "https://rsarchive.org/Lectures/GA128/English/SOL/19110321p01.html",
+      "paragraph": "§11",
+      "scope": "Names inner Saturn/spleen, inner Jupiter/liver and inner Mars/gallbladder, expressly inviting a provisional analogy at this stage."
+    },
+    "GA128-19110323": {
+      "ga": "GA 128",
+      "date": "1911-03-23",
+      "title": "An Occult Physiology, Lecture IV",
+      "url": "https://rsarchive.org/Lectures/GA128/English/SOL/19110323p01.html",
+      "paragraph": "§§12–14, 20",
+      "scope": "Names Mercury/lung and Venus/kidney systems; describes their relation to heart and other organs, not a claim about exclusive material causation."
+    },
+    "GA128-19110328": {
+      "ga": "GA 128",
+      "date": "1911-03-28",
+      "title": "An Occult Physiology, Lecture VIII",
+      "url": "https://rsarchive.org/Lectures/GA128/English/SOL/19110328p01.html",
+      "paragraph": "§§18–23",
+      "scope": "Sun/heart central in an inner cosmic organ system; repeats outer-planet and inner-planet organs; discusses historical metal associations and remedies that are not medical guidance."
+    },
+    "GA145-19130321": {
+      "ga": "GA 145",
+      "date": "1913-03-21",
+      "title": "The Inner Experience of Stimulants",
+      "url": "https://rsarchive.org/Lectures/GA145/English/SOL/19130321p01.html",
+      "paragraph": "§§21–23",
+      "scope": "Sun/heart and Moon/brain; importantly distinguishes brain's relation with the wider starry cosmos from direct solar activity."
+    },
+    "GA209-19211124": {
+      "ga": "GA 209",
+      "date": "1921-11-24",
+      "title": "Cosmic Forces in Man, Lecture I",
+      "url": "https://rsarchive.org/Lectures/GA209/English/APC1948/19211124p01.html",
+      "paragraph": "§31",
+      "scope": "Outer planets grouped toward consciousness; inner planets toward metabolic-limb organization; Sun as rhythmic mediator; systemic, not a 7-organ checklist."
+    },
+    "GA218-19221116": {
+      "ga": "GA 218",
+      "date": "1922-11-16",
+      "title": "Spiritual Connections in the Makeup of the Human Organism",
+      "url": "https://rsarchive.org/Lectures/GA218/English/SOL/19221116p01.html",
+      "paragraph": "§§25–31",
+      "scope": "Outer planetary activities associated with sense organs; inner planetary activities associated with internal life. Different teaching context than GA 128's individual organ images."
+    },
+    "GA239-19240525": {
+      "ga": "GA 239",
+      "date": "1924-05-25",
+      "title": "Karmic Relationships V, Lecture VII",
+      "url": "https://rsarchive.org/Lectures/GA239/English/SOL/19240525p01.html",
+      "paragraph": "§2",
+      "scope": "Descriptions of the spiritual 'body' experienced in the Sun sphere between death and rebirth; not a literal mapping of the physical lungs to a single present planet."
+    }
+  },
+  "mappings": [
+    {
+      "planet": "saturn",
+      "organId": "organ-spleen",
+      "organ": "Spleen",
+      "position": "outer",
+      "metal": "Lead",
+      "route": "organ-detail.html?organ=organ-spleen&layer=interpretation",
+      "sourceIds": [
+        "GA107-19081110",
+        "GA128-19110321",
+        "GA128-19110328"
+      ],
+      "strapline": "The first of the three inward organs of the ascending nourishment process",
+      "body": [
+        "Steiner treats the spleen as an 'inner Saturn' in GA 128. He begins cautiously, asking listeners to understand the planetary name as an image for the external cosmos being reflected in internal organic activity. The association is named again when he describes a coordinated inner world system rather than a set of isolated organ functions.",
+        "In GA 128 VIII, the spleen joins the liver and gallbladder on the side of the inner planetary system related to the heart. The lesson is about an alleged pattern of relations between systems, not a scientifically supported effect of Saturn's rings or a single Saturn hierarchy manufacturing the spleen."
+      ],
+      "claimLevel": "explicit etheric/occult organ analogy",
+      "notes": "Lead appears as a historical mineral correspondence in GA 128 VIII. Lead exposure is harmful; the teaching is not treatment guidance."
+    },
+    {
+      "planet": "jupiter",
+      "organId": "organ-liver",
+      "organ": "Liver",
+      "position": "outer",
+      "metal": "Tin",
+      "route": "organ-detail.html?organ=organ-liver&layer=interpretation",
+      "sourceIds": [
+        "GA107-19081110",
+        "GA128-19110321",
+        "GA128-19110328"
+      ],
+      "strapline": "An inner Jupiter within the larger blood-and-nutrition picture",
+      "body": [
+        "GA 128 II §11 speaks of the liver as an 'inner Jupiter,' beside Saturn/spleen and Mars/gallbladder, at the point where Steiner introduces the notion of outer cosmic activity contracting into an inner organ world. His own wording initially presents the naming as a hypothetical analogy that subsequent lectures explore.",
+        "GA 128 VIII develops the image of the liver in relation to the heart, spleen and gallbladder. This symbolic/etheric correspondence is separate from other organ-corpus claims about the liver's role in will, memory or development. It does not imply that Jupiter alone builds the finished liver."
+      ],
+      "claimLevel": "explicit etheric/occult organ analogy",
+      "notes": "Steiner also assigns tin as a historical metal analogue. Do not infer a therapeutic indication."
+    },
+    {
+      "planet": "mars",
+      "organId": "organ-gallbladder",
+      "organ": "Gallbladder",
+      "position": "outer",
+      "metal": "Iron",
+      "route": "organs.html?organ=organ-gallbladder",
+      "sourceIds": [
+        "GA107-19081110",
+        "GA128-19110321",
+        "GA128-19110328"
+      ],
+      "strapline": "The Mars analogy in the inward liver–gallbladder–spleen constellation",
+      "body": [
+        "In GA 128 II Steiner calls the gallbladder an 'inner Mars' as part of a schematic description of digestive and blood-related processes. In GA 128 VIII it appears alongside Jupiter/liver and Saturn/spleen on one side of the heart-centred inner planetary system.",
+        "That is a specific occult organ naming, not an equation between all activities of Mars, the Dynamis and this one anatomical organ. Other discussions of Mars as cosmic movement or speech concern a separate conceptual level."
+      ],
+      "claimLevel": "explicit etheric/occult organ analogy",
+      "notes": "GA 128 VIII also mentions iron as a supposed counterbalancing substance. No treatment or supplement guidance follows from the historical claim."
+    },
+    {
+      "planet": "sun",
+      "organId": "organ-heart",
+      "organ": "Heart",
+      "position": "center",
+      "metal": "Gold",
+      "route": "organ-detail.html?organ=organ-heart&layer=interpretation",
+      "sourceIds": [
+        "GA107-19081110",
+        "GA128-19110328",
+        "GA145-19130321"
+      ],
+      "strapline": "The centre around which the inner planetary system is presented",
+      "body": [
+        "In GA 128 VIII Steiner compares the heart to the Sun at the centre of an inner world system: liver/Jupiter, gallbladder/Mars and spleen/Saturn form one group of relationships, while lungs/Mercury and kidneys/Venus form another. He uses this to picture the interdependence of processes in his occult physiology.",
+        "GA 145 §21 again treats the heart's activity as a microcosmic picture of solar processes. These are esoteric conceptions; some associated statements in GA 145 about the heart and circulation conflict with established cardiovascular physiology and are not presented here as medical fact."
+      ],
+      "claimLevel": "explicit etheric/occult organ analogy",
+      "notes": "Gold is mentioned as a historical material correspondence. The spiritual Sun is also distinct from the Old Sun evolutionary condition and from the Christ mystery."
+    },
+    {
+      "planet": "venus",
+      "organId": "organ-kidneys",
+      "organ": "Kidneys",
+      "position": "inner",
+      "metal": "Copper",
+      "route": "organ-detail.html?organ=organ-kidneys&layer=interpretation",
+      "sourceIds": [
+        "GA107-19081110",
+        "GA128-19110323",
+        "GA128-19110328"
+      ],
+      "strapline": "The Venus system mediating the inner and outer processes in GA 128",
+      "body": [
+        "Steiner assigns the kidney system to Venus while contrasting the inwardly directed organ activities with the pulmonary relation to the surrounding air. GA 128 IV describes the kidney system as situated between the opposing sets of processes that act upon the blood.",
+        "GA 128 VIII reprises Venus/kidneys in the image of the heart/Sun and the nearer planetary organs. The attribution concerns a claimed etheric system of relations; it does not make Venus the sole author of the kidneys' anatomical form."
+      ],
+      "claimLevel": "explicit etheric/occult organ analogy",
+      "notes": "Copper is a historical correspondence in GA 128 VIII; no evidence of medical benefit is thereby established."
+    },
+    {
+      "planet": "mercury",
+      "organId": "organ-lungs",
+      "organ": "Lungs",
+      "position": "inner",
+      "metal": "Mercury (quicksilver)",
+      "route": "organ-detail.html?organ=organ-lungs&layer=interpretation",
+      "sourceIds": [
+        "GA107-19081110",
+        "GA128-19110323",
+        "GA128-19110328"
+      ],
+      "strapline": "A pulmonary 'Mercury' in relation to external air and internal blood",
+      "body": [
+        "In GA 128 IV Steiner names the lung system Mercury. He characterizes breathing as a contact between the outside world and the blood, contrasted with the processes of internal nourishment represented by other planetary organ names.",
+        "GA 128 VIII links lungs/Mercury and kidneys/Venus to the other side of a Sun/heart-centred organic picture. It is a historical esoteric model, not an explanation of respiratory physiology or an instruction to use mercury compounds."
+      ],
+      "claimLevel": "explicit etheric/occult organ analogy",
+      "notes": "Metallic mercury and many mercury compounds are toxic. The historic metal association must never be construed as treatment advice."
+    },
+    {
+      "planet": "moon",
+      "organId": "organ-brain",
+      "organ": "Brain",
+      "position": "head",
+      "metal": null,
+      "route": "organ-detail.html?organ=organ-brain&layer=interpretation",
+      "sourceIds": [
+        "GA107-19081110",
+        "GA145-19130321"
+      ],
+      "strapline": "The Moon image concerns the brain, with an important wider-cosmos qualification",
+      "body": [
+        "GA 107 VIII §13 expressly names the brain as Moon, completing the sevenfold organ image. The later GA 128 inner-organ cluster principally develops the other six correspondences; it does not make the brain simply another abdominal 'inner planet.'",
+        "GA 145 §22 describes a closer relation of brain substance to the Moon but simultaneously places the brain in connection with the wider starry cosmos and distinguishes it from the heart's solar relations. This prevents a simplistic one-planet-one-organ causal interpretation."
+      ],
+      "claimLevel": "explicit etheric/occult organ analogy",
+      "notes": "The checked passage set does not support assigning a corresponding metal to brain/Moon in the same GA 128 metal list."
+    }
+  ],
+  "systemFrameworks": [
+    {
+      "id": "microcosm",
+      "title": "The heart-centred inner planetary system",
+      "context": "Occult physiology of bodily functions",
+      "sourceIds": [
+        "GA128-19110321",
+        "GA128-19110323",
+        "GA128-19110328"
+      ],
+      "kind": "organ-system",
+      "planetIds": [
+        "sun",
+        "saturn",
+        "jupiter",
+        "mars",
+        "mercury",
+        "venus"
+      ],
+      "body": "Steiner compares the heart/Sun with two groups of organ processes. Liver/Jupiter, gallbladder/Mars and spleen/Saturn belong to one inward stream; lung/Mercury and kidney/Venus to a different stream. The brain/Moon appears in the sevenfold enumeration of GA 107, but the six-organ system in GA 128 must not be mistaken for the whole planetary hierarchy map."
+    },
+    {
+      "id": "polarity",
+      "title": "Consciousness, metabolism and rhythmic mediation",
+      "context": "General human organization",
+      "sourceIds": [
+        "GA209-19211124"
+      ],
+      "kind": "systemic-polarity",
+      "planetIds": [
+        "saturn",
+        "jupiter",
+        "mars",
+        "sun",
+        "venus",
+        "mercury",
+        "moon"
+      ],
+      "body": "In GA 209 §31 the outer three planetary influences are associated with a consciousness pole, the inner three with metabolism and limbs, and the Sun with rhythmic mediation. This is a body-systems scheme, not a second organ-by-organ assignment; for example, it does not contradict or erase the particular Saturn/spleen symbolic image in GA 128."
+    },
+    {
+      "id": "senses",
+      "title": "Senses and interior life as opposing fields",
+      "context": "Spiritual beings and human development",
+      "sourceIds": [
+        "GA218-19221116"
+      ],
+      "kind": "other-framework",
+      "planetIds": [
+        "moon",
+        "mercury",
+        "venus",
+        "saturn",
+        "jupiter",
+        "mars"
+      ],
+      "body": "GA 218 §§25–31 attributes activity concerning external sense organs to Saturn/Jupiter/Mars beings and the inner bodily constitution to Moon/Mercury/Venus. The subject is a spiritual struggle around human organization, rather than a claim that the lungs or brain should be reassigned to different planets."
+    },
+    {
+      "id": "sun-existence",
+      "title": "The cosmic body experienced after death",
+      "context": "Life between death and rebirth",
+      "sourceIds": [
+        "GA239-19240525"
+      ],
+      "kind": "after-death-picture",
+      "planetIds": [
+        "moon",
+        "mercury",
+        "venus",
+        "sun",
+        "mars",
+        "jupiter",
+        "saturn"
+      ],
+      "body": "GA 239 §2 depicts a human being in the Sun sphere experiencing Moon/Mercury/Venus as limbs, Sun as rhythmic system and heart/lungs, and Mars/Jupiter/Saturn as a cosmic head. That is a symbolic experience in the post-mortem spiritual world—not a competing physical-organ table."
+    }
+  ],
+  "vulcan": {
+    "planet": "vulcan",
+    "classification": "no-explicit-organ-pair",
+    "summary": "The checked GA 107 and GA 128 organ-pair lists do not give Vulcan a discrete organ. Its Atlantean Oracle, reported modern beings, and future cosmic stage are different topics.",
+    "planetRoute": "planetary-sphere.html?sphere=vulcan",
+    "researchRoute": "../docs/PLANETARY_SPHERES_RESEARCH_V2.md",
+    "note": "Absence in the selected corpus is not proof of absence everywhere in Steiner's works."
+  },
+  "organResearch": {
+    "manifest": "../research/organ-current.json",
+    "guide_ids": [
+      "organ-heart",
+      "organ-liver",
+      "organ-lungs",
+      "organ-brain",
+      "organ-kidneys",
+      "organ-spleen"
+    ],
+    "full_dossier_id": "organ-gallbladder",
+    "note": "Existing Organ Concordance Phase 29 and six visual guides remain authoritative for richer organ history; this crosswalk adds only the selected planetary-analogy predicate."
+  }
+}

@@ -38,6 +38,8 @@ jobs:
           python tools/validate_organ_phase16.py
       - name: Check confirmed shared lecture source views
         run: python tools/validate_source_view_aliases.py
+      - name: Check planetary organ research crosswalk
+        run: node tests/planetary-organ-crosswalk-check.cjs
       - name: JavaScript syntax
         run: |
           node --check atlas/app.js
@@ -49,3 +51,6 @@ jobs:
           node --check atlas/trajectories.js
           node --check atlas/organs.js
           node --check atlas/agency.js
+          node --check atlas/planetary-organs.js
+          node --check atlas/planetary-spheres.js
+          node --check atlas/organ-detail.js

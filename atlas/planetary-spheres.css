@@ -51,3 +51,6 @@
 .compare-caveat{margin:48px auto 52px;padding:18px 22px;border-left:3px solid #b5a078;background:#edf0ec;font-size:13px;color:#607679}.compare-caveat p{margin:4px 0}
 @media(max-width:900px){.insight-grid,.relation-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.explore-comparison{display:block}.explore-comparison .action{display:inline-block;margin-top:12px}}
 @media(max-width:640px){.insight-grid,.relation-grid,.comparison-results,.pathway-grid{grid-template-columns:1fr}.focus-heading{display:block}.compare-hero>.wrap{padding:47px 0}.explore-comparison{padding:25px}.research-focus,.related-spheres{margin:34px 0}.compare-workbench,.pathways,.comparison-matrix{padding-top:38px}}
+
+/* Phase 3: bridge into source-linked human organ concordance */
+.planet-organ-link{background:linear-gradient(120deg,#e5eee8,#faf5e8);border:1px solid #d6e5d8;border-radius:19px;margin:40px 0;padding:28px}.planet-organ-link h2{font:normal clamp(26px,3.2vw,39px) Georgia,serif;margin:7px 0 11px}.planet-organ-link p{font-size:14px;max-width:830px;color:#4f686d}.bridge-link-actions{display:flex;flex-wrap:wrap;gap:9px}.bridge-link-actions a{font-size:12px;padding:10px 12px;border-radius:9px;color:#295d64;text-decoration:none;background:#fffdfa;border:1px solid #ccdbd1;font-weight:650}.planet-organ-link .ref-links{margin-top:17px}
