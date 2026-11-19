@@ -14,3 +14,6 @@ main{min-width:0;background:#f6e5c5}.hero{min-height:314px;position:relative;ove
 
 /* Illustrated gold atlas — chapter plates and research art. */
 .art:before{display:none}.art img{display:block;width:100%;height:100%;object-fit:cover;transition:transform .25s ease}.card:hover .art img{transform:scale(1.045)}.art{background:#6e4b29}.dossier-art{max-width:690px;margin:8px 0 20px;border:1px solid #b88c4e;border-radius:9px;overflow:hidden;background:#49301c}.dossier-art img{display:block;width:100%;height:auto;max-height:325px;object-fit:cover}.dossier-art figcaption{text-align:right;padding:4px 9px;background:#f1d6a6;font:italic 12px Georgia,serif;color:#76512b}@media(prefers-reduced-motion:reduce){.art img{transition:none}}
+
+/* Additional illuminated assets */
+.source-artwork{display:block;width:clamp(110px,20vw,225px);height:auto;aspect-ratio:710/370;object-fit:cover;border:2px solid #d1aa6c;border-radius:9px;box-shadow:0 7px 21px #160d0780}.mountains{height:45vh;margin:20px -8px 0;overflow:hidden;opacity:.83;mask-image:linear-gradient(to bottom,transparent,black 13%,black 75%,transparent)}.mountains img{width:100%;height:100%;object-fit:cover;display:block}.mountains:before{display:none}@media(max-width:540px){.source-artwork{max-width:95px}.source-header{gap:10px}}
