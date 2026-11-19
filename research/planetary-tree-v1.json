@@ -1,0 +1,379 @@
+{
+  "schema_version": 1,
+  "sources": {
+    "metals-mysteries": {
+      "ga": "232",
+      "title": "The Composition of the Mysteries · Lecture XI",
+      "date": "1923-12-15",
+      "url": "https://rsarchive.org/Lectures/GA232/English/SOL/19231215p01.html",
+      "location": "13"
+    },
+    "metals-medicine": {
+      "ga": "316",
+      "title": "Meditative Reflections and Guidance for Deepening the Art of Healing · Lecture III",
+      "date": "1924-04-23",
+      "url": "https://rsarchive.org/Lectures/GA316/English/SOL/19240423.html",
+      "location": "13"
+    },
+    "oracle": {
+      "ga": "13",
+      "title": "Occult Science · Chapter IV",
+      "url": "https://rsarchive.org/Books/GA013/English/AP1972/GA013_c04.html",
+      "location": "92–94"
+    },
+    "iron-blood": {
+      "ga": "231",
+      "title": "Supersensible Man · Lecture III",
+      "date": "1923-11-17",
+      "url": "https://rsarchive.org/Lectures/GA231/English/APC1961/19231117a01.html",
+      "location": "26–29"
+    }
+  },
+  "related": {
+    "saturn": {
+      "cosmic": [
+        "CE01",
+        "CE20",
+        "HE01"
+      ],
+      "faculties": [
+        "AJ08"
+      ],
+      "body": [
+        "OC03",
+        "OC08",
+        "CL06"
+      ]
+    },
+    "jupiter": {
+      "cosmic": [
+        "PS16",
+        "CE14",
+        "CE23"
+      ],
+      "faculties": [
+        "SF03",
+        "SF05",
+        "SF07",
+        "AJ09"
+      ],
+      "body": [
+        "OC04",
+        "CL06"
+      ]
+    },
+    "mars": {
+      "faculties": [
+        "SF01",
+        "AJ10"
+      ],
+      "body": [
+        "OC05",
+        "OC15",
+        "CL12"
+      ]
+    },
+    "sun": {
+      "cosmic": [
+        "CE02",
+        "HE02"
+      ],
+      "history": [
+        "SC01",
+        "SC04",
+        "SC06",
+        "SC07",
+        "SC08",
+        "SC11"
+      ],
+      "faculties": [
+        "SC12",
+        "SC13",
+        "HC09"
+      ],
+      "body": [
+        "OC01",
+        "OC12",
+        "OC13",
+        "OC17"
+      ],
+      "blood": [
+        "OC09",
+        "OC18",
+        "SC19"
+      ]
+    },
+    "venus": {
+      "cosmic": [
+        "CE15",
+        "CE24"
+      ],
+      "history": [
+        "HY19"
+      ],
+      "faculties": [
+        "SF04",
+        "SF06",
+        "CL05"
+      ],
+      "body": [
+        "OC06"
+      ]
+    },
+    "mercury": {
+      "history": [
+        "HY20"
+      ],
+      "faculties": [
+        "SF02",
+        "CL05"
+      ],
+      "body": [
+        "OC07",
+        "CL12"
+      ]
+    },
+    "moon": {
+      "cosmic": [
+        "CE03",
+        "CE13",
+        "HE03"
+      ],
+      "history": [
+        "HY01"
+      ],
+      "faculties": [
+        "HC12",
+        "HC13"
+      ],
+      "body": [
+        "OC02",
+        "OC14"
+      ]
+    },
+    "earth": {
+      "cosmic": [
+        "CE04",
+        "CE08",
+        "CE19"
+      ],
+      "history": [
+        "HY01",
+        "HY03",
+        "HY11",
+        "HY12",
+        "HY13",
+        "HY14",
+        "HY15",
+        "HY16",
+        "HY17",
+        "HY18",
+        "SC11"
+      ],
+      "journey": [
+        "HE08",
+        "AJ14",
+        "AJ17"
+      ],
+      "faculties": [
+        "HC01",
+        "HC02",
+        "HC03",
+        "HC07",
+        "SC15"
+      ],
+      "body": [
+        "HC08",
+        "HC09",
+        "HC10",
+        "OC11",
+        "OC14"
+      ],
+      "blood": [
+        "OC09",
+        "HC11",
+        "SC19"
+      ],
+      "spirit": [
+        "HE04"
+      ]
+    },
+    "vulcan": {
+      "cosmic": [
+        "CE12",
+        "CE16",
+        "CE25",
+        "CL03"
+      ],
+      "spirit": [
+        "PS15",
+        "CL02"
+      ],
+      "history": [
+        "SC02",
+        "SC03",
+        "CL11"
+      ]
+    }
+  },
+  "subjects": {
+    "vulcan": [
+      "hidden-vulcan",
+      "vulcan-beings",
+      "future-vulcan"
+    ]
+  },
+  "notes": {
+    "saturn": {
+      "history": [
+        {
+          "title": "The Saturn Oracle",
+          "body": "Steiner names a Saturn tradition among the Atlantean initiation schools. He describes its initiates as reaching the higher beings particular to that tradition.",
+          "context": "Steiner’s esoteric account of Atlantis",
+          "refs": [
+            "oracle"
+          ]
+        }
+      ],
+      "metals": [
+        {
+          "title": "Lead",
+          "body": "Steiner pairs Saturn with lead in a lecture on mystery schooling (GA 232) and in a lecture to physicians (GA 316). These are historical anthroposophical correspondences.",
+          "context": "Planet and metal",
+          "refs": [
+            "metals-mysteries",
+            "metals-medicine"
+          ]
+        }
+      ]
+    },
+    "jupiter": {
+      "history": [
+        {
+          "title": "The Jupiter Oracle",
+          "body": "Steiner describes a Jupiter tradition among the Atlantean schools, alongside those of Saturn and Mars.",
+          "context": "Steiner’s esoteric account of Atlantis",
+          "refs": [
+            "oracle"
+          ]
+        }
+      ],
+      "metals": [
+        {
+          "title": "Tin",
+          "body": "Steiner pairs Jupiter with tin in a lecture on mystery schooling (GA 232) and in a lecture to physicians (GA 316). These are historical anthroposophical correspondences.",
+          "context": "Planet and metal",
+          "refs": [
+            "metals-mysteries",
+            "metals-medicine"
+          ]
+        }
+      ]
+    },
+    "mars": {
+      "history": [
+        {
+          "title": "The Mars Oracle",
+          "body": "Steiner includes a Mars tradition in his account of the schools that cultivated different kinds of spiritual perception in Atlantis.",
+          "context": "Steiner’s esoteric account of Atlantis",
+          "refs": [
+            "oracle"
+          ]
+        }
+      ],
+      "metals": [
+        {
+          "title": "Iron",
+          "body": "Steiner pairs Mars with iron in a lecture on mystery schooling (GA 232) and in a lecture to physicians (GA 316). These are historical anthroposophical correspondences.",
+          "context": "Planet and metal",
+          "refs": [
+            "metals-mysteries",
+            "metals-medicine"
+          ]
+        }
+      ],
+      "blood": [
+        {
+          "title": "Iron in blood and the language of freedom",
+          "body": "Steiner brings the Mars sphere and iron in human blood into his account of free spiritual activity. This is the explanatory framework of the lecture.",
+          "context": "Steiner’s esoteric account of freedom",
+          "refs": [
+            "iron-blood"
+          ]
+        }
+      ]
+    },
+    "venus": {
+      "history": [
+        {
+          "title": "The Venus Oracle",
+          "body": "Steiner describes the Venus Oracle as an initiation stream guided by a leading spirit whose group withdrew from the Sun.",
+          "context": "Steiner’s esoteric account of Atlantis",
+          "refs": [
+            "oracle"
+          ]
+        }
+      ],
+      "metals": [
+        {
+          "title": "Copper",
+          "body": "Steiner pairs Venus with copper in a lecture on mystery schooling (GA 232) and in a lecture to physicians (GA 316). These are historical anthroposophical correspondences.",
+          "context": "Planet and metal",
+          "refs": [
+            "metals-mysteries",
+            "metals-medicine"
+          ]
+        }
+      ]
+    },
+    "mercury": {
+      "history": [
+        {
+          "title": "The Mercury Oracle",
+          "body": "Steiner describes the Mercury Oracle as a distinct initiation stream, guided by a leading spirit, alongside the Venus stream.",
+          "context": "Steiner’s esoteric account of Atlantis",
+          "refs": [
+            "oracle"
+          ]
+        }
+      ],
+      "metals": [
+        {
+          "title": "Mercury (quicksilver)",
+          "body": "Steiner pairs Mercury with mercury (quicksilver) in a lecture on mystery schooling (GA 232) and in a lecture to physicians (GA 316). These are historical anthroposophical correspondences.",
+          "context": "Planet and metal",
+          "refs": [
+            "metals-mysteries",
+            "metals-medicine"
+          ]
+        }
+      ]
+    },
+    "sun": {
+      "metals": [
+        {
+          "title": "Gold",
+          "body": "Steiner pairs Sun with gold in a lecture on mystery schooling (GA 232) and in a lecture to physicians (GA 316). These are historical anthroposophical correspondences.",
+          "context": "Planet and metal",
+          "refs": [
+            "metals-mysteries",
+            "metals-medicine"
+          ]
+        }
+      ]
+    },
+    "moon": {
+      "metals": [
+        {
+          "title": "Silver",
+          "body": "Steiner pairs Moon with silver in a lecture on mystery schooling (GA 232) and in a lecture to physicians (GA 316). These are historical anthroposophical correspondences.",
+          "context": "Planet and metal",
+          "refs": [
+            "metals-mysteries",
+            "metals-medicine"
+          ]
+        }
+      ]
+    }
+  }
+}

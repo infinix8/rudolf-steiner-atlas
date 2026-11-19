@@ -2,6 +2,9 @@
 "use strict";
 const root = document.getElementById("detail-root");
 const grid = document.getElementById("planet-grid");
+const slug = new URLSearchParams(location.search).get("sphere") || "saturn";
+const topicModule = () => import("./planetary-tree-guides.js");
+
 const escapeHTML = (x) => String(x ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const safeId = (s) => /^[a-z0-9-]+$/.test(s) ? s : "";
 const sourceLink = (key, sources) => { const s=sources[key]; if (!s) return ""; const url=String(s.url); if(!url.startsWith("https://rsarchive.org/")) return ""; return '<a href="'+escapeHTML(url)+'" target="_blank" rel="noopener noreferrer" title="'+escapeHTML(s.note)+'">'+escapeHTML(s.ga)+' · '+escapeHTML(s.date)+' ↗</a>'; };
@@ -14,11 +17,24 @@ function renderDetail(p,data){
   const snippets=[{h:"Present sphere",v:p.sphere},{h:"Cosmic embodiment",v:p.embodiment},{h:"Oracle / intelligence",v:p.oracle}];
   const lens=p.lenses.map((item,i)=>'<section class="lens" id="lens-'+(i+1)+'"><div class="index">Division '+(i+1)+' / 03</div><h2>'+escapeHTML(item.title)+'</h2><h3>'+escapeHTML(item.lead)+'</h3>'+item.body.map(v=>'<p>'+escapeHTML(v)+'</p>').join("")+'<div class="ref-links" aria-label="Original sources">'+item.refs.map(key=>sourceLink(key,data.sources)).join("")+'</div></section>').join("");
   const used=Array.from(new Set(p.lenses.flatMap(l=>l.refs)));
-  root.innerHTML='<section class="hero detail-hero"><div class="wrap">'+orb(p.id)+'<div><a class="back" href="planetary-spheres.html">← All planetary spheres</a><div class="hero-label">'+escapeHTML(p.eyebrow)+'</div><h1>'+escapeHTML(p.name)+'</h1><p class="lede">'+escapeHTML(p.tagline)+'. '+escapeHTML(p.summary)+'</p></div></div></section>'+
-    '<div class="wrap detail-main"><div class="summary-strip"><div><strong>Principal hierarchy (GA 110)</strong><p>'+escapeHTML(p.hierarchy)+'</p></div><div class="right"><strong>Planetary intelligence (GA 237)</strong><p>'+escapeHTML(p.archangel)+'</p></div></div>'+
+  root.innerHTML='<section class="hero detail-hero"><div class="wrap">'+orb(p.id)+'<div><a class="back" href="planetary-tree.html">← Planetary Tree of Life</a><div class="hero-label">'+escapeHTML(p.eyebrow)+'</div><h1>'+escapeHTML(p.name)+'</h1><p class="lede">'+escapeHTML(p.tagline)+'. '+escapeHTML(p.summary)+'</p></div></div></section>'+
+    '<div class="wrap detail-main"><section class="guide-hierarchy" id="planetary-guide" aria-label="Planetary topics"></section><details class="guide-more" id="full-reading"><summary>Full planetary dossier</summary></details><div class="dossier-reading"><div class="summary-strip"><div><strong>Principal hierarchy (GA 110)</strong><p>'+escapeHTML(p.hierarchy)+'</p></div><div class="right"><strong>Planetary intelligence (GA 237)</strong><p>'+escapeHTML(p.archangel)+'</p></div></div>'+
     '<aside class="context-box"><h2>Which “'+escapeHTML(p.name)+'” does Steiner mean?</h2><div class="context-grid">'+snippets.map(s=>'<article><h3>'+escapeHTML(s.h)+'</h3><p>'+escapeHTML(s.v)+'</p></article>').join("")+'</div></aside>'+
     '<nav class="jump-nav" aria-label="Explore the three divisions">'+p.lenses.map((l,i)=>'<a href="#lens-'+(i+1)+'">0'+(i+1)+' · '+escapeHTML(l.title)+'</a>').join("")+'</nav>'+
-    lens+insightCards(p,data)+relationCards(p,data)+'<section class="planet-organ-link" id="organ-bridge"><h2>Within the human being</h2><p>Loading the source-linked planetary–organ research…</p></section>'+'<aside class="source-card"><h2>Continue in the original lectures</h2><p>These are paraphrased editorial guides. Follow the primary texts for Steiner’s wording and context. The source manuscript records the open questions and confidence limits.</p><div class="source-list">'+used.map(key=>sourceLink(key,data.sources)).join("")+'</div><p><a href="../docs/PLANETARY_SPHERES_RESEARCH_V1.md">Open the research manuscript ↗</a> · <a href="planetary-spheres.html">Choose another sphere ↗</a></p><p>'+escapeHTML(data.disclaimer)+'</p></aside></div>';
+    lens+insightCards(p,data)+relationCards(p,data)+'<section class="planet-organ-link" id="organ-bridge"><h2>Within the human being</h2><p>Loading the source-linked planetary–organ research…</p></section>'+'<aside class="source-card"><h2>Continue in the original lectures</h2><p>These are paraphrased editorial guides. Follow the primary texts for Steiner’s wording and context. The source manuscript records the open questions and confidence limits.</p><div class="source-list">'+used.map(key=>sourceLink(key,data.sources)).join("")+'</div><p><a href="../docs/PLANETARY_SPHERES_RESEARCH_V1.md">Open the research manuscript ↗</a> · <a href="planetary-spheres.html">Choose another sphere ↗</a></p><p>'+escapeHTML(data.disclaimer)+'</p></aside></div></div>';
+  const dossier = document.getElementById("full-reading");
+  dossier.append(root.querySelector(".dossier-reading"));
+  const revealDossier = () => {
+    const target = document.getElementById(location.hash.slice(1));
+    if (target && dossier.contains(target)) {
+      dossier.open = true;
+      target.scrollIntoView();
+    }
+  };
+  revealDossier();
+  window.addEventListener("hashchange", revealDossier);
+  const guide = document.getElementById("planetary-guide");
+  topicModule().then(module => module.loadPlanetaryGuide(guide, p.id)).catch(() => { dossier.open = true; });
 }
 
 
@@ -72,10 +88,17 @@ function renderCompare(data){
   legend.innerHTML=data.studyGuide.pathways.map(t=>'<article class="path-card"><p class="eyebrow dark">'+(t.kind==="direct"?"Single-source reading":"Combined-source reading")+'</p><h3>'+escapeHTML(t.title)+'</h3><p>'+escapeHTML(t.summary)+'</p><div class="path-links">'+t.planets.map(id=>'<a href="planetary-sphere.html?sphere='+escapeHTML(id)+'">'+escapeHTML(data.planets.find(p=>p.id===id).name)+'</a>').join("")+'</div>'+sourceChips(t.refs,data.sources)+'</article>').join("");
 }
 
+if (root && slug === "earth") {
+  topicModule().then(module => module.renderEarth(root)).catch(() => {
+    root.innerHTML = '<div class="wrap"><h1>Earth</h1><p><a href="living-cosmos.html?view=history&amp;node=earth">Explore Earth in The Living Cosmos</a></p></div>';
+  });
+  return;
+}
+
 fetch("../research/planetary-spheres-v1.json").then(r => { if(!r.ok)throw Error("data unavailable");return r.json(); }).then(data => {
   if(!data.planets || !data.sources)throw Error("invalid data");
   if(grid)renderCards(data);
   if(document.getElementById('comparison-results'))renderCompare(data);
-  if(root){const slug=new URLSearchParams(location.search).get("sphere")||"saturn";const p=data.planets.find(item=>item.id===slug);if(p){renderDetail(p,data);loadOrganBridge(p);}else root.innerHTML='<div class="wrap"><h1>Sphere not found</h1><p><a href="planetary-spheres.html">Browse all eight guides</a></p></div>';}
+  if(root){const p=data.planets.find(item=>item.id===slug);if(p){renderDetail(p,data);loadOrganBridge(p);}else root.innerHTML='<div class="wrap"><h1>Sphere not found</h1><p><a href="planetary-spheres.html">Browse all eight guides</a></p></div>';}
 }).catch(()=>{if(grid)grid.innerHTML='<p>The data could not be loaded. <a href="../docs/PLANETARY_SPHERES_RESEARCH_V1.md">Read the research manuscript</a>.</p>';if(root)root.innerHTML='<div class="wrap"><p>Unable to load this guide. <a href="planetary-spheres.html">Return to the overview</a>.</p></div>';});
 })();
