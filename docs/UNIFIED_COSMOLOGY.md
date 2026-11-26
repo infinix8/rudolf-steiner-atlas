@@ -1,6 +1,6 @@
 # The Living Tree — Unified Steiner–B.O.T.A. Cosmology
 
-**Master research document | v0.7 | 26 November 2026**
+**Master research document | v0.8 | 26 November 2026**
 **Status:** living comparative research framework, not a definitive reader or a verified identity system.
 
 ## 1. Permanent mandate
@@ -210,6 +210,8 @@ Remaining gates:
 
 | 0.7 | 2026-11-26 | Four-world and constitution focus: GA 130 functional/epoch overlay, GA 89 named soul terms, GA 9 living archetypes, GA 136 nested cosmic organization; preserve competing world schemes. |
 
+| 0.8 | 2026-11-26 | Second four-world/constitution pass: GA 122 alternate Hebrew soul map, GA 95 causal body, GA 214 hierarchy access, GA 136 creation modes, GA 13 hidden script, GA 210 incarnation counterpart. |
+
 **Guiding theme:** divine creative unity → differentiation and individual freedom → conscious participation in divine creativity. This is a research synthesis, not a replacement for either tradition.
 
 ## 15. Expanded B.O.T.A. structural framework (v0.6)
@@ -346,3 +348,61 @@ This is a provisional functional framework, not a named equivalence. GA 130 desc
 - Use GA 136 as the planetary nested-scale anchor, extending to hierarchy evolution, Old Saturn–Vulcan and macro/microcosmic organization; distinguish hierarchical function from literal realm of residence.
 - Develop 3–5 evidence-backed worked examples before any 400-cell expansion. Import branch evidence when complete. Do not duplicate hidden-path and Tarot Work tasks.
 - Limitations: selected original course transcriptions checked (Tree of Life, Master Pattern, Thirty-Two Paths, Vibratory Powers, Great Work); Magical Language scanned for leads only. Oracle of Tarot not recovered, original diagram scans not checked, full GA 107 page unavailable, no full German collation or comprehensive primary corpus audit. No live-site or graph changes.
+
+## 17. Four worlds, constitution and cognition — focused research pass 2 (v0.8)
+
+### 17.1 Five soul principles: preserve dated vocabularies
+
+**HC-06 (D-S, major new textual finding):** [GA 122, 26 Aug 1910, §9](https://rsarchive.org/Lectures/GA122/English/SOL/19100826p01.html), corroborated by [1982 translation](https://rsarchive.org/Religion/GA122/English/RSP1982/19100826p01.html), explicitly maps Nephesh to sentient soul, Ruach to intellectual soul, Neshamah to consciousness soul. Compare [GA 89, 18 Mar 1904](https://rsarchive.org/Lectures/GA089/English/CMP2001/19040318p01.html): vegetative/etheric, passion/sentient, thinking soul respectively. These differ. GA 89 is an incomplete early record of Cabbalistic teaching; GA 122 is a Genesis interpretation using the three soul members. Neither may be silently substituted for the other, and neither proves B.O.T.A. identities. German pages and comparison URLs attempted but unavailable in this pass.
+
+**HC-07 (D-B/C):** Freshly reopened *Master Pattern*, lesson 1 lines 13, 25, 33, 65–85, 99, 115–135; concluding diagram lines 1046–1056. Five principles and seven vehicles are overlapping but not identical classifications:
+| B.O.T.A. soul principle | Field/function | Steiner comparative research direction (not equivalence) |
+|---|---|---|
+| Yekhidah | Kether, indivisible universal Self | Ishwara/Atman distinction; universal source versus individual I |
+| Chaiah | Chokhmah, universal life-force; causal vehicle | Cosmic life, inherited spiritual capacity, causal continuity; distinguish etheric life from universal radiance |
+| Neshamah | Binah, Divine Soul/intuition; Buddhic vehicle | Higher soul, spiritual intuition, Life Spirit; GA 122 consciousness soul |
+| Ruach | Tiphareth, one Ego of humanity, image-forming and directing personality | Steiner's individual I, spiritual individuality, solar/Christ activity; GA 89 sentient vs GA 122 intellectual soul |
+| Nephesh | Yesod, Vital Soul/automatic consciousness; astral vehicle | Life processes, instinct, memory, astral and etheric activities; GA 89 vs GA 122 |
+
+Guph is physical vehicle, not a sixth soul principle in this fivefold table. Desire and mental vehicles are assigned Netzach/Hod; Chesed/Geburah are cosmic powers not separate vehicles. Kether is not an eighth body in this diagram. B.O.T.A. Ruach's one Ego differs from Steiner's free individual authorship (GA 4); no resolution by changing labels. The course's historical claims of physical immortality or bodily transmutation are doctrine, not empirically established facts or health advice.
+
+**HC-08 (S/C):** GA 122 §§8–10 traces the prior development of soul-spirit in the first three creation days, then astral and etheric-physical clothing, with Yahweh-Elohim imprinting Neshamah and the predisposition to ego. This is a stronger example of the same subject across levels of manifestation than assigning each soul to a single world. The Elohim and their collective development require context-specific treatment; do not identify each Genesis day with a Qabalistic world or each soul member with a specific Elohim without further evidence.
+
+**HC-09 (S/C, new causal-body control):** [GA 95, 25 Aug 1906, §§1–2,10,14–17](https://rsarchive.org/Lectures/GateSpiSci/19060825p01.html): after discarding bodily sheaths, the fruit of the life panorama survives as a concentrated essence in the higher astral; cumulative life fruits constitute the causal body. Purified parts of astral and etheric persist. Compare B.O.T.A. causal vehicle associated with Chaiah (Master Pattern 1050), thread-soul (Tree of Life 907–909), Briah seed-atom continuity (Thirty-Two Paths 247). These describe different aspects of continuity; do not equate universal life-force, accumulated individual experience, seed atom and thread-soul. GA 95 goes on to give historically conditioned reincarnation intervals and other claims; do not treat them as empirical facts or fixed predictions. Reconcile early causal-body terminology with GA 9/13 before generalizing.
+
+**HC-10 (S/C, past/future complement):** [GA 93a, 4 Oct 1905, §§1–4](https://rsarchive.org/Lectures/GA093a/English/SOL/19051004p01.html) distinguishes the four lower members' ages (physical fourth, etheric third, astral second, I first grade) and says Atma developed on Old Saturn, Buddhi on Old Sun and Manas on Old Moon. This is an early account of descending higher principles, to be differentiated from GA 13/175's future development of higher members by the human I. Test the distinction of prior cosmic provision and future individual appropriation; not a complete reconciliation of all early and later terminology.
+
+### 17.2 Hierarchies, worlds and scales
+
+**FW-07 (S):** [GA 95, 23 Aug 1906, §§4–5](https://rsarchive.org/Lectures/GA095/English/RSPAP1986/19060823p01.html) says physical, astral and devachanic worlds coexist rather than being separated spatially. The human being participates in them simultaneously. [GA 88, 28 Jan 1904, §§15–17](https://rsarchive.org/Lectures/GA088/English/SOL2022/19040128p01.html) identifies Angels and Archai active in Devachan, providing a counterexample to confining the Third Hierarchy to the astral world.
+
+**FW-08 (S/C, key new bridge):** [GA 214, 23 July 1922, §6](https://rsarchive.org/Lectures/GA214/English/AP1991/19220723p01.html): Imagination with help of Angels/Third Hierarchy, Inspiration discloses Second Hierarchy, Intuition reaches First Hierarchy. Preserve exact distinction: this is epistemic access, not exclusive world-residence. Combined with GA 130, 4 Nov 1911, §21, it allows a provisional four-row index, not an equation:
+| B.O.T.A. world | GA 130 human participation | GA 12/13 mode of knowledge | GA 214 hierarchical access |
+|---|---|---|---|
+| Assiah | Corporeal perception | Sensory cognition | Sensory manifestations, not a hierarchy confined here |
+| Yetzirah | Thought/astral relation | Imagination | Third Hierarchy |
+| Briah | Feeling/lower Devachan relation | Inspiration | Second Hierarchy |
+| Atziluth | Moral will/upper Devachan relation | Intuition | First Hierarchy |
+
+Each column is separately sourced; aligning rows is C. GA 13 ch. VII §6 expressly says worlds beyond Intuition remain, mediated to humans by spiritual beings. Thus Atziluth is not the Absolute and Intuition is not unrestricted divine omniscience.
+
+**NS-04 (S/C):** [GA 136, 7 Apr 1912, §§6–9](https://rsarchive.org/Lectures/GA136/English/SOL/19120407p01.html) distinguishes Third Hierarchy self-revelation and spiritual fulfillment (offspring nature spirits); Second Hierarchy self-creation of forms dependent on continued connection, inner stimulation of life (offspring group souls); First Hierarchy creation of independently persisting worlds/beings (offspring spirits of cyclical time). This enriches the four-world framework as differentiated modes of creation, not as a fixed assignment of each hierarchy to one world. It also bridges origin, cosmic rhythm, development and the independence of created beings. Compare [GA 136, 5 Apr, §§13–15](https://rsarchive.org/Lectures/GA136/English/SOL/19120405p01.html) Angels/individual, Archangels/groups, Archai/epochs: scale axis, distinct from worlds and creation modes. Historical ethnic/national assertions are not empirical or ranking claims.
+
+### 17.3 Cognition, spiritual alphabet and incarnation
+
+**COG-01 (S, authored control):** [GA 12, ch. I](https://rsarchive.org/Books/GA012/English/AP1967/GA012_c01.html) lists material cognition, Imagination, Inspiration and Intuition, and decomposes ordinary cognition into object, image, concept and I. These are cognitive stages, not four bodies. [GA 13, ch. V §§15,39–42](https://rsarchive.org/Books/GA013/English/RSP1969/GA013_c05.html) distinguishes symbol-based training of a faculty from actual Imaginative cognition; Inspiration apprehends the beings and their relationships; Intuition apprehends inner being. GA 12 ch. IV warns of fantasy and stresses independent judgment; no symbolic exercise or card is itself proof of spiritual perception.
+
+**COG-02 (S/C, central framework insight):** GA 13 ch. V §§39–41 explicitly compares Inspiration to reading spiritual script: Imaginative perceptions are like letters, Inspiration apprehends relationships. Steiner explains that the relation between cosmic conditions (Old Saturn etc.) and human members, and the meaning of death/rebirth, requires this relational cognition. Compare GA 353's named Sephiroth as combinable spiritual alphabet. Our Tree graph can represent relationships in Steiner's descriptions, but is a scholarly index, not a claim to exercise supersensible Inspiration. No hidden path/letter/Key identity follows automatically.
+
+**COG-03 (D-B/C):** *Tarot Fundamentals* lines 1524, 1993, 2076–2088 uses pictorial symbols to bring subconscious associations into conscious awareness; *Master Pattern* lines 727, 783 distinguishes subconsciousness, self-consciousness and superconsciousness; *Thirty-Two Paths* 283–285, 601–603 relates Aleph/Beth and Tzaddi/Resh to these modes. Three consciousness modes differ from Steiner's four cognition stages, while both traditions give symbolic images a role in spiritual development. B.O.T.A. creative imagination is not automatically Steiner's technical Imagination. Tarot branch owns individual Key audit; retain these methodological anchors only.
+
+**COG-04 (S/C, new incarnation bridge):** [GA 210, 1 Feb 1922, §§12,14–15](https://rsarchive.org/Lectures/GA210/English/SOL/19220201p01.html) distinguishes Imagination/Inspiration/Intuition as knowledge during embodiment versus actual activities in the descent toward reincarnation. Steiner associates realized Inspiration with receipt of moral/religious impulses as conscience, and realized Intuition with entry into parental conditions. This supplies a two-direction framework: cognition of spiritual life and spiritual activity preparing embodiment. Compare B.O.T.A. four modes of manifestation and Kether/Briah continuity, not an exact world-by-world route or medical explanation. Keep this process separate from GA 231's planetary itinerary. No individual karmic diagnosis.
+
+### 17.4 Worked indexing examples and next actions
+
+1. GA 122 soul formation: subject three soul members; process spiritual preparation -> astral clothing -> etheric-physical imprint; agent Elohim/Yahweh-Elohim; temporal context Genesis/Earth evolution; comparative tags four worlds and Nephesh/Ruach/Neshamah with versioned definitions. No forced cell.
+2. GA 95 causal body: individual continuity, life fruits, Devachan and return; B.O.T.A. comparative links Chaiah/Chokhmah, Kether/Briah and thread-soul, rather than a single exclusive body attribution.
+3. GA 136 creation: distinct hierarchy activity and resultant being, scale and rhythm; compare archetypal/creative/formative/manifestation functions when justified, do not use a fixed one-world-per-hierarchy assignment.
+4. GA 13 hidden script: cosmic stages and individual members form relations; compare Tree's visible and hidden edges as research indexing structure, not direct supersensible reading.
+
+Next: test GA 122 Genesis soul formation against early and authored constitution sources; verify the German witnesses and recover original diagrams/Oracle of Tarot; audit further causal-body references, GA 13 life after death, B.O.T.A. astral continuity; investigate mature Trinity GA 214 and cosmic sacrifice in connection with GA 136 and GA 107; prepare multi-axis examples and integrate the three Work branches once available. Preserve all earlier findings. This pass verified selected primary English witnesses and original course transcriptions; German collation failed, GA 130 indexed witness was readable but the full page failed to reopen, full corpus and branch deliverables not audited. No Atlas changes.
