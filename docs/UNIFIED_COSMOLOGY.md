@@ -1,6 +1,6 @@
 # The Living Tree — Unified Steiner–B.O.T.A. Cosmology
 
-**Master research document | v0.6 | 26 November 2026**
+**Master research document | v0.7 | 26 November 2026**
 **Status:** living comparative research framework, not a definitive reader or a verified identity system.
 
 ## 1. Permanent mandate
@@ -208,6 +208,8 @@ Remaining gates:
 
 | 0.6 | 2026-11-26 | Expanded B.O.T.A. component architecture, recovered 16 hidden links and 400-state nested model, distinguished seven vehicles, Tarot and Gematria, integrated selected Astra refinements. |
 
+| 0.7 | 2026-11-26 | Four-world and constitution focus: GA 130 functional/epoch overlay, GA 89 named soul terms, GA 9 living archetypes, GA 136 nested cosmic organization; preserve competing world schemes. |
+
 **Guiding theme:** divine creative unity → differentiation and individual freedom → conscious participation in divine creativity. This is a research synthesis, not a replacement for either tradition.
 
 ## 15. Expanded B.O.T.A. structural framework (v0.6)
@@ -290,3 +292,57 @@ Prioritize in this order:
 Retain distinction between universal spiritual content and individual authorship (GA 4/26); Saturn memory and Jupiter's thinking as cooperation, not reassignment of Chesed; distinct outward/return solar passages (head/heart germ, GA 231); Golgotha's implications for Malkuth and waking I as well as Tiphareth (GA 123); Libra in GA 90b as a targeted Ishwara/Atma lead; qualified Briah Ishvara; German GA 91 reversed Logos numbering. These were reviewed in the separate Astra assessment; full evidence ledger consolidation remains pending. The new hidden-path source qualifies the visible-only topology critique. Do not present Astra's interpretive synthesis as primary evidence.
 
 **Limitations:** The present pass recovers component structure from selected original B.O.T.A. lesson transcriptions and representative Steiner texts, not the full course library or a completed 400-state correspondence map. Hidden-path diagrams, all card interpretations, Gematria conventions, and detailed cross-volume evidence still require systematic audits. No live-site changes.
+
+## 16. Four worlds, nested scales and human constitution — focused research pass 1 (v0.7)
+
+**Scope:** conceptual research in the central chat; hidden paths, Major Arcana, and Minor Arcana/courts are separate Work assignments. Preserve all earlier identifiers. The following FW, HC and NS IDs identify new comparative research findings, not established occult correspondences.
+
+### 16.1 Four worlds: primary-source controls
+
+**FW-01 (D-B):** B.O.T.A. *Thirty-Two Paths*, lesson 2, lines 231–253: every canonical path is fourfold, and every Sephirah includes the potencies of the others. Worlds are modes of one Life-power, not necessarily spatial compartments. Atziluth/Briah/Yetzirah/Assiah are archetypal/creative/formative/action. Kether in each illustrates a different degree and scale of manifestation; Briah's Ishvara comparison is qualified.
+
+**FW-02 (S/C):** [GA 107, 19 Oct 1908](https://rsarchive.org/Lectures/GA107/English/SOL/19081019p01.html) explicitly orders higher Devachan, lower Devachan, astral world, physical world. Retrieved indexed text; full-page opening failed. [GA 88, 4 Nov 1903](https://rsarchive.org/Lectures/GA088/English/SOL2022/19031104p01.html) §10 distinguishes arupa and lower Devachan in reincarnation; [GA 88, 28 Jan 1904](https://rsarchive.org/Lectures/GA088/English/SOL2022/19040128p01.html) §11 distinguishes higher primordial states and lower formative regions. These are early lecture witnesses; do not replace the authored three-world account with them.
+
+**FW-03 (S):** [GA 9, Theosophy, ch. III](https://rsarchive.org/Books/GA009/English/SOL/GA009_c03.html) §§35–42, 49–58: living archetypes actively cooperate; the spiritual realm has seven regions, not an undifferentiated single level. §§54–55 describes interpenetrating worlds and compares condensation into sensory appearance to water becoming ice. B.O.T.A. also uses states of water in *Thirty-Two Paths*, lines 237–243. This is a shared explanatory analogy, not a claim of historical dependence or modern physical proof.
+
+**FW-04 (C, strong structural parallel):** [GA 130, 4 Nov 1911](https://rsarchive.org/Lectures/GA130/English/AP1942/19111104p02.html) §§17–22 explicitly associates four worlds with human modes of participation:
+
+| B.O.T.A. world/suit (D-B) | Steiner world and mode (S, GA 130) | Comparative use (C) |
+|---|---|---|
+| Atziluth / Wands / fire | Upper Devachan / moral will | Originating impulse, ethical intention |
+| Briah / Cups / water | Lower Devachan / feeling and aesthetic ideals | Creative inward experience |
+| Yetzirah / Swords / air | Astral / thinking, conceptual activity | Formulation and discrimination |
+| Assiah / Pentacles / earth | Physical / bodily perception | Action, embodiment |
+
+This is a provisional functional framework, not a named equivalence. GA 130 describes relationships through faculties, not exclusive residences of those faculties or bodies. In GA 9 the living reality of thought belongs to spiritland; ordinary thought is its reflection. Hence thinking may relate to astral experience while its spiritual archetype belongs to spiritland. Do not make Yetzirah the exclusive home of all thought or the astral body. Do not identify moral will with the Absolute or moral/immoral conduct with a person's worth.
+
+**FW-05 (S/C):** GA 130 §§23–26 connects the same four modes with the fourth through seventh post-Atlantean cultural periods: Greco-Roman/physical; fifth/thought/astral; sixth/feeling/lower Devachan; seventh/moral will/upper Devachan. The Christ event belongs to the fourth epoch in the account. This is a specific Steiner historical-evolutionary teaching, not a universal claim about all civilizations or a scientific forecast. Use as a directional overlay on the four worlds, not an identity of four worlds with four epochs. The first three epochs require separate study.
+
+**FW-06 (S/U):** [GA 12, ch. I](https://rsarchive.org/Books/GA012/English/AP1967/GA012_c01.html) distinguishes sense cognition, Imagination, Inspiration and Intuition. Compare with the four worlds as epistemic modes, not identical planes. [GA 119, 27 Mar 1910](https://rsarchive.org/Lectures/GA119/English/RSP1968/19100327p01.html) §§20–21 distinguishes Elementary World, World of Spirit, World of Reason and World of Archetypal Images; the last supplies forces for imaginative perception. This is a different fourfold taxonomy from GA 107/130, including an additional world beyond Reason. Preserve context and avoid relabeling it Atziluth through Assiah automatically.
+
+### 16.2 Direct named Qabalistic human constitution in Steiner
+
+**HC-01 (D-S):** [GA 89, 18 Mar 1904](https://rsarchive.org/Lectures/GA089/English/CMP2001/19040318p01.html), closing paragraphs, directly identifies Nephesh with vegetative soul/etheric double, Ruach with passion/sentient soul, Neshamah with thinking soul. Earlier in the lecture, the ten Sephiroth are arranged as three triads (bodily, soul, spirit) and Realm/Malkuth as the manifestation of their combined activity. The notes are incomplete and the numbering differs from conventional assignments in places. Crucial: B.O.T.A.'s Ruach is the solar Ego, not simply Steiner's sentient soul; B.O.T.A.'s Neshamah is higher Divine Soul, not simply thinking soul; its Nephesh is Vital Soul/automatic consciousness, not solely etheric body. This direct Steiner use of the Hebrew names is a stronger anchor than arbitrary comparison, but also direct evidence against simple equivalence. Distinguish the traditions' terminology and dates.
+
+**HC-02 (D-B):** *Master Pattern*, concluding explanation, lines 1030–1056, places indivisible Yekhidah at the center and the Egoic system on a radial thread-soul. Seven vehicles: Causal/Chokhmah; Buddhic/Binah; Egoic/Tiphareth; Desire/Netzach; Mental/Hod; Astral/Yesod; Physical/Malkuth. Chesed and Geburah are unembodied powers of memory and volition. Etheric ordinarily counted as a subtler aspect of physical vehicle. *Tree of Life*, lines 907 onward, connects the thread-soul with continuity of successive incarnations. *Great Work*, line 4331, describes a vehicle appropriate to each world: contextual cross-reference, not a new fixed four-body enumeration. Private course text paraphrased, not reproduced.
+
+**HC-03 (S):** [GA 9, ch. I](https://rsarchive.org/Books/GA009/English/RSP1965/GA009_c01.html) §§40–41 and [GA 99, 25 May 1907](https://rsarchive.org/Lectures/GA099/English/RSP1966/19070525p01.html) §§23–27: ninefold distinction body (physical, etheric, soul-body), soul (sentient, intellectual, consciousness), spirit (Spirit Self, Life Spirit, Spirit Man). Two pairs are closely interwoven (soul-body/sentient soul; consciousness soul/Spirit Self), allowing a sevenfold description; I works through the soul, not an extra tenth part. GA 13 ch. II §25 gives four lower and three higher members. These are contextual schemes, not competing arithmetic.
+
+**HC-04 (S/C):** [GA 13, ch. II](https://rsarchive.org/Books/GA013/English/RSP1969/GA013_c02.html) §§22–25 and [ch. IV](https://rsarchive.org/Books/GA013/English/RSP1969/GA013_c04.html) §1: I transforms astral, etheric and physical organizations, with Spirit Self, Life Spirit and Spirit Man as higher fruits. The Spirit Man transformation concerns supersensible foundations of the physical body, not direct physical self-manipulation. This connects the lowest manifestation to highest spiritual development (Malkuth and Kether as comparative endpoints), and Old Saturn/Earth/Future Vulcan. Compare B.O.T.A.'s already-present universal Self and vehicles with Steiner's evolving capacities. Do not equate Buddhic body with Buddhi on name alone.
+
+**HC-05 (S/C):** GA 9 ch. III §§56–58 identifies a chain from spiritual germ through living archetype to sensory activity. Physical, etheric and sentient-soul-body have differentiated archetypal relations; the intellectual soul introduces conscious human activity. The same member must be studied across levels, not located exclusively in one world. GA 9 §§49–53 describes earthly creativity yielding fruits in spiritland and the developed Spirit Self participating in intentions for future lives. A bridge to karma, freedom and nested levels. Do not assign individual adversity to karma as a factual explanation.
+
+### 16.3 Nested Trees: from taxonomy to macrocosmic scale
+
+**NS-01 (D-B):** *Vibratory Powers of Qabalah*, lines 83–89, confirms four major Trees with ten subordinate Trees each, yielding 400 Sephirotic states. The course refers to *Oracle of Tarot*; the guessed transcription path oracle-of-tarot.txt returned 404. Do not claim the original Oracle course has been audited. The 400-address structure is useful for indexing, not grading a person or forcing 400 Steiner teachings into slots.
+
+**NS-02 (S/C, strong macrocosmic bridge):** [GA 136, 7 Apr 1912](https://rsarchive.org/Lectures/GA136/English/SOL/19120407p01.html) §§11–19 describes a higher being whose members are themselves beings: Spirits of Form correspond functionally to physical body; Spirits of Movement to etheric body; Spirits of Wisdom to astral body; Thrones to sentient soul; Cherubim to intellectual soul; Seraphim to consciousness soul; the Trinity is compared with the three higher spiritual members. These are specific analogies of organization, not identifications of every hierarchy with a human member or B.O.T.A. Sephirah. In planetary application, form, inner vitality, consciousness, motion, system harmonization and inter-system relationship belong to different hierarchical activities. A single planetary field can thus contain activity from multiple hierarchies. This is a direct Steiner argument for multi-scale organization, complementary to nested Trees without proving numerical equivalence. It must be preserved alongside GA 110 and GA 239 sphere maps rather than replacing them.
+
+**NS-03 (C, implementation):** classify each primary passage first by source, subject, being, activity, effect, scale, world, human member, time and evidence status. Only then attach one or more B.O.T.A. addresses. Example: Saturn–Jupiter memory/thinking (GA 228) can be indexed as Chesed with Binah relation HP-06; the applicable world depends on whether the passage concerns archetypal purpose, creative activity, formation or embodiment. Do not invent a specific inner Sephirah or card simply to populate a database cell. Separate the planetary sphere as a field from the physical planet, hierarchy, body and chronological embodiment. A nested Tree is not a historical timeline.
+
+### 16.4 Next research gates
+- Audit GA 130 against German, GA 107 full text, GA 88 witnesses, GA 119 differing worlds and GA 12 cognition. Investigate GA 95 plane/member relations and GA 13 death/rebirth alongside B.O.T.A. thread-soul and astral continuity.
+- Develop function-based 7/9-member matrix across four worlds and all planetary spheres. Compare Nephesh/Ruach/Neshamah direct usage with all B.O.T.A. soul/vehicle descriptions, including Chaiah and Yekhidah; preserve inconsistencies.
+- Use GA 136 as the planetary nested-scale anchor, extending to hierarchy evolution, Old Saturn–Vulcan and macro/microcosmic organization; distinguish hierarchical function from literal realm of residence.
+- Develop 3–5 evidence-backed worked examples before any 400-cell expansion. Import branch evidence when complete. Do not duplicate hidden-path and Tarot Work tasks.
+- Limitations: selected original course transcriptions checked (Tree of Life, Master Pattern, Thirty-Two Paths, Vibratory Powers, Great Work); Magical Language scanned for leads only. Oracle of Tarot not recovered, original diagram scans not checked, full GA 107 page unavailable, no full German collation or comprehensive primary corpus audit. No live-site or graph changes.
