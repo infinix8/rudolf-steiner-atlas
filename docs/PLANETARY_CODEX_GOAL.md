@@ -1,0 +1,38 @@
+# Planetary research — persistent Codex Goal
+
+Version 1.0 | 2026-11-26
+
+## Launch configuration
+
+Select GPT-6.2 Sol, High reasoning, standard speed in Codex (where offered by the account). This file cannot select or enforce the model. Use a cloud environment with access to the repository, authorized input manuscripts and permitted primary-source sites, and PDF tooling. Activate Goal mode in the Codex client; a saved document alone does not launch an agent. Read [PLANETARY_RESEARCH_PROTOCOL.md](PLANETARY_RESEARCH_PROTOCOL.md) in full; it is the governing scholarly method. This execution guide supplements it, including a stricter proposed saturation gate.
+
+## Goal (copy into Codex)
+
+Complete the remaining Rudolf Steiner planetary-sphere explanatory readers to the scholarly and editorial standard defined in docs/PLANETARY_RESEARCH_PROTOCOL.md and this file. Start with Saturn as the pilot, then Mercury and Vulcan. Inventory Jupiter's current work and reconcile any unfinished work without duplicating an active editor's task. Verify actual latest versions and availability; never assume prior chat files are in the repository. Continue automatically through substantive research, depth, integration, source review, independent editorial audit, PDF creation and verification until the acceptance conditions are satisfied. Save durable checkpoints and resume from them after interruption. Stop for a pilot review before releasing Saturn or proceeding to the other spheres. Never substitute a mechanically passing report for substantive research quality.
+
+## Bootstrap and safe execution
+
+- Read repository instructions and the existing protocol, source method, relevant Atlas data and available prior research. Inventory local/repository files and authorized attachments; list missing inputs and request only essential ones. Sun, Venus, Jupiter and revised Mars readers are quality benchmarks; do not claim to compare them unless accessed.
+- Keep changes isolated on a research branch; no live publication, workflow changes, destructive edits or secrets. Do not create hourly CI runs. Coordinate concurrent editing, avoid modifying already-active Jupiter work, and do not copy private BOTA materials to a public repository. Save only authorized materials; private inputs and PDFs can remain local with a manifest.
+- Use docs/research/planetary/ as the proposed workspace, adapting to existing canonical paths. Create a queue/status manifest with current planet, phase, pass number, input versions, topic counts, evidence status, last validated checkpoint, outstanding issues and exact next action. Keep stable IDs and old versions, including Jupiter J01–J294 if that inventory is accessible.
+- Verify that external access and actual PDF rendering are available before relying on them. If restricted, do not fabricate sources or report a final PDF. Record the blocker and continue only independent unblocked work. Use permitted public sources (e.g. Rudolf Steiner Archive and German GA editions) and precise source locators; search snippets are leads, not verified passages.
+
+## Execution loop
+
+1. Resume and audit the current evidence and topics. Breadth: perform complementary systematic rounds as in the protocol, at least five targeted rounds where material warrants; use prior passes if documented. Log search terms, source cycles, new themes, deduplication, rejected leads, unsearched domains. Require three consecutive targeted passes without materially new themes (or explicitly justified exception approved by reviewer). No arbitrary topic quota; no claims of total GA exhaustiveness.
+2. Depth: work in substantial batches. Each stable topic ID must receive substantive prose or an explicitly justified evidence-limited disposition. Trace each direct claim to checked source passages; distinguish spiritual sphere from physical planet and world embodiment, especially Old Saturn and Future Vulcan. Preserve contradictions and German variants. Compare BOTA separately without treating it as Steiner evidence. No unsupported mechanisms, symmetry or modern scientific/medical claims.
+3. Integrate: organize roughly 9–15 thematic parts as appropriate, macrocosm to microcosm, using Sun-style connected explanation. Map every ID to actual supporting prose, with crosslinks and source anchors. Remove repetition without deleting unique claims; compare against accessible prior versions and maintain a loss audit.
+4. Audit: read the actual prose for every ID, not only heading or ID occurrence; mark source status, explanatory status, disposition, evidence and reviewer notes separately. Reopen high-impact, disputed and ambiguous passages. Run a separate review pass with fresh context/reviewer when available; disclose if not. Fix material gaps and repeat. A word count or machine coverage check cannot establish scholarly adequacy.
+5. Produce a reproducible reader PDF, Markdown, topic inventory, evidence matrix, source register, explanatory audit, change log and validation report as defined in the protocol. Generate linked hierarchical contents, bookmarks, page numbers, source index and topic-to-page concordance. Inspect rendered pages/contact sheets, representative full-size pages, all links and page mappings, text extraction and tables. Document actual checks and results.
+6. Persist checkpoints after each substantial pass. Update counts from real files, commit or preserve a local checkpoint as permitted, and record changed files, sources opened, unresolved issues, next steps and any limits. When context is compacted, read the status and protocol before proceeding. Prefer continued substantive work over stopping for routine confirmations; do not loop indefinitely on inaccessible sources.
+7. Pilot gate: present Saturn's PDF, evidence/coverage report and benchmark comparison to the user. Wait for approval before release or moving to Mercury/Vulcan. Following approval, repeat the full loop for each remaining sphere, and end with a cross-planetary consistency review. Jupiter is a reconciliation task, not a restart; finish only if not being edited elsewhere.
+
+## Acceptance and stop conditions
+
+For each reader: all stable topic IDs dispositioned; zero silently lost topics; no material unresolved depth deficiency presented as complete; exact verifiable evidence for direct claims or clearly bounded unsupported topics; no invented references; all substantive prior material preserved or accounted for; coherent readable narrative; PDF generated and visually/technically validated; reproducible source artifacts; explicit unresolved uncertainties and source limitations. Use automated checks for structural invariants and separate human/agent review for content. A pending material source or benchmark input that prevents meaningful acceptance means BLOCKED or PROVISIONAL, not COMPLETE.
+
+Stop when the pilot needs approval, access/permissions prevent further meaningful work, model/budget limits interrupt execution, or the approved full queue passes these gates. Record exact resume action and never falsely claim unattended completion. Goal continuation is subject to Codex capability, usage and permission limits.
+
+## Initial queue (verify before work)
+
+Saturn: depth reportedly started; import existing breadth and depth files before adding new material. Mercury: full research pipeline reportedly pending. Vulcan: full pipeline reportedly pending; sparse evidence must remain sparse. Jupiter: integrated manuscript and 294 IDs reportedly in final audit; coordinate with any active session and reconcile only when safe. Sun, Moon, Mars, Venus: reference or final consistency review, not automatic rewrites. The reported statuses are conversation history, not repository verification.
