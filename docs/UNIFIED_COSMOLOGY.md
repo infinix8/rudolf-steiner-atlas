@@ -1,6 +1,6 @@
 # The Living Tree — Unified Steiner–B.O.T.A. Cosmology
 
-**Master research document | v0.10 | 27 November 2026**
+**Master research document | v0.11 | 27 November 2026**
 **Status:** living comparative research framework, not a definitive reader or a verified identity system.
 
 ## 1. Permanent mandate
@@ -215,6 +215,8 @@ Remaining gates:
 | 0.9 | 2026-11-26 | First unified synthesis: mature Trinity, sacrifice, planetary polarity and return journey, authored freedom controls, GA 353 relational examples, branch reconciliation and typed worked cases. |
 
 | 0.10 | 2026-11-27 | Eight synthesis iterations: intelligence, two-direction incarnation, German controls, zodiac/speech, evolutionary transformation, recovered Minor Arcana/Vulcan branch masters, 38-edge triage, and graph acceptance tests. |
+
+| 0.11 | 2026-11-27 | Ten further synthesis passes: threefold cosmic constitution, Earth/freedom, 12×7 macrocosm, lunar mediation, competing after-death accounts, speech, chronology, astral continuity, recovered hidden/visible branches, and typed process seeds. |
 
 **Guiding theme:** divine creative unity → differentiation and individual freedom → conscious participation in divine creativity. This is a research synthesis, not a replacement for either tradition.
 
@@ -688,3 +690,130 @@ No edge-specific claim of equivalence. Particularly strong constraints: GA228 Ma
 Fresh anchors are linked in SYN-12–24: GA26 (three passages); GA4 ch.V/IX; GA228; GA140 (three dated lectures); GA141; GA231; GA110; GA136; GA91 German; GA353 German transcription; GA123 parallel and English; GA151 (two lectures); GA209 (two lectures); GA13 ch.IV; GA103; and two public BOTA pages. The indexed English GA353 alternate witness could not be reopened. These are selected witnesses, not independent corroboration or exhaustive corpus coverage. SYN-25–26 recover two branch masters, not full ledgers; later depth files, original BOTA diagrams, complete GA91/89 critical edition collation, individual 78-card explanatory review and original hidden-path dossiers remain unverified. No private course texts or files published.
 
 Next: recover hidden-path and Major Arcana branch masters and exact evidence IDs; reconcile Vulcan depth with GA202/254 and GA284; integrate the complete Minor Arcana evidence ledger and its independent decanate fields; build typed graph records with phase, scale, order and uncertainty; verify all node/edge/card explanatory adequacy before release. Do not use the triage as a substitute for detailed reading. Keep all existing Atlas features; no live-site edits and no manual deployment. The new work expands explanatory and source-control depth without a claim of final completion.
+
+
+## 20. Cosmic chronology, embodiment and relational synthesis — ten focused passes (v0.11, 27 November 2026)
+
+**Scope:** SYN-30–48, extending v0.10. Fresh public primary-text checks and targeted recovery of branch documents, not a comprehensive critical edition or an exhaustive audit. Preserve prior wording as history; explicit qualifications below supersede overconfident earlier summaries. The traditions' historical, physiological and cosmological claims are studied as esoteric teachings, not verified science. No private BOTA texts are reproduced.
+
+### 20.1 Pass 1 — The human being as inherited past, active present and developing future
+
+**SYN-30 (S/C):** [GA 202, 26 Nov 1920, §§3–10](https://rsarchive.org/Lectures/GA202/English/SOL/19201126p01.html) explicitly differentiates head formation inherited from Old Saturn/Sun/Moon, rhythmic organization especially characteristic of Earth, and limb organization preparing Future Jupiter/Venus/Vulcan. The same lecture relates the previous incarnation's limb organization to the next head through spiritual metamorphosis. [GA 201, 24 Apr 1920](https://rsarchive.org/Lectures/ManHiero/19200424p01.html) specifies metamorphosis of forces rather than material substance. [GA 205, 2 Jul 1921](https://rsarchive.org/Lectures/GA205/English/SOL/19210702p01.html) relates the metabolic-limb organism to formative forces of the future head. These verify a major lead in the Vulcan branch, not three independent proofs of reincarnation.
+
+| Organization | Cosmic time in GA202 | Human activity for comparative indexing |
+|---|---|---|
+| Head | Inherited past: Old Saturn, Sun, Moon | Capacity for perception, thinking and receiving form |
+| Rhythmic | Earth-present | Mediation, reciprocal relationship, feeling |
+| Limbs | Seeds of future Jupiter, Venus, Vulcan | Movement, will, deeds, transformation |
+
+This is not an exclusive spatial partition, a claim that the head alone contains past forces, or a proof of upper/middle/lower Sephiroth assignments. GA353's human-region groups are a separate named teaching, and GA209's three zodiacal groups are a separate scheme. Their potential relationships lie in function and organization, not in identical counts. No organ-level Vulcan assignment follows.
+
+**SYN-31 (S/C):** [GA 21, Riddles of the Soul, supplement 4.6](https://rsarchive.org/Books/GA021/English/SOL/GA021_c04-6.html) is an authored control for the threefold constitution. [GA 326, 26 Dec 1922, §10](https://rsarchive.org/Lectures/GA326/English/SOL/19221226p01.html) explicitly says the systems are differentiated functionally and interpenetrate, rather than occupying exclusive spatial compartments. GA21 relates thinking/representation to nervous activity, feeling to rhythm, willing to metabolism, and gives a spiritual comparison to Imagination, Inspiration, Intuition. [GA293, 27 Aug 1919](https://rsarchive.org/Lectures/GA293/English/SOL/19190827.html) distinguishes waking-like thinking, dreamlike feeling and sleep-like willing within ordinary wakefulness. The terms represent Steiner's own theoretical account, not modern neuroscience. Distinguish ordinary representation (Vorstellung) from technical Imagination; ordinary willing from conscious Intuition. Keep regional, functional, epistemic, temporal and member vocabularies separate. This provides a concrete model for a later organ atlas overlay without replacing anatomy.
+
+### 20.2 Pass 2 — Earth as the necessary condition of freedom
+
+**SYN-32 (S/C):** [GA254, 24 Oct 1915, §§1–4](https://rsarchive.org/Lectures/GA254/English/SOL/19151024.html) distinguishes material investigation as appropriate to the mineral realm from materialism elevated to an exhaustive worldview; mineral embodiment during Earth enables acquisition of intelligence and free will that can be exercised on future embodiments. [GA254, 18 Oct 1915](https://rsarchive.org/Lectures/GA254/English/SOL/19151018.html) likewise links Earth to the acquisition of freedom and explicitly cautions that the seven spheres in this context denote successive developmental conditions. This is a strong Malkuth bridge, alongside GA4 and GA107: embodied agency is a positive condition of development, not a mistake or punishment that the Great Work should simply escape. No endorsement of GA254's rejection of atomism or other scientifically unsupported statements. No conclusion that a person's disability, disease or material circumstances measure spiritual advancement.
+
+### 20.3 Pass 3 — The zodiac, planetary life, and nested organization
+
+**SYN-33 (S/C):** [GA170, 12 Aug 1916, §§20–21](https://rsarchive.org/Lectures/GA170/English/SOL/19160812p01.html) gives a 12 × 7 relation in which the seven life processes operate throughout the twelve sensory regions, compared respectively with planetary movement and the fixed zodiac. The life processes are respiration, warming, nutrition, excretion/secretion (translation varies), maintenance, growth and reproduction. He contrasts their differentiation in Earth existence with less distinct sensory/life activity on Old Moon. [GA170, 13 Aug 1916](https://rsarchive.org/Lectures/GA170/English/RSP1990/19160813p01.html) reinforces the whole-field relationship. Do not force 84 distinct named functions or an individual planet/process assignment from this passage alone; no BOTA decanate equivalence. Distinguish GA151's twelve worldviews × seven moods, GA279's sound groups, GA209's formative speech account and GA170's sensory/life taxonomy. This is a useful positive macrocosm–microcosm structural witness and a counterexample to one-force/one-region models.
+
+**SYN-34 (S/C):** [GA170, 28 Aug 1916, §§3–6](https://rsarchive.org/Lectures/19160828p02.html) explicitly describes a member of a twelvefold organization as itself capable of twelvefold differentiation; the head and the whole body are used in an esoteric reincarnational account. Compare BOTA nested Trees as a principle of part/whole organization. Twelvefold within twelvefold is not tenfold within tenfold, and this does not establish 144 separate doctrines or the BOTA 400-state structure in Steiner. Same source discusses conventional zodiacal body regions; store region, sense, faculty, and process as distinct fields, not as aliases.
+
+### 20.4 Pass 4 — Lunar mediation gives new specificity to the hidden and visible paths
+
+**SYN-35 (S/C):** [GA233a, 21 Apr 1924, §§16–25,29](https://rsarchive.org/Lectures/GA233a/English/SOL/19240421p01.html) and the [RSP witness](https://rsarchive.org/Lectures/GA233a/English/RSP1968/19240421p01.html) describe lunar beings' planetary observations and preparation of etheric organization for incarnation. Direct solar influence is excluded at this stage from etheric formation; reflected solar influence has a role, while direct solar forces concern the I and astral body. The source discusses ancient mystery teaching and weekday symbolism, not clinical physiology. The two translations are parallel witnesses, not independent evidence.
+
+| Source planetary field | Result described in GA233a | BOTA comparison index |
+|---|---|---|
+| Mars | Capacity for speech | HP-04, Geburah–Yesod |
+| Mercury | Capacity for movement | PATH-30, Hod–Yesod |
+| Jupiter | Wisdom capacity | HP-03, Chesed–Yesod |
+| Venus | Love and beauty in soul life | PATH-28, Netzach–Yesod |
+| Saturn | Inner soul warmth | HP-12, Binah–Yesod |
+| Sun | Protection from direct forces and reflected activity | PATH-25, Tiphareth–Yesod |
+
+This refines §19.7: HP-03 and HP-04 move from broad P to specific F comparative bridges **in the lunar preparation context**, with an explicitly mediated process. Preserve earlier triage as historical. HP-12 already F, now differentiated further. PATH-25, PATH-28 and PATH-30 gain source-supported field relations, not verified Samekh/Tzaddi/Resh channel meanings. The categories are relation types: planetary source; lunar perceiver/mediator; formative result; human recipient; pre-earthly phase. This is a single sixfold family, not six independent causal proofs. Sun as source of light and Sun as direct influence at this stage are distinguished; no general rule that solar activity harms the etheric body. BOTA Yesod's astral vehicle is not Steiner's etheric body.
+
+**SYN-36 (S/C):** [GA236, 30 May 1924, §§19–24, RSP witness](https://rsarchive.org/Lectures/GA236/English/RSP1974/19240530p01.html) presents the Moon as a shared perceptual organ for beings whose primary focal activities are in other spheres. It also relates this to the primeval teachers and the later emergence of freedom. This is a strong positive reason not to treat planetary beings as confined to one compartment of the Tree. Distinguish primary sphere, other sphere of presence, perception via a shared organ, and action upon a human recipient. This overlaps but does not duplicate GA233a: one describes cosmic perception, the other pre-earthly formative mediation. [GA236, 18 May 1924, §§24–29](https://rsarchive.org/Lectures/GA236/English/SOL/19240518p01.html) adds collective outer-planet assessment and transfer to Third Hierarchy in karmic preparation. Do not turn a group's activity into separate pair-specific mechanisms or attribute physical ailments to moral failures.
+
+### 20.5 Pass 5 — Audit incompatible descriptions of the after-death itinerary
+
+**SYN-37 (S/U, corrective):** [GA227, 28 Aug 1923, §§29–30](https://rsarchive.org/Lectures/GA227/English/SOL/19230828p01.html) explicitly limits full present human traversal to Mars and explains reception of Jupiter and Saturn influences in the asteroid/planetoid region. The [1966 translation](https://rsarchive.org/Lectures/GA227/English/RSP1966/19230828a01.html) supports the qualification. [31 Aug 1923, §2](https://rsarchive.org/Lectures/EvoConscious/19230831p01.html) reiterates reaching Saturn impulses via this region. Compare GA231 17 Nov 1923 and [GA218, 19 Nov 1922, §§16–20](https://rsarchive.org/Lectures/GA218/English/SOL/19221119p01.html), which describe a passage through/beyond Saturn and work in the stellar region; the latter connects access to Christ in its theological account. Earlier §§6,18.3,19.2 summarize one family, not a universally established itinerary. Update their display status to contextual, competing accounts. Distinguish sphere influence, partial participation, complete traversal and alternative mediated reception. This may help reconcile some descriptions but does not settle the textual difference. Store competing accounts explicitly and add no invented orbital stage. This supports the newer hidden-path reader's audit. No independent verification of a spiritual role for asteroids is claimed.
+
+### 20.6 Pass 6 — The Creative Word as a worked multi-force process
+
+**SYN-38 (S/C):** [GA218, 19 Nov 1922, §§19–23](https://rsarchive.org/Lectures/GA218/English/SOL/19221119p01.html) describes a symbolic picture of preparation of the next body: Taurus-associated hierarchies and vocal-respiratory organization, Mars activity as a reflection of prior speech. This is an explicit zodiac × planet × faculty × phase relation. The lecture itself calls its expression symbolic. Compare GA231 on return Mars, GA233a on lunar etheric mediation, GA228 Mars–Venus speech complementarity and GA209 zodiac/planet speech. A candidate process record:
+- Zodiacal form: Taurus and larynx/lung organization (GA218; not all speech organs assigned to Taurus).
+- Planetary activity: Mars and expressive deeds (GA218); cosmic speech and germinal organization (GA231).
+- Lunar preparation: etheric speech capacity (GA233a).
+- Complementary inner activity: Venus and expression (GA228).
+- Individual agency: a person freely chooses words and deeds (GA4, philosophical control).
+- Manifest outcome: utterance and its effects.
+This is a composite model of perspectives, not a proven chronological causal chain. The relevant tags may include PATH-16 Vav/Taurus, PATH-27 Peh/Mars, HP-04 and PATH-30; neither sign nor planet as channel is an identity with the source's action. No moral or medical diagnosis based on voice, stutter, disability or organ function.
+
+**SYN-39 (S/C/negative):** [GA279, 7 Jul 1924](https://rsarchive.org/Lectures/GA279/English/APC1956/19240707p02.html) explicitly gives nineteen sound possibilities (12 consonantal groups and seven vowel groups). [25 Jun 1924, §4](https://rsarchive.org/Lectures/GA279/English/SOL/19240625.html) distinguishes consonantal reflection of outer form and vowel expression of inner experience. This strengthens GA209 and branch VP-03, yet decisively rejects a 22-to-22 phonetic equation with Hebrew. BOTA mothers, doubles and simples are its own 3+7+12 classification. Do not identify the three missing sound groups by numerical invention. Preserve actual phonetic distinctions, language, Key, planetary attribution and function. No health claims based on sound or color.
+
+### 20.7 Pass 7 — Earth chronology: recapitulation and the oracular streams
+
+**SYN-40 (S/C):** [GA13 ch.IV, bilingual comparison, §§30–32](https://rsarchive.org/Books/GA013/Compare_04.php) gives a direct authored control on the distinction between temporal embodiments and present planets. Current Saturn represents a recurrence of Old Saturn; Mars is related to Old Moon at a higher level; present Jupiter and Venus anticipate their future namesakes; Mercury is an advanced expression of Earth conditions. Repetition on Earth itself occurs after spiritualization, not exact recurrence. Keep physical celestial body, spiritual domain, temporal embodiment, and relationship type separate. Do not invent a correspondence for present Sun, Moon or Vulcan not present in this passage. A source name for Mercury remains subject to the source-label rules of SYN-17.
+
+**SYN-41 (S/C):** GA13 ch.IV §§92–93 differentiates Atlantean initiation streams: Saturn/Jupiter/Mars more receptive to spiritual revelation expressed in symbols; Venus/Mercury/Vulcan more conceptually articulated; Christ stream combines revelation and conceptual formulation. The Vulcan leader has no separate planet in this account. §§98–99 distinguish preserved etheric counterparts and astral counterparts, and connect the central Sun oracle with knowledge of the other streams. This is another direct account of solar mediation, separate from GA228's freedom/destiny and GA231's double solar passage. The parallel to an upper/lower or receiving/expressing Tree is a functional comparison only; Vulcan must not be forced into a lunar node to create a seven-item match. Oracle membership, sphere, teacher, transmitted vehicle and reincarnating I are distinct. This is Steiner's esoteric history, not archaeological fact or a judgment of present-day peoples.
+
+**SYN-42 (S/C):** [GA106, 3 Sep 1908, §§1–4](https://rsarchive.org/Lectures/GA106/English/SOL/19080903p01.html) pairs first/seventh, second/sixth, third/fifth post-Atlantean cultural epochs and explicitly treats the fourth as exceptional. It also explicitly warns against extrapolating formulaic repetitions into other contexts. [4 Sep 1908](https://rsarchive.org/Lectures/GA106/English/SOL/19080904p01.html) compares the first three cultural epochs' spiritual conceptions with ancient Earth conditions: unity of Sun/Earth/Moon, Sun separation, and differentiated Sun/Earth/Moon. [GA133, 20 May 1912](https://rsarchive.org/Lectures/GA133/English/RSP1948/19120520p01.html) emphasizes that later recapitulation is transformed by the Christ impulse. These are historically specific doctrinal claims, not verified history of religions or future prediction. A mirrored sequence does not authorize one planet, Tarot card, or Sephirah per epoch.
+
+| Cultural stage in Steiner | Relation to investigate | Required distinction |
+|---|---|---|
+| Ancient Indian | Early cosmic unity; first/seventh recurrence | Not modern Indian religion or empirical cultural chronology |
+| Ancient Persian | Light/darkness, Sun separation; second/sixth recurrence | Not an equation of historical Zoroastrian beliefs with Steiner cosmology |
+| Egyptian-Chaldean | Differentiated celestial conditions; third/fifth recurrence | Distinguish religious symbolism from direct cosmological claims |
+| Greco-Roman | Exceptional fourth; Christ event within this chronology | Not a Sephirah or present solar sphere |
+| Fifth/current | Material inquiry and individual consciousness | Do not claim all present cultures share one developmental rank |
+| Sixth/future | Transformed second | No exact forecast |
+| Seventh/future | Transformed first | No identity with Future Vulcan |
+
+GA106 supplies its own methodological reason to resist invented seven-to-seven correspondences; its warning is an acceptance test for all proposed chronology tags. The actual Lemurian and Atlantean substage evidence has not been fully audited in this pass.
+
+### 20.8 Pass 8 — The constitution and continuity of individuality
+
+**SYN-43 (S/C/U):** [GA13 ch.III, §§12–16, bilingual comparison](https://rsarchive.org/Books/GA013/Compare_03.php?version=RSP) describes partial astral shedding after purification, retained life-fruits associated with the remaining part, and subsequent formation of a new astral body. Do not say the entirety of the astral body is discarded at once. Compare recovered Major Arcana branch VP-12's report of the BOTA Shin lesson on astral persistence. Preserve both definitions, which part continues, which part is formed anew, what role retained experience plays, and which subject is the continuous individual. The BOTA wording is branch-derived rather than freshly collated against its original scan. A continuity of fruits and capacities is a possible bridge, not proof of identical astral ontology. The new body account in GA13 explicitly relates independent participation in etheric/physical formation to developed Life Spirit/Spirit Man; this enriches the Great Work theme without claiming current omnipotence. Compare sleep restoration versus post-death re-creation without treating sleep as death. No diagnostic or therapeutic use.
+
+### 20.9 Pass 9 — Recovered branches and concrete amendments
+
+**SYN-44 (C, branch-derived):** Recovered HIDDEN_PATHS_RESEARCH.md v0.3 (lines 1–100) and HIDDEN_PATHS_EXPLANATORY_READER.md v0.5, dated 27 Nov (lines 1–75 and 300–378). The newer reader reports four focused depth/audit iterations after three breadth passes. Its findings in Part X on GA233a, GA227, GA218 and spiritual speech were freshly cross-checked above. Stronger evidence for HP-03/04/12 is integrated in SYN-35. Its two specifically supported Gimel-family hidden connections HP-05/06 must be distinguished from other contextual hidden links. Seven absent pairs are KET–YES, KET–MAL, CHO–NET, BIN–HOD, CHE–HOD, GEB–NET, TIP–MAL. Recovered branch notes that BOTA itself discusses complementary relationships CHE–HOD and GEB–NET despite absent enumerated lines. Thus both traditions permit relationships outside the diagram's explicit topology. Do not add seven lines to the traditional diagram. Four-world hidden tags are proposed metadata, not a verified 64-operation course doctrine. Symbolic lengths remain distinct from computed geometry; original diagram scans remain unavailable. Source ledger and all 378 lines not independently audited; branch conclusions not all promoted to verified primary evidence.
+
+**SYN-45 (C, branch-derived):** Recovered MAJOR_ARCANA_MASTER_INTEGRATION.md in full (56 lines; includes v0.1, v0.2 and v0.3 proposals) and VISIBLE_PATHS_AND_MAJOR_ARCANA_RESEARCH.md v0.2 (first 60 of 921 lines). Preserve PATH-11–32, KEY-00–21, endpoint, letter class, symbolic attribution and Intelligence field. The v0.3 proposal reuses VP-08–12 identifiers from earlier version; use version-qualified aliases VP-v02-08 etc. and VP-v03-08 etc., do not overwrite records or count as distinct independent evidence. The full cumulative v0.3 reader was not recovered; version claims limited to the proposal document. Adopt verified GA170 and GA279 insights above; preserve GA265a conflicting sensory assignments as branch leads, not fresh verification. Retain 88 proposed four-world indices as proposals, and do not infer an equivalent 88 Steiner doctrines. Primary mother elements and secondary outer-planet octaves distinct. PATH-29 Qoph's Key title Moon is Pisces, not lunar sphere; PATH-13 Gimel is Moon-attributed. Distinguish 22 path Intelligences from named spiritual beings. No complete original Key image audit done.
+
+**SYN-46 (C):** Cross-branch tension register (do not resolve by averaging):
+| Question | Distinct teachings or controls | Status |
+|---|---|---|
+| Universal agency vs individual authorship | BOTA path lessons as reported by branches; GA4/26 | Open philosophical difference |
+| Saturn vs Chesed memory | GA228/231; BOTA Jupiter memory | Complementarity possible; do not reassign |
+| Full outer-sphere traversal | GA227 vs GA218/231 | Contextual conflict, mediation hypothesis |
+| Astral continuity | GA13 partial shedding/reformation vs reported Shin teaching | Open ontology distinction |
+| Mercury/Venus names | GA110/140 explicit nomenclature | Source label preserved; per-lecture audit |
+| Vulcan octaves | Steiner Saturn, historical BOTA Mars/Pluto | Different entities and relations |
+| 22 letters vs 19 sounds | BOTA 3/7/12, GA279 7/12 | No one-to-one mapping |
+| Geometry and meaning | GA353 ordered propositions, BOTA nonedge complementarity | Graph adjacency not exhaustive |
+| Numeric recurrence | GA106 warning, seven embodiments/epochs | No numerical inference |
+
+### 20.10 Pass 10 — Structured model and acceptance tests for the next integration
+
+**SYN-47 (C):** Proposed process families, each supported by separate dated teachings: cosmic purpose and realization (GA110/132); intelligence and independent appropriation (GA26/4); differentiated spiritual life (GA170/209); planetary mediation and renewal (GA228/233a/236); embodied agency and future potential (GA254/202); transformed repetition (GA13/106/133). BOTA nodes, paths, worlds and cards supply optional comparative retrieval addresses rather than being causal agents. Hierarchy, region, function, body, epoch and scale require distinct dimensions. Each connection should support multi-participant roles and competing accounts. Record evidence witness, locator, exact source label, paraphrase, type, limits, comparative address, version and source access status. Do not publish original private course text or identifiers enabling restricted access.
+
+**SYN-48 (C):** Worked structured examples:
+- SYN-35-LUN-MARS: planetary source Mars; mediator lunar beings; result etheric speech capacity; recipient returning human; phase pre-earthly preparation; source GA233a §20; S, comparative HP-04 C.
+- SYN-35-LUN-SUN: solar source, reflected mediation, protective condition, recipient etheric organization; source GA233a §§18,24,29; S; PATH-25 C. Separate direct solar I/astral action; no contradiction inferred merely because both are solar.
+- SYN-37-ALT: sphere Jupiter/Saturn; access type mediated influence via planetoid domain; temporal context present human development as described in GA227; explicit competing claims GA218/231; S/U.
+- SYN-38-SPEECH: Taurus-associated hierarchy, Mars activity, organ seed and prior earthly acts; GA218 §21; S; PATH-16/PATH-27 C; source says symbolic; no individual diagnosis.
+- SYN-40-REC: present Mars related by higher-stage recurrence to Old Moon; GA13 §31; S; present Mars node GEB does not become the Old Moon stage.
+- SYN-42-REC: cultural epochs 3/5, transformed recurrence; GA106 §§1–4; S; no forced Tarot link.
+- SYN-43-FRUIT: surviving I with life-fruits, partial astral shedding, new astral formation; GA13 ch.III §§12–16; S; disputed identity with BOTA astral vehicle; no medical claim.
+
+Use these as seed cases for an eventual JSON graph, not a deployed data migration. The organ Atlas should permit several context-specific relations per organ, and the chronology dial should support inherited/active/emerging capacities while retaining the approved visual design. No Atlas code changed.
+
+### 20.11 Checkpoint, source scope and next work
+
+Fresh primary witnesses (public): GA202 26 Nov 1920; GA201 24 Apr 1920; GA205 2 Jul 1921; GA21 supplement 4.6; GA326 26 Dec 1922; GA293 27 Aug 1919; GA254 18 and 24 Oct 1915; GA170 12,13,28 Aug 1916; GA233a 21 Apr 1924 (parallel English translations); GA236 18 and 30 May 1924; GA227 28 and 31 Aug 1923; GA218 19 Nov 1922; GA279 25 Jun and 7 Jul 1924; GA13 ch.III/IV bilingual witnesses; GA106 3/4 Sep 1908; GA133 20 May 1912. Some passages were checked via indexed excerpts rather than full lectures; several are fresh verification of inherited leads. GA218 English witnesses have differing location metadata (London vs The Hague for 19 Nov): retain edition-specific header rather than choosing without further collation. Full German comparison, full corpus review, source ledger imports, original BOTA diagrams and complete branch-file re-audit not performed. Initial file-title search yielded no matches; semantic search subsequently recovered the cited branch documents. No private material published.
+
+Next priorities: (1) obtain full Major Arcana latest reader, hidden path source ledger and Minor Arcana matrix, preserve IDs/versioned aliases; (2) audit GA227 German against GA218/231 and GA233a German; (3) detailed Lemurian/Atlantean stage-force/capacity matrix with GA13/11/89/106 controls; (4) audit planetary volumes and organ concordance for actual source/claim/organ IDs; (5) construct structured graph with conflict records and a source-derived sample across all ten Sephiroth; (6) reconcile Great Work and freedom with individual authorship, deepen Christ/Michael/Logoi as cross-cutting relationships. This checkpoint does not complete those gates. Preserve all former sections and no live-site changes or manual deployment.
