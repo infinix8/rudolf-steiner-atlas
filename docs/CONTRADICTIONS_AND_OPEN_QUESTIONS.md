@@ -1,4 +1,4 @@
-# Contradictions and open questions — v0.14
+# Contradictions and open questions — v0.17
 27 November 2026. Preserve all LT-X01–07; no forced resolution.
 
 | ID | Issue | Evidence / competing positions | Disposition and exact next test |
@@ -19,3 +19,16 @@
 | LT-X14 | Source vs historical reality | Spiritual history, occult anatomy and natural kingdoms | Doctrinal assertions only; no substitute for science, clinical advice, racial typologies or historical proof. |
 
 Status: none of these disputes is closed by an analogy. Source verification checks textual doctrine, not empirical truth.
+
+## v0.17 qualifications and additions
+
+| ID | Issue | Disposition |
+|---|---|---|
+| LT-X01 | Outer access | Correct GA231 itinerary to 17 Nov evening; retain GA227 restricted account, 31 Aug encounter and GA218 conditional passage. Encounter does not establish traversal. |
+| LT-X03 | Agency and novelty | Separate potential, anticipation, actual result, individual motive, authored deed, karmic realization; three rival models in SYN-90. No resolution. |
+| LT-X11 | Logos | Compare dated German formulations and context, not ordinals alone. |
+| LT-X15 | GA265a | Z-CON-10 reports reversed Sun/Earth faculty labels in participant records. Preserve both; original check pending. |
+| LT-X16 | Four Worlds | VUL-B017 restricted witness reports temporal use; avoid exclusively non-temporal characterization. No cross-tradition stage identity. |
+| LT-X17 | Incarnation interval | Z-CON-02/07: GA13 two lives and GA227 ideal interval differ. Compare editions and terminology; no personal predictions. |
+
+Additional branch-level disputes remain in respective ledgers, not claimed exhaustively imported. Prioritize X03/X11, X01, X16, then source topology and GA317. All remain open or bounded.
