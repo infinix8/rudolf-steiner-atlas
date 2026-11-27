@@ -1,0 +1,2 @@
+# Continuation checkpoint v0.18
+27 November 2026. Base v0.17. Read master §§26–27, graph v0.7 and reconciliation report. Actual four source registers (416 rows) parsed; chronology 380 unchanged + 17 new entries compared. Prior graph topology and 49 claims unchanged. Next P0: recover Earth/Malkuth and Vulcan latest complete registers, exact macrocosm/organ ledgers; independently compare agency sources and GA89/91, GA227/231; check GA239 and GA317. Keep private records offline. No deployment or merge.
