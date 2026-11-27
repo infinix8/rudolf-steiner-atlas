@@ -1,0 +1,4 @@
+# Continuation checkpoint — v0.15
+27 November 2026
+
+Base research v0.14 commit 3e069907c0069cf6db216efda295ad77c57e3e2b. Read master v0.15, report EVIDENCE_RECONCILIATION_REPORT_v015.md, matrix EVIDENCE_RECONCILIATION_MATRIX_v015.csv, reconciliation JSON and relational pilot v0.4. Three full rendered evidence ledgers were parsed and reconciled; 406 rows, 41 proposals, 526 hidden path links. No new primary claim asserted. Private content withheld, raw-file materialization unavailable. Review report for validation exceptions. Next exact action: retrieve full Mercury v0.19, Jupiter reader v1.1 and Vulcan v0.15 evidence registers (not merely audit reports), then Saturn and other streams. Apply same namespaced source grouping; verify claims against original source context before promotion. Recover the original authorized diagrams privately. Keep public repo research-only; no live changes.

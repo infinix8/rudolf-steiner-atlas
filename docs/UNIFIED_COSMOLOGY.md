@@ -1,6 +1,6 @@
 # The Living Tree — Unified Steiner–B.O.T.A. Cosmology
 
-**Master research document | v0.14 | 27 November 2026**
+**Master research document | v0.15 | 27 November 2026**
 **Status:** living comparative research framework, not a definitive reader or a verified identity system.
 
 ## 1. Permanent mandate
@@ -1062,3 +1062,10 @@ Hidden-path v0.9 HPX-08–19 and visible-path v0.6 VP-v06-01–07 proposals insp
 
 ### 23.7 Iteration G — graph and continuation
 **SYN-85 (C):** v0.3 preserves v0.2 structural inventories (10 nodes, 38 edges, 78 cards, four worlds, six intersections), all 38 prior claims, all 24 prior sources and seven conflicts. Adds five source-linked statements, two source records, three typed/qualified conflicts and six branch intake records. Graph validates stable IDs and references, not occult truth. All card Steiner identities remain null; no new hidden-edge interpretations promoted. Full lossless import of branch evidence, original BOTA diagram verification, German Logos collation, actual organ IDs and independent review still outstanding. The roadmap prioritizes these rather than unrestricted breadth. No Atlas changes.
+
+
+## 24. Evidence reconciliation v0.15
+
+**SYN-86 (method):** Complete row-level reconciliation of the three recovered path/card evidence ledgers, 406 rows: HP 138, VP 128, MA 140. 189 Steiner source records; 161 restricted BOTA IDs; 56 comparative assessments. These are evidence register rows, not distinct teachings or newly verified witnesses. Private records reduced to identifiers; no private material published. Full rendered private HP import, graph seed, crosswalk and visible relation proposal also parsed. Raw-byte materialization unavailable. See [report](EVIDENCE_RECONCILIATION_REPORT_v015.md), [row register](EVIDENCE_RECONCILIATION_MATRIX_v015.csv), [structured reconciliation](../research/living-tree-evidence-reconciliation-v01.json) and [pilot v0.4](../research/living-tree-relational-pilot-v04.json).
+
+**SYN-87 (C/U):** Reconcile 41 branch relationship proposals without adding canonical claims or edges. The private HP import contains 526 links; 372 public-source link IDs retained, restricted remainder counted without publishing private locators. All 38 central edge endpoints and 22 Key links tested against the crosswalk and graph; six contextual Daath alias targets tested. Original diagrams not verified. HPX-G07 retained, HPX-G24 qualifies it, no automatic extinction-of-individuality interpretation. GA237 administration and GA136 level-of-activity comparisons crosslinked to existing claims; GA227/231 and GA4 differences remain open. Minor card comparisons are assessments, not extra Steiner sources; no Steiner decanate assignments. 38 repeated exact-page URLs and 111 candidate source groups recorded; same date does not prove same lecture. See report for exceptions. Canonical 43 claims, 26 sources, 10 nodes, 38 edges and 78 cards unchanged. Next retrieve planetary and other ledgers; do not describe three-ledger reconciliation as exhaustive corpus audit.

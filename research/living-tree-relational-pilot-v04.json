@@ -1,0 +1,4554 @@
+{
+  "schema": "living-tree-relation-pilot/0.4",
+  "date": "2026-11-27",
+  "status": "research reconciliation checkpoint; not loaded by Atlas",
+  "master": "docs/UNIFIED_COSMOLOGY.md",
+  "prior": {
+    "path": "research/living-tree-relational-pilot-v03.json",
+    "blob_sha": "f9094eebb07430134d69ee06f2b56629e2a1a1e3"
+  },
+  "nodes": [
+    "KET",
+    "CHO",
+    "BIN",
+    "CHE",
+    "GEB",
+    "TIP",
+    "NET",
+    "HOD",
+    "YES",
+    "MAL"
+  ],
+  "node_records": [
+    {
+      "id": "KET",
+      "name": "Kether"
+    },
+    {
+      "id": "CHO",
+      "name": "Chokhmah"
+    },
+    {
+      "id": "BIN",
+      "name": "Binah",
+      "planetary_reference": {
+        "dataset": "research/planetary-spheres-v1.json",
+        "id": "saturn",
+        "relation": "comparative index, not identity"
+      }
+    },
+    {
+      "id": "CHE",
+      "name": "Chesed",
+      "planetary_reference": {
+        "dataset": "research/planetary-spheres-v1.json",
+        "id": "jupiter",
+        "relation": "comparative index, not identity"
+      }
+    },
+    {
+      "id": "GEB",
+      "name": "Geburah",
+      "planetary_reference": {
+        "dataset": "research/planetary-spheres-v1.json",
+        "id": "mars",
+        "relation": "comparative index, not identity"
+      }
+    },
+    {
+      "id": "TIP",
+      "name": "Tiphareth",
+      "planetary_reference": {
+        "dataset": "research/planetary-spheres-v1.json",
+        "id": "sun",
+        "relation": "comparative index, not identity"
+      }
+    },
+    {
+      "id": "NET",
+      "name": "Netzach",
+      "planetary_reference": {
+        "dataset": "research/planetary-spheres-v1.json",
+        "id": "venus",
+        "relation": "comparative index, not identity"
+      }
+    },
+    {
+      "id": "HOD",
+      "name": "Hod",
+      "planetary_reference": {
+        "dataset": "research/planetary-spheres-v1.json",
+        "id": "mercury",
+        "relation": "comparative index, not identity"
+      }
+    },
+    {
+      "id": "YES",
+      "name": "Yesod",
+      "planetary_reference": {
+        "dataset": "research/planetary-spheres-v1.json",
+        "id": "moon",
+        "relation": "comparative index, not identity"
+      }
+    },
+    {
+      "id": "MAL",
+      "name": "Malkuth"
+    }
+  ],
+  "worlds": [
+    {
+      "id": "ATZ",
+      "name": "Atziluth",
+      "suit": "Wands",
+      "element": "Fire",
+      "code": "WA"
+    },
+    {
+      "id": "BRI",
+      "name": "Briah",
+      "suit": "Cups",
+      "element": "Water",
+      "code": "CU"
+    },
+    {
+      "id": "YET",
+      "name": "Yetzirah",
+      "suit": "Swords",
+      "element": "Air",
+      "code": "SW"
+    },
+    {
+      "id": "ASS",
+      "name": "Assiah",
+      "suit": "Pentacles",
+      "element": "Earth",
+      "code": "PE"
+    }
+  ],
+  "edges": [
+    {
+      "id": "PATH-11",
+      "endpoints": [
+        "KET",
+        "CHO"
+      ],
+      "kind": "visible_letter_channel",
+      "key_id": "KEY-00",
+      "letter": "Aleph",
+      "attribution": "Air",
+      "letter_class": "mother",
+      "provenance": "master §10; Major Arcana integration proposal VP-01; inherited structural attribution, not scan-certified"
+    },
+    {
+      "id": "PATH-12",
+      "endpoints": [
+        "KET",
+        "BIN"
+      ],
+      "kind": "visible_letter_channel",
+      "key_id": "KEY-01",
+      "letter": "Beth",
+      "attribution": "Mercury",
+      "letter_class": "double",
+      "provenance": "master §10; Major Arcana integration proposal VP-01; inherited structural attribution, not scan-certified"
+    },
+    {
+      "id": "PATH-13",
+      "endpoints": [
+        "KET",
+        "TIP"
+      ],
+      "kind": "visible_letter_channel",
+      "key_id": "KEY-02",
+      "letter": "Gimel",
+      "attribution": "Moon",
+      "letter_class": "double",
+      "provenance": "master §10; Major Arcana integration proposal VP-01; inherited structural attribution, not scan-certified"
+    },
+    {
+      "id": "PATH-14",
+      "endpoints": [
+        "CHO",
+        "BIN"
+      ],
+      "kind": "visible_letter_channel",
+      "key_id": "KEY-03",
+      "letter": "Daleth",
+      "attribution": "Venus",
+      "letter_class": "double",
+      "provenance": "master §10; Major Arcana integration proposal VP-01; inherited structural attribution, not scan-certified"
+    },
+    {
+      "id": "PATH-15",
+      "endpoints": [
+        "CHO",
+        "TIP"
+      ],
+      "kind": "visible_letter_channel",
+      "key_id": "KEY-04",
+      "letter": "Heh",
+      "attribution": "Aries",
+      "letter_class": "simple",
+      "provenance": "master §10; Major Arcana integration proposal VP-01; inherited structural attribution, not scan-certified"
+    },
+    {
+      "id": "PATH-16",
+      "endpoints": [
+        "CHO",
+        "CHE"
+      ],
+      "kind": "visible_letter_channel",
+      "key_id": "KEY-05",
+      "letter": "Vav",
+      "attribution": "Taurus",
+      "letter_class": "simple",
+      "provenance": "master §10; Major Arcana integration proposal VP-01; inherited structural attribution, not scan-certified"
+    },
+    {
+      "id": "PATH-17",
+      "endpoints": [
+        "BIN",
+        "TIP"
+      ],
+      "kind": "visible_letter_channel",
+      "key_id": "KEY-06",
+      "letter": "Zain",
+      "attribution": "Gemini",
+      "letter_class": "simple",
+      "provenance": "master §10; Major Arcana integration proposal VP-01; inherited structural attribution, not scan-certified"
+    },
+    {
+      "id": "PATH-18",
+      "endpoints": [
+        "BIN",
+        "GEB"
+      ],
+      "kind": "visible_letter_channel",
+      "key_id": "KEY-07",
+      "letter": "Cheth",
+      "attribution": "Cancer",
+      "letter_class": "simple",
+      "provenance": "master §10; Major Arcana integration proposal VP-01; inherited structural attribution, not scan-certified"
+    },
+    {
+      "id": "PATH-19",
+      "endpoints": [
+        "CHE",
+        "GEB"
+      ],
+      "kind": "visible_letter_channel",
+      "key_id": "KEY-08",
+      "letter": "Teth",
+      "attribution": "Leo",
+      "letter_class": "simple",
+      "provenance": "master §10; Major Arcana integration proposal VP-01; inherited structural attribution, not scan-certified"
+    },
+    {
+      "id": "PATH-20",
+      "endpoints": [
+        "CHE",
+        "TIP"
+      ],
+      "kind": "visible_letter_channel",
+      "key_id": "KEY-09",
+      "letter": "Yod",
+      "attribution": "Virgo",
+      "letter_class": "simple",
+      "provenance": "master §10; Major Arcana integration proposal VP-01; inherited structural attribution, not scan-certified"
+    },
+    {
+      "id": "PATH-21",
+      "endpoints": [
+        "CHE",
+        "NET"
+      ],
+      "kind": "visible_letter_channel",
+      "key_id": "KEY-10",
+      "letter": "Kaph",
+      "attribution": "Jupiter",
+      "letter_class": "double",
+      "provenance": "master §10; Major Arcana integration proposal VP-01; inherited structural attribution, not scan-certified"
+    },
+    {
+      "id": "PATH-22",
+      "endpoints": [
+        "GEB",
+        "TIP"
+      ],
+      "kind": "visible_letter_channel",
+      "key_id": "KEY-11",
+      "letter": "Lamed",
+      "attribution": "Libra",
+      "letter_class": "simple",
+      "provenance": "master §10; Major Arcana integration proposal VP-01; inherited structural attribution, not scan-certified"
+    },
+    {
+      "id": "PATH-23",
+      "endpoints": [
+        "GEB",
+        "HOD"
+      ],
+      "kind": "visible_letter_channel",
+      "key_id": "KEY-12",
+      "letter": "Mem",
+      "attribution": "Water",
+      "letter_class": "mother",
+      "provenance": "master §10; Major Arcana integration proposal VP-01; inherited structural attribution, not scan-certified"
+    },
+    {
+      "id": "PATH-24",
+      "endpoints": [
+        "TIP",
+        "NET"
+      ],
+      "kind": "visible_letter_channel",
+      "key_id": "KEY-13",
+      "letter": "Nun",
+      "attribution": "Scorpio",
+      "letter_class": "simple",
+      "provenance": "master §10; Major Arcana integration proposal VP-01; inherited structural attribution, not scan-certified"
+    },
+    {
+      "id": "PATH-25",
+      "endpoints": [
+        "TIP",
+        "YES"
+      ],
+      "kind": "visible_letter_channel",
+      "key_id": "KEY-14",
+      "letter": "Samekh",
+      "attribution": "Sagittarius",
+      "letter_class": "simple",
+      "provenance": "master §10; Major Arcana integration proposal VP-01; inherited structural attribution, not scan-certified"
+    },
+    {
+      "id": "PATH-26",
+      "endpoints": [
+        "TIP",
+        "HOD"
+      ],
+      "kind": "visible_letter_channel",
+      "key_id": "KEY-15",
+      "letter": "Ayin",
+      "attribution": "Capricorn",
+      "letter_class": "simple",
+      "provenance": "master §10; Major Arcana integration proposal VP-01; inherited structural attribution, not scan-certified"
+    },
+    {
+      "id": "PATH-27",
+      "endpoints": [
+        "NET",
+        "HOD"
+      ],
+      "kind": "visible_letter_channel",
+      "key_id": "KEY-16",
+      "letter": "Peh",
+      "attribution": "Mars",
+      "letter_class": "double",
+      "provenance": "master §10; Major Arcana integration proposal VP-01; inherited structural attribution, not scan-certified"
+    },
+    {
+      "id": "PATH-28",
+      "endpoints": [
+        "NET",
+        "YES"
+      ],
+      "kind": "visible_letter_channel",
+      "key_id": "KEY-17",
+      "letter": "Tzaddi",
+      "attribution": "Aquarius",
+      "letter_class": "simple",
+      "provenance": "master §10; Major Arcana integration proposal VP-01; inherited structural attribution, not scan-certified"
+    },
+    {
+      "id": "PATH-29",
+      "endpoints": [
+        "NET",
+        "MAL"
+      ],
+      "kind": "visible_letter_channel",
+      "key_id": "KEY-18",
+      "letter": "Qoph",
+      "attribution": "Pisces",
+      "letter_class": "simple",
+      "provenance": "master §10; Major Arcana integration proposal VP-01; inherited structural attribution, not scan-certified"
+    },
+    {
+      "id": "PATH-30",
+      "endpoints": [
+        "HOD",
+        "YES"
+      ],
+      "kind": "visible_letter_channel",
+      "key_id": "KEY-19",
+      "letter": "Resh",
+      "attribution": "Sun",
+      "letter_class": "double",
+      "provenance": "master §10; Major Arcana integration proposal VP-01; inherited structural attribution, not scan-certified"
+    },
+    {
+      "id": "PATH-31",
+      "endpoints": [
+        "HOD",
+        "MAL"
+      ],
+      "kind": "visible_letter_channel",
+      "key_id": "KEY-20",
+      "letter": "Shin",
+      "attribution": "Fire",
+      "letter_class": "mother",
+      "provenance": "master §10; Major Arcana integration proposal VP-01; inherited structural attribution, not scan-certified"
+    },
+    {
+      "id": "PATH-32",
+      "endpoints": [
+        "YES",
+        "MAL"
+      ],
+      "kind": "visible_letter_channel",
+      "key_id": "KEY-21",
+      "letter": "Tav",
+      "attribution": "Saturn",
+      "letter_class": "double",
+      "provenance": "master §10; Major Arcana integration proposal VP-01; inherited structural attribution, not scan-certified"
+    },
+    {
+      "id": "HP-01",
+      "endpoints": [
+        "KET",
+        "CHE"
+      ],
+      "kind": "supplementary_hidden",
+      "relative_length": "sqrt(3)",
+      "key_id": null,
+      "interpretation": null,
+      "interpretation_status": "no specific interpretation imported in this pilot"
+    },
+    {
+      "id": "HP-02",
+      "endpoints": [
+        "KET",
+        "GEB"
+      ],
+      "kind": "supplementary_hidden",
+      "relative_length": "sqrt(3)",
+      "key_id": null,
+      "interpretation": null,
+      "interpretation_status": "no specific interpretation imported in this pilot"
+    },
+    {
+      "id": "HP-03",
+      "endpoints": [
+        "CHE",
+        "YES"
+      ],
+      "kind": "supplementary_hidden",
+      "relative_length": "sqrt(3)",
+      "key_id": null,
+      "interpretation": "Shared formative triangle at Yesod with HP-04 and PATH-19",
+      "interpretation_status": "branch_reported_HPX-01–03; no Steiner identification"
+    },
+    {
+      "id": "HP-04",
+      "endpoints": [
+        "GEB",
+        "YES"
+      ],
+      "kind": "supplementary_hidden",
+      "relative_length": "sqrt(3)",
+      "key_id": null,
+      "interpretation": "Shared formative triangle at Yesod with HP-03 and PATH-19",
+      "interpretation_status": "branch_reported_HPX-01–03; no Steiner identification"
+    },
+    {
+      "id": "HP-05",
+      "endpoints": [
+        "CHO",
+        "GEB"
+      ],
+      "kind": "supplementary_hidden",
+      "relative_length": "2",
+      "key_id": null,
+      "interpretation": "Life-force expressed as mental volition; Gimel family",
+      "interpretation_status": "branch_reported_HPX-01–03; no Steiner identification"
+    },
+    {
+      "id": "HP-06",
+      "endpoints": [
+        "BIN",
+        "CHE"
+      ],
+      "kind": "supplementary_hidden",
+      "relative_length": "2",
+      "key_id": null,
+      "interpretation": "Reciprocal limitation and expansion; Gimel family",
+      "interpretation_status": "branch_reported_HPX-01–03; no Steiner identification"
+    },
+    {
+      "id": "HP-07",
+      "endpoints": [
+        "KET",
+        "NET"
+      ],
+      "kind": "supplementary_hidden",
+      "relative_length": "sqrt(7)",
+      "key_id": null,
+      "interpretation": null,
+      "interpretation_status": "no specific interpretation imported in this pilot"
+    },
+    {
+      "id": "HP-08",
+      "endpoints": [
+        "KET",
+        "HOD"
+      ],
+      "kind": "supplementary_hidden",
+      "relative_length": "sqrt(7)",
+      "key_id": null,
+      "interpretation": null,
+      "interpretation_status": "no specific interpretation imported in this pilot"
+    },
+    {
+      "id": "HP-09",
+      "endpoints": [
+        "CHO",
+        "HOD"
+      ],
+      "kind": "supplementary_hidden",
+      "relative_length": "sqrt(7)",
+      "key_id": null,
+      "interpretation": null,
+      "interpretation_status": "no specific interpretation imported in this pilot"
+    },
+    {
+      "id": "HP-10",
+      "endpoints": [
+        "CHO",
+        "YES"
+      ],
+      "kind": "supplementary_hidden",
+      "relative_length": "sqrt(7)",
+      "key_id": null,
+      "interpretation": "Convergence of formative influences at Yesod with HP-12",
+      "interpretation_status": "branch_reported_HPX-01–03; no Steiner identification"
+    },
+    {
+      "id": "HP-11",
+      "endpoints": [
+        "BIN",
+        "NET"
+      ],
+      "kind": "supplementary_hidden",
+      "relative_length": "sqrt(7)",
+      "key_id": null,
+      "interpretation": null,
+      "interpretation_status": "no specific interpretation imported in this pilot"
+    },
+    {
+      "id": "HP-12",
+      "endpoints": [
+        "BIN",
+        "YES"
+      ],
+      "kind": "supplementary_hidden",
+      "relative_length": "sqrt(7)",
+      "key_id": null,
+      "interpretation": "Convergence of formative influences at Yesod with HP-10",
+      "interpretation_status": "branch_reported_HPX-01–03; no Steiner identification"
+    },
+    {
+      "id": "HP-13",
+      "endpoints": [
+        "CHE",
+        "MAL"
+      ],
+      "kind": "supplementary_hidden",
+      "relative_length": "sqrt(7)",
+      "key_id": null,
+      "interpretation": null,
+      "interpretation_status": "no specific interpretation imported in this pilot"
+    },
+    {
+      "id": "HP-14",
+      "endpoints": [
+        "GEB",
+        "MAL"
+      ],
+      "kind": "supplementary_hidden",
+      "relative_length": "sqrt(7)",
+      "key_id": null,
+      "interpretation": null,
+      "interpretation_status": "no specific interpretation imported in this pilot"
+    },
+    {
+      "id": "HP-15",
+      "endpoints": [
+        "CHO",
+        "MAL"
+      ],
+      "kind": "supplementary_hidden",
+      "relative_length": "sqrt(13)",
+      "key_id": null,
+      "interpretation": null,
+      "interpretation_status": "no specific interpretation imported in this pilot"
+    },
+    {
+      "id": "HP-16",
+      "endpoints": [
+        "BIN",
+        "MAL"
+      ],
+      "kind": "supplementary_hidden",
+      "relative_length": "sqrt(13)",
+      "key_id": null,
+      "interpretation": null,
+      "interpretation_status": "no specific interpretation imported in this pilot"
+    }
+  ],
+  "cards": [
+    {
+      "id": "KEY-00",
+      "kind": "major",
+      "title": "The Fool",
+      "path_id": "PATH-11",
+      "steiner_identity": null
+    },
+    {
+      "id": "KEY-01",
+      "kind": "major",
+      "title": "The Magician",
+      "path_id": "PATH-12",
+      "steiner_identity": null
+    },
+    {
+      "id": "KEY-02",
+      "kind": "major",
+      "title": "The High Priestess",
+      "path_id": "PATH-13",
+      "steiner_identity": null
+    },
+    {
+      "id": "KEY-03",
+      "kind": "major",
+      "title": "The Empress",
+      "path_id": "PATH-14",
+      "steiner_identity": null
+    },
+    {
+      "id": "KEY-04",
+      "kind": "major",
+      "title": "The Emperor",
+      "path_id": "PATH-15",
+      "steiner_identity": null
+    },
+    {
+      "id": "KEY-05",
+      "kind": "major",
+      "title": "The Hierophant",
+      "path_id": "PATH-16",
+      "steiner_identity": null
+    },
+    {
+      "id": "KEY-06",
+      "kind": "major",
+      "title": "The Lovers",
+      "path_id": "PATH-17",
+      "steiner_identity": null
+    },
+    {
+      "id": "KEY-07",
+      "kind": "major",
+      "title": "The Chariot",
+      "path_id": "PATH-18",
+      "steiner_identity": null
+    },
+    {
+      "id": "KEY-08",
+      "kind": "major",
+      "title": "Strength",
+      "path_id": "PATH-19",
+      "steiner_identity": null
+    },
+    {
+      "id": "KEY-09",
+      "kind": "major",
+      "title": "The Hermit",
+      "path_id": "PATH-20",
+      "steiner_identity": null
+    },
+    {
+      "id": "KEY-10",
+      "kind": "major",
+      "title": "Wheel of Fortune",
+      "path_id": "PATH-21",
+      "steiner_identity": null
+    },
+    {
+      "id": "KEY-11",
+      "kind": "major",
+      "title": "Justice",
+      "path_id": "PATH-22",
+      "steiner_identity": null
+    },
+    {
+      "id": "KEY-12",
+      "kind": "major",
+      "title": "The Hanged Man",
+      "path_id": "PATH-23",
+      "steiner_identity": null
+    },
+    {
+      "id": "KEY-13",
+      "kind": "major",
+      "title": "Death",
+      "path_id": "PATH-24",
+      "steiner_identity": null
+    },
+    {
+      "id": "KEY-14",
+      "kind": "major",
+      "title": "Temperance",
+      "path_id": "PATH-25",
+      "steiner_identity": null
+    },
+    {
+      "id": "KEY-15",
+      "kind": "major",
+      "title": "The Devil",
+      "path_id": "PATH-26",
+      "steiner_identity": null
+    },
+    {
+      "id": "KEY-16",
+      "kind": "major",
+      "title": "The Tower",
+      "path_id": "PATH-27",
+      "steiner_identity": null
+    },
+    {
+      "id": "KEY-17",
+      "kind": "major",
+      "title": "The Star",
+      "path_id": "PATH-28",
+      "steiner_identity": null
+    },
+    {
+      "id": "KEY-18",
+      "kind": "major",
+      "title": "The Moon",
+      "path_id": "PATH-29",
+      "steiner_identity": null
+    },
+    {
+      "id": "KEY-19",
+      "kind": "major",
+      "title": "The Sun",
+      "path_id": "PATH-30",
+      "steiner_identity": null
+    },
+    {
+      "id": "KEY-20",
+      "kind": "major",
+      "title": "Judgement",
+      "path_id": "PATH-31",
+      "steiner_identity": null
+    },
+    {
+      "id": "KEY-21",
+      "kind": "major",
+      "title": "The World",
+      "path_id": "PATH-32",
+      "steiner_identity": null
+    },
+    {
+      "id": "MA-WA-01",
+      "kind": "numbered_minor",
+      "rank": 1,
+      "node": "KET",
+      "world": "ATZ",
+      "suit": "Wands",
+      "decanate_status": "not_applicable_ace",
+      "steiner_identity": null
+    },
+    {
+      "id": "MA-WA-02",
+      "kind": "numbered_minor",
+      "rank": 2,
+      "node": "CHO",
+      "world": "ATZ",
+      "suit": "Wands",
+      "decanate_status": "BOTA branch ledger pending import; Steiner decanate unassigned",
+      "steiner_identity": null
+    },
+    {
+      "id": "MA-WA-03",
+      "kind": "numbered_minor",
+      "rank": 3,
+      "node": "BIN",
+      "world": "ATZ",
+      "suit": "Wands",
+      "decanate_status": "BOTA branch ledger pending import; Steiner decanate unassigned",
+      "steiner_identity": null
+    },
+    {
+      "id": "MA-WA-04",
+      "kind": "numbered_minor",
+      "rank": 4,
+      "node": "CHE",
+      "world": "ATZ",
+      "suit": "Wands",
+      "decanate_status": "BOTA branch ledger pending import; Steiner decanate unassigned",
+      "steiner_identity": null
+    },
+    {
+      "id": "MA-WA-05",
+      "kind": "numbered_minor",
+      "rank": 5,
+      "node": "GEB",
+      "world": "ATZ",
+      "suit": "Wands",
+      "decanate_status": "BOTA branch ledger pending import; Steiner decanate unassigned",
+      "steiner_identity": null
+    },
+    {
+      "id": "MA-WA-06",
+      "kind": "numbered_minor",
+      "rank": 6,
+      "node": "TIP",
+      "world": "ATZ",
+      "suit": "Wands",
+      "decanate_status": "BOTA branch ledger pending import; Steiner decanate unassigned",
+      "steiner_identity": null
+    },
+    {
+      "id": "MA-WA-07",
+      "kind": "numbered_minor",
+      "rank": 7,
+      "node": "NET",
+      "world": "ATZ",
+      "suit": "Wands",
+      "decanate_status": "BOTA branch ledger pending import; Steiner decanate unassigned",
+      "steiner_identity": null
+    },
+    {
+      "id": "MA-WA-08",
+      "kind": "numbered_minor",
+      "rank": 8,
+      "node": "HOD",
+      "world": "ATZ",
+      "suit": "Wands",
+      "decanate_status": "BOTA branch ledger pending import; Steiner decanate unassigned",
+      "steiner_identity": null
+    },
+    {
+      "id": "MA-WA-09",
+      "kind": "numbered_minor",
+      "rank": 9,
+      "node": "YES",
+      "world": "ATZ",
+      "suit": "Wands",
+      "decanate_status": "BOTA branch ledger pending import; Steiner decanate unassigned",
+      "steiner_identity": null
+    },
+    {
+      "id": "MA-WA-10",
+      "kind": "numbered_minor",
+      "rank": 10,
+      "node": "MAL",
+      "world": "ATZ",
+      "suit": "Wands",
+      "decanate_status": "BOTA branch ledger pending import; Steiner decanate unassigned",
+      "steiner_identity": null
+    },
+    {
+      "id": "MA-CU-01",
+      "kind": "numbered_minor",
+      "rank": 1,
+      "node": "KET",
+      "world": "BRI",
+      "suit": "Cups",
+      "decanate_status": "not_applicable_ace",
+      "steiner_identity": null
+    },
+    {
+      "id": "MA-CU-02",
+      "kind": "numbered_minor",
+      "rank": 2,
+      "node": "CHO",
+      "world": "BRI",
+      "suit": "Cups",
+      "decanate_status": "BOTA branch ledger pending import; Steiner decanate unassigned",
+      "steiner_identity": null
+    },
+    {
+      "id": "MA-CU-03",
+      "kind": "numbered_minor",
+      "rank": 3,
+      "node": "BIN",
+      "world": "BRI",
+      "suit": "Cups",
+      "decanate_status": "BOTA branch ledger pending import; Steiner decanate unassigned",
+      "steiner_identity": null
+    },
+    {
+      "id": "MA-CU-04",
+      "kind": "numbered_minor",
+      "rank": 4,
+      "node": "CHE",
+      "world": "BRI",
+      "suit": "Cups",
+      "decanate_status": "BOTA branch ledger pending import; Steiner decanate unassigned",
+      "steiner_identity": null
+    },
+    {
+      "id": "MA-CU-05",
+      "kind": "numbered_minor",
+      "rank": 5,
+      "node": "GEB",
+      "world": "BRI",
+      "suit": "Cups",
+      "decanate_status": "BOTA branch ledger pending import; Steiner decanate unassigned",
+      "steiner_identity": null
+    },
+    {
+      "id": "MA-CU-06",
+      "kind": "numbered_minor",
+      "rank": 6,
+      "node": "TIP",
+      "world": "BRI",
+      "suit": "Cups",
+      "decanate_status": "BOTA branch ledger pending import; Steiner decanate unassigned",
+      "steiner_identity": null
+    },
+    {
+      "id": "MA-CU-07",
+      "kind": "numbered_minor",
+      "rank": 7,
+      "node": "NET",
+      "world": "BRI",
+      "suit": "Cups",
+      "decanate_status": "BOTA branch ledger pending import; Steiner decanate unassigned",
+      "steiner_identity": null
+    },
+    {
+      "id": "MA-CU-08",
+      "kind": "numbered_minor",
+      "rank": 8,
+      "node": "HOD",
+      "world": "BRI",
+      "suit": "Cups",
+      "decanate_status": "BOTA branch ledger pending import; Steiner decanate unassigned",
+      "steiner_identity": null
+    },
+    {
+      "id": "MA-CU-09",
+      "kind": "numbered_minor",
+      "rank": 9,
+      "node": "YES",
+      "world": "BRI",
+      "suit": "Cups",
+      "decanate_status": "BOTA branch ledger pending import; Steiner decanate unassigned",
+      "steiner_identity": null
+    },
+    {
+      "id": "MA-CU-10",
+      "kind": "numbered_minor",
+      "rank": 10,
+      "node": "MAL",
+      "world": "BRI",
+      "suit": "Cups",
+      "decanate_status": "BOTA branch ledger pending import; Steiner decanate unassigned",
+      "steiner_identity": null
+    },
+    {
+      "id": "MA-SW-01",
+      "kind": "numbered_minor",
+      "rank": 1,
+      "node": "KET",
+      "world": "YET",
+      "suit": "Swords",
+      "decanate_status": "not_applicable_ace",
+      "steiner_identity": null
+    },
+    {
+      "id": "MA-SW-02",
+      "kind": "numbered_minor",
+      "rank": 2,
+      "node": "CHO",
+      "world": "YET",
+      "suit": "Swords",
+      "decanate_status": "BOTA branch ledger pending import; Steiner decanate unassigned",
+      "steiner_identity": null
+    },
+    {
+      "id": "MA-SW-03",
+      "kind": "numbered_minor",
+      "rank": 3,
+      "node": "BIN",
+      "world": "YET",
+      "suit": "Swords",
+      "decanate_status": "BOTA branch ledger pending import; Steiner decanate unassigned",
+      "steiner_identity": null
+    },
+    {
+      "id": "MA-SW-04",
+      "kind": "numbered_minor",
+      "rank": 4,
+      "node": "CHE",
+      "world": "YET",
+      "suit": "Swords",
+      "decanate_status": "BOTA branch ledger pending import; Steiner decanate unassigned",
+      "steiner_identity": null
+    },
+    {
+      "id": "MA-SW-05",
+      "kind": "numbered_minor",
+      "rank": 5,
+      "node": "GEB",
+      "world": "YET",
+      "suit": "Swords",
+      "decanate_status": "BOTA branch ledger pending import; Steiner decanate unassigned",
+      "steiner_identity": null
+    },
+    {
+      "id": "MA-SW-06",
+      "kind": "numbered_minor",
+      "rank": 6,
+      "node": "TIP",
+      "world": "YET",
+      "suit": "Swords",
+      "decanate_status": "BOTA branch ledger pending import; Steiner decanate unassigned",
+      "steiner_identity": null
+    },
+    {
+      "id": "MA-SW-07",
+      "kind": "numbered_minor",
+      "rank": 7,
+      "node": "NET",
+      "world": "YET",
+      "suit": "Swords",
+      "decanate_status": "BOTA branch ledger pending import; Steiner decanate unassigned",
+      "steiner_identity": null
+    },
+    {
+      "id": "MA-SW-08",
+      "kind": "numbered_minor",
+      "rank": 8,
+      "node": "HOD",
+      "world": "YET",
+      "suit": "Swords",
+      "decanate_status": "BOTA branch ledger pending import; Steiner decanate unassigned",
+      "steiner_identity": null
+    },
+    {
+      "id": "MA-SW-09",
+      "kind": "numbered_minor",
+      "rank": 9,
+      "node": "YES",
+      "world": "YET",
+      "suit": "Swords",
+      "decanate_status": "BOTA branch ledger pending import; Steiner decanate unassigned",
+      "steiner_identity": null
+    },
+    {
+      "id": "MA-SW-10",
+      "kind": "numbered_minor",
+      "rank": 10,
+      "node": "MAL",
+      "world": "YET",
+      "suit": "Swords",
+      "decanate_status": "BOTA branch ledger pending import; Steiner decanate unassigned",
+      "steiner_identity": null
+    },
+    {
+      "id": "MA-PE-01",
+      "kind": "numbered_minor",
+      "rank": 1,
+      "node": "KET",
+      "world": "ASS",
+      "suit": "Pentacles",
+      "decanate_status": "not_applicable_ace",
+      "steiner_identity": null
+    },
+    {
+      "id": "MA-PE-02",
+      "kind": "numbered_minor",
+      "rank": 2,
+      "node": "CHO",
+      "world": "ASS",
+      "suit": "Pentacles",
+      "decanate_status": "BOTA branch ledger pending import; Steiner decanate unassigned",
+      "steiner_identity": null
+    },
+    {
+      "id": "MA-PE-03",
+      "kind": "numbered_minor",
+      "rank": 3,
+      "node": "BIN",
+      "world": "ASS",
+      "suit": "Pentacles",
+      "decanate_status": "BOTA branch ledger pending import; Steiner decanate unassigned",
+      "steiner_identity": null
+    },
+    {
+      "id": "MA-PE-04",
+      "kind": "numbered_minor",
+      "rank": 4,
+      "node": "CHE",
+      "world": "ASS",
+      "suit": "Pentacles",
+      "decanate_status": "BOTA branch ledger pending import; Steiner decanate unassigned",
+      "steiner_identity": null
+    },
+    {
+      "id": "MA-PE-05",
+      "kind": "numbered_minor",
+      "rank": 5,
+      "node": "GEB",
+      "world": "ASS",
+      "suit": "Pentacles",
+      "decanate_status": "BOTA branch ledger pending import; Steiner decanate unassigned",
+      "steiner_identity": null
+    },
+    {
+      "id": "MA-PE-06",
+      "kind": "numbered_minor",
+      "rank": 6,
+      "node": "TIP",
+      "world": "ASS",
+      "suit": "Pentacles",
+      "decanate_status": "BOTA branch ledger pending import; Steiner decanate unassigned",
+      "steiner_identity": null
+    },
+    {
+      "id": "MA-PE-07",
+      "kind": "numbered_minor",
+      "rank": 7,
+      "node": "NET",
+      "world": "ASS",
+      "suit": "Pentacles",
+      "decanate_status": "BOTA branch ledger pending import; Steiner decanate unassigned",
+      "steiner_identity": null
+    },
+    {
+      "id": "MA-PE-08",
+      "kind": "numbered_minor",
+      "rank": 8,
+      "node": "HOD",
+      "world": "ASS",
+      "suit": "Pentacles",
+      "decanate_status": "BOTA branch ledger pending import; Steiner decanate unassigned",
+      "steiner_identity": null
+    },
+    {
+      "id": "MA-PE-09",
+      "kind": "numbered_minor",
+      "rank": 9,
+      "node": "YES",
+      "world": "ASS",
+      "suit": "Pentacles",
+      "decanate_status": "BOTA branch ledger pending import; Steiner decanate unassigned",
+      "steiner_identity": null
+    },
+    {
+      "id": "MA-PE-10",
+      "kind": "numbered_minor",
+      "rank": 10,
+      "node": "MAL",
+      "world": "ASS",
+      "suit": "Pentacles",
+      "decanate_status": "BOTA branch ledger pending import; Steiner decanate unassigned",
+      "steiner_identity": null
+    },
+    {
+      "id": "CT-WA-KI",
+      "kind": "court",
+      "rank": "King",
+      "node": "CHO",
+      "world": "ATZ",
+      "suit": "Wands",
+      "id_status": "provisional local rank codes except inherited confirmed examples; reconcile branch ledger before merge",
+      "steiner_identity": null
+    },
+    {
+      "id": "CT-WA-QU",
+      "kind": "court",
+      "rank": "Queen",
+      "node": "BIN",
+      "world": "ATZ",
+      "suit": "Wands",
+      "id_status": "provisional local rank codes except inherited confirmed examples; reconcile branch ledger before merge",
+      "steiner_identity": null
+    },
+    {
+      "id": "CT-WA-KN",
+      "kind": "court",
+      "rank": "Knight",
+      "node": "TIP",
+      "world": "ATZ",
+      "suit": "Wands",
+      "id_status": "provisional local rank codes except inherited confirmed examples; reconcile branch ledger before merge",
+      "steiner_identity": null
+    },
+    {
+      "id": "CT-WA-PA",
+      "kind": "court",
+      "rank": "Page",
+      "node": "MAL",
+      "world": "ATZ",
+      "suit": "Wands",
+      "id_status": "provisional local rank codes except inherited confirmed examples; reconcile branch ledger before merge",
+      "steiner_identity": null
+    },
+    {
+      "id": "CT-CU-KI",
+      "kind": "court",
+      "rank": "King",
+      "node": "CHO",
+      "world": "BRI",
+      "suit": "Cups",
+      "id_status": "provisional local rank codes except inherited confirmed examples; reconcile branch ledger before merge",
+      "steiner_identity": null
+    },
+    {
+      "id": "CT-CU-QU",
+      "kind": "court",
+      "rank": "Queen",
+      "node": "BIN",
+      "world": "BRI",
+      "suit": "Cups",
+      "id_status": "provisional local rank codes except inherited confirmed examples; reconcile branch ledger before merge",
+      "steiner_identity": null
+    },
+    {
+      "id": "CT-CU-KN",
+      "kind": "court",
+      "rank": "Knight",
+      "node": "TIP",
+      "world": "BRI",
+      "suit": "Cups",
+      "id_status": "provisional local rank codes except inherited confirmed examples; reconcile branch ledger before merge",
+      "steiner_identity": null
+    },
+    {
+      "id": "CT-CU-PA",
+      "kind": "court",
+      "rank": "Page",
+      "node": "MAL",
+      "world": "BRI",
+      "suit": "Cups",
+      "id_status": "provisional local rank codes except inherited confirmed examples; reconcile branch ledger before merge",
+      "steiner_identity": null
+    },
+    {
+      "id": "CT-SW-KI",
+      "kind": "court",
+      "rank": "King",
+      "node": "CHO",
+      "world": "YET",
+      "suit": "Swords",
+      "id_status": "provisional local rank codes except inherited confirmed examples; reconcile branch ledger before merge",
+      "steiner_identity": null
+    },
+    {
+      "id": "CT-SW-QU",
+      "kind": "court",
+      "rank": "Queen",
+      "node": "BIN",
+      "world": "YET",
+      "suit": "Swords",
+      "id_status": "provisional local rank codes except inherited confirmed examples; reconcile branch ledger before merge",
+      "steiner_identity": null
+    },
+    {
+      "id": "CT-SW-KN",
+      "kind": "court",
+      "rank": "Knight",
+      "node": "TIP",
+      "world": "YET",
+      "suit": "Swords",
+      "id_status": "provisional local rank codes except inherited confirmed examples; reconcile branch ledger before merge",
+      "steiner_identity": null
+    },
+    {
+      "id": "CT-SW-PA",
+      "kind": "court",
+      "rank": "Page",
+      "node": "MAL",
+      "world": "YET",
+      "suit": "Swords",
+      "id_status": "provisional local rank codes except inherited confirmed examples; reconcile branch ledger before merge",
+      "steiner_identity": null
+    },
+    {
+      "id": "CT-PE-KI",
+      "kind": "court",
+      "rank": "King",
+      "node": "CHO",
+      "world": "ASS",
+      "suit": "Pentacles",
+      "id_status": "provisional local rank codes except inherited confirmed examples; reconcile branch ledger before merge",
+      "steiner_identity": null
+    },
+    {
+      "id": "CT-PE-QU",
+      "kind": "court",
+      "rank": "Queen",
+      "node": "BIN",
+      "world": "ASS",
+      "suit": "Pentacles",
+      "id_status": "provisional local rank codes except inherited confirmed examples; reconcile branch ledger before merge",
+      "steiner_identity": null
+    },
+    {
+      "id": "CT-PE-KN",
+      "kind": "court",
+      "rank": "Knight",
+      "node": "TIP",
+      "world": "ASS",
+      "suit": "Pentacles",
+      "id_status": "provisional local rank codes except inherited confirmed examples; reconcile branch ledger before merge",
+      "steiner_identity": null
+    },
+    {
+      "id": "CT-PE-PA",
+      "kind": "court",
+      "rank": "Page",
+      "node": "MAL",
+      "world": "ASS",
+      "suit": "Pentacles",
+      "id_status": "provisional local rank codes except inherited confirmed examples; reconcile branch ledger before merge",
+      "steiner_identity": null
+    }
+  ],
+  "contextual_intersections": [
+    {
+      "id": "DAATH-UPPER",
+      "kind": "crossing",
+      "incident_edges": [
+        "PATH-14",
+        "PATH-13"
+      ],
+      "provenance": "HPX-04, hidden-path v0.7 integration proposal; branch reported, original diagram not checked",
+      "is_canonical_node": false,
+      "is_tree_edge": false
+    },
+    {
+      "id": "DAATH-LOWER",
+      "kind": "crossing",
+      "incident_edges": [
+        "HP-05",
+        "HP-06",
+        "PATH-13"
+      ],
+      "provenance": "HPX-04, hidden-path v0.7 integration proposal; branch reported, original diagram not checked",
+      "is_canonical_node": false,
+      "is_tree_edge": false
+    },
+    {
+      "id": "DAATH-PEH-SAMEKH",
+      "kind": "crossing",
+      "incident_edges": [
+        "PATH-27",
+        "PATH-25"
+      ],
+      "provenance": "HPX-04, hidden-path v0.7 integration proposal; branch reported, original diagram not checked",
+      "is_canonical_node": false,
+      "is_tree_edge": false
+    },
+    {
+      "id": "DAATH-TETH-GIMEL",
+      "kind": "crossing",
+      "incident_edges": [
+        "PATH-19",
+        "PATH-13"
+      ],
+      "provenance": "HPX-04, hidden-path v0.7 integration proposal; branch reported, original diagram not checked",
+      "is_canonical_node": false,
+      "is_tree_edge": false
+    },
+    {
+      "id": "DAATH-YESOD-CONTEXT",
+      "kind": "contextual_attribution",
+      "node": "YES",
+      "provenance": "HPX-04, hidden-path v0.7 integration proposal; branch reported, original diagram not checked",
+      "is_canonical_node": false,
+      "is_tree_edge": false
+    },
+    {
+      "id": "DAATH-TIPHARETH-CONTEXT",
+      "kind": "contextual_attribution",
+      "node": "TIP",
+      "provenance": "HPX-04, hidden-path v0.7 integration proposal; branch reported, original diagram not checked",
+      "is_canonical_node": false,
+      "is_tree_edge": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "G102",
+      "ga": "GA 102",
+      "date_or_chapter": "1908-02-15",
+      "url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080215p01.html",
+      "locator": "§§23–25",
+      "kind": "lecture",
+      "verification": "fresh"
+    },
+    {
+      "id": "G110",
+      "ga": "GA 110",
+      "date_or_chapter": "1909-04-13",
+      "url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090413a01.html",
+      "locator": "§§4–5",
+      "kind": "lecture",
+      "verification": "fresh"
+    },
+    {
+      "id": "G11A",
+      "ga": "GA 11",
+      "date_or_chapter": "Our Atlantean Ancestors",
+      "url": "https://rsarchive.org/Books/GA011/English/SOL/GA011_c03.html",
+      "locator": "§§9–22",
+      "kind": "authored essay",
+      "verification": "fresh"
+    },
+    {
+      "id": "G11L",
+      "ga": "GA 11",
+      "date_or_chapter": "The Lemurian Era",
+      "url": "https://rsarchive.org/Books/GA011/English/TPS1911/GA011_c04.html",
+      "locator": "§2",
+      "kind": "authored essay",
+      "verification": "fresh"
+    },
+    {
+      "id": "G136",
+      "ga": "GA 136",
+      "date_or_chapter": "1912-04-08",
+      "url": "https://rsarchive.org/Lectures/GA136/English/SOL/19120408p01.html",
+      "locator": "§§1,12–14",
+      "kind": "lecture",
+      "verification": "fresh"
+    },
+    {
+      "id": "G136B",
+      "ga": "GA 136",
+      "date_or_chapter": "1912-04-10",
+      "url": "https://rsarchive.org/Lectures/GA136/Compare_07.php",
+      "locator": "§§5–6",
+      "kind": "lecture, bilingual witness",
+      "verification": "fresh"
+    },
+    {
+      "id": "G237",
+      "ga": "GA 237",
+      "date_or_chapter": "1924-08-08",
+      "url": "https://rsarchive.org/Lectures/GA237/English/RSP1977/19240808p01.html",
+      "locator": "§§12–16",
+      "kind": "lecture",
+      "verification": "fresh"
+    },
+    {
+      "id": "G13",
+      "ga": "GA 13",
+      "date_or_chapter": "Chapter VI",
+      "url": "https://rsarchive.org/Books/GA013/English/RSP1969/GA013_c06.html",
+      "locator": "§§6,12–13",
+      "kind": "authored book",
+      "verification": "fresh"
+    },
+    {
+      "id": "G353",
+      "ga": "GA 353",
+      "date_or_chapter": "1924-05-10",
+      "url": "https://rsarchive.org/Lectures/GA353/English/SOL/19240510.html",
+      "locator": "§§19–21",
+      "kind": "lecture",
+      "verification": "inherited SYN-11/SYN-19"
+    },
+    {
+      "id": "G227",
+      "ga": "GA 227",
+      "date_or_chapter": "1923-08-28",
+      "url": "https://rsarchive.org/Lectures/GA227/English/RSP1966/19230828a01.html",
+      "locator": "§30",
+      "kind": "lecture",
+      "verification": "inherited SYN-37"
+    },
+    {
+      "id": "G231",
+      "ga": "GA 231",
+      "date_or_chapter": "1923-11-17",
+      "url": "https://rsarchive.org/Lectures/GA231/English/SOL/19231117p01.html",
+      "locator": "§§12–17",
+      "kind": "lecture",
+      "verification": "inherited SYN-10"
+    },
+    {
+      "id": "G233",
+      "ga": "GA 233a",
+      "date_or_chapter": "1924-04-21",
+      "url": "https://rsarchive.org/Lectures/GA233a/English/SOL/19240421p01.html",
+      "locator": "§§16–25,29",
+      "kind": "lecture",
+      "verification": "inherited SYN-35"
+    },
+    {
+      "id": "G119",
+      "ga": "GA 119",
+      "date_or_chapter": "1910-03-26",
+      "url": "https://rsarchive.org/Lectures/GA119/English/SOL/19100326p01.html",
+      "locator": "§§13–16",
+      "kind": "lecture",
+      "verification": "full English page, selected paragraphs",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "G219A",
+      "ga": "GA 219",
+      "date_or_chapter": "1922-11-26",
+      "url": "https://rsarchive.org/Lectures/GA219/English/AP1963/19221126p01.html",
+      "locator": "§§29–35",
+      "kind": "lecture",
+      "verification": "full English page, selected paragraphs",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "G219B",
+      "ga": "GA 219",
+      "date_or_chapter": "1922-12-03",
+      "url": "https://rsarchive.org/Lectures/GA219/English/AP1963/19221203p01.html",
+      "locator": "discussion of lunar and Saturn groups and irregular beings",
+      "kind": "lecture",
+      "verification": "full English page, selected paragraphs",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "G95A",
+      "ga": "GA 95",
+      "date_or_chapter": "1906-08-25",
+      "url": "https://rsarchive.org/Lectures/GA095/English/SOL/19060825p01.html",
+      "locator": "§§1–3",
+      "kind": "lecture",
+      "verification": "full English page, selected paragraphs",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "G95B",
+      "ga": "GA 95",
+      "date_or_chapter": "1906-08-26",
+      "url": "https://rsarchive.org/Lectures/GA095/English/SOL/19060826p01.html",
+      "locator": "§§12–15",
+      "kind": "lecture",
+      "verification": "full English page, selected paragraphs",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "G233B",
+      "ga": "GA 233a",
+      "date_or_chapter": "1924-04-20",
+      "url": "https://rsarchive.org/Lectures/GA233a/English/SOL/19240420p01.html",
+      "locator": "§§12–20",
+      "kind": "lecture",
+      "verification": "full English page, selected paragraphs",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "G230A",
+      "ga": "GA 230",
+      "date_or_chapter": "1923-10-20",
+      "url": "https://rsarchive.org/Lectures/GA230/English/SOL/19231020p01.html",
+      "locator": "§§3–10",
+      "kind": "lecture",
+      "verification": "full English page, selected paragraphs",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "G230B",
+      "ga": "GA 230",
+      "date_or_chapter": "1923-11-02",
+      "url": "https://rsarchive.org/Lectures/GA230/English/SOL/19231102p01.html",
+      "locator": "§§17–21",
+      "kind": "lecture",
+      "verification": "full English page, selected paragraphs",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "G136C",
+      "ga": "GA 136",
+      "date_or_chapter": "1912-04-07",
+      "url": "https://rsarchive.org/Lectures/GA136/English/SOL/19120407p01.html",
+      "locator": "§§6–9,11–12",
+      "kind": "lecture",
+      "verification": "full English page, selected paragraphs",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "G136D",
+      "ga": "GA 136",
+      "date_or_chapter": "1912-04-14",
+      "url": "https://rsarchive.org/Lectures/GA136/English/SOL/19120414p01.html",
+      "locator": "§§1–3",
+      "kind": "lecture",
+      "verification": "full English page, selected paragraphs",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "G10",
+      "ga": "GA 10",
+      "date_or_chapter": "The Splitting of the Human Personality",
+      "url": "https://rsarchive.org/Books/GA010/English/RSPC1947/GA010_c08.html",
+      "locator": "§6",
+      "kind": "authored book",
+      "verification": "indexed primary excerpt",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "G13V",
+      "ga": "GA 13",
+      "date_or_chapter": "Chapter V",
+      "url": "https://rsarchive.org/Books/GA013/English/RSP1969/GA013_c05.html",
+      "locator": "§63",
+      "kind": "authored book",
+      "verification": "indexed primary excerpt",
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "G136E",
+      "ga": "GA 136",
+      "date_or_chapter": "1912-04-13",
+      "url": "https://rsarchive.org/Lectures/GA136/English/SOL/19120413p01.html",
+      "locator": "§§1–2, 7–8, 13 (selected paragraphs)",
+      "kind": "lecture",
+      "verification": "fresh selected passage"
+    },
+    {
+      "id": "G4IX",
+      "ga": "GA 4",
+      "date_or_chapter": "Chapter IX",
+      "url": "https://rsarchive.org/Books/GA004/English/RSPI1963/GA004_c09.html",
+      "locator": "§§28–33 (selected paragraphs)",
+      "kind": "authored book",
+      "verification": "fresh selected passage"
+    }
+  ],
+  "local_entities": [
+    {
+      "id": "LT-E001",
+      "label": "Mars beings",
+      "kind": "agent_or_subject",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E002",
+      "label": "sentient soul",
+      "kind": "recipient_or_effect",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E003",
+      "label": "Mercury beings",
+      "kind": "agent_or_subject",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E004",
+      "label": "intellectual soul",
+      "kind": "recipient_or_effect",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E005",
+      "label": "Jupiter beings",
+      "kind": "agent_or_subject",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E006",
+      "label": "consciousness soul",
+      "kind": "recipient_or_effect",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E007",
+      "label": "Venus beings",
+      "kind": "agent_or_subject",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E008",
+      "label": "Spirit Self entering consciousness soul",
+      "kind": "recipient_or_effect",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E009",
+      "label": "etheric body development",
+      "kind": "recipient_or_effect",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E010",
+      "label": "Archai",
+      "kind": "agent_or_subject",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E011",
+      "label": "developmental human stage",
+      "kind": "recipient_or_effect",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E012",
+      "label": "Archangels",
+      "kind": "agent_or_subject",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E013",
+      "label": "Angels",
+      "kind": "agent_or_subject",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E014",
+      "label": "humanity in GA11 account",
+      "kind": "agent_or_subject",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E015",
+      "label": "immediate will and imaginative activity",
+      "kind": "recipient_or_effect",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E016",
+      "label": "sensory recollection and naming",
+      "kind": "recipient_or_effect",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E017",
+      "label": "independent judgment; decline of life-force command",
+      "kind": "recipient_or_effect",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E018",
+      "label": "conceptually formulated laws",
+      "kind": "recipient_or_effect",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E019",
+      "label": "Cherubim",
+      "kind": "agent_or_subject",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E020",
+      "label": "collective planetary movement",
+      "kind": "recipient_or_effect",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E021",
+      "label": "Seraphim",
+      "kind": "agent_or_subject",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E022",
+      "label": "relationships among systems",
+      "kind": "recipient_or_effect",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E023",
+      "label": "Spirits of Form",
+      "kind": "agent_or_subject",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E024",
+      "label": "planetary activity from solar center",
+      "kind": "recipient_or_effect",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E025",
+      "label": "Michael",
+      "kind": "agent_or_subject",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E026",
+      "label": "solar and collective planetary intelligence",
+      "kind": "recipient_or_effect",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E027",
+      "label": "individual I",
+      "kind": "agent_or_subject",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E028",
+      "label": "inherited wisdom into love through knowledge and deeds",
+      "kind": "recipient_or_effect",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E029",
+      "label": "Kether, Chesed, Binah",
+      "kind": "agent_or_subject",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E030",
+      "label": "originating power; freedom; intelligence",
+      "kind": "recipient_or_effect",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E031",
+      "label": "human individuality",
+      "kind": "agent_or_subject",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E032",
+      "label": "Jupiter/Saturn via planetoid domain",
+      "kind": "recipient_or_effect",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E033",
+      "label": "Jupiter and Saturn spheres",
+      "kind": "recipient_or_effect",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E034",
+      "label": "lunar beings",
+      "kind": "agent_or_subject",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E035",
+      "label": "Mars-related speech capacity",
+      "kind": "recipient_or_effect",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E036",
+      "label": "zodiacal directions and planetary movements",
+      "kind": "agent_or_subject",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E037",
+      "label": "spiritual beings and their deeds, respectively",
+      "kind": "recipient_or_effect",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E038",
+      "label": "Moon, Sun and Saturn forces",
+      "kind": "agent_or_subject",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E039",
+      "label": "birth, freedom within life and death",
+      "kind": "recipient_or_effect",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E040",
+      "label": "Sun in cooperation with outer and inner planetary groups",
+      "kind": "agent_or_subject",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E041",
+      "label": "spiritual orientation, Logos and thought into walking, speech, thinking",
+      "kind": "recipient_or_effect",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E042",
+      "label": "transformation of heavenly faculties",
+      "kind": "agent_or_subject",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E043",
+      "label": "loss of immediate cosmic moral orientation",
+      "kind": "recipient_or_effect",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E044",
+      "label": "regular lunar and Saturn planetary groups",
+      "kind": "agent_or_subject",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E045",
+      "label": "opposing directions of embodiment and release",
+      "kind": "recipient_or_effect",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E046",
+      "label": "irregular inner and outer planetary beings",
+      "kind": "agent_or_subject",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E047",
+      "label": "distortion of moral judgment versus enforced morality",
+      "kind": "recipient_or_effect",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E048",
+      "label": "higher astral body",
+      "kind": "agent_or_subject",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E049",
+      "label": "concentrated life fruits",
+      "kind": "recipient_or_effect",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E050",
+      "label": "returning individuality",
+      "kind": "agent_or_subject",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E051",
+      "label": "new astral organization shaped in relation to past forces",
+      "kind": "recipient_or_effect",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E052",
+      "label": "Sun with Mars, Jupiter and Saturn",
+      "kind": "agent_or_subject",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E053",
+      "label": "head organization; eagle motif",
+      "kind": "recipient_or_effect",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E054",
+      "label": "solar activity",
+      "kind": "agent_or_subject",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E055",
+      "label": "rhythmic organization; lion motif",
+      "kind": "recipient_or_effect",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E056",
+      "label": "Sun with Mercury, Venus and Moon",
+      "kind": "agent_or_subject",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E057",
+      "label": "metabolic organization; cow motif",
+      "kind": "recipient_or_effect",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E058",
+      "label": "undines, sylphs, gnomes and fire beings",
+      "kind": "agent_or_subject",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E059",
+      "label": "different activities in seasonal plant development",
+      "kind": "recipient_or_effect",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E060",
+      "label": "first, second and third hierarchies",
+      "kind": "agent_or_subject",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E061",
+      "label": "independent worlds, dependent creations, self-revelation",
+      "kind": "recipient_or_effect",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E062",
+      "label": "spirits of cycles, group souls, nature spirits",
+      "kind": "recipient_or_effect",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E063",
+      "label": "mineral kingdom in Steiner's account",
+      "kind": "agent_or_subject",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E064",
+      "label": "physical body physical; etheric astral; astral lower Devachan; group I higher Devachan",
+      "kind": "recipient_or_effect",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E065",
+      "label": "individual higher consciousness",
+      "kind": "agent_or_subject",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E066",
+      "label": "thinking, feeling and willing",
+      "kind": "recipient_or_effect",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E067",
+      "label": "individual pupil",
+      "kind": "agent_or_subject",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E068",
+      "label": "spiritual beings through Intuition",
+      "kind": "recipient_or_effect",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E069",
+      "label": "Michael and planetary Archangeloi",
+      "kind": "agent_or_subject",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E070",
+      "label": "differentiated planetary intelligences",
+      "kind": "recipient_or_effect",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E071",
+      "label": "planetary Archangeloi under changed coordination",
+      "kind": "agent_or_subject",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E072",
+      "label": "planetary intelligences and Angeloi cooperation",
+      "kind": "recipient_or_effect",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E073",
+      "label": "animal and plant constitutional members",
+      "kind": "agent_or_subject",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E074",
+      "label": "physical, astral and devachanic planes",
+      "kind": "recipient_or_effect",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E075",
+      "label": "descendants of Spirits of Movement and Wisdom",
+      "kind": "agent_or_subject",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E076",
+      "label": "animal and plant group-I respectively",
+      "kind": "recipient_or_effect",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E077",
+      "label": "individual moral intuition",
+      "kind": "agent_or_subject",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    },
+    {
+      "id": "LT-E078",
+      "label": "particular freely motivated deed",
+      "kind": "recipient_or_effect",
+      "scope": "local lexical entity; not canonical equivalence across claims"
+    }
+  ],
+  "claims": [
+    {
+      "id": "LT-R01",
+      "source_id": "G102",
+      "master_id": "SYN-49",
+      "relation": "develops",
+      "context": "Earth evolution",
+      "agent": "Mars beings",
+      "recipient_or_effect": "sentient soul",
+      "locator": "§23",
+      "grade": "S",
+      "comparative_tags": [
+        {
+          "node": "GEB",
+          "grade": "C"
+        }
+      ],
+      "limit": "Not exclusive to Mars; source planet name retained.",
+      "participants": [
+        {
+          "entity_id": "LT-E001",
+          "role": "agent_or_subject"
+        },
+        {
+          "entity_id": "LT-E002",
+          "role": "recipient_or_effect"
+        }
+      ],
+      "source_claim_scope": "source paraphrase; comparative tags separately graded"
+    },
+    {
+      "id": "LT-R02",
+      "source_id": "G102",
+      "master_id": "SYN-49",
+      "relation": "develops",
+      "context": "Earth evolution",
+      "agent": "Mercury beings",
+      "recipient_or_effect": "intellectual soul",
+      "locator": "§23",
+      "grade": "S",
+      "comparative_tags": [
+        {
+          "node": "HOD",
+          "grade": "C"
+        }
+      ],
+      "limit": "Source name, not automatically modern astronomical referent.",
+      "participants": [
+        {
+          "entity_id": "LT-E003",
+          "role": "agent_or_subject"
+        },
+        {
+          "entity_id": "LT-E004",
+          "role": "recipient_or_effect"
+        }
+      ],
+      "source_claim_scope": "source paraphrase; comparative tags separately graded"
+    },
+    {
+      "id": "LT-R03",
+      "source_id": "G102",
+      "master_id": "SYN-49",
+      "relation": "develops",
+      "context": "Earth evolution",
+      "agent": "Jupiter beings",
+      "recipient_or_effect": "consciousness soul",
+      "locator": "§24",
+      "grade": "S",
+      "comparative_tags": [
+        {
+          "node": "CHE",
+          "grade": "C"
+        }
+      ],
+      "limit": "Emergence differs from mature cultural period.",
+      "participants": [
+        {
+          "entity_id": "LT-E005",
+          "role": "agent_or_subject"
+        },
+        {
+          "entity_id": "LT-E006",
+          "role": "recipient_or_effect"
+        }
+      ],
+      "source_claim_scope": "source paraphrase; comparative tags separately graded"
+    },
+    {
+      "id": "LT-R04",
+      "source_id": "G102",
+      "master_id": "SYN-49",
+      "relation": "contributes_to",
+      "context": "Earth evolution",
+      "agent": "Venus beings",
+      "recipient_or_effect": "Spirit Self entering consciousness soul",
+      "locator": "§24",
+      "grade": "S",
+      "comparative_tags": [
+        {
+          "node": "NET",
+          "grade": "C"
+        }
+      ],
+      "limit": "No exclusive Venus–Manas identity.",
+      "participants": [
+        {
+          "entity_id": "LT-E007",
+          "role": "agent_or_subject"
+        },
+        {
+          "entity_id": "LT-E008",
+          "role": "recipient_or_effect"
+        }
+      ],
+      "source_claim_scope": "source paraphrase; comparative tags separately graded"
+    },
+    {
+      "id": "LT-R05",
+      "source_id": "G102",
+      "master_id": "SYN-50",
+      "relation": "contributes_to",
+      "context": "earlier Earth epoch",
+      "agent": "Jupiter beings",
+      "recipient_or_effect": "etheric body development",
+      "locator": "§25",
+      "grade": "S",
+      "comparative_tags": [
+        {
+          "node": "CHE",
+          "grade": "C"
+        }
+      ],
+      "limit": "Earlier function distinct from R03.",
+      "participants": [
+        {
+          "entity_id": "LT-E005",
+          "role": "agent_or_subject"
+        },
+        {
+          "entity_id": "LT-E009",
+          "role": "recipient_or_effect"
+        }
+      ],
+      "source_claim_scope": "source paraphrase; comparative tags separately graded"
+    },
+    {
+      "id": "LT-R06",
+      "source_id": "G110",
+      "master_id": "SYN-51",
+      "relation": "passes_human_stage",
+      "context": "Old Saturn",
+      "agent": "Archai",
+      "recipient_or_effect": "developmental human stage",
+      "locator": "§4",
+      "grade": "S",
+      "comparative_tags": [],
+      "limit": "Not human anatomy.",
+      "participants": [
+        {
+          "entity_id": "LT-E010",
+          "role": "agent_or_subject"
+        },
+        {
+          "entity_id": "LT-E011",
+          "role": "recipient_or_effect"
+        }
+      ],
+      "source_claim_scope": "source paraphrase; comparative tags separately graded"
+    },
+    {
+      "id": "LT-R07",
+      "source_id": "G110",
+      "master_id": "SYN-51",
+      "relation": "passes_human_stage",
+      "context": "Old Sun",
+      "agent": "Archangels",
+      "recipient_or_effect": "developmental human stage",
+      "locator": "§4",
+      "grade": "S",
+      "comparative_tags": [],
+      "limit": "Not human anatomy.",
+      "participants": [
+        {
+          "entity_id": "LT-E012",
+          "role": "agent_or_subject"
+        },
+        {
+          "entity_id": "LT-E011",
+          "role": "recipient_or_effect"
+        }
+      ],
+      "source_claim_scope": "source paraphrase; comparative tags separately graded"
+    },
+    {
+      "id": "LT-R08",
+      "source_id": "G110",
+      "master_id": "SYN-51",
+      "relation": "passes_human_stage",
+      "context": "Old Moon",
+      "agent": "Angels",
+      "recipient_or_effect": "developmental human stage",
+      "locator": "§4",
+      "grade": "S",
+      "comparative_tags": [],
+      "limit": "Not human anatomy.",
+      "participants": [
+        {
+          "entity_id": "LT-E013",
+          "role": "agent_or_subject"
+        },
+        {
+          "entity_id": "LT-E011",
+          "role": "recipient_or_effect"
+        }
+      ],
+      "source_claim_scope": "source paraphrase; comparative tags separately graded"
+    },
+    {
+      "id": "LT-R09",
+      "source_id": "G11L",
+      "master_id": "SYN-52",
+      "relation": "characterizes",
+      "context": "Lemurian epoch",
+      "agent": "humanity in GA11 account",
+      "recipient_or_effect": "immediate will and imaginative activity",
+      "locator": "§2",
+      "grade": "S",
+      "comparative_tags": [
+        {
+          "node": "GEB",
+          "grade": "C"
+        },
+        {
+          "node": "NET",
+          "grade": "C"
+        }
+      ],
+      "limit": "Esoteric prehistory; tags not planet attributions.",
+      "participants": [
+        {
+          "entity_id": "LT-E014",
+          "role": "agent_or_subject"
+        },
+        {
+          "entity_id": "LT-E015",
+          "role": "recipient_or_effect"
+        }
+      ],
+      "source_claim_scope": "source paraphrase; comparative tags separately graded"
+    },
+    {
+      "id": "LT-R10",
+      "source_id": "G11A",
+      "master_id": "SYN-53",
+      "relation": "develops",
+      "context": "CH-9.01",
+      "agent": "humanity in GA11 account",
+      "recipient_or_effect": "sensory recollection and naming",
+      "locator": "§§9–11",
+      "grade": "S",
+      "comparative_tags": [
+        {
+          "node": "BIN",
+          "grade": "C"
+        },
+        {
+          "node": "GEB",
+          "grade": "C"
+        },
+        {
+          "node": "HOD",
+          "grade": "C"
+        }
+      ],
+      "limit": "No historical or racial validation.",
+      "participants": [
+        {
+          "entity_id": "LT-E014",
+          "role": "agent_or_subject"
+        },
+        {
+          "entity_id": "LT-E016",
+          "role": "recipient_or_effect"
+        }
+      ],
+      "source_claim_scope": "source paraphrase; comparative tags separately graded"
+    },
+    {
+      "id": "LT-R11",
+      "source_id": "G11A",
+      "master_id": "SYN-53",
+      "relation": "develops",
+      "context": "CH-9.05",
+      "agent": "humanity in GA11 account",
+      "recipient_or_effect": "independent judgment; decline of life-force command",
+      "locator": "§§18–19",
+      "grade": "S",
+      "comparative_tags": [
+        {
+          "node": "HOD",
+          "grade": "C"
+        },
+        {
+          "node": "TIP",
+          "grade": "C"
+        },
+        {
+          "node": "YES",
+          "grade": "C"
+        }
+      ],
+      "limit": "No ethnic inference; tags comparative.",
+      "participants": [
+        {
+          "entity_id": "LT-E014",
+          "role": "agent_or_subject"
+        },
+        {
+          "entity_id": "LT-E017",
+          "role": "recipient_or_effect"
+        }
+      ],
+      "source_claim_scope": "source paraphrase; comparative tags separately graded"
+    },
+    {
+      "id": "LT-R12",
+      "source_id": "G11A",
+      "master_id": "SYN-53",
+      "relation": "develops",
+      "context": "CH-9.06",
+      "agent": "humanity in GA11 account",
+      "recipient_or_effect": "conceptually formulated laws",
+      "locator": "§20",
+      "grade": "S",
+      "comparative_tags": [
+        {
+          "node": "CHE",
+          "grade": "C"
+        },
+        {
+          "node": "HOD",
+          "grade": "C"
+        },
+        {
+          "node": "MAL",
+          "grade": "C"
+        }
+      ],
+      "limit": "No equation of Justice Key and epoch.",
+      "participants": [
+        {
+          "entity_id": "LT-E014",
+          "role": "agent_or_subject"
+        },
+        {
+          "entity_id": "LT-E018",
+          "role": "recipient_or_effect"
+        }
+      ],
+      "source_claim_scope": "source paraphrase; comparative tags separately graded"
+    },
+    {
+      "id": "LT-R13",
+      "source_id": "G136",
+      "master_id": "SYN-55",
+      "relation": "coordinates",
+      "context": "planetary system",
+      "agent": "Cherubim",
+      "recipient_or_effect": "collective planetary movement",
+      "locator": "§1",
+      "grade": "S",
+      "comparative_tags": [
+        {
+          "node": "CHO",
+          "grade": "C"
+        }
+      ],
+      "limit": "Not empirical orbital mechanics.",
+      "participants": [
+        {
+          "entity_id": "LT-E019",
+          "role": "agent_or_subject"
+        },
+        {
+          "entity_id": "LT-E020",
+          "role": "recipient_or_effect"
+        }
+      ],
+      "source_claim_scope": "source paraphrase; comparative tags separately graded"
+    },
+    {
+      "id": "LT-R14",
+      "source_id": "G136",
+      "master_id": "SYN-55",
+      "relation": "relates",
+      "context": "interstellar system",
+      "agent": "Seraphim",
+      "recipient_or_effect": "relationships among systems",
+      "locator": "§1",
+      "grade": "S",
+      "comparative_tags": [
+        {
+          "node": "CHO",
+          "grade": "C"
+        },
+        {
+          "node": "KET",
+          "grade": "C"
+        }
+      ],
+      "limit": "Not exclusive hierarchy/node identity.",
+      "participants": [
+        {
+          "entity_id": "LT-E021",
+          "role": "agent_or_subject"
+        },
+        {
+          "entity_id": "LT-E022",
+          "role": "recipient_or_effect"
+        }
+      ],
+      "source_claim_scope": "source paraphrase; comparative tags separately graded"
+    },
+    {
+      "id": "LT-R15",
+      "source_id": "G136B",
+      "master_id": "SYN-56",
+      "relation": "acts_from",
+      "context": "planetary system",
+      "agent": "Spirits of Form",
+      "recipient_or_effect": "planetary activity from solar center",
+      "locator": "§5",
+      "grade": "S",
+      "comparative_tags": [
+        {
+          "node": "TIP",
+          "grade": "C"
+        },
+        {
+          "node": "MAL",
+          "grade": "C"
+        }
+      ],
+      "limit": "Solar center differs from recipient or fixed-star development.",
+      "participants": [
+        {
+          "entity_id": "LT-E023",
+          "role": "agent_or_subject"
+        },
+        {
+          "entity_id": "LT-E024",
+          "role": "recipient_or_effect"
+        }
+      ],
+      "source_claim_scope": "source paraphrase; comparative tags separately graded"
+    },
+    {
+      "id": "LT-R16",
+      "source_id": "G237",
+      "master_id": "SYN-57",
+      "relation": "administers",
+      "context": "before differentiation of cosmic intelligence in lecture",
+      "agent": "Michael",
+      "recipient_or_effect": "solar and collective planetary intelligence",
+      "locator": "§§12–16",
+      "grade": "S",
+      "comparative_tags": [
+        {
+          "node": "CHO",
+          "grade": "C"
+        },
+        {
+          "node": "TIP",
+          "grade": "C"
+        },
+        {
+          "node": "CHE",
+          "grade": "C"
+        },
+        {
+          "node": "HOD",
+          "grade": "C"
+        }
+      ],
+      "limit": "Archangel administration differs from hierarchy sphere.",
+      "participants": [
+        {
+          "entity_id": "LT-E025",
+          "role": "agent_or_subject"
+        },
+        {
+          "entity_id": "LT-E026",
+          "role": "recipient_or_effect"
+        }
+      ],
+      "source_claim_scope": "source paraphrase; comparative tags separately graded"
+    },
+    {
+      "id": "LT-R17",
+      "source_id": "G13",
+      "master_id": "SYN-58",
+      "relation": "transforms",
+      "context": "Earth to future cosmic conditions",
+      "agent": "individual I",
+      "recipient_or_effect": "inherited wisdom into love through knowledge and deeds",
+      "locator": "§12",
+      "grade": "S",
+      "comparative_tags": [
+        {
+          "node": "CHO",
+          "grade": "C"
+        },
+        {
+          "node": "TIP",
+          "grade": "C"
+        },
+        {
+          "node": "MAL",
+          "grade": "C"
+        }
+      ],
+      "limit": "Future esoteric teaching not empirical prediction.",
+      "participants": [
+        {
+          "entity_id": "LT-E027",
+          "role": "agent_or_subject"
+        },
+        {
+          "entity_id": "LT-E028",
+          "role": "recipient_or_effect"
+        }
+      ],
+      "source_claim_scope": "source paraphrase; comparative tags separately graded"
+    },
+    {
+      "id": "LT-R18",
+      "source_id": "G353",
+      "master_id": "SYN-11",
+      "relation": "ordered_proposition",
+      "context": "ancient Hebrew spiritual language in GA353",
+      "agent": "Kether, Chesed, Binah",
+      "recipient_or_effect": "originating power; freedom; intelligence",
+      "locator": "§§19–21",
+      "grade": "S",
+      "comparative_tags": [
+        {
+          "node": "KET",
+          "grade": "C"
+        },
+        {
+          "node": "CHE",
+          "grade": "C"
+        },
+        {
+          "node": "BIN",
+          "grade": "C"
+        }
+      ],
+      "limit": "Inherited comparison; order is meaningful, not separate causal edges.",
+      "participants": [
+        {
+          "entity_id": "LT-E029",
+          "role": "agent_or_subject"
+        },
+        {
+          "entity_id": "LT-E030",
+          "role": "recipient_or_effect"
+        }
+      ],
+      "source_claim_scope": "source paraphrase; comparative tags separately graded"
+    },
+    {
+      "id": "LT-R19",
+      "source_id": "G227",
+      "master_id": "SYN-37",
+      "relation": "receives_influence",
+      "context": "life between death and rebirth, present humanity",
+      "agent": "human individuality",
+      "recipient_or_effect": "Jupiter/Saturn via planetoid domain",
+      "locator": "§30",
+      "grade": "S",
+      "comparative_tags": [
+        {
+          "node": "CHE",
+          "grade": "C"
+        },
+        {
+          "node": "BIN",
+          "grade": "C"
+        }
+      ],
+      "limit": "Competing account R20; unresolved.",
+      "participants": [
+        {
+          "entity_id": "LT-E031",
+          "role": "agent_or_subject"
+        },
+        {
+          "entity_id": "LT-E032",
+          "role": "recipient_or_effect"
+        }
+      ],
+      "source_claim_scope": "source paraphrase; comparative tags separately graded"
+    },
+    {
+      "id": "LT-R20",
+      "source_id": "G231",
+      "master_id": "SYN-10",
+      "relation": "traverses_in_account",
+      "context": "life between death and rebirth",
+      "agent": "human individuality",
+      "recipient_or_effect": "Jupiter and Saturn spheres",
+      "locator": "§§12–17",
+      "grade": "S",
+      "comparative_tags": [
+        {
+          "node": "CHE",
+          "grade": "C"
+        },
+        {
+          "node": "BIN",
+          "grade": "C"
+        }
+      ],
+      "limit": "Competing account R19; unresolved.",
+      "participants": [
+        {
+          "entity_id": "LT-E031",
+          "role": "agent_or_subject"
+        },
+        {
+          "entity_id": "LT-E033",
+          "role": "recipient_or_effect"
+        }
+      ],
+      "source_claim_scope": "source paraphrase; comparative tags separately graded"
+    },
+    {
+      "id": "LT-R21",
+      "source_id": "G233",
+      "master_id": "SYN-35",
+      "relation": "mediates",
+      "context": "pre-earthly formation",
+      "agent": "lunar beings",
+      "recipient_or_effect": "Mars-related speech capacity",
+      "locator": "§§16–25",
+      "grade": "S",
+      "comparative_tags": [
+        {
+          "node": "YES",
+          "grade": "C"
+        },
+        {
+          "node": "GEB",
+          "grade": "C"
+        }
+      ],
+      "limit": "Inherited source; no clinical causation.",
+      "participants": [
+        {
+          "entity_id": "LT-E034",
+          "role": "agent_or_subject"
+        },
+        {
+          "entity_id": "LT-E035",
+          "role": "recipient_or_effect"
+        }
+      ],
+      "source_claim_scope": "source paraphrase; comparative tags separately graded"
+    },
+    {
+      "id": "LT-R22",
+      "source_id": "G119",
+      "master_id": "SYN-63",
+      "relation": "symbolizes",
+      "context": "initiation account",
+      "agent": "zodiacal directions and planetary movements",
+      "recipient_or_effect": "spiritual beings and their deeds, respectively",
+      "locator": "§§13–16",
+      "grade": "S",
+      "comparative_tags": [
+        {
+          "node": "CHO",
+          "grade": "C"
+        }
+      ],
+      "limit": "Analogical description, not a 12-sign hierarchy table.",
+      "participants": [
+        {
+          "entity_id": "LT-E036",
+          "role": "agent_or_subject"
+        },
+        {
+          "entity_id": "LT-E037",
+          "role": "recipient_or_effect"
+        }
+      ],
+      "source_claim_scope": "source paraphrase; comparative tags separately graded"
+    },
+    {
+      "id": "LT-R23",
+      "source_id": "G233B",
+      "master_id": "SYN-67",
+      "relation": "differentiates",
+      "context": "historical mystery account",
+      "agent": "Moon, Sun and Saturn forces",
+      "recipient_or_effect": "birth, freedom within life and death",
+      "locator": "§§12–19",
+      "grade": "S",
+      "comparative_tags": [
+        {
+          "node": "YES",
+          "grade": "C"
+        },
+        {
+          "node": "TIP",
+          "grade": "C"
+        },
+        {
+          "node": "BIN",
+          "grade": "C"
+        }
+      ],
+      "limit": "Three births not present fixed-age thresholds.",
+      "participants": [
+        {
+          "entity_id": "LT-E038",
+          "role": "agent_or_subject"
+        },
+        {
+          "entity_id": "LT-E039",
+          "role": "recipient_or_effect"
+        }
+      ],
+      "source_claim_scope": "source paraphrase; comparative tags separately graded"
+    },
+    {
+      "id": "LT-R24",
+      "source_id": "G219A",
+      "master_id": "SYN-68",
+      "relation": "transforms",
+      "context": "return toward incarnation",
+      "agent": "Sun in cooperation with outer and inner planetary groups",
+      "recipient_or_effect": "spiritual orientation, Logos and thought into walking, speech, thinking",
+      "locator": "§§29–32",
+      "grade": "S",
+      "comparative_tags": [
+        {
+          "node": "TIP",
+          "grade": "C"
+        },
+        {
+          "node": "BIN",
+          "grade": "C"
+        },
+        {
+          "node": "CHE",
+          "grade": "C"
+        },
+        {
+          "node": "GEB",
+          "grade": "C"
+        },
+        {
+          "node": "NET",
+          "grade": "C"
+        },
+        {
+          "node": "HOD",
+          "grade": "C"
+        },
+        {
+          "node": "YES",
+          "grade": "C"
+        }
+      ],
+      "limit": "Group-mediated relation, not separate one-planet mapping.",
+      "participants": [
+        {
+          "entity_id": "LT-E040",
+          "role": "agent_or_subject"
+        },
+        {
+          "entity_id": "LT-E041",
+          "role": "recipient_or_effect"
+        }
+      ],
+      "source_claim_scope": "source paraphrase; comparative tags separately graded"
+    },
+    {
+      "id": "LT-R25",
+      "source_id": "G219A",
+      "master_id": "SYN-69",
+      "relation": "differentiates",
+      "context": "return toward incarnation",
+      "agent": "transformation of heavenly faculties",
+      "recipient_or_effect": "loss of immediate cosmic moral orientation",
+      "locator": "§§33–35",
+      "grade": "S",
+      "comparative_tags": [
+        {
+          "node": "TIP",
+          "grade": "C"
+        },
+        {
+          "node": "MAL",
+          "grade": "C"
+        }
+      ],
+      "limit": "Steiner esoteric claim; no clinical inference.",
+      "participants": [
+        {
+          "entity_id": "LT-E042",
+          "role": "agent_or_subject"
+        },
+        {
+          "entity_id": "LT-E043",
+          "role": "recipient_or_effect"
+        }
+      ],
+      "source_claim_scope": "source paraphrase; comparative tags separately graded"
+    },
+    {
+      "id": "LT-R26",
+      "source_id": "G219B",
+      "master_id": "SYN-70",
+      "relation": "contrasts",
+      "context": "sleep and earthly life",
+      "agent": "regular lunar and Saturn planetary groups",
+      "recipient_or_effect": "opposing directions of embodiment and release",
+      "locator": "discussion of lunar and Saturn helpers",
+      "grade": "S",
+      "comparative_tags": [
+        {
+          "node": "YES",
+          "grade": "C"
+        },
+        {
+          "node": "BIN",
+          "grade": "C"
+        }
+      ],
+      "limit": "Do not conflate individual beings with entire spheres.",
+      "participants": [
+        {
+          "entity_id": "LT-E044",
+          "role": "agent_or_subject"
+        },
+        {
+          "entity_id": "LT-E045",
+          "role": "recipient_or_effect"
+        }
+      ],
+      "source_claim_scope": "source paraphrase; comparative tags separately graded"
+    },
+    {
+      "id": "LT-R27",
+      "source_id": "G219B",
+      "master_id": "SYN-70",
+      "relation": "contrasts",
+      "context": "sleep and earthly freedom",
+      "agent": "irregular inner and outer planetary beings",
+      "recipient_or_effect": "distortion of moral judgment versus enforced morality",
+      "locator": "discussion of irregular planetary groups",
+      "grade": "S",
+      "comparative_tags": [
+        {
+          "node": "TIP",
+          "grade": "C"
+        },
+        {
+          "node": "MAL",
+          "grade": "C"
+        }
+      ],
+      "limit": "No diagnosis, moral blame or literal good/evil planet division.",
+      "participants": [
+        {
+          "entity_id": "LT-E046",
+          "role": "agent_or_subject"
+        },
+        {
+          "entity_id": "LT-E047",
+          "role": "recipient_or_effect"
+        }
+      ],
+      "source_claim_scope": "source paraphrase; comparative tags separately graded"
+    },
+    {
+      "id": "LT-R28",
+      "source_id": "G95A",
+      "master_id": "SYN-71",
+      "relation": "retains",
+      "context": "after death",
+      "agent": "higher astral body",
+      "recipient_or_effect": "concentrated life fruits",
+      "locator": "§§1–2",
+      "grade": "S",
+      "comparative_tags": [
+        {
+          "node": "CHE",
+          "grade": "C"
+        },
+        {
+          "node": "YES",
+          "grade": "C"
+        }
+      ],
+      "limit": "Distinct from intact old astral vehicle.",
+      "participants": [
+        {
+          "entity_id": "LT-E048",
+          "role": "agent_or_subject"
+        },
+        {
+          "entity_id": "LT-E049",
+          "role": "recipient_or_effect"
+        }
+      ],
+      "source_claim_scope": "source paraphrase; comparative tags separately graded"
+    },
+    {
+      "id": "LT-R29",
+      "source_id": "G95B",
+      "master_id": "SYN-71",
+      "relation": "forms_new",
+      "context": "return toward incarnation",
+      "agent": "returning individuality",
+      "recipient_or_effect": "new astral organization shaped in relation to past forces",
+      "locator": "§§12–14",
+      "grade": "S",
+      "comparative_tags": [
+        {
+          "node": "YES",
+          "grade": "C"
+        },
+        {
+          "node": "MAL",
+          "grade": "C"
+        }
+      ],
+      "limit": "GA95's exception of persisting old astral shell is not its normal account.",
+      "participants": [
+        {
+          "entity_id": "LT-E050",
+          "role": "agent_or_subject"
+        },
+        {
+          "entity_id": "LT-E051",
+          "role": "recipient_or_effect"
+        }
+      ],
+      "source_claim_scope": "source paraphrase; comparative tags separately graded"
+    },
+    {
+      "id": "LT-R30",
+      "source_id": "G230A",
+      "master_id": "SYN-72",
+      "relation": "cooperates",
+      "context": "esoteric human-animal comparison",
+      "agent": "Sun with Mars, Jupiter and Saturn",
+      "recipient_or_effect": "head organization; eagle motif",
+      "locator": "§§3–5",
+      "grade": "S",
+      "comparative_tags": [
+        {
+          "node": "TIP",
+          "grade": "C"
+        },
+        {
+          "node": "GEB",
+          "grade": "C"
+        },
+        {
+          "node": "CHE",
+          "grade": "C"
+        },
+        {
+          "node": "BIN",
+          "grade": "C"
+        }
+      ],
+      "limit": "Not biological explanation.",
+      "participants": [
+        {
+          "entity_id": "LT-E052",
+          "role": "agent_or_subject"
+        },
+        {
+          "entity_id": "LT-E053",
+          "role": "recipient_or_effect"
+        }
+      ],
+      "source_claim_scope": "source paraphrase; comparative tags separately graded"
+    },
+    {
+      "id": "LT-R31",
+      "source_id": "G230A",
+      "master_id": "SYN-72",
+      "relation": "characterizes",
+      "context": "esoteric human-animal comparison",
+      "agent": "solar activity",
+      "recipient_or_effect": "rhythmic organization; lion motif",
+      "locator": "§§6–7",
+      "grade": "S",
+      "comparative_tags": [
+        {
+          "node": "TIP",
+          "grade": "C"
+        }
+      ],
+      "limit": "Not physiological explanation.",
+      "participants": [
+        {
+          "entity_id": "LT-E054",
+          "role": "agent_or_subject"
+        },
+        {
+          "entity_id": "LT-E055",
+          "role": "recipient_or_effect"
+        }
+      ],
+      "source_claim_scope": "source paraphrase; comparative tags separately graded"
+    },
+    {
+      "id": "LT-R32",
+      "source_id": "G230A",
+      "master_id": "SYN-72",
+      "relation": "cooperates",
+      "context": "esoteric human-animal comparison",
+      "agent": "Sun with Mercury, Venus and Moon",
+      "recipient_or_effect": "metabolic organization; cow motif",
+      "locator": "§§8–10",
+      "grade": "S",
+      "comparative_tags": [
+        {
+          "node": "TIP",
+          "grade": "C"
+        },
+        {
+          "node": "HOD",
+          "grade": "C"
+        },
+        {
+          "node": "NET",
+          "grade": "C"
+        },
+        {
+          "node": "YES",
+          "grade": "C"
+        }
+      ],
+      "limit": "Source uses astronomical sequence explicitly; no clinical claims.",
+      "participants": [
+        {
+          "entity_id": "LT-E056",
+          "role": "agent_or_subject"
+        },
+        {
+          "entity_id": "LT-E057",
+          "role": "recipient_or_effect"
+        }
+      ],
+      "source_claim_scope": "source paraphrase; comparative tags separately graded"
+    },
+    {
+      "id": "LT-R33",
+      "source_id": "G230B",
+      "master_id": "SYN-73",
+      "relation": "cooperates",
+      "context": "esoteric plant formation",
+      "agent": "undines, sylphs, gnomes and fire beings",
+      "recipient_or_effect": "different activities in seasonal plant development",
+      "locator": "§§17–21",
+      "grade": "S",
+      "comparative_tags": [
+        {
+          "node": "BIN",
+          "grade": "C"
+        },
+        {
+          "node": "YES",
+          "grade": "C"
+        },
+        {
+          "node": "MAL",
+          "grade": "C"
+        }
+      ],
+      "limit": "Not verified botany or an alternative to plant reproduction science.",
+      "participants": [
+        {
+          "entity_id": "LT-E058",
+          "role": "agent_or_subject"
+        },
+        {
+          "entity_id": "LT-E059",
+          "role": "recipient_or_effect"
+        }
+      ],
+      "source_claim_scope": "source paraphrase; comparative tags separately graded"
+    },
+    {
+      "id": "LT-R34",
+      "source_id": "G136C",
+      "master_id": "SYN-74",
+      "relation": "differentiates",
+      "context": "hierarchical creation",
+      "agent": "first, second and third hierarchies",
+      "recipient_or_effect": "independent worlds, dependent creations, self-revelation",
+      "locator": "§§6–8",
+      "grade": "S",
+      "comparative_tags": [
+        {
+          "node": "KET",
+          "grade": "C"
+        },
+        {
+          "node": "CHO",
+          "grade": "C"
+        },
+        {
+          "node": "BIN",
+          "grade": "C"
+        }
+      ],
+      "limit": "No fixed world or Sephirah assignment.",
+      "participants": [
+        {
+          "entity_id": "LT-E060",
+          "role": "agent_or_subject"
+        },
+        {
+          "entity_id": "LT-E061",
+          "role": "recipient_or_effect"
+        }
+      ],
+      "source_claim_scope": "source paraphrase; comparative tags separately graded"
+    },
+    {
+      "id": "LT-R35",
+      "source_id": "G136C",
+      "master_id": "SYN-74",
+      "relation": "generates",
+      "context": "nature realms",
+      "agent": "first, second and third hierarchies",
+      "recipient_or_effect": "spirits of cycles, group souls, nature spirits",
+      "locator": "§9",
+      "grade": "S",
+      "comparative_tags": [
+        {
+          "node": "CHO",
+          "grade": "C"
+        },
+        {
+          "node": "YES",
+          "grade": "C"
+        },
+        {
+          "node": "MAL",
+          "grade": "C"
+        }
+      ],
+      "limit": "Source describes lineage, not strict residence or biological fact.",
+      "participants": [
+        {
+          "entity_id": "LT-E060",
+          "role": "agent_or_subject"
+        },
+        {
+          "entity_id": "LT-E062",
+          "role": "recipient_or_effect"
+        }
+      ],
+      "source_claim_scope": "source paraphrase; comparative tags separately graded"
+    },
+    {
+      "id": "LT-R36",
+      "source_id": "G136D",
+      "master_id": "SYN-75",
+      "relation": "distributes",
+      "context": "kingdoms and planes",
+      "agent": "mineral kingdom in Steiner's account",
+      "recipient_or_effect": "physical body physical; etheric astral; astral lower Devachan; group I higher Devachan",
+      "locator": "§§1–3",
+      "grade": "S",
+      "comparative_tags": [
+        {
+          "node": "MAL",
+          "grade": "C"
+        }
+      ],
+      "limit": "Different from human fourfold embodiment; no direct four-world identity.",
+      "participants": [
+        {
+          "entity_id": "LT-E063",
+          "role": "agent_or_subject"
+        },
+        {
+          "entity_id": "LT-E064",
+          "role": "recipient_or_effect"
+        }
+      ],
+      "source_claim_scope": "source paraphrase; comparative tags separately graded"
+    },
+    {
+      "id": "LT-R37",
+      "source_id": "G10",
+      "master_id": "SYN-76",
+      "relation": "coordinates",
+      "context": "spiritual training",
+      "agent": "individual higher consciousness",
+      "recipient_or_effect": "thinking, feeling and willing",
+      "locator": "§6",
+      "grade": "S",
+      "comparative_tags": [
+        {
+          "node": "TIP",
+          "grade": "C"
+        },
+        {
+          "node": "HOD",
+          "grade": "C"
+        },
+        {
+          "node": "NET",
+          "grade": "C"
+        },
+        {
+          "node": "GEB",
+          "grade": "C"
+        }
+      ],
+      "limit": "Indexed witness; individual coordination not proof of universal-will reconciliation.",
+      "participants": [
+        {
+          "entity_id": "LT-E065",
+          "role": "agent_or_subject"
+        },
+        {
+          "entity_id": "LT-E066",
+          "role": "recipient_or_effect"
+        }
+      ],
+      "source_claim_scope": "source paraphrase; comparative tags separately graded"
+    },
+    {
+      "id": "LT-R38",
+      "source_id": "G13V",
+      "master_id": "SYN-76",
+      "relation": "apprehends",
+      "context": "spiritual cognition",
+      "agent": "individual pupil",
+      "recipient_or_effect": "spiritual beings through Intuition",
+      "locator": "§63",
+      "grade": "S",
+      "comparative_tags": [
+        {
+          "node": "KET",
+          "grade": "C"
+        },
+        {
+          "node": "TIP",
+          "grade": "C"
+        }
+      ],
+      "limit": "Indexed witness; does not establish permanent extinction of individuality.",
+      "participants": [
+        {
+          "entity_id": "LT-E067",
+          "role": "agent_or_subject"
+        },
+        {
+          "entity_id": "LT-E068",
+          "role": "recipient_or_effect"
+        }
+      ],
+      "source_claim_scope": "source paraphrase; comparative tags separately graded"
+    },
+    {
+      "id": "LT-R39",
+      "source_id": "G237",
+      "master_id": "SYN-80",
+      "relation": "coordinates",
+      "context": "Cosmic intelligence administration; roles and relations change over time",
+      "agent": "Michael and planetary Archangeloi",
+      "recipient_or_effect": "differentiated planetary intelligences",
+      "locator": "GA237 8 Aug 1924, planetary table and subsequent paragraphs; RSP1977 recheck",
+      "grade": "S",
+      "comparative_tags": [
+        {
+          "node": "TIP",
+          "grade": "C"
+        }
+      ],
+      "limit": "Do not infer identity between spiritual entities, Key figures or physical planets.",
+      "participants": [
+        {
+          "entity_id": "LT-E069",
+          "role": "agent_or_subject"
+        },
+        {
+          "entity_id": "LT-E070",
+          "role": "recipient_or_effect"
+        }
+      ],
+      "source_claim_scope": "source paraphrase; comparative tags separately graded"
+    },
+    {
+      "id": "LT-R40",
+      "source_id": "G237",
+      "master_id": "SYN-80",
+      "relation": "differentiates",
+      "context": "Temporal change in administration and karmic cooperation",
+      "agent": "planetary Archangeloi under changed coordination",
+      "recipient_or_effect": "planetary intelligences and Angeloi cooperation",
+      "locator": "GA237 8 Aug 1924, paragraphs following planetary table",
+      "grade": "S",
+      "comparative_tags": [
+        {
+          "node": "TIP",
+          "grade": "C"
+        }
+      ],
+      "limit": "Doctrinal historical account, not empirical explanation of history or solar physics.",
+      "participants": [
+        {
+          "entity_id": "LT-E071",
+          "role": "agent_or_subject"
+        },
+        {
+          "entity_id": "LT-E072",
+          "role": "recipient_or_effect"
+        }
+      ],
+      "source_claim_scope": "source paraphrase; comparative tags separately graded"
+    },
+    {
+      "id": "LT-R41",
+      "source_id": "G136E",
+      "master_id": "SYN-81",
+      "relation": "distributes",
+      "context": "Kingdom-specific distribution of constitutional activity",
+      "agent": "animal and plant constitutional members",
+      "recipient_or_effect": "physical, astral and devachanic planes",
+      "locator": "§§1–2",
+      "grade": "S",
+      "comparative_tags": [
+        {
+          "node": "MAL",
+          "grade": "C"
+        }
+      ],
+      "limit": "No identity with Qabalistic Four Worlds or scientific biology.",
+      "participants": [
+        {
+          "entity_id": "LT-E073",
+          "role": "agent_or_subject"
+        },
+        {
+          "entity_id": "LT-E074",
+          "role": "recipient_or_effect"
+        }
+      ],
+      "source_claim_scope": "source paraphrase; comparative tags separately graded"
+    },
+    {
+      "id": "LT-R42",
+      "source_id": "G136E",
+      "master_id": "SYN-81",
+      "relation": "differentiates",
+      "context": "Distinct hierarchy descent and location of activity",
+      "agent": "descendants of Spirits of Movement and Wisdom",
+      "recipient_or_effect": "animal and plant group-I respectively",
+      "locator": "§§8,13",
+      "grade": "S",
+      "comparative_tags": [
+        {
+          "node": "CHO",
+          "grade": "C"
+        }
+      ],
+      "limit": "No zodiacal biological or racial classification.",
+      "participants": [
+        {
+          "entity_id": "LT-E075",
+          "role": "agent_or_subject"
+        },
+        {
+          "entity_id": "LT-E076",
+          "role": "recipient_or_effect"
+        }
+      ],
+      "source_claim_scope": "source paraphrase; comparative tags separately graded"
+    },
+    {
+      "id": "LT-R43",
+      "source_id": "G4IX",
+      "master_id": "SYN-82",
+      "relation": "individualizes",
+      "context": "Ethical individualism in authored philosophical text",
+      "agent": "individual moral intuition",
+      "recipient_or_effect": "particular freely motivated deed",
+      "locator": "§§28–33",
+      "grade": "S",
+      "comparative_tags": [
+        {
+          "node": "MAL",
+          "grade": "C"
+        }
+      ],
+      "limit": "Universal idea content does not settle metaphysical individuality in BOTA or future evolution.",
+      "participants": [
+        {
+          "entity_id": "LT-E077",
+          "role": "agent_or_subject"
+        },
+        {
+          "entity_id": "LT-E078",
+          "role": "recipient_or_effect"
+        }
+      ],
+      "source_claim_scope": "source paraphrase; comparative tags separately graded"
+    }
+  ],
+  "ordered_relations": [
+    {
+      "claim_id": "LT-R18",
+      "nodes": [
+        "KET",
+        "CHE",
+        "BIN"
+      ],
+      "type": "ordered named combination",
+      "grade": "D-S",
+      "boundary": "Whole proposition only; not proof of pairwise causal mechanisms"
+    }
+  ],
+  "conflicts": [
+    {
+      "id": "LT-X01",
+      "claims": [
+        "LT-R19",
+        "LT-R20"
+      ],
+      "status": "unresolved",
+      "issue": "Full traversal versus mediated receipt of outer-sphere influence"
+    },
+    {
+      "id": "LT-X02",
+      "issue": "Cosmic memory Saturn vs BOTA Chesed/Jupiter memory",
+      "master_refs": [
+        "SYN-14",
+        "SYN-26"
+      ],
+      "status": "different attributions; not resolved by reassignment"
+    },
+    {
+      "id": "LT-X03",
+      "issue": "Universal agency vs individual moral authorship",
+      "master_refs": [
+        "SYN-13",
+        "SYN-46",
+        "SYN-76"
+      ],
+      "status": "open philosophical difference"
+    },
+    {
+      "id": "LT-X04",
+      "issue": "Astral continuity versus retention of life fruits and re-formation",
+      "master_refs": [
+        "SYN-43",
+        "SYN-71"
+      ],
+      "status": "different ontology; needs original course scan review"
+    },
+    {
+      "id": "LT-X05",
+      "issue": "Steiner Future Vulcan as Saturn octave versus historical BOTA Mars octave",
+      "master_refs": [
+        "SYN-25"
+      ],
+      "status": "different entities and relation types"
+    },
+    {
+      "id": "LT-X06",
+      "issue": "Mercury and Venus labels",
+      "master_refs": [
+        "SYN-17",
+        "SYN-72"
+      ],
+      "status": "per-source naming; GA230 uses astronomical sequence"
+    },
+    {
+      "id": "LT-X07",
+      "issue": "22 Hebrew channels versus 19 eurythmic sound groups",
+      "master_refs": [
+        "SYN-39"
+      ],
+      "status": "no numerical identity"
+    },
+    {
+      "id": "LT-X08",
+      "claims": [
+        "LT-R39",
+        "LT-R40"
+      ],
+      "status": "open; other side branch-reported",
+      "issue": "Planetary administrator names and roles differ across traditions",
+      "branch_refs": [
+        "HPX-14",
+        "VP-v06-02"
+      ]
+    },
+    {
+      "id": "LT-X09",
+      "claims": [
+        "LT-R41",
+        "LT-R36"
+      ],
+      "status": "different taxonomies; not identity",
+      "issue": "Kingdom-specific spiritual planes versus Qabalistic worlds"
+    },
+    {
+      "id": "LT-X10",
+      "status": "branch-reported; independent plate inspection pending",
+      "issue": "GA317 printed/photographic versus archive web table",
+      "branch_refs": [
+        "MER-E005",
+        "MER-E060",
+        "MER-E113",
+        "MER-E131"
+      ]
+    }
+  ],
+  "external_references": {
+    "planetary_dataset": {
+      "path": "research/planetary-spheres-v1.json",
+      "blob_sha": "27ccd201d50cacefe2bc89fc40302b2b44592fd6",
+      "ids": [
+        "saturn",
+        "jupiter",
+        "mars",
+        "sun",
+        "venus",
+        "mercury",
+        "moon",
+        "vulcan"
+      ],
+      "note": "Vulcan separate research realm, not an extra Sephirah"
+    },
+    "chronology_dataset": {
+      "path": "research/steiner-hierarchical-chronology-events-v02.json",
+      "blob_sha": "55ce49beda22b4670ebb32fb27bc80c437999dc2",
+      "event_count": 231,
+      "group_count": 27,
+      "selected_event_ids": [
+        "CH-8.01",
+        "CH-8.09",
+        "CH-9.01",
+        "CH-9.05",
+        "CH-9.06"
+      ]
+    }
+  },
+  "branch_provenance": {
+    "hidden": "HP integration v0.7 (selected synthesis), audit v0.6",
+    "major": "VP integration v0.5 (selected synthesis; VP version aliases required)",
+    "minor": "v0.1 structural checkpoint; exact all-card branch ID and decanate audit pending",
+    "limitations": "No restricted lesson text or scans. Structural inventory not source-certified or independent doctrinal verification."
+  },
+  "validation": {
+    "checks": {
+      "prior_claims_unchanged": true,
+      "prior_sources_unchanged": true,
+      "prior_conflicts_unchanged": true,
+      "topology_unchanged": true,
+      "unique_claims": true,
+      "unique_sources": true,
+      "unique_entities": true,
+      "source_refs": true,
+      "participant_refs": true,
+      "conflict_refs": true,
+      "card_identities_null": true,
+      "overlay_refs": true,
+      "csv_rows_unique": true,
+      "hp_csv_expected_count": true,
+      "vp_csv_expected_count": true,
+      "ma_csv_expected_count": true,
+      "private_import_rows": true,
+      "private_import_fields_match": true,
+      "seed_relationship_ids_and_evidence_match": true,
+      "all_crosswalk_edges_match": true,
+      "all_seed_edges_match": true,
+      "all_visible_key_links_match": true,
+      "all_daath_alias_targets_exist": true,
+      "all_hidden_link_refs_resolved": true,
+      "all_relation_refs_resolved": true,
+      "all_central_claim_refs_resolved": true,
+      "private_rows_minimized": true,
+      "all_visible_path_tags_recognized": true
+    },
+    "passed": true,
+    "scope": "v0.3 preservation and v0.4 evidence reconciliation checks; not doctrinal validation",
+    "node_count": 10,
+    "visible": 22,
+    "hidden": 16,
+    "cards": 78,
+    "claims": 43,
+    "sources": 26,
+    "entities": 78,
+    "conflicts": 10,
+    "intersections": 6,
+    "evidence_records": 406,
+    "relationship_proposals": 41
+  },
+  "integration_overlay": {
+    "date": "2026-11-27",
+    "access": "branch handover references, not full ledger import",
+    "records": [
+      {
+        "id": "INT-B01",
+        "branch": "hidden v0.9",
+        "refs": [
+          "HPX-08",
+          "HPX-14",
+          "HPX-15",
+          "HPX-16",
+          "HPX-17",
+          "HPX-18",
+          "HPX-19"
+        ],
+        "grade": "C/U",
+        "claims": [
+          "LT-R39",
+          "LT-R40",
+          "LT-R41",
+          "LT-R42",
+          "LT-R43"
+        ],
+        "conflicts": [
+          "LT-X03",
+          "LT-X08",
+          "LT-X09"
+        ],
+        "limit": "Private originals not independently checked; no topology changes."
+      },
+      {
+        "id": "INT-B02",
+        "branch": "visible v0.6",
+        "refs": [
+          "VP-v06-01",
+          "VP-v06-02",
+          "VP-v06-03",
+          "VP-v06-04",
+          "VP-v06-05",
+          "VP-v06-06",
+          "VP-v06-07"
+        ],
+        "grade": "C/U",
+        "claims": [
+          "LT-R39",
+          "LT-R43",
+          "LT-R19",
+          "LT-R20",
+          "LT-R21"
+        ],
+        "limit": "Actor/image/admin roles are not identities; no new path."
+      },
+      {
+        "id": "INT-B03",
+        "branch": "Mercury v0.19",
+        "refs": [
+          "MER-E005",
+          "MER-E060",
+          "MER-E113",
+          "MER-E131"
+        ],
+        "grade": "U",
+        "conflicts": [
+          "LT-X10"
+        ],
+        "limit": "Audit report not independent original plate verification."
+      },
+      {
+        "id": "INT-B04",
+        "branch": "Jupiter tracker v1.8",
+        "refs": [
+          "J01–J294"
+        ],
+        "grade": "metadata only",
+        "limit": "Reader v1.1; 97 pages reported; actual PDF and ledger not tested."
+      },
+      {
+        "id": "INT-B05",
+        "branch": "Vulcan v0.15",
+        "grade": "C/U",
+        "limit": "Critical draft; no additional sphere or Sephirah; exact ledger pending."
+      },
+      {
+        "id": "INT-B06",
+        "branch": "Minor Arcana v0.1",
+        "grade": "C/U",
+        "limit": "Preserve structural coordinates and null Steiner identities; no decanate promotion."
+      }
+    ]
+  },
+  "evidence_reconciliation": {
+    "path": "research/living-tree-evidence-reconciliation-v01.json",
+    "scope": "All recovered HP v0.9, VP v0.6 and MA v0.1 rendered ledger rows; not full project evidence corpus or fresh primary source verification.",
+    "summary": {
+      "counts": {
+        "HP": {
+          "restricted_bota_record": 44,
+          "steiner_source_record": 94
+        },
+        "VP": {
+          "steiner_source_record": 76,
+          "restricted_bota_record": 52
+        },
+        "MA": {
+          "restricted_bota_record": 65,
+          "steiner_source_record": 19,
+          "comparative_assessment": 56
+        }
+      },
+      "dispositions": {
+        "withhold_private_content": 161,
+        "review_same_date_or_chapter": 23,
+        "register_branch_witness": 142,
+        "link_existing_url": 22,
+        "defer_metadata_review": 2,
+        "retain_comparison_no_primary_promotion": 56
+      },
+      "relationship_dispositions": {
+        "defer_private_comparison": 11,
+        "crosslink_existing_claims": 17,
+        "retain_superseded_interpretation": 1,
+        "alias_existing_context": 6,
+        "defer_claim_level_review": 6
+      },
+      "total": 406,
+      "public_source_count": 189,
+      "private_count": 161,
+      "comparison_count": 56,
+      "hidden_link_count": 526,
+      "hidden_public_link_count": 372,
+      "visible_public_link_count": 621,
+      "relationship_count": 41,
+      "exact_url_groups": 38,
+      "candidate_groups": 111,
+      "checks": {
+        "csv_rows_unique": true,
+        "hp_csv_expected_count": true,
+        "vp_csv_expected_count": true,
+        "ma_csv_expected_count": true,
+        "private_import_rows": true,
+        "private_import_fields_match": true,
+        "seed_relationship_ids_and_evidence_match": true,
+        "all_crosswalk_edges_match": true,
+        "all_seed_edges_match": true,
+        "all_visible_key_links_match": true,
+        "all_daath_alias_targets_exist": true,
+        "all_hidden_link_refs_resolved": true,
+        "all_relation_refs_resolved": true,
+        "all_central_claim_refs_resolved": true,
+        "private_rows_minimized": true,
+        "all_visible_path_tags_recognized": true
+      },
+      "issues": {
+        "private_csv_field_mismatches": [],
+        "seed_relationship_evidence_mismatches": [],
+        "hidden_missing_evidence_refs": [],
+        "relation_missing_evidence_refs": [],
+        "visible_unrecognized_path_tokens": [],
+        "minor_comparisons_without_resolved_source_refs": [
+          "MA:CMP-MA-CU-10",
+          "MA:CMP-MA-SW-03",
+          "MA:CMP-CT-SW-QU"
+        ]
+      }
+    },
+    "record_ids": [
+      "HP:B01",
+      "HP:B02",
+      "HP:B03",
+      "HP:B04",
+      "HP:B05",
+      "HP:B06",
+      "HP:B07",
+      "HP:B08",
+      "HP:B09",
+      "HP:B10",
+      "HP:B11",
+      "HP:B12",
+      "HP:B13",
+      "HP:B14",
+      "HP:S01",
+      "HP:S02",
+      "HP:S03",
+      "HP:S04",
+      "HP:S05",
+      "HP:S06",
+      "HP:S07",
+      "HP:S08",
+      "HP:S09",
+      "HP:S10",
+      "HP:S11",
+      "HP:S12",
+      "HP:S13",
+      "HP:S14",
+      "HP:S15",
+      "HP:S16",
+      "HP:S17",
+      "HP:S18",
+      "HP:S19",
+      "HP:S20",
+      "HP:S21",
+      "HP:S22",
+      "HP:S23",
+      "HP:S24",
+      "HP:S25",
+      "HP:L01",
+      "HP:L02",
+      "HP:L03",
+      "HP:S26",
+      "HP:S27",
+      "HP:S28",
+      "HP:B15",
+      "HP:B16",
+      "HP:B17",
+      "HP:B18",
+      "HP:S29",
+      "HP:S30",
+      "HP:S31",
+      "HP:S32",
+      "HP:S33",
+      "HP:S34",
+      "HP:S35",
+      "HP:S36",
+      "HP:S37",
+      "HP:S38",
+      "HP:S39",
+      "HP:S40",
+      "HP:S41",
+      "HP:S42",
+      "HP:S43",
+      "HP:S44",
+      "HP:S45",
+      "HP:S46",
+      "HP:S47",
+      "HP:S48",
+      "HP:S49",
+      "HP:S50",
+      "HP:S51",
+      "HP:S52",
+      "HP:S53",
+      "HP:B19",
+      "HP:B20",
+      "HP:S54",
+      "HP:S55",
+      "HP:S56",
+      "HP:S57",
+      "HP:S58",
+      "HP:S59",
+      "HP:S60",
+      "HP:S61",
+      "HP:S62",
+      "HP:S63",
+      "HP:S64",
+      "HP:B21",
+      "HP:B22",
+      "HP:B23",
+      "HP:S65",
+      "HP:S66",
+      "HP:S67",
+      "HP:S68",
+      "HP:S69",
+      "HP:S70",
+      "HP:B24",
+      "HP:B25",
+      "HP:B26",
+      "HP:B27",
+      "HP:B28",
+      "HP:B29",
+      "HP:B30",
+      "HP:B31",
+      "HP:B32",
+      "HP:S71",
+      "HP:S72",
+      "HP:S73",
+      "HP:S74",
+      "HP:B33",
+      "HP:B34",
+      "HP:B35",
+      "HP:B36",
+      "HP:S75",
+      "HP:S76",
+      "HP:S77",
+      "HP:S78",
+      "HP:S79",
+      "HP:S80",
+      "HP:S81",
+      "HP:S82",
+      "HP:S83",
+      "HP:B37",
+      "HP:B38",
+      "HP:B39",
+      "HP:B40",
+      "HP:B41",
+      "HP:B42",
+      "HP:B43",
+      "HP:B44",
+      "HP:S84",
+      "HP:S85",
+      "HP:S86",
+      "HP:S87",
+      "HP:S88",
+      "HP:S89",
+      "HP:S90",
+      "HP:S91",
+      "VP:S353",
+      "VP:S151",
+      "VP:S209",
+      "VP:S279",
+      "VP:S279A",
+      "VP:S228",
+      "VP:S110",
+      "VP:S136",
+      "VP:S13K",
+      "VP:S13E",
+      "VP:S9",
+      "VP:S4A",
+      "VP:S4B",
+      "VP:S26",
+      "VP:S231",
+      "VP:S107",
+      "VP:S89",
+      "VP:S123",
+      "VP:B-P11",
+      "VP:B-T00",
+      "VP:B-P12",
+      "VP:B-T01",
+      "VP:B-P13",
+      "VP:B-T02",
+      "VP:B-P14",
+      "VP:B-T03",
+      "VP:B-P15",
+      "VP:B-T04",
+      "VP:B-P16",
+      "VP:B-T05",
+      "VP:B-P17",
+      "VP:B-T06",
+      "VP:B-P18",
+      "VP:B-T07",
+      "VP:B-P19",
+      "VP:B-T08",
+      "VP:B-P20",
+      "VP:B-T09",
+      "VP:B-P21",
+      "VP:B-T10",
+      "VP:B-P22",
+      "VP:B-T11",
+      "VP:B-P23",
+      "VP:B-T12",
+      "VP:B-P24",
+      "VP:B-T13",
+      "VP:B-P25",
+      "VP:B-T14",
+      "VP:B-P26",
+      "VP:B-T15",
+      "VP:B-P27",
+      "VP:B-T16",
+      "VP:B-P28",
+      "VP:B-T17",
+      "VP:B-P29",
+      "VP:B-T18",
+      "VP:B-P30",
+      "VP:B-T19",
+      "VP:B-P31",
+      "VP:B-T20",
+      "VP:B-P32",
+      "VP:B-T21",
+      "VP:B-W",
+      "VP:B-G",
+      "VP:B-A",
+      "VP:B-N",
+      "VP:B-M",
+      "VP:S104A",
+      "VP:S10TR",
+      "VP:S10IN",
+      "VP:S179",
+      "VP:S208",
+      "VP:S13D",
+      "VP:S120K",
+      "VP:S119H",
+      "VP:S133",
+      "VP:S152",
+      "VP:S125",
+      "VP:S93W",
+      "VP:S93R",
+      "VP:S100W",
+      "VP:S100L",
+      "VP:S170N",
+      "VP:S170L",
+      "VP:S170I",
+      "VP:S170T",
+      "VP:S208Z",
+      "VP:S209Z",
+      "VP:S209P",
+      "VP:S169S",
+      "VP:S265A",
+      "VP:S218K",
+      "VP:S128O",
+      "VP:S128B",
+      "VP:S119Z",
+      "VP:S113Z",
+      "VP:S102Z",
+      "VP:S98Z",
+      "VP:S110C",
+      "VP:S218N",
+      "VP:S104AC",
+      "VP:S107C",
+      "VP:S348C",
+      "VP:S101C",
+      "VP:S230C",
+      "VP:S109H",
+      "VP:S230I",
+      "VP:S230III",
+      "VP:S230IV",
+      "VP:S230V",
+      "VP:S230VI",
+      "VP:S230VII",
+      "VP:S230VIII",
+      "VP:S230IX",
+      "VP:S230X",
+      "VP:S230XI",
+      "VP:S230XII",
+      "VP:S26F",
+      "VP:S13Q",
+      "VP:S233M",
+      "VP:S227R",
+      "VP:S227R2",
+      "VP:S237I",
+      "VP:S13L",
+      "VP:B-ANG",
+      "VP:B-UNI",
+      "VP:B-AGY",
+      "VP:S13Q-R",
+      "MA:B-TREE",
+      "MA:B-ORACLE-2",
+      "MA:B-ORACLE-17",
+      "MA:B-ORACLE-MAJ",
+      "MA:B-VPQ",
+      "MA:B-EA-4",
+      "MA:B-EA-7",
+      "MA:B-EA-OUT",
+      "MA:B-COLOR",
+      "MA:S004-I",
+      "MA:S009-A",
+      "MA:S013-T",
+      "MA:S013-I",
+      "MA:S089-N",
+      "MA:S110-P",
+      "MA:S110-R",
+      "MA:S110-Z",
+      "MA:S123-C",
+      "MA:S130-F",
+      "MA:S136-C",
+      "MA:S136-F",
+      "MA:S151-Z",
+      "MA:S151-P",
+      "MA:S208-F",
+      "MA:S209-V",
+      "MA:S228-M",
+      "MA:S228-L",
+      "MA:S228-S",
+      "MA:DB-MA-WA-01",
+      "MA:CMP-MA-WA-01",
+      "MA:DB-MA-WA-02",
+      "MA:CMP-MA-WA-02",
+      "MA:DB-MA-WA-03",
+      "MA:CMP-MA-WA-03",
+      "MA:DB-MA-WA-04",
+      "MA:CMP-MA-WA-04",
+      "MA:DB-MA-WA-05",
+      "MA:CMP-MA-WA-05",
+      "MA:DB-MA-WA-06",
+      "MA:CMP-MA-WA-06",
+      "MA:DB-MA-WA-07",
+      "MA:CMP-MA-WA-07",
+      "MA:DB-MA-WA-08",
+      "MA:CMP-MA-WA-08",
+      "MA:DB-MA-WA-09",
+      "MA:CMP-MA-WA-09",
+      "MA:DB-MA-WA-10",
+      "MA:CMP-MA-WA-10",
+      "MA:DB-MA-CU-01",
+      "MA:CMP-MA-CU-01",
+      "MA:DB-MA-CU-02",
+      "MA:CMP-MA-CU-02",
+      "MA:DB-MA-CU-03",
+      "MA:CMP-MA-CU-03",
+      "MA:DB-MA-CU-04",
+      "MA:CMP-MA-CU-04",
+      "MA:DB-MA-CU-05",
+      "MA:CMP-MA-CU-05",
+      "MA:DB-MA-CU-06",
+      "MA:CMP-MA-CU-06",
+      "MA:DB-MA-CU-07",
+      "MA:CMP-MA-CU-07",
+      "MA:DB-MA-CU-08",
+      "MA:CMP-MA-CU-08",
+      "MA:DB-MA-CU-09",
+      "MA:CMP-MA-CU-09",
+      "MA:DB-MA-CU-10",
+      "MA:CMP-MA-CU-10",
+      "MA:DB-MA-SW-01",
+      "MA:CMP-MA-SW-01",
+      "MA:DB-MA-SW-02",
+      "MA:CMP-MA-SW-02",
+      "MA:DB-MA-SW-03",
+      "MA:CMP-MA-SW-03",
+      "MA:DB-MA-SW-04",
+      "MA:CMP-MA-SW-04",
+      "MA:DB-MA-SW-05",
+      "MA:CMP-MA-SW-05",
+      "MA:DB-MA-SW-06",
+      "MA:CMP-MA-SW-06",
+      "MA:DB-MA-SW-07",
+      "MA:CMP-MA-SW-07",
+      "MA:DB-MA-SW-08",
+      "MA:CMP-MA-SW-08",
+      "MA:DB-MA-SW-09",
+      "MA:CMP-MA-SW-09",
+      "MA:DB-MA-SW-10",
+      "MA:CMP-MA-SW-10",
+      "MA:DB-MA-PE-01",
+      "MA:CMP-MA-PE-01",
+      "MA:DB-MA-PE-02",
+      "MA:CMP-MA-PE-02",
+      "MA:DB-MA-PE-03",
+      "MA:CMP-MA-PE-03",
+      "MA:DB-MA-PE-04",
+      "MA:CMP-MA-PE-04",
+      "MA:DB-MA-PE-05",
+      "MA:CMP-MA-PE-05",
+      "MA:DB-MA-PE-06",
+      "MA:CMP-MA-PE-06",
+      "MA:DB-MA-PE-07",
+      "MA:CMP-MA-PE-07",
+      "MA:DB-MA-PE-08",
+      "MA:CMP-MA-PE-08",
+      "MA:DB-MA-PE-09",
+      "MA:CMP-MA-PE-09",
+      "MA:DB-MA-PE-10",
+      "MA:CMP-MA-PE-10",
+      "MA:DB-CT-WA-KI",
+      "MA:CMP-CT-WA-KI",
+      "MA:DB-CT-WA-QU",
+      "MA:CMP-CT-WA-QU",
+      "MA:DB-CT-WA-KN",
+      "MA:CMP-CT-WA-KN",
+      "MA:DB-CT-WA-PA",
+      "MA:CMP-CT-WA-PA",
+      "MA:DB-CT-CU-KI",
+      "MA:CMP-CT-CU-KI",
+      "MA:DB-CT-CU-QU",
+      "MA:CMP-CT-CU-QU",
+      "MA:DB-CT-CU-KN",
+      "MA:CMP-CT-CU-KN",
+      "MA:DB-CT-CU-PA",
+      "MA:CMP-CT-CU-PA",
+      "MA:DB-CT-SW-KI",
+      "MA:CMP-CT-SW-KI",
+      "MA:DB-CT-SW-QU",
+      "MA:CMP-CT-SW-QU",
+      "MA:DB-CT-SW-KN",
+      "MA:CMP-CT-SW-KN",
+      "MA:DB-CT-SW-PA",
+      "MA:CMP-CT-SW-PA",
+      "MA:DB-CT-PE-KI",
+      "MA:CMP-CT-PE-KI",
+      "MA:DB-CT-PE-QU",
+      "MA:CMP-CT-PE-QU",
+      "MA:DB-CT-PE-KN",
+      "MA:CMP-CT-PE-KN",
+      "MA:DB-CT-PE-PA",
+      "MA:CMP-CT-PE-PA"
+    ],
+    "relationship_dispositions": [
+      {
+        "id": "HP:HPX-G01",
+        "disposition": "defer_private_comparison",
+        "central_claim_refs": []
+      },
+      {
+        "id": "HP:HPX-G02",
+        "disposition": "defer_private_comparison",
+        "central_claim_refs": []
+      },
+      {
+        "id": "HP:HPX-G03",
+        "disposition": "defer_private_comparison",
+        "central_claim_refs": []
+      },
+      {
+        "id": "HP:HPX-G04",
+        "disposition": "defer_private_comparison",
+        "central_claim_refs": []
+      },
+      {
+        "id": "HP:HPX-G05",
+        "disposition": "crosslink_existing_claims",
+        "central_claim_refs": [
+          "LT-R21"
+        ]
+      },
+      {
+        "id": "HP:HPX-G06",
+        "disposition": "defer_private_comparison",
+        "central_claim_refs": []
+      },
+      {
+        "id": "HP:HPX-G07",
+        "disposition": "retain_superseded_interpretation",
+        "central_claim_refs": [
+          "LT-R43"
+        ]
+      },
+      {
+        "id": "HP:HPX-G08",
+        "disposition": "defer_private_comparison",
+        "central_claim_refs": []
+      },
+      {
+        "id": "HP:HPX-G09",
+        "disposition": "defer_private_comparison",
+        "central_claim_refs": []
+      },
+      {
+        "id": "HP:HPX-G10",
+        "disposition": "crosslink_existing_claims",
+        "central_claim_refs": [
+          "LT-R19",
+          "LT-R20"
+        ]
+      },
+      {
+        "id": "HP:DAATH-CONTEXT-01",
+        "disposition": "alias_existing_context",
+        "central_claim_refs": []
+      },
+      {
+        "id": "HP:DAATH-CONTEXT-02",
+        "disposition": "alias_existing_context",
+        "central_claim_refs": []
+      },
+      {
+        "id": "HP:DAATH-CONTEXT-03",
+        "disposition": "alias_existing_context",
+        "central_claim_refs": []
+      },
+      {
+        "id": "HP:DAATH-CONTEXT-04",
+        "disposition": "alias_existing_context",
+        "central_claim_refs": []
+      },
+      {
+        "id": "HP:DAATH-CONTEXT-05",
+        "disposition": "alias_existing_context",
+        "central_claim_refs": []
+      },
+      {
+        "id": "HP:DAATH-CONTEXT-06",
+        "disposition": "alias_existing_context",
+        "central_claim_refs": []
+      },
+      {
+        "id": "HP:HPX-G17",
+        "disposition": "crosslink_existing_claims",
+        "central_claim_refs": [
+          "LT-R43"
+        ]
+      },
+      {
+        "id": "HP:HPX-G18",
+        "disposition": "defer_private_comparison",
+        "central_claim_refs": []
+      },
+      {
+        "id": "HP:HPX-G19",
+        "disposition": "crosslink_existing_claims",
+        "central_claim_refs": [
+          "LT-R17"
+        ]
+      },
+      {
+        "id": "HP:HPX-G20",
+        "disposition": "defer_claim_level_review",
+        "central_claim_refs": []
+      },
+      {
+        "id": "HP:HPX-G21",
+        "disposition": "crosslink_existing_claims",
+        "central_claim_refs": [
+          "LT-R30",
+          "LT-R32"
+        ]
+      },
+      {
+        "id": "HP:HPX-G22",
+        "disposition": "defer_claim_level_review",
+        "central_claim_refs": []
+      },
+      {
+        "id": "HP:HPX-G23",
+        "disposition": "defer_private_comparison",
+        "central_claim_refs": []
+      },
+      {
+        "id": "HP:HPX-G24",
+        "disposition": "crosslink_existing_claims",
+        "central_claim_refs": [
+          "LT-R43"
+        ]
+      },
+      {
+        "id": "HP:HPX-G25",
+        "disposition": "crosslink_existing_claims",
+        "central_claim_refs": [
+          "LT-R16",
+          "LT-R39"
+        ]
+      },
+      {
+        "id": "HP:HPX-G26",
+        "disposition": "defer_private_comparison",
+        "central_claim_refs": []
+      },
+      {
+        "id": "HP:HPX-G27",
+        "disposition": "crosslink_existing_claims",
+        "central_claim_refs": [
+          "LT-R39",
+          "LT-R40"
+        ]
+      },
+      {
+        "id": "HP:HPX-G28",
+        "disposition": "crosslink_existing_claims",
+        "central_claim_refs": [
+          "LT-R36",
+          "LT-R41",
+          "LT-R42"
+        ]
+      },
+      {
+        "id": "HP:HPX-G29",
+        "disposition": "defer_claim_level_review",
+        "central_claim_refs": []
+      },
+      {
+        "id": "HP:HPX-G30",
+        "disposition": "crosslink_existing_claims",
+        "central_claim_refs": [
+          "LT-R36",
+          "LT-R41"
+        ]
+      },
+      {
+        "id": "HP:HPX-G31",
+        "disposition": "defer_claim_level_review",
+        "central_claim_refs": []
+      },
+      {
+        "id": "HP:HPX-G32",
+        "disposition": "defer_claim_level_review",
+        "central_claim_refs": []
+      },
+      {
+        "id": "HP:HPX-G33",
+        "disposition": "defer_claim_level_review",
+        "central_claim_refs": []
+      },
+      {
+        "id": "VP:VP06-R01",
+        "disposition": "crosslink_existing_claims",
+        "central_claim_refs": [
+          "LT-R16",
+          "LT-R39"
+        ]
+      },
+      {
+        "id": "VP:VP06-R02",
+        "disposition": "crosslink_existing_claims",
+        "central_claim_refs": [
+          "LT-R16",
+          "LT-R39"
+        ]
+      },
+      {
+        "id": "VP:VP06-R03",
+        "disposition": "crosslink_existing_claims",
+        "central_claim_refs": [
+          "LT-R16",
+          "LT-R39"
+        ]
+      },
+      {
+        "id": "VP:VP06-R04",
+        "disposition": "crosslink_existing_claims",
+        "central_claim_refs": [
+          "LT-R21"
+        ]
+      },
+      {
+        "id": "VP:VP06-R05",
+        "disposition": "defer_private_comparison",
+        "central_claim_refs": []
+      },
+      {
+        "id": "VP:VP06-R06",
+        "disposition": "crosslink_existing_claims",
+        "central_claim_refs": [
+          "LT-R19",
+          "LT-R20"
+        ]
+      },
+      {
+        "id": "VP:VP06-R07",
+        "disposition": "crosslink_existing_claims",
+        "central_claim_refs": [
+          "LT-R43"
+        ]
+      },
+      {
+        "id": "VP:VP06-R08",
+        "disposition": "crosslink_existing_claims",
+        "central_claim_refs": [
+          "LT-R28",
+          "LT-R29"
+        ]
+      }
+    ],
+    "note": "Metadata overlay only. Existing claims and sources remain unchanged; no additional primary-source claim asserted."
+  }
+}

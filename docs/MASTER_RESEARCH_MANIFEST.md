@@ -1,4 +1,4 @@
-# Living Tree — Master research manifest v0.14
+# Living Tree — Master research manifest v0.15
 27 November 2026 · public-safe coordination register
 
 Baseline commit 42c9a79881d9c6f3379d0b4fad5cb2d282dbc9e3; master blob 5560a11e4b9622b42d99dba672c4071afd3a2192; graph blob 0604ab893da5c91f6bb4d7aa9b137b51407efb1f. Scope is all identified streams, not exhaustive recovery of every chat or file. Access tiers: directly read repository files; recovered branch handover/audit or indexed excerpts; inherited report; not recovered. A report of a count or PDF validation is not a fresh recount. Full private source ledgers and original course material stay restricted. No private course text, scans, or access information included.
@@ -38,3 +38,7 @@ Baseline commit 42c9a79881d9c6f3379d0b4fad5cb2d282dbc9e3; master blob 5560a11e4b
 
 ## Handover intake rule
 For each branch request immutable manuscript, evidence CSV, topic CSV, version/date, access class, supersedes links, source witness groups, and open issues. Hash and store the private original locally; import only a reviewed public-safe derivative. Retain original IDs with namespace/version; duplicate sources are alternate witnesses, not independent discoveries. Never silently change an old row. New comparisons must have typed participants, role, context, limitations, grade and source references. No release status inferred from a prompt.
+
+
+## v0.15 evidence reconciliation addendum
+Three complete rendered ledgers reconciled (HP 138, VP 128, MA 140); see EVIDENCE_RECONCILIATION_REPORT_v015.md and EVIDENCE_RECONCILIATION_MATRIX_v015.csv. All private course records tracked by identifier only. Their underlying private files remain restricted. Planetary and other ledgers still pending full recovery. Scope and exceptions in report.
