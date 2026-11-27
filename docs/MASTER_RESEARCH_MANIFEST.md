@@ -1,4 +1,4 @@
-# Living Tree — Master research manifest v0.18
+# Living Tree — Master research manifest v0.19
 27 November 2026 · public-safe coordination register
 
 Baseline commit 42c9a79881d9c6f3379d0b4fad5cb2d282dbc9e3; master blob 5560a11e4b9622b42d99dba672c4071afd3a2192; graph blob 0604ab893da5c91f6bb4d7aa9b137b51407efb1f. Scope is all identified streams, not exhaustive recovery of every chat or file. Access tiers: directly read repository files; recovered branch handover/audit or indexed excerpts; inherited report; not recovered. A report of a count or PDF validation is not a fresh recount. Full private source ledgers and original course material stay restricted. No private course text, scans, or access information included.
@@ -77,3 +77,6 @@ See [handover register](HANDOVER_INTAKE_v017.csv) for exact namespace, dispositi
 - Hierarchies: 107 source rows from full parsed sidecar; 107 public-source metadata.
 - Chronology: actual v0.5/v0.6 datasets compared; 380 unchanged + 17 additions, 397 total; 27 groups and 71 sources unchanged. Earth audit counts directly parsed. See [report](HANDOVER_SOURCE_RECONCILIATION_REPORT_v018.md).
 - Earlier 2,187 reconciled rows retained; 416 new namespace rows inventoried separately, not necessarily new sources or teachings. No full topic-link import.
+
+## v0.19 explanatory checkpoint
+Divine Will v0.1 and later source check recovered by conversation report only, full package pending. Nine selected public witnesses reopened; nine scoped propositions registered, many elaborate prior findings rather than new sources. Two conflicts added; 58 propositions, 37 source records, 19 graph conflicts. Register counts unchanged. See EXPLANATORY_INTEGRATION_HANDOVER_v019.md. No private source text/locators published.
