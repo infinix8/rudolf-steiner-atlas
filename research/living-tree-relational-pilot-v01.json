@@ -1,0 +1,597 @@
+{
+  "schema": "living-tree-relation-pilot/0.1",
+  "date": "2026-11-27",
+  "status": "research pilot only; not loaded by Atlas",
+  "description": "Source-level statements separated from comparative Tree tags; no empirical validation. Fresh and inherited source verification distinguished.",
+  "master": "docs/UNIFIED_COSMOLOGY.md",
+  "nodes": [
+    "KET",
+    "CHO",
+    "BIN",
+    "CHE",
+    "GEB",
+    "TIP",
+    "NET",
+    "HOD",
+    "YES",
+    "MAL"
+  ],
+  "sources": [
+    {
+      "id": "G102",
+      "ga": "GA 102",
+      "date_or_chapter": "1908-02-15",
+      "url": "https://rsarchive.org/Lectures/GA102/English/SOL/19080215p01.html",
+      "locator": "§§23–25",
+      "kind": "lecture",
+      "verification": "fresh"
+    },
+    {
+      "id": "G110",
+      "ga": "GA 110",
+      "date_or_chapter": "1909-04-13",
+      "url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090413a01.html",
+      "locator": "§§4–5",
+      "kind": "lecture",
+      "verification": "fresh"
+    },
+    {
+      "id": "G11A",
+      "ga": "GA 11",
+      "date_or_chapter": "Our Atlantean Ancestors",
+      "url": "https://rsarchive.org/Books/GA011/English/SOL/GA011_c03.html",
+      "locator": "§§9–22",
+      "kind": "authored essay",
+      "verification": "fresh"
+    },
+    {
+      "id": "G11L",
+      "ga": "GA 11",
+      "date_or_chapter": "The Lemurian Era",
+      "url": "https://rsarchive.org/Books/GA011/English/TPS1911/GA011_c04.html",
+      "locator": "§2",
+      "kind": "authored essay",
+      "verification": "fresh"
+    },
+    {
+      "id": "G136",
+      "ga": "GA 136",
+      "date_or_chapter": "1912-04-08",
+      "url": "https://rsarchive.org/Lectures/GA136/English/SOL/19120408p01.html",
+      "locator": "§§1,12–14",
+      "kind": "lecture",
+      "verification": "fresh"
+    },
+    {
+      "id": "G136B",
+      "ga": "GA 136",
+      "date_or_chapter": "1912-04-10",
+      "url": "https://rsarchive.org/Lectures/GA136/Compare_07.php",
+      "locator": "§§5–6",
+      "kind": "lecture, bilingual witness",
+      "verification": "fresh"
+    },
+    {
+      "id": "G237",
+      "ga": "GA 237",
+      "date_or_chapter": "1924-08-08",
+      "url": "https://rsarchive.org/Lectures/GA237/English/RSP1977/19240808p01.html",
+      "locator": "§§12–16",
+      "kind": "lecture",
+      "verification": "fresh"
+    },
+    {
+      "id": "G13",
+      "ga": "GA 13",
+      "date_or_chapter": "Chapter VI",
+      "url": "https://rsarchive.org/Books/GA013/English/RSP1969/GA013_c06.html",
+      "locator": "§§6,12–13",
+      "kind": "authored book",
+      "verification": "fresh"
+    },
+    {
+      "id": "G353",
+      "ga": "GA 353",
+      "date_or_chapter": "1924-05-10",
+      "url": "https://rsarchive.org/Lectures/GA353/English/SOL/19240510.html",
+      "locator": "§§19–21",
+      "kind": "lecture",
+      "verification": "inherited SYN-11/SYN-19"
+    },
+    {
+      "id": "G227",
+      "ga": "GA 227",
+      "date_or_chapter": "1923-08-28",
+      "url": "https://rsarchive.org/Lectures/GA227/English/RSP1966/19230828a01.html",
+      "locator": "§30",
+      "kind": "lecture",
+      "verification": "inherited SYN-37"
+    },
+    {
+      "id": "G231",
+      "ga": "GA 231",
+      "date_or_chapter": "1923-11-17",
+      "url": "https://rsarchive.org/Lectures/GA231/English/SOL/19231117p01.html",
+      "locator": "§§12–17",
+      "kind": "lecture",
+      "verification": "inherited SYN-10"
+    },
+    {
+      "id": "G233",
+      "ga": "GA 233a",
+      "date_or_chapter": "1924-04-21",
+      "url": "https://rsarchive.org/Lectures/GA233a/English/SOL/19240421p01.html",
+      "locator": "§§16–25,29",
+      "kind": "lecture",
+      "verification": "inherited SYN-35"
+    }
+  ],
+  "claims": [
+    {
+      "id": "LT-R01",
+      "source_id": "G102",
+      "master_id": "SYN-49",
+      "relation": "develops",
+      "context": "Earth evolution",
+      "agent": "Mars beings",
+      "recipient_or_effect": "sentient soul",
+      "locator": "§23",
+      "grade": "S",
+      "comparative_tags": [
+        {
+          "node": "GEB",
+          "grade": "C"
+        }
+      ],
+      "limit": "Not exclusive to Mars; source planet name retained."
+    },
+    {
+      "id": "LT-R02",
+      "source_id": "G102",
+      "master_id": "SYN-49",
+      "relation": "develops",
+      "context": "Earth evolution",
+      "agent": "Mercury beings",
+      "recipient_or_effect": "intellectual soul",
+      "locator": "§23",
+      "grade": "S",
+      "comparative_tags": [
+        {
+          "node": "HOD",
+          "grade": "C"
+        }
+      ],
+      "limit": "Source name, not automatically modern astronomical referent."
+    },
+    {
+      "id": "LT-R03",
+      "source_id": "G102",
+      "master_id": "SYN-49",
+      "relation": "develops",
+      "context": "Earth evolution",
+      "agent": "Jupiter beings",
+      "recipient_or_effect": "consciousness soul",
+      "locator": "§24",
+      "grade": "S",
+      "comparative_tags": [
+        {
+          "node": "CHE",
+          "grade": "C"
+        }
+      ],
+      "limit": "Emergence differs from mature cultural period."
+    },
+    {
+      "id": "LT-R04",
+      "source_id": "G102",
+      "master_id": "SYN-49",
+      "relation": "contributes_to",
+      "context": "Earth evolution",
+      "agent": "Venus beings",
+      "recipient_or_effect": "Spirit Self entering consciousness soul",
+      "locator": "§24",
+      "grade": "S",
+      "comparative_tags": [
+        {
+          "node": "NET",
+          "grade": "C"
+        }
+      ],
+      "limit": "No exclusive Venus–Manas identity."
+    },
+    {
+      "id": "LT-R05",
+      "source_id": "G102",
+      "master_id": "SYN-50",
+      "relation": "contributes_to",
+      "context": "earlier Earth epoch",
+      "agent": "Jupiter beings",
+      "recipient_or_effect": "etheric body development",
+      "locator": "§25",
+      "grade": "S",
+      "comparative_tags": [
+        {
+          "node": "CHE",
+          "grade": "C"
+        }
+      ],
+      "limit": "Earlier function distinct from R03."
+    },
+    {
+      "id": "LT-R06",
+      "source_id": "G110",
+      "master_id": "SYN-51",
+      "relation": "passes_human_stage",
+      "context": "Old Saturn",
+      "agent": "Archai",
+      "recipient_or_effect": "developmental human stage",
+      "locator": "§4",
+      "grade": "S",
+      "comparative_tags": [],
+      "limit": "Not human anatomy."
+    },
+    {
+      "id": "LT-R07",
+      "source_id": "G110",
+      "master_id": "SYN-51",
+      "relation": "passes_human_stage",
+      "context": "Old Sun",
+      "agent": "Archangels",
+      "recipient_or_effect": "developmental human stage",
+      "locator": "§4",
+      "grade": "S",
+      "comparative_tags": [],
+      "limit": "Not human anatomy."
+    },
+    {
+      "id": "LT-R08",
+      "source_id": "G110",
+      "master_id": "SYN-51",
+      "relation": "passes_human_stage",
+      "context": "Old Moon",
+      "agent": "Angels",
+      "recipient_or_effect": "developmental human stage",
+      "locator": "§4",
+      "grade": "S",
+      "comparative_tags": [],
+      "limit": "Not human anatomy."
+    },
+    {
+      "id": "LT-R09",
+      "source_id": "G11L",
+      "master_id": "SYN-52",
+      "relation": "characterizes",
+      "context": "Lemurian epoch",
+      "agent": "humanity in GA11 account",
+      "recipient_or_effect": "immediate will and imaginative activity",
+      "locator": "§2",
+      "grade": "S",
+      "comparative_tags": [
+        {
+          "node": "GEB",
+          "grade": "C"
+        },
+        {
+          "node": "NET",
+          "grade": "C"
+        }
+      ],
+      "limit": "Esoteric prehistory; tags not planet attributions."
+    },
+    {
+      "id": "LT-R10",
+      "source_id": "G11A",
+      "master_id": "SYN-53",
+      "relation": "develops",
+      "context": "CH-9.01",
+      "agent": "humanity in GA11 account",
+      "recipient_or_effect": "sensory recollection and naming",
+      "locator": "§§9–11",
+      "grade": "S",
+      "comparative_tags": [
+        {
+          "node": "BIN",
+          "grade": "C"
+        },
+        {
+          "node": "GEB",
+          "grade": "C"
+        },
+        {
+          "node": "HOD",
+          "grade": "C"
+        }
+      ],
+      "limit": "No historical or racial validation."
+    },
+    {
+      "id": "LT-R11",
+      "source_id": "G11A",
+      "master_id": "SYN-53",
+      "relation": "develops",
+      "context": "CH-9.05",
+      "agent": "humanity in GA11 account",
+      "recipient_or_effect": "independent judgment; decline of life-force command",
+      "locator": "§§18–19",
+      "grade": "S",
+      "comparative_tags": [
+        {
+          "node": "HOD",
+          "grade": "C"
+        },
+        {
+          "node": "TIP",
+          "grade": "C"
+        },
+        {
+          "node": "YES",
+          "grade": "C"
+        }
+      ],
+      "limit": "No ethnic inference; tags comparative."
+    },
+    {
+      "id": "LT-R12",
+      "source_id": "G11A",
+      "master_id": "SYN-53",
+      "relation": "develops",
+      "context": "CH-9.06",
+      "agent": "humanity in GA11 account",
+      "recipient_or_effect": "conceptually formulated laws",
+      "locator": "§20",
+      "grade": "S",
+      "comparative_tags": [
+        {
+          "node": "CHE",
+          "grade": "C"
+        },
+        {
+          "node": "HOD",
+          "grade": "C"
+        },
+        {
+          "node": "MAL",
+          "grade": "C"
+        }
+      ],
+      "limit": "No equation of Justice Key and epoch."
+    },
+    {
+      "id": "LT-R13",
+      "source_id": "G136",
+      "master_id": "SYN-55",
+      "relation": "coordinates",
+      "context": "planetary system",
+      "agent": "Cherubim",
+      "recipient_or_effect": "collective planetary movement",
+      "locator": "§1",
+      "grade": "S",
+      "comparative_tags": [
+        {
+          "node": "CHO",
+          "grade": "C"
+        }
+      ],
+      "limit": "Not empirical orbital mechanics."
+    },
+    {
+      "id": "LT-R14",
+      "source_id": "G136",
+      "master_id": "SYN-55",
+      "relation": "relates",
+      "context": "interstellar system",
+      "agent": "Seraphim",
+      "recipient_or_effect": "relationships among systems",
+      "locator": "§1",
+      "grade": "S",
+      "comparative_tags": [
+        {
+          "node": "CHO",
+          "grade": "C"
+        },
+        {
+          "node": "KET",
+          "grade": "C"
+        }
+      ],
+      "limit": "Not exclusive hierarchy/node identity."
+    },
+    {
+      "id": "LT-R15",
+      "source_id": "G136B",
+      "master_id": "SYN-56",
+      "relation": "acts_from",
+      "context": "planetary system",
+      "agent": "Spirits of Form",
+      "recipient_or_effect": "planetary activity from solar center",
+      "locator": "§5",
+      "grade": "S",
+      "comparative_tags": [
+        {
+          "node": "TIP",
+          "grade": "C"
+        },
+        {
+          "node": "MAL",
+          "grade": "C"
+        }
+      ],
+      "limit": "Solar center differs from recipient or fixed-star development."
+    },
+    {
+      "id": "LT-R16",
+      "source_id": "G237",
+      "master_id": "SYN-57",
+      "relation": "administers",
+      "context": "before differentiation of cosmic intelligence in lecture",
+      "agent": "Michael",
+      "recipient_or_effect": "solar and collective planetary intelligence",
+      "locator": "§§12–16",
+      "grade": "S",
+      "comparative_tags": [
+        {
+          "node": "CHO",
+          "grade": "C"
+        },
+        {
+          "node": "TIP",
+          "grade": "C"
+        },
+        {
+          "node": "CHE",
+          "grade": "C"
+        },
+        {
+          "node": "HOD",
+          "grade": "C"
+        }
+      ],
+      "limit": "Archangel administration differs from hierarchy sphere."
+    },
+    {
+      "id": "LT-R17",
+      "source_id": "G13",
+      "master_id": "SYN-58",
+      "relation": "transforms",
+      "context": "Earth to future cosmic conditions",
+      "agent": "individual I",
+      "recipient_or_effect": "inherited wisdom into love through knowledge and deeds",
+      "locator": "§12",
+      "grade": "S",
+      "comparative_tags": [
+        {
+          "node": "CHO",
+          "grade": "C"
+        },
+        {
+          "node": "TIP",
+          "grade": "C"
+        },
+        {
+          "node": "MAL",
+          "grade": "C"
+        }
+      ],
+      "limit": "Future esoteric teaching not empirical prediction."
+    },
+    {
+      "id": "LT-R18",
+      "source_id": "G353",
+      "master_id": "SYN-11",
+      "relation": "ordered_proposition",
+      "context": "ancient Hebrew spiritual language in GA353",
+      "agent": "Kether, Chesed, Binah",
+      "recipient_or_effect": "originating power; freedom; intelligence",
+      "locator": "§§19–21",
+      "grade": "S",
+      "comparative_tags": [
+        {
+          "node": "KET",
+          "grade": "C"
+        },
+        {
+          "node": "CHE",
+          "grade": "C"
+        },
+        {
+          "node": "BIN",
+          "grade": "C"
+        }
+      ],
+      "limit": "Inherited comparison; order is meaningful, not separate causal edges."
+    },
+    {
+      "id": "LT-R19",
+      "source_id": "G227",
+      "master_id": "SYN-37",
+      "relation": "receives_influence",
+      "context": "life between death and rebirth, present humanity",
+      "agent": "human individuality",
+      "recipient_or_effect": "Jupiter/Saturn via planetoid domain",
+      "locator": "§30",
+      "grade": "S",
+      "comparative_tags": [
+        {
+          "node": "CHE",
+          "grade": "C"
+        },
+        {
+          "node": "BIN",
+          "grade": "C"
+        }
+      ],
+      "limit": "Competing account R20; unresolved."
+    },
+    {
+      "id": "LT-R20",
+      "source_id": "G231",
+      "master_id": "SYN-10",
+      "relation": "traverses_in_account",
+      "context": "life between death and rebirth",
+      "agent": "human individuality",
+      "recipient_or_effect": "Jupiter and Saturn spheres",
+      "locator": "§§12–17",
+      "grade": "S",
+      "comparative_tags": [
+        {
+          "node": "CHE",
+          "grade": "C"
+        },
+        {
+          "node": "BIN",
+          "grade": "C"
+        }
+      ],
+      "limit": "Competing account R19; unresolved."
+    },
+    {
+      "id": "LT-R21",
+      "source_id": "G233",
+      "master_id": "SYN-35",
+      "relation": "mediates",
+      "context": "pre-earthly formation",
+      "agent": "lunar beings",
+      "recipient_or_effect": "Mars-related speech capacity",
+      "locator": "§§16–25",
+      "grade": "S",
+      "comparative_tags": [
+        {
+          "node": "YES",
+          "grade": "C"
+        },
+        {
+          "node": "GEB",
+          "grade": "C"
+        }
+      ],
+      "limit": "Inherited source; no clinical causation."
+    }
+  ],
+  "ordered_relations": [
+    {
+      "claim_id": "LT-R18",
+      "nodes": [
+        "KET",
+        "CHE",
+        "BIN"
+      ],
+      "type": "ordered named combination",
+      "grade": "D-S",
+      "boundary": "Whole proposition only; not proof of pairwise causal mechanisms"
+    }
+  ],
+  "conflicts": [
+    {
+      "id": "LT-X01",
+      "claims": [
+        "LT-R19",
+        "LT-R20"
+      ],
+      "status": "unresolved",
+      "issue": "Full traversal versus mediated receipt of outer-sphere influence"
+    }
+  ],
+  "validation": {
+    "scope": "referential integrity and node coverage only; not doctrinal proof"
+  }
+}
