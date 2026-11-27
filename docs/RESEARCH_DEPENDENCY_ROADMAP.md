@@ -1,4 +1,4 @@
-# Living Tree — research dependency and priority roadmap v0.18
+# Living Tree — research dependency and priority roadmap v0.19
 
 ## P0: acceptance gates
 1. Master coordinator: retrieve full latest HP and VP packages, compare stable IDs and preserve source witness groups; import only public-safe summaries. Read master v0.14 and this manifest. Deliver ID collision report and evidence dispositions, not merely counts.
@@ -26,3 +26,6 @@ Research-only branch; no live Atlas edits, no private course material, no merge 
 
 ### v0.18 updated gate
 Four evidence registers are now reconciled (416 rows), and chronology delta is directly checked. Do not repeat these intake tasks. Next: recover Earth/Malkuth and Vulcan latest complete source/topic ledgers; macrocosm organ and claim registers; Saturn v1.0 actual release; review remaining shared witness groups, then independently review SYN-89–100. Prioritize philosophical agency and German source collation rather than new breadth.
+
+### v0.19 next gates
+P0: GA26 16 Nov §4 German vs GA4 XII; GA107 German §§23–29 and GA89/91; full Divine Will v0.1 register and private source assessment offline. P0: independent critical review of rival authorship models and tests. P1: Earth/Vulcan full ledgers, macrocosm/organ registers, GA227/231 itinerary and GA317 source transmission. Do not repeat broad research passes.
