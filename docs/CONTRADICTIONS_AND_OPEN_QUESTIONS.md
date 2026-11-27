@@ -1,4 +1,4 @@
-# Contradictions and open questions — v0.17
+# Contradictions and open questions — v0.18
 27 November 2026. Preserve all LT-X01–07; no forced resolution.
 
 | ID | Issue | Evidence / competing positions | Disposition and exact next test |
@@ -32,3 +32,6 @@ Status: none of these disputes is closed by an analogy. Source verification chec
 | LT-X17 | Incarnation interval | Z-CON-02/07: GA13 two lives and GA227 ideal interval differ. Compare editions and terminology; no personal predictions. |
 
 Additional branch-level disputes remain in respective ledgers, not claimed exhaustively imported. Prioritize X03/X11, X01, X16, then source topology and GA317. All remain open or bounded.
+
+## v0.18 reconciliation note
+Source-register URL joins do not settle the existing disputes. The verified chronology delta confirms dataset continuity, not any contested esoteric chronological claim. All prior conflict IDs and positions remain; no new closure.
