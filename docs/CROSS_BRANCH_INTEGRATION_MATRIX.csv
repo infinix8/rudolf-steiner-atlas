@@ -1,5 +1,5 @@
 "id","stream","checkpoint","access","status","identifiers","next_gate","priority","dependencies"
-"INT-01","Central master / protocol / graph","v0.18 / graph v0.7","direct repository files","integrated handover/source checkpoint","SYN-01–100; LT-R01–49","Complete Earth/Vulcan and organ ledgers; independent review","P0","All branches"
+"INT-01","Central master / protocol / graph","v0.19 / graph v0.8","direct repository files","integrated handover/source checkpoint","SYN-01–107; LT-R01–58","Complete Earth/Vulcan and organ ledgers; independent review","P0","All branches"
 "INT-02","Sun","115 subjects / nine parts; edition not recovered","inherited project record","reader reported","Sun topic IDs not recovered","Recover reader, ledger and exact IDs; solar coordination vs Christ","P1","INT-01"
 "INT-03","Moon","latest edition unknown","inherited project record","reader reported","not recovered","Recover reader and audit lunar mediation / etheric vs astral","P1","INT-01"
 "INT-04","Mars","illustrated Atlas edition reported","inherited project record","reader / Atlas reported","not recovered","Recover manuscript and crosswalk speech / expression / Venus","P1","INT-01"
