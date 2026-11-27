@@ -1,4 +1,4 @@
-# Living Tree — Master research manifest v0.16
+# Living Tree — Master research manifest v0.17
 27 November 2026 · public-safe coordination register
 
 Baseline commit 42c9a79881d9c6f3379d0b4fad5cb2d282dbc9e3; master blob 5560a11e4b9622b42d99dba672c4071afd3a2192; graph blob 0604ab893da5c91f6bb4d7aa9b137b51407efb1f. Scope is all identified streams, not exhaustive recovery of every chat or file. Access tiers: directly read repository files; recovered branch handover/audit or indexed excerpts; inherited report; not recovered. A report of a count or PDF validation is not a fresh recount. Full private source ledgers and original course material stay restricted. No private course text, scans, or access information included.
@@ -46,3 +46,25 @@ Three complete rendered ledgers reconciled (HP 138, VP 128, MA 140); see EVIDENC
 
 ## v0.16 planetary intake
 Vulcan actual source/mapping/depth snapshots parsed; exact latest version unresolved. Saturn v0.14 topic dispositions recovered; Jupiter individual-topic audit v1.1 recovered. See PLANETARY_EVIDENCE_INTAKE_v016.md. Full source audit and exact release gates remain open.
+
+
+## v0.17 handover intake — supersedes earlier availability rows, not prior data
+
+| Stream | Latest | Access | Status |
+|---|---|---|---|
+| Upper Tree | v0.7 | manuscript read, handover reported | 84 topics; 115 evidence; 19 proposals (reported) |
+| Zodiac | v0.7 | handover text read | 327 topics; 120 evidence; 12 disputes; 17 cases (handover) |
+| Hierarchies | v0.6 | staging sidecar partially read; handover reported | 108 topics; 107 evidence; 41 maps; 19 conflicts (reported) |
+| Four Worlds | v0.6 | manuscript and model indexed excerpts; handover reported | 66 topics; 74 evidence; 36 propositions (reported) |
+| Earth/Malkuth | v0.6 | actual checkpoint excerpt; handover reported | 129 topics; 98 evidence; 66 relations (reported) |
+| Vulcan | v0.17 | actual amendment file read; full handover reported | 306 topics; 114 Steiner and 19 BOTA records (handover report) |
+| Macrocosm/chronology | handover v1.0; chronology v0.6 | actual handover read; dataset delta inherited | 397 events (380 + 17), 27 groups, 71 event sources; 199 Earth findings (handover) |
+| Constitution, karma, initiation | handover v1.0 | actual macrocosm handover read | 35 synthesis claims; 39 sources; 18 constitution comparisons (handover) |
+| Organs | macrocosm handover v1.0 | actual handover read; organ ledgers not independently recovered | 40 organ IDs; 253 selected claims (handover) |
+| Saturn | v1.0 reported | macrocosm handover read; release not directly inspected | 506 topics; 153 Steiner and seven BOTA records (handover) |
+| Major Arcana | v0.6 | prior row reconciliation; macro handover read | 128 evidence previously parsed |
+| Hidden paths | v0.9 | prior row reconciliation; macro handover read | 138 evidence previously parsed |
+| Minor Arcana | v0.1 | prior row reconciliation; zodiac handover read | 140 evidence previously parsed |
+| Independent review | latest full review unrecovered | prior Astra finding via macro handover | no new count |
+
+See [handover register](HANDOVER_INTAKE_v017.csv) for exact namespace, disposition and gate. Full private ledgers not imported; no duplicate witness counted as independent. Graph v0.6 contains 49 propositions, 28 source witness records and 17 conflict records; counts are structural. Prior 2,187 reconciliation rows unchanged, no claim of additional complete row reconciliation.
