@@ -1,0 +1,2 @@
+# Continuation checkpoint v0.19
+27 November 2026. Resume from master §§28 and EXPLANATORY_INTEGRATION_HANDOVER_v019.md, graph v0.8. SYN-101–107, LT-R50–58, LT-X18–19. All prior records and topology preserved. First reopen German GA26 16 Nov §4 and compare GA4 XII; then German GA107 17 June 1909 §§23–29 and GA89/91. Recover complete Divine Will, Earth and Vulcan ledgers; independent review. No deployment or main merge.
