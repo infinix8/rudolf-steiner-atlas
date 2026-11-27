@@ -1,0 +1,8 @@
+# Continuation checkpoint — v0.14
+27 November 2026
+
+Start from master v0.14 and relational pilot v0.3 on this research branch. Base main commit 42c9a79881d9c6f3379d0b4fad5cb2d282dbc9e3. Original master sections retained, v0.2 graph preserved as separate file. Read MASTER_RESEARCH_MANIFEST.md, CROSS_BRANCH_INTEGRATION_MATRIX.csv, CONTRADICTIONS_AND_OPEN_QUESTIONS.md and RESEARCH_DEPENDENCY_ROADMAP.md.
+
+Completed in this pass: direct fetch of master/protocol/graph; HP v0.9 and VP v0.6 proposal inspection; Jupiter tracker version correction; Mercury release audit and Vulcan manuscript excerpt recovery; fresh selected public primary paragraphs of GA237 8 Aug 1924 (RSP1977), GA136 13/14 Apr 1912 (SOL), GA4 IX (RSPI1963); 22-stream inventory; five new qualified graph statements and branch provenance overlay; all prior graph claims, edges, cards and conflicts retained. No original private diagram review, full German collation, independent PDF validation or complete Work/Codex transcript access. Source references to prior branch work do not imply fresh verification.
+
+Next exact action: recover the complete HP v0.9 and VP v0.6 evidence CSVs and actual relationship import JSON; compare their row keys against central graph v0.3, namespace IDs, retain source witness groups, filter restricted material, produce an explicit accepted/deferred/rejected import report. Then retrieve Jupiter v1.1 actual reader/evidence and Mercury v0.19 ledger; resolve GA317 print/plate discrepancy; obtain Saturn and Vulcan release gates. Recheck main head before merging. Do not repeat broad topic searches or publish private files.
