@@ -1,4 +1,4 @@
-# Contradictions and open questions — v0.18
+# Contradictions and open questions — v0.19
 27 November 2026. Preserve all LT-X01–07; no forced resolution.
 
 | ID | Issue | Evidence / competing positions | Disposition and exact next test |
@@ -35,3 +35,11 @@ Additional branch-level disputes remain in respective ledgers, not claimed exhau
 
 ## v0.18 reconciliation note
 Source-register URL joins do not settle the existing disputes. The verified chronology delta confirms dataset continuity, not any contested esoteric chronological claim. All prior conflict IDs and positions remain; no new closure.
+
+## v0.19 foundational qualifications
+| ID | Issue | Next test |
+|---|---|---|
+| LT-X03 | Universal vs individual authorship | GA4 X and public B.O.T.A. educational participation do not settle ultimate author; recover Divine Will ledger and compare authorized private witnesses offline. |
+| LT-X18 | GA4 XI vs GA110 V | Higher spiritual relation vs human-style purpose; figurative world-system plans not a script of particular motives. Revisit German critical editions. |
+| LT-X19 | GA26 Nov16 §4 | Transfer to physical/etheric bodies vs no effect of freedom-experience on those bodies. Test execution vs formative alteration in German and GA4 XII. |
+All older conflicts retained; no closure claimed.
