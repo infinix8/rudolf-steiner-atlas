@@ -1,6 +1,6 @@
 # The Living Tree — Unified Steiner–B.O.T.A. Cosmology
 
-**Master research document | v0.17 | 27 November 2026**
+**Master research document | v0.18 | 27 November 2026**
 **Status:** living comparative research framework, not a definitive reader or a verified identity system.
 
 ## 1. Permanent mandate
@@ -1112,3 +1112,9 @@ Macro handover reports chronology v0.6 at 397 events, including 17 NZ additions;
 The comparative hypothesis is not a sequence of ten cosmic events. Within Steiner's accounts, differentiated beings contribute to developing organization; changing conditions make individual appropriation possible; an individually motivated deed can contribute to new results. The Tree offers a complementary set of structural and symbolic questions about origin, relation, manifestation and consciousness. These strands can be studied together without declaring their metaphysical subjects identical. The strongest common research program is the analysis of mediated creativity, inherited conditions and actual contributions. The most consequential unresolved divergence remains who determines the content of an individual act. Keep rival models visible and do not promote restricted-source reports to verified direct B.O.T.A. claims.
 
 Changelog: v0.17 integrates seven newer handover streams at graded access levels, corrects GA231 locator usage, adds six scoped Steiner graph propositions and two alternate public source witnesses, retains all prior topology/claims/sources/conflicts, and adds typed open questions. No private course text, restricted locators, or Atlas changes. Full row import and independent review remain open.
+
+## 27. Source reconciliation and chronology delta v0.18
+
+**SYN-99 (method):** Four complete rendered source registers reconciled: zodiac 120, Four Worlds 74, Upper Tree 115, hierarchy 107; 416 rows, namespaced IDs retained. 27 exact cross-branch public URL groups and 15 exact URL aliases to canonical sources. Shared witness is not independent corroboration. Private/unclassified rows minimized to ID; no original course content, locators or paraphrases published. [Reconciliation report](HANDOVER_SOURCE_RECONCILIATION_REPORT_v018.md), [CSV](HANDOVER_SOURCE_RECONCILIATION_v018.csv), [structured sidecar](../research/living-tree-handover-reconciliation-v01.json). No new canonical claims promoted from inherited verification labels.
+
+**SYN-100 (method/S):** Directly compared actual chronology v0.5 and v0.6 datasets: 380 unchanged event records, 17 additions NZ01–NZ17, 397 total, all 27 groups and 71 sources unchanged; all parent/source references resolve. Parallel Earth audit: 199 findings, 246 relations, 32 comparisons, 69 source views. These independently checked record counts supersede handover-only status in SYN-97, not the earlier distinct 231-event central dataset. The new chronology records reinforce separation of nested cosmic embodiment, Earth form/life condition, historical-cultural recurrence and symbolic recurrence; no unsupported ordinal or numerical equivalence. All are doctrinal accounts. No changes to chronology/Atlas code or datasets. Graph v0.7 incorporates the metadata sidecar; 49 canonical propositions unchanged.
