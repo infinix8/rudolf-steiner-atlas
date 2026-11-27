@@ -1,4 +1,4 @@
-# Living Tree — research dependency and priority roadmap v0.14
+# Living Tree — research dependency and priority roadmap v0.17
 
 ## P0: acceptance gates
 1. Master coordinator: retrieve full latest HP and VP packages, compare stable IDs and preserve source witness groups; import only public-safe summaries. Read master v0.14 and this manifest. Deliver ID collision report and evidence dispositions, not merely counts.
@@ -16,3 +16,10 @@
 
 ## Publication gate
 Research-only branch; no live Atlas edits, no private course material, no merge or manual deployment until review. Graph can be used for research queries, not as a validated occult identity map. A full lossless evidence import and independent source audit remain open.
+
+## Next dependency order (v0.17 superseding priority)
+1. P0: independent review of SYN-89–98 and rival authorship models; GA4, GA13, GA26, GA107, GA89/91 German, exact authorized B.O.T.A. witnesses in private only.
+2. P0: complete missing handover and ledger recovery; preserve namespaces and version/hash; reconcile source witness families, not counts. Recover Saturn v1.0 and actual chronology v0.6 delta, organ records; no automatic promotion.
+3. P0: GA227/231 competing itinerary full contextual audit; check GA227 31 Aug; verify GA317 transmission independently.
+4. P1: test three cases in SYN-96 and four-world models with explicit actors, phases and counterexamples; resolve Heh derivative rows and original topology privately.
+5. P1: provisional coherent master reader with direct teachings and comparative hypotheses visibly separated; avoid new broad inventory passes until gaps justify them.
