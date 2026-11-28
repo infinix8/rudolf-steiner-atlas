@@ -88,6 +88,23 @@ jobs:
           python3 - <<'PY'
           import json
           from pathlib import Path
+          import re
+
+          root = Path('dist')
+          private_locator = re.compile(
+              r'chatgpt\.com/(?:library|api/library)|libfile_[a-z0-9]{8,}|sediment://|oai-library://|/workspace/scratch/',
+              re.I,
+          )
+          text_suffixes = {'.json', '.md', '.html', '.js', '.css', '.csv', '.tsv', '.svg', '.txt'}
+          flagged = [
+              str(path.relative_to(root)) for path in root.rglob('*')
+              if path.is_file() and path.suffix.lower() in text_suffixes
+              and private_locator.search(path.read_text(encoding='utf-8'))
+          ]
+          if flagged:
+              raise SystemExit('Private locator marker in Pages artifact: ' + ', '.join(sorted(flagged)))
+          for name in ('living-tree.html', 'living-tree.js', 'living-tree.css', 'data/living-tree-public.json'):
+              assert (root / 'atlas' / name).stat().st_size, f'Missing Living Tree artifact: {name}'
           manifest = json.loads(Path('dist/research/organ-current.json').read_text())
           base = Path('dist/research')
           for name, location in manifest['files'].items():
@@ -102,7 +119,6 @@ jobs:
               assert Path('dist', rel).is_file(), f'Missing Atlas asset: {rel}'
           # The published HTML embeds a snapshot of canonical research JSON for
           # direct file:// use. Fail the release when those copies drift apart.
-          import re
           snapshots = [
               ('atlas/human-evolution.html', 'evolution-data', 'human-evolution-concordance-v1.json'),
               ('atlas/evolution-story.html', 'evolution-data', 'human-evolution-concordance-v1.json'),

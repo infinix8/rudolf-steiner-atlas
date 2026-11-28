@@ -1,3 +1,9 @@
+## 2026-11-28 — Living Tree explorer
+
+- Added the Living Tree to homepage navigation, Living Cosmos, and the Planetary Tree.
+- Published the explorer's public evidence projection with 10 concepts and 17 source-linked relationships.
+- Cleared private locators from three legacy metadata records and added a release check for private locators in published files.
+
 ## 2026-11-06 — Guided reading and layered concepts
 
 - Added eight guided reading journeys with 41 stops from the existing editorial paths, shareable step URLs and contextual return links.

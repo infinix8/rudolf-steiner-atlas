@@ -58,6 +58,7 @@ try {
   await page.locator('#search-results [data-node="RS-09.05.01"]').first().click();
   await page.waitForURL(/#node=RS-09.05.01/);
   await page.getByText('spirit-self / Manas',{exact:true}).first().waitFor();
+  await page.getByRole('tab',{name:'Connections',exact:true}).click();
   assert(await page.getByRole('heading',{name:'Passage-linked relationships'}).count()===1,'concept page evidence panel missing');
   await page.goto(root+'/atlas/graph.html',{waitUntil:'networkidle'});
   await page.getByRole('heading',{name:'Follow the evidence between teachings'}).waitFor();

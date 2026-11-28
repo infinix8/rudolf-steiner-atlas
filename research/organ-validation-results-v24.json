@@ -53,7 +53,7 @@
         "wall_time_seconds": 0.108460555,
         "exit_code": 0,
         "original_token_count": 63,
-        "output": "Source: /workspace/scratch/18a018931d76/repo/taxonomy/taxonomy-v1.json\nNodes: 1006 by depth: {0: 6, 1: 26, 2: 150, 3: 785, 4: 39}\nCrosslinks: 30\nAnchor evidence topics: 12\nPASS: structural integrity; primary-source validity not independently checked\n"
+        "output": "Source: taxonomy/taxonomy-v1.json\nNodes: 1006 by depth: {0: 6, 1: 26, 2: 150, 3: 785, 4: 39}\nCrosslinks: 30\nAnchor evidence topics: 12\nPASS: structural integrity; primary-source validity not independently checked\n"
       }
     },
     {

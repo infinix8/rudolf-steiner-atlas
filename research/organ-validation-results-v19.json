@@ -16,7 +16,7 @@
     {
       "command": "python tools/validate_taxonomy.py ",
       "returncode": 0,
-      "stdout": "Source: /workspace/scratch/18a018931d76/repo/taxonomy/taxonomy-v1.json\nNodes: 1006 by depth: {0: 6, 1: 26, 2: 150, 3: 785, 4: 39}\nCrosslinks: 30\nAnchor evidence topics: 12\nPASS: structural integrity; primary-source validity not independently checked\n",
+      "stdout": "Source: taxonomy/taxonomy-v1.json\nNodes: 1006 by depth: {0: 6, 1: 26, 2: 150, 3: 785, 4: 39}\nCrosslinks: 30\nAnchor evidence topics: 12\nPASS: structural integrity; primary-source validity not independently checked\n",
       "stderr": ""
     },
     {

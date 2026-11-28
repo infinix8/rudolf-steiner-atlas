@@ -1,0 +1,579 @@
+{
+  "schema_version": "1.0.0",
+  "concepts": [
+    {
+      "id": "thrones",
+      "type": "spiritual_hierarchy",
+      "aliases": [
+        "Spirits of Will",
+        "Thronoi"
+      ],
+      "dimension": "cosmos",
+      "overview": "Steiner assigns the Thrones a formative role in the earliest embodiment. Different accounts ask what they contribute, who receives it, and how it becomes perceptible.",
+      "explanation": "GA 110 describes primordial fire substance as the beginning of a world-system plan becoming actual. GA 132 names a receiver for an offering and describes warmth as its outward appearance. The two lectures can be studied together while retaining the question each one answers.",
+      "label": "Thrones · Spirits of Will",
+      "open_question": "How closely do GA 110’s account of realization, GA 132’s account of the offering, and GA 13’s account of human development describe the same formative operation? The accounts name different recipients and results.",
+      "route": "agency.html"
+    },
+    {
+      "id": "cherubim",
+      "type": "spiritual_hierarchy",
+      "aliases": [
+        "Spirits of Harmony"
+      ],
+      "dimension": "cosmos",
+      "overview": "Cherubim appear as elaborators of an aim, recipients of an offering, and coordinators of planetary motion in distinct accounts.",
+      "explanation": "The word “receives” has two different objects here. GA 110 speaks about receiving aims for elaboration. GA 132 speaks about receiving the offering of the Thrones. GA 136 treats the relation of planetary motion to its system.",
+      "label": "Cherubim",
+      "route": "agency.html"
+    },
+    {
+      "id": "seraphim",
+      "type": "spiritual_hierarchy",
+      "aliases": [
+        "Spirits of Love"
+      ],
+      "dimension": "cosmos",
+      "overview": "In GA 110 the Seraphim receive the aims of a world system from the divine Trinity.",
+      "explanation": "GA 110 treats their role at a world-system beginning. GA 136 describes a different activity, spiritual relations among celestial bodies. Keep the initiating source and the field of each activity explicit.",
+      "label": "Seraphim",
+      "route": "agency.html"
+    },
+    {
+      "id": "kyriotetes",
+      "type": "spiritual_hierarchy",
+      "aliases": [
+        "Spirits of Wisdom",
+        "Dominions"
+      ],
+      "dimension": "cosmos",
+      "overview": "Steiner’s account distinguishes a capacity developed through Old Saturn from the giving of life in Old Sun.",
+      "explanation": "In GA 13, their interaction with Old Saturn develops their capacities. In Old Sun the developing human being receives a life body. GA 132 describes a different gift of wisdom with Archangels as recipients.",
+      "label": "Kyriotetes · Spirits of Wisdom",
+      "route": "agency.html"
+    },
+    {
+      "id": "sun",
+      "type": "cosmic_sphere",
+      "aliases": [
+        "Sun sphere",
+        "Solar sphere"
+      ],
+      "dimension": "cosmos",
+      "overview": "The spiritual Sun connects several strands of Steiner’s cosmology. The same solar language serves different purposes in the heart analogy and the journey between lives.",
+      "explanation": "GA 128 situates the heart and circulation in an inward cosmic image. GA 231 describes a return through the Sun and the formation of a spiritual heart germ. The latter is an event in a spiritual biography, with its own recipient and conditions.",
+      "label": "Sun",
+      "route": "planetary-sphere.html?sphere=sun"
+    },
+    {
+      "id": "heart",
+      "type": "organ",
+      "aliases": [
+        "Heart and circulation",
+        "Cardiovascular",
+        "organ-heart"
+      ],
+      "dimension": "human",
+      "overview": "Steiner discusses the heart in bodily, symbolic and spiritual-biographical contexts.",
+      "explanation": "The heart and circulation take a solar place in GA 128’s inner cosmic picture. GA 231 follows the spiritual germ of a future heart in the account of return to embodiment. Read these as esoteric teachings, with anatomy and physiology addressed separately.",
+      "label": "Heart and circulation",
+      "open_question": "How should the solar image of circulation, the early disposition of an organ, and the heart germ of a future life be related? The selected passages support separate lines of explanation.",
+      "route": "organ-detail.html?organ=organ-heart"
+    },
+    {
+      "id": "old-saturn",
+      "type": "cosmic_evolutionary_embodiment",
+      "aliases": [
+        "Ancient Saturn",
+        "First embodiment"
+      ],
+      "dimension": "evolution",
+      "overview": "Old Saturn is the first embodiment in Steiner’s esoteric chronology.",
+      "explanation": "GA 110 considers the realization of a world-system aim. GA 132 approaches Old Saturn through offering, warmth and time. GA 13 follows the emergence of the earliest physical disposition. Old Saturn belongs to Steiner’s chronology of embodiments. The present Saturn sphere belongs to a different series.",
+      "label": "Old Saturn",
+      "route": "chronology-time-dial.html#cos-saturn"
+    },
+    {
+      "id": "old-sun",
+      "type": "cosmic_evolutionary_embodiment",
+      "aliases": [
+        "Ancient Sun",
+        "Second embodiment"
+      ],
+      "dimension": "evolution",
+      "overview": "Old Sun is the second embodiment in Steiner’s evolutionary account.",
+      "explanation": "GA 13 describes the appearance of actual life in the developing human being. GA 132 describes a gift received by the Archangels that becomes effective later through reflection. The word “Sun” also names a sphere in present spiritual geography.",
+      "label": "Old Sun",
+      "route": "chronology-time-dial.html#cos-sun"
+    },
+    {
+      "id": "TIP",
+      "type": "sephirah",
+      "aliases": [
+        "Tiphareth",
+        "Tiferet",
+        "Tiphereth",
+        "Beauty",
+        "Sixth Sephirah"
+      ],
+      "dimension": "origins",
+      "overview": "Tiphareth is the sixth Sephirah, at the center of the Tree of Life in the Hermetic diagram used as a reference here.",
+      "explanation": "The central position provides an entry to solar symbolism in Western Hermetic Qabalah. The Planetary Tree uses this position as an editorial route to Steiner’s Sun dossier. Each tradition retains its own account and source.",
+      "label": "Tiphareth",
+      "open_question": "What can a comparison of solar symbolism and Steiner’s spiritual Sun illuminate? The relationship shown here establishes a reading route. A fuller comparison needs separate native evidence and a specified function.",
+      "route": "planetary-tree.html#tree"
+    },
+    {
+      "id": "ga132-offering",
+      "type": "spiritual_activity",
+      "aliases": [
+        "GA132 II",
+        "Old Saturn offering",
+        "Sacrifice"
+      ],
+      "dimension": "evolution",
+      "overview": "GA 132 follows a specific offering from the Thrones to the Cherubim and describes its appearance as warmth.",
+      "explanation": "The passage distinguishes a spiritual activity, its receiver, and the form in which the activity appears to observation. These distinctions guide the comparison with GA 110 and GA 13.",
+      "label": "The offering and warmth"
+    }
+  ],
+  "sources": {
+    "ga110-v": {
+      "ga": "GA 110",
+      "date": "1909-04-14",
+      "title": "Spiritual Hierarchies, Lecture V",
+      "url": "https://rsarchive.org/Lectures/GA110/English/SOL/19090414p01.html"
+    },
+    "ga132-ii": {
+      "ga": "GA 132",
+      "date": "1911-11-07",
+      "title": "True Aspects of Evolution, Lecture II",
+      "url": "https://rsarchive.org/Lectures/GA132/English/SOL/19111107p01.html"
+    },
+    "ga13-iv": {
+      "ga": "GA 13",
+      "date": "",
+      "title": "Occult Science, Chapter IV",
+      "url": "https://rsarchive.org/Books/GA013/English/AP1972/GA013_c04.html"
+    },
+    "ga136-vi": {
+      "ga": "GA 136",
+      "date": "1912-04-08",
+      "title": "Spiritual Entities in Heavenly Bodies and Nature Realms, Lecture VI",
+      "url": "https://rsarchive.org/Lectures/GA136/English/SOL/19120408p01.html"
+    },
+    "ga128-iv": {
+      "ga": "GA 128",
+      "date": "1911-03-23",
+      "title": "Fourth Lecture — GA 128. An Occult Physiology",
+      "url": "https://rsarchive.org/Lectures/GA128/English/SOL/19110323p01.html"
+    },
+    "ga231-iv": {
+      "ga": "GA 231",
+      "date": "1923-11-17",
+      "title": "Lecture IV — GA 231. Supersensible Man (1961)",
+      "url": "https://rsarchive.org/Lectures/GA231/English/APC1961/19231117p01.html"
+    },
+    "hermetic-tip": {
+      "ga": "",
+      "date": "",
+      "title": "Gerald del Campo, Introduction to Qabalah",
+      "url": "https://hermetic.net/casa_del_campo/introduction-to-qabalah"
+    }
+  },
+  "lanes": [
+    {
+      "id": "purpose",
+      "label": "World-system purpose",
+      "source": "ga110-v",
+      "stage": "Old Saturn · formation of a world system",
+      "limitation": "Steiner presents these activities figuratively. The passage follows an aim through stages of realization within its own account."
+    },
+    {
+      "id": "offering",
+      "label": "Offering and warmth",
+      "source": "ga132-ii",
+      "stage": "Old Saturn · sacrifice and manifestation",
+      "limitation": "The named recipient is the Cherubim. Warmth is described as the outward appearance of the offering."
+    },
+    {
+      "id": "constitution",
+      "label": "Bodily disposition and life",
+      "source": "ga13-iv",
+      "stage": "Old Saturn and Old Sun · development",
+      "limitation": "The authored account distinguishes the early physical disposition, the development of the Spirits of Wisdom, and the giving of life in Old Sun."
+    },
+    {
+      "id": "reflection",
+      "label": "Reception and return of light",
+      "source": "ga132-ii",
+      "stage": "Old Sun · reception and later efficacy",
+      "limitation": "Read this passage alongside the GA 13 life-body account. The gifts, recipients and stated results differ."
+    },
+    {
+      "id": "planetary",
+      "label": "Planetary activity",
+      "source": "ga136-vi",
+      "stage": "Planetary system · coordination",
+      "limitation": "Steiner distinguishes kinds of planetary activity by the level at which each hierarchy works."
+    },
+    {
+      "id": "organ",
+      "label": "Solar image of circulation",
+      "source": "ga128-iv",
+      "stage": "Human organization · occult physiology",
+      "limitation": "This analogy belongs to Steiner’s esoteric account of the body."
+    },
+    {
+      "id": "return",
+      "label": "Spiritual heart germ",
+      "source": "ga231-iv",
+      "stage": "Between lives · return through the Sun",
+      "limitation": "This is the second solar passage in the lecture’s own itinerary."
+    },
+    {
+      "id": "symbol",
+      "label": "Solar symbolism",
+      "source": "hermetic-tip",
+      "stage": "Western Hermetic Qabalah · comparative reading",
+      "limitation": "The Sun-to-Tiphareth route is an editorial comparison. The published Hermetic introduction supports the symbolic context."
+    }
+  ],
+  "relations": [
+    {
+      "id": "LTA-R01",
+      "lane": "purpose",
+      "predicate": "receives_from",
+      "actor": "Seraphim",
+      "recipient": "Seraphim",
+      "result": "A world-system aim becomes available for further elaboration.",
+      "locator": "§§5–7",
+      "concepts": [
+        "seraphim",
+        "old-saturn"
+      ],
+      "inherited_ids": [],
+      "grade": "D-S",
+      "context": "cosmic",
+      "tradition": "steiner",
+      "origin": "Divine Trinity"
+    },
+    {
+      "id": "LTA-R02",
+      "lane": "purpose",
+      "predicate": "transforms",
+      "actor": "Cherubim",
+      "recipient": "Cherubim",
+      "result": "The aims received from the Seraphim are worked into a plan capable of realization.",
+      "locator": "§7",
+      "concepts": [
+        "seraphim",
+        "cherubim",
+        "old-saturn"
+      ],
+      "inherited_ids": [
+        "LT-R50"
+      ],
+      "grade": "D-S",
+      "context": "cosmic",
+      "tradition": "steiner",
+      "origin": "Seraphim"
+    },
+    {
+      "id": "LTA-R03",
+      "lane": "purpose",
+      "predicate": "forms",
+      "actor": "Thrones",
+      "recipient": "The region assigned to the developing world-system",
+      "result": "Primordial fire substance gives a first reality to the plan.",
+      "locator": "§8",
+      "concepts": [
+        "thrones",
+        "cherubim",
+        "old-saturn"
+      ],
+      "inherited_ids": [],
+      "grade": "D-S",
+      "context": "cosmic",
+      "tradition": "steiner"
+    },
+    {
+      "id": "LTA-R04",
+      "lane": "offering",
+      "predicate": "gives_to",
+      "actor": "Thrones",
+      "recipient": "Cherubim",
+      "result": "The offering appears outwardly as warmth.",
+      "locator": "§2",
+      "concepts": [
+        "thrones",
+        "cherubim",
+        "old-saturn",
+        "ga132-offering"
+      ],
+      "inherited_ids": [],
+      "grade": "D-S",
+      "context": "cosmic",
+      "tradition": "steiner"
+    },
+    {
+      "id": "LTA-R05",
+      "lane": "offering",
+      "predicate": "makes_possible",
+      "actor": "Thrones and Cherubim in the offering account",
+      "recipient": "The developing temporal realm",
+      "result": "The lecture relates the emergence of the Spirits of Personality to ancient time.",
+      "locator": "§3",
+      "concepts": [
+        "thrones",
+        "cherubim",
+        "old-saturn",
+        "ga132-offering"
+      ],
+      "inherited_ids": [],
+      "grade": "D-S",
+      "context": "cosmic",
+      "tradition": "steiner"
+    },
+    {
+      "id": "LTA-R06",
+      "lane": "constitution",
+      "predicate": "forms",
+      "actor": "Spirits of Will",
+      "recipient": "Earliest human physical disposition",
+      "result": "The first basis for later bodily development is laid within Old Saturn’s evolution.",
+      "locator": "Chapter IV §§10, 19–20, 30–31",
+      "concepts": [
+        "thrones",
+        "old-saturn"
+      ],
+      "inherited_ids": [
+        "HE01",
+        "CE01"
+      ],
+      "grade": "S",
+      "context": "human",
+      "tradition": "steiner",
+      "stage": "Old Saturn"
+    },
+    {
+      "id": "LTA-R07",
+      "lane": "constitution",
+      "predicate": "acquires",
+      "actor": "Spirits of Wisdom",
+      "recipient": "Spirits of Wisdom",
+      "result": "Life reflected back through Old Saturn furthers their own development.",
+      "locator": "Chapter IV §30",
+      "concepts": [
+        "kyriotetes",
+        "old-saturn"
+      ],
+      "inherited_ids": [],
+      "grade": "D-S",
+      "context": "cosmic",
+      "tradition": "steiner",
+      "stage": "Old Saturn"
+    },
+    {
+      "id": "LTA-R08",
+      "lane": "constitution",
+      "predicate": "gives_to",
+      "actor": "Spirits of Wisdom",
+      "recipient": "Developing human being in Old Sun",
+      "result": "An actual life body makes inner vital activity possible.",
+      "locator": "Chapter IV §§31–32",
+      "concepts": [
+        "kyriotetes",
+        "old-sun"
+      ],
+      "inherited_ids": [],
+      "grade": "D-S",
+      "context": "human",
+      "tradition": "steiner",
+      "stage": "Old Sun"
+    },
+    {
+      "id": "LTA-R09",
+      "lane": "reflection",
+      "predicate": "gives_to",
+      "actor": "Spirits of Wisdom",
+      "recipient": "Archangels",
+      "result": "The Archangels receive the gifts of wisdom that they later radiate back.",
+      "locator": "§§12–17",
+      "concepts": [
+        "kyriotetes",
+        "old-sun"
+      ],
+      "inherited_ids": [],
+      "grade": "D-S",
+      "context": "cosmic",
+      "tradition": "steiner"
+    },
+    {
+      "id": "LTA-R10",
+      "lane": "reflection",
+      "predicate": "reflects",
+      "actor": "Archangels",
+      "recipient": "The Old Sun world described in the lecture",
+      "result": "Earlier gifts become effective again through radiation and reflection.",
+      "locator": "§§16–20",
+      "concepts": [
+        "old-sun"
+      ],
+      "inherited_ids": [],
+      "grade": "S",
+      "context": "cosmic",
+      "tradition": "steiner"
+    },
+    {
+      "id": "LTA-R11",
+      "lane": "planetary",
+      "predicate": "sustains",
+      "actor": "Thrones",
+      "recipient": "The planet as a moving body",
+      "result": "The planet receives impulses for change of position.",
+      "locator": "§1",
+      "concepts": [
+        "thrones"
+      ],
+      "inherited_ids": [
+        "HE15"
+      ],
+      "grade": "D-S",
+      "context": "cosmic",
+      "tradition": "steiner"
+    },
+    {
+      "id": "LTA-R12",
+      "lane": "planetary",
+      "predicate": "mediates",
+      "actor": "Cherubim",
+      "recipient": "The motion of an individual planet within its system",
+      "result": "The motion is coordinated with that of the wider system.",
+      "locator": "§1",
+      "concepts": [
+        "cherubim"
+      ],
+      "inherited_ids": [
+        "LT-R13",
+        "HE16"
+      ],
+      "grade": "D-S",
+      "context": "cosmic",
+      "tradition": "steiner"
+    },
+    {
+      "id": "LTA-R13",
+      "lane": "planetary",
+      "predicate": "mediates",
+      "actor": "Seraphim",
+      "recipient": "The relation of the planet to other celestial bodies",
+      "result": "The lecture describes a field of spiritual communication.",
+      "locator": "§1",
+      "concepts": [
+        "seraphim"
+      ],
+      "inherited_ids": [
+        "LT-R14",
+        "HE17"
+      ],
+      "grade": "D-S",
+      "context": "cosmic",
+      "tradition": "steiner"
+    },
+    {
+      "id": "LTA-R14",
+      "lane": "organ",
+      "predicate": "is_symbolically_associated_with",
+      "actor": "Solar image in the inner cosmic system",
+      "recipient": "Heart and circulation",
+      "result": "The analogy situates circulation within a picture of interdependent organs.",
+      "locator": "§13",
+      "concepts": [
+        "sun",
+        "heart"
+      ],
+      "inherited_ids": [
+        "OC01"
+      ],
+      "grade": "D-S",
+      "context": "human",
+      "tradition": "steiner",
+      "role_label": "Image in this account"
+    },
+    {
+      "id": "LTA-R15",
+      "lane": "return",
+      "predicate": "prepares",
+      "actor": "Second passage through the Sun in GA 231",
+      "recipient": "Individual preparing for future embodiment",
+      "result": "The spiritual heart germ becomes formative for a later life.",
+      "locator": "§§17–21",
+      "concepts": [
+        "sun",
+        "heart"
+      ],
+      "inherited_ids": [
+        "LT-R47",
+        "OC17"
+      ],
+      "grade": "D-S",
+      "context": "human",
+      "tradition": "steiner",
+      "role_label": "Biographical setting"
+    },
+    {
+      "id": "LTA-R16",
+      "lane": "symbol",
+      "predicate": "is_symbolically_associated_with",
+      "actor": "Solar symbolism",
+      "recipient": "Tiphareth as a position on the Tree",
+      "result": "A comparative reading route connects the Tree position with the separate Sun dossier.",
+      "locator": "Section on Tiphareth",
+      "concepts": [
+        "sun",
+        "TIP"
+      ],
+      "inherited_ids": [],
+      "grade": "C",
+      "context": "cosmic",
+      "tradition": "comparative",
+      "role_label": "Symbolic association"
+    },
+    {
+      "id": "LTA-R17",
+      "lane": "return",
+      "predicate": "mediates",
+      "actor": "Second Hierarchy, including the Spirits of Wisdom",
+      "recipient": "Individual experiencing the spiritual heart",
+      "result": "The lecture relates the spiritual heartbeat to the words and deeds of the Second Hierarchy.",
+      "locator": "§§20–21",
+      "concepts": [
+        "sun",
+        "heart",
+        "kyriotetes"
+      ],
+      "inherited_ids": [],
+      "grade": "D-S",
+      "context": "human",
+      "tradition": "steiner"
+    }
+  ],
+  "layers": [
+    {
+      "id": "steiner",
+      "label": "Steiner",
+      "traditions": [
+        "steiner"
+      ]
+    },
+    {
+      "id": "comparison",
+      "label": "Steiner and Tree of Life",
+      "traditions": [
+        "steiner",
+        "comparative"
+      ]
+    }
+  ]
+}

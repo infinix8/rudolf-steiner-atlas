@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Explore source-specific relationships between spiritual hierarchies, cosmic evolution, and the human being.">
+  <title>The Living Tree · Rudolf Steiner Atlas</title>
+  <link rel="stylesheet" href="living-cosmos.css">
+  <link rel="stylesheet" href="living-tree.css">
+  <script type="module" src="living-tree.js"></script>
+</head>
+<body>
+  <a class="skip" href="#tree-explorer">Skip to explorer</a>
+  <header class="topbar">
+    <a class="brand" href="../index.html"><span aria-hidden="true">✧</span> Rudolf Steiner Atlas</a>
+    <nav aria-label="Related Atlas views">
+      <a href="living-cosmos.html">Living Cosmos</a>
+      <a href="planetary-tree.html">Planetary Tree</a>
+      <a href="chronology-time-dial.html">Time dial</a>
+      <a href="body.html">Body map</a>
+    </nav>
+  </header>
+  <main>
+    <section class="hero tree-hero" aria-labelledby="page-title">
+      <h1 id="page-title">The Living Tree</h1>
+      <p>Follow the relationships between spiritual beings, cosmic evolution and the human being through Steiner’s individual source accounts.</p>
+      <div class="hero-orb" aria-hidden="true"><i></i><i></i><i></i><b></b></div>
+    </section>
+    <section class="explorer tree-explorer" id="tree-explorer" aria-label="Living Tree explorer">
+      <div class="tree-controls">
+        <div><label for="tree-layer">View</label><select id="tree-layer"></select></div>
+        <div><label for="tree-search">Find a concept or source</label><input type="search" id="tree-search" placeholder="e.g. GA 132, heart, Tiferet" autocomplete="off"></div>
+        <div><label for="tree-evidence">Evidence</label><select id="tree-evidence"><option value="">All grades</option><option value="D-S">Direct Steiner account</option><option value="S">Contextual reading</option><option value="C">Comparative reading</option></select></div>
+      </div>
+      <p id="tree-status" class="visually-hidden" role="status"></p>
+      <div class="tree-workspace">
+        <nav aria-label="Concepts" class="panel tree-concepts" id="tree-concepts"><p>Loading concepts…</p></nav>
+        <article class="panel tree-detail" id="tree-detail" aria-label="Selected concept"></article>
+      </div>
+      <noscript><p>The relationship explorer uses JavaScript. Continue with the <a href="living-cosmos.html">Living Cosmos</a> or the <a href="planetary-tree.html">Planetary Tree</a>.</p></noscript>
+    </section>
+  </main>
+  <footer><a href="living-cosmos.html">Return to Living Cosmos</a></footer>
+</body>
+</html>

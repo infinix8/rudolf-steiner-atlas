@@ -34,6 +34,7 @@ const kindLabels = {
   process: 'Process', being: 'Spiritual being or figure', system: 'Bodily system',
   epoch: 'Epoch in Steiner’s account', zodiac: 'Zodiacal structure', oracle: 'Initiatory tradition',
 };
+const livingTreeConcepts = new Set(['thrones', 'cherubim', 'seraphim', 'kyriotetes', 'sun', 'heart', 'old-saturn', 'old-sun']);
 const organLabels = { brain: 'B', lungs: 'Lu', heart: 'H', liver: 'Li' };
 let graph;
 let nodes;
@@ -272,6 +273,9 @@ function renderInspector() {
   const open = new Set([...inspector.querySelectorAll('details[open]')].map((item) => item.id));
   inspector.replaceChildren(element('div', 'edge-class', kindLabels[node.kind]), element('h2', '', node.label));
   if (node.route) inspector.append(link('Open the related Atlas page ↗', node.route, 'route'));
+  if (livingTreeConcepts.has(node.id)) {
+    inspector.append(link('Compare the source accounts ↗', 'living-tree.html?concept=' + node.id, 'route'));
+  }
   if (state.view === 'evidence') {
     inspector.append(element('p', 'hint', 'Open a relationship to read the claim, its context and the underlying Steiner passages.'));
     return;
